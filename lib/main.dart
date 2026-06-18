@@ -9,6 +9,7 @@ import 'services/streak_service.dart';
 import 'providers/quiz_provider.dart';
 import 'providers/streak_provider.dart';
 import 'screens/main_scaffold.dart';
+import 'theme/app_theme.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -41,11 +42,7 @@ class WenyanApp extends StatelessWidget {
     return MaterialApp(
       title: '文言打卡',
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: const Color(0xFF3B3F8C), surface: const Color(0xFFFBFAF5)),
-        fontFamily: 'Noto Sans TC',
-        useMaterial3: true,
-      ),
+      theme: AppTheme.theme,
       home: const MainScaffold(),
     );
   }
