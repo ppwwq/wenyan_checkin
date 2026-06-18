@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
+import 'package:intl/date_symbol_data_local.dart';
 import 'package:provider/provider.dart';
 import 'services/database_service.dart';
 import 'services/seed_service.dart';
@@ -21,6 +23,8 @@ void main() async {
   final streakService = await StreakService.create();
   final quizService = QuizService(db, ebbinghausService);
 
+  await initializeDateFormatting('zh_HK');
+
   runApp(
     MultiProvider(
       providers: [
@@ -42,7 +46,9 @@ class WenyanApp extends StatelessWidget {
     return MaterialApp(
       title: '文言打卡',
       debugShowCheckedModeBanner: false,
-      theme: AppTheme.theme,
+      theme: AppTheme.theme.copyWith(
+        textTheme: GoogleFonts.notoSansTcTextTheme(AppTheme.theme.textTheme),
+      ),
       home: const MainScaffold(),
     );
   }

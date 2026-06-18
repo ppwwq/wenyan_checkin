@@ -102,14 +102,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.0.0"
-  flutter_lucide:
-    dependency: "direct main"
-    description:
-      name: flutter_lucide
-      sha256: d2866c9ba75b2300e73a888489f0d7ef1d225e1c352d7e7f5c7fdff7d04e294c
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.11.0"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -284,7 +276,7 @@ packages:
     source: hosted
     version: "1.9.1"
   path_provider:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: path_provider
       sha256: a7f4874f987173da295a61c181b8ee71dab59b332a486b391babf26a1b884825
