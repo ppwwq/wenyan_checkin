@@ -18,11 +18,16 @@ class DatabaseService {
       path,
       version: _version,
       onCreate: _onCreate,
+      onConfigure: (db) async {
+        await db.execute('PRAGMA foreign_keys = ON');
+      },
+      onUpgrade: _onUpgrade,
     );
   }
 
   static Future<void> _onCreate(Database db, int version) async {
-    await db.execute('''
+    await db.transaction((txn) async {
+      await txn.execute('''
       CREATE TABLE essays (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
         title TEXT NOT NULL,
@@ -37,7 +42,7 @@ class DatabaseService {
       )
     ''');
 
-    await db.execute('''
+      await txn.execute('''
       CREATE TABLE annotations (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
         essay_id INTEGER NOT NULL REFERENCES essays(id),
@@ -47,7 +52,7 @@ class DatabaseService {
       )
     ''');
 
-    await db.execute('''
+      await txn.execute('''
       CREATE TABLE translations (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
         essay_id INTEGER NOT NULL REFERENCES essays(id),
@@ -57,7 +62,7 @@ class DatabaseService {
       )
     ''');
 
-    await db.execute('''
+      await txn.execute('''
       CREATE TABLE questions (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
         essay_id INTEGER NOT NULL REFERENCES essays(id),
@@ -75,7 +80,7 @@ class DatabaseService {
       )
     ''');
 
-    await db.execute('''
+      await txn.execute('''
       CREATE TABLE users (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
         name TEXT NOT NULL,
@@ -84,7 +89,7 @@ class DatabaseService {
       )
     ''');
 
-    await db.execute('''
+      await txn.execute('''
       CREATE TABLE study_records (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
         user_id INTEGER NOT NULL REFERENCES users(id),
@@ -95,21 +100,23 @@ class DatabaseService {
         last_review_date TEXT,
         next_review_date TEXT,
         ease_factor REAL NOT NULL DEFAULT 2.5,
-        status TEXT NOT NULL DEFAULT 'learning'
+        status TEXT NOT NULL DEFAULT 'learning',
+        UNIQUE(user_id, target_type, target_id)
       )
     ''');
 
-    await db.execute('''
+      await txn.execute('''
       CREATE TABLE daily_logs (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
         user_id INTEGER NOT NULL REFERENCES users(id),
         date TEXT NOT NULL,
         questions_done INTEGER NOT NULL DEFAULT 0,
-        target_met INTEGER NOT NULL DEFAULT 0
+        target_met INTEGER NOT NULL DEFAULT 0,
+        UNIQUE(user_id, date)
       )
     ''');
 
-    await db.execute('''
+      await txn.execute('''
       CREATE TABLE mistake_log (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
         user_id INTEGER NOT NULL REFERENCES users(id),
@@ -120,6 +127,11 @@ class DatabaseService {
         mastered INTEGER NOT NULL DEFAULT 0
       )
     ''');
+    });
+  }
+
+  static Future<void> _onUpgrade(Database db, int oldVersion, int newVersion) async {
+    // Future migrations go here
   }
 
   static Future<void> close() async {
