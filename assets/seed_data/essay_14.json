@@ -1,0 +1,250 @@
+{
+  "title": "念奴嬌·赤壁懷古",
+  "original_text": "大江東去，浪淘盡、千古風流人物故壘西邊，人道是、三國周郎赤壁亂石穿空，驚濤拍岸，捲起千堆雪江山如畫，一時多少豪傑遙想公瑾當年，小喬初嫁了，雄姿英發羽扇綸巾，談笑間、檣櫓灰飛煙滅故國神遊，多情應笑我，早生華髮人間如夢，一尊還酹江月",
+  "original_segments": [
+    "大江東去，浪淘盡、千古風流人物",
+    "故壘西邊，人道是、三國周郎赤壁",
+    "亂石穿空，驚濤拍岸，捲起千堆雪",
+    "江山如畫，一時多少豪傑",
+    "遙想公瑾當年，小喬初嫁了，雄姿英發",
+    "羽扇綸巾，談笑間、檣櫓灰飛煙滅",
+    "故國神遊，多情應笑我，早生華髮",
+    "人間如夢，一尊還酹江月"
+  ],
+  "translation_segments": [
+    "長江浩浩蕩蕩向東流去，滔滔巨浪淘盡千古英雄人物",
+    "舊堡壘的西邊，人們說那就是三國周瑜大敗曹操的赤壁",
+    "陡峭不平的石壁直刺天空，大浪拍擊著江岸，激起一堆堆雪白的浪花",
+    "江山如一幅圖畫，那個時代涌現出多少英雄豪傑",
+    "回憶當年的周瑜，小喬剛嫁給他，他年經有為，英姿奮發",
+    "手握羽扇，頭戴綸巾，談笑之間，把強敵的戰船燒得灰飛煙滅",
+    "（我）懷想三國舊事，可笑我多情善感，早生白髮",
+    "人間猶如一場夢，且灑一杯酒祭奠江上的明月"
+  ],
+  "annotations": [
+    {
+      "word": "大江",
+      "meaning": "長江"
+    },
+    {
+      "word": "淘",
+      "meaning": "沖洗"
+    },
+    {
+      "word": "風流",
+      "meaning": "傑出"
+    },
+    {
+      "word": "故",
+      "meaning": "舊的"
+    },
+    {
+      "word": "壘",
+      "meaning": "堡壘"
+    },
+    {
+      "word": "周郎",
+      "meaning": "周瑜"
+    },
+    {
+      "word": "亂",
+      "meaning": "陡峭"
+    },
+    {
+      "word": "石",
+      "meaning": "石壁"
+    },
+    {
+      "word": "濤",
+      "meaning": "浪濤"
+    },
+    {
+      "word": "雪",
+      "meaning": "浪花"
+    },
+    {
+      "word": "豪傑",
+      "meaning": "英雄"
+    },
+    {
+      "word": "遙想",
+      "meaning": "回憶"
+    },
+    {
+      "word": "檣",
+      "meaning": "船桅"
+    },
+    {
+      "word": "櫓",
+      "meaning": "船槳"
+    },
+    {
+      "word": "多情",
+      "meaning": "多愁善感"
+    },
+    {
+      "word": "華",
+      "meaning": "花白"
+    },
+    {
+      "word": "一尊",
+      "meaning": "一杯酒"
+    }
+  ],
+  "id": 14,
+  "questions": [
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「大江」的意思是？",
+      "correct_answer": "長江",
+      "explanation": "「大江」即長江。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「淘」的意思是？",
+      "correct_answer": "沖洗",
+      "explanation": "「淘」即沖洗。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「風流」的意思是？",
+      "correct_answer": "傑出",
+      "explanation": "「風流」即傑出。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「故」的意思是？",
+      "correct_answer": "舊的",
+      "explanation": "「故」即舊的。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「壘」的意思是？",
+      "correct_answer": "堡壘",
+      "explanation": "「壘」即堡壘。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「周郎」的意思是？",
+      "correct_answer": "周瑜",
+      "explanation": "「周郎」即周瑜。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「亂」的意思是？",
+      "correct_answer": "陡峭",
+      "explanation": "「亂」即陡峭。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「石」的意思是？",
+      "correct_answer": "石壁",
+      "explanation": "「石」即石壁。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「濤」的意思是？",
+      "correct_answer": "浪濤",
+      "explanation": "「濤」即浪濤。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「雪」的意思是？",
+      "correct_answer": "浪花",
+      "explanation": "「雪」即浪花。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「豪傑」的意思是？",
+      "correct_answer": "英雄",
+      "explanation": "「豪傑」即英雄。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「遙想」的意思是？",
+      "correct_answer": "回憶",
+      "explanation": "「遙想」即回憶。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「檣」的意思是？",
+      "correct_answer": "船桅",
+      "explanation": "「檣」即船桅。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「櫓」的意思是？",
+      "correct_answer": "船槳",
+      "explanation": "「櫓」即船槳。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「多情」的意思是？",
+      "correct_answer": "多愁善感",
+      "explanation": "「多情」即多愁善感。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「華」的意思是？",
+      "correct_answer": "花白",
+      "explanation": "「華」即花白。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「一尊」的意思是？",
+      "correct_answer": "一杯酒",
+      "explanation": "「一尊」即一杯酒。",
+      "source": "auto_generated"
+    }
+  ]
+}

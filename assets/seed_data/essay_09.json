@@ -1,0 +1,1534 @@
+{
+  "title": "岳陽樓記",
+  "original_text": "慶曆四年春，滕子京謫守巴陵郡越明年，政通人和，百廢具興乃重修岳陽樓，增其舊制，刻唐賢、今人詩賦於其上屬予作文以記之予觀夫巴陵勝狀，在洞庭一湖銜遠山，吞長江，浩浩湯湯，橫無際涯朝暉夕陰，氣象萬千此則岳陽樓之大觀也前人之述備矣然則北通巫峽，南極瀟湘遷客騷人，多會於此覽物之情，得無異乎若夫霪雨霏霏，連月不開陰風怒號，濁浪排空日星隱耀，山岳潛形商旅不行，檣傾楫摧薄暮冥冥，虎嘯猿啼登斯樓也，則有去國懷鄉憂讒畏譏，滿目蕭然，感極而悲者矣至若春和景明，波瀾不驚上下天光，一碧萬頃沙鷗翔集，錦鱗游泳岸芷汀蘭，郁郁青青而或長煙一空，皓月千里浮光躍金，靜影沉璧漁歌互答，此樂何極登斯樓也，則有心曠神怡寵辱皆忘，把酒臨風，其喜洋洋者矣嗟夫！予嘗求古仁人之心，或異二者之為何哉？不以物喜，不以己悲居廟堂之高，則憂其民處江湖之遠，則憂其君是進亦憂，退亦憂然則何時而樂耶其必曰先天下之憂而憂，後天下之樂而樂歟噫微斯人，吾誰與歸",
+  "original_segments": [
+    "慶曆四年春，滕子京謫守巴陵郡",
+    "越明年，政通人和，百廢具興",
+    "乃重修岳陽樓，增其舊制，刻唐賢、今人詩賦於其上",
+    "屬予作文以記之",
+    "予觀夫巴陵勝狀，在洞庭一湖",
+    "銜遠山，吞長江，浩浩湯湯，橫無際涯",
+    "朝暉夕陰，氣象萬千",
+    "此則岳陽樓之大觀也",
+    "前人之述備矣",
+    "然則北通巫峽，南極瀟湘",
+    "遷客騷人，多會於此",
+    "覽物之情，得無異乎",
+    "若夫霪雨霏霏，連月不開",
+    "陰風怒號，濁浪排空",
+    "日星隱耀，山岳潛形",
+    "商旅不行，檣傾楫摧",
+    "薄暮冥冥，虎嘯猿啼",
+    "登斯樓也，則有去國懷鄉",
+    "憂讒畏譏，滿目蕭然，感極而悲者矣",
+    "至若春和景明，波瀾不驚",
+    "上下天光，一碧萬頃",
+    "沙鷗翔集，錦鱗游泳",
+    "岸芷汀蘭，郁郁青青",
+    "而或長煙一空，皓月千里",
+    "浮光躍金，靜影沉璧",
+    "漁歌互答，此樂何極",
+    "登斯樓也，則有心曠神怡",
+    "寵辱皆忘，把酒臨風，其喜洋洋者矣",
+    "嗟夫！予嘗求古仁人之心，或異二者之為",
+    "何哉？不以物喜，不以己悲",
+    "居廟堂之高，則憂其民",
+    "處江湖之遠，則憂其君",
+    "是進亦憂，退亦憂",
+    "然則何時而樂耶",
+    "其必曰",
+    "先天下之憂而憂，後天下之樂而樂",
+    "歟",
+    "噫",
+    "微斯人，吾誰與歸"
+  ],
+  "translation_segments": [
+    "慶曆四年的春天，滕子京遭貶官改任巴陵郡的太守",
+    "到了第二年，政事通達、民生和樂，各種廢弛的事務，都再度興辦起來",
+    "於是重新整修岳陽樓，擴充它舊有的規模，並且刻寫了唐代傑出者以及現代文人的詩賦作品在那上面",
+    "囑託我寫篇文章來記述這件事",
+    "依我看來，巴陵郡的美景，都集中在洞庭湖上",
+    "它銜接遠處的山嶺，容納長江的流水，洶湧澎湃，寬廣無邊",
+    "早晨陽光燦爛，傍晚暮靄沉沉，天氣、景象變化萬千",
+    "這就是岳陽樓最壯麗的景觀",
+    "以前的人所作的描述已經很詳盡了",
+    "然而向北通到巫峽，向南抵達瀟湘二水",
+    "失意的逐客、多愁的詩人，多數會集在這個地方",
+    "他們觀賞景物的心情，難道都會一樣嗎",
+    "像細雨綿綿地下著，連續幾個月都不放晴的天氣",
+    "陰冷的風猛烈地吹，污濁的波浪激盪到空中",
+    "太陽、群星隱沒了光芒，山峰嶺岳遮蔽了形體",
+    "商人、旅客無法通行，帆柱傾倒、船槳斷折",
+    "到了傍晚天色昏暗，傳來一陣陣老虎怒吼及猿猴哀號的聲音",
+    "此時爬上這樓臺，就會有一種遠離祖國、懷念故鄉",
+    "擔心受惡言中傷、害怕被奸人嘲諷，滿眼淒涼，感觸至深而悲從中來的心情了",
+    "遇到像春氣和暖風光明媚的天氣，水面平靜無波",
+    "從上到下的天色，橫亙萬里一片碧澄澄",
+    "沙洲上成群的鷗鳥在飛舞、棲息，美麗的魚兒在水中游來游去",
+    "岸上的芷草、水邊的蘭花，香噴噴的長得很茂盛",
+    "有時遠近雲煙全部消散，明月普照無垠的湖面",
+    "浮泛的月色閃爍著點點金光，靜止的月影有如沉浸在水中的璧玉",
+    "漁夫的歌聲此起彼落，這樣的快樂那有止境呢",
+    "此時登上這樓臺，就會有一種胸襟開朗、精神愉悅",
+    "得失榮辱全都忘記，舉杯迎風，歡喜洋溢的心情了",
+    "唉！我曾經探討古代仁者的心思，和遷客、騷人兩者的行徑有所不同",
+    "怎樣呢？不因身外之物而高興，不因個人遭遇而悲傷",
+    "身居朝廷高位，就憂慮他的人民",
+    "身處民間邊地，就憂慮他的國君",
+    "正是進也憂慮，退也憂慮",
+    "這樣的話那要到什麼時候才快樂呢",
+    "他一定說",
+    "在天下人還沒憂慮之前就先憂慮，在天下人都快樂之後才快樂",
+    "吧",
+    "啊",
+    "如果沒有這種人，我要去跟從誰呢"
+  ],
+  "annotations": [
+    {
+      "word": "謫",
+      "meaning": "降職"
+    },
+    {
+      "word": "守",
+      "meaning": "太守"
+    },
+    {
+      "word": "越",
+      "meaning": "到"
+    },
+    {
+      "word": "通",
+      "meaning": "順利"
+    },
+    {
+      "word": "和",
+      "meaning": "和樂"
+    },
+    {
+      "word": "廢",
+      "meaning": "荒廢"
+    },
+    {
+      "word": "具",
+      "meaning": "全"
+    },
+    {
+      "word": "興",
+      "meaning": "復興"
+    },
+    {
+      "word": "乃",
+      "meaning": "於是"
+    },
+    {
+      "word": "增",
+      "meaning": "擴大"
+    },
+    {
+      "word": "制",
+      "meaning": "規模"
+    },
+    {
+      "word": "屬",
+      "meaning": "囑咐"
+    },
+    {
+      "word": "予",
+      "meaning": "我"
+    },
+    {
+      "word": "予",
+      "meaning": "我"
+    },
+    {
+      "word": "勝",
+      "meaning": "美"
+    },
+    {
+      "word": "狀",
+      "meaning": "形勢"
+    },
+    {
+      "word": "銜",
+      "meaning": "含着"
+    },
+    {
+      "word": "吞",
+      "meaning": "吞沒"
+    },
+    {
+      "word": "朝",
+      "meaning": "清晨"
+    },
+    {
+      "word": "暉",
+      "meaning": "陽光"
+    },
+    {
+      "word": "夕",
+      "meaning": "傍晚"
+    },
+    {
+      "word": "陰",
+      "meaning": "陰暗"
+    },
+    {
+      "word": "氣象",
+      "meaning": "景象"
+    },
+    {
+      "word": "萬千",
+      "meaning": "千變萬化"
+    },
+    {
+      "word": "此",
+      "meaning": "這"
+    },
+    {
+      "word": "則",
+      "meaning": "就是"
+    },
+    {
+      "word": "大觀",
+      "meaning": "雄偉景象"
+    },
+    {
+      "word": "述",
+      "meaning": "記述"
+    },
+    {
+      "word": "備",
+      "meaning": "詳盡"
+    },
+    {
+      "word": "極",
+      "meaning": "盡頭"
+    },
+    {
+      "word": "遷",
+      "meaning": "遷謫"
+    },
+    {
+      "word": "騷人",
+      "meaning": "詩人"
+    },
+    {
+      "word": "多",
+      "meaning": "大多"
+    },
+    {
+      "word": "會",
+      "meaning": "聚集"
+    },
+    {
+      "word": "覽",
+      "meaning": "觀賞"
+    },
+    {
+      "word": "物",
+      "meaning": "景物"
+    },
+    {
+      "word": "得無",
+      "meaning": "能不"
+    },
+    {
+      "word": "異",
+      "meaning": "不同"
+    },
+    {
+      "word": "若夫",
+      "meaning": "好像"
+    },
+    {
+      "word": "霪",
+      "meaning": "不斷"
+    },
+    {
+      "word": "開",
+      "meaning": "放晴"
+    },
+    {
+      "word": "陰",
+      "meaning": "寒冷"
+    },
+    {
+      "word": "號",
+      "meaning": "呼號"
+    },
+    {
+      "word": "濁",
+      "meaning": "渾濁"
+    },
+    {
+      "word": "排空",
+      "meaning": "衝向天空"
+    },
+    {
+      "word": "隱",
+      "meaning": "隱藏"
+    },
+    {
+      "word": "耀",
+      "meaning": "光輝"
+    },
+    {
+      "word": "潛",
+      "meaning": "隱藏"
+    },
+    {
+      "word": "形",
+      "meaning": "形迹"
+    },
+    {
+      "word": "行",
+      "meaning": "前行"
+    },
+    {
+      "word": "檣",
+      "meaning": "船桅"
+    },
+    {
+      "word": "傾",
+      "meaning": "傾倒"
+    },
+    {
+      "word": "楫",
+      "meaning": "船槳"
+    },
+    {
+      "word": "摧",
+      "meaning": "折斷"
+    },
+    {
+      "word": "薄暮",
+      "meaning": "傍晚"
+    },
+    {
+      "word": "冥冥",
+      "meaning": "幽暗"
+    },
+    {
+      "word": "嘯",
+      "meaning": "吼叫"
+    },
+    {
+      "word": "啼",
+      "meaning": "悲啼"
+    },
+    {
+      "word": "斯",
+      "meaning": "這"
+    },
+    {
+      "word": "去",
+      "meaning": "離開"
+    },
+    {
+      "word": "懷",
+      "meaning": "懷念"
+    },
+    {
+      "word": "憂",
+      "meaning": "擔憂"
+    },
+    {
+      "word": "讒",
+      "meaning": "讒言"
+    },
+    {
+      "word": "畏",
+      "meaning": "害怕"
+    },
+    {
+      "word": "譏",
+      "meaning": "譏諷"
+    },
+    {
+      "word": "蕭然",
+      "meaning": "淒涼冷落"
+    },
+    {
+      "word": "至若",
+      "meaning": "至於"
+    },
+    {
+      "word": "春和",
+      "meaning": "春風和煦"
+    },
+    {
+      "word": "景",
+      "meaning": "日光"
+    },
+    {
+      "word": "明",
+      "meaning": "照耀"
+    },
+    {
+      "word": "驚",
+      "meaning": "起"
+    },
+    {
+      "word": "碧",
+      "meaning": "碧綠"
+    },
+    {
+      "word": "翔",
+      "meaning": "飛翔"
+    },
+    {
+      "word": "集",
+      "meaning": "聚集"
+    },
+    {
+      "word": "芷",
+      "meaning": "白芷"
+    },
+    {
+      "word": "汀",
+      "meaning": "小洲"
+    },
+    {
+      "word": "蘭",
+      "meaning": "蘭花"
+    },
+    {
+      "word": "郁郁",
+      "meaning": "香氣濃郁"
+    },
+    {
+      "word": "青青",
+      "meaning": "草木茂盛"
+    },
+    {
+      "word": "而或",
+      "meaning": "有時"
+    },
+    {
+      "word": "長",
+      "meaning": "大片"
+    },
+    {
+      "word": "煙",
+      "meaning": "煙霧"
+    },
+    {
+      "word": "空",
+      "meaning": "消散"
+    },
+    {
+      "word": "皓",
+      "meaning": "皎潔的"
+    },
+    {
+      "word": "躍",
+      "meaning": "閃爍"
+    },
+    {
+      "word": "璧",
+      "meaning": "玉璧"
+    },
+    {
+      "word": "何極",
+      "meaning": "哪有窮盡"
+    },
+    {
+      "word": "斯",
+      "meaning": "這"
+    },
+    {
+      "word": "心",
+      "meaning": "心情"
+    },
+    {
+      "word": "曠",
+      "meaning": "開朗"
+    },
+    {
+      "word": "神",
+      "meaning": "精神"
+    },
+    {
+      "word": "怡",
+      "meaning": "愉快"
+    },
+    {
+      "word": "寵",
+      "meaning": "得寵"
+    },
+    {
+      "word": "辱",
+      "meaning": "耻辱"
+    },
+    {
+      "word": "把",
+      "meaning": "持"
+    },
+    {
+      "word": "臨",
+      "meaning": "對"
+    },
+    {
+      "word": "予",
+      "meaning": "我"
+    },
+    {
+      "word": "嘗",
+      "meaning": "曾經"
+    },
+    {
+      "word": "求",
+      "meaning": "探求"
+    },
+    {
+      "word": "仁",
+      "meaning": "品德高尚"
+    },
+    {
+      "word": "心",
+      "meaning": "心思"
+    },
+    {
+      "word": "或",
+      "meaning": "或許"
+    },
+    {
+      "word": "以",
+      "meaning": "因為"
+    },
+    {
+      "word": "廟堂",
+      "meaning": "朝廷"
+    },
+    {
+      "word": "高",
+      "meaning": "高位"
+    },
+    {
+      "word": "江湖",
+      "meaning": "民間"
+    },
+    {
+      "word": "是",
+      "meaning": "這樣"
+    },
+    {
+      "word": "微",
+      "meaning": "沒有"
+    },
+    {
+      "word": "斯",
+      "meaning": "這樣"
+    },
+    {
+      "word": "吾",
+      "meaning": "我"
+    },
+    {
+      "word": "歸",
+      "meaning": "依歸"
+    }
+  ],
+  "id": 9,
+  "questions": [
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「謫」的意思是？",
+      "correct_answer": "降職",
+      "explanation": "「謫」即降職。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「守」的意思是？",
+      "correct_answer": "太守",
+      "explanation": "「守」即太守。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「越」的意思是？",
+      "correct_answer": "到",
+      "explanation": "「越」即到。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「通」的意思是？",
+      "correct_answer": "順利",
+      "explanation": "「通」即順利。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「和」的意思是？",
+      "correct_answer": "和樂",
+      "explanation": "「和」即和樂。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「廢」的意思是？",
+      "correct_answer": "荒廢",
+      "explanation": "「廢」即荒廢。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「具」的意思是？",
+      "correct_answer": "全",
+      "explanation": "「具」即全。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「興」的意思是？",
+      "correct_answer": "復興",
+      "explanation": "「興」即復興。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「乃」的意思是？",
+      "correct_answer": "於是",
+      "explanation": "「乃」即於是。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「增」的意思是？",
+      "correct_answer": "擴大",
+      "explanation": "「增」即擴大。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「制」的意思是？",
+      "correct_answer": "規模",
+      "explanation": "「制」即規模。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「屬」的意思是？",
+      "correct_answer": "囑咐",
+      "explanation": "「屬」即囑咐。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「予」的意思是？",
+      "correct_answer": "我",
+      "explanation": "「予」即我。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「予」的意思是？",
+      "correct_answer": "我",
+      "explanation": "「予」即我。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「勝」的意思是？",
+      "correct_answer": "美",
+      "explanation": "「勝」即美。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「狀」的意思是？",
+      "correct_answer": "形勢",
+      "explanation": "「狀」即形勢。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「銜」的意思是？",
+      "correct_answer": "含着",
+      "explanation": "「銜」即含着。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「吞」的意思是？",
+      "correct_answer": "吞沒",
+      "explanation": "「吞」即吞沒。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「朝」的意思是？",
+      "correct_answer": "清晨",
+      "explanation": "「朝」即清晨。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「暉」的意思是？",
+      "correct_answer": "陽光",
+      "explanation": "「暉」即陽光。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「夕」的意思是？",
+      "correct_answer": "傍晚",
+      "explanation": "「夕」即傍晚。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「陰」的意思是？",
+      "correct_answer": "陰暗",
+      "explanation": "「陰」即陰暗。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「氣象」的意思是？",
+      "correct_answer": "景象",
+      "explanation": "「氣象」即景象。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「萬千」的意思是？",
+      "correct_answer": "千變萬化",
+      "explanation": "「萬千」即千變萬化。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「此」的意思是？",
+      "correct_answer": "這",
+      "explanation": "「此」即這。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「則」的意思是？",
+      "correct_answer": "就是",
+      "explanation": "「則」即就是。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「大觀」的意思是？",
+      "correct_answer": "雄偉景象",
+      "explanation": "「大觀」即雄偉景象。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「述」的意思是？",
+      "correct_answer": "記述",
+      "explanation": "「述」即記述。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「備」的意思是？",
+      "correct_answer": "詳盡",
+      "explanation": "「備」即詳盡。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「極」的意思是？",
+      "correct_answer": "盡頭",
+      "explanation": "「極」即盡頭。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「遷」的意思是？",
+      "correct_answer": "遷謫",
+      "explanation": "「遷」即遷謫。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「騷人」的意思是？",
+      "correct_answer": "詩人",
+      "explanation": "「騷人」即詩人。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「多」的意思是？",
+      "correct_answer": "大多",
+      "explanation": "「多」即大多。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「會」的意思是？",
+      "correct_answer": "聚集",
+      "explanation": "「會」即聚集。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「覽」的意思是？",
+      "correct_answer": "觀賞",
+      "explanation": "「覽」即觀賞。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「物」的意思是？",
+      "correct_answer": "景物",
+      "explanation": "「物」即景物。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「得無」的意思是？",
+      "correct_answer": "能不",
+      "explanation": "「得無」即能不。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「異」的意思是？",
+      "correct_answer": "不同",
+      "explanation": "「異」即不同。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「若夫」的意思是？",
+      "correct_answer": "好像",
+      "explanation": "「若夫」即好像。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「霪」的意思是？",
+      "correct_answer": "不斷",
+      "explanation": "「霪」即不斷。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「開」的意思是？",
+      "correct_answer": "放晴",
+      "explanation": "「開」即放晴。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「陰」的意思是？",
+      "correct_answer": "寒冷",
+      "explanation": "「陰」即寒冷。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「號」的意思是？",
+      "correct_answer": "呼號",
+      "explanation": "「號」即呼號。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「濁」的意思是？",
+      "correct_answer": "渾濁",
+      "explanation": "「濁」即渾濁。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「排空」的意思是？",
+      "correct_answer": "衝向天空",
+      "explanation": "「排空」即衝向天空。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「隱」的意思是？",
+      "correct_answer": "隱藏",
+      "explanation": "「隱」即隱藏。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「耀」的意思是？",
+      "correct_answer": "光輝",
+      "explanation": "「耀」即光輝。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「潛」的意思是？",
+      "correct_answer": "隱藏",
+      "explanation": "「潛」即隱藏。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「形」的意思是？",
+      "correct_answer": "形迹",
+      "explanation": "「形」即形迹。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「行」的意思是？",
+      "correct_answer": "前行",
+      "explanation": "「行」即前行。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「檣」的意思是？",
+      "correct_answer": "船桅",
+      "explanation": "「檣」即船桅。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「傾」的意思是？",
+      "correct_answer": "傾倒",
+      "explanation": "「傾」即傾倒。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「楫」的意思是？",
+      "correct_answer": "船槳",
+      "explanation": "「楫」即船槳。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「摧」的意思是？",
+      "correct_answer": "折斷",
+      "explanation": "「摧」即折斷。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「薄暮」的意思是？",
+      "correct_answer": "傍晚",
+      "explanation": "「薄暮」即傍晚。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「冥冥」的意思是？",
+      "correct_answer": "幽暗",
+      "explanation": "「冥冥」即幽暗。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「嘯」的意思是？",
+      "correct_answer": "吼叫",
+      "explanation": "「嘯」即吼叫。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「啼」的意思是？",
+      "correct_answer": "悲啼",
+      "explanation": "「啼」即悲啼。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「斯」的意思是？",
+      "correct_answer": "這",
+      "explanation": "「斯」即這。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「去」的意思是？",
+      "correct_answer": "離開",
+      "explanation": "「去」即離開。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「懷」的意思是？",
+      "correct_answer": "懷念",
+      "explanation": "「懷」即懷念。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「憂」的意思是？",
+      "correct_answer": "擔憂",
+      "explanation": "「憂」即擔憂。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「讒」的意思是？",
+      "correct_answer": "讒言",
+      "explanation": "「讒」即讒言。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「畏」的意思是？",
+      "correct_answer": "害怕",
+      "explanation": "「畏」即害怕。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「譏」的意思是？",
+      "correct_answer": "譏諷",
+      "explanation": "「譏」即譏諷。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「蕭然」的意思是？",
+      "correct_answer": "淒涼冷落",
+      "explanation": "「蕭然」即淒涼冷落。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「至若」的意思是？",
+      "correct_answer": "至於",
+      "explanation": "「至若」即至於。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「春和」的意思是？",
+      "correct_answer": "春風和煦",
+      "explanation": "「春和」即春風和煦。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「景」的意思是？",
+      "correct_answer": "日光",
+      "explanation": "「景」即日光。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「明」的意思是？",
+      "correct_answer": "照耀",
+      "explanation": "「明」即照耀。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「驚」的意思是？",
+      "correct_answer": "起",
+      "explanation": "「驚」即起。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「碧」的意思是？",
+      "correct_answer": "碧綠",
+      "explanation": "「碧」即碧綠。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「翔」的意思是？",
+      "correct_answer": "飛翔",
+      "explanation": "「翔」即飛翔。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「集」的意思是？",
+      "correct_answer": "聚集",
+      "explanation": "「集」即聚集。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「芷」的意思是？",
+      "correct_answer": "白芷",
+      "explanation": "「芷」即白芷。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「汀」的意思是？",
+      "correct_answer": "小洲",
+      "explanation": "「汀」即小洲。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「蘭」的意思是？",
+      "correct_answer": "蘭花",
+      "explanation": "「蘭」即蘭花。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「郁郁」的意思是？",
+      "correct_answer": "香氣濃郁",
+      "explanation": "「郁郁」即香氣濃郁。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「青青」的意思是？",
+      "correct_answer": "草木茂盛",
+      "explanation": "「青青」即草木茂盛。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「而或」的意思是？",
+      "correct_answer": "有時",
+      "explanation": "「而或」即有時。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「長」的意思是？",
+      "correct_answer": "大片",
+      "explanation": "「長」即大片。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「煙」的意思是？",
+      "correct_answer": "煙霧",
+      "explanation": "「煙」即煙霧。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「空」的意思是？",
+      "correct_answer": "消散",
+      "explanation": "「空」即消散。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「皓」的意思是？",
+      "correct_answer": "皎潔的",
+      "explanation": "「皓」即皎潔的。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「躍」的意思是？",
+      "correct_answer": "閃爍",
+      "explanation": "「躍」即閃爍。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「璧」的意思是？",
+      "correct_answer": "玉璧",
+      "explanation": "「璧」即玉璧。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「何極」的意思是？",
+      "correct_answer": "哪有窮盡",
+      "explanation": "「何極」即哪有窮盡。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「斯」的意思是？",
+      "correct_answer": "這",
+      "explanation": "「斯」即這。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「心」的意思是？",
+      "correct_answer": "心情",
+      "explanation": "「心」即心情。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「曠」的意思是？",
+      "correct_answer": "開朗",
+      "explanation": "「曠」即開朗。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「神」的意思是？",
+      "correct_answer": "精神",
+      "explanation": "「神」即精神。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「怡」的意思是？",
+      "correct_answer": "愉快",
+      "explanation": "「怡」即愉快。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「寵」的意思是？",
+      "correct_answer": "得寵",
+      "explanation": "「寵」即得寵。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「辱」的意思是？",
+      "correct_answer": "耻辱",
+      "explanation": "「辱」即耻辱。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「把」的意思是？",
+      "correct_answer": "持",
+      "explanation": "「把」即持。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「臨」的意思是？",
+      "correct_answer": "對",
+      "explanation": "「臨」即對。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「予」的意思是？",
+      "correct_answer": "我",
+      "explanation": "「予」即我。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「嘗」的意思是？",
+      "correct_answer": "曾經",
+      "explanation": "「嘗」即曾經。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「求」的意思是？",
+      "correct_answer": "探求",
+      "explanation": "「求」即探求。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「仁」的意思是？",
+      "correct_answer": "品德高尚",
+      "explanation": "「仁」即品德高尚。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「心」的意思是？",
+      "correct_answer": "心思",
+      "explanation": "「心」即心思。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「或」的意思是？",
+      "correct_answer": "或許",
+      "explanation": "「或」即或許。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「以」的意思是？",
+      "correct_answer": "因為",
+      "explanation": "「以」即因為。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「廟堂」的意思是？",
+      "correct_answer": "朝廷",
+      "explanation": "「廟堂」即朝廷。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「高」的意思是？",
+      "correct_answer": "高位",
+      "explanation": "「高」即高位。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「江湖」的意思是？",
+      "correct_answer": "民間",
+      "explanation": "「江湖」即民間。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「是」的意思是？",
+      "correct_answer": "這樣",
+      "explanation": "「是」即這樣。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「微」的意思是？",
+      "correct_answer": "沒有",
+      "explanation": "「微」即沒有。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「斯」的意思是？",
+      "correct_answer": "這樣",
+      "explanation": "「斯」即這樣。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「吾」的意思是？",
+      "correct_answer": "我",
+      "explanation": "「吾」即我。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「歸」的意思是？",
+      "correct_answer": "依歸",
+      "explanation": "「歸」即依歸。",
+      "source": "auto_generated"
+    }
+  ]
+}

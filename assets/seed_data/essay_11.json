@@ -1,0 +1,198 @@
+{
+  "title": "山居秋暝",
+  "original_text": "空山新雨後天氣晚來秋明月松間照清泉石上流竹喧歸浣女蓮動下漁舟隨意春芳歇王孫自可留",
+  "original_segments": [
+    "空山新雨後",
+    "天氣晚來秋",
+    "明月松間照",
+    "清泉石上流",
+    "竹喧歸浣女",
+    "蓮動下漁舟",
+    "隨意春芳歇",
+    "王孫自可留"
+  ],
+  "translation_segments": [
+    "空山中剛下了一場雨",
+    "傍晚時增添了許多秋意",
+    "皎潔的月亮在松林間照耀",
+    "清澈的泉水在石上流動",
+    "竹林裏傳來喧鬧聲，洗衣服的女子回來",
+    "水上的蓮葉搖動，漁船順流而下",
+    "任憑春芳凋謝，秋色仍然很美",
+    "王孫自可留在山中"
+  ],
+  "annotations": [
+    {
+      "word": "暝",
+      "meaning": "夜色"
+    },
+    {
+      "word": "空",
+      "meaning": "空曠"
+    },
+    {
+      "word": "新",
+      "meaning": "剛"
+    },
+    {
+      "word": "晚",
+      "meaning": "傍晚"
+    },
+    {
+      "word": "松",
+      "meaning": "松林"
+    },
+    {
+      "word": "竹",
+      "meaning": "竹林"
+    },
+    {
+      "word": "喧",
+      "meaning": "喧鬧"
+    },
+    {
+      "word": "浣女",
+      "meaning": "洗衣女"
+    },
+    {
+      "word": "蓮",
+      "meaning": "蓮葉"
+    },
+    {
+      "word": "隨意",
+      "meaning": "任意"
+    },
+    {
+      "word": "春芳",
+      "meaning": "春天的花草"
+    },
+    {
+      "word": "歇",
+      "meaning": "凋零"
+    },
+    {
+      "word": "留",
+      "meaning": "留下"
+    }
+  ],
+  "id": 11,
+  "questions": [
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「暝」的意思是？",
+      "correct_answer": "夜色",
+      "explanation": "「暝」即夜色。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「空」的意思是？",
+      "correct_answer": "空曠",
+      "explanation": "「空」即空曠。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「新」的意思是？",
+      "correct_answer": "剛",
+      "explanation": "「新」即剛。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「晚」的意思是？",
+      "correct_answer": "傍晚",
+      "explanation": "「晚」即傍晚。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「松」的意思是？",
+      "correct_answer": "松林",
+      "explanation": "「松」即松林。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「竹」的意思是？",
+      "correct_answer": "竹林",
+      "explanation": "「竹」即竹林。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「喧」的意思是？",
+      "correct_answer": "喧鬧",
+      "explanation": "「喧」即喧鬧。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「浣女」的意思是？",
+      "correct_answer": "洗衣女",
+      "explanation": "「浣女」即洗衣女。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「蓮」的意思是？",
+      "correct_answer": "蓮葉",
+      "explanation": "「蓮」即蓮葉。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「隨意」的意思是？",
+      "correct_answer": "任意",
+      "explanation": "「隨意」即任意。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「春芳」的意思是？",
+      "correct_answer": "春天的花草",
+      "explanation": "「春芳」即春天的花草。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「歇」的意思是？",
+      "correct_answer": "凋零",
+      "explanation": "「歇」即凋零。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「留」的意思是？",
+      "correct_answer": "留下",
+      "explanation": "「留」即留下。",
+      "source": "auto_generated"
+    }
+  ]
+}

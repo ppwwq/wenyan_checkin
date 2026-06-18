@@ -1,0 +1,210 @@
+{
+  "title": "月下獨酌",
+  "original_text": "花間一壺酒獨酌無相親舉杯邀明月對影成三人月既不解飲影徒隨我身暫伴月將影行樂須及春我歌月徘徊我舞影零亂醒時同交歡醉後各分散永結無情遊相期邈雲漢",
+  "original_segments": [
+    "花間一壺酒",
+    "獨酌無相親",
+    "舉杯邀明月",
+    "對影成三人",
+    "月既不解飲",
+    "影徒隨我身",
+    "暫伴月將影",
+    "行樂須及春",
+    "我歌月徘徊",
+    "我舞影零亂",
+    "醒時同交歡",
+    "醉後各分散",
+    "永結無情遊",
+    "相期邈雲漢"
+  ],
+  "translation_segments": [
+    "花叢間擺放了一壺美酒",
+    "獨自飲酒沒有親近的人",
+    "舉起酒杯邀請明月共飲",
+    "對着自己的影子，共飲有三人",
+    "月亮既不懂得喝酒",
+    "影子也只是跟隨着我",
+    "暫且與月亮和影子作伴",
+    "必須趁着這春天，做快樂的事",
+    "我唱着歌，月亮在我身旁來回走動",
+    "我跳着舞，影子也跟我搖曳散亂地起舞",
+    "清醒之時，我們三人一起歡聚",
+    "醉倒之後，我們三人各自分離",
+    "忘情的交遊，永遠結為好朋友",
+    "相約在遙遠的銀河上"
+  ],
+  "annotations": [
+    {
+      "word": "花間",
+      "meaning": "花叢中"
+    },
+    {
+      "word": "酌",
+      "meaning": "飲酒"
+    },
+    {
+      "word": "相親",
+      "meaning": "互相親愛"
+    },
+    {
+      "word": "既",
+      "meaning": "已經"
+    },
+    {
+      "word": "解",
+      "meaning": "懂"
+    },
+    {
+      "word": "徒",
+      "meaning": "只是"
+    },
+    {
+      "word": "將",
+      "meaning": "和"
+    },
+    {
+      "word": "及",
+      "meaning": "趁著"
+    },
+    {
+      "word": "同交歡",
+      "meaning": "一起歡樂"
+    },
+    {
+      "word": "無情",
+      "meaning": "忘情"
+    },
+    {
+      "word": "相期",
+      "meaning": "相約"
+    },
+    {
+      "word": "邈",
+      "meaning": "遙遠"
+    },
+    {
+      "word": "雲漢",
+      "meaning": "銀河"
+    }
+  ],
+  "id": 12,
+  "questions": [
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「花間」的意思是？",
+      "correct_answer": "花叢中",
+      "explanation": "「花間」即花叢中。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「酌」的意思是？",
+      "correct_answer": "飲酒",
+      "explanation": "「酌」即飲酒。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「相親」的意思是？",
+      "correct_answer": "互相親愛",
+      "explanation": "「相親」即互相親愛。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「既」的意思是？",
+      "correct_answer": "已經",
+      "explanation": "「既」即已經。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「解」的意思是？",
+      "correct_answer": "懂",
+      "explanation": "「解」即懂。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「徒」的意思是？",
+      "correct_answer": "只是",
+      "explanation": "「徒」即只是。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「將」的意思是？",
+      "correct_answer": "和",
+      "explanation": "「將」即和。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「及」的意思是？",
+      "correct_answer": "趁著",
+      "explanation": "「及」即趁著。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「同交歡」的意思是？",
+      "correct_answer": "一起歡樂",
+      "explanation": "「同交歡」即一起歡樂。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「無情」的意思是？",
+      "correct_answer": "忘情",
+      "explanation": "「無情」即忘情。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「相期」的意思是？",
+      "correct_answer": "相約",
+      "explanation": "「相期」即相約。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「邈」的意思是？",
+      "correct_answer": "遙遠",
+      "explanation": "「邈」即遙遠。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「雲漢」的意思是？",
+      "correct_answer": "銀河",
+      "explanation": "「雲漢」即銀河。",
+      "source": "auto_generated"
+    }
+  ]
+}
