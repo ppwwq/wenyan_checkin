@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import '../theme/app_theme.dart';
 import '../services/content_service.dart';
 import '../services/ebbinghaus_service.dart';
 import 'essay_read_screen.dart';
@@ -16,12 +17,6 @@ class _EssayListScreenState extends State<EssayListScreen> {
   Map<int, Map<String, dynamic>> _essayProgress = {};
   bool _loading = true;
   String _filter = '全部';
-
-  static const Color indigo = Color(0xFF3B3F8C);
-  static const Color paper = Color(0xFFFBFAF5);
-  static const Color ink = Color(0xFF1C1914);
-  static const Color jade = Color(0xFF3B7A5C);
-  static const Color secondary = Color(0xFF6B6560);
 
   @override
   void initState() {
@@ -68,7 +63,7 @@ class _EssayListScreenState extends State<EssayListScreen> {
 
   @override
   Widget build(BuildContext context) {
-    return SafeArea(
+    return SafeArea(bottom: false, 
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
@@ -79,8 +74,7 @@ class _EssayListScreenState extends State<EssayListScreen> {
               style: TextStyle(
                 fontSize: 28,
                 fontWeight: FontWeight.bold,
-                fontFamily: 'Noto Serif TC',
-                color: ink,
+                color: AppTheme.ink,
               ),
             ),
           ),
@@ -106,16 +100,16 @@ class _EssayListScreenState extends State<EssayListScreen> {
               f,
               style: TextStyle(
                 fontSize: 13,
-                color: selected ? paper : ink,
+                color: selected ? AppTheme.paper : AppTheme.ink,
                 fontWeight: selected ? FontWeight.w600 : FontWeight.normal,
               ),
             ),
             selected: selected,
             onSelected: (_) => setState(() => _filter = f),
-            selectedColor: indigo,
-            backgroundColor: paper,
+            selectedColor: AppTheme.indigo,
+            backgroundColor: AppTheme.paper,
             side: BorderSide(
-              color: selected ? indigo : const Color(0xFFE5E3DE),
+              color: selected ? AppTheme.indigo : AppTheme.border,
             ),
             shape: RoundedRectangleBorder(
               borderRadius: BorderRadius.circular(8),
@@ -129,7 +123,7 @@ class _EssayListScreenState extends State<EssayListScreen> {
 
   Widget _buildBody() {
     if (_loading) {
-      return const Center(child: CircularProgressIndicator(color: indigo));
+      return const Center(child: CircularProgressIndicator(color: AppTheme.indigo));
     }
 
     final essays = _filteredEssays;
@@ -137,7 +131,7 @@ class _EssayListScreenState extends State<EssayListScreen> {
       return Center(
         child: Text(
           _filter == '已通關' ? '尚無通關篇章' : '沒有匹配的篇章',
-          style: const TextStyle(color: secondary, fontSize: 15),
+          style: const TextStyle(color: AppTheme.secondary, fontSize: 15),
         ),
       );
     }
@@ -165,11 +159,11 @@ class _EssayListScreenState extends State<EssayListScreen> {
     return Card(
       margin: const EdgeInsets.only(bottom: 10),
       elevation: 0,
-      color: paper,
+      color: AppTheme.paper,
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(12),
         side: BorderSide(
-          color: isMastered ? jade.withValues(alpha: 0.3) : const Color(0xFFE5E3DE),
+          color: isMastered ? AppTheme.jade.withValues(alpha: 0.3) : AppTheme.border,
         ),
       ),
       child: InkWell(
@@ -197,7 +191,7 @@ class _EssayListScreenState extends State<EssayListScreen> {
                             style: const TextStyle(
                               fontSize: 17,
                               fontWeight: FontWeight.w600,
-                              color: ink,
+                              color: AppTheme.ink,
                             ),
                             maxLines: 1,
                             overflow: TextOverflow.ellipsis,
@@ -207,12 +201,12 @@ class _EssayListScreenState extends State<EssayListScreen> {
                           Container(
                             padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
                             decoration: BoxDecoration(
-                              color: jade.withValues(alpha: 0.12),
+                              color: AppTheme.jade.withValues(alpha: 0.12),
                               borderRadius: BorderRadius.circular(6),
                             ),
                             child: const Text(
                               '已通關',
-                              style: TextStyle(fontSize: 11, color: jade, fontWeight: FontWeight.w600),
+                              style: TextStyle(fontSize: 11, color: AppTheme.jade, fontWeight: FontWeight.w600),
                             ),
                           ),
                       ],
@@ -222,33 +216,33 @@ class _EssayListScreenState extends State<EssayListScreen> {
                       children: [
                         Text(
                           author,
-                          style: const TextStyle(fontSize: 13, color: secondary),
+                          style: const TextStyle(fontSize: 13, color: AppTheme.secondary),
                         ),
                         const SizedBox(width: 8),
                         Container(
                           width: 3, height: 3,
                           decoration: BoxDecoration(
-                            color: secondary.withValues(alpha: 0.5),
+                            color: AppTheme.secondary.withValues(alpha: 0.5),
                             shape: BoxShape.circle,
                           ),
                         ),
                         const SizedBox(width: 8),
                         Text(
                           dynasty,
-                          style: TextStyle(fontSize: 13, color: secondary.withValues(alpha: 0.8)),
+                          style: TextStyle(fontSize: 13, color: AppTheme.secondary.withValues(alpha: 0.8)),
                         ),
                         const SizedBox(width: 8),
                         Container(
                           width: 3, height: 3,
                           decoration: BoxDecoration(
-                            color: secondary.withValues(alpha: 0.5),
+                            color: AppTheme.secondary.withValues(alpha: 0.5),
                             shape: BoxShape.circle,
                           ),
                         ),
                         const SizedBox(width: 8),
                         Text(
                           category,
-                          style: TextStyle(fontSize: 13, color: secondary.withValues(alpha: 0.8)),
+                          style: TextStyle(fontSize: 13, color: AppTheme.secondary.withValues(alpha: 0.8)),
                         ),
                       ],
                     ),
@@ -262,8 +256,8 @@ class _EssayListScreenState extends State<EssayListScreen> {
                             child: CircularProgressIndicator(
                               value: progressValue,
                               strokeWidth: 2,
-                              color: isMastered ? jade : indigo,
-                              backgroundColor: const Color(0xFFE5E3DE),
+                              color: isMastered ? AppTheme.jade : AppTheme.indigo,
+                              backgroundColor: AppTheme.border,
                             ),
                           ),
                           const SizedBox(width: 8),
@@ -271,7 +265,7 @@ class _EssayListScreenState extends State<EssayListScreen> {
                             '$mastered / $total 詞',
                             style: TextStyle(
                               fontSize: 12,
-                              color: isMastered ? jade : secondary,
+                              color: isMastered ? AppTheme.jade : AppTheme.secondary,
                             ),
                           ),
                         ],
@@ -280,7 +274,7 @@ class _EssayListScreenState extends State<EssayListScreen> {
                   ],
                 ),
               ),
-              const Icon(Icons.chevron_right, color: secondary, size: 20),
+              const Icon(Icons.chevron_right, color: AppTheme.secondary, size: 20),
             ],
           ),
         ),

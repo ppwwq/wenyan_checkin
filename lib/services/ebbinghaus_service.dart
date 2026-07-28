@@ -7,13 +7,22 @@ class EbbinghausService {
   EbbinghausService(this._db);
 
   static Future<EbbinghausService> create() async {
-    return EbbinghausService(await DatabaseService.database);
+    final db = await DatabaseService.database;
+    // Fix any existing records with blown-up intervals
+    await db.update('study_records',
+      {'interval_days': maxInterval},
+      where: 'interval_days > ?', whereArgs: [maxInterval],
+    );
+    return EbbinghausService(db);
   }
+
+  static const int maxInterval = 180;
 
   int calculateNextInterval(int currentInterval, double easeFactor, bool correct) {
     if (correct) {
-      final newInterval = (currentInterval * easeFactor).round();
-      return newInterval < currentInterval ? currentInterval + 1 : newInterval;
+      final newInterval = (currentInterval * easeFactor).ceil();
+      final result = newInterval > currentInterval ? newInterval : currentInterval + 1;
+      return result.clamp(1, maxInterval);
     } else {
       return (currentInterval * 0.5).round().clamp(1, currentInterval);
     }
@@ -56,7 +65,7 @@ class EbbinghausService {
       });
     } else {
       final record = existing.first;
-      final oldInterval = record['interval_days'] as int;
+      final oldInterval = (record['interval_days'] as int).clamp(1, maxInterval);
       final oldEase = (record['ease_factor'] as num).toDouble();
       final reviewCount = (record['review_count'] as int) + 1;
 

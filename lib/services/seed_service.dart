@@ -10,32 +10,24 @@ class SeedService {
     );
     if (count != null && count > 0) return; // Already seeded
 
-    for (int i = 1; i <= 16; i++) {
-      final filename = 'assets/seed_data/essay_${i.toString().padLeft(2, '0')}.json';
-      try {
-        final jsonStr = await rootBundle.loadString(filename);
-        final data = json.decode(jsonStr);
-        await _insertEssayWithRelations(db, data);
-      } catch (e) {
-        // Try combined file as fallback
-        final allJson = await rootBundle.loadString('assets/seed_data/all_essays.json');
-        final allData = json.decode(allJson) as List;
-        for (final essay in allData) {
-          await _insertEssayWithRelations(db, essay);
-        }
-        break;
+    // Use transaction for atomicity — all or nothing
+    await db.transaction((txn) async {
+      final allJson = await rootBundle.loadString('assets/seed_data/all_essays.json');
+      final allData = json.decode(allJson) as List;
+      for (final essay in allData) {
+        await _insertEssayWithRelations(txn, essay);
       }
-    }
 
-    // Create default user
-    await db.insert('users', {
-      'id': 1,
-      'name': '我',
-      'daily_target': 5,
+      // Create default user
+      await txn.insert('users', {
+        'id': 1,
+        'name': '我',
+        'daily_target': 5,
+      });
     });
   }
 
-  static Future<int> _insertEssayWithRelations(Database db, Map<String, dynamic> data) async {
+  static Future<int> _insertEssayWithRelations(DatabaseExecutor db, Map<String, dynamic> data) async {
     final essayId = await db.insert('essays', {
       'id': data['id'],
       'title': data['title'],
@@ -60,10 +52,11 @@ class SeedService {
 
     // Insert translations
     final transSegments = data['translation_segments'] as List? ?? [];
+    final origSegments = data['original_segments'] as List? ?? [];
     for (int j = 0; j < transSegments.length; j++) {
       await db.insert('translations', {
         'essay_id': essayId,
-        'original_segment': (data['original_segments'] as List? ?? [])[j] ?? '',
+        'original_segment': j < origSegments.length ? origSegments[j] ?? '' : '',
         'translation': transSegments[j],
         'position': j,
       });
@@ -89,10 +82,10 @@ class SeedService {
     return essayId;
   }
 
-  static List<String> _generateOptions(String correct, List annotations) {
+  static List<String> _generateOptions(String correct, List<dynamic> annotations) {
     final wrong = annotations
-        .where((a) => a['meaning'] != correct)
-        .map((a) => a['meaning'] as String)
+        .where((a) => a is Map<String, dynamic> && a['meaning'] != correct)
+        .map((a) => (a as Map<String, dynamic>)['meaning'] as String)
         .toSet()
         .take(3)
         .toList();

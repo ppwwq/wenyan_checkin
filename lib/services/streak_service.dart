@@ -43,23 +43,30 @@ class StreakService {
   }
 
   Future<int> getStreak(int userId) async {
+    // Single query to get all target_met dates for this user, ordered descending
+    final logs = await _db.rawQuery('''
+      SELECT date FROM daily_logs
+      WHERE user_id = ? AND target_met = 1
+      ORDER BY date DESC
+    ''', [userId]);
+
+    if (logs.isEmpty) return 0;
+
     int streak = 0;
-    var checkDate = DateTime.now();
-    // Check today first, if not met, start counting from yesterday
-    final todayLog = await _db.query('daily_logs',
-      where: 'user_id = ? AND date = ? AND target_met = 1',
-      whereArgs: [userId, today]);
-    if (todayLog.isEmpty) {
-      checkDate = checkDate.subtract(const Duration(days: 1));
+    // Check if today is met; if not, streak starts from yesterday
+    var expected = DateTime.now();
+    final todayStr = today;
+    final firstDate = logs[0]['date'] as String? ?? '';
+
+    if (firstDate != todayStr) {
+      expected = expected.subtract(const Duration(days: 1));
     }
-    while (true) {
-      final dateStr = checkDate.toIso8601String().split('T')[0];
-      final log = await _db.query('daily_logs',
-        where: 'user_id = ? AND date = ? AND target_met = 1',
-        whereArgs: [userId, dateStr]);
-      if (log.isNotEmpty) {
+
+    for (final log in logs) {
+      final dateStr = log['date'] as String? ?? '';
+      if (dateStr == '${expected.year}-${expected.month.toString().padLeft(2, '0')}-${expected.day.toString().padLeft(2, '0')}') {
         streak++;
-        checkDate = checkDate.subtract(const Duration(days: 1));
+        expected = expected.subtract(const Duration(days: 1));
       } else {
         break;
       }
@@ -70,7 +77,10 @@ class StreakService {
   Future<Map<String, String>> getMonthData(int userId, int year, int month) async {
     final monthStr = month.toString().padLeft(2, '0');
     final start = '$year-$monthStr-01';
-    final end = '$year-$monthStr-31';
+    // Compute the last day of the month correctly
+    final nextMonth = month == 12 ? DateTime(year + 1, 1) : DateTime(year, month + 1);
+    final lastDay = nextMonth.subtract(const Duration(days: 1));
+    final end = '${lastDay.year}-${lastDay.month.toString().padLeft(2, '0')}-${lastDay.day.toString().padLeft(2, '0')}';
     final logs = await _db.query('daily_logs',
       where: 'user_id = ? AND date >= ? AND date <= ?',
       whereArgs: [userId, start, end]);
@@ -96,5 +106,58 @@ class StreakService {
       'totalWords': totalStudyRecords,
       'pendingMistakes': pendingMistakes,
     };
+  }
+
+  /// Get mistake details from today
+  Future<List<Map<String, dynamic>>> getTodayMistakes(int userId) async {
+    return await _db.rawQuery('''
+      SELECT ml.*, q.stem, q.correct_answer,
+             COALESCE(a.word, '(字詞)') as word,
+             COALESCE(a.meaning, '') as meaning
+      FROM mistake_log ml
+      JOIN questions q ON ml.question_id = q.id
+      LEFT JOIN annotations a ON q.annotation_id = a.id
+      WHERE ml.user_id = ? AND ml.date = ?
+      ORDER BY ml.date DESC
+    ''', [userId, today]);
+  }
+
+  /// Get words studied today (via study_records last_review_date)
+  Future<List<Map<String, dynamic>>> getTodayStudied(int userId) async {
+    return await _db.rawQuery('''
+      SELECT sr.*, a.word, a.meaning,
+             COALESCE(ae.original_text, e.original_text) as context_text,
+             e.title as essay_title
+      FROM study_records sr
+      LEFT JOIN annotations a ON sr.target_type = 'annotation' AND sr.target_id = a.id
+      LEFT JOIN essays ae ON a.essay_id = ae.id
+      LEFT JOIN essays e ON sr.target_type = 'essay' AND sr.target_id = e.id
+      WHERE sr.user_id = ?
+        AND sr.last_review_date = ?
+        AND sr.review_count > 0
+      ORDER BY sr.last_review_date DESC, sr.review_count DESC
+    ''', [userId, today]);
+  }
+
+  /// Get all studied annotations with their review status
+  Future<List<Map<String, dynamic>>> getAllStudiedWords(int userId) async {
+    return await _db.rawQuery('''
+      SELECT a.word, a.meaning, sr.review_count, sr.status, sr.next_review_date
+      FROM study_records sr
+      JOIN annotations a ON sr.target_type = 'annotation' AND sr.target_id = a.id
+      WHERE sr.user_id = ?
+      ORDER BY sr.status, sr.review_count DESC
+    ''', [userId]);
+  }
+
+  /// Get all pending mistakes
+  Future<List<Map<String, dynamic>>> getAllMistakes(int userId) async {
+    return await _db.rawQuery('''
+      SELECT ml.*, q.stem, q.correct_answer
+      FROM mistake_log ml
+      JOIN questions q ON ml.question_id = q.id
+      WHERE ml.user_id = ? AND ml.mastered = 0
+      ORDER BY ml.date DESC
+    ''', [userId]);
   }
 }

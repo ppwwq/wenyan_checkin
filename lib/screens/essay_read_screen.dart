@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import '../theme/app_theme.dart';
 import '../services/content_service.dart';
 
 class EssayReadScreen extends StatefulWidget {
@@ -21,10 +22,6 @@ class _EssayReadScreenState extends State<EssayReadScreen> {
   List<Map<String, dynamic>> _translations = [];
   bool _loading = true;
 
-  static const Color ink = Color(0xFF1C1914);
-  static const Color paper = Color(0xFFFBFAF5);
-  static const Color indigo = Color(0xFF3B3F8C);
-  static const Color secondary = Color(0xFF6B6560);
 
   @override
   void initState() {
@@ -49,24 +46,23 @@ class _EssayReadScreenState extends State<EssayReadScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: paper,
+      backgroundColor: AppTheme.paper,
       appBar: AppBar(
         title: Text(
           widget.essayTitle,
           style: const TextStyle(
-            fontFamily: 'Noto Serif TC',
             fontWeight: FontWeight.w600,
             fontSize: 18,
-            color: ink,
+            color: AppTheme.ink,
           ),
         ),
-        backgroundColor: paper,
-        foregroundColor: ink,
+        backgroundColor: AppTheme.paper,
+        foregroundColor: AppTheme.ink,
         elevation: 0,
         scrolledUnderElevation: 1,
       ),
       body: _loading
-          ? const Center(child: CircularProgressIndicator(color: indigo))
+          ? const Center(child: CircularProgressIndicator(color: AppTheme.indigo))
           : SafeArea(
               child: SingleChildScrollView(
                 padding: const EdgeInsets.all(20),
@@ -96,7 +92,7 @@ class _EssayReadScreenState extends State<EssayReadScreen> {
                         child: Center(
                           child: Text(
                             '暫無內容',
-                            style: TextStyle(fontSize: 15, color: secondary),
+                            style: TextStyle(fontSize: 15, color: AppTheme.secondary),
                           ),
                         ),
                       ),
@@ -110,15 +106,14 @@ class _EssayReadScreenState extends State<EssayReadScreen> {
   Widget _buildSectionHeader(String title, IconData icon) {
     return Row(
       children: [
-        Icon(icon, size: 20, color: indigo),
+        Icon(icon, size: 20, color: AppTheme.indigo),
         const SizedBox(width: 8),
         Text(
           title,
           style: const TextStyle(
             fontSize: 18,
             fontWeight: FontWeight.w600,
-            fontFamily: 'Noto Serif TC',
-            color: ink,
+            color: AppTheme.ink,
           ),
         ),
       ],
@@ -130,9 +125,9 @@ class _EssayReadScreenState extends State<EssayReadScreen> {
       margin: const EdgeInsets.only(bottom: 8),
       padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 14),
       decoration: BoxDecoration(
-        color: paper,
+        color: AppTheme.paper,
         borderRadius: BorderRadius.circular(10),
-        border: Border.all(color: const Color(0xFFE5E3DE)),
+        border: Border.all(color: AppTheme.border),
       ),
       child: Row(
         crossAxisAlignment: CrossAxisAlignment.start,
@@ -140,7 +135,7 @@ class _EssayReadScreenState extends State<EssayReadScreen> {
           Container(
             padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
             decoration: BoxDecoration(
-              color: indigo.withValues(alpha: 0.08),
+              color: AppTheme.indigo.withValues(alpha: 0.08),
               borderRadius: BorderRadius.circular(6),
             ),
             child: Text(
@@ -148,8 +143,7 @@ class _EssayReadScreenState extends State<EssayReadScreen> {
               style: const TextStyle(
                 fontSize: 16,
                 fontWeight: FontWeight.w600,
-                fontFamily: 'Noto Serif TC',
-                color: indigo,
+                color: AppTheme.indigo,
               ),
             ),
           ),
@@ -159,7 +153,7 @@ class _EssayReadScreenState extends State<EssayReadScreen> {
               meaning,
               style: const TextStyle(
                 fontSize: 15,
-                color: ink,
+                color: AppTheme.ink,
                 height: 1.5,
               ),
             ),
@@ -174,9 +168,9 @@ class _EssayReadScreenState extends State<EssayReadScreen> {
       margin: const EdgeInsets.only(bottom: 12),
       padding: const EdgeInsets.all(16),
       decoration: BoxDecoration(
-        color: paper,
+        color: AppTheme.paper,
         borderRadius: BorderRadius.circular(10),
-        border: Border.all(color: const Color(0xFFE5E3DE)),
+        border: Border.all(color: AppTheme.border),
       ),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
@@ -185,8 +179,7 @@ class _EssayReadScreenState extends State<EssayReadScreen> {
             original,
             style: const TextStyle(
               fontSize: 16,
-              fontFamily: 'Noto Serif TC',
-              color: ink,
+              color: AppTheme.ink,
               height: 1.7,
             ),
           ),
@@ -194,14 +187,14 @@ class _EssayReadScreenState extends State<EssayReadScreen> {
           Container(
             width: double.infinity,
             height: 1,
-            color: const Color(0xFFE5E3DE),
+            color: AppTheme.border,
           ),
           const SizedBox(height: 10),
           Text(
             translation,
             style: const TextStyle(
               fontSize: 15,
-              color: secondary,
+              color: AppTheme.secondary,
               height: 1.7,
             ),
           ),

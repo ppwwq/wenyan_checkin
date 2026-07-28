@@ -7,7 +7,9 @@ class AppTheme {
   static const indigo = Color(0xFF3B3F8C);
   static const jade = Color(0xFF3B7A5C);
   static const gold = Color(0xFFB8964A);
+  static const amber = Color(0xFFE6A817);
   static const subtle = Color(0xFFE5E0D5);
+  static const border = Color(0xFFE5E3DE);
   static const secondary = Color(0xFF6B6560);
 
   static ThemeData get theme => ThemeData(
@@ -22,7 +24,7 @@ class AppTheme {
       error: vermillion,
     ),
     scaffoldBackgroundColor: paper,
-    fontFamily: 'Noto Sans TC',
+    fontFamily: 'HYZhongHeiTi',
     appBarTheme: const AppBarTheme(
       backgroundColor: paper, foregroundColor: ink, elevation: 0,
     ),

@@ -35,6 +35,11 @@ class QuizProvider extends ChangeNotifier {
     if (correct) _correctCount++;
     await _streakService.logQuestions(userId, 1);
     await _streakService.checkTargetMet(userId);
+    // Don't advance index — wait for nextQuestion() to be called
+    notifyListeners();
+  }
+
+  void nextQuestion() {
     _currentIndex++;
     if (_currentIndex >= _queue.length) _finished = true;
     notifyListeners();

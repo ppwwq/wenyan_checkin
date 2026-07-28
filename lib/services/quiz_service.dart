@@ -17,14 +17,30 @@ class QuizService {
     final queue = <Map<String, dynamic>>[];
     final seenQuestionIds = <int>{};
 
-    // Priority 1: Mistakes
+    // Get daily target and today's already-done count
+    final users = await _db.query('users', where: 'id = ?', whereArgs: [userId]);
+    final target = users.isNotEmpty ? (users.first['daily_target'] as int?) ?? 5 : 5;
+    final today = DateTime.now().toIso8601String().split('T')[0];
+    final todayDone = Sqflite.firstIntValue(await _db.rawQuery(
+      'SELECT COALESCE(SUM(questions_done), 0) FROM daily_logs WHERE user_id = ? AND date = ?',
+      [userId, today],
+    )) ?? 0;
+    final remaining = (target - todayDone).clamp(0, target).toInt();
+    if (remaining == 0) return queue;
+
+    int added() => queue.length;
+
+    // Priority 1: Mistakes (max up to remaining)
     final mistakes = await _db.rawQuery('''
-      SELECT ml.*, q.* FROM mistake_log ml
+      SELECT q.*, ml.question_id, ml.wrong_answer, ml.date,
+             ml.retry_count, ml.mastered
+      FROM mistake_log ml
       JOIN questions q ON ml.question_id = q.id
       WHERE ml.user_id = ? AND ml.mastered = 0
-      ORDER BY ml.date DESC LIMIT 10
-    ''', [userId]);
+      ORDER BY ml.date DESC LIMIT ?
+    ''', [userId, remaining]);
     for (final m in mistakes) {
+      if (added() >= remaining) break;
       final qid = m['question_id'];
       if (qid != null && !seenQuestionIds.contains(qid)) {
         seenQuestionIds.add(qid as int);
@@ -33,44 +49,51 @@ class QuizService {
     }
 
     // Priority 2: Due annotations
-    final dueItems = await _ebbinghaus.getDueItems(userId);
-    for (final item in dueItems.where((i) => i['target_type'] == 'annotation')) {
-      final questions = await _db.rawQuery(
-        'SELECT * FROM questions WHERE annotation_id = ? LIMIT 1',
-        [item['target_id']],
-      );
-      for (final q in questions) {
-        final qid = q['id'];
-        if (qid != null && !seenQuestionIds.contains(qid)) {
-          seenQuestionIds.add(qid as int);
-          queue.add({...q, 'source': 'due_annotation'});
+    if (added() < remaining) {
+      final dueItems = await _ebbinghaus.getDueItems(userId);
+      for (final item in dueItems.where((i) => i['target_type'] == 'annotation')) {
+        if (added() >= remaining) break;
+        final questions = await _db.rawQuery(
+          'SELECT * FROM questions WHERE annotation_id = ? LIMIT 1',
+          [item['target_id']],
+        );
+        for (final q in questions) {
+          if (added() >= remaining) break;
+          final qid = q['id'];
+          if (qid != null && !seenQuestionIds.contains(qid)) {
+            seenQuestionIds.add(qid as int);
+            queue.add({...q, 'source': 'due_annotation'});
+          }
         }
       }
-    }
 
-    // Priority 3: Due essays
-    for (final item in dueItems.where((i) => i['target_type'] == 'essay')) {
-      final questions = await _db.query('questions',
-        where: 'essay_id = ?', whereArgs: [item['target_id']], limit: 5);
-      for (final q in questions) {
-        final qid = q['id'];
-        if (qid != null && !seenQuestionIds.contains(qid)) {
-          seenQuestionIds.add(qid as int);
-          queue.add({...q, 'source': 'due_essay'});
+      // Priority 3: Due essays
+      for (final item in dueItems.where((i) => i['target_type'] == 'essay')) {
+        if (added() >= remaining) break;
+        final questions = await _db.query('questions',
+          where: 'essay_id = ?', whereArgs: [item['target_id']], limit: remaining - added());
+        for (final q in questions) {
+          if (added() >= remaining) break;
+          final qid = q['id'];
+          if (qid != null && !seenQuestionIds.contains(qid)) {
+            seenQuestionIds.add(qid as int);
+            queue.add({...q, 'source': 'due_essay'});
+          }
         }
       }
     }
 
     // Priority 4: New
-    if (queue.length < 20) {
+    if (added() < remaining) {
       final newQuestions = await _db.rawQuery('''
         SELECT q.* FROM questions q
         WHERE q.id NOT IN (
           SELECT DISTINCT target_id FROM study_records
           WHERE user_id = ? AND target_type = 'annotation'
-        ) LIMIT 5
-      ''', [userId]);
+        ) LIMIT ?
+      ''', [userId, remaining - added()]);
       for (final q in newQuestions) {
+        if (added() >= remaining) break;
         final qid = q['id'];
         if (qid != null && !seenQuestionIds.contains(qid)) {
           seenQuestionIds.add(qid as int);
@@ -120,10 +143,21 @@ class QuizService {
       }
     }
 
-    if (question['annotation_id'] != null) {
+    // Find annotation id — if not set, match by correct_answer == meaning
+    var annotationId = question['annotation_id'] as int?;
+    if (annotationId == null) {
+      final annotations = await _db.query('annotations',
+        where: 'essay_id = ? AND meaning = ?',
+        whereArgs: [question['essay_id'], question['correct_answer']],
+      );
+      if (annotations.isNotEmpty) {
+        annotationId = annotations.first['id'] as int?;
+      }
+    }
+    if (annotationId != null) {
       await _ebbinghaus.recordReview(
         userId: userId, targetType: 'annotation',
-        targetId: question['annotation_id'] as int, correct: correct);
+        targetId: annotationId, correct: correct);
     }
 
     await _ebbinghaus.recordReview(

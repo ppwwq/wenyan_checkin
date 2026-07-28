@@ -3,7 +3,10 @@ import 'package:intl/intl.dart';
 import 'package:provider/provider.dart';
 import 'package:table_calendar/table_calendar.dart';
 import '../providers/streak_provider.dart';
+import '../services/content_service.dart';
 import '../services/ebbinghaus_service.dart';
+import '../services/streak_service.dart';
+import '../theme/app_theme.dart';
 
 class HomeScreen extends StatefulWidget {
   final VoidCallback? onStartReview;
@@ -20,14 +23,7 @@ class _HomeScreenState extends State<HomeScreen> {
   int _dueCount = 0;
   int _mistakeCount = 0;
   int _masteredCount = 0;
-
-  static const Color indigo = Color(0xFF3B3F8C);
-  static const Color paper = Color(0xFFFBFAF5);
-  static const Color ink = Color(0xFF1C1914);
-  static const Color jade = Color(0xFF3B7A5C);
-  static const Color vermillion = Color(0xFFC44B3B);
-  static const Color secondary = Color(0xFF6B6560);
-  static const Color amber = Color(0xFFE6A817);
+  int _dailyTarget = 5;
 
   @override
   void initState() {
@@ -38,17 +34,71 @@ class _HomeScreenState extends State<HomeScreen> {
   Future<void> _loadReviewCounts() async {
     final ebbinghaus = context.read<EbbinghausService>();
     final streak = context.read<StreakProvider>();
+    final content = context.read<ContentService>();
 
     final dueItems = await ebbinghaus.getDueItems(1);
     final mistakeCount = (streak.stats['pendingMistakes'] as int?) ?? 0;
     final mastered = (streak.stats['masteredEssays'] as int?) ?? 0;
+    final users = await content.getUsers();
+    final target = users.isNotEmpty ? (users.first['daily_target'] as int?) ?? 5 : 5;
 
     if (mounted) {
       setState(() {
         _dueCount = dueItems.length;
         _mistakeCount = mistakeCount;
         _masteredCount = mastered;
+        _dailyTarget = target;
       });
+    }
+  }
+
+  Future<void> _editDailyTarget() async {
+    final controller = TextEditingController(text: '$_dailyTarget');
+    final result = await showDialog<int>(
+      context: context,
+      builder: (ctx) => AlertDialog(
+        title: const Text('每日練習題數', style: TextStyle(fontWeight: FontWeight.w600)),
+        content: TextField(
+          controller: controller,
+          keyboardType: TextInputType.number,
+          autofocus: true,
+          decoration: const InputDecoration(
+            hintText: '輸入題數',
+            border: OutlineInputBorder(),
+          ),
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.pop(ctx),
+            child: const Text('取消', style: TextStyle(color: AppTheme.secondary)),
+          ),
+          FilledButton(
+            onPressed: () {
+              final value = int.tryParse(controller.text);
+              if (value != null && value > 0 && value <= 50) {
+                Navigator.pop(ctx, value);
+              }
+            },
+            style: FilledButton.styleFrom(backgroundColor: AppTheme.indigo),
+            child: const Text('確定'),
+          ),
+        ],
+      ),
+    );
+
+    if (result != null && mounted) {
+      final content = context.read<ContentService>();
+      await content.updateUser(1, {'daily_target': result});
+
+      // Re-evaluate today's target and sync streak + calendar
+      final streakService = await StreakService.create();
+      await streakService.checkTargetMet(1);
+
+      if (mounted) {
+        setState(() => _dailyTarget = result);
+        final streak = context.read<StreakProvider>();
+        await streak.load(1);
+      }
     }
   }
 
@@ -65,7 +115,7 @@ class _HomeScreenState extends State<HomeScreen> {
     final streak = streakProvider.streak;
     final monthData = streakProvider.monthData;
 
-    return SafeArea(
+    return SafeArea(bottom: false, 
       child: SingleChildScrollView(
         padding: const EdgeInsets.all(20),
         child: Column(
@@ -96,16 +146,29 @@ class _HomeScreenState extends State<HomeScreen> {
                 style: const TextStyle(
                   fontSize: 28,
                   fontWeight: FontWeight.bold,
-                  fontFamily: 'Noto Serif TC',
-                  color: ink,
+                  color: AppTheme.ink,
                 ),
               ),
               const SizedBox(height: 4),
-              const Text(
-                '持續學習，積沙成塔',
-                style: TextStyle(
-                  fontSize: 14,
-                  color: secondary,
+              InkWell(
+                onTap: _editDailyTarget,
+                borderRadius: BorderRadius.circular(8),
+                child: Padding(
+                  padding: const EdgeInsets.symmetric(vertical: 4),
+                  child: Row(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      Text(
+                        '每日 $_dailyTarget 題',
+                        style: const TextStyle(
+                          fontSize: 14,
+                          color: AppTheme.secondary,
+                        ),
+                      ),
+                      const SizedBox(width: 4),
+                      const Icon(Icons.edit_outlined, size: 14, color: AppTheme.secondary),
+                    ],
+                  ),
                 ),
               ),
             ],
@@ -115,7 +178,7 @@ class _HomeScreenState extends State<HomeScreen> {
           width: 72,
           height: 72,
           decoration: const BoxDecoration(
-            color: indigo,
+            color: AppTheme.indigo,
             shape: BoxShape.circle,
           ),
           child: Column(
@@ -126,14 +189,14 @@ class _HomeScreenState extends State<HomeScreen> {
                 style: const TextStyle(
                   fontSize: 28,
                   fontWeight: FontWeight.bold,
-                  color: paper,
+                  color: AppTheme.paper,
                 ),
               ),
               const Text(
                 '天',
                 style: TextStyle(
                   fontSize: 12,
-                  color: paper,
+                  color: AppTheme.paper,
                 ),
               ),
             ],
@@ -146,9 +209,9 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget _buildCalendar(Map<String, String> monthData) {
     return Container(
       decoration: BoxDecoration(
-        color: paper,
+        color: AppTheme.paper,
         borderRadius: BorderRadius.circular(16),
-        border: Border.all(color: const Color(0xFFE5E3DE)),
+        border: Border.all(color: AppTheme.border),
       ),
       child: TableCalendar(
         firstDay: DateTime.utc(2020, 1, 1),
@@ -173,29 +236,28 @@ class _HomeScreenState extends State<HomeScreen> {
           titleTextStyle: const TextStyle(
             fontSize: 16,
             fontWeight: FontWeight.w600,
-            fontFamily: 'Noto Serif TC',
-            color: ink,
+            color: AppTheme.ink,
           ),
           formatButtonTextStyle: const TextStyle(
             fontSize: 12,
-            color: indigo,
+            color: AppTheme.indigo,
           ),
           formatButtonDecoration: BoxDecoration(
-            color: indigo.withValues(alpha: 0.08),
+            color: AppTheme.indigo.withValues(alpha: 0.08),
             borderRadius: BorderRadius.circular(8),
             border: Border.all(color: Colors.transparent),
           ),
-          leftChevronIcon: const Icon(Icons.chevron_left, color: indigo, size: 20),
-          rightChevronIcon: const Icon(Icons.chevron_right, color: indigo, size: 20),
+          leftChevronIcon: const Icon(Icons.chevron_left, color: AppTheme.indigo, size: 20),
+          rightChevronIcon: const Icon(Icons.chevron_right, color: AppTheme.indigo, size: 20),
         ),
         daysOfWeekStyle: DaysOfWeekStyle(
           weekdayStyle: const TextStyle(
             fontSize: 12,
-            color: secondary,
+            color: AppTheme.secondary,
           ),
           weekendStyle: TextStyle(
             fontSize: 12,
-            color: vermillion.withValues(alpha: 0.7),
+            color: AppTheme.vermillion.withValues(alpha: 0.7),
           ),
         ),
         calendarBuilders: CalendarBuilders(
@@ -206,12 +268,12 @@ class _HomeScreenState extends State<HomeScreen> {
               margin: const EdgeInsets.all(4),
               decoration: status == 'done'
                   ? const BoxDecoration(
-                      color: jade,
+                      color: AppTheme.jade,
                       shape: BoxShape.circle,
                     )
                   : status == 'studied'
                       ? BoxDecoration(
-                          color: amber.withValues(alpha: 0.3),
+                          color: AppTheme.amber.withValues(alpha: 0.3),
                           shape: BoxShape.circle,
                         )
                       : null,
@@ -222,10 +284,10 @@ class _HomeScreenState extends State<HomeScreen> {
                     fontSize: 14,
                     fontWeight: status != null ? FontWeight.bold : FontWeight.normal,
                     color: status == 'done'
-                        ? paper
+                        ? AppTheme.paper
                         : status == 'studied'
                             ? const Color(0xFF8B6914)
-                            : ink,
+                            : AppTheme.ink,
                   ),
                 ),
               ),
@@ -245,8 +307,7 @@ class _HomeScreenState extends State<HomeScreen> {
           style: TextStyle(
             fontSize: 18,
             fontWeight: FontWeight.w600,
-            fontFamily: 'Noto Serif TC',
-            color: ink,
+            color: AppTheme.ink,
           ),
         ),
         const SizedBox(height: 12),
@@ -257,7 +318,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 '待複習',
                 '$_dueCount',
                 '需今天完成',
-                amber,
+                AppTheme.amber,
               ),
             ),
             const SizedBox(width: 10),
@@ -266,7 +327,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 '已掌握',
                 '$_masteredCount',
                 '已通關篇章',
-                jade,
+                AppTheme.jade,
               ),
             ),
             const SizedBox(width: 10),
@@ -275,7 +336,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 '錯題',
                 '$_mistakeCount',
                 '待重做',
-                vermillion,
+                AppTheme.vermillion,
               ),
             ),
           ],
@@ -288,9 +349,9 @@ class _HomeScreenState extends State<HomeScreen> {
     return Container(
       padding: const EdgeInsets.symmetric(vertical: 16, horizontal: 12),
       decoration: BoxDecoration(
-        color: paper,
+        color: AppTheme.paper,
         borderRadius: BorderRadius.circular(12),
-        border: Border.all(color: const Color(0xFFE5E3DE)),
+        border: Border.all(color: AppTheme.border),
       ),
       child: Column(
         children: [
@@ -308,7 +369,7 @@ class _HomeScreenState extends State<HomeScreen> {
             style: const TextStyle(
               fontSize: 13,
               fontWeight: FontWeight.w600,
-              color: ink,
+              color: AppTheme.ink,
             ),
           ),
           const SizedBox(height: 2),
@@ -316,7 +377,7 @@ class _HomeScreenState extends State<HomeScreen> {
             subtitle,
             style: const TextStyle(
               fontSize: 10,
-              color: secondary,
+              color: AppTheme.secondary,
             ),
           ),
         ],
@@ -331,8 +392,8 @@ class _HomeScreenState extends State<HomeScreen> {
       child: ElevatedButton(
         onPressed: widget.onStartReview,
         style: ElevatedButton.styleFrom(
-          backgroundColor: indigo,
-          foregroundColor: paper,
+          backgroundColor: AppTheme.indigo,
+          foregroundColor: AppTheme.paper,
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(14),
           ),

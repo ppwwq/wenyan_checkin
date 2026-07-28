@@ -1,19 +1,34 @@
+import 'dart:io' show Platform;
+import 'package:flutter/foundation.dart';
 import 'package:sqflite/sqflite.dart';
+import 'package:sqflite_common_ffi/sqflite_ffi.dart';
+import 'package:sqflite_common_ffi_web/sqflite_ffi_web.dart';
 import 'package:path/path.dart';
 
 class DatabaseService {
   static Database? _database;
   static const _version = 1;
   static const _name = 'wenyan.db';
+  static bool _initialized = false;
 
   static Future<Database> get database async {
+    if (!_initialized) {
+      if (kIsWeb) {
+        databaseFactory = databaseFactoryFfiWeb;
+      } else if (Platform.isWindows || Platform.isLinux || Platform.isMacOS) {
+        sqfliteFfiInit();
+        databaseFactory = databaseFactoryFfi;
+      }
+      // Android/iOS: use native sqflite, no factory override needed
+      _initialized = true;
+    }
     _database ??= await _initDB();
     return _database!;
   }
 
   static Future<Database> _initDB() async {
-    final dbPath = await getDatabasesPath();
-    final path = join(dbPath, _name);
+    final dbPath = kIsWeb ? 'wenyan.db' : await getDatabasesPath();
+    final path = kIsWeb ? dbPath : join(dbPath, _name);
     return await openDatabase(
       path,
       version: _version,
