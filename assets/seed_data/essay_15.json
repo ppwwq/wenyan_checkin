@@ -1,0 +1,198 @@
+{
+  "title": "聲聲慢·秋情",
+  "original_text": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚乍煖還寒時候，最難將息三杯兩盞淡酒，怎敵他晚來風急雁過也，正傷心，卻是舊時相識滿地黃花堆積，憔悴損，如今有誰堪摘守著窗兒，獨自怎生得黑梧桐更兼細雨，到黃昏、點點滴滴這次第，怎一箇愁字了得",
+  "original_segments": [
+    "尋尋覓覓，冷冷清清，悽悽慘慘戚戚",
+    "乍煖還寒時候，最難將息",
+    "三杯兩盞淡酒，怎敵他晚來風急",
+    "雁過也，正傷心，卻是舊時相識",
+    "滿地黃花堆積，憔悴損，如今有誰堪摘",
+    "守著窗兒，獨自怎生得黑",
+    "梧桐更兼細雨，到黃昏、點點滴滴",
+    "這次第，怎一箇愁字了得"
+  ],
+  "translation_segments": [
+    "尋尋覓覓，卻只見冷冷清清，怎不讓人凄慘悲戚",
+    "忽冷忽熱的時節，最難保養休息",
+    "喝三杯兩杯淡酒，哪裡可抵擋入夜後的寒風來襲",
+    "雁兒飛過時，更讓人傷心，傷心的卻是舊日相識",
+    "黃花堆積滿地，都已經憔悴不堪，如今還有誰來采摘",
+    "坐在窗前守候，獨自怎樣捱到天黑",
+    "梧桐淒淒細雨淋瀝黃昏時分、雨聲點點滴滴",
+    "這情況，怎麼可能用一個愁字去形容"
+  ],
+  "annotations": [
+    {
+      "word": "乍",
+      "meaning": "剛"
+    },
+    {
+      "word": "煖",
+      "meaning": "溫暖"
+    },
+    {
+      "word": "將息",
+      "meaning": "休息"
+    },
+    {
+      "word": "敵",
+      "meaning": "抵擋"
+    },
+    {
+      "word": "晚",
+      "meaning": "傍晚"
+    },
+    {
+      "word": "黃花",
+      "meaning": "菊花"
+    },
+    {
+      "word": "堪",
+      "meaning": "可以"
+    },
+    {
+      "word": "守",
+      "meaning": "守候"
+    },
+    {
+      "word": "怎生",
+      "meaning": "怎麼"
+    },
+    {
+      "word": "得黑",
+      "meaning": "捱到天黑"
+    },
+    {
+      "word": "梧桐",
+      "meaning": "梧桐樹"
+    },
+    {
+      "word": "次第",
+      "meaning": "情況"
+    },
+    {
+      "word": "箇",
+      "meaning": "個"
+    }
+  ],
+  "id": 15,
+  "questions": [
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「乍」的意思是？",
+      "correct_answer": "剛",
+      "explanation": "「乍」即剛。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「煖」的意思是？",
+      "correct_answer": "溫暖",
+      "explanation": "「煖」即溫暖。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「將息」的意思是？",
+      "correct_answer": "休息",
+      "explanation": "「將息」即休息。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「敵」的意思是？",
+      "correct_answer": "抵擋",
+      "explanation": "「敵」即抵擋。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「晚」的意思是？",
+      "correct_answer": "傍晚",
+      "explanation": "「晚」即傍晚。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「黃花」的意思是？",
+      "correct_answer": "菊花",
+      "explanation": "「黃花」即菊花。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「堪」的意思是？",
+      "correct_answer": "可以",
+      "explanation": "「堪」即可以。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「守」的意思是？",
+      "correct_answer": "守候",
+      "explanation": "「守」即守候。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「怎生」的意思是？",
+      "correct_answer": "怎麼",
+      "explanation": "「怎生」即怎麼。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「得黑」的意思是？",
+      "correct_answer": "捱到天黑",
+      "explanation": "「得黑」即捱到天黑。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「梧桐」的意思是？",
+      "correct_answer": "梧桐樹",
+      "explanation": "「梧桐」即梧桐樹。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「次第」的意思是？",
+      "correct_answer": "情況",
+      "explanation": "「次第」即情況。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「箇」的意思是？",
+      "correct_answer": "個",
+      "explanation": "「箇」即個。",
+      "source": "auto_generated"
+    }
+  ]
+}

@@ -1,0 +1,624 @@
+{
+  "title": "師說",
+  "original_text": "古之學者必有師師者，所以傳道、受業、解惑也人非生而知之者，孰能無惑惑而不從師，其為惑也終不解矣生乎吾前，其聞道也，固先乎吾，吾從而師之生乎吾後，其聞道也，亦先乎吾，吾從而師之吾師道也，夫庸知其年之先後生於吾乎是故無貴無賤，無長無少，道之所存，師之所存也嗟乎！師道之不傳也久矣！欲人之無惑也難矣古之聖人，其出人也遠矣，猶且從師而問焉今之眾人，其下聖人也亦遠矣，而恥學於師是故聖益聖，愚益愚聖人之所以為聖，愚人之所以為愚，其皆出於此乎愛其子，擇師而教之於其身也則恥師焉，惑矣彼童子之師，授之書而習其句讀者非吾所謂傳其道、解其惑者也句讀之不知，惑之不解或師焉，或不焉小學而大遺，吾未見其明也巫、醫、樂師、百工之人，不恥相師士大夫之族，曰師、曰弟子云者，則羣聚而笑之問之，則曰彼與彼年相若也，道相似也位卑則足羞官盛則近諛嗚呼！師道之不復可知矣。巫、醫、樂師、百工之人，君子不齒今其智乃反不能及，其可怪也歟聖人無常師，孔子師郯子、萇弘、師襄、老聃郯子之徒，其賢不及孔子孔子曰︰「三人行，則必有我師是故弟子不必不如師，師不必賢於弟子聞道有先後術業有專攻，如是而已",
+  "original_segments": [
+    "古之學者必有師",
+    "師者，所以傳道、受業、解惑也",
+    "人非生而知之者，孰能無惑",
+    "惑而不從師，其為惑也終不解矣",
+    "生乎吾前，其聞道也，固先乎吾，吾從而師之",
+    "生乎吾後，其聞道也，亦先乎吾，吾從而師之",
+    "吾師道也，夫庸知其年之先後生於吾乎",
+    "是故無貴無賤，無長無少，道之所存，師之所存也",
+    "嗟乎！師道之不傳也久矣！欲人之無惑也難矣",
+    "古之聖人，其出人也遠矣，猶且從師而問焉",
+    "今之眾人，其下聖人也亦遠矣，而恥學於師",
+    "是故聖益聖，愚益愚",
+    "聖人之所以為聖，愚人之所以為愚，其皆出於此乎",
+    "愛其子，擇師而教之",
+    "於其身也則恥師焉，惑矣",
+    "彼童子之師，授之書而習其句讀者",
+    "非吾所謂傳其道、解其惑者也",
+    "句讀之不知，惑之不解",
+    "或師焉，或不焉",
+    "小學而大遺，吾未見其明也",
+    "巫、醫、樂師、百工之人，不恥相師",
+    "士大夫之族，曰師、曰弟子云者，則羣聚而笑之",
+    "問之，則曰",
+    "彼與彼年相若也，道相似也",
+    "位卑則足羞",
+    "官盛則近諛",
+    "嗚呼！師道之不復",
+    "可知矣。巫、醫、樂師、百工之人，君子不齒",
+    "今其智乃反不能及，其可怪也歟",
+    "聖人無常師，孔子師郯子、萇弘、師襄、老聃",
+    "郯子之徒，其賢不及孔子",
+    "孔子曰︰「三人行，則必有我師",
+    "是故弟子不必不如師，師不必賢於弟子",
+    "聞道有先後",
+    "術業有專攻，如是而已"
+  ],
+  "translation_segments": [
+    "古代求學的人一定有老師",
+    "老師，是傳授道理、講授學問、解決疑難的人",
+    "人不是生來就有知識的，誰能沒有疑難問題呢",
+    "有問題卻不從師學習，那他的問題和疑惑便始終不能解決了",
+    "出生在我之前的人，他懂得道理本來就比我早，我應向他學習",
+    "出生在我之後的人，如果他懂得道理也比我早，我也應該向他學習",
+    "我學習的是道理，哪用知道他的出生年月比我的早還是晚呢",
+    "因此不論地位高低，無論年長年幼，誰人懂得道理，誰就是我的老師",
+    "唉！從師學習的道理已經失傳很久了，想人們沒有疑難問題也更難了",
+    "古代的聖人，他們（的道德學問）遠遠高出一般人，尚且向老師學習呢",
+    "現在一般的人，他們（的道德學問）遠遠低於聖人，卻把向老師學習當做可恥的事",
+    "因此聖人更加通達道理，一般人更加愚昧",
+    "聖人所以成為聖人的原因，一般人所以成為愚人的原因，大概都是由此造成",
+    "愛護兒子，便挑選老師來教導",
+    "對於自己，卻把求師當做可恥的事，真令人大惑不解啊",
+    "那小孩子的老師，只是拿着課本教孩子，讓他們熟習句讀",
+    "並不是我所講的傳授道理，解決疑難啊",
+    "不懂句讀，和有疑難不能解決",
+    "前者向老師學習，後者則不請教老師",
+    "小問題願意向人請教，大問題卻遺棄不問，我看不出這些人是聰明的",
+    "醫師、樂師、各類工匠，都不把請教老師當做可恥的事",
+    "讀書的人，一說到老師、弟子，就聚在一起譏笑",
+    "問他們笑甚麼，便回答說",
+    "某人和某人年紀差不多，懂得的道理也不相上下",
+    "要是為師的地位低，向他學習便感到羞恥",
+    "要是為師的地位高，向他學習便近於阿諛奉承",
+    "唉！從師的風氣不再（存在），由此可知了",
+    "醫師、樂師、各類工匠，大人先生是不屑一提的",
+    "現在這些大人先生的才智卻反而及不上他們，這不是很奇怪嗎",
+    "聖人沒有固定的老師，孔子曾向郯子、萇弘、師襄、老聃學習",
+    "郯子這類人，他們的才智都及不上孔子",
+    "孔子說：「三個人在一起走，其中就一定有一個可作我的老師",
+    "所以學生不一定比老師差，老師也不一定比學生強",
+    "只是彼此在懂得道理的時間上有先後",
+    "在學術、技藝方面各有專長，就是這樣罷了",
+    "李氏子蟠，年十七，好古文",
+    "六藝經傳，皆通習之",
+    "不拘於時，學於余",
+    "余嘉其能行古道，作《師說》以貽之",
+    "李家孩子李蟠，十七歲，愛好古文",
+    "《六經》的經和傳，他全都學習過",
+    "他不受社會風氣的\t拘束，向我學習",
+    "我讚許他能實行古人從師的道理，寫了這篇《師說》贈送給他"
+  ],
+  "annotations": [
+    {
+      "word": "受",
+      "meaning": "授"
+    },
+    {
+      "word": "孰",
+      "meaning": "誰"
+    },
+    {
+      "word": "聞",
+      "meaning": "懂得"
+    },
+    {
+      "word": "固",
+      "meaning": "本來"
+    },
+    {
+      "word": "從",
+      "meaning": "跟從"
+    },
+    {
+      "word": "庸",
+      "meaning": "難道"
+    },
+    {
+      "word": "知",
+      "meaning": "知道"
+    },
+    {
+      "word": "貴",
+      "meaning": "高貴"
+    },
+    {
+      "word": "賤",
+      "meaning": "卑賤"
+    },
+    {
+      "word": "存",
+      "meaning": "存在"
+    },
+    {
+      "word": "出",
+      "meaning": "超出"
+    },
+    {
+      "word": "遠",
+      "meaning": "多"
+    },
+    {
+      "word": "猶且",
+      "meaning": "尚且"
+    },
+    {
+      "word": "遠",
+      "meaning": "多"
+    },
+    {
+      "word": "恥",
+      "meaning": "羞恥"
+    },
+    {
+      "word": "益",
+      "meaning": "更加"
+    },
+    {
+      "word": "其",
+      "meaning": "大概"
+    },
+    {
+      "word": "惑",
+      "meaning": "糊塗"
+    },
+    {
+      "word": "或",
+      "meaning": "有人"
+    },
+    {
+      "word": "遺",
+      "meaning": "遺漏"
+    },
+    {
+      "word": "明",
+      "meaning": "明智"
+    },
+    {
+      "word": "相",
+      "meaning": "互相"
+    },
+    {
+      "word": "師",
+      "meaning": "學習"
+    },
+    {
+      "word": "族",
+      "meaning": "類"
+    },
+    {
+      "word": "道",
+      "meaning": "學問"
+    },
+    {
+      "word": "卑",
+      "meaning": "低下"
+    },
+    {
+      "word": "羞",
+      "meaning": "羞恥"
+    },
+    {
+      "word": "盛",
+      "meaning": "高"
+    },
+    {
+      "word": "諛",
+      "meaning": "奉承"
+    },
+    {
+      "word": "復",
+      "meaning": "恢復"
+    },
+    {
+      "word": "不齒",
+      "meaning": "不屑"
+    },
+    {
+      "word": "及",
+      "meaning": "比得上"
+    },
+    {
+      "word": "常",
+      "meaning": "固定"
+    },
+    {
+      "word": "聞",
+      "meaning": "懂得"
+    },
+    {
+      "word": "專攻",
+      "meaning": "專長"
+    },
+    {
+      "word": "拘",
+      "meaning": "拘守"
+    },
+    {
+      "word": "時",
+      "meaning": "時俗"
+    },
+    {
+      "word": "余",
+      "meaning": "我"
+    },
+    {
+      "word": "嘉",
+      "meaning": "讚許"
+    },
+    {
+      "word": "行",
+      "meaning": "實踐"
+    },
+    {
+      "word": "貽",
+      "meaning": "贈送"
+    }
+  ],
+  "id": 7,
+  "questions": [
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「受」的意思是？",
+      "correct_answer": "授",
+      "explanation": "「受」即授。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「孰」的意思是？",
+      "correct_answer": "誰",
+      "explanation": "「孰」即誰。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「聞」的意思是？",
+      "correct_answer": "懂得",
+      "explanation": "「聞」即懂得。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「固」的意思是？",
+      "correct_answer": "本來",
+      "explanation": "「固」即本來。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「從」的意思是？",
+      "correct_answer": "跟從",
+      "explanation": "「從」即跟從。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「庸」的意思是？",
+      "correct_answer": "難道",
+      "explanation": "「庸」即難道。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「知」的意思是？",
+      "correct_answer": "知道",
+      "explanation": "「知」即知道。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「貴」的意思是？",
+      "correct_answer": "高貴",
+      "explanation": "「貴」即高貴。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「賤」的意思是？",
+      "correct_answer": "卑賤",
+      "explanation": "「賤」即卑賤。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「存」的意思是？",
+      "correct_answer": "存在",
+      "explanation": "「存」即存在。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「出」的意思是？",
+      "correct_answer": "超出",
+      "explanation": "「出」即超出。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「遠」的意思是？",
+      "correct_answer": "多",
+      "explanation": "「遠」即多。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「猶且」的意思是？",
+      "correct_answer": "尚且",
+      "explanation": "「猶且」即尚且。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「遠」的意思是？",
+      "correct_answer": "多",
+      "explanation": "「遠」即多。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「恥」的意思是？",
+      "correct_answer": "羞恥",
+      "explanation": "「恥」即羞恥。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「益」的意思是？",
+      "correct_answer": "更加",
+      "explanation": "「益」即更加。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「其」的意思是？",
+      "correct_answer": "大概",
+      "explanation": "「其」即大概。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「惑」的意思是？",
+      "correct_answer": "糊塗",
+      "explanation": "「惑」即糊塗。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「或」的意思是？",
+      "correct_answer": "有人",
+      "explanation": "「或」即有人。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「遺」的意思是？",
+      "correct_answer": "遺漏",
+      "explanation": "「遺」即遺漏。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「明」的意思是？",
+      "correct_answer": "明智",
+      "explanation": "「明」即明智。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「相」的意思是？",
+      "correct_answer": "互相",
+      "explanation": "「相」即互相。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「師」的意思是？",
+      "correct_answer": "學習",
+      "explanation": "「師」即學習。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「族」的意思是？",
+      "correct_answer": "類",
+      "explanation": "「族」即類。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「道」的意思是？",
+      "correct_answer": "學問",
+      "explanation": "「道」即學問。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「卑」的意思是？",
+      "correct_answer": "低下",
+      "explanation": "「卑」即低下。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「羞」的意思是？",
+      "correct_answer": "羞恥",
+      "explanation": "「羞」即羞恥。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「盛」的意思是？",
+      "correct_answer": "高",
+      "explanation": "「盛」即高。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「諛」的意思是？",
+      "correct_answer": "奉承",
+      "explanation": "「諛」即奉承。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「復」的意思是？",
+      "correct_answer": "恢復",
+      "explanation": "「復」即恢復。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「不齒」的意思是？",
+      "correct_answer": "不屑",
+      "explanation": "「不齒」即不屑。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「及」的意思是？",
+      "correct_answer": "比得上",
+      "explanation": "「及」即比得上。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「常」的意思是？",
+      "correct_answer": "固定",
+      "explanation": "「常」即固定。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「聞」的意思是？",
+      "correct_answer": "懂得",
+      "explanation": "「聞」即懂得。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「專攻」的意思是？",
+      "correct_answer": "專長",
+      "explanation": "「專攻」即專長。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「拘」的意思是？",
+      "correct_answer": "拘守",
+      "explanation": "「拘」即拘守。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「時」的意思是？",
+      "correct_answer": "時俗",
+      "explanation": "「時」即時俗。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「余」的意思是？",
+      "correct_answer": "我",
+      "explanation": "「余」即我。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「嘉」的意思是？",
+      "correct_answer": "讚許",
+      "explanation": "「嘉」即讚許。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「行」的意思是？",
+      "correct_answer": "實踐",
+      "explanation": "「行」即實踐。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「貽」的意思是？",
+      "correct_answer": "贈送",
+      "explanation": "「貽」即贈送。",
+      "source": "auto_generated"
+    }
+  ]
+}

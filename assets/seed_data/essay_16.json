@@ -1,0 +1,142 @@
+{
+  "title": "青玉案·元夕",
+  "original_text": "東風夜放花千樹，更吹落、星如雨寶馬雕車香滿路鳳簫聲動，玉壺光轉，一夜魚龍舞蛾兒雪柳黃金縷，笑語盈盈暗香去眾裏尋他千百度驀然迴首，那人卻在、燈火闌珊處",
+  "original_segments": [
+    "東風夜放花千樹，更吹落、星如雨",
+    "寶馬雕車香滿路",
+    "鳳簫聲動，玉壺光轉，一夜魚龍舞",
+    "蛾兒雪柳黃金縷，笑語盈盈暗香去",
+    "眾裏尋他千百度",
+    "驀然迴首，那人卻在、燈火闌珊處"
+  ],
+  "translation_segments": [
+    "像東風吹散千樹繁花一樣，又吹得煙火紛紛，亂落如雨",
+    "華麗的馬車滿路芳香",
+    "悠揚的鳳簫聲四處回蕩，玉壺般的明月漸漸西斜，一夜魚龍燈飛舞笑語喧嘩",
+    "美人頭上都戴著亮麗的飾物，笑語盈盈地隨人群走過",
+    "在人群中尋找她千百次",
+    "突然回頭，那人卻在，燈火稀少之處"
+  ],
+  "annotations": [
+    {
+      "word": "東風",
+      "meaning": "春風"
+    },
+    {
+      "word": "星",
+      "meaning": "煙火"
+    },
+    {
+      "word": "香",
+      "meaning": "香氣"
+    },
+    {
+      "word": "玉壺",
+      "meaning": "月亮"
+    },
+    {
+      "word": "暗香",
+      "meaning": "幽香"
+    },
+    {
+      "word": "度",
+      "meaning": "次"
+    },
+    {
+      "word": "驀然",
+      "meaning": "突然"
+    },
+    {
+      "word": "迴首",
+      "meaning": "回頭"
+    },
+    {
+      "word": "闌珊",
+      "meaning": "稀少"
+    }
+  ],
+  "id": 16,
+  "questions": [
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「東風」的意思是？",
+      "correct_answer": "春風",
+      "explanation": "「東風」即春風。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「星」的意思是？",
+      "correct_answer": "煙火",
+      "explanation": "「星」即煙火。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「香」的意思是？",
+      "correct_answer": "香氣",
+      "explanation": "「香」即香氣。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「玉壺」的意思是？",
+      "correct_answer": "月亮",
+      "explanation": "「玉壺」即月亮。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「暗香」的意思是？",
+      "correct_answer": "幽香",
+      "explanation": "「暗香」即幽香。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「度」的意思是？",
+      "correct_answer": "次",
+      "explanation": "「度」即次。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「驀然」的意思是？",
+      "correct_answer": "突然",
+      "explanation": "「驀然」即突然。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「迴首」的意思是？",
+      "correct_answer": "回頭",
+      "explanation": "「迴首」即回頭。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「闌珊」的意思是？",
+      "correct_answer": "稀少",
+      "explanation": "「闌珊」即稀少。",
+      "source": "auto_generated"
+    }
+  ]
+}

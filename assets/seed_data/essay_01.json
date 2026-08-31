@@ -1,0 +1,1261 @@
+{
+  "title": "論仁、論孝、論君子",
+  "original_text": "1. 子曰不仁者不可以久處約，不可以長處樂仁者安仁，知者利仁子曰富與貴，是人之所欲也不以其道得之，不處也貧與賤，是人之所惡也不以其道得之，不去也君子去仁，惡乎成名君子無終食之間違仁造次必於是，顛沛必於是顏淵問仁子曰克己復禮為仁一日克己復禮，天下歸仁焉為仁由己，而由人乎哉顏淵曰請問其目子曰非禮勿視，非禮勿聽非禮勿言，非禮勿動顏淵曰回雖不敏，請事斯語矣子曰志士仁人無求生以害仁有殺身以成仁孟懿子問孝子曰無違樊遲御，子告之曰孟孫問孝於我，我對曰，無違樊遲曰：「何謂也子曰生事之以禮死葬之以禮，祭之以禮子游問孝子曰今之孝者，是謂能養至於犬馬，皆能有養不敬，何以別乎子曰事父母幾諫見志不從又敬不違，勞而不怨子曰父母之年，不可不知也一則以喜，一則以懼子曰君子不重則不威；學則不固主忠信無友不如己者。過則勿憚改子曰君子坦蕩蕩，小人長戚戚司馬牛問君子子曰君子不憂不懼曰不憂不懼斯謂之君子矣乎子曰內省不疚夫何憂何懼子曰君子成人之美，不成人之惡小人反是子曰君子恥其言而過其行子曰君子義以為質，禮以行之孫以出之，信以成之君子哉子曰君子病無能焉不病人之不己知也子曰君子求諸己，小人求諸人",
+  "original_segments": [
+    "1. 子曰",
+    "不仁者",
+    "不可以久處約，不可以長處樂",
+    "仁者安仁，知者利仁",
+    "子曰",
+    "富與貴，是人之所欲也",
+    "不以其道得之，不處也",
+    "貧與賤，是人之所惡也",
+    "不以其道得之，不去也",
+    "君子去仁，惡乎成名",
+    "君子無終食之間違仁",
+    "造次必於是，顛沛必於是",
+    "顏淵問仁",
+    "子曰",
+    "克己復禮為仁",
+    "一日克己復禮，天下歸仁焉",
+    "為仁由己，而由人乎哉",
+    "顏淵曰",
+    "請問其目",
+    "子曰",
+    "非禮勿視，非禮勿聽",
+    "非禮勿言，非禮勿動",
+    "顏淵曰",
+    "回雖不敏，請事斯語矣",
+    "子曰",
+    "志士仁人",
+    "無求生以害仁",
+    "有殺身以成仁",
+    "孟懿子問孝",
+    "子曰",
+    "無違",
+    "樊遲御，子告之曰",
+    "孟孫問孝於我，我對曰，無違",
+    "樊遲曰：「何謂也",
+    "子曰",
+    "生事之以禮",
+    "死葬之以禮，祭之以禮",
+    "子游問孝",
+    "子曰",
+    "今之孝者，是謂能養",
+    "至於犬馬，皆能有養",
+    "不敬，何以別乎",
+    "子曰",
+    "事父母幾諫",
+    "見志不從",
+    "又敬不違，勞而不怨",
+    "子曰",
+    "父母之年，不可不知也",
+    "一則以喜，一則以懼",
+    "子曰",
+    "君子不重則不威；學則不固",
+    "主忠信",
+    "無友不如己者。過則勿憚改",
+    "子曰",
+    "君子坦蕩蕩，小人長戚戚",
+    "司馬牛問君子",
+    "子曰",
+    "君子不憂不懼",
+    "曰",
+    "不憂不懼",
+    "斯謂之君子矣乎",
+    "子曰",
+    "內省不疚",
+    "夫何憂何懼",
+    "子曰",
+    "君子成人之美，不成人之惡",
+    "小人反是",
+    "子曰",
+    "君子恥其言而過其行",
+    "子曰",
+    "君子義以為質，禮以行之",
+    "孫以出之，信以成之",
+    "君子哉",
+    "子曰",
+    "君子病無能焉",
+    "不病人之不己知也",
+    "子曰",
+    "君子求諸己，小人求諸人"
+  ],
+  "translation_segments": [
+    "孔子說",
+    "沒有仁德的人",
+    "不可以長期處於窮困的境況中，不可以長期處於安樂的境況中",
+    "有仁德的人安於實踐仁，有智慧的人藉着實踐仁德而得到利益",
+    "孔子說",
+    "財富和顯貴，是人人都想得到的",
+    "不以正當的方法得到它們，不可以接受",
+    "貧窮和卑賤，是人人都厭惡的",
+    "不以正當的方法擺脫它們，不可以離去",
+    "君子拋棄了仁德，怎樣成就他的名聲",
+    "即使短至一頓飯的時間，君子也不會違背仁德",
+    "倉卒緊迫的時候必定如此，顛沛流離的時候也必如此",
+    "顏淵問甚麼是仁德",
+    "孔子說",
+    "克制自己的私慾，使言行舉止合乎禮節，就是仁德",
+    "一旦能做到這一點，天下的人都會歸服你的仁德",
+    "實踐仁德全憑自己，難道是憑藉別人嗎",
+    "顏淵說",
+    "請問仁德包括甚麼條目",
+    "孔子說",
+    "不看不合乎禮節的東西，不聽不合乎禮節的說話",
+    "不說不合乎禮節的話語，不做不合乎禮節的事情",
+    "顏淵說",
+    "我雖然不聰敏，請讓我照着這些話去做",
+    "孔子說",
+    "有節操的人和有仁德的人之中",
+    "沒有人會為求生存而損害仁德",
+    "只有犧牲自己的生命來成全仁德",
+    "孟懿子問甚麼是孝道",
+    "孔子說",
+    "不要違背",
+    "樊遲駕車時，孔子告訴他說",
+    "孟孫問我甚麼是孝，我回答他說：『不要違背』",
+    "樊遲說：「這是甚麽意思",
+    "孔子說",
+    "（父母）在生時，按照禮節來侍奉他們",
+    "（父母）死後，按禮節安葬他們，祭祀他們",
+    "子游問甚麼是孝道",
+    "孔子說",
+    "現在的孝道，就是說能夠供養（父母）",
+    "即使是狗、馬，都能得到飼養",
+    "（供養父母時）沒有心存敬意，（跟飼養狗、馬）有甚麼分別",
+    "孔子說",
+    "侍奉父母時，要委婉地勸告",
+    "看到自己的心志不獲（父母）聽從",
+    "也要恭敬而不冒犯他們，擔憂但不抱怨",
+    "孔子說",
+    "父母的年齡，不能不知道",
+    "一方面（因他們長壽而）歡喜，一方面（因他們年事已高而）恐懼",
+    "孔子說",
+    "君子不莊重，就不會有威嚴；所學的也不會穩固",
+    "以忠心、誠信為主要原則",
+    "不要結交（品德）不如自己的人，犯了錯不要怕改正",
+    "孔子說",
+    "君子心境舒坦寬廣，小人經常憂愁恐懼",
+    "司馬牛問甚麼是君子",
+    "孔子說",
+    "君子不憂愁，不恐懼",
+    "（司馬牛）說",
+    "不憂愁，不恐懼",
+    "這就可以稱作君子嗎",
+    "孔子說",
+    "自我反省而沒有愧疚",
+    "何來憂愁、恐懼",
+    "孔子說",
+    "君子成全別人的好事，不促成別人的壞事",
+    "小人則相反",
+    "孔子說",
+    "說了卻沒有實行，君子會為此感到羞恥",
+    "孔子說",
+    "君子以道義為根本，依照禮節實行它",
+    "以謙遜的話說出它，用誠懇的態度完成它",
+    "這就是君子了",
+    "孔子說",
+    "君子憂慮自己沒有能力",
+    "不憂慮別人不了解自己",
+    "孔子說",
+    "君子要求自己，小人要求別人"
+  ],
+  "annotations": [
+    {
+      "word": "約",
+      "meaning": "窮困"
+    },
+    {
+      "word": "樂",
+      "meaning": "安樂"
+    },
+    {
+      "word": "知",
+      "meaning": "智"
+    },
+    {
+      "word": "利",
+      "meaning": "利用"
+    },
+    {
+      "word": "處",
+      "meaning": "接受"
+    },
+    {
+      "word": "惡",
+      "meaning": "厭惡"
+    },
+    {
+      "word": "去",
+      "meaning": "離棄"
+    },
+    {
+      "word": "惡",
+      "meaning": "如何"
+    },
+    {
+      "word": "終食之間",
+      "meaning": "吃完一餐飯的時間"
+    },
+    {
+      "word": "違",
+      "meaning": "離開"
+    },
+    {
+      "word": "造次",
+      "meaning": "緊迫"
+    },
+    {
+      "word": "是",
+      "meaning": "此"
+    },
+    {
+      "word": "是",
+      "meaning": "此"
+    },
+    {
+      "word": "克",
+      "meaning": "克制"
+    },
+    {
+      "word": "復",
+      "meaning": "合於"
+    },
+    {
+      "word": "克",
+      "meaning": "克制"
+    },
+    {
+      "word": "復",
+      "meaning": "合於"
+    },
+    {
+      "word": "為",
+      "meaning": "實踐"
+    },
+    {
+      "word": "由",
+      "meaning": "憑"
+    },
+    {
+      "word": "而",
+      "meaning": "難道"
+    },
+    {
+      "word": "由",
+      "meaning": "憑"
+    },
+    {
+      "word": "目",
+      "meaning": "要目"
+    },
+    {
+      "word": "敏",
+      "meaning": "聰敏"
+    },
+    {
+      "word": "事",
+      "meaning": "實行"
+    },
+    {
+      "word": "斯",
+      "meaning": "這"
+    },
+    {
+      "word": "害",
+      "meaning": "損害"
+    },
+    {
+      "word": "殺",
+      "meaning": "犧牲"
+    },
+    {
+      "word": "成",
+      "meaning": "成全"
+    },
+    {
+      "word": "無",
+      "meaning": "不要"
+    },
+    {
+      "word": "違",
+      "meaning": "違背"
+    },
+    {
+      "word": "御",
+      "meaning": "驅車"
+    },
+    {
+      "word": "無",
+      "meaning": "不要"
+    },
+    {
+      "word": "違",
+      "meaning": "違背"
+    },
+    {
+      "word": "事",
+      "meaning": "侍奉"
+    },
+    {
+      "word": "葬",
+      "meaning": "埋葬"
+    },
+    {
+      "word": "祭",
+      "meaning": "祭祀"
+    },
+    {
+      "word": "養",
+      "meaning": "供養"
+    },
+    {
+      "word": "養",
+      "meaning": "飼養"
+    },
+    {
+      "word": "敬",
+      "meaning": "尊敬"
+    },
+    {
+      "word": "事",
+      "meaning": "侍奉"
+    },
+    {
+      "word": "幾",
+      "meaning": "輕微"
+    },
+    {
+      "word": "諫",
+      "meaning": "勸諫"
+    },
+    {
+      "word": "敬",
+      "meaning": "恭敬"
+    },
+    {
+      "word": "違",
+      "meaning": "冒犯"
+    },
+    {
+      "word": "勞",
+      "meaning": "擔憂"
+    },
+    {
+      "word": "而",
+      "meaning": "但是"
+    },
+    {
+      "word": "怨",
+      "meaning": "抱怨"
+    },
+    {
+      "word": "年",
+      "meaning": "年紀"
+    },
+    {
+      "word": "知",
+      "meaning": "記住"
+    },
+    {
+      "word": "重",
+      "meaning": "莊重"
+    },
+    {
+      "word": "威",
+      "meaning": "威儀"
+    },
+    {
+      "word": "固",
+      "meaning": "穩固"
+    },
+    {
+      "word": "無",
+      "meaning": "不要"
+    },
+    {
+      "word": "如",
+      "meaning": "及"
+    },
+    {
+      "word": "過",
+      "meaning": "過錯"
+    },
+    {
+      "word": "憚",
+      "meaning": "害怕"
+    },
+    {
+      "word": "戚",
+      "meaning": "憂愁"
+    },
+    {
+      "word": "憂",
+      "meaning": "憂愁"
+    },
+    {
+      "word": "懼",
+      "meaning": "畏懼"
+    },
+    {
+      "word": "斯",
+      "meaning": "這樣"
+    },
+    {
+      "word": "省",
+      "meaning": "反省"
+    },
+    {
+      "word": "疚",
+      "meaning": "愧疚"
+    },
+    {
+      "word": "成",
+      "meaning": "成全"
+    },
+    {
+      "word": "人",
+      "meaning": "別人"
+    },
+    {
+      "word": "美",
+      "meaning": "美德"
+    },
+    {
+      "word": "成",
+      "meaning": "成全"
+    },
+    {
+      "word": "人",
+      "meaning": "別人"
+    },
+    {
+      "word": "惡",
+      "meaning": "惡行"
+    },
+    {
+      "word": "反",
+      "meaning": "相反"
+    },
+    {
+      "word": "恥",
+      "meaning": "羞恥"
+    },
+    {
+      "word": "行",
+      "meaning": "行為"
+    },
+    {
+      "word": "義",
+      "meaning": "合義"
+    },
+    {
+      "word": "質",
+      "meaning": "原則"
+    },
+    {
+      "word": "禮",
+      "meaning": "禮節"
+    },
+    {
+      "word": "行",
+      "meaning": "實行"
+    },
+    {
+      "word": "孫",
+      "meaning": "謙遜"
+    },
+    {
+      "word": "信",
+      "meaning": "信實"
+    },
+    {
+      "word": "成",
+      "meaning": "完成"
+    },
+    {
+      "word": "病",
+      "meaning": "擔憂"
+    },
+    {
+      "word": "病",
+      "meaning": "擔憂"
+    },
+    {
+      "word": "求",
+      "meaning": "要求"
+    },
+    {
+      "word": "己",
+      "meaning": "自己"
+    },
+    {
+      "word": "求",
+      "meaning": "要求"
+    },
+    {
+      "word": "人",
+      "meaning": "別人"
+    }
+  ],
+  "id": 1,
+  "questions": [
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「約」的意思是？",
+      "correct_answer": "窮困",
+      "explanation": "「約」即窮困。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「樂」的意思是？",
+      "correct_answer": "安樂",
+      "explanation": "「樂」即安樂。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「知」的意思是？",
+      "correct_answer": "智",
+      "explanation": "「知」即智。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「利」的意思是？",
+      "correct_answer": "利用",
+      "explanation": "「利」即利用。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「處」的意思是？",
+      "correct_answer": "接受",
+      "explanation": "「處」即接受。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「惡」的意思是？",
+      "correct_answer": "厭惡",
+      "explanation": "「惡」即厭惡。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「去」的意思是？",
+      "correct_answer": "離棄",
+      "explanation": "「去」即離棄。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「惡」的意思是？",
+      "correct_answer": "如何",
+      "explanation": "「惡」即如何。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「終食之間」的意思是？",
+      "correct_answer": "吃完一餐飯的時間",
+      "explanation": "「終食之間」即吃完一餐飯的時間。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「違」的意思是？",
+      "correct_answer": "離開",
+      "explanation": "「違」即離開。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「造次」的意思是？",
+      "correct_answer": "緊迫",
+      "explanation": "「造次」即緊迫。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「是」的意思是？",
+      "correct_answer": "此",
+      "explanation": "「是」即此。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「是」的意思是？",
+      "correct_answer": "此",
+      "explanation": "「是」即此。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「克」的意思是？",
+      "correct_answer": "克制",
+      "explanation": "「克」即克制。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「復」的意思是？",
+      "correct_answer": "合於",
+      "explanation": "「復」即合於。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「克」的意思是？",
+      "correct_answer": "克制",
+      "explanation": "「克」即克制。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「復」的意思是？",
+      "correct_answer": "合於",
+      "explanation": "「復」即合於。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「為」的意思是？",
+      "correct_answer": "實踐",
+      "explanation": "「為」即實踐。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「由」的意思是？",
+      "correct_answer": "憑",
+      "explanation": "「由」即憑。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「而」的意思是？",
+      "correct_answer": "難道",
+      "explanation": "「而」即難道。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「由」的意思是？",
+      "correct_answer": "憑",
+      "explanation": "「由」即憑。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「目」的意思是？",
+      "correct_answer": "要目",
+      "explanation": "「目」即要目。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「敏」的意思是？",
+      "correct_answer": "聰敏",
+      "explanation": "「敏」即聰敏。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「事」的意思是？",
+      "correct_answer": "實行",
+      "explanation": "「事」即實行。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「斯」的意思是？",
+      "correct_answer": "這",
+      "explanation": "「斯」即這。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「害」的意思是？",
+      "correct_answer": "損害",
+      "explanation": "「害」即損害。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「殺」的意思是？",
+      "correct_answer": "犧牲",
+      "explanation": "「殺」即犧牲。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「成」的意思是？",
+      "correct_answer": "成全",
+      "explanation": "「成」即成全。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「無」的意思是？",
+      "correct_answer": "不要",
+      "explanation": "「無」即不要。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「違」的意思是？",
+      "correct_answer": "違背",
+      "explanation": "「違」即違背。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「御」的意思是？",
+      "correct_answer": "驅車",
+      "explanation": "「御」即驅車。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「無」的意思是？",
+      "correct_answer": "不要",
+      "explanation": "「無」即不要。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「違」的意思是？",
+      "correct_answer": "違背",
+      "explanation": "「違」即違背。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「事」的意思是？",
+      "correct_answer": "侍奉",
+      "explanation": "「事」即侍奉。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「葬」的意思是？",
+      "correct_answer": "埋葬",
+      "explanation": "「葬」即埋葬。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「祭」的意思是？",
+      "correct_answer": "祭祀",
+      "explanation": "「祭」即祭祀。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「養」的意思是？",
+      "correct_answer": "供養",
+      "explanation": "「養」即供養。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「養」的意思是？",
+      "correct_answer": "飼養",
+      "explanation": "「養」即飼養。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「敬」的意思是？",
+      "correct_answer": "尊敬",
+      "explanation": "「敬」即尊敬。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「事」的意思是？",
+      "correct_answer": "侍奉",
+      "explanation": "「事」即侍奉。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「幾」的意思是？",
+      "correct_answer": "輕微",
+      "explanation": "「幾」即輕微。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「諫」的意思是？",
+      "correct_answer": "勸諫",
+      "explanation": "「諫」即勸諫。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「敬」的意思是？",
+      "correct_answer": "恭敬",
+      "explanation": "「敬」即恭敬。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「違」的意思是？",
+      "correct_answer": "冒犯",
+      "explanation": "「違」即冒犯。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「勞」的意思是？",
+      "correct_answer": "擔憂",
+      "explanation": "「勞」即擔憂。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「而」的意思是？",
+      "correct_answer": "但是",
+      "explanation": "「而」即但是。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「怨」的意思是？",
+      "correct_answer": "抱怨",
+      "explanation": "「怨」即抱怨。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「年」的意思是？",
+      "correct_answer": "年紀",
+      "explanation": "「年」即年紀。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「知」的意思是？",
+      "correct_answer": "記住",
+      "explanation": "「知」即記住。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「重」的意思是？",
+      "correct_answer": "莊重",
+      "explanation": "「重」即莊重。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「威」的意思是？",
+      "correct_answer": "威儀",
+      "explanation": "「威」即威儀。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「固」的意思是？",
+      "correct_answer": "穩固",
+      "explanation": "「固」即穩固。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「無」的意思是？",
+      "correct_answer": "不要",
+      "explanation": "「無」即不要。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「如」的意思是？",
+      "correct_answer": "及",
+      "explanation": "「如」即及。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「過」的意思是？",
+      "correct_answer": "過錯",
+      "explanation": "「過」即過錯。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「憚」的意思是？",
+      "correct_answer": "害怕",
+      "explanation": "「憚」即害怕。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「戚」的意思是？",
+      "correct_answer": "憂愁",
+      "explanation": "「戚」即憂愁。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「憂」的意思是？",
+      "correct_answer": "憂愁",
+      "explanation": "「憂」即憂愁。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「懼」的意思是？",
+      "correct_answer": "畏懼",
+      "explanation": "「懼」即畏懼。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「斯」的意思是？",
+      "correct_answer": "這樣",
+      "explanation": "「斯」即這樣。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「省」的意思是？",
+      "correct_answer": "反省",
+      "explanation": "「省」即反省。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「疚」的意思是？",
+      "correct_answer": "愧疚",
+      "explanation": "「疚」即愧疚。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「成」的意思是？",
+      "correct_answer": "成全",
+      "explanation": "「成」即成全。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「人」的意思是？",
+      "correct_answer": "別人",
+      "explanation": "「人」即別人。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「美」的意思是？",
+      "correct_answer": "美德",
+      "explanation": "「美」即美德。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「成」的意思是？",
+      "correct_answer": "成全",
+      "explanation": "「成」即成全。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「人」的意思是？",
+      "correct_answer": "別人",
+      "explanation": "「人」即別人。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「惡」的意思是？",
+      "correct_answer": "惡行",
+      "explanation": "「惡」即惡行。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「反」的意思是？",
+      "correct_answer": "相反",
+      "explanation": "「反」即相反。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「恥」的意思是？",
+      "correct_answer": "羞恥",
+      "explanation": "「恥」即羞恥。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「行」的意思是？",
+      "correct_answer": "行為",
+      "explanation": "「行」即行為。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「義」的意思是？",
+      "correct_answer": "合義",
+      "explanation": "「義」即合義。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「質」的意思是？",
+      "correct_answer": "原則",
+      "explanation": "「質」即原則。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「禮」的意思是？",
+      "correct_answer": "禮節",
+      "explanation": "「禮」即禮節。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「行」的意思是？",
+      "correct_answer": "實行",
+      "explanation": "「行」即實行。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「孫」的意思是？",
+      "correct_answer": "謙遜",
+      "explanation": "「孫」即謙遜。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「信」的意思是？",
+      "correct_answer": "信實",
+      "explanation": "「信」即信實。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「成」的意思是？",
+      "correct_answer": "完成",
+      "explanation": "「成」即完成。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「病」的意思是？",
+      "correct_answer": "擔憂",
+      "explanation": "「病」即擔憂。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「病」的意思是？",
+      "correct_answer": "擔憂",
+      "explanation": "「病」即擔憂。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「求」的意思是？",
+      "correct_answer": "要求",
+      "explanation": "「求」即要求。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「己」的意思是？",
+      "correct_answer": "自己",
+      "explanation": "「己」即自己。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「求」的意思是？",
+      "correct_answer": "要求",
+      "explanation": "「求」即要求。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「人」的意思是？",
+      "correct_answer": "別人",
+      "explanation": "「人」即別人。",
+      "source": "auto_generated"
+    }
+  ]
+}

@@ -1,0 +1,1236 @@
+{
+  "title": "逍遙遊",
+  "original_text": "惠子謂莊子曰魏王貽我大瓠之種，我樹之成而實五石以盛水漿，其堅不能自舉也剖之以為瓢，則瓠落無所容非不呺然大也，吾為其無用而掊之莊子曰：「夫子固拙於用大矣宋人有善為不龜手之藥者，世世洴澼絖為事客聞之，請買其方百金聚族而謀曰：『我世世為洴澼絖，不過數金今一朝而鬻技百金，請與之客得之，以說吳王越有難，吳王使之將冬與越人水戰，大敗越人，裂地而封之能不龜手一也或以封，或不免於洴澼絖，則所用之異也今子有五石之瓠，何不慮以為大樽而浮於江湖而憂其瓠落無所容則夫子猶有蓬之心也夫惠子謂莊子曰：「吾有大樹，人謂之樗其大本擁腫而不中繩墨其小枝卷曲而不中規矩立之塗，匠者不顧今子之言，大而無用，衆所同去也莊子曰：「子獨不見狸狌乎卑身而伏，以候敖者東西跳梁，不辟高下，中於機辟，死於罔罟今夫斄牛，其大若垂天之雲此能為大矣，而不能執鼠今子有大樹，患其無用何不樹之於無何有之鄉，廣莫之野彷徨乎無為其側，逍遙乎寢臥其下不夭斤斧，物無害者無所可用，安所困苦哉",
+  "original_segments": [
+    "惠子謂莊子曰",
+    "魏王貽我大瓠之種，我樹之成而實五石",
+    "以盛水漿，其堅不能自舉也",
+    "剖之以為瓢，則瓠落無所容",
+    "非不呺然大也，吾為其無用而掊之",
+    "莊子曰：「夫子固拙於用大矣",
+    "宋人有善為不龜手之藥者，世世洴澼絖為事",
+    "客聞之，請買其方百金",
+    "聚族而謀曰：『我世世為洴澼絖，不過數金",
+    "今一朝而鬻技百金，請與之",
+    "客得之，以說吳王",
+    "越有難，吳王使之將",
+    "冬與越人水戰，大敗越人，裂地而封之",
+    "能不龜手一也",
+    "或以封，或不免於洴澼絖，則所用之異也",
+    "今子有五石之瓠，何不慮以為大樽而浮於江湖",
+    "而憂其瓠落無所容",
+    "則夫子猶有蓬之心也夫",
+    "惠子謂莊子曰：「吾有大樹，人謂之樗",
+    "其大本擁腫而不中繩墨",
+    "其小枝卷曲而不中規矩",
+    "立之塗，匠者不顧",
+    "今子之言，大而無用，衆所同去也",
+    "莊子曰：「子獨不見狸狌乎",
+    "卑身而伏，以候敖者",
+    "東西跳梁，不辟高下，中於機辟，死於罔罟",
+    "今夫斄牛，其大若垂天之雲",
+    "此能為大矣，而不能執鼠",
+    "今子有大樹，患其無用",
+    "何不樹之於無何有之鄉，廣莫之野",
+    "彷徨乎無為其側，逍遙乎寢臥其下",
+    "不夭斤斧，物無害者",
+    "無所可用，安所困苦哉"
+  ],
+  "translation_segments": [
+    "惠子對莊子說",
+    "魏王送我大葫蘆瓜的種子，我種植它成長而果實有五石之大",
+    "用它來盛水，它的堅硬程度卻不能承受起自身的重量",
+    "剖開它來作為勺子，它則太大而平淺，無法容納東西",
+    "它並非不巨大啊， 但我認為它沒有用處而打破它",
+    "莊子說：「你實在不善於運用大的物件啊",
+    "宋國有一個人，他善於製造使手的皮膚不皸裂的藥物，他的家族世世代代都以漂洗棉絮為事業",
+    "有一個客人聽聞這事， 要求用百斤金購買他的藥方",
+    "這個人聚集全族人商量說：『我們世世代代漂洗棉絮，不過賺到幾斤金",
+    "現在賣出藥方即可得到百斤金，請答應他吧",
+    "客人得到藥方後，便用來游說吳王",
+    "那時越國發難，入侵吳國，吳王派他率領軍隊",
+    "在冬天跟越國人打水戰，大敗越國人，吳王劃出一塊土地封賞給他，作為采邑",
+    "使手不會皸裂的藥方是一樣的",
+    "有人因此得到封賞，有人不免繼續漂洗棉絮， 這就是運用方法的分別",
+    "現在你有五石容積的葫蘆，為甚麼不用繩結繫在腰間作為腰舟，浮游於水上",
+    "反而憂慮它無法容納東西",
+    "可見你茅塞不通啊",
+    "惠子對莊子說：「我有一棵大樹，人們叫它做樗",
+    "它的樹幹上有很多贅瘤，不符合用（木匠用來）取直的工具",
+    "它的樹枝蜷縮彎曲，不符合（木匠用來）畫圓和畫方的工具",
+    "它生長在大路旁，木匠都不回頭看",
+    "現在你的言論，大而無用，大家都拋棄了",
+    "莊子說：「你難道沒有見過野貓嗎",
+    "牠彎着身軀埋伏，等待走過的老鼠",
+    "牠東西跳躍，不避高低，踏中捕獸的機關，死在（捕獸的）網具裏",
+    "再看斄牛，牠的身體大如遮蓋天邊的雲",
+    "這牛可說是大了吧，但卻不會去捉老鼠",
+    "現在你有一棵大樹，擔憂它無用",
+    "為甚麼不把它種在寬曠無人的鄉間，遼闊無邊的郊野",
+    "在樹旁隨意徘徊閑逛，在樹下逍遙自在地躺卧",
+    "（這棵樹）不會被斧頭砍伐，沒有東西侵害它",
+    "沒有甚麼可用之處，又有甚麼困苦禍患呢"
+  ],
+  "annotations": [
+    {
+      "word": "貽",
+      "meaning": "贈送"
+    },
+    {
+      "word": "瓠",
+      "meaning": "葫蘆"
+    },
+    {
+      "word": "樹",
+      "meaning": "種植"
+    },
+    {
+      "word": "之",
+      "meaning": "種子"
+    },
+    {
+      "word": "成",
+      "meaning": "成長"
+    },
+    {
+      "word": "實",
+      "meaning": "果實"
+    },
+    {
+      "word": "舉",
+      "meaning": "支撐"
+    },
+    {
+      "word": "剖",
+      "meaning": "割開"
+    },
+    {
+      "word": "瓢",
+      "meaning": "勺子"
+    },
+    {
+      "word": "則",
+      "meaning": "卻"
+    },
+    {
+      "word": "瓠落",
+      "meaning": "很大的樣子"
+    },
+    {
+      "word": "所",
+      "meaning": "地方"
+    },
+    {
+      "word": "容",
+      "meaning": "存放"
+    },
+    {
+      "word": "呺然",
+      "meaning": "大而中空"
+    },
+    {
+      "word": "吾",
+      "meaning": "我"
+    },
+    {
+      "word": "掊",
+      "meaning": "打破"
+    },
+    {
+      "word": "固",
+      "meaning": "確實"
+    },
+    {
+      "word": "拙",
+      "meaning": "不善"
+    },
+    {
+      "word": "為",
+      "meaning": "製造"
+    },
+    {
+      "word": "洴澼",
+      "meaning": "漂洗"
+    },
+    {
+      "word": "絖",
+      "meaning": "棉絮"
+    },
+    {
+      "word": "事",
+      "meaning": "事業"
+    },
+    {
+      "word": "方",
+      "meaning": "藥方"
+    },
+    {
+      "word": "謀",
+      "meaning": "商議"
+    },
+    {
+      "word": "鬻",
+      "meaning": "賣出"
+    },
+    {
+      "word": "技",
+      "meaning": "藥方"
+    },
+    {
+      "word": "與",
+      "meaning": "給予"
+    },
+    {
+      "word": "說",
+      "meaning": "遊說"
+    },
+    {
+      "word": "難",
+      "meaning": "兵難"
+    },
+    {
+      "word": "使",
+      "meaning": "命令"
+    },
+    {
+      "word": "之",
+      "meaning": "客人"
+    },
+    {
+      "word": "將",
+      "meaning": "領兵"
+    },
+    {
+      "word": "裂",
+      "meaning": "分割"
+    },
+    {
+      "word": "封",
+      "meaning": "封賞"
+    },
+    {
+      "word": "能",
+      "meaning": "同樣"
+    },
+    {
+      "word": "一",
+      "meaning": "一樣"
+    },
+    {
+      "word": "以",
+      "meaning": "因此"
+    },
+    {
+      "word": "免",
+      "meaning": "擺脫"
+    },
+    {
+      "word": "洴澼",
+      "meaning": "漂洗"
+    },
+    {
+      "word": "絖",
+      "meaning": "棉絮"
+    },
+    {
+      "word": "異",
+      "meaning": "不同"
+    },
+    {
+      "word": "今",
+      "meaning": "現在"
+    },
+    {
+      "word": "瓠",
+      "meaning": "葫蘆"
+    },
+    {
+      "word": "慮",
+      "meaning": "考慮"
+    },
+    {
+      "word": "憂",
+      "meaning": "憂慮"
+    },
+    {
+      "word": "瓠落",
+      "meaning": "很大"
+    },
+    {
+      "word": "所",
+      "meaning": "地方"
+    },
+    {
+      "word": "猶",
+      "meaning": "還是"
+    },
+    {
+      "word": "蓬",
+      "meaning": "茅塞不通"
+    },
+    {
+      "word": "心",
+      "meaning": "心思"
+    },
+    {
+      "word": "謂",
+      "meaning": "對"
+    },
+    {
+      "word": "吾",
+      "meaning": "我"
+    },
+    {
+      "word": "謂",
+      "meaning": "稱呼"
+    },
+    {
+      "word": "樗",
+      "meaning": "樗樹"
+    },
+    {
+      "word": "大本",
+      "meaning": "樹幹"
+    },
+    {
+      "word": "擁腫",
+      "meaning": "隆起不平直"
+    },
+    {
+      "word": "中",
+      "meaning": "符合"
+    },
+    {
+      "word": "小枝",
+      "meaning": "樹枝"
+    },
+    {
+      "word": "卷曲",
+      "meaning": "捲曲"
+    },
+    {
+      "word": "中",
+      "meaning": "符合"
+    },
+    {
+      "word": "立",
+      "meaning": "生長"
+    },
+    {
+      "word": "塗",
+      "meaning": "道路"
+    },
+    {
+      "word": "今",
+      "meaning": "現在"
+    },
+    {
+      "word": "子",
+      "meaning": "你"
+    },
+    {
+      "word": "去",
+      "meaning": "離棄"
+    },
+    {
+      "word": "子",
+      "meaning": "你"
+    },
+    {
+      "word": "獨",
+      "meaning": "難道"
+    },
+    {
+      "word": "敖",
+      "meaning": "出遊"
+    },
+    {
+      "word": "跳梁",
+      "meaning": "跳躍"
+    },
+    {
+      "word": "辟",
+      "meaning": "避"
+    },
+    {
+      "word": "罔罟",
+      "meaning": "網"
+    },
+    {
+      "word": "今",
+      "meaning": "現在"
+    },
+    {
+      "word": "若",
+      "meaning": "好像"
+    },
+    {
+      "word": "能",
+      "meaning": "功能"
+    },
+    {
+      "word": "執",
+      "meaning": "捕捉"
+    },
+    {
+      "word": "今",
+      "meaning": "現在"
+    },
+    {
+      "word": "子",
+      "meaning": "你"
+    },
+    {
+      "word": "患",
+      "meaning": "擔心"
+    },
+    {
+      "word": "樹",
+      "meaning": "種植"
+    },
+    {
+      "word": "鄉",
+      "meaning": "地方"
+    },
+    {
+      "word": "彷徨",
+      "meaning": "徘徊"
+    },
+    {
+      "word": "無為",
+      "meaning": "隨意"
+    },
+    {
+      "word": "側",
+      "meaning": "旁邊"
+    },
+    {
+      "word": "寢",
+      "meaning": "睡覺"
+    },
+    {
+      "word": "臥",
+      "meaning": "躺臥"
+    },
+    {
+      "word": "夭",
+      "meaning": "災禍"
+    },
+    {
+      "word": "斤",
+      "meaning": "刀"
+    },
+    {
+      "word": "困",
+      "meaning": "困難"
+    },
+    {
+      "word": "苦",
+      "meaning": "苦惱"
+    }
+  ],
+  "id": 3,
+  "questions": [
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「貽」的意思是？",
+      "correct_answer": "贈送",
+      "explanation": "「貽」即贈送。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「瓠」的意思是？",
+      "correct_answer": "葫蘆",
+      "explanation": "「瓠」即葫蘆。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「樹」的意思是？",
+      "correct_answer": "種植",
+      "explanation": "「樹」即種植。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「之」的意思是？",
+      "correct_answer": "種子",
+      "explanation": "「之」即種子。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「成」的意思是？",
+      "correct_answer": "成長",
+      "explanation": "「成」即成長。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「實」的意思是？",
+      "correct_answer": "果實",
+      "explanation": "「實」即果實。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「舉」的意思是？",
+      "correct_answer": "支撐",
+      "explanation": "「舉」即支撐。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「剖」的意思是？",
+      "correct_answer": "割開",
+      "explanation": "「剖」即割開。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「瓢」的意思是？",
+      "correct_answer": "勺子",
+      "explanation": "「瓢」即勺子。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「則」的意思是？",
+      "correct_answer": "卻",
+      "explanation": "「則」即卻。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「瓠落」的意思是？",
+      "correct_answer": "很大的樣子",
+      "explanation": "「瓠落」即很大的樣子。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「所」的意思是？",
+      "correct_answer": "地方",
+      "explanation": "「所」即地方。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「容」的意思是？",
+      "correct_answer": "存放",
+      "explanation": "「容」即存放。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「呺然」的意思是？",
+      "correct_answer": "大而中空",
+      "explanation": "「呺然」即大而中空。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「吾」的意思是？",
+      "correct_answer": "我",
+      "explanation": "「吾」即我。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「掊」的意思是？",
+      "correct_answer": "打破",
+      "explanation": "「掊」即打破。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「固」的意思是？",
+      "correct_answer": "確實",
+      "explanation": "「固」即確實。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「拙」的意思是？",
+      "correct_answer": "不善",
+      "explanation": "「拙」即不善。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「為」的意思是？",
+      "correct_answer": "製造",
+      "explanation": "「為」即製造。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「洴澼」的意思是？",
+      "correct_answer": "漂洗",
+      "explanation": "「洴澼」即漂洗。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「絖」的意思是？",
+      "correct_answer": "棉絮",
+      "explanation": "「絖」即棉絮。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「事」的意思是？",
+      "correct_answer": "事業",
+      "explanation": "「事」即事業。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「方」的意思是？",
+      "correct_answer": "藥方",
+      "explanation": "「方」即藥方。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「謀」的意思是？",
+      "correct_answer": "商議",
+      "explanation": "「謀」即商議。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「鬻」的意思是？",
+      "correct_answer": "賣出",
+      "explanation": "「鬻」即賣出。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「技」的意思是？",
+      "correct_answer": "藥方",
+      "explanation": "「技」即藥方。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「與」的意思是？",
+      "correct_answer": "給予",
+      "explanation": "「與」即給予。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「說」的意思是？",
+      "correct_answer": "遊說",
+      "explanation": "「說」即遊說。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「難」的意思是？",
+      "correct_answer": "兵難",
+      "explanation": "「難」即兵難。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「使」的意思是？",
+      "correct_answer": "命令",
+      "explanation": "「使」即命令。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「之」的意思是？",
+      "correct_answer": "客人",
+      "explanation": "「之」即客人。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「將」的意思是？",
+      "correct_answer": "領兵",
+      "explanation": "「將」即領兵。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「裂」的意思是？",
+      "correct_answer": "分割",
+      "explanation": "「裂」即分割。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「封」的意思是？",
+      "correct_answer": "封賞",
+      "explanation": "「封」即封賞。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「能」的意思是？",
+      "correct_answer": "同樣",
+      "explanation": "「能」即同樣。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「一」的意思是？",
+      "correct_answer": "一樣",
+      "explanation": "「一」即一樣。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「以」的意思是？",
+      "correct_answer": "因此",
+      "explanation": "「以」即因此。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「免」的意思是？",
+      "correct_answer": "擺脫",
+      "explanation": "「免」即擺脫。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「洴澼」的意思是？",
+      "correct_answer": "漂洗",
+      "explanation": "「洴澼」即漂洗。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「絖」的意思是？",
+      "correct_answer": "棉絮",
+      "explanation": "「絖」即棉絮。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「異」的意思是？",
+      "correct_answer": "不同",
+      "explanation": "「異」即不同。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「今」的意思是？",
+      "correct_answer": "現在",
+      "explanation": "「今」即現在。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「瓠」的意思是？",
+      "correct_answer": "葫蘆",
+      "explanation": "「瓠」即葫蘆。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「慮」的意思是？",
+      "correct_answer": "考慮",
+      "explanation": "「慮」即考慮。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「憂」的意思是？",
+      "correct_answer": "憂慮",
+      "explanation": "「憂」即憂慮。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「瓠落」的意思是？",
+      "correct_answer": "很大",
+      "explanation": "「瓠落」即很大。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「所」的意思是？",
+      "correct_answer": "地方",
+      "explanation": "「所」即地方。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「猶」的意思是？",
+      "correct_answer": "還是",
+      "explanation": "「猶」即還是。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「蓬」的意思是？",
+      "correct_answer": "茅塞不通",
+      "explanation": "「蓬」即茅塞不通。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「心」的意思是？",
+      "correct_answer": "心思",
+      "explanation": "「心」即心思。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「謂」的意思是？",
+      "correct_answer": "對",
+      "explanation": "「謂」即對。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「吾」的意思是？",
+      "correct_answer": "我",
+      "explanation": "「吾」即我。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「謂」的意思是？",
+      "correct_answer": "稱呼",
+      "explanation": "「謂」即稱呼。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「樗」的意思是？",
+      "correct_answer": "樗樹",
+      "explanation": "「樗」即樗樹。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「大本」的意思是？",
+      "correct_answer": "樹幹",
+      "explanation": "「大本」即樹幹。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「擁腫」的意思是？",
+      "correct_answer": "隆起不平直",
+      "explanation": "「擁腫」即隆起不平直。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「中」的意思是？",
+      "correct_answer": "符合",
+      "explanation": "「中」即符合。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「小枝」的意思是？",
+      "correct_answer": "樹枝",
+      "explanation": "「小枝」即樹枝。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「卷曲」的意思是？",
+      "correct_answer": "捲曲",
+      "explanation": "「卷曲」即捲曲。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「中」的意思是？",
+      "correct_answer": "符合",
+      "explanation": "「中」即符合。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「立」的意思是？",
+      "correct_answer": "生長",
+      "explanation": "「立」即生長。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「塗」的意思是？",
+      "correct_answer": "道路",
+      "explanation": "「塗」即道路。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「今」的意思是？",
+      "correct_answer": "現在",
+      "explanation": "「今」即現在。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「子」的意思是？",
+      "correct_answer": "你",
+      "explanation": "「子」即你。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「去」的意思是？",
+      "correct_answer": "離棄",
+      "explanation": "「去」即離棄。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「子」的意思是？",
+      "correct_answer": "你",
+      "explanation": "「子」即你。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「獨」的意思是？",
+      "correct_answer": "難道",
+      "explanation": "「獨」即難道。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「敖」的意思是？",
+      "correct_answer": "出遊",
+      "explanation": "「敖」即出遊。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「跳梁」的意思是？",
+      "correct_answer": "跳躍",
+      "explanation": "「跳梁」即跳躍。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「辟」的意思是？",
+      "correct_answer": "避",
+      "explanation": "「辟」即避。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「罔罟」的意思是？",
+      "correct_answer": "網",
+      "explanation": "「罔罟」即網。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「今」的意思是？",
+      "correct_answer": "現在",
+      "explanation": "「今」即現在。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「若」的意思是？",
+      "correct_answer": "好像",
+      "explanation": "「若」即好像。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「能」的意思是？",
+      "correct_answer": "功能",
+      "explanation": "「能」即功能。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「執」的意思是？",
+      "correct_answer": "捕捉",
+      "explanation": "「執」即捕捉。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「今」的意思是？",
+      "correct_answer": "現在",
+      "explanation": "「今」即現在。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「子」的意思是？",
+      "correct_answer": "你",
+      "explanation": "「子」即你。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「患」的意思是？",
+      "correct_answer": "擔心",
+      "explanation": "「患」即擔心。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「樹」的意思是？",
+      "correct_answer": "種植",
+      "explanation": "「樹」即種植。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「鄉」的意思是？",
+      "correct_answer": "地方",
+      "explanation": "「鄉」即地方。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「彷徨」的意思是？",
+      "correct_answer": "徘徊",
+      "explanation": "「彷徨」即徘徊。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「無為」的意思是？",
+      "correct_answer": "隨意",
+      "explanation": "「無為」即隨意。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「側」的意思是？",
+      "correct_answer": "旁邊",
+      "explanation": "「側」即旁邊。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「寢」的意思是？",
+      "correct_answer": "睡覺",
+      "explanation": "「寢」即睡覺。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「臥」的意思是？",
+      "correct_answer": "躺臥",
+      "explanation": "「臥」即躺臥。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「夭」的意思是？",
+      "correct_answer": "災禍",
+      "explanation": "「夭」即災禍。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「斤」的意思是？",
+      "correct_answer": "刀",
+      "explanation": "「斤」即刀。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「困」的意思是？",
+      "correct_answer": "困難",
+      "explanation": "「困」即困難。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「苦」的意思是？",
+      "correct_answer": "苦惱",
+      "explanation": "「苦」即苦惱。",
+      "source": "auto_generated"
+    }
+  ]
+}

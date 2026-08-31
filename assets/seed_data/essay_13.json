@@ -1,0 +1,159 @@
+{
+  "title": "登樓",
+  "original_text": "花近高樓傷客心萬方多難此登臨錦江春色來天地玉壘浮雲變古今北極朝廷終不改西山寇盜莫相侵可憐後主還祠廟日暮聊為梁甫吟",
+  "original_segments": [
+    "花近高樓傷客心",
+    "萬方多難此登臨",
+    "錦江春色來天地",
+    "玉壘浮雲變古今",
+    "北極朝廷終不改",
+    "西山寇盜莫相侵",
+    "可憐後主還祠廟",
+    "日暮聊為梁甫吟"
+  ],
+  "translation_segments": [
+    "繁花在高樓近處盛放，看了反而觸景傷情",
+    "國家多難的時刻，我登臨這座高樓",
+    "錦江的春色爛漫，已從天地的邊際來臨",
+    "玉壘山的浮雲，自古到今變幻無常",
+    "朝廷會像北極星一樣恆久，始終不會改變",
+    "西山的強盜吐蕃不要再入侵",
+    "可歎像蜀國後主劉禪，仍有祠廟來紀念他",
+    "在這黃昏時分，把《梁甫吟》再唸一遍"
+  ],
+  "annotations": [
+    {
+      "word": "傷",
+      "meaning": "觸景傷情"
+    },
+    {
+      "word": "難",
+      "meaning": "憂患"
+    },
+    {
+      "word": "錦江",
+      "meaning": "錦江河"
+    },
+    {
+      "word": "玉壘",
+      "meaning": "玉壘山"
+    },
+    {
+      "word": "北極",
+      "meaning": "北極星"
+    },
+    {
+      "word": "終",
+      "meaning": "始終"
+    },
+    {
+      "word": "莫",
+      "meaning": "不要"
+    },
+    {
+      "word": "憐",
+      "meaning": "憐憫"
+    },
+    {
+      "word": "還",
+      "meaning": "仍然"
+    },
+    {
+      "word": "聊",
+      "meaning": "姑且"
+    }
+  ],
+  "id": 13,
+  "questions": [
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「傷」的意思是？",
+      "correct_answer": "觸景傷情",
+      "explanation": "「傷」即觸景傷情。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「難」的意思是？",
+      "correct_answer": "憂患",
+      "explanation": "「難」即憂患。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「錦江」的意思是？",
+      "correct_answer": "錦江河",
+      "explanation": "「錦江」即錦江河。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「玉壘」的意思是？",
+      "correct_answer": "玉壘山",
+      "explanation": "「玉壘」即玉壘山。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「北極」的意思是？",
+      "correct_answer": "北極星",
+      "explanation": "「北極」即北極星。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「終」的意思是？",
+      "correct_answer": "始終",
+      "explanation": "「終」即始終。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「莫」的意思是？",
+      "correct_answer": "不要",
+      "explanation": "「莫」即不要。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「憐」的意思是？",
+      "correct_answer": "憐憫",
+      "explanation": "「憐」即憐憫。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「還」的意思是？",
+      "correct_answer": "仍然",
+      "explanation": "「還」即仍然。",
+      "source": "auto_generated"
+    },
+    {
+      "type": "word_mc",
+      "dimension": "語譯詞解",
+      "difficulty": 1,
+      "stem": "「聊」的意思是？",
+      "correct_answer": "姑且",
+      "explanation": "「聊」即姑且。",
+      "source": "auto_generated"
+    }
+  ]
+}
