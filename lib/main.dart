@@ -51,7 +51,7 @@ void main() async {
     MultiProvider(
       providers: [
         if (quizService != null && streakService != null)
-          ChangeNotifierProvider(create: (_) => QuizProvider(quizService!, streakService!)),
+          ChangeNotifierProvider(create: (_) => QuizProvider(quizService!)),
         if (streakService != null)
           ChangeNotifierProvider(create: (_) => StreakProvider(streakService!)),
         if (streakService != null)
@@ -61,13 +61,15 @@ void main() async {
         if (ebbinghausService != null)
           Provider.value(value: ebbinghausService),
       ],
-      child: const WenyanApp(),
+      child: WenyanApp(shellMode: shellMode),
     ),
   );
 }
 
 class WenyanApp extends StatelessWidget {
-  const WenyanApp({super.key});
+  final bool shellMode;
+
+  const WenyanApp({super.key, this.shellMode = false});
 
   @override
   Widget build(BuildContext context) {
@@ -75,7 +77,40 @@ class WenyanApp extends StatelessWidget {
       title: '文言打卡',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.theme,
-      home: const MainScaffold(),
+      home: shellMode ? const _ShellModeScreen() : const MainScaffold(),
+    );
+  }
+}
+
+class _ShellModeScreen extends StatelessWidget {
+  const _ShellModeScreen();
+
+  @override
+  Widget build(BuildContext context) {
+    return const Scaffold(
+      body: SafeArea(
+        child: Center(
+          child: Padding(
+            padding: EdgeInsets.all(24),
+            child: Column(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                Icon(Icons.error_outline, size: 48, color: AppTheme.vermillion),
+                SizedBox(height: 16),
+                Text(
+                  '啟動失敗',
+                  style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
+                ),
+                SizedBox(height: 8),
+                Text(
+                  '資料庫或學習服務暫時無法使用，應用程式目前只能以有限功能模式啟動。請重新啟動後再試。',
+                  textAlign: TextAlign.center,
+                ),
+              ],
+            ),
+          ),
+        ),
+      ),
     );
   }
 }

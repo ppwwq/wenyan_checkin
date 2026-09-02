@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
+import 'package:wenyan_checkin/main.dart';
 import 'package:wenyan_checkin/theme/app_theme.dart';
 
 void main() {
@@ -22,15 +23,13 @@ void main() {
     expect(AppTheme.secondary, const Color(0xFF6B6560));
   });
 
-  testWidgets('WenyanApp builds without crash', (WidgetTester tester) async {
-    await tester.pumpWidget(
-      MaterialApp(
-        title: '文言打卡',
-        debugShowCheckedModeBanner: false,
-        theme: AppTheme.theme,
-        home: const Scaffold(body: Center(child: Text('Hello'))),
-      ),
-    );
-    expect(find.text('Hello'), findsOneWidget);
+  testWidgets('shell mode shows startup failure without providers', (
+    WidgetTester tester,
+  ) async {
+    await tester.pumpWidget(const WenyanApp(shellMode: true));
+
+    expect(find.text('啟動失敗'), findsOneWidget);
+    expect(find.textContaining('有限功能'), findsOneWidget);
+    expect(tester.takeException(), isNull);
   });
 }

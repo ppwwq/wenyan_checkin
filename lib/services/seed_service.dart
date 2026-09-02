@@ -40,14 +40,16 @@ class SeedService {
 
     // Insert annotations
     final annotations = data['annotations'] as List? ?? [];
+    final annotationIds = <int>[];
     for (int j = 0; j < annotations.length; j++) {
       final ann = annotations[j];
-      await db.insert('annotations', {
+      final annotationId = await db.insert('annotations', {
         'essay_id': essayId,
         'word': ann['word'],
         'meaning': ann['meaning'],
         'position': j,
       });
+      annotationIds.add(annotationId);
     }
 
     // Insert translations
@@ -64,9 +66,12 @@ class SeedService {
 
     // Insert auto-generated questions
     final questions = data['questions'] as List? ?? [];
-    for (final q in questions) {
+    for (var index = 0; index < questions.length; index++) {
+      final q = questions[index];
       await db.insert('questions', {
         'essay_id': essayId,
+        if (index < annotationIds.length)
+          'annotation_id': annotationIds[index],
         'type': q['type'] ?? 'word_mc',
         'dimension': q['dimension'] ?? '語譯詞解',
         'difficulty': q['difficulty'] ?? 1,

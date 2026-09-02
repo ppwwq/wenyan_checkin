@@ -1,13 +1,12 @@
 import 'dart:io' show Platform;
 import 'package:flutter/foundation.dart';
-import 'package:sqflite/sqflite.dart';
 import 'package:sqflite_common_ffi/sqflite_ffi.dart';
 import 'package:sqflite_common_ffi_web/sqflite_ffi_web.dart';
 import 'package:path/path.dart';
 
 class DatabaseService {
   static Database? _database;
-  static const _version = 1;
+  static const _version = 2;
   static const _name = 'wenyan.db';
   static bool _initialized = false;
 
@@ -146,8 +145,56 @@ class DatabaseService {
   }
 
   static Future<void> _onUpgrade(Database db, int oldVersion, int newVersion) async {
-    // Future migrations go here
+    if (oldVersion < 2) {
+      final essays = await db.rawQuery(
+        'SELECT DISTINCT essay_id FROM questions ORDER BY essay_id',
+      );
+      for (final essay in essays) {
+        final essayId = essay['essay_id'] as int;
+        final questions = await db.query(
+          'questions',
+          columns: ['id'],
+          where: "essay_id = ? AND type = 'word_mc' AND annotation_id IS NULL",
+          whereArgs: [essayId],
+          orderBy: 'id',
+        );
+        final annotations = await db.query(
+          'annotations',
+          columns: ['id'],
+          where: 'essay_id = ?',
+          whereArgs: [essayId],
+          orderBy: 'position, id',
+        );
+        final pairCount = questions.length < annotations.length
+            ? questions.length
+            : annotations.length;
+        for (var index = 0; index < pairCount; index++) {
+          await db.update(
+            'questions',
+            {'annotation_id': annotations[index]['id']},
+            where: 'id = ?',
+            whereArgs: [questions[index]['id']],
+          );
+        }
+      }
+    }
   }
+
+  @visibleForTesting
+  static Future<void> migrateForTesting(
+    Database db,
+    int oldVersion,
+    int newVersion,
+  ) => _onUpgrade(db, oldVersion, newVersion);
+
+  @visibleForTesting
+  static Future<Database> openInMemoryForTesting() => openDatabase(
+        inMemoryDatabasePath,
+        version: _version,
+        onCreate: _onCreate,
+        onUpgrade: _onUpgrade,
+        onConfigure: (db) => db.execute('PRAGMA foreign_keys = ON'),
+      );
 
   static Future<void> close() async {
     await _database?.close();

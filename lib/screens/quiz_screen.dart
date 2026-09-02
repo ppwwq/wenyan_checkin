@@ -1,4 +1,3 @@
-import 'dart:async';
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -269,7 +268,14 @@ class _QuizScreenState extends State<QuizScreen> {
               isCorrect: options[index] == correctAnswer,
               isAnswered: _lastAnsweredIndex == questionIndex,
               lastCorrect: _lastCorrect,
-              onTap: () => _handleAnswer(quiz, index, options[index], correctAnswer),
+              onTap: quiz.submitting
+                  ? null
+                  : () => _handleAnswer(
+                        quiz,
+                        index,
+                        options[index],
+                        correctAnswer,
+                      ),
             );
           },
         ),
@@ -426,7 +432,7 @@ class _QuizScreenState extends State<QuizScreen> {
     required bool isCorrect,
     required bool isAnswered,
     required bool? lastCorrect,
-    required VoidCallback onTap,
+    required VoidCallback? onTap,
   }) {
     Color? bgColor;
     Color? borderColor;
@@ -561,21 +567,33 @@ class _QuizScreenState extends State<QuizScreen> {
     );
   }
 
-  void _handleAnswer(QuizProvider quiz, int index, String answer, String correctAnswer) {
+  Future<void> _handleAnswer(
+    QuizProvider quiz,
+    int index,
+    String answer,
+    String correctAnswer,
+  ) async {
     final isCorrect = answer == correctAnswer;
     final question = quiz.currentQuestion!;
+
+    final saved = await quiz.submitAnswer(1, answer, isCorrect);
+    if (!mounted) return;
+    if (!saved) {
+      final error = quiz.submissionError;
+      if (error != null) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text(error)),
+        );
+      }
+      return;
+    }
 
     setState(() {
       _selectedIndex = index;
       _lastCorrect = isCorrect;
       _lastAnsweredIndex = quiz.currentIndex;
     });
-
-    // Load word context from annotation
-    unawaited(_loadQuestionContext(question).then((_) {
-      if (mounted) setState(() {});
-    }));
-
-    unawaited(quiz.submitAnswer(1, answer, isCorrect));
+    await _loadQuestionContext(question);
+    if (mounted) setState(() {});
   }
 }

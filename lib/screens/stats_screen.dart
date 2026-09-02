@@ -545,7 +545,7 @@ class _StatsScreenState extends State<StatsScreen> {
                     ],
                   ),
                   const SizedBox(height: 4),
-                  Text('累計${reviewCount}次 · 間隔${interval}天', style: const TextStyle(fontSize: 12, color: AppTheme.secondary)),
+                  Text('累計$reviewCount次 · 間隔$interval天', style: const TextStyle(fontSize: 12, color: AppTheme.secondary)),
                   Row(
                     children: [
                       if (lastReview.isNotEmpty)

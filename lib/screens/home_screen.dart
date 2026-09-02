@@ -226,8 +226,13 @@ class _HomeScreenState extends State<HomeScreen> {
         onFormatChanged: (format) {
           setState(() => _calendarFormat = format);
         },
-        onPageChanged: (focusedDay) {
+        onPageChanged: (focusedDay) async {
           setState(() => _focusedDay = focusedDay);
+          await context.read<StreakProvider>().loadMonth(
+                1,
+                focusedDay.year,
+                focusedDay.month,
+              );
         },
         locale: 'zh_CN',
         headerStyle: HeaderStyle(

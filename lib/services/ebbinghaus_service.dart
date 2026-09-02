@@ -42,7 +42,23 @@ class EbbinghausService {
     required int targetId,
     required bool correct,
   }) async {
-    final existing = await _db.query('study_records',
+    await _db.transaction((txn) => recordReviewInTransaction(
+      txn,
+      userId: userId,
+      targetType: targetType,
+      targetId: targetId,
+      correct: correct,
+    ));
+  }
+
+  Future<void> recordReviewInTransaction(
+    DatabaseExecutor executor, {
+    required int userId,
+    required String targetType,
+    required int targetId,
+    required bool correct,
+  }) async {
+    final existing = await executor.query('study_records',
       where: 'user_id = ? AND target_type = ? AND target_id = ?',
       whereArgs: [userId, targetType, targetId],
     );
@@ -52,7 +68,7 @@ class EbbinghausService {
 
     if (existing.isEmpty) {
       final interval = correct ? 2 : 1;
-      await _db.insert('study_records', {
+      await executor.insert('study_records', {
         'user_id': userId,
         'target_type': targetType,
         'target_id': targetId,
@@ -82,7 +98,7 @@ class EbbinghausService {
         status = 'reviewing';
       }
 
-      await _db.update('study_records', {
+      await executor.update('study_records', {
         'review_count': reviewCount,
         'interval_days': newInterval,
         'last_review_date': today,

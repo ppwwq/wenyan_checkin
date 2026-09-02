@@ -1,12 +1,15 @@
 import 'package:sqflite/sqflite.dart';
 import 'database_service.dart';
 import 'ebbinghaus_service.dart';
+import 'streak_service.dart';
 
 class QuizService {
   final Database _db;
   final EbbinghausService _ebbinghaus;
+  final StreakService _streak;
 
-  QuizService(this._db, this._ebbinghaus);
+  QuizService(this._db, this._ebbinghaus, [StreakService? streak])
+      : _streak = streak ?? StreakService(_db);
 
   static Future<QuizService> create() async {
     final db = await DatabaseService.database;
@@ -87,7 +90,7 @@ class QuizService {
     if (added() < remaining) {
       final newQuestions = await _db.rawQuery('''
         SELECT q.* FROM questions q
-        WHERE q.id NOT IN (
+        WHERE q.annotation_id IS NULL OR q.annotation_id NOT IN (
           SELECT DISTINCT target_id FROM study_records
           WHERE user_id = ? AND target_type = 'annotation'
         ) LIMIT ?
@@ -111,33 +114,34 @@ class QuizService {
     required String userAnswer,
     required bool correct,
   }) async {
-    final question = (await _db.query('questions', where: 'id = ?', whereArgs: [questionId])).first;
+    return _db.transaction((txn) async {
+    final question = (await txn.query('questions', where: 'id = ?', whereArgs: [questionId])).first;
 
     if (!correct) {
-      final existing = await _db.query('mistake_log',
+      final existing = await txn.query('mistake_log',
         where: 'user_id = ? AND question_id = ? AND mastered = 0',
         whereArgs: [userId, questionId]);
       if (existing.isEmpty) {
-        await _db.insert('mistake_log', {
+        await txn.insert('mistake_log', {
           'user_id': userId, 'question_id': questionId,
           'wrong_answer': userAnswer, 'retry_count': 1,
         });
       } else {
-        await _db.update('mistake_log',
+        await txn.update('mistake_log',
           {'retry_count': (existing.first['retry_count'] as int) + 1, 'wrong_answer': userAnswer},
           where: 'id = ?', whereArgs: [existing.first['id']]);
       }
     } else {
-      final existing = await _db.query('mistake_log',
+      final existing = await txn.query('mistake_log',
         where: 'user_id = ? AND question_id = ? AND mastered = 0',
         whereArgs: [userId, questionId]);
       if (existing.isNotEmpty) {
         final retryCount = (existing.first['retry_count'] as int) + 1;
         if (retryCount >= 3) {
-          await _db.update('mistake_log', {'mastered': 1},
+          await txn.update('mistake_log', {'mastered': 1},
             where: 'id = ?', whereArgs: [existing.first['id']]);
         } else {
-          await _db.update('mistake_log', {'retry_count': retryCount},
+          await txn.update('mistake_log', {'retry_count': retryCount},
             where: 'id = ?', whereArgs: [existing.first['id']]);
         }
       }
@@ -146,7 +150,7 @@ class QuizService {
     // Find annotation id — if not set, match by correct_answer == meaning
     var annotationId = question['annotation_id'] as int?;
     if (annotationId == null) {
-      final annotations = await _db.query('annotations',
+      final annotations = await txn.query('annotations',
         where: 'essay_id = ? AND meaning = ?',
         whereArgs: [question['essay_id'], question['correct_answer']],
       );
@@ -155,15 +159,18 @@ class QuizService {
       }
     }
     if (annotationId != null) {
-      await _ebbinghaus.recordReview(
+      await _ebbinghaus.recordReviewInTransaction(txn,
         userId: userId, targetType: 'annotation',
         targetId: annotationId, correct: correct);
     }
 
-    await _ebbinghaus.recordReview(
+    await _ebbinghaus.recordReviewInTransaction(txn,
       userId: userId, targetType: 'essay',
       targetId: question['essay_id'] as int, correct: correct);
 
+    await _streak.recordAnsweredQuestionInTransaction(txn, userId);
+
     return {'question': question, 'correct': correct};
+    });
   }
 }

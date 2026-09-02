@@ -6,6 +6,7 @@ class StreakProvider extends ChangeNotifier {
   int _streak = 0;
   Map<String, String> _monthData = {};
   Map<String, dynamic> _stats = {};
+  int _monthLoadGeneration = 0;
 
   StreakProvider(this._streakService);
 
@@ -14,15 +15,31 @@ class StreakProvider extends ChangeNotifier {
   Map<String, dynamic> get stats => _stats;
 
   Future<void> load(int userId) async {
+    final monthGeneration = ++_monthLoadGeneration;
     _streak = await _streakService.getStreak(userId);
     final now = DateTime.now();
-    _monthData = await _streakService.getMonthData(userId, now.year, now.month);
+    final monthData = await _streakService.getMonthData(
+      userId,
+      now.year,
+      now.month,
+    );
+    if (monthGeneration == _monthLoadGeneration) {
+      _monthData = monthData;
+    }
     _stats = await _streakService.getStats(userId);
     notifyListeners();
   }
 
   Future<void> refreshStats(int userId) async {
     _stats = await _streakService.getStats(userId);
+    notifyListeners();
+  }
+
+  Future<void> loadMonth(int userId, int year, int month) async {
+    final generation = ++_monthLoadGeneration;
+    final data = await _streakService.getMonthData(userId, year, month);
+    if (generation != _monthLoadGeneration) return;
+    _monthData = data;
     notifyListeners();
   }
 }

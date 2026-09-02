@@ -13,29 +13,49 @@ class StreakService {
   String get today => DateTime.now().toIso8601String().split('T')[0];
 
   Future<void> logQuestions(int userId, int count) async {
-    final existing = await _db.query('daily_logs',
-      where: 'user_id = ? AND date = ?', whereArgs: [userId, today]);
-    if (existing.isEmpty) {
-      await _db.insert('daily_logs', {
-        'user_id': userId, 'date': today,
-        'questions_done': count, 'target_met': 0,
-      });
-    } else {
-      await _db.update('daily_logs',
-        {'questions_done': (existing.first['questions_done'] as int) + count},
-        where: 'id = ?', whereArgs: [existing.first['id']]);
-    }
+    await _db.transaction(
+      (txn) => _incrementQuestions(txn, userId, count),
+    );
+  }
+
+  Future<void> _incrementQuestions(
+    DatabaseExecutor executor,
+    int userId,
+    int count,
+  ) async {
+    await executor.rawInsert(
+      'INSERT OR IGNORE INTO daily_logs '
+      '(user_id, date, questions_done, target_met) VALUES (?, ?, 0, 0)',
+      [userId, today],
+    );
+    await executor.rawUpdate(
+      'UPDATE daily_logs SET questions_done = questions_done + ? '
+      'WHERE user_id = ? AND date = ?',
+      [count, userId, today],
+    );
+  }
+
+  Future<void> recordAnsweredQuestionInTransaction(
+    DatabaseExecutor executor,
+    int userId,
+  ) async {
+    await _incrementQuestions(executor, userId, 1);
+    await _checkTargetMet(executor, userId);
   }
 
   Future<bool> checkTargetMet(int userId) async {
-    final user = (await _db.query('users', where: 'id = ?', whereArgs: [userId])).first;
+    return _checkTargetMet(_db, userId);
+  }
+
+  Future<bool> _checkTargetMet(DatabaseExecutor executor, int userId) async {
+    final user = (await executor.query('users', where: 'id = ?', whereArgs: [userId])).first;
     final target = user['daily_target'] as int;
-    final log = await _db.query('daily_logs',
+    final log = await executor.query('daily_logs',
       where: 'user_id = ? AND date = ?', whereArgs: [userId, today]);
     if (log.isEmpty) return false;
     final done = log.first['questions_done'] as int;
     if (done >= target) {
-      await _db.update('daily_logs', {'target_met': 1},
+      await executor.update('daily_logs', {'target_met': 1},
         where: 'id = ?', whereArgs: [log.first['id']]);
       return true;
     }
