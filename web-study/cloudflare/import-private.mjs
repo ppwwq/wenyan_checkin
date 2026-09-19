@@ -1,0 +1,12 @@
+import {readFile,writeFile} from 'node:fs/promises';
+const origin=process.argv[2];
+if(!origin||!/^https:\/\/[a-z0-9-]+\.[a-z0-9-]+\.workers\.dev$/.test(origin))throw new Error('Pass the verified HTTPS Worker origin');
+const folder=new URL('../backend/data/',import.meta.url);
+const secrets=JSON.parse(await readFile(new URL('cloud-secrets.json',folder),'utf8'));
+const snapshot=await readFile(new URL('cloud-snapshot.json',folder),'utf8');
+const expected=Object.fromEntries(Object.entries(JSON.parse(snapshot).tables).map(([t,rows])=>[t,rows.length]));
+const response=await fetch(origin+'/api/internal/import',{method:'POST',headers:{'Content-Type':'application/json',Authorization:'Bearer '+secrets.MIGRATION_SECRET},body:snapshot});
+const result=await response.json();if(!response.ok)throw new Error('Import failed: '+response.status+' '+result.error);
+for(const [table,count] of Object.entries(expected))if(result.counts[table]!==count)throw new Error('Import count mismatch '+table);
+await writeFile(new URL('cloud-import-result.json',folder),JSON.stringify({origin,verifiedAt:new Date().toISOString(),...result},null,2));
+console.log(JSON.stringify({origin,...result}));

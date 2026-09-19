@@ -13,3 +13,5 @@ for(const file of files)await cp(resolve(root,file),resolve(root,'dist',file),{r
 await writeFile(resolve(root,'dist/build-info.json'),JSON.stringify({version:bank.version,questions:bank.questions.length,builtAt:new Date().toISOString()},null,2));
 console.log('Build complete: '+bank.questions.length+' source-linked questions; static assets in web-study/dist.');
 
+
+await writeFile(resolve(root,'dist/_headers'),`/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: same-origin\n  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'\n  Cache-Control: no-cache\n`);

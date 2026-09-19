@@ -1,3 +1,4 @@
+import { atomic } from './transaction.mjs';
 import { randomBytes, createHash } from 'node:crypto';
 const hash = value => createHash('sha256').update(value).digest('hex');
 const canonical = value => JSON.stringify(value, (_, v) => v && typeof v === 'object' && !Array.isArray(v) ? Object.fromEntries(Object.entries(v).sort(([a], [b]) => a.localeCompare(b))) : v);
@@ -53,8 +54,7 @@ export function syncApi({ db, need, body, json, currentQuestion = () => null }) 
       const input = await body(req); need(Array.isArray(input.events) && input.events.length <= 500, '每次最多同步 500 个事件。');
       input.events.forEach(validate);
       const ordered = [...input.events].sort((a, b) => Number(a.type === 'assessment') - Number(b.type === 'assessment') || Date.parse(a.createdAt) - Date.parse(b.createdAt) || a.id.localeCompare(b.id));
-      db.exec('BEGIN IMMEDIATE');
-      try {
+      atomic(db, () => {
         for (const event of ordered) {
           validate(event);
           const payload = canonical(event.payload);
@@ -70,8 +70,7 @@ export function syncApi({ db, need, body, json, currentQuestion = () => null }) 
           run('INSERT INTO events(user_id,id,type,payload,created_at,received_at) VALUES (?, ?, ?, ?, ?, ?)', user.id, event.id, event.type, payload, event.createdAt, now);
           if (event.type === 'report') run('INSERT INTO reports VALUES (?, ?, ?, ?, ?, ?, ?)', randomBytes(18).toString('base64url'), user.id, event.id, payload, 'received', '', now);
         }
-        db.exec('COMMIT');
-      } catch (error) { db.exec('ROLLBACK'); throw error; }
+      });
       const events = all('SELECT * FROM events WHERE user_id=? ORDER BY seq', user.id).map(row => ({ id: row.id, type: row.type, payload: JSON.parse(row.payload), createdAt: row.created_at, receivedAt: row.received_at }));
       json(res, 200, { events, reports: reportRows(user), corrections: correctionRows(user), firstObservations: firstObservations(events, user), serverTime: new Date().toISOString() }); return true;
     }
@@ -92,12 +91,10 @@ export function syncApi({ db, need, body, json, currentQuestion = () => null }) 
       const id = randomBytes(18).toString('base64url'); const createdAt = new Date().toISOString();
       const existing = get('SELECT * FROM corrections WHERE report_id=? AND attempt_id=? ORDER BY seq DESC LIMIT 1', input.reportId, input.attemptId);
       if (existing && !!existing.correct === input.correct && existing.reason === input.reason) { json(res, 200, { ok: true, id: existing.id }); return true; }
-      db.exec('BEGIN IMMEDIATE');
-      try {
+      atomic(db, () => {
         run('INSERT INTO corrections(id,user_id,attempt_id,correct,reason,report_id,admin_id,created_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?)', id, report.user_id, input.attemptId, Number(input.correct), input.reason, input.reportId, user.id, createdAt);
         run('UPDATE reports SET status=?,reply=?,updated_at=? WHERE id=?', 'corrected', input.reason, createdAt, input.reportId);
-        db.exec('COMMIT');
-      } catch (error) { db.exec('ROLLBACK'); throw error; }
+      });
       json(res, 201, { ok: true, id }); return true;
     }
     if (route === '/api/admin/reports' && req.method === 'GET') { json(res, 200, { reports: reportRows() }); return true; }
@@ -116,7 +113,7 @@ export function syncApi({ db, need, body, json, currentQuestion = () => null }) 
       if (input.revision) need(input.revision.id === questionId && Number.isInteger(input.revision.version) && input.revision.version > 0 && input.revision.source && input.revision.stem && Array.isArray(input.revision.choices) && input.revision.choices.length >= 2 && input.revision.choices.filter(c => c.id === input.revision.answerId).length === 1 && new Set(input.revision.choices.map(c => c.id)).size === input.revision.choices.length && input.revision.choices.every(c => text(c.id) && text(c.text, 5000) && text(c.explanation, 10000)) && text(input.revision.memoryId) && Array.isArray(input.revision.essayIds) && input.revision.essayIds.length > 0 && input.revision.quote && input.revision.explanation && input.revision.status === 'reviewed' && input.revision.active === true, '修订必须提交完整题目与来源快照。');
       if (input.revision) {
         const prior = all('SELECT revision FROM revisions WHERE question_id=? AND revision IS NOT NULL', questionId).map(row => JSON.parse(row.revision).version);
-        need(input.revision.version > Math.max(currentQuestion(questionId)?.version || 0, ...prior), '新版本必须高于当前及历史版本。', 409);
+        need(input.revision.version > Math.max((await currentQuestion(questionId))?.version || 0, ...prior), '新版本必须高于当前及历史版本。', 409);
       }
       run('INSERT INTO revisions(question_id,status,revision,reason,admin_id,created_at) VALUES (?, ?, ?, ?, ?, ?)', questionId, input.status, input.revision ? canonical(input.revision) : null, input.reason, user.id, new Date().toISOString());
       const affected = all("SELECT user_id,id,payload FROM events WHERE type='attempt'").filter(row => JSON.parse(row.payload).questionId === questionId).length;

@@ -13,3 +13,5 @@
 !web-study/backend/
 !web-study/backend/server.mjs
 !web-study/backend/sync.mjs
+!web-study/backend/api.mjs
+!web-study/backend/transaction.mjs

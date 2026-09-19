@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "test": "node --test tests/*.test.mjs backend/*.test.mjs",
+    "test": "node --test tests/*.test.mjs backend/*.test.mjs cloudflare/*.test.mjs",
     "build": "node scripts/build.mjs",
     "start": "node backend/server.mjs"
   },

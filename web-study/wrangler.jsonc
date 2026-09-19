@@ -1,0 +1,38 @@
+{
+  "name": "chinese-a-study",
+  "main": "cloudflare/worker.mjs",
+  "compatibility_date": "2026-09-10",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "account_id": "21861701f7418c927894fbbf1490691f",
+  "workers_dev": true,
+  "preview_urls": false,
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    "run_worker_first": [
+      "/api/*",
+      "/content/sources/revision-book.pdf"
+    ]
+  },
+  "durable_objects": {
+    "bindings": [
+      {
+        "name": "STUDY_DATABASE",
+        "class_name": "StudyDatabase"
+      }
+    ]
+  },
+  "migrations": [
+    {
+      "tag": "v1",
+      "new_sqlite_classes": [
+        "StudyDatabase"
+      ]
+    }
+  ],
+  "vars": {
+    "ADMIN_USERNAME": "teacher"
+  }
+}

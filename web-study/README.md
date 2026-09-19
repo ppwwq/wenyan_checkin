@@ -52,6 +52,9 @@ npm run build
 
 ## 正式發布與剩餘驗收
 
+Cloudflare部署適配、私密遷移及最新狀態見 [cloudflare/README.md](cloudflare/README.md) 和 [DEPLOYMENT.md](cloudflare/DEPLOYMENT.md)。
+
+
 原計畫將實際發布列為另行授權。本次提供可部署原碼、Docker 與 Caddy HTTPS 設定；未購買服務、設定域名或建立公開網站。見 `backend/README.md`。
 
 真 iPad Safari 的橫直屏、分屏、軟鍵盤、長時間后台恢復及弱網仍需實機驗收。Chromium 768px／430px 模擬和離線測試不能替代這部分。
