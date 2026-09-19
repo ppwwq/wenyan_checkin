@@ -16,7 +16,7 @@ node web-study/cloudflare/prepare-private.mjs
 npx --yes wrangler@4.129.0 deploy --config web-study/wrangler.jsonc
 npx --yes wrangler@4.129.0 secret bulk web-study/backend/data/cloud-secrets.json --config web-study/wrangler.jsonc
 node web-study/cloudflare/import-private.mjs https://chinese-a-study.YOUR-SUBDOMAIN.workers.dev
-npx --yes wrangler@4.129.0 secret delete MIGRATION_SECRET --config web-study/wrangler.jsonc --force
+Write-Output y | npx --yes wrangler@4.129.0 secret delete MIGRATION_SECRET --config web-study/wrangler.jsonc
 ```
 
 `prepare-private.mjs` 從唯讀 SQLite 交易建立一致快照，不讀出明文密碼。私密快照、邀請碼及迁移密鑰只保存在被忽略的 `backend/data/`；禁止上傳 GitHub。首次新安裝沒有本地資料時，先依後端說明初始化空資料庫，或自行配置兩個獨立隨機邀請密鑰。
