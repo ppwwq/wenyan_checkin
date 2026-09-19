@@ -1,3 +1,22 @@
+# 中文甲 · 文言學習書房
+
+目前新版網頁應用位於 [`web-study/`](web-study/README.md)，包含 **2,131 道來源可追溯練習**、16 篇篇章混練、手法附錄、間隔複習、收藏，以及獨立帳號和同步服務。
+
+- [題庫覆蓋清單](web-study/CONTENT-COVERAGE.md)
+- [本機啟動與使用](web-study/README.md)
+- [後端及部署說明](web-study/backend/README.md)
+- [驗證記錄](web-study/VERIFICATION.md)
+
+```sh
+node web-study/backend/server.mjs
+```
+
+首次註冊需先設定學生及管理員邀請碼，詳見後端說明。帳號資料庫和部署密鑰不包含在公開倉庫。題目依提供之復習書編寫，非官方真題或教師獨立審定。
+
+以下保留原 Flutter 版本說明及程式，未以新版覆蓋原有行動端。
+
+---
+
 # 文言打卡
 
 一個以 DSE 文言篇目為核心的 Flutter 學習與複習應用，將閱讀、重點語譯、每日練習與複習進度放在同一個流程中。

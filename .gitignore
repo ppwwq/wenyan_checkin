@@ -53,3 +53,15 @@ app.*.map.json
 /gen_docx.py
 /gen_report_docx.py
 /wenyan_pulled.db
+
+# Web study local private/runtime files
+web-study/backend/data/
+web-study/dist/
+**/.env
+**/.dev.vars
+**/.wrangler/
+**/node_modules/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.pyc

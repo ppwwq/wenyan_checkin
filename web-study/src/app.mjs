@@ -1,0 +1,152 @@
+import {Repository,event,validateBackup} from './storage/repository.mjs';
+import {api,SyncClient} from './sync/client.mjs';
+import {project,hkDay,isDue} from './domain/review.mjs';
+import {queue,available,quickCards,quickScopeKey} from './domain/queue.mjs';
+import {esc,button,heading,empty,essayTitle,abilities,navigationIcon} from './features/shared.mjs';
+import {practiceView,answerPanel} from './features/practice.mjs';
+import {libraryView,compareView} from './features/library.mjs';
+import {homeView,weaknessView,historyView,savedView,quickView,reportsView} from './features/records.mjs';
+const root=document.querySelector('#root'),dialog=document.querySelector('#dialog');
+let auth=null,repo=null,syncer=null,bank=null,state=project([]),page='home',session=null,quick={cards:[],index:0},compareTarget='',compareExpanded=false,authMode='login',busy=false,saveChain=Promise.resolve(),status='已保存到此 iPad',serverReports=[],corrections=[],adminReports=[];
+let options={essayIds:[],count:20,scope:'all',ability:'',appendix:false,rotation:0,quickScope:'both'};
+const nav=[['home','今天'],['library','篇章混練'],['weakness','薄弱地圖'],['saved','我的收藏'],['quick','快速回顧'],['history','學習記錄'],['account','帳號']];
+function toast(text){const el=document.querySelector('#toast');el.textContent=text;clearTimeout(toast.timer);toast.timer=setTimeout(()=>el.textContent='',4500);}
+function setStatus(text){status=text;const el=document.querySelector('#sync-status');if(el)el.textContent=text;}
+async function refresh(){state=project(await repo.events(),hkDay(),corrections);state.settings.rotation ||=0;document.documentElement.style.setProperty('--study-size',state.settings.fontSize+'px');}
+function append(type,payload,id){const target=repo,ev=event(type,structuredClone(payload),id);saveChain=saveChain.then(async()=>{await target.append(ev);if(repo===target){await refresh();setStatus('已保存到此 iPad');}});saveChain=saveChain.catch(e=>{toast('儲存失敗：'+e.message);throw e;});return saveChain;}
+async function saveSession(draftOnly=false){if(session){session.revision=(session.revision||0)+1;const snapshot=structuredClone(session);await repo.set('draft-session/'+snapshot.id,snapshot);if(!draftOnly)await append('session',{session:snapshot});}}
+async function saveOptions(){await repo.set('options',options);}
+async function sync(){
+ const current=syncer,active=repo;if(!current)return;
+ try{const result=await current.sync();if(current!==syncer||!result)return;serverReports=result.reports||[];corrections=result.corrections||[];await active.set('corrections',corrections);await refresh();if(!['practice','library'].includes(page))render();}
+ catch(e){if(e.status===401)toast('登入已過期；請到帳號重新登入。本機記錄仍在。');}
+}
+function authView(){
+ root.innerHTML='<section class="auth"><span class="seal">甲</span><h1>你的文言學習書房</h1><p class="muted">登入後，積累都屬於你自己。</p><div class="tabs">'+[['login','登入'],['register','邀請註冊'],['recover','恢復帳號']].map(([id,label])=>'<button data-action="auth-mode" data-mode="'+id+'" class="'+(authMode===id?'active':'')+'">'+label+'</button>').join('')+'</div><form id="auth-form"><label>帳號<input name="username" autocomplete="username" required minlength="2" maxlength="40"></label>'+(authMode==='register'?'<label>邀請碼<input name="inviteCode" autocomplete="off" required></label>':'')+(authMode==='recover'?'<label>恢復碼<input name="recoveryCode" autocomplete="off" required></label>':'')+'<label>'+ (authMode==='recover'?'新密碼':'密碼')+'<input name="password" type="password" minlength="10" autocomplete="'+(authMode==='login'?'current-password':'new-password')+'" required></label><p class="auth-error error" role="alert"></p><button class="btn" type="submit">'+(authMode==='login'?'打開書房':authMode==='register'?'建立我的帳號':'恢復並登入')+'</button></form><p class="auth-note">首次登入需要網絡。註冊後請保存恢復碼；忘記密碼時可用它找回個人記錄。密碼至少 10 字元。</p></section>';
+}
+async function signIn(form){
+ const values=Object.fromEntries(new FormData(form)),submit=form.querySelector('button[type=submit]');submit.disabled=true;
+ try{
+  const body=authMode==='recover'?{username:values.username,recoveryCode:values.recoveryCode,newPassword:values.password}:values;
+  const result=await api('/api/auth/'+authMode,{body});
+  if(!result.token){const login=await api('/api/auth/login',{body:{username:values.username,password:values.password}});Object.assign(result,login);}
+  auth={token:result.token,user:result.user};localStorage.setItem('wenyan-auth-v1',JSON.stringify(auth));await openAccount();
+  if(result.recoveryCode){dialog.innerHTML='<h2>保存你的恢復碼</h2><p>只在這次顯示。請抄下或存入自己的密碼管理器。</p><p class="answer-saved">'+esc(result.recoveryCode)+'</p><div class="toolbar">'+button('close-dialog','我已妥善保存')+'</div>';dialog.showModal();}
+ }catch(e){form.querySelector('.auth-error').textContent=e.message;submit.disabled=false;}
+}
+async function loadBank(){
+ const response=await fetch('/content/bank.json',{cache:'no-cache'});if(!response.ok)throw new Error('題庫尚未下載；首次使用請連上網絡');bank=await response.json();
+ try{const {overrides}=await api('/api/content/overrides',{token:auth.token});for(const override of overrides||[]){const index=bank.questions.findIndex(q=>q.id===(override.questionId||override.id));if(index<0)continue;const old=bank.questions[index];if(override.revision)bank.questions[index]=override.revision;bank.questions[index]={...bank.questions[index],status:override.status||old.status,active:override.status!=='withdrawn'};}await repo.set('overrides',overrides||[]);}
+ catch{for(const override of await repo.get('overrides')||[]){const i=bank.questions.findIndex(q=>q.id===(override.questionId||override.id));if(i>=0)bank.questions[i]={...(override.revision||bank.questions[i]),status:override.status,active:override.status!=='withdrawn'};}}
+}
+function tagComparisons(){for(const q of bank.questions)q.comparisonAvailable=!!q.target&&bank.comparisons.some(g=>g.status==='reviewed'&&g.items.some(i=>i.questionId===q.id));}
+async function openAccount(){
+ if(syncer)syncer.stop();if(repo)repo.close();repo=await Repository.open(auth.user.id);
+ corrections=await repo.get('corrections')||[];await refresh();await loadBank();tagComparisons();
+ const savedOptions=await repo.get('options');options={essayIds:[],count:20,scope:'all',ability:'',appendix:false,rotation:0,quickScope:'both',...savedOptions};if(!savedOptions)options.essayIds=bank.essays.filter(e=>bank.questions.some(q=>q.essayIds.includes(e.id)&&q.status==='reviewed'&&q.active!==false)).map(e=>e.id);
+ options.rotation=state.settings.rotation;serverReports=await repo.get('reports')||[];quick=await repo.get('quick')||{cards:[],index:0};session=null;page='home';
+ syncer=new SyncClient(repo,auth.token,setStatus);render();void sync();
+}
+function render(){
+ if(!auth){authView();return;}
+ document.body.classList.toggle('in-session',page==='practice');const navHtml=(mobile=false)=>nav.filter(([id])=>!mobile||!['weakness','saved','quick'].includes(id)).map(([id,label],i)=>'<button data-action="nav" data-page="'+id+'" class="'+(page===id?'active':'')+'"'+(page===id?' aria-current="page"':'')+'>'+(mobile?'<span class="nav-icon">'+navigationIcon(id)+'</span>':'<span class="num">'+String(i+1).padStart(2,'0')+'</span>')+label+'</button>').join('');
+ root.innerHTML='<div class="shell"><aside class="sidebar"><div class="brand"><span class="seal">甲</span><div><div class="brand-name">中文甲</div><small class="muted">你的文言學習書房</small></div></div><nav class="nav" aria-label="主要導航">'+navHtml()+'</nav><div class="sidebar-bottom"><p>每日讀懂一點，<br>慢慢積累自己的底氣。</p>'+button('settings','學習偏好 ↗','','quiet')+'</div></aside><div class="workspace"><header class="topbar"><div class="mobile-brand"><span class="seal">甲</span>中文甲</div><div class="breadcrumb">學習書房 / <b>'+esc(nav.find(n=>n[0]===page)?.[1]||'練習')+'</b></div><div class="top-actions"><span id="sync-status" class="status-line" role="status">'+esc(status)+'</span><button data-action="settings" aria-label="學習偏好">偏好</button></div></header><main class="page" id="main"></main></div></div><nav class="mobile-nav" aria-label="行動導航">'+navHtml(true)+'</nav>';
+ const views={home:()=>homeView(bank,state),library:()=>libraryView(bank,state,options),practice:()=>session?practiceView(bank,session,state):empty('沒有進行中的練習'),weakness:()=>weaknessView(bank,state,options),history:()=>historyView(bank,state),saved:()=>savedView(bank,state,options),quick:()=>quickView(bank,state,options,quick),compare:()=>compareView(bank,options,compareTarget,compareExpanded),reports:()=>reportsView(mergedReports()),account:accountView,admin:adminView};
+ document.querySelector('#main').innerHTML=(page==='home'&&corrections.length?'<div class="banner">你有 '+corrections.length+' 項評分更正；原作答保留，複習記錄已按有效結果重算。'+button('nav','查看更正原因','data-page="account"','quiet')+'</div>':'')+(views[page]||views.home)();
+}
+function mergedReports(){const map=new Map(state.reports.map(r=>[r.id,r]));for(const r of serverReports)map.set(r.eventId||r.id,{...map.get(r.eventId||r.id),...r,...r.payload});return [...map.values()].reverse();}
+function accountView(){
+ return heading('自己的進度，安心收好',auth.user.username)+'<div class="side-card"><h2>學習偏好</h2><p class="section-note">預設選擇題；開啟打字後，每三題加入一次文字自查。新設定不改正在做的題組。</p>'+button('settings','調整題型與字體','','secondary')+'</div><div class="saved-row"><h2>備份與恢復</h2><p>'+esc(status)+'</p><div class="toolbar">'+button('sync','立即備份')+button('export','匯出我的記錄','','secondary')+button('import','恢復此帳號備份','','secondary')+'</div><input id="import-file" type="file" accept=".json,application/json" hidden><p class="subtle">備份包含你的作答、草稿和收藏；僅能恢復至同一帳號。瀏覽器清理可能刪除本機資料，請定期備份。</p></div><div class="toolbar">'+button('nav','查看我的題目回報','data-page="reports"','secondary')+(auth.user.role==='admin'?button('admin','維護題目回報','','secondary'):'')+button('logout','登出並切換帳號','','quiet')+'</div>'+(corrections.length?'<div class="saved-row"><h2>評分更正通知</h2>'+corrections.map(c=>'<p>'+esc(c.reason)+' · '+esc(c.createdAt?.slice(0,10))+'<br><small>原作答保留；這次作答的有效判斷已更正為'+(c.correct?'正確':'待鞏固')+'。</small></p>').join('')+'</div>':'');
+}
+function adminView(){
+ return heading('题目回報維護','按來源復核後，明確回覆或更正。')+(adminReports.length?adminReports.map(r=>'<article class="saved-row"><h3>'+esc(r.questionId||r.payload?.questionId)+' · '+esc(r.category||r.payload?.category)+'</h3><p>'+esc(r.detail||r.payload?.detail)+'</p><p class="subtle">'+esc(r.status)+' · '+esc(r.username||r.userId)+'</p><form class="admin-report-form" data-id="'+esc(r.id)+'"><label>處理狀態 <select name="status"><option value="processing">處理中</option><option value="replied">說明已回覆</option><option value="corrected">已修正</option></select></label><label class="field">回覆<textarea name="reply" required>'+esc(r.reply||'')+'</textarea></label><button class="btn" type="submit">保存處理結果</button></form><div class="toolbar">'+button('withdraw','暫下架此題','data-id="'+esc(r.questionId||r.payload?.questionId)+'"','secondary')+button('revision','提交核對後新版本','data-id="'+esc(r.questionId||r.payload?.questionId)+'"','secondary')+button('correction','明確修正受影響作答','data-report="'+esc(r.id)+'"','quiet')+'</div></article>').join(''):empty('目前沒有題目回報'));
+}
+async function go(next){if(page==='practice')await saveSession();page=next;if(page==='quick'&&(!quick.cards.length||quick.scopeKey!==quickScopeKey(options)))await buildQuick();render();window.scrollTo(0,0);}
+async function buildQuick(all=false){quick={cards:all?available(bank.questions,{...options,questionIds:undefined}):quickCards(bank.questions,{...options,questionIds:undefined,scope:options.quickScope},state),index:0,version:bank.version,scopeKey:quickScopeKey(options)};await repo.set('quick',quick);}
+function currentQuestion(){return session?.questions[session.index];}
+async function start(questionIds=null,essayIds=null){
+ if(navigator.onLine){await loadBank();tagComparisons();}
+ const opts={...options,rotation:state.settings.rotation,...(questionIds?{questionIds}:{}),...(essayIds?{essayIds}:{})};
+ const list=queue(bank.questions,opts,state);if(!list.length){toast('所選範圍沒有可練題目');return;}
+ session={id:crypto.randomUUID(),questions:structuredClone(list),index:0,answers:{},drafts:{},mode:state.settings.typing?'mixed':'choice',essayIds:opts.essayIds,completed:false,paused:false,startedAt:new Date().toISOString()};
+ await saveSession();await append('settings',{rotation:(state.settings.rotation+options.count)%Math.max(1,opts.essayIds.length)});page='practice';render();window.scrollTo(0,0);
+}
+async function submit(unknown=false){
+ const q=currentQuestion();const existing=state.attempts.find(e=>e.id===session.id+'/'+q.id);if(existing){session.answers[q.id]=existing.id;await saveSession();document.querySelector('#answer-panel').innerHTML=answerPanel(q,session,state);return;}if(session.answers[q.id])return;const mode=session.mode==='mixed'&&session.index%3===2?'typing':'choice',answer=unknown?'暫時不會':session.drafts[q.id]||'';
+ if(!answer.trim()){toast('先選一個答案或寫下想法，也可以選「暫時不會」。');return;}
+ const id=session.id+'/'+q.id,now=new Date().toISOString();
+ await append('attempt',{memoryId:q.memoryId,questionId:q.id,questionVersion:q.version,question:structuredClone(q),submittedAt:now,day:hkDay(now),mode,answer,correct:mode==='typing'?null:answer===q.answerId,sessionId:session.id},id);
+ session.answers[q.id]=id;await saveSession();document.querySelector('#answer-panel').innerHTML=answerPanel(q,session,state);document.querySelector('.feedback')?.focus({preventScroll:true});void sync();
+}
+async function assess(correct){if(!document.querySelector('#check-meaning')?.checked||!document.querySelector('#check-context')?.checked){toast('請先完成兩項核對，再確定結果。');return;}const q=currentQuestion(),id=session.answers[q.id];if(state.assessments.has(id))return;await append('assessment',{attemptId:id,correct},'assessment/'+id);document.querySelector('#answer-panel').innerHTML=answerPanel(q,session,state);void sync();}
+function reportDialog(id){const q=session?.questions.find(q=>q.id===id)||bank.questions.find(q=>q.id===id);dialog.innerHTML='<h2>回報題目疑點</h2><form id="report-form" class="report-form" data-id="'+esc(q.id)+'"><label>問題類別<select name="category">'+['題幹或原文錯字','答案可能有誤／存在多解','解析問題','來源頁碼問題'].map(t=>'<option>'+t+'</option>').join('')+'</select></label><label>補充說明<textarea name="detail" maxlength="3000" required></textarea></label><p class="subtle">自動附上題號、版本、來源及本次答案。離線時先保存，恢復連線後補送。</p><div class="toolbar"><button class="btn" type="submit">提交回報</button>'+button('close-dialog','取消','','secondary')+'</div></form>';dialog.showModal();}
+function settingsDialog(){dialog.innerHTML='<h2>學習偏好</h2><form id="settings-form"><div class="toggle-row"><label for="typing">加入打字作答題<p>每三題一次，提交後完整自查。</p></label><input type="checkbox" id="typing" name="typing" '+(state.settings.typing?'checked':'')+'></div><label for="font-size">原文字號</label><select id="font-size" name="fontSize">'+[24,28,32,36].map(n=>'<option value="'+n+'" '+(state.settings.fontSize===n?'selected':'')+'>'+n+' px</option>').join('')+'</select><p>修改只影響之後的新題組，已開始的題目順序保持不變。</p><div class="toolbar"><button class="btn" type="submit">保存偏好</button>'+button('close-dialog','取消','','secondary')+'</div></form>';dialog.showModal();}
+document.addEventListener('click',async e=>{
+ const el=e.target.closest('[data-action]');if(!el||el.disabled)return;const a=el.dataset.action;
+ if(a==='retry'){location.reload();return;}if(a==='auth-mode'){authMode=el.dataset.mode;authView();return;}if(a==='close-dialog'){dialog.close();return;}if(busy)return;
+ busy=true;try{
+ if(a==='nav'){if(el.dataset.page==='compare'){compareTarget='';compareExpanded=false;}await go(el.dataset.page);}
+ else if(a==='settings')settingsDialog();
+ else if(a==='select-all'||a==='select-prose'||a==='select-poem'||a==='select-none'){options.essayIds=a==='select-none'?[]:bank.essays.filter(e=>(a==='select-all'||e.kind===(a==='select-prose'?'prose':'poem'))&&bank.questions.some(q=>q.status==='reviewed'&&q.active!==false&&q.essayIds.includes(e.id))).map(e=>e.id);options.questionIds=undefined;await saveOptions();render();}
+ else if(a==='count'){options.count=+el.dataset.count;await saveOptions();render();}
+ else if(a==='clear-subset'){options.questionIds=undefined;await saveOptions();render();}else if(a==='start')await start();
+ else if(a==='resume'){session=structuredClone(state.sessions[el.dataset.session]);const draft=await repo.get('draft-session/'+session.id);if(draft&&(draft.revision||0)>(session.revision||0))session=draft;for(const a of state.attempts.filter(e=>e.payload.sessionId===session.id))session.answers[a.payload.questionId]=a.id;session.paused=false;await saveSession();page='practice';render();}
+ else if(a==='pause'){session.paused=true;await saveSession();await go('home');void sync();}
+ else if(a==='choose'){const q=currentQuestion();if(session.answers[q.id])return;session.drafts[q.id]=el.dataset.choice;document.querySelectorAll('.option').forEach(b=>{const selected=b===el;b.classList.toggle('selected',selected);b.setAttribute('aria-pressed',selected);});await saveSession();}
+ else if(a==='submit'||a==='unknown')await submit(a==='unknown');
+ else if(a==='assess-good'||a==='assess-bad')await assess(a==='assess-good');
+ else if(a==='next'){if(session.index===session.questions.length-1)session.completed=true;else session.index++;await saveSession();render();window.scrollTo(0,0);}
+ else if(a==='favorite'){const q=bank.questions.find(q=>q.id===el.dataset.id)||currentQuestion(),saved=!state.favorites[el.dataset.id]?.saved;await append('favorite',{questionId:el.dataset.id,version:q?.version,saved});if(page==='practice')el.textContent=saved?'★ 已收藏':'☆ 收藏';else render();void sync();}
+ else if(a==='report')reportDialog(el.dataset.id);
+ else if(a==='compare-question'){compareTarget=currentQuestion().target;compareExpanded=false;await go('compare');}
+ else if(a==='compare-expand'){compareExpanded=!compareExpanded;render();}
+ else if(a==='compare-practice'){const g=bank.comparisons.find(g=>g.id===el.dataset.group),qs=g.items.map(i=>bank.questions.find(q=>q.id===i.questionId)).filter(q=>q&&(compareExpanded||q.essayIds.every(id=>options.essayIds.includes(id))));options.questionIds=qs.map(q=>q.id);options.essayIds=[...new Set(qs.flatMap(q=>q.essayIds))];options.scope='all';options.ability='';await saveOptions();await go('library');}
+ else if(a==='weak-cell'){options.essayIds=[el.dataset.essay];options.ability=el.dataset.ability;options.scope='all';options.questionIds=undefined;await saveOptions();await go('library');}
+ else if(a==='daily'){options.essayIds=bank.essays.map(e=>e.id);options.ability='';options.scope='all';options.questionIds=bank.questions.filter(q=>isDue(state.memories[q.memoryId])&&!state.completedToday.has(q.memoryId)).map(q=>q.id);if(!options.questionIds.length){toast('目前沒有到期提醒，選一組新題繼續積累。');options.questionIds=undefined;}await go('library');}
+ else if(a==='saved-practice'){options.questionIds=Object.values(state.favorites).filter(f=>f.saved).map(f=>f.questionId);options.scope='all';await go('library');}
+ else if(a==='saved-quick'){options.quickScope='saved';await buildQuick();await go('quick');}
+ else if(a==='quick-scope'){options.quickScope=el.dataset.scope;await buildQuick();render();}
+ else if(a==='quick-all'){await buildQuick(true);render();}
+ else if(a==='quick-prev'){quick.index--;await repo.set('quick',quick);render();}
+ else if(a==='quick-seen'){const q=quick.cards[quick.index];await append('browse',{questionId:q.id,version:q.version});if(quick.index<quick.cards.length-1)quick.index++;else toast('這組重點已看過；瀏覽不會改變記憶曲線。');await repo.set('quick',quick);render();}
+ else if(a==='quick-practice'){options.questionIds=quick.cards.map(q=>q.id);options.essayIds=[...new Set(quick.cards.flatMap(q=>q.essayIds))];options.scope='all';await go('library');}
+ else if(a==='sync')await sync();
+ else if(a==='export'){await saveChain;const data={format:'wenyan-backup-v1',userId:auth.user.id,exportedAt:new Date().toISOString(),events:await repo.events()},url=URL.createObjectURL(new Blob([JSON.stringify(data,null,2)],{type:'application/json'})),link=document.createElement('a');link.href=url;link.download='中文甲-'+auth.user.username+'-'+hkDay()+'.json';link.click();setTimeout(()=>URL.revokeObjectURL(url),1000);}
+ else if(a==='import')document.querySelector('#import-file').click();
+ else if(a==='logout'){await saveChain;syncer.stop();void api('/api/auth/logout',{token:auth.token,body:{}}).catch(()=>{});repo.close();repo=null;syncer=null;auth=null;session=null;state=project([]);serverReports=[];corrections=[];quick={cards:[],index:0};options={essayIds:[],count:20,scope:'all',ability:'',rotation:0,quickScope:'both'};localStorage.removeItem('wenyan-auth-v1');render();}
+ else if(a==='encourage'){const quotes=['不急著讀完，先把一句讀懂。','今天多懂一個字，明天多一分底氣。','把難懂的地方，慢慢讀成自己的。','不是每次都答對，也是在向前走。'];document.querySelector('#encouragement').textContent=quotes[(Date.now()%quotes.length)];}
+ else if(a==='admin'){adminReports=(await api('/api/admin/reports',{token:auth.token})).reports;page='admin';render();}
+ else if(a==='withdraw'){const reason=prompt('請填寫按來源復核後的下架原因');if(reason){await api('/api/admin/questions/'+encodeURIComponent(el.dataset.id),{token:auth.token,body:{status:'withdrawn',reason}});await loadBank();tagComparisons();toast('已暫下架，新練習不再抽取；歷史快照保留。');}}
+ else if(a==='revision'){dialog.innerHTML='<h2>發布核對後的新版本</h2><form id="revision-form" class="report-form" data-id="'+esc(el.dataset.id)+'"><p>完整 JSON 題目，version 必須增加；提交前逐項核對來源。原歷史答案保持不變。</p><label>完整新版 JSON<textarea name="revision" required rows="12">'+esc(JSON.stringify({...bank.questions.find(q=>q.id===el.dataset.id),version:Number(bank.questions.find(q=>q.id===el.dataset.id)?.version||0)+1},null,2))+'</textarea></label><label>修訂原因<input name="reason" required></label><button class="btn" type="submit">提交已核對新版本</button>'+button('close-dialog','取消','','quiet')+'</form>';dialog.showModal();}
+ else if(a==='correction'){const r=adminReports.find(r=>r.id===el.dataset.report);dialog.innerHTML='<h2>修正這位同學的指定作答</h2><form id="correction-form" class="report-form" data-report="'+esc(r.id)+'"><label>受影響作答<select name="attemptId">'+(r.attempts||[]).map(a=>'<option value="'+esc(a.id)+'">'+esc(a.submittedAt)+' · v'+esc(a.questionVersion)+' · '+esc(a.answer)+'</option>').join('')+'</select></label><label>復核結果<select name="correct"><option value="true">正確</option><option value="false">待鞏固</option></select></label><label>明確更正原因<textarea name="reason" required></textarea></label><button class="btn" type="submit" '+(!r.attempts?.length?'disabled':'')+'>保存更正並通知同學</button>'+button('close-dialog','取消','','quiet')+'</form>';dialog.showModal();}
+ }catch(err){toast(err.message);}finally{busy=false;}
+});
+document.addEventListener('submit',async e=>{
+ e.preventDefault();const form=e.target;
+ if(form.id==='auth-form'){await signIn(form);return;}if(busy)return;busy=true;
+ try{
+ if(form.id==='settings-form'){const v=Object.fromEntries(new FormData(form));await append('settings',{typing:v.typing==='on',fontSize:+v.fontSize});dialog.close();if(page!=='practice')render();void sync();}
+ else if(form.id==='report-form'){const q=session?.questions.find(q=>q.id===form.dataset.id)||bank.questions.find(q=>q.id===form.dataset.id),v=Object.fromEntries(new FormData(form)),attempt=state.attempts.find(e=>e.id===session?.answers[q.id]);await append('report',{questionId:q.id,questionVersion:q.version,essayIds:q.essayIds,source:q.source,...v,answer:attempt?.payload.answer});dialog.close();toast('已保存回報，連線後補送。');void sync();}
+ else if(form.classList.contains('admin-report-form')){await api('/api/admin/reports/'+encodeURIComponent(form.dataset.id),{token:auth.token,method:'PATCH',body:Object.fromEntries(new FormData(form))});toast('處理結果已保存');}
+ else if(form.id==='revision-form'){const v=Object.fromEntries(new FormData(form));await api('/api/admin/questions/'+encodeURIComponent(form.dataset.id),{token:auth.token,body:{status:'reviewed',revision:JSON.parse(v.revision),reason:v.reason}});await loadBank();tagComparisons();dialog.close();toast('新版本已保存，舊作答快照保留。');}
+ else if(form.id==='correction-form'){const v=Object.fromEntries(new FormData(form));await api('/api/admin/corrections',{token:auth.token,body:{reportId:form.dataset.report,attemptId:v.attemptId,correct:v.correct==='true',reason:v.reason}});dialog.close();toast('更正已保存，學生下次備份時收到。');}
+ }catch(err){toast(err.message);}finally{busy=false;}
+});
+document.addEventListener('change',async e=>{
+ try{
+ if(e.target.dataset.essay){options.essayIds=e.target.checked?[...new Set([...options.essayIds,e.target.dataset.essay])]:options.essayIds.filter(id=>id!==e.target.dataset.essay);options.questionIds=undefined;await saveOptions();render();}
+ if(e.target.id==='question-count'){const n=Number(e.target.value);if(!Number.isInteger(n)||n<1||n>100){toast('請輸入 1–100 的整數');e.target.value=options.count;return;}options.count=n;await saveOptions();render();}
+ if(e.target.id==='scope'||e.target.id==='ability'){options[e.target.id]=e.target.value;await saveOptions();render();}
+ if(e.target.id==='appendix'){options.appendix=e.target.checked;await saveOptions();render();}
+ if(e.target.id==='import-file'&&e.target.files[0]){const file=e.target.files[0];if(file.size>30*1024*1024)throw new Error('備份過大，請使用較小的帳號備份');const items=validateBackup(JSON.parse(await file.text()),auth.user.id),known=new Set((await repo.events()).map(e=>e.id));for(const ev of items){if(!known.has(ev.id))await repo.append(ev);}await refresh();toast('同帳號記錄已合併；既有記錄保留。');render();void sync();}
+ }catch(err){toast(err.message);}
+});
+document.addEventListener('input',e=>{if(e.target.id==='answer-input'&&session){session.drafts[currentQuestion().id]=e.target.value;void saveSession(true).catch(()=>{});}});
+addEventListener('online',()=>void sync());document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='hidden'&&repo&&page==='practice')void saveSession().catch(()=>{});if(document.visibilityState==='visible'&&repo){void refresh().then(()=>{if(page==='home'||page==='history')render();});void sync();}});
+async function boot(){
+ try{auth=JSON.parse(localStorage.getItem('wenyan-auth-v1')||'null');if(auth?.token&&auth?.user?.id)await openAccount();else{auth=null;authView();}}
+ catch(e){root.innerHTML='<section class="auth"><h1>暫時未能打開書房</h1><p>'+esc(e.message)+'</p><p>請恢復網絡後重試；本機資料不會被清除。</p><button class="btn" data-action="retry">重試</button></section>';}
+ if('serviceWorker'in navigator){navigator.serviceWorker.register('/sw.js').catch(()=>{});}
+}
+void boot();
+

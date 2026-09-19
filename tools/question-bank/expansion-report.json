@@ -1,0 +1,164 @@
+{
+  "questionCount": 104,
+  "essayCount": 13,
+  "abilities": {
+    "vocabulary": 65,
+    "meaning": 13,
+    "theme": 13,
+    "technique": 13
+  },
+  "coverage": [
+    {
+      "essayId": "essay-02",
+      "title": "魚我所欲也",
+      "count": 8,
+      "pdfPages": [
+        35,
+        36,
+        37,
+        38
+      ]
+    },
+    {
+      "essayId": "essay-03",
+      "title": "勸學",
+      "count": 8,
+      "pdfPages": [
+        46,
+        47,
+        48,
+        49
+      ]
+    },
+    {
+      "essayId": "essay-04",
+      "title": "逍遙遊",
+      "count": 8,
+      "pdfPages": [
+        58,
+        59,
+        60,
+        61
+      ]
+    },
+    {
+      "essayId": "essay-05",
+      "title": "廉頗藺相如列傳",
+      "count": 8,
+      "pdfPages": [
+        70,
+        71,
+        74,
+        75,
+        79,
+        82,
+        84,
+        87
+      ]
+    },
+    {
+      "essayId": "essay-06",
+      "title": "出師表",
+      "count": 8,
+      "pdfPages": [
+        99,
+        100,
+        101,
+        102,
+        103,
+        104
+      ]
+    },
+    {
+      "essayId": "essay-07",
+      "title": "師說",
+      "count": 8,
+      "pdfPages": [
+        118,
+        119,
+        120,
+        121,
+        123,
+        124
+      ]
+    },
+    {
+      "essayId": "essay-08",
+      "title": "始得西山宴遊記",
+      "count": 8,
+      "pdfPages": [
+        137,
+        138,
+        139,
+        141
+      ]
+    },
+    {
+      "essayId": "essay-10",
+      "title": "六國論",
+      "count": 8,
+      "pdfPages": [
+        171,
+        172,
+        173,
+        175,
+        177
+      ]
+    },
+    {
+      "essayId": "essay-12",
+      "title": "月下獨酌",
+      "count": 8,
+      "pdfPages": [
+        196,
+        197
+      ]
+    },
+    {
+      "essayId": "essay-13",
+      "title": "登樓",
+      "count": 8,
+      "pdfPages": [
+        205,
+        206
+      ]
+    },
+    {
+      "essayId": "essay-14",
+      "title": "念奴嬌・赤壁懷古",
+      "count": 8,
+      "pdfPages": [
+        214,
+        215
+      ]
+    },
+    {
+      "essayId": "essay-15",
+      "title": "聲聲慢・秋情",
+      "count": 8,
+      "pdfPages": [
+        225,
+        226
+      ]
+    },
+    {
+      "essayId": "essay-16",
+      "title": "青玉案・元夕",
+      "count": 8,
+      "pdfPages": [
+        234,
+        235
+      ]
+    }
+  ],
+  "sourceSha256": {
+    "學生內容.json": "cefaae3260a7185997dfa0dc9ba40d76fe1e1bc70b69f962d0bb75a724681f62",
+    "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa"
+  },
+  "limitations": [
+    "每篇8題為基礎覆蓋，非766詞解全面題化。",
+    "未製作跨篇比較、手法附錄專項及所有多義詞變式。",
+    "有分歧的奉、瓠落、絖、無情遊、玉壺、星如雨、憔悴損不設唯一詞義題。",
+    "內容核對基準為指定本地復習書，尚不等於逐項核驗官方原典及評分。"
+  ]
+}

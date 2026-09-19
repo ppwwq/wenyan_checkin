@@ -1,0 +1,15 @@
+**
+!web-study/
+!web-study/index.html
+!web-study/styles.css
+!web-study/manifest.webmanifest
+!web-study/sw.js
+!web-study/src/
+!web-study/src/**
+!web-study/assets/
+!web-study/assets/**
+!web-study/content/
+!web-study/content/**
+!web-study/backend/
+!web-study/backend/server.mjs
+!web-study/backend/sync.mjs

@@ -1,0 +1,102 @@
+{
+  "questions": [
+    {
+      "id": "q-e10-exp-001",
+      "version": 2,
+      "memoryId": "m-e10-exp-001",
+      "essayIds": [
+        "essay-10"
+      ],
+      "ability": "vocabulary",
+      "quote": "非兵不利，戰不善",
+      "target": "兵",
+      "stem": "按本書原文旁的直接詞解（不取借代義），「非兵不利」的「兵」指甚麼？",
+      "choices": [
+        {
+          "id": "a",
+          "text": "戰爭",
+          "explanation": "戰不善另說作戰，兵不利指兵器。"
+        },
+        {
+          "id": "b",
+          "text": "兵器",
+          "explanation": "本題限定原文旁的直接詞解，答案為「兵器」。原書後面的辨析另容許由兵器借代軍隊兵力；本題不把該借代解讀判錯。"
+        },
+        {
+          "id": "c",
+          "text": "用兵策略",
+          "explanation": "此處按原書直接詞解指兵器；用兵策略不是本詞解。"
+        },
+        {
+          "id": "d",
+          "text": "軍事命令",
+          "explanation": "本句按兵器是否鋒利說明，並非軍令的頒布或執行。"
+        }
+      ],
+      "answerId": "b",
+      "explanation": "本題限定原文旁的直接詞解，答案為「兵器」。原書後面的辨析另容許由兵器借代軍隊兵力；本題不把該借代解讀判錯。",
+      "source": {
+        "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+        "essayTitle": "六國論",
+        "section": "第1段｜原文與語譯",
+        "pdfPage": 171,
+        "printedPage": 167,
+        "blockPath": "$[9].pages[1].blocks[0]",
+        "version": "2026-09-14",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "anchor": "非兵不利，戰不善",
+        "relatedSources": [
+          {
+            "title": "六國論｜字詞與句法辨析",
+            "jsonFile": "student-content.json",
+            "blockPath": "$[9].pages[10].blocks[2][1][1]",
+            "anchor": "兵：兵器，也可由兵器借代軍隊兵力",
+            "pdfPage": 179,
+            "printedPage": 175,
+            "pdfUrl": "/content/sources/revision-book.pdf",
+            "version": "2026-09-14"
+          }
+        ]
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "兵器",
+      "misconception": "先分清直接詞解與借代分析；不把另一成立的解讀當成錯項。",
+      "difficulty": "foundation",
+      "tags": [
+        "vocabulary",
+        "revision-book-authored"
+      ],
+      "review": {
+        "method": "source-aligned-agent-review",
+        "reviewedAt": "2026-09-19",
+        "officialExamQuestion": false,
+        "sourceEvidence": {
+          "blockPath": "$[9].pages[1].blocks[0]",
+          "text": "六國破滅，非兵不利，戰不善，弊在賂秦。賂秦而力虧，破滅之道也。或曰：「六國互喪，率賂秦耶？」曰：「不賂者以賂者喪。」蓋失強援，不能獨完，故曰「弊在賂秦」也。",
+          "meaning": "兵器"
+        },
+        "checks": [
+          "quote-in-JSON-block",
+          "quote-on-actual-PDF-page",
+          "printed-footer-read",
+          "one-keyed-answer",
+          "four-distinct-options",
+          "targeted-distractor-explanations"
+        ],
+        "scope": "依本地復習書逐題核對；不是官方真題或官方評分。",
+        "revisionReason": "v1將軍隊列作錯項，未保留原書後文容許的借代義；v2限定直接詞解並更換干擾項。",
+        "previousVersion": 1
+      }
+    }
+  ],
+  "notes": [
+    {
+      "questionId": "q-e10-exp-001",
+      "fromVersion": 1,
+      "toVersion": 2,
+      "reason": "v1將軍隊列作錯項，未保留原書後文容許的借代義；v2限定直接詞解並更換干擾項。",
+      "localAffectedAttemptsAtReview": 0
+    }
+  ]
+}

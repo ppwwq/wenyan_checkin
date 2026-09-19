@@ -1,0 +1,219 @@
+{
+  "result": "PASS",
+  "questions": 2131,
+  "memoryUnits": 2081,
+  "comparisons": 11,
+  "coverage": [
+    {
+      "id": "essay-01",
+      "title": "論仁、論孝、論君子",
+      "kind": "prose",
+      "questions": 264,
+      "abilityCounts": {
+        "vocabulary": 110,
+        "theme": 53,
+        "meaning": 73,
+        "technique": 28
+      },
+      "missingDimensions": []
+    },
+    {
+      "id": "essay-02",
+      "title": "魚我所欲也",
+      "kind": "prose",
+      "questions": 74,
+      "abilityCounts": {
+        "vocabulary": 48,
+        "meaning": 10,
+        "theme": 4,
+        "technique": 12
+      },
+      "missingDimensions": []
+    },
+    {
+      "id": "essay-03",
+      "title": "勸學",
+      "kind": "prose",
+      "questions": 110,
+      "abilityCounts": {
+        "vocabulary": 83,
+        "meaning": 10,
+        "theme": 1,
+        "technique": 16
+      },
+      "missingDimensions": []
+    },
+    {
+      "id": "essay-04",
+      "title": "逍遙遊",
+      "kind": "prose",
+      "questions": 97,
+      "abilityCounts": {
+        "vocabulary": 73,
+        "meaning": 9,
+        "theme": 6,
+        "technique": 9
+      },
+      "missingDimensions": []
+    },
+    {
+      "id": "essay-05",
+      "title": "廉頗藺相如列傳",
+      "kind": "prose",
+      "questions": 231,
+      "abilityCounts": {
+        "vocabulary": 165,
+        "meaning": 25,
+        "theme": 27,
+        "technique": 14
+      },
+      "missingDimensions": []
+    },
+    {
+      "id": "essay-06",
+      "title": "出師表",
+      "kind": "prose",
+      "questions": 181,
+      "abilityCounts": {
+        "vocabulary": 140,
+        "meaning": 13,
+        "theme": 9,
+        "technique": 19
+      },
+      "missingDimensions": []
+    },
+    {
+      "id": "essay-07",
+      "title": "師說",
+      "kind": "prose",
+      "questions": 116,
+      "abilityCounts": {
+        "vocabulary": 66,
+        "meaning": 23,
+        "theme": 12,
+        "technique": 15
+      },
+      "missingDimensions": []
+    },
+    {
+      "id": "essay-08",
+      "title": "始得西山宴遊記",
+      "kind": "prose",
+      "questions": 139,
+      "abilityCounts": {
+        "vocabulary": 94,
+        "meaning": 10,
+        "theme": 20,
+        "technique": 15
+      },
+      "missingDimensions": []
+    },
+    {
+      "id": "essay-09",
+      "title": "岳陽樓記",
+      "kind": "prose",
+      "questions": 160,
+      "abilityCounts": {
+        "vocabulary": 57,
+        "theme": 31,
+        "meaning": 48,
+        "technique": 24
+      },
+      "missingDimensions": []
+    },
+    {
+      "id": "essay-10",
+      "title": "六國論",
+      "kind": "prose",
+      "questions": 163,
+      "abilityCounts": {
+        "vocabulary": 123,
+        "meaning": 12,
+        "theme": 1,
+        "technique": 27
+      },
+      "missingDimensions": []
+    },
+    {
+      "id": "essay-11",
+      "title": "山居秋暝",
+      "kind": "poem",
+      "questions": 60,
+      "abilityCounts": {
+        "vocabulary": 13,
+        "theme": 21,
+        "technique": 21,
+        "meaning": 5
+      },
+      "missingDimensions": []
+    },
+    {
+      "id": "essay-12",
+      "title": "月下獨酌",
+      "kind": "poem",
+      "questions": 80,
+      "abilityCounts": {
+        "vocabulary": 17,
+        "meaning": 20,
+        "theme": 25,
+        "technique": 18
+      },
+      "missingDimensions": []
+    },
+    {
+      "id": "essay-13",
+      "title": "登樓",
+      "kind": "poem",
+      "questions": 73,
+      "abilityCounts": {
+        "vocabulary": 18,
+        "meaning": 18,
+        "theme": 20,
+        "technique": 17
+      },
+      "missingDimensions": []
+    },
+    {
+      "id": "essay-14",
+      "title": "念奴嬌・赤壁懷古",
+      "kind": "poem",
+      "questions": 84,
+      "abilityCounts": {
+        "vocabulary": 20,
+        "meaning": 17,
+        "theme": 35,
+        "technique": 12
+      },
+      "missingDimensions": []
+    },
+    {
+      "id": "essay-15",
+      "title": "聲聲慢・秋情",
+      "kind": "poem",
+      "questions": 90,
+      "abilityCounts": {
+        "vocabulary": 18,
+        "meaning": 21,
+        "theme": 34,
+        "technique": 17
+      },
+      "missingDimensions": []
+    },
+    {
+      "id": "essay-16",
+      "title": "青玉案・元夕",
+      "kind": "poem",
+      "questions": 86,
+      "abilityCounts": {
+        "vocabulary": 18,
+        "meaning": 25,
+        "theme": 26,
+        "technique": 17
+      },
+      "missingDimensions": []
+    }
+  ],
+  "errors": [],
+  "scope": "題庫結構、選項唯一性、來源區塊和物理頁錨點逐題檢查；內容為依提供復習書編寫之練習，非官方真題或全書學術終核。",
+  "pdfSha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa"
+}

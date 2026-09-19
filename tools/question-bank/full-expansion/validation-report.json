@@ -1,0 +1,1274 @@
+{
+  "result": "PASS",
+  "version": "2026.09.19.2",
+  "questions": 2131,
+  "previousQuestions": 218,
+  "revisions": [
+    {
+      "questionId": "q-e10-exp-001",
+      "fromVersion": 1,
+      "toVersion": 2,
+      "reason": "v1將軍隊列作錯項，未保留原書後文容許的借代義；v2限定直接詞解並更換干擾項。",
+      "localAffectedAttemptsAtReview": 0
+    }
+  ],
+  "newQuestions": 1913,
+  "memoryUnits": 2081,
+  "comparisons": 11,
+  "abilities": {
+    "vocabulary": 1063,
+    "theme": 303,
+    "meaning": 333,
+    "technique": 432
+  },
+  "sourceInventory": {
+    "band": 44,
+    "table": 1331,
+    "text": 338,
+    "annot": 96,
+    "vocab": 766,
+    "note": 83,
+    "pp": 16,
+    "polytable": 23,
+    "appendix": 151,
+    "self-check": 6
+  },
+  "sourceItems": 2854,
+  "mappedSourceItems": 2854,
+  "coverageStatus": {
+    "covered": 2697,
+    "excluded": 141,
+    "disputed": 16
+  },
+  "layoutEntries": 268,
+  "coverage": [
+    {
+      "id": "essay-01",
+      "title": "論仁、論孝、論君子",
+      "kind": "prose",
+      "questions": 264,
+      "abilities": {
+        "vocabulary": 110,
+        "theme": 53,
+        "meaning": 73,
+        "technique": 28
+      },
+      "sourceItems": 342,
+      "coverageStatus": {
+        "covered": 299,
+        "excluded": 41,
+        "disputed": 2
+      }
+    },
+    {
+      "id": "essay-02",
+      "title": "魚我所欲也",
+      "kind": "prose",
+      "questions": 74,
+      "abilities": {
+        "vocabulary": 48,
+        "meaning": 10,
+        "theme": 4,
+        "technique": 12
+      },
+      "sourceItems": 137,
+      "coverageStatus": {
+        "covered": 125,
+        "disputed": 5,
+        "excluded": 7
+      }
+    },
+    {
+      "id": "essay-03",
+      "title": "勸學",
+      "kind": "prose",
+      "questions": 110,
+      "abilities": {
+        "vocabulary": 83,
+        "meaning": 10,
+        "theme": 1,
+        "technique": 16
+      },
+      "sourceItems": 185,
+      "coverageStatus": {
+        "covered": 178,
+        "excluded": 7
+      }
+    },
+    {
+      "id": "essay-04",
+      "title": "逍遙遊",
+      "kind": "prose",
+      "questions": 97,
+      "abilities": {
+        "vocabulary": 73,
+        "meaning": 9,
+        "theme": 6,
+        "technique": 9
+      },
+      "sourceItems": 172,
+      "coverageStatus": {
+        "covered": 154,
+        "excluded": 11,
+        "disputed": 7
+      }
+    },
+    {
+      "id": "essay-05",
+      "title": "廉頗藺相如列傳",
+      "kind": "prose",
+      "questions": 231,
+      "abilities": {
+        "vocabulary": 165,
+        "meaning": 25,
+        "theme": 27,
+        "technique": 14
+      },
+      "sourceItems": 298,
+      "coverageStatus": {
+        "covered": 288,
+        "excluded": 10
+      }
+    },
+    {
+      "id": "essay-06",
+      "title": "出師表",
+      "kind": "prose",
+      "questions": 181,
+      "abilities": {
+        "vocabulary": 140,
+        "meaning": 13,
+        "theme": 9,
+        "technique": 19
+      },
+      "sourceItems": 254,
+      "coverageStatus": {
+        "covered": 242,
+        "excluded": 11,
+        "disputed": 1
+      }
+    },
+    {
+      "id": "essay-07",
+      "title": "師說",
+      "kind": "prose",
+      "questions": 116,
+      "abilities": {
+        "vocabulary": 66,
+        "meaning": 23,
+        "theme": 12,
+        "technique": 15
+      },
+      "sourceItems": 177,
+      "coverageStatus": {
+        "covered": 171,
+        "excluded": 6
+      }
+    },
+    {
+      "id": "essay-08",
+      "title": "始得西山宴遊記",
+      "kind": "prose",
+      "questions": 139,
+      "abilities": {
+        "vocabulary": 94,
+        "meaning": 10,
+        "theme": 20,
+        "technique": 15
+      },
+      "sourceItems": 199,
+      "coverageStatus": {
+        "covered": 194,
+        "excluded": 5
+      }
+    },
+    {
+      "id": "essay-09",
+      "title": "岳陽樓記",
+      "kind": "prose",
+      "questions": 160,
+      "abilities": {
+        "vocabulary": 57,
+        "theme": 31,
+        "meaning": 48,
+        "technique": 24
+      },
+      "sourceItems": 209,
+      "coverageStatus": {
+        "covered": 197,
+        "excluded": 12
+      }
+    },
+    {
+      "id": "essay-10",
+      "title": "六國論",
+      "kind": "prose",
+      "questions": 163,
+      "abilities": {
+        "vocabulary": 123,
+        "meaning": 12,
+        "theme": 1,
+        "technique": 27
+      },
+      "sourceItems": 210,
+      "coverageStatus": {
+        "covered": 202,
+        "disputed": 1,
+        "excluded": 7
+      }
+    },
+    {
+      "id": "essay-11",
+      "title": "山居秋暝",
+      "kind": "poem",
+      "questions": 60,
+      "abilities": {
+        "vocabulary": 13,
+        "theme": 21,
+        "technique": 21,
+        "meaning": 5
+      },
+      "sourceItems": 62,
+      "coverageStatus": {
+        "covered": 57,
+        "excluded": 5
+      }
+    },
+    {
+      "id": "essay-12",
+      "title": "月下獨酌",
+      "kind": "poem",
+      "questions": 80,
+      "abilities": {
+        "vocabulary": 17,
+        "meaning": 20,
+        "theme": 25,
+        "technique": 18
+      },
+      "sourceItems": 89,
+      "coverageStatus": {
+        "covered": 86,
+        "excluded": 3
+      }
+    },
+    {
+      "id": "essay-13",
+      "title": "登樓",
+      "kind": "poem",
+      "questions": 73,
+      "abilities": {
+        "vocabulary": 18,
+        "meaning": 18,
+        "theme": 20,
+        "technique": 17
+      },
+      "sourceItems": 80,
+      "coverageStatus": {
+        "covered": 75,
+        "excluded": 5
+      }
+    },
+    {
+      "id": "essay-14",
+      "title": "念奴嬌・赤壁懷古",
+      "kind": "poem",
+      "questions": 84,
+      "abilities": {
+        "vocabulary": 20,
+        "meaning": 17,
+        "theme": 35,
+        "technique": 12
+      },
+      "sourceItems": 96,
+      "coverageStatus": {
+        "covered": 93,
+        "excluded": 3
+      }
+    },
+    {
+      "id": "essay-15",
+      "title": "聲聲慢・秋情",
+      "kind": "poem",
+      "questions": 90,
+      "abilities": {
+        "vocabulary": 18,
+        "meaning": 21,
+        "theme": 34,
+        "technique": 17
+      },
+      "sourceItems": 93,
+      "coverageStatus": {
+        "covered": 87,
+        "excluded": 6
+      }
+    },
+    {
+      "id": "essay-16",
+      "title": "青玉案・元夕",
+      "kind": "poem",
+      "questions": 86,
+      "abilities": {
+        "vocabulary": 18,
+        "meaning": 25,
+        "theme": 26,
+        "technique": 17
+      },
+      "sourceItems": 94,
+      "coverageStatus": {
+        "covered": 92,
+        "excluded": 2
+      }
+    }
+  ],
+  "exceptions": [
+    {
+      "sourcePath": "$[1].pages[3].blocks[3][1][12]",
+      "questionIds": [],
+      "status": "disputed",
+      "reason": "詞解本身明列異解：妻妾的侍奉；另有供養妻妾解；保留閱讀，不設唯一判分。"
+    },
+    {
+      "sourcePath": "$[1].pages[4].blocks[3][1][1]",
+      "questionIds": [],
+      "status": "disputed",
+      "reason": "詞解本身明列異解：妻妾的侍奉；另有供養妻妾解；保留閱讀，不設唯一判分。"
+    },
+    {
+      "sourcePath": "$[3].pages[1].blocks[3][1][6]",
+      "questionIds": [],
+      "status": "disputed",
+      "reason": "詞解本身明列異解：大而平淺；另有廓落難容解；保留閱讀，不設唯一判分。"
+    },
+    {
+      "sourcePath": "$[3].pages[1].blocks[3][1][12]",
+      "questionIds": [],
+      "status": "disputed",
+      "reason": "詞解本身明列異解：漂洗絲絮；絖另有棉絮解；保留閱讀，不設唯一判分。"
+    },
+    {
+      "sourcePath": "$[3].pages[2].blocks[3][1][0]",
+      "questionIds": [],
+      "status": "disputed",
+      "reason": "詞解本身明列異解：漂洗絲絮；絖另有棉絮解；保留閱讀，不設唯一判分。"
+    },
+    {
+      "sourcePath": "$[3].pages[3].blocks[3][1][4]",
+      "questionIds": [],
+      "status": "disputed",
+      "reason": "詞解本身明列異解：大而平淺；另有廓落難容解；保留閱讀，不設唯一判分。"
+    },
+    {
+      "sourcePath": "$[1].pages[9].blocks[1][1][2]",
+      "questionIds": [],
+      "status": "disputed",
+      "reason": "「鄉為身死而不受」所連對象在pages[12]明列食物／萬鍾異讀，整句保留兩解，不強判唯一語譯。"
+    },
+    {
+      "sourcePath": "$[1].pages[10].blocks[0][1][7]",
+      "questionIds": [],
+      "status": "disputed",
+      "reason": "同篇pages[12]明列妻妾侍奉自己／供養妻妾兩解。"
+    },
+    {
+      "sourcePath": "$[3].pages[9].blocks[2][1][9]",
+      "questionIds": [],
+      "status": "disputed",
+      "reason": "本行明列平淺不容物／太大無處安置兩解。"
+    },
+    {
+      "sourcePath": "$[3].pages[9].blocks[2][1][18]",
+      "questionIds": [],
+      "status": "disputed",
+      "reason": "annot詞解另列絖為絲絮／棉絮，本表只列絲絮，不以省略另一說強判。"
+    },
+    {
+      "sourcePath": "$[3].pages[9].blocks[2][1][36]",
+      "questionIds": [],
+      "status": "disputed",
+      "reason": "annot釋慮為綴結繫結，本表又寫考慮繫着，保留表述差異；已審字面題不被默改。"
+    },
+    {
+      "sourcePath": "$[1].pages[8].blocks[1]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本塊明標《公孫丑上》及韓愈的延伸聯繫，屬篇外背景而非本篇論證步驟；不在本篇四選一中冒充課文原句。"
+    },
+    {
+      "sourcePath": "$[1].pages[12].blocks[0]",
+      "questionIds": [
+        "q-e02-exp-008"
+      ],
+      "status": "disputed",
+      "reason": "明列妻妾之奉與鄉為身死而不受的兩解，不強判單一語譯；共同的今昔失義由所列題覆蓋。"
+    },
+    {
+      "sourcePath": "$[2].pages[0].blocks[7]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "作者思想背景：偽的人為義並非此節錄原文用字；保留閱讀說明，不把篇外術語混作本篇詞義題。"
+    },
+    {
+      "sourcePath": "$[3].pages[0].blocks[7]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "節錄範圍及人物解讀邊界的閱讀提醒，不是可由這幾句判定惠莊全部歷史思想的知識題。"
+    },
+    {
+      "sourcePath": "$[1].pages[11].blocks[0]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "歷年考查索引的使用說明，不屬正文可判分知識；不可把本地索引改稱官方原題。"
+    },
+    {
+      "sourcePath": "$[1].pages[11].blocks[1][1][1]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2021年考查方向索引（字詞：鄉），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[1].pages[11].blocks[1][1][2]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2022年考查方向索引（虛詞比較：者的用法，含主句及跨篇選項；不代表每篇均為主考），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[1].pages[11].blocks[1][1][3]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2022年考查方向索引（論證：正反兩面論述義重於生），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[1].pages[11].blocks[1][1][4]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2022年考查方向索引（概念：本心的意思；生活應用：保存本心對現代社會的提醒，須以教育現象為例），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[1].pages[11].blocks[1][1][5]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2025年考查方向索引（字詞：已），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[2].pages[11].blocks[0]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "歷年考查索引的使用說明，不屬正文可判分知識；不可把本地索引改稱官方原題。"
+    },
+    {
+      "sourcePath": "$[2].pages[11].blocks[1][1][1]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2018年考查方向索引（例證與道理：舟楫、騏驥的例子及所說明道理），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[2].pages[11].blocks[1][1][2]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2018年考查方向索引（主旨與內容：不斷學習的好處），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[2].pages[11].blocks[1][1][3]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2018年考查方向索引（論證：全文說理手法），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[2].pages[11].blocks[1][1][4]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2019年考查方向索引（字詞：須臾），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[2].pages[11].blocks[1][1][5]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2023年考查方向索引（字詞：中繩的中），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[3].pages[13].blocks[0]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "歷年考查索引的使用說明，不屬正文可判分知識；不可把本地索引改稱官方原題。"
+    },
+    {
+      "sourcePath": "$[3].pages[13].blocks[1][1][1]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2018年考查方向索引（字詞：患的語境義），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[3].pages[13].blocks[1][1][2]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2021年考查方向索引（字詞：樹），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[3].pages[13].blocks[1][1][3]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2021年考查方向索引（喻證與用意：惠子以大瓠為喻的目的），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[3].pages[13].blocks[1][1][4]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2021年考查方向索引（判斷：宋人客人拙於用大、擅於用大或無從判斷），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[3].pages[13].blocks[1][1][5]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2021年考查方向索引（喻證：狸狌所說明的道理），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[3].pages[13].blocks[1][1][6]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2021年考查方向索引（主旨與喻證：以樗樹抒發人生感悟），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[3].pages[13].blocks[1][1][7]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2022年考查方向索引（字詞：去），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[3].pages[13].blocks[1][1][8]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2022年考查方向索引（虛詞比較：者的用法，含主句及跨篇選項；不代表每篇均為主考），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[3].pages[13].blocks[1][1][9]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2025年考查方向索引（虛詞比較：以的用法，含四篇選項），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[4].pages[31].blocks[0]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "歷年考查索引的使用說明，不屬正文可判分知識；不可把本地索引改稱官方原題。"
+    },
+    {
+      "sourcePath": "$[4].pages[31].blocks[1][1][1]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2018年考查方向索引（字詞：倨的語境義），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[4].pages[31].blocks[1][1][2]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2019年考查方向索引（字詞：衣），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[4].pages[31].blocks[1][1][3]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2020年考查方向索引（句譯：臣誠恐見欺於王而負趙），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[4].pages[31].blocks[1][1][4]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2022年考查方向索引（虛詞比較：者的用法，含主句及跨篇選項；不代表每篇均為主考），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[4].pages[31].blocks[1][1][5]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2022年考查方向索引（特殊句式：辨認倒裝句，含跨篇選項），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[4].pages[31].blocks[1][1][6]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2023年考查方向索引（特殊句式：被動句：徒見欺、君幸於趙王；原卷選項已回看），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[4].pages[31].blocks[1][1][7]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2023年考查方向索引（人物塑造：秦趙獻壽對答凸顯相如形象），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[4].pages[31].blocks[1][1][8]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2023年考查方向索引（敘事詳略：以完璧歸趙說明詳略得宜），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[4].pages[31].blocks[1][1][9]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "本行是2025年考查方向索引（字詞：急），不是題目或答案本體；相應詞解、論證、句法已按本書正文逐項另有coverage。"
+    },
+    {
+      "sourcePath": "$[5].pages[15].blocks[0][1][9]",
+      "questionIds": [],
+      "status": "disputed",
+      "reason": "原书标作借喻的延伸理解；秋的时刻义另有词解题。修辞分类不作为唯一判分依据，保留此延伸说明待核。"
+    },
+    {
+      "sourcePath": "$[5].pages[17].blocks[1][1][1]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅為歷年考查方向／年份索引，不冒稱已核對原題；對應正文知識由詞解及分析題覆盖。"
+    },
+    {
+      "sourcePath": "$[5].pages[17].blocks[1][1][2]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅為歷年考查方向／年份索引，不冒稱已核對原題；對應正文知識由詞解及分析題覆盖。"
+    },
+    {
+      "sourcePath": "$[5].pages[17].blocks[1][1][3]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅為歷年考查方向／年份索引，不冒稱已核對原題；對應正文知識由詞解及分析題覆盖。"
+    },
+    {
+      "sourcePath": "$[5].pages[17].blocks[1][1][4]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅為歷年考查方向／年份索引，不冒稱已核對原題；對應正文知識由詞解及分析題覆盖。"
+    },
+    {
+      "sourcePath": "$[5].pages[17].blocks[1][1][5]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅為歷年考查方向／年份索引，不冒稱已核對原題；對應正文知識由詞解及分析題覆盖。"
+    },
+    {
+      "sourcePath": "$[5].pages[17].blocks[1][1][6]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅為歷年考查方向／年份索引，不冒稱已核對原題；對應正文知識由詞解及分析題覆盖。"
+    },
+    {
+      "sourcePath": "$[5].pages[17].blocks[1][1][7]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅為歷年考查方向／年份索引，不冒稱已核對原題；對應正文知識由詞解及分析題覆盖。"
+    },
+    {
+      "sourcePath": "$[5].pages[17].blocks[1][1][8]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅為歷年考查方向／年份索引，不冒稱已核對原題；對應正文知識由詞解及分析題覆盖。"
+    },
+    {
+      "sourcePath": "$[5].pages[17].blocks[1][1][9]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅為歷年考查方向／年份索引，不冒稱已核對原題；對應正文知識由詞解及分析題覆盖。"
+    },
+    {
+      "sourcePath": "$[6].pages[20].blocks[1][1][1]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅為歷年考查方向／年份索引，不冒稱已核對原題；對應正文知識由詞解及分析題覆盖。"
+    },
+    {
+      "sourcePath": "$[6].pages[20].blocks[1][1][2]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅為歷年考查方向／年份索引，不冒稱已核對原題；對應正文知識由詞解及分析題覆盖。"
+    },
+    {
+      "sourcePath": "$[6].pages[20].blocks[1][1][3]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅為歷年考查方向／年份索引，不冒稱已核對原題；對應正文知識由詞解及分析題覆盖。"
+    },
+    {
+      "sourcePath": "$[6].pages[20].blocks[1][1][4]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅為歷年考查方向／年份索引，不冒稱已核對原題；對應正文知識由詞解及分析題覆盖。"
+    },
+    {
+      "sourcePath": "$[6].pages[20].blocks[1][1][5]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅為歷年考查方向／年份索引，不冒稱已核對原題；對應正文知識由詞解及分析題覆盖。"
+    },
+    {
+      "sourcePath": "$[7].pages[25].blocks[1][1][1]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅為歷年考查方向／年份索引，不冒稱已核對原題；對應正文知識由詞解及分析題覆盖。"
+    },
+    {
+      "sourcePath": "$[7].pages[25].blocks[1][1][2]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅為歷年考查方向／年份索引，不冒稱已核對原題；對應正文知識由詞解及分析題覆盖。"
+    },
+    {
+      "sourcePath": "$[7].pages[25].blocks[1][1][3]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅為歷年考查方向／年份索引，不冒稱已核對原題；對應正文知識由詞解及分析題覆盖。"
+    },
+    {
+      "sourcePath": "$[7].pages[25].blocks[1][1][4]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅為歷年考查方向／年份索引，不冒稱已核對原題；對應正文知識由詞解及分析題覆盖。"
+    },
+    {
+      "sourcePath": "$[9].pages[10].blocks[2][1][1]",
+      "questionIds": [],
+      "status": "disputed",
+      "reason": "原书同时列兵器字面义及军队兵力借代义；不能把两种成立解释并列判一错，保留待复核。"
+    },
+    {
+      "sourcePath": "$[9].pages[16].blocks[1][1][1]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅為歷年考查方向／年份索引，不冒稱已核對原題；對應正文知識由詞解及分析題覆盖。"
+    },
+    {
+      "sourcePath": "$[9].pages[16].blocks[1][1][2]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅為歷年考查方向／年份索引，不冒稱已核對原題；對應正文知識由詞解及分析題覆盖。"
+    },
+    {
+      "sourcePath": "$[9].pages[16].blocks[1][1][3]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅為歷年考查方向／年份索引，不冒稱已核對原題；對應正文知識由詞解及分析題覆盖。"
+    },
+    {
+      "sourcePath": "$[9].pages[16].blocks[1][1][4]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅為歷年考查方向／年份索引，不冒稱已核對原題；對應正文知識由詞解及分析題覆盖。"
+    },
+    {
+      "sourcePath": "$[9].pages[16].blocks[1][1][5]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅為歷年考查方向／年份索引，不冒稱已核對原題；對應正文知識由詞解及分析題覆盖。"
+    },
+    {
+      "sourcePath": "$[5].pages[13].blocks[1]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "栏目导语，无独立知识断言。"
+    },
+    {
+      "sourcePath": "$[5].pages[17].blocks[0]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "考查年份／作答元提示，不另造官方真題；正文知识另有逐点题及来源。"
+    },
+    {
+      "sourcePath": "$[6].pages[20].blocks[0]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "考查年份／作答元提示，不另造官方真題；正文知识另有逐点题及来源。"
+    },
+    {
+      "sourcePath": "$[7].pages[17].blocks[0]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "考查年份／作答元提示，不另造官方真題；正文知识另有逐点题及来源。"
+    },
+    {
+      "sourcePath": "$[9].pages[12].blocks[1]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "栏目导语，无独立知识断言。"
+    },
+    {
+      "sourcePath": "$[9].pages[16].blocks[0]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "考查年份／作答元提示，不另造官方真題；正文知识另有逐点题及来源。"
+    },
+    {
+      "sourcePath": "$[0].pages[7].blocks[1][1][5]",
+      "questionIds": [],
+      "status": "disputed",
+      "reason": "來源另列異解：「不違」本書採不觸忤父母，考查語境另作不違父母意願；不與第5則無違禮混同。"
+    },
+    {
+      "sourcePath": "$[0].pages[9].blocks[1][1][2]",
+      "questionIds": [],
+      "status": "disputed",
+      "reason": "來源另列異解：「固」本書主解鞏固，另列閉塞淺陋解；保留異說閱讀，不作無限定唯一詞義題。"
+    },
+    {
+      "sourcePath": "$[0].pages[0].blocks[5]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "閱讀／應試元說明或生活表達示例，非新原文知識點；相應思想已由原文及分析題覆蓋。"
+    },
+    {
+      "sourcePath": "$[0].pages[0].blocks[6]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "閱讀／應試元說明或生活表達示例，非新原文知識點；相應思想已由原文及分析題覆蓋。"
+    },
+    {
+      "sourcePath": "$[0].pages[1].blocks[5]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "標題／導航或考查索引提示，不是新增可判分知識點。"
+    },
+    {
+      "sourcePath": "$[0].pages[1].blocks[7]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "閱讀／應試元說明或生活表達示例，非新原文知識點；相應思想已由原文及分析題覆蓋。"
+    },
+    {
+      "sourcePath": "$[0].pages[1].blocks[8]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "閱讀／應試元說明或生活表達示例，非新原文知識點；相應思想已由原文及分析題覆蓋。"
+    },
+    {
+      "sourcePath": "$[0].pages[2].blocks[5]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "標題／導航或考查索引提示，不是新增可判分知識點。"
+    },
+    {
+      "sourcePath": "$[0].pages[3].blocks[5]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "標題／導航或考查索引提示，不是新增可判分知識點。"
+    },
+    {
+      "sourcePath": "$[0].pages[5].blocks[5]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "標題／導航或考查索引提示，不是新增可判分知識點。"
+    },
+    {
+      "sourcePath": "$[0].pages[5].blocks[6]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "標題／導航或考查索引提示，不是新增可判分知識點。"
+    },
+    {
+      "sourcePath": "$[0].pages[8].blocks[4]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "標題／導航或考查索引提示，不是新增可判分知識點。"
+    },
+    {
+      "sourcePath": "$[0].pages[8].blocks[6]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "閱讀／應試元說明或生活表達示例，非新原文知識點；相應思想已由原文及分析題覆蓋。"
+    },
+    {
+      "sourcePath": "$[0].pages[8].blocks[7]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "閱讀／應試元說明或生活表達示例，非新原文知識點；相應思想已由原文及分析題覆蓋。"
+    },
+    {
+      "sourcePath": "$[0].pages[10].blocks[5]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "閱讀／應試元說明或生活表達示例，非新原文知識點；相應思想已由原文及分析題覆蓋。"
+    },
+    {
+      "sourcePath": "$[0].pages[10].blocks[6]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "閱讀／應試元說明或生活表達示例，非新原文知識點；相應思想已由原文及分析題覆蓋。"
+    },
+    {
+      "sourcePath": "$[0].pages[11].blocks[5]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "標題／導航或考查索引提示，不是新增可判分知識點。"
+    },
+    {
+      "sourcePath": "$[0].pages[13].blocks[6]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "閱讀／應試元說明或生活表達示例，非新原文知識點；相應思想已由原文及分析題覆蓋。"
+    },
+    {
+      "sourcePath": "$[0].pages[13].blocks[7]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "閱讀／應試元說明或生活表達示例，非新原文知識點；相應思想已由原文及分析題覆蓋。"
+    },
+    {
+      "sourcePath": "$[0].pages[14].blocks[5]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "標題／導航或考查索引提示，不是新增可判分知識點。"
+    },
+    {
+      "sourcePath": "$[0].pages[14].blocks[8]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "標題／導航或考查索引提示，不是新增可判分知識點。"
+    },
+    {
+      "sourcePath": "$[0].pages[15].blocks[5]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "標題／導航或考查索引提示，不是新增可判分知識點。"
+    },
+    {
+      "sourcePath": "$[0].pages[16].blocks[5]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "標題／導航或考查索引提示，不是新增可判分知識點。"
+    },
+    {
+      "sourcePath": "$[0].pages[16].blocks[7]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "閱讀／應試元說明或生活表達示例，非新原文知識點；相應思想已由原文及分析題覆蓋。"
+    },
+    {
+      "sourcePath": "$[0].pages[16].blocks[8]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "閱讀／應試元說明或生活表達示例，非新原文知識點；相應思想已由原文及分析題覆蓋。"
+    },
+    {
+      "sourcePath": "$[0].pages[17].blocks[1]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "作者編纂、時代或人物查閱背景；本文原句理解與思想另有逐項覆蓋。"
+    },
+    {
+      "sourcePath": "$[0].pages[17].blocks[4]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "作者編纂、時代或人物查閱背景；本文原句理解與思想另有逐項覆蓋。"
+    },
+    {
+      "sourcePath": "$[0].pages[17].blocks[5]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "作者編纂、時代或人物查閱背景；本文原句理解與思想另有逐項覆蓋。"
+    },
+    {
+      "sourcePath": "$[0].pages[17].blocks[6][1][1]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "人物字號與身分查閱資料；問答作用已在相應原文理解中覆蓋。"
+    },
+    {
+      "sourcePath": "$[0].pages[17].blocks[6][1][2]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "人物字號與身分查閱資料；問答作用已在相應原文理解中覆蓋。"
+    },
+    {
+      "sourcePath": "$[0].pages[17].blocks[6][1][3]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "人物字號與身分查閱資料；問答作用已在相應原文理解中覆蓋。"
+    },
+    {
+      "sourcePath": "$[0].pages[17].blocks[6][1][4]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "人物字號與身分查閱資料；問答作用已在相應原文理解中覆蓋。"
+    },
+    {
+      "sourcePath": "$[0].pages[17].blocks[6][1][5]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "人物字號與身分查閱資料；問答作用已在相應原文理解中覆蓋。"
+    },
+    {
+      "sourcePath": "$[0].pages[17].blocks[7]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "作者編纂、時代或人物查閱背景；本文原句理解與思想另有逐項覆蓋。"
+    },
+    {
+      "sourcePath": "$[0].pages[18].blocks[6]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "標題／導航或考查索引提示，不是新增可判分知識點。"
+    },
+    {
+      "sourcePath": "$[0].pages[19].blocks[6]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "標題／導航或考查索引提示，不是新增可判分知識點。"
+    },
+    {
+      "sourcePath": "$[0].pages[19].blocks[9]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "閱讀／應試元說明或生活表達示例，非新原文知識點；相應思想已由原文及分析題覆蓋。"
+    },
+    {
+      "sourcePath": "$[0].pages[22].blocks[3]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "閱讀／應試元說明或生活表達示例，非新原文知識點；相應思想已由原文及分析題覆蓋。"
+    },
+    {
+      "sourcePath": "$[0].pages[24].blocks[4]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "標題／導航或考查索引提示，不是新增可判分知識點。"
+    },
+    {
+      "sourcePath": "$[0].pages[24].blocks[5]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "閱讀／應試元說明或生活表達示例，非新原文知識點；相應思想已由原文及分析題覆蓋。"
+    },
+    {
+      "sourcePath": "$[0].pages[25].blocks[3]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "標題／導航或考查索引提示，不是新增可判分知識點。"
+    },
+    {
+      "sourcePath": "$[0].pages[28].blocks[9]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "標題／導航或考查索引提示，不是新增可判分知識點。"
+    },
+    {
+      "sourcePath": "$[0].pages[28].blocks[10]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "閱讀／應試元說明或生活表達示例，非新原文知識點；相應思想已由原文及分析題覆蓋。"
+    },
+    {
+      "sourcePath": "$[8].pages[12].blocks[13]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "閱讀／應試元說明或生活表達示例，非新原文知識點；相應思想已由原文及分析題覆蓋。"
+    },
+    {
+      "sourcePath": "$[8].pages[15].blocks[0]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "閱讀／應試元說明或生活表達示例，非新原文知識點；相應思想已由原文及分析題覆蓋。"
+    },
+    {
+      "sourcePath": "$[8].pages[15].blocks[1][1][1]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅考查年份與索引方向；不能把提示轉稱官方真題。"
+    },
+    {
+      "sourcePath": "$[8].pages[15].blocks[1][1][2]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅考查年份與索引方向；不能把提示轉稱官方真題。"
+    },
+    {
+      "sourcePath": "$[8].pages[15].blocks[1][1][3]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅考查年份與索引方向；不能把提示轉稱官方真題。"
+    },
+    {
+      "sourcePath": "$[8].pages[15].blocks[1][1][4]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅考查年份與索引方向；不能把提示轉稱官方真題。"
+    },
+    {
+      "sourcePath": "$[8].pages[15].blocks[1][1][5]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅考查年份與索引方向；不能把提示轉稱官方真題。"
+    },
+    {
+      "sourcePath": "$[8].pages[15].blocks[1][1][6]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅考查年份與索引方向；不能把提示轉稱官方真題。"
+    },
+    {
+      "sourcePath": "$[8].pages[15].blocks[1][1][7]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅考查年份與索引方向；不能把提示轉稱官方真題。"
+    },
+    {
+      "sourcePath": "$[8].pages[15].blocks[1][1][8]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅考查年份與索引方向；不能把提示轉稱官方真題。"
+    },
+    {
+      "sourcePath": "$[8].pages[15].blocks[1][1][9]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅考查年份與索引方向；不能把提示轉稱官方真題。"
+    },
+    {
+      "sourcePath": "$[8].pages[15].blocks[1][1][10]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅考查年份與索引方向；不能把提示轉稱官方真題。"
+    },
+    {
+      "sourcePath": "$[10].pages[8].blocks[0]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "閱讀／應試元說明或生活表達示例，非新原文知識點；相應思想已由原文及分析題覆蓋。"
+    },
+    {
+      "sourcePath": "$[10].pages[8].blocks[1][1][1]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅考查年份與索引方向；不能把提示轉稱官方真題。"
+    },
+    {
+      "sourcePath": "$[10].pages[8].blocks[1][1][2]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅考查年份與索引方向；不能把提示轉稱官方真題。"
+    },
+    {
+      "sourcePath": "$[10].pages[8].blocks[1][1][3]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅考查年份與索引方向；不能把提示轉稱官方真題。"
+    },
+    {
+      "sourcePath": "$[10].pages[8].blocks[1][1][4]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅考查年份與索引方向；不能把提示轉稱官方真題。"
+    },
+    {
+      "sourcePath": "$[11].pages[11].blocks[0]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "閱讀／應試元說明或生活表達示例，非新原文知識點；相應思想已由原文及分析題覆蓋。"
+    },
+    {
+      "sourcePath": "$[11].pages[11].blocks[1][1][1]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅考查年份與索引方向；不能把提示轉稱官方真題。"
+    },
+    {
+      "sourcePath": "$[11].pages[11].blocks[1][1][2]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅考查年份與索引方向；不能把提示轉稱官方真題。"
+    },
+    {
+      "sourcePath": "$[12].pages[9].blocks[0]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "閱讀／應試元說明或生活表達示例，非新原文知識點；相應思想已由原文及分析題覆蓋。"
+    },
+    {
+      "sourcePath": "$[12].pages[9].blocks[1][1][1]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅考查年份與索引方向；不能把提示轉稱官方真題。"
+    },
+    {
+      "sourcePath": "$[12].pages[9].blocks[1][1][2]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅考查年份與索引方向；不能把提示轉稱官方真題。"
+    },
+    {
+      "sourcePath": "$[12].pages[9].blocks[1][1][3]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅考查年份與索引方向；不能把提示轉稱官方真題。"
+    },
+    {
+      "sourcePath": "$[12].pages[9].blocks[1][1][4]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅考查年份與索引方向；不能把提示轉稱官方真題。"
+    },
+    {
+      "sourcePath": "$[13].pages[10].blocks[0]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "閱讀／應試元說明或生活表達示例，非新原文知識點；相應思想已由原文及分析題覆蓋。"
+    },
+    {
+      "sourcePath": "$[13].pages[10].blocks[1][1][1]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅考查年份與索引方向；不能把提示轉稱官方真題。"
+    },
+    {
+      "sourcePath": "$[13].pages[10].blocks[1][1][2]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅考查年份與索引方向；不能把提示轉稱官方真題。"
+    },
+    {
+      "sourcePath": "$[14].pages[7].blocks[1]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "作者編纂、時代或人物查閱背景；本文原句理解與思想另有逐項覆蓋。"
+    },
+    {
+      "sourcePath": "$[14].pages[7].blocks[2]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "作者編纂、時代或人物查閱背景；本文原句理解與思想另有逐項覆蓋。"
+    },
+    {
+      "sourcePath": "$[14].pages[7].blocks[3]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "作者編纂、時代或人物查閱背景；本文原句理解與思想另有逐項覆蓋。"
+    },
+    {
+      "sourcePath": "$[14].pages[7].blocks[4]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "作者編纂、時代或人物查閱背景；本文原句理解與思想另有逐項覆蓋。"
+    },
+    {
+      "sourcePath": "$[14].pages[10].blocks[0]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "閱讀／應試元說明或生活表達示例，非新原文知識點；相應思想已由原文及分析題覆蓋。"
+    },
+    {
+      "sourcePath": "$[14].pages[10].blocks[1][1][1]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅考查年份與索引方向；不能把提示轉稱官方真題。"
+    },
+    {
+      "sourcePath": "$[15].pages[10].blocks[0]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "閱讀／應試元說明或生活表達示例，非新原文知識點；相應思想已由原文及分析題覆蓋。"
+    },
+    {
+      "sourcePath": "$[15].pages[10].blocks[1][1][1]",
+      "questionIds": [],
+      "status": "excluded",
+      "reason": "僅考查年份與索引方向；不能把提示轉稱官方真題。"
+    }
+  ],
+  "missing": [],
+  "warnings": [],
+  "errors": [],
+  "baseBankSha256": "bdec2e20dfae426d0944744b142275be5f0d71228e3ce0f4b6f45d54a74584be",
+  "scope": "所供復習書範圍的逐項出題及代理核對；來源分歧明列保留。不是官方真題或教師獨立審定。"
+}
