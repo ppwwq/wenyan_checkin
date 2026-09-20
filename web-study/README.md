@@ -1,66 +1,73 @@
-# 中文甲 · iPad 學習書房
+# 中文甲網頁版 · 開發與維護
 
-依照 2026-09-19 已確認計畫完成的可運行網頁應用。保留原 Flutter 工程，這個版本獨立放在 `web-study/`。
+網頁應用位於 `web-study/`，包含篇章練習、個人學習紀錄、離線保存及帳號同步。產品概覽見[專案首頁](../README.md)。
 
-## 公開部署
+[正式網站](https://chinese-a-study.philipwwq.workers.dev) · [題庫來源](CONTENT.md) · [覆蓋清單](CONTENT-COVERAGE.md) · [部署狀態](cloudflare/DEPLOYMENT.md)
 
-網址：[中文甲學習書房](https://chinese-a-study.philipwwq.workers.dev)。網頁、API及邀請註冊已啟用；本地帳號與學習紀錄不遷移，新網址需使用邀請碼重新註冊，詳見 [即時部署狀態](cloudflare/DEPLOYMENT.md)。
+## 環境需求
 
-## 在本機打開
+- Node.js 24.16或以上，用於本機服務、測試及建置。
+- Python 3，用於題庫重建、來源核查及合併保護測試。
+- Chromium及Playwright，用於瀏覽器驗證；不屬於應用執行依賴。
+- Cloudflare Wrangler，用於雲端部署；目前部署流程使用4.129.0。
 
-需要 Node.js 24.16 或以上。
+應用採用原生JavaScript模組與Node.js內建SQLite，啟動、單元測試及建置無需執行 `npm install`。
 
-雙擊 **啟動書房.cmd**，再在瀏覽器打開 **http://127.0.0.1:8787**。啟動視窗會顯示學生邀請碼，以及獨立的維護者邀請碼。第一次選「邀請註冊」，自訂帳號和至少 10 字元密碼，並保存一次性恢復碼。維護者帳號名稱為 `teacher`。
+## 啟動本機服務
 
-也可在專案根目錄執行：
+在Windows的專案根目錄執行：
 
 ```powershell
 powershell -ExecutionPolicy Bypass -File web-study/backend/start-dev.ps1
 ```
 
-本機位址只供目前電腦使用。同學可用上方正式 HTTPS 網址；本機與雲端帳號、學習資料互相獨立。
+瀏覽器開啟 `http://127.0.0.1:8787`。啟動工具會建立本機邀請設定與SQLite資料庫，並顯示學生及維護者邀請碼。維護者帳號名稱為 `teacher`。註冊後應保存一次性恢復碼。
 
-## 已實現的學習流程
+其他環境可直接啟動 `backend/server.mjs`，並透過環境變數設定邀請碼、資料庫及服務位址；完整參數見[後端說明](backend/README.md)。本機資料與正式站點各自保存。
 
-- 書房介面、香港日期、2027-04-08 使用者指定倒數、鼓勵語、大字原文與答案。
-- 16 篇多選，1–100 題，10／20／30 快選；均衡分配、到期優先、只練錯題，數量不足明示且不重複凑數。
-- 預設單選；偏好可加入打字題。先作答、首次提交鎖定，再對照解析與完整自查。
-- 題組固定快照；暂停、逐字輸入、刷新與離線後可繼續。未選篇章不混入，跨篇題須全部涉及篇章都被選中。
-- 每個帳號＋記憶單元＋香港日期，只以當天第一次提交更新記憶。文字題先占首次位置，跨日自查仍歸原提交日。
-- 首次答錯後約 10 分鐘提醒、次日複習；到期首次正確後間隔為 2／4／7／15／30／60／90 天。提前正確不推遲安排，同日重練不刷高首次表現。
-- 篇章薄弱地圖、易混詞義對照、收藏與題目報錯、考前快速回顧，均接入同一份個人記錄。
-- 回顧卡瀏覽不算答題。題目解析可打開原 PDF 頁，跨篇題保留兩邊來源。
+## 主要行為
 
-## 題庫與帳號
+| 項目 | 行為 |
+| --- | --- |
+| 題組建立 | 支援16篇多選、能力篩選、1–100題及10／20／30題快選；跨篇題須涉及的全部篇章均被選中。 |
+| 作答模式 | 修訂後的選擇辨析題固定四選一；支援文字自查的既有題目可依偏好加入打字模式。 |
+| 歷史保留 | 題組保存建立時的完整快照，題庫更新不改寫進行中的練習與歷史答案。 |
+| 複習計算 | 同帳號、記憶單元及香港日期只以首次提交更新記憶；提前答對不推遲既有安排。 |
+| 離線同步 | IndexedDB按帳號保存作答、草稿、收藏及報錯；恢復連線後以冪等事件補傳。 |
+| 備份 | 帳號頁可匯出及合併同帳號備份；介面區分本機保存與伺服器備份狀態。 |
+| 內容維護 | 維護者可處理報錯、下架題目及追加修訂；評分更正保留原始答案並通知學生。 |
 
-題庫含 **2,131 題／2,081 個記憶單元**，本輪新增 1,913 題，涵蓋十六篇與手法附錄，另有 11 組詞義對照。新增的 151 道通用附錄題可單獨練習。
+## 題庫維護
 
-全書 2,854 項來源均有處理記錄；2,697 項已有題目，16 項保留異解，141 項為索引等不直接判分內容。每題可回查原書。這是依提供之书編寫的練習，非官方真題；詳見 `CONTENT.md`、`CONTENT-COVERAGE.md`。
+目前版本為 `2026.09.20.1`，共2,131題、2,081個記憶單元及11組詞義對照。指定篇章1,980題中，本輪修訂1,921題、保留59題；原151道通用附錄題維持獨立選用。
 
-Node＋SQLite 後端實現邀請帳號、獨立會話、一次性恢復碼、權限隔離、原子與冪等補傳。IndexedDB 按帳號分庫；離線作答、收藏與報錯先存本機，連線和回到前台時補傳。介面區分本機保存與已備份。
+來源資料位於 `content/sources/`；發布清單與精確分包雜湊位於 `tools/question-bank/mcq-revision/`。重建流程只套用核准分包，並核對穩定題號、記憶單元及版本。操作方式與內容品質界線見[題庫說明](CONTENT.md)。
 
-管理員可處理報錯、下架題目、追加版本、明確更正某次作答並通知學生。歷史題目快照與原答案保留。帳號頁支援匯出與合併同帳號備份；沒有冒充郵件發送的恢復入口。
+## 測試與建置
 
-## 驗證與构建
-
-在 `web-study/` 執行：
+在專案根目錄執行：
 
 ```powershell
-npm test
-npm run build
+node --test web-study/tests/*.test.mjs web-study/backend/*.test.mjs web-study/cloudflare/*.test.mjs
+python -m unittest discover -s tools/question-bank/mcq-revision -p test_apply_revision.py
+python tools/question-bank/validate_bank.py
+node web-study/scripts/build.mjs
 ```
 
-無第三方執行依賴，不需要 npm install。build 產生 `dist/` 靜態資產，正式使用仍需同源帳號 API（Node 或本專案 Cloudflare 適配）；只把 dist 丟到靜態託管不會提供帳號與備份。
+建置會檢查主要JavaScript模組語法及題庫基本結構，輸出至 `web-study/dist/`。在 `web-study/` 內亦可使用 `npm test` 與 `npm run build`。
 
-本次自動化與 Chromium 瀏覽器證據見 `VERIFICATION.md`、`verification/*.json`。瀏覽器腳本是本機開發驗收輔助，使用獨立 QA 資料庫及隨機測試帳號，不應對正式同學資料庫執行。
+瀏覽器驗證腳本位於 `scripts/`，使用獨立測試環境。部分腳本的Chromium、Playwright及研究預覽位置為本機路徑，移至其他電腦時須按腳本設定調整。正式站點的唯讀檢查可執行 `node web-study/cloudflare/verify-release.mjs`；該腳本核對既定正式網址與本地 `dist/`。
 
-## 正式發布與剩餘驗收
+## 部署
 
-Cloudflare部署適配、新帳號註冊及最新狀態見 [cloudflare/README.md](cloudflare/README.md) 和 [DEPLOYMENT.md](cloudflare/DEPLOYMENT.md)。
+正式站點由Cloudflare Workers提供同源靜態資產與API，帳號及學習事件保存於SQLite-backed Durable Object。部署需沿用既有Worker、類別及實例名稱；詳細步驟見[Cloudflare部署文件](cloudflare/README.md)。
 
+`dist/` 為靜態資產，完整帳號、備份及同步功能仍需要同源API。Node、Docker與Caddy方案見[後端部署說明](backend/README.md)。
 
-經使用者授權，已發布到 Cloudflare Workers 並推送公開 GitHub；未購買服務或設定自訂域名。Docker 與 Caddy 設定保留作其他主機方案，見 `backend/README.md`。
+本機私密資料位於 `backend/data/`，不納入公開倉庫或靜態發布包。更新正式程式與題庫時保留既有帳號及學習資料，無需重新註冊或重新設定邀請碼。
 
-真 iPad Safari 的橫直屏、分屏、軟鍵盤、長時間后台恢復及弱網仍需實機驗收。Chromium 768px／430px 模擬和離線測試不能替代這部分。
+## 驗證狀態
 
-伺服器個人資料位於 `backend/data/`，不要加入程式發布包。使用持久磁碟並定期備份 SQLite；部署參數和備份／恢復方法見後端說明。
+本次發布通過30項應用測試、7項合併保護測試、題庫來源與版本核查，以及Chromium作答檢查。正式站點26個公開檔案與發布包完全一致，記錄見[驗證報告](VERIFICATION.md)。
+
+本輪線上檢查採唯讀方式，未驗收正式帳號登入寫入；真iPad Safari的分屏、軟鍵盤、背景恢復及弱網仍需實機確認。題目難度及鑑別度須透過學生試答與教師覆核評估。

@@ -1,0 +1,30 @@
+{
+  "version": "2026.09.20.1",
+  "baselineSha256": "3b5d74cf6c8c8d423e516fd2fd504b9a94b5955e090e25b96609b4203b203e1f",
+  "packs": [
+    {
+      "file": "part-a.json",
+      "sha256": "7d796374ee023cc00b834afab95ed638d92c5e8a559f99e09586dc6f34e5bf36"
+    },
+    {
+      "file": "part-b.json",
+      "sha256": "c6570d05bf7ddc144e5dd5e34f50c332c94d1137af7453627055f9ae9196e86d"
+    },
+    {
+      "file": "part-c-final.json",
+      "sha256": "3e553524bcc70078cf62518d669d02a54f8dae37d29b84457c771ae32fcd8930"
+    },
+    {
+      "file": "part-c-lunyu.json",
+      "sha256": "32a72e2b7e7881e1aff3d3e1cd19cd06f24e947eae5708b971c42d7f17fbcec0"
+    },
+    {
+      "file": "part-c-vocab-1.json",
+      "sha256": "24f93fae73c929913640ec362426afe7477d3b79b6c48f0c3809a2683ae3b421"
+    },
+    {
+      "file": "part-c-vocab-tail.json",
+      "sha256": "427ab91f71d8f92ec7dbc2b48e7995dba578dd97ad4383ddc3c2ba968c16b980"
+    }
+  ]
+}

@@ -107,6 +107,12 @@ for previous in base['questions']:
  if previous['id'] in revisions:
   check(current==revisions[previous['id']] and current['memoryId']==previous['memoryId'] and current['version']>previous['version'],'Invalid explicit revision '+previous['id'])
  else:check(current==previous,'Changed existing question '+previous['id'])
+# Apply only hash-approved revisions after validating the original source packs.
+# The authoring sources remain immutable; normal rebuilds retain released edits.
+sys.path.insert(0,str(DIR.parent/'mcq-revision'))
+from apply_revision import apply_revision
+questions,mcq_revision_summary=apply_revision(questions)
+ids={q['id']:q for q in questions}
 # Extend comparison cards only from explicitly authored polysemy tables in the source.
 comparisons=json.loads(json.dumps(base['comparisons']))
 for ci,chapter in enumerate(data):
@@ -135,6 +141,9 @@ for essay in base['essays']:
  src=[mapping[p] for p,v in inventory.items() if v['essayId']==essay['id'] and p in mapping]
  by_essay.append({**essay,'questions':len(subset),'abilities':dict(collections.Counter(q['ability'] for q in subset)),'sourceItems':len(src),'coverageStatus':dict(collections.Counter(r['status'] for r in src))})
 report={'result':'PASS' if not errors else 'FAIL','version':'2026.09.19.2','questions':len(questions),'previousQuestions':len(base['questions']),'revisions':revision_pack['notes'],'newQuestions':len(questions)-len(base['questions']),'memoryUnits':len({q['memoryId'] for q in questions}),'comparisons':len(comparisons),'abilities':dict(collections.Counter(q['ability'] for q in questions)),'sourceInventory':dict(collections.Counter(v['kind'] for v in inventory.values())),'sourceItems':len(inventory),'mappedSourceItems':len(inventory)-len(missing),'coverageStatus':dict(collections.Counter(mapping[p]['status'] for p in inventory if p in mapping)),'layoutEntries':len(unknown),'coverage':by_essay,'exceptions':[r for r in coverage if r['sourcePath'] in inventory and r['status']!='covered'],'missing':missing,'warnings':warnings,'errors':errors,'baseBankSha256':hashlib.sha256((DIR/'base-bank.json').read_bytes()).hexdigest(),'scope':'所供復習書範圍的逐項出題及代理核對；來源分歧明列保留。不是官方真題或教師獨立審定。'}
+if mcq_revision_summary:
+ report['version']=mcq_revision_summary['version']
+ report['mcqRevision']=mcq_revision_summary
 dump(DIR/'validation-report.json',report)
 print(json.dumps({k:report[k] for k in ['result','questions','newQuestions','sourceItems','mappedSourceItems','coverageStatus']},ensure_ascii=False))
 print('Errors:',len(errors),'Warnings:',len(warnings))
@@ -142,5 +151,6 @@ for err in errors[:30]:print(err)
 if errors:sys.exit(1)
 if '--audit' in sys.argv:sys.exit(0)
 bank={**base,'version':report['version'],'notice':'按所附復習書逐項整理的自編練習，非官方真題。爭議解讀另行列明，不強行判作唯一答案。','questions':questions,'comparisons':comparisons,'coverageSummary':{'sourceItems':len(inventory),'mappedSourceItems':len(inventory),'exceptions':len(report['exceptions'])}}
+if mcq_revision_summary:bank['mcqRevisionSummary']=mcq_revision_summary
 dump(OUT/'bank.json',bank);dump(OUT/'coverage-report.json',report);dump(OUT/'source-coverage.json',coverage)
 print('Published local bank and coverage report; previous question IDs and snapshots preserved.')

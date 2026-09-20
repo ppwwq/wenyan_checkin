@@ -3,7 +3,7 @@ import {api,SyncClient} from './sync/client.mjs';
 import {project,hkDay,isDue} from './domain/review.mjs';
 import {queue,available,quickCards,quickScopeKey} from './domain/queue.mjs';
 import {esc,button,heading,empty,essayTitle,abilities,navigationIcon} from './features/shared.mjs';
-import {practiceView,answerPanel} from './features/practice.mjs';
+import {practiceView,answerPanel,answerMode} from './features/practice.mjs';
 import {libraryView,compareView} from './features/library.mjs';
 import {homeView,weaknessView,historyView,savedView,quickView,reportsView} from './features/records.mjs';
 const root=document.querySelector('#root'),dialog=document.querySelector('#dialog');
@@ -72,7 +72,7 @@ async function start(questionIds=null,essayIds=null){
  await saveSession();await append('settings',{rotation:(state.settings.rotation+options.count)%Math.max(1,opts.essayIds.length)});page='practice';render();window.scrollTo(0,0);
 }
 async function submit(unknown=false){
- const q=currentQuestion();const existing=state.attempts.find(e=>e.id===session.id+'/'+q.id);if(existing){session.answers[q.id]=existing.id;await saveSession();document.querySelector('#answer-panel').innerHTML=answerPanel(q,session,state);return;}if(session.answers[q.id])return;const mode=session.mode==='mixed'&&session.index%3===2?'typing':'choice',answer=unknown?'暫時不會':session.drafts[q.id]||'';
+ const q=currentQuestion();const existing=state.attempts.find(e=>e.id===session.id+'/'+q.id);if(existing){session.answers[q.id]=existing.id;await saveSession();document.querySelector('#answer-panel').innerHTML=answerPanel(q,session,state);return;}if(session.answers[q.id])return;const mode=answerMode(q,session),answer=unknown?'暫時不會':session.drafts[q.id]||'';
  if(!answer.trim()){toast('先選一個答案或寫下想法，也可以選「暫時不會」。');return;}
  const id=session.id+'/'+q.id,now=new Date().toISOString();
  await append('attempt',{memoryId:q.memoryId,questionId:q.id,questionVersion:q.version,question:structuredClone(q),submittedAt:now,day:hkDay(now),mode,answer,correct:mode==='typing'?null:answer===q.answerId,sessionId:session.id},id);
@@ -80,7 +80,7 @@ async function submit(unknown=false){
 }
 async function assess(correct){if(!document.querySelector('#check-meaning')?.checked||!document.querySelector('#check-context')?.checked){toast('請先完成兩項核對，再確定結果。');return;}const q=currentQuestion(),id=session.answers[q.id];if(state.assessments.has(id))return;await append('assessment',{attemptId:id,correct},'assessment/'+id);document.querySelector('#answer-panel').innerHTML=answerPanel(q,session,state);void sync();}
 function reportDialog(id){const q=session?.questions.find(q=>q.id===id)||bank.questions.find(q=>q.id===id);dialog.innerHTML='<h2>回報題目疑點</h2><form id="report-form" class="report-form" data-id="'+esc(q.id)+'"><label>問題類別<select name="category">'+['題幹或原文錯字','答案可能有誤／存在多解','解析問題','來源頁碼問題'].map(t=>'<option>'+t+'</option>').join('')+'</select></label><label>補充說明<textarea name="detail" maxlength="3000" required></textarea></label><p class="subtle">自動附上題號、版本、來源及本次答案。離線時先保存，恢復連線後補送。</p><div class="toolbar"><button class="btn" type="submit">提交回報</button>'+button('close-dialog','取消','','secondary')+'</div></form>';dialog.showModal();}
-function settingsDialog(){dialog.innerHTML='<h2>學習偏好</h2><form id="settings-form"><div class="toggle-row"><label for="typing">加入打字作答題<p>每三題一次，提交後完整自查。</p></label><input type="checkbox" id="typing" name="typing" '+(state.settings.typing?'checked':'')+'></div><label for="font-size">原文字號</label><select id="font-size" name="fontSize">'+[24,28,32,36].map(n=>'<option value="'+n+'" '+(state.settings.fontSize===n?'selected':'')+'>'+n+' px</option>').join('')+'</select><p>修改只影響之後的新題組，已開始的題目順序保持不變。</p><div class="toolbar"><button class="btn" type="submit">保存偏好</button>'+button('close-dialog','取消','','secondary')+'</div></form>';dialog.showModal();}
+function settingsDialog(){dialog.innerHTML='<h2>學習偏好</h2><form id="settings-form"><div class="toggle-row"><label for="typing">加入打字作答題<p>適用於支援文字自查的題目；選擇辨析題仍以選項作答。</p></label><input type="checkbox" id="typing" name="typing" '+(state.settings.typing?'checked':'')+'></div><label for="font-size">原文字號</label><select id="font-size" name="fontSize">'+[24,28,32,36].map(n=>'<option value="'+n+'" '+(state.settings.fontSize===n?'selected':'')+'>'+n+' px</option>').join('')+'</select><p>修改只影響之後的新題組，已開始的題目順序保持不變。</p><div class="toolbar"><button class="btn" type="submit">保存偏好</button>'+button('close-dialog','取消','','secondary')+'</div></form>';dialog.showModal();}
 document.addEventListener('click',async e=>{
  const el=e.target.closest('[data-action]');if(!el||el.disabled)return;const a=el.dataset.action;
  if(a==='retry'){location.reload();return;}if(a==='auth-mode'){authMode=el.dataset.mode;authView();return;}if(a==='close-dialog'){dialog.close();return;}if(busy)return;

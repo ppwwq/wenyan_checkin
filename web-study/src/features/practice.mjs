@@ -1,6 +1,9 @@
 import {esc,button,source,quote,essayTitle,abilities,heading} from './shared.mjs';
+export function answerMode(q,session,payload){
+ return payload?.mode||(q.responseFormat==='single-choice'?'choice':session.mode==='mixed'&&session.index%3===2?'typing':'choice');
+}
 export function answerPanel(q,session,state){
- const attempt=state.attempts.find(e=>e.id===session.answers[q.id]),p=attempt?.payload,mode=p?.mode||(session.mode==='mixed'&&session.index%3===2?'typing':'choice'),draft=session.drafts[q.id]||'';
+ const attempt=state.attempts.find(e=>e.id===session.answers[q.id]),p=attempt?.payload,mode=answerMode(q,session,p),draft=session.drafts[q.id]||'';
  let html='<div class="question-top"><span class="question-tag">'+esc(abilities[q.ability])+' · '+(mode==='typing'?'文字自查':'單項選擇')+'</span><button class="chip" data-action="favorite" data-id="'+esc(q.id)+'">'+(state.favorites[q.id]?.saved?'★ 已收藏':'☆ 收藏')+'</button><button class="chip" data-action="report" data-id="'+esc(q.id)+'">報錯</button></div><h2>'+esc(q.stem)+'</h2>';
  if(mode==='typing')html+=p?'<div class="answer-saved">'+esc(p.answer)+'</div>':'<label class="screen-reader" for="answer-input">你的答案</label><textarea id="answer-input" class="answer-input" placeholder="先用自己的話回答，再提交查看參考。">'+esc(draft)+'</textarea><p class="subtle">輸入會自動保存在此帳號。</p>';
  else html+='<div class="options" role="group" aria-label="答案選項">'+q.choices.map(c=>'<button class="option '+((p?.answer||draft)===c.id?'selected ':'')+(p&&c.id===q.answerId?'correct':'')+(p&&p.answer===c.id&&!p.correct?' wrong':'')+'" data-action="choose" data-choice="'+esc(c.id)+'" aria-pressed="'+((p?.answer||draft)===c.id)+'" '+(p?'disabled':'')+'><b>'+esc(c.id.toUpperCase())+'</b><span>'+esc(c.text)+'</span>'+(p&&c.id===q.answerId?'<small class="status">正確答案</small>':'')+'</button>').join('')+'</div>';
@@ -16,7 +19,9 @@ export function answerPanel(q,session,state){
 export function practiceView(bank,session,state){
  if(session.completed)return summaryView(bank,session,state);
  const q=session.questions[session.index],titles=q.essayIds.map(id=>essayTitle(bank,id)).join('／')||'手法附錄';
- return '<div class="practice-head">'+button('pause','← 暫停並保存','','quiet')+'<span class="session-meta">'+(session.index+1)+' / '+session.questions.length+' · 題目順序已固定</span></div><div class="progress-track"><span style="width:'+((session.index/session.questions.length)*100)+'%"></span></div><div class="steps"><span class="step active">1 '+(q.essayIds.length?'先讀原句':'看清概念')+'</span><span class="step">2 獨立作答</span><span class="step">3 理解語境</span></div><div class="question-layout"><section class="source-panel"><span class="eyebrow">讀懂每一個語境</span><h2>'+esc(titles)+'</h2>'+(q.quote.length>130?'<details open id="quote-details"><summary>原文 · 可收起</summary><blockquote>'+quote(q)+'</blockquote></details>':'<blockquote>'+quote(q)+'</blockquote>')+'<p class="hint">先思考，再看解析。每一步都算積累。</p></section><section class="answer-panel" id="answer-panel">'+answerPanel(q,session,state)+'</section></div>';
+ const hasQuote=Boolean(q.quote?.trim());
+ const material=hasQuote?'<section class="source-panel"><span class="eyebrow">讀懂每一個語境</span><h2>'+esc(titles)+'</h2>'+(q.quote.length>130?'<details open id="quote-details"><summary>原文 · 可收起</summary><blockquote>'+quote(q)+'</blockquote></details>':'<blockquote>'+quote(q)+'</blockquote>')+'<p class="hint">先思考，再看解析。每一步都算積累。</p></section>':'';
+ return '<div class="practice-head">'+button('pause','← 暫停並保存','','quiet')+'<span class="session-meta">'+(session.index+1)+' / '+session.questions.length+' · 題目順序已固定</span></div><div class="progress-track"><span style="width:'+((session.index/session.questions.length)*100)+'%"></span></div><div class="steps"><span class="step active">1 '+(hasQuote?(q.essayIds.length?'先讀原句':'看清概念'):'讀清題意')+'</span><span class="step">2 獨立作答</span><span class="step">3 理解語境</span></div>'+(!hasQuote?'<p class="section-note">'+esc(titles)+'</p>':'')+'<div class="question-layout'+(!hasQuote?' question-only':'')+'">'+material+'<section class="answer-panel" id="answer-panel">'+answerPanel(q,session,state)+'</section></div>';
 }
 export function summaryView(bank,session,state){
  const records=state.attempts.filter(e=>e.payload.sessionId===session.id),firstIds=new Set(state.firsts.map(f=>f.id));

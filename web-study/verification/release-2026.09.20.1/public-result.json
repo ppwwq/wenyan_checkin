@@ -1,0 +1,197 @@
+{
+  "result": "PASS",
+  "verifiedAt": "2026-09-20T10:45:36.072Z",
+  "origin": "https://chinese-a-study.philipwwq.workers.dev",
+  "bankVersion": "2026.09.20.1",
+  "questions": 2131,
+  "assets": [
+    {
+      "path": "/assets/icon.svg",
+      "status": 200,
+      "sha256": "5a562103c732c03fd0033ee796a29a7691b5851790a8ec97cbc71cc3c49154f1",
+      "bytes": 228
+    },
+    {
+      "path": "/build-info.json",
+      "status": 200,
+      "sha256": "b115b11693e76d631b9ab696f100c49b448fc026aa478d417966c00344200488",
+      "bytes": 93
+    },
+    {
+      "path": "/content/bank.json",
+      "status": 200,
+      "sha256": "a807db87672d808899c3ed22ee55dbb2a5db4e1277df642eb9d33ca1350ae58a",
+      "bytes": 9522567
+    },
+    {
+      "path": "/content/coverage-report.json",
+      "status": 200,
+      "sha256": "0a79d96ced625e98c6fe71546f595a0aa02fd4c1872bd0c478ed76ab090feade",
+      "bytes": 47585
+    },
+    {
+      "path": "/content/expansion-appendix.json",
+      "status": 200,
+      "sha256": "3e7e2ae83423af4ae59c70f0adcc9d3f6f9ab717e31d20dc46be6a928724f810",
+      "bytes": 31224
+    },
+    {
+      "path": "/content/expansion-comparison.json",
+      "status": 200,
+      "sha256": "75e9e69026b88fd0cd55eec8df36f37eb226755c72d44cde0fab1e5bbe0c4c29",
+      "bytes": 8458
+    },
+    {
+      "path": "/content/expansion-draft.json",
+      "status": 200,
+      "sha256": "167c9f0362ccea1fb19be9de1106b177f42a4b557c943200a325215447f94f2a",
+      "bytes": 306605
+    },
+    {
+      "path": "/content/quality-report.json",
+      "status": 200,
+      "sha256": "8af8c91be1d4c5348dc952b3ece84a753b4481aeb9eca717d7bc560f9eafab88",
+      "bytes": 4986
+    },
+    {
+      "path": "/content/source-coverage.json",
+      "status": 200,
+      "sha256": "ccbb243de759b5e0bde07e2ed67ad97e64a5ac071a3066ad07212ce7daca35d2",
+      "bytes": 785245
+    },
+    {
+      "path": "/content/sources/appendix-content.json",
+      "status": 200,
+      "sha256": "8421c9fd6ec9443d1c1d8fc0fe161ff8d9c92470ad231eaed5e3d7384474b9f3",
+      "bytes": 41427
+    },
+    {
+      "path": "/content/sources/manifest.json",
+      "status": 200,
+      "sha256": "7e2b675459a0aefba93c2b85af3f67eb579a90d587c7db2fb74b79832497e99b",
+      "bytes": 357
+    },
+    {
+      "path": "/content/sources/revision-book.pdf",
+      "status": 200,
+      "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+      "bytes": 3635907
+    },
+    {
+      "path": "/content/sources/student-content.json",
+      "status": 200,
+      "sha256": "cefaae3260a7185997dfa0dc9ba40d76fe1e1bc70b69f962d0bb75a724681f62",
+      "bytes": 955562
+    },
+    {
+      "path": "/",
+      "status": 200,
+      "sha256": "d0fb9fc1fdb41208bd49ae01e9a2026edceb0e6fdce7ad1fe048936a4a924186",
+      "bytes": 796
+    },
+    {
+      "path": "/manifest.webmanifest",
+      "status": 200,
+      "sha256": "dcd413fa2e44883c2a4a659fdbd266293011c5a0bc237c06656084a0a2e8f7b3",
+      "bytes": 274
+    },
+    {
+      "path": "/src/app.mjs",
+      "status": 200,
+      "sha256": "2ba6389a11befed5fc7bea2b348448bd1486baccf7fca41ea061f65607b0bee3",
+      "bytes": 28674
+    },
+    {
+      "path": "/src/domain/queue.mjs",
+      "status": 200,
+      "sha256": "40f88fb3e7a9b2c2921e15e3fa15558ff12f1cfc582bfdfc7c794a8b5e61abda",
+      "bytes": 3532
+    },
+    {
+      "path": "/src/domain/review.mjs",
+      "status": 200,
+      "sha256": "71394f426a5dc0513528caee422d4d2c732926c64031f81389ff97195b9fbbde",
+      "bytes": 3821
+    },
+    {
+      "path": "/src/features/library.mjs",
+      "status": 200,
+      "sha256": "c03701bb4f7a1f892c966ed737dd984b970005e40e14c36a4a221d21349a107a",
+      "bytes": 4909
+    },
+    {
+      "path": "/src/features/practice.mjs",
+      "status": 200,
+      "sha256": "86194e820176e2a7275d6b31911e8902a71c608604e476a7496b04b49a20f696",
+      "bytes": 6732
+    },
+    {
+      "path": "/src/features/records.mjs",
+      "status": 200,
+      "sha256": "7bd3250a86b1b9d6d37b64a28f51b00fe20745176294058aac60f16757d520c4",
+      "bytes": 10529
+    },
+    {
+      "path": "/src/features/shared.mjs",
+      "status": 200,
+      "sha256": "6c783a8691949d9bee3f73cc388b5e54220521852f348e2309ffa2eb6378593a",
+      "bytes": 3269
+    },
+    {
+      "path": "/src/storage/repository.mjs",
+      "status": 200,
+      "sha256": "c9779659bc6379c4eaa7b3a25b21bfb752801eab5b930a81ce4f604a630c203a",
+      "bytes": 2612
+    },
+    {
+      "path": "/src/sync/client.mjs",
+      "status": 200,
+      "sha256": "b9806732f976a3cc531db17fd339404259ac830d2667c1f346d7c943378de994",
+      "bytes": 2177
+    },
+    {
+      "path": "/styles.css",
+      "status": 200,
+      "sha256": "f8c164e70e34312cad6daa0d3a40f670454037bdf8f26a5f5792f3742b23ce71",
+      "bytes": 34329
+    },
+    {
+      "path": "/sw.js",
+      "status": 200,
+      "sha256": "50f7fc9faf3b64373d05d8c45ad410f13262aa4526af44fff09a0f9bf8897c3d",
+      "bytes": 1342
+    }
+  ],
+  "checks": [
+    {
+      "path": "/api/health",
+      "status": 200
+    },
+    {
+      "path": "/api/me",
+      "status": 401
+    },
+    {
+      "path": "/backend/data/study.sqlite",
+      "status": 404
+    },
+    {
+      "path": "/.dev.vars",
+      "status": 404
+    },
+    {
+      "path": "/api/internal/import",
+      "status": 404
+    },
+    {
+      "path": "source PDF Range",
+      "status": 206
+    },
+    {
+      "check": "Production Chromium login, no horizontal overflow, current bank via browser",
+      "version": "2026.09.20.1",
+      "pageErrors": []
+    }
+  ],
+  "scope": "Read-only public asset/API checks and Chromium login screen. No production account login/write or physical iPad acceptance."
+}

@@ -84,3 +84,5 @@
  .mobile-nav button:hover .nav-icon{background:var(--soft)}
 }
 @media(max-width:360px){.mobile-nav button{font-size:10px}}
+
+.question-layout.question-only{grid-template-columns:minmax(0,1fr);max-width:960px;margin-inline:auto;}

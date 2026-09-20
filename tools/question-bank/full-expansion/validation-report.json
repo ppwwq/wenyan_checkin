@@ -1,6 +1,6 @@
 {
   "result": "PASS",
-  "version": "2026.09.19.2",
+  "version": "2026.09.20.1",
   "questions": 2131,
   "previousQuestions": 218,
   "revisions": [
@@ -1270,5 +1270,13 @@
   "warnings": [],
   "errors": [],
   "baseBankSha256": "bdec2e20dfae426d0944744b142275be5f0d71228e3ce0f4b6f45d54a74584be",
-  "scope": "所供復習書範圍的逐項出題及代理核對；來源分歧明列保留。不是官方真題或教師獨立審定。"
+  "scope": "所供復習書範圍的逐項出題及代理核對；來源分歧明列保留。不是官方真題或教師獨立審定。",
+  "mcqRevision": {
+    "version": "2026.09.20.1",
+    "reviewed": 1980,
+    "revised": 1921,
+    "retainedAfterReview": 59,
+    "unchangedAppendix": 151,
+    "scope": "指定篇章選擇題改寫；自擬附錄草稿不發布；未經學生試做或教師獨立終審。"
+  }
 }

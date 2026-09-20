@@ -82,6 +82,10 @@ test('reports are private, admin can revise content without rewriting attempts, 
   assert.equal((await api('/api/admin/questions/q1', { status: 'reviewed', revision, reason: '重新核对来源' }, a.token)).status, 403);
   assert.equal((await api('/api/admin/questions/q1', { status: 'reviewed', revision, reason: '重新核对来源' }, admin.token)).status, 200);
   assert.equal((await api('/api/admin/questions/q1', { status: 'reviewed', revision, reason: '重复版本' }, admin.token)).status, 409);
+  const inStem = { ...revision, version: 3, quote: '', stem: '「君子求諸己」的「諸」如何理解？', responseFormat: 'single-choice' };
+  assert.equal((await api('/api/admin/questions/q1', { status: 'reviewed', revision: inStem, reason: '引文已在題幹內' }, admin.token)).status, 200);
+  const missingMaterial = { ...inStem, version: 4 }; delete missingMaterial.quote;
+  assert.equal((await api('/api/admin/questions/q1', { status: 'reviewed', revision: missingMaterial, reason: '漏交欄位' }, admin.token)).status, 400);
   assert.equal((await api('/api/admin/questions/q1', { status: 'withdrawn', reason: '存在多解，暂下架' }, admin.token)).status, 200);
   assert.equal((await api('/api/content/overrides', null, a.token)).overrides.at(-1).status, 'withdrawn');
   assert.equal((await api('/backend/server.mjs')).status, 404);

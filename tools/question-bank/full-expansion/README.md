@@ -12,6 +12,7 @@
 - `group-d.json`：全部 151 個手法附錄概念條目，以及末頁六項自查的對應記錄。
 - 各組作者工具和選項底稿保存逐條編寫的來源及干擾項；中間預覽不作正式題庫。
 - `build_full_bank.py`：合併與獨立結構／定位／覆蓋檢查。只有必要檢查通過才寫入應用題庫。
+- `../mcq-revision/`：指定篇章選擇題修訂。先重建上述原底稿，再按 `release-manifest.json` 中核准的檔案雜湊套用修訂；任何來源或改稿變動須重新核查，不能默默覆寫。未列入清單的自擬附錄草稿不參與生成。
 
 ## 覆蓋口徑
 
@@ -29,8 +30,11 @@
 python tools/question-bank/full-expansion/build_full_bank.py
 python tools/question-bank/validate_bank.py
 node --test web-study/tests/*.test.mjs web-study/backend/*.test.mjs
+python tools/question-bank/mcq-revision/audit_release.py
+python tools/question-bank/mcq-revision/audit_quotes.py
 node web-study/scripts/build.mjs
 node web-study/scripts/browser-content.mjs
+node web-study/scripts/browser-mcq-revision.mjs
 ```
 
 瀏覽器驗收使用獨立記憶體資料庫，不會建立或修改正式使用者資料。Playwright 模組及 Chrome 路徑可透過 `PLAYWRIGHT_MODULE`、`CHROME_PATH` 指定。
@@ -39,7 +43,7 @@ node web-study/scripts/browser-content.mjs
 
 ## 學習記錄與發布
 
-既有題目 ID 與 memoryId 保持；除明列於 `revisions.json` 的版本修訂外，舊題內容維持原樣。此次「兵」題從 v1 修至 v2，原書容許的借代義不再作錯項；本機正式資料庫該題作答數核對為 0。新增題目使用獨立穩定 ID；既有作答快照、收藏及復習日程繼續有效。學生須刷新應用才會載入新題庫；暫停中的原題組仍使用原快照。
+既有題目 ID 與 memoryId 保持。早期 `revisions.json` 及後續 `mcq-revision/release-manifest.json` 分別記錄各輪明確修訂；修訂題版本遞增，原底稿及改前完整快照仍保存。「非兵不利」題的直接詞解與借代異解繼續保留。既有作答快照、收藏及復習日程繼續有效。刷新只會讀到實際服務端供應的題庫；本地建置不等於網站部署。暫停中的原題組仍使用原快照。
 
 附錄的通用定義題不強行掛在某篇文章下。只有明確開啟「手法附錄專項」才參與抽題；可清空篇章只練附錄。原先依篇章原文編寫的八道附錄應用題仍遵守篇章範圍。
 
