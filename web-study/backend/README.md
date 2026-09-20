@@ -48,7 +48,11 @@ JSON 请求，同站调用；认证接口之外使用 `Authorization: Bearer tok
 
 请求错误返回 `{error}`；401 需要重新登录；409 表示不可覆盖的首次记录／版本冲突。同步使用全量返回，适合首版小规模使用；大量长期记录部署前应增加分页。账户导出不应包含 token 或密码。
 
-## 正式部署准备（没有自动发布）
+## 当前公开部署
+
+已部署到 [Cloudflare Workers](https://chinese-a-study.philipwwq.workers.dev)，云端数据保存在 SQLite Durable Object。本地账号和学习记录未迁移。邀请注册已配置，详见 [部署状态](../cloudflare/DEPLOYMENT.md)。以下为独立 Node 主机备选方案。
+
+## 自托管 Node 部署备选方案
 
 1. 选择自己控制的主机与域名，安装 Node 24.16+，复制整个 `web-study`。使用进程管理器启动 `node web-study/backend/server.mjs`；数据库放持久磁盘。`.env.example` 为变量清单，服务不会隐式加载该文件，可用 Node `--env-file` 或由管理器注入。
 2. 配置 `PUBLIC_ORIGIN=https://实际域名`、随机 `BOOTSTRAP_INVITE`、独立随机 `ADMIN_INVITE`、`ADMIN_USERNAME` 和 `DATABASE_PATH`。服务通过反向代理提供同一个 origin 的网页和 API，不能将前端与此服务拆到不同来源。

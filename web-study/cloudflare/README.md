@@ -4,26 +4,30 @@
 
 Workers 提供同源網頁與 API，SQLite-backed Durable Object 保存帳號與學習事件。使用獨立 Worker `chinese-a-study`，不覆蓋舊 Flutter Pages 或 Supabase 專案。採免費方案，沒有自動付費升級。
 
-## 佈署步驟
+## 新帳號部署（本次採用）
 
-以下由倉庫根目錄執行，使用 Node 24 和 Wrangler 4.129.0。部署者需要對目標 Cloudflare 帳號有 Workers Scripts 編輯權限。`wrangler.jsonc` 內的 account_id 換成自己的帳號。
+正式網址：https://chinese-a-study.philipwwq.workers.dev 。本次不遷移本地帳號或學習紀錄；使用者在新網址以邀請碼重新註冊，自訂密碼並自行保存一次性恢復碼。維護者使用帳號名稱 `teacher` 及獨立的維護者邀請碼。
+
+以下由倉庫根目錄執行，使用 Node 24 和 Wrangler 4.129.0。部署者需要對目標 Cloudflare 帳號有 Workers Scripts 編輯權限。部署到其他帳號時，將 `wrangler.jsonc` 內的 account_id 換成自己的帳號。
 
 ```powershell
 node web-study/scripts/build.mjs
 node --test web-study/tests/*.test.mjs web-study/backend/*.test.mjs web-study/cloudflare/*.test.mjs
 npx --yes wrangler@4.129.0 deploy --config web-study/wrangler.jsonc --dry-run
-node web-study/cloudflare/prepare-private.mjs
 npx --yes wrangler@4.129.0 deploy --config web-study/wrangler.jsonc
-npx --yes wrangler@4.129.0 secret bulk web-study/backend/data/cloud-secrets.json --config web-study/wrangler.jsonc
-node web-study/cloudflare/import-private.mjs https://chinese-a-study.YOUR-SUBDOMAIN.workers.dev
-Write-Output y | npx --yes wrangler@4.129.0 secret delete MIGRATION_SECRET --config web-study/wrangler.jsonc
+npx --yes wrangler@4.129.0 secret put BOOTSTRAP_INVITE --config web-study/wrangler.jsonc
+npx --yes wrangler@4.129.0 secret put ADMIN_INVITE --config web-study/wrangler.jsonc
 ```
 
-`prepare-private.mjs` 從唯讀 SQLite 交易建立一致快照，不讀出明文密碼。私密快照、邀請碼及迁移密鑰只保存在被忽略的 `backend/data/`；禁止上傳 GitHub。首次新安裝沒有本地資料時，先依後端說明初始化空資料庫，或自行配置兩個獨立隨機邀請密鑰。
+首次部署時，兩個 secret 分別輸入獨立的強隨機邀請碼；已配置的站點更新程式時不用重新設定。邀請碼不可放進公開原始碼。本次已配置這兩個 secret，私密交接資料只保存在本機被忽略的 `backend/data/cloud-access.txt`。
 
-遷移接口只在部署者明確設定 MIGRATION_SECRET 後開啟，強隨機 Bearer 密鑰驗證；只接受空的雲端資料庫，並整批提交或回滾。完成後立即刪除該秘密，接口恢復 404。不迁移舊登入憑據及舊邀請碼，已有帳號的 ID、密碼摘要、恢復碼摘要及學習紀錄保持。
+同一個雲端帳號在不同設備登入後可同步學習紀錄；離線資料恢復連線後補傳。本地 localhost 資料保留，與正式網站互相獨立，不會自動遷移。
 
-新網址需要重新登入。同一帳號的新設備由伺服器還原紀錄；本機尚未上傳的資料先在舊網址同步或匯出。舊 localhost 資料庫保留作回退，之後兩個服務不會自動互相同步。
+## 可選遷移工具（本次未使用）
+
+`prepare-private.mjs` 和 `import-private.mjs` 僅供另行明確選擇遷移時使用，並非新安裝步驟。前者讀取本地 SQLite，產生私密快照及遷移密鑰；後者向指定站點上傳快照。兩者都不應在本次新帳號部署執行。
+
+遷移接口只有設定 `MIGRATION_SECRET` 才會開啟，且只接受空雲端資料庫。本次沒有上傳該 secret 或任何資料快照，接口返回 404。
 
 ## 驗證
 

@@ -4,7 +4,7 @@
 
 ## 公開部署
 
-網址：[中文甲學習書房](https://chinese-a-study.philipwwq.workers.dev)。網頁和API已發布；私密註冊配置及既有帳號遷移仍待完成，詳見 [即時部署狀態](cloudflare/DEPLOYMENT.md)。
+網址：[中文甲學習書房](https://chinese-a-study.philipwwq.workers.dev)。網頁、API及邀請註冊已啟用；本地帳號與學習紀錄不遷移，新網址需使用邀請碼重新註冊，詳見 [即時部署狀態](cloudflare/DEPLOYMENT.md)。
 
 ## 在本機打開
 
@@ -18,7 +18,7 @@
 powershell -ExecutionPolicy Bypass -File web-study/backend/start-dev.ps1
 ```
 
-本機位址只供目前電腦使用。正式讓同學在 iPad 使用需要 HTTPS 網址與常駐伺服器；本次没有發布外部網站。
+本機位址只供目前電腦使用。同學可用上方正式 HTTPS 網址；本機與雲端帳號、學習資料互相獨立。
 
 ## 已實現的學習流程
 
@@ -50,16 +50,16 @@ npm test
 npm run build
 ```
 
-無第三方執行依賴，不需要 npm install。build 產生 `dist/` 靜態資產，正式使用仍需同源 Node API；只把 dist 丟到靜態託管不會提供帳號與備份。
+無第三方執行依賴，不需要 npm install。build 產生 `dist/` 靜態資產，正式使用仍需同源帳號 API（Node 或本專案 Cloudflare 適配）；只把 dist 丟到靜態託管不會提供帳號與備份。
 
 本次自動化與 Chromium 瀏覽器證據見 `VERIFICATION.md`、`verification/*.json`。瀏覽器腳本是本機開發驗收輔助，使用獨立 QA 資料庫及隨機測試帳號，不應對正式同學資料庫執行。
 
 ## 正式發布與剩餘驗收
 
-Cloudflare部署適配、私密遷移及最新狀態見 [cloudflare/README.md](cloudflare/README.md) 和 [DEPLOYMENT.md](cloudflare/DEPLOYMENT.md)。
+Cloudflare部署適配、新帳號註冊及最新狀態見 [cloudflare/README.md](cloudflare/README.md) 和 [DEPLOYMENT.md](cloudflare/DEPLOYMENT.md)。
 
 
-原計畫將實際發布列為另行授權。本次提供可部署原碼、Docker 與 Caddy HTTPS 設定；未購買服務、設定域名或建立公開網站。見 `backend/README.md`。
+經使用者授權，已發布到 Cloudflare Workers 並推送公開 GitHub；未購買服務或設定自訂域名。Docker 與 Caddy 設定保留作其他主機方案，見 `backend/README.md`。
 
 真 iPad Safari 的橫直屏、分屏、軟鍵盤、長時間后台恢復及弱網仍需實機驗收。Chromium 768px／430px 模擬和離線測試不能替代這部分。
 
