@@ -1,5 +1,7 @@
 # 中文甲 · 文言學習書房
 
+正式網址：[中文甲學習書房](https://chinese-a-study.philipwwq.workers.dev)。頁面已發布，註冊配置與帳號遷移進度見 [部署狀態](web-study/cloudflare/DEPLOYMENT.md)。
+
 目前新版網頁應用位於 [`web-study/`](web-study/README.md)，包含 **2,131 道來源可追溯練習**、16 篇篇章混練、手法附錄、間隔複習、收藏，以及獨立帳號和同步服務。
 
 - [題庫覆蓋清單](web-study/CONTENT-COVERAGE.md)

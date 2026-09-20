@@ -5,7 +5,6 @@
   "compatibility_flags": [
     "nodejs_compat"
   ],
-  "account_id": "21861701f7418c927894fbbf1490691f",
   "workers_dev": true,
   "preview_urls": false,
   "assets": {
@@ -34,5 +33,6 @@
   ],
   "vars": {
     "ADMIN_USERNAME": "teacher"
-  }
+  },
+  "account_id": "86eac8fedb92cf5e11c160669b5605b7"
 }

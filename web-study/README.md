@@ -2,6 +2,10 @@
 
 依照 2026-09-19 已確認計畫完成的可運行網頁應用。保留原 Flutter 工程，這個版本獨立放在 `web-study/`。
 
+## 公開部署
+
+網址：[中文甲學習書房](https://chinese-a-study.philipwwq.workers.dev)。網頁和API已發布；私密註冊配置及既有帳號遷移仍待完成，詳見 [即時部署狀態](cloudflare/DEPLOYMENT.md)。
+
 ## 在本機打開
 
 需要 Node.js 24.16 或以上。
