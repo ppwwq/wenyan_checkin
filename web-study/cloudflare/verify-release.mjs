@@ -6,7 +6,7 @@ import {fileURLToPath} from 'node:url';
 // Read-only production verification: no accounts, sessions or records are created.
 const origin='https://chinese-a-study.philipwwq.workers.dev';
 const dist=new URL('../dist/',import.meta.url);
-const output=new URL('../verification/ui-2026.09.20.2/',import.meta.url);
+const output=new URL('../verification/ui-2026.09.20.3/',import.meta.url);
 const sha=data=>createHash('sha256').update(data).digest('hex');
 async function files(directory,prefix=''){
  const result=[];

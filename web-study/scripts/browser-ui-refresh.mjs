@@ -5,7 +5,7 @@ import {createApp} from '../backend/server.mjs';
 const {chromium}=await import(process.env.PLAYWRIGHT_MODULE||'file:///C:/Users/philip/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright/index.mjs');
 const bank=JSON.parse(await readFile(new URL('../content/bank.json',import.meta.url),'utf8'));
 const baseline=JSON.parse(await readFile(new URL('../../tools/question-bank/mcq-revision/baseline-bank.json',import.meta.url),'utf8'));
-const out=new URL('../verification/ui-2026.09.20.2/',import.meta.url);await mkdir(out,{recursive:true});
+const out=new URL('../verification/ui-2026.09.20.3/',import.meta.url);await mkdir(out,{recursive:true});
 const app=createApp({databasePath:':memory:',bootstrapInvite:'ui-refresh-local-only'});
 await new Promise(resolve=>app.server.listen(0,'127.0.0.1',resolve));
 const origin='http://127.0.0.1:'+app.server.address().port;
@@ -53,7 +53,7 @@ try{
  await font(32);
  const changedSize=await page.evaluate(()=>parseFloat(getComputedStyle(document.querySelector('.start-card h1')).fontSize));assert.ok(changedSize>originalSize,JSON.stringify({originalSize,changedSize}));
  for(const [width,height] of [[1366,1024],[1024,768],[768,1024],[430,932],[375,667],[844,390]]){
-  await page.setViewportSize({width,height});await noOverflow('large text home '+width);
+  await page.setViewportSize({width,height});await noOverflow('large text home '+width);await shot('home-'+width+'-large');
   await nav('library');await page.locator('.library-grid').waitFor();await noOverflow('large text library '+width);
   await nav('account');await noOverflow('large text account '+width);
   await nav('home');await page.locator('.home-primary').waitFor();
