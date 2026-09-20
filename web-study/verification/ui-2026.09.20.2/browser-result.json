@@ -1,0 +1,15 @@
+{
+  "result": "PASS",
+  "checks": [
+    "Four navigation destinations, primary start/resume above grouped review tools",
+    "Global large text across home, practice setup and account at six landscape/portrait widths",
+    "Necessary original text, four options, favorite and answer explanations retained; metadata/steps removed; font changes preserve selected draft",
+    "Legacy typing draft and global font preference survive offline reload",
+    "Global font setting synchronizes to a separate browser context",
+    "Grouped wrong-answer, favorite, quick-review and history flows remain usable without source display",
+    "A different account retains its own default font and no prior sessions",
+    "New application name, SVG/PNG/maskable and Apple touch icons resolve"
+  ],
+  "pageErrors": [],
+  "scope": "Isolated in-memory accounts and Chromium viewports; no production account writes or physical iPad Safari acceptance."
+}

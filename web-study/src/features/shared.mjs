@@ -2,12 +2,8 @@ export const esc=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<
 export const abilities={vocabulary:'字詞',meaning:'句意',theme:'主旨',technique:'手法'};
 export const button=(action,label,extra='',kind='')=>'<button class="btn '+kind+'" data-action="'+action+'" '+extra+'>'+label+'</button>';
 export const empty=(title,text='')=>'<div class="empty"><h2>'+esc(title)+'</h2><p>'+esc(text)+'</p></div>';
-export const heading=(title,note='')=>'<div class="page-head"><div><div class="eyebrow">CHINESE · STUDY ROOM</div><h1>'+esc(title)+'</h1><p>'+esc(note)+'</p></div></div>';
+export const heading=(title,note='')=>'<div class="page-head"><div><h1>'+esc(title)+'</h1>'+(note?'<p>'+esc(note)+'</p>':'')+'</div></div>';
 export function quote(q){const i=Number.isInteger(q.targetStart)?q.targetStart:q.quote?.indexOf(q.target);return i>=0&&q.target&&q.quote.slice(i,i+q.target.length)===q.target?esc(q.quote.slice(0,i))+'<mark>'+esc(q.target)+'</mark>'+esc(q.quote.slice(i+q.target.length)):esc(q.quote);}
-export function source(q){
- const s=q.source||{},url=typeof s.pdfUrl==='string'&&s.pdfUrl.startsWith('/content/')?s.pdfUrl:'#';
- return '<a class="source-link" href="'+esc(url)+'#page='+Number(s.pdfPage||1)+'" target="_blank" rel="noopener">回查復習書 ↗ · PDF 第 '+esc(s.pdfPage)+' 頁／印刷第 '+esc(s.printedPage)+' 頁</a><details><summary>來源定位與版本</summary><p class="subtle">'+esc(s.title)+' · '+esc(s.version)+'<br>'+esc(s.blockPath)+'<br>題號 '+esc(q.id)+' · v'+esc(q.version)+'</p>'+ (s.relatedSources||[]).map(r=>'<p class="subtle">關聯來源：'+esc(r.title||r.essayTitle||r.essayId||'復習書')+' · '+esc(r.blockPath||'')+'</p><a class="source-link" href="'+esc(typeof r.pdfUrl==='string'&&r.pdfUrl.startsWith('/content/')?r.pdfUrl:url)+'#page='+Number(r.pdfPage||1)+'" target="_blank" rel="noopener">PDF 第 '+esc(r.pdfPage)+' 頁／印刷第 '+esc(r.printedPage)+' 頁 ↗</a>').join('')+'</details>';
-}
 export const essayTitle=(bank,id)=>bank.essays.find(e=>e.id===id)?.title||id;
 
 

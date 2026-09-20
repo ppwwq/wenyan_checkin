@@ -1,11 +1,21 @@
 # 部署狀態（2026-09-20）
 
+## 目前介面版本：2026.09.20.2
+
+- 名稱：DSE文言练习；使用文＋√圖標、四項主導航及首頁集中復習入口。
+- 全站字號即時調整、帳號保存與跨設備同步；學生介面移除PDF來源及版本定位，保留必要原文與答後解析。
+- 32項應用測試及3組Chromium檢查通過，包括六種橫竪屏尺寸、選項和文字草稿、離線重開、字號同步與帳號隔離。
+- 正式站點31個公開資產與發布包逐位元一致；題庫仍為2026.09.20.1／2,131題，SHA-256未變。
+- [本轮界面验证](../verification/ui-2026.09.20.2/browser-result.json) · [線上驗證](../verification/ui-2026.09.20.2/public-result.json)。本輪未操作正式帳號資料；真iPad Safari仍待實機驗收。
+
+## 部署資源及題庫發布記錄
+
 - 公開網址：https://chinese-a-study.philipwwq.workers.dev
 - 公開 GitHub：https://github.com/ppwwq/wenyan_checkin
 - 部署帳號：philipwwq@gmail.com。
-- Worker：chinese-a-study，最新版本 9e944381-0ded-45dc-9a67-f6055ebf0a7a。
+- Worker：chinese-a-study，最新版本 376c8fc7-e81b-41e3-9fd3-3fb854639ef1。
 - 題庫版本：2026.09.20.1，共2,131題／2,081記憶單元；指定篇章1,921題修訂、59題審閱後保留，原151題附錄不變，自擬陌生片段改稿未發布。
-- 本輪重新部署核查：26個公開檔案與本地dist逐位元一致；題庫SHA-256為 `a807db87672d808899c3ed22ee55dbb2a5db4e1277df642eb9d33ca1350ae58a`。記錄見 [正式站點核查](../verification/release-2026.09.20.1/public-result.json)。
+- 前次題庫修訂部署核查：26個公開檔案與本地dist逐位元一致；題庫SHA-256為 `a807db87672d808899c3ed22ee55dbb2a5db4e1277df642eb9d33ca1350ae58a`。記錄見 [正式站點核查](../verification/release-2026.09.20.1/public-result.json)。
 - 本輪30項應用測試及7項合併保護測試通過；題庫來源、精確核准分包雜湊、建置、Chromium四選一作答及舊題組快照檢查通過。既有Worker、Durable Object及study-v1實例保持，未執行資料遷移。
 - 網頁、API、持久儲存及註冊邀請配置均已部署。雲端只設定 ADMIN_INVITE 與 BOOTSTRAP_INVITE 兩項秘密。
 - 依使用者要求，**不遷移本地帳號或學習紀錄**。原有本地資料保留；新網址需使用私下取得的邀請碼重新註冊。

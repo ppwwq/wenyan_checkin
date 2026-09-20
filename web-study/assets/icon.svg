@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><rect width="192" height="192" rx="40" fill="#204f40"/><text x="96" y="136" text-anchor="middle" font-family="serif" font-size="120" fill="#f7f7f2">甲</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="90" fill="#faf5e5"/>
+  <g fill="#173f35">
+    <path d="M361 448H115c-47 0-71-24-71-71V135c0-47 24-71 71-71h282c47 0 71 24 71 71v215h-38V135c0-23-10-33-33-33H115c-23 0-33 10-33 33v242c0 23 10 33 33 33h246z"/>
+    <g transform="translate(26 0) scale(.9)">
+    <path d="M230 128h50v43h113v41H126v-41h104z"/>
+    <path d="M158 212h44c12 37 29 68 55 97 26-28 45-61 58-97h45c-18 55-40 97-69 126 29 21 62 39 103 56l-19 41c-44-16-84-38-119-67-34 28-74 52-118 69l-20-40c42-16 77-36 108-59-32-35-53-76-68-126z"/>
+    </g>
+  </g>
+  <path d="m378 403 23 24 53-60" fill="none" stroke="#d05d3e" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,5 +1,14 @@
 # 2026-09-20 公開部署驗證
 
+## 介面簡化發布：2026.09.20.2
+
+- 32項Node應用測試通過，新增舊字號偏好相容性及來源資料保留檢查。
+- [介面瀏覽器檢查](verification/ui-2026.09.20.2/browser-result.json)：四項导航、首頁主次順序、全站字號、六種横竪屏尺寸、選項草稿、舊文字題、離線重開、同步和帳號隔離通過，0頁面錯誤。
+- [附錄與題庫檢查](verification/ui-2026.09.20.2/content-expansion/result.json)及[修訂題檢查](verification/ui-2026.09.20.2/mcq-revision/result.json)通過。来源不在學生頁顯示，原始定位與PDF繼續保存。
+- 新名字及SVG、192／512px PNG、Apple touch、maskable圖標已部署；[線上31個資產](verification/ui-2026.09.20.2/public-result.json)與發布包雜湊完全一致，健康檢查、未登入保護及PDF Range正常。
+- 圖片：[横屏首頁](verification/ui-2026.09.20.2/home-landscape.png)、[竖屏大字](verification/ui-2026.09.20.2/home-portrait-large.png)、[横屏練習](verification/ui-2026.09.20.2/practice-landscape-large.png)。
+- 本輪線上驗證唯讀，未使用正式學生帳號。桌面Chromium驗證不替代真iPad Safari驗收。
+
 ## 題庫修訂重新發布：2026.09.20.1
 
 - 30項應用測試、7項合併保護測試通過；來源定位、版本與精確核准分包雜湊核查通過，發布題庫等於核准分包套用基準快照。

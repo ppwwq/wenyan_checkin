@@ -2,9 +2,27 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {answerMode,answerPanel,practiceView} from '../src/features/practice.mjs';
 import {savedView,quickView} from '../src/features/records.mjs';
+import {textScale} from '../src/features/preferences.mjs';
 const q={id:'q',essayIds:['e'],ability:'meaning',stem:'兩句的意思有何關係？',quote:'',choices:['a','b','c','d'].map(id=>({id,text:id,explanation:'辨析'})),answerId:'a',responseFormat:'single-choice'};
 const session={id:'s',mode:'mixed',index:2,questions:[q,q,q],answers:{},drafts:{}};
 const state={attempts:[],favorites:{},firsts:[],assessments:new Map()};
+
+test('global font scale supports saved legacy values and falls back for invalid preferences',()=>{
+ assert.equal(textScale(24),1);
+ assert.equal(textScale(36),1.5);
+ for(const value of [null,undefined,'broken',0,-24,100000])assert.equal(textScale(value),1);
+});
+
+test('answer rendering retains source data without exposing PDF or version metadata',()=>{
+ const question={...q,version:2,source:{pdfUrl:'/content/book.pdf',pdfPage:5,printedPage:1,blockPath:'private-locator'},explanation:'這是核心解析。'};
+ const copy=structuredClone(question);
+ const answered={...session,answers:{q:'s/q'}};
+ const html=answerPanel(question,answered,{...state,attempts:[{id:'s/q',payload:{mode:'choice',answer:'a',correct:true}}]});
+ assert.ok(html.includes('這是核心解析。'));
+ assert.ok(html.includes('逐項辨析'));
+ assert.ok(!html.includes('source-link')&&!html.includes('private-locator')&&!html.includes('book.pdf'));
+ assert.deepEqual(question,copy);
+});
 test('choice-specific tasks remain four-option questions in a mixed session',()=>{
  assert.equal(answerMode(q,session),'choice');
  const html=answerPanel(q,session,state);

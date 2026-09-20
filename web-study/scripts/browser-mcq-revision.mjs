@@ -14,7 +14,7 @@ const old=baseline.questions.find(q=>q.id===ids[2]);
 const app=createApp({databasePath:':memory:',bootstrapInvite:'isolated-mcq-check'});
 await new Promise(resolve=>app.server.listen(0,'127.0.0.1',resolve));
 const origin=`http://127.0.0.1:${app.server.address().port}`;
-const folder=new URL('../verification/mcq-revision/',import.meta.url);await mkdir(folder,{recursive:true});
+const folder=new URL('../verification/ui-2026.09.20.2/mcq-revision/',import.meta.url);await mkdir(folder,{recursive:true});
 let browser;
 const checks=[],errors=[];
 try{
@@ -29,7 +29,8 @@ try{
  const context=await browser.newContext({viewport:{width:768,height:1024}});
  await context.addInitScript(auth=>localStorage.setItem('wenyan-auth-v1',JSON.stringify(auth)),{token:auth.token,user:auth.user});
  const page=await context.newPage();page.on('pageerror',e=>errors.push(e.message));
- await page.goto(origin);await page.locator('[data-action="resume"][data-session="new-mcq"]').waitFor();
+ await page.goto(origin);await page.locator('.home-primary').waitFor();
+ if(!await page.locator('[data-action="resume"][data-session="new-mcq"]').isVisible())await page.locator('.older-sessions summary').click();
  await page.locator('[data-action="resume"][data-session="new-mcq"]').click();
  for(let i=0;i<questions.length;i++){
   const q=questions[i];
@@ -42,13 +43,14 @@ try{
   await page.locator('[data-action="choose"][data-choice="'+q.answerId+'"]').click();
   await page.locator('[data-action="submit"]').click();await page.getByText('這次答對了',{exact:true}).waitFor();
   assert.equal(await page.locator('.option:disabled').count(),4);
-  await page.locator('.feedback details summary').first().click();
+  await page.getByText('逐項辨析',{exact:true}).click();
   assert.equal(await page.locator('.choices-explained').count(),4);
-  assert.ok((await page.locator('a.source-link').first().getAttribute('href')).endsWith('#page='+q.source.pdfPage));
-  checks.push({questionId:q.id,version:q.version,fourChoices:true,explanationAndSource:true});
+  assert.equal(await page.locator('a.source-link').count(),0);assert.ok(q.source.pdfPage);
+  checks.push({questionId:q.id,version:q.version,fourChoices:true,explanationVisibleSourceHidden:true});
   if(i<questions.length-1)await page.locator('[data-action="next"]').click();
  }
  await page.locator('[data-action="pause"]').click();
+ if(!await page.locator('[data-action="resume"][data-session="legacy-snapshot"]').isVisible())await page.locator('.older-sessions summary').click();
  await page.locator('[data-action="resume"][data-session="legacy-snapshot"]').click();
  assert.equal(await page.locator('.answer-panel h2').textContent(),old.stem);
  checks.push({check:'Paused legacy session retains the exact old question stem and snapshot',questionId:old.id,oldVersion:old.version});

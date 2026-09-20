@@ -1,4 +1,4 @@
-# 中文甲網頁版 · 開發與維護
+# DSE文言练习 · 開發與維護
 
 網頁應用位於 `web-study/`，包含篇章練習、個人學習紀錄、離線保存及帳號同步。產品概覽見[專案首頁](../README.md)。
 
@@ -24,6 +24,12 @@ powershell -ExecutionPolicy Bypass -File web-study/backend/start-dev.ps1
 瀏覽器開啟 `http://127.0.0.1:8787`。啟動工具會建立本機邀請設定與SQLite資料庫，並顯示學生及維護者邀請碼。維護者帳號名稱為 `teacher`。註冊後應保存一次性恢復碼。
 
 其他環境可直接啟動 `backend/server.mjs`，並透過環境變數設定邀請碼、資料庫及服務位址；完整參數見[後端說明](backend/README.md)。本機資料與正式站點各自保存。
+
+## 介面與閱讀偏好
+
+介面版本 `2026.09.20.2` 使用「文＋√」圖標。主導航為首頁、練習、記錄、我的；復習工具集中在首頁下方。頂部「字號」統一調整全站文字，使用原有帳號 `fontSize` 偏好儲存及同步，調整時保留題組與草稿。SVG及PNG圖標位於 `assets/`；如修改SVG，可透過 `scripts/build-icons.mjs` 重新渲染應用圖標。
+
+學生頁面不顯示來源定位及PDF入口；底層來源資料與歷史快照繼續保存。新一輪瀏覽器驗證使用獨立記憶體帳號，執行 `node web-study/scripts/browser-ui-refresh.mjs`。
 
 ## 主要行為
 

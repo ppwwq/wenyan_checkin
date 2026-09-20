@@ -7,7 +7,7 @@ const app=createApp({databasePath:':memory:',bootstrapInvite:'isolated-content-c
 await new Promise(resolve=>app.server.listen(0,'127.0.0.1',resolve));
 const origin=`http://127.0.0.1:${app.server.address().port}`;
 const checks=[],errors=[];
-const folder=new URL('../verification/content-expansion/',import.meta.url);await mkdir(folder,{recursive:true});
+const folder=new URL('../verification/ui-2026.09.20.2/content-expansion/',import.meta.url);await mkdir(folder,{recursive:true});
 let browser;
 try{
  const response=await fetch(origin+'/api/auth/register',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({username:'isolated-content-check',password:'Content-check-only-2026',inviteCode:'isolated-content-check'})});
@@ -41,11 +41,10 @@ try{
  if(!q)throw new Error('Displayed question not found');
  await page.locator('[data-action="choose"][data-choice="'+q.answerId+'"]').click();await page.locator('[data-action="submit"]').click();
  await page.getByText('這次答對了',{exact:true}).waitFor();
- const href=await page.locator('a.source-link').first().getAttribute('href');
- if(!href.includes('#page='+q.source.pdfPage))throw new Error('Wrong PDF location');
- const pdf=await context.request.get(origin+href.split('#')[0],{headers:{Range:'bytes=0-31'}});
- if(pdf.status()!==206)throw new Error('Source PDF cannot be read');
- checks.push({check:'Correct answer, explanation and source PDF',questionId:q.id,page:q.source.pdfPage});
+ if(await page.locator('a.source-link').count())throw new Error('Student source display should be removed');
+ const pdf=await context.request.get(origin+q.source.pdfUrl,{headers:{Range:'bytes=0-31'}});
+ if(pdf.status()!==206)throw new Error('Underlying source PDF cannot be read');
+ checks.push({check:'Correct answer and explanation; source hidden in UI, underlying PDF retained',questionId:q.id,page:q.source.pdfPage});
  await page.screenshot({path:fileURLToPath(new URL('appendix-answer.png',folder)),fullPage:true});
  await page.locator('[data-action="favorite"]').click();await page.locator('[data-action="pause"]').click();
  await page.locator('.home-shortcut[data-page="saved"]').click();await page.getByText(stem,{exact:true}).waitFor();
