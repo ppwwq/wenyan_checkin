@@ -1,3 +1,4 @@
+import {validTraining} from '../domain/training.mjs';
 export class Repository {
  constructor(userId,db){this.userId=userId;this.db=db;}
  static async open(userId){
@@ -19,6 +20,8 @@ export function validateBackup(data,userId){
  if(data?.format!=='wenyan-backup-v1'||data.userId!==userId||!Array.isArray(data.events))throw new Error('備份格式不符或屬於另一個帳號');
  const types=new Set(['attempt','assessment','favorite','report','browse','session','settings']);
  if(data.events.some(e=>!e.id||!types.has(e.type)||!e.payload||!Number.isFinite(Date.parse(e.createdAt))))throw new Error('備份包含無效記錄');
+ if(data.events.some(e=>e.type==='settings'&&e.payload.training!==undefined&&!validTraining(e.payload.training)))throw new Error('備份學習設定無效');
+ if(data.events.some(e=>e.type==='settings'&&e.payload.dailyGoal!==undefined&&(!/^\d{4}-\d{2}-\d{2}$/.test(e.payload.dailyGoal?.day)||!Number.isInteger(e.payload.dailyGoal?.count)||e.payload.dailyGoal.count<1||e.payload.dailyGoal.count>100)))throw new Error('備份每日目標無效');
  return [...new Map(data.events.map(e=>[e.id,e])).values()];
 }
 

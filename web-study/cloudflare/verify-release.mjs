@@ -6,7 +6,9 @@ import {fileURLToPath} from 'node:url';
 // Read-only production verification: no accounts, sessions or records are created.
 const origin='https://chinese-a-study.philipwwq.workers.dev';
 const dist=new URL('../dist/',import.meta.url);
-const output=new URL('../verification/ui-2026.09.20.3/',import.meta.url);
+const bank=JSON.parse(await readFile(new URL('content/bank.json',dist),'utf8'));
+const build=JSON.parse(await readFile(new URL('build-info.json',dist),'utf8'));
+const output=new URL('../verification/release-'+bank.version+'-ui-'+build.uiVersion+'/',import.meta.url);
 const sha=data=>createHash('sha256').update(data).digest('hex');
 async function files(directory,prefix=''){
  const result=[];
@@ -48,12 +50,11 @@ try{
  assert.equal(await page.locator('h1').textContent(),'DSE文言练习');
  assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false);
  const version=await page.evaluate(async()=>{await navigator.serviceWorker.ready;return (await (await fetch('/content/bank.json',{cache:'no-cache'})).json()).version;});
- assert.equal(version,'2026.09.20.1');assert.deepEqual(pageErrors,[]);
+ assert.equal(version,bank.version);assert.deepEqual(pageErrors,[]);
  await page.screenshot({path:fileURLToPath(new URL('public-login.png',output)),fullPage:true});
  checks.push({check:'Production Chromium login, no horizontal overflow, current bank via browser',version,pageErrors});
  await context.close();
 }finally{await browser.close();}
-const bank=JSON.parse(await readFile(new URL('content/bank.json',dist),'utf8'));
 const report={result:'PASS',verifiedAt:new Date().toISOString(),origin,bankVersion:bank.version,questions:bank.questions.length,assets,checks,scope:'Read-only public asset/API checks and Chromium login screen. No production account login/write or physical iPad acceptance.'};
 await writeFile(new URL('public-result.json',output),JSON.stringify(report,null,2)+'\n');
 console.log(JSON.stringify({result:report.result,bankVersion:report.bankVersion,questions:report.questions,matchingAssets:assets.length,checks:checks.length,bankSha256:assets.find(a=>a.path==='/content/bank.json').sha256}));

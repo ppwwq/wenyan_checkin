@@ -1,5 +1,10 @@
 export const esc=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 export const abilities={vocabulary:'字詞',meaning:'句意',theme:'主旨',technique:'手法'};
+export function attemptAnswerText(attempt){
+ if(attempt.mode!=='choice')return attempt.answer||'暫時不會';
+ const choice=attempt.question?.choices?.find(c=>c.id===attempt.answer);
+ return choice?(choice.displayLabel||choice.id.toUpperCase())+' · '+choice.text:attempt.answer||'暫時不會';
+}
 export const button=(action,label,extra='',kind='')=>'<button class="btn '+kind+'" data-action="'+action+'" '+extra+'>'+label+'</button>';
 export const empty=(title,text='')=>'<div class="empty"><h2>'+esc(title)+'</h2><p>'+esc(text)+'</p></div>';
 export const heading=(title,note='')=>'<div class="page-head"><div><h1>'+esc(title)+'</h1>'+(note?'<p>'+esc(note)+'</p>':'')+'</div></div>';
