@@ -5,7 +5,7 @@ export function attemptAnswerText(attempt){
  const choice=attempt.question?.choices?.find(c=>c.id===attempt.answer);
  return choice?(choice.displayLabel||choice.id.toUpperCase())+' · '+choice.text:attempt.answer||'暫時不會';
 }
-export const button=(action,label,extra='',kind='')=>'<button class="btn '+kind+'" data-action="'+action+'" '+extra+'>'+label+'</button>';
+export const button=(action,label,extra='',kind='')=>'<button type="button" class="btn '+kind+'" data-action="'+action+'" '+extra+'>'+label+'</button>';
 export const empty=(title,text='')=>'<div class="empty"><h2>'+esc(title)+'</h2><p>'+esc(text)+'</p></div>';
 export const heading=(title,note='')=>'<div class="page-head"><div><h1>'+esc(title)+'</h1>'+(note?'<p>'+esc(note)+'</p>':'')+'</div></div>';
 export function quote(q){const i=Number.isInteger(q.targetStart)?q.targetStart:q.quote?.indexOf(q.target);return i>=0&&q.target&&q.quote.slice(i,i+q.target.length)===q.target?esc(q.quote.slice(0,i))+'<mark>'+esc(q.target)+'</mark>'+esc(q.quote.slice(i+q.target.length)):esc(q.quote);}

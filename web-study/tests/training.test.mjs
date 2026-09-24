@@ -74,3 +74,10 @@ test('settings and home render persistent chapter types and only mistake history
  const s=state(),html=trainingView(bank,s,{});assert.match(html,/data-training-type="theme"/);assert.match(html,/data-training-essay="a" checked/);assert.match(html,/daily-count/);
  const home=dailyHomeView(bank,s);assert.match(home,/開始今日訓練/);assert.doesNotMatch(home,/已練過|未練過/);
 });
+
+test('setting shortcuts and cancel actions are non-submit buttons',()=>{
+ const html=trainingView(bank,state(),{});
+ assert.match(html,/<button type="button"[^>]*data-action="daily-count"/);
+ assert.match(html,/<button type="button"[^>]*data-action="nav"/);
+ assert.match(html,/<button class="btn" type="submit">/);
+});
