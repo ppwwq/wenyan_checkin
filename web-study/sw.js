@@ -1,5 +1,5 @@
-const CACHE='wenyan-study-2026.09.24.3';
-const SHELL=['/src/domain/training.mjs','/src/features/training.mjs','/','/index.html','/styles.css','/manifest.webmanifest','/assets/icon.svg','/assets/icon-192.png','/assets/icon-512.png','/assets/icon-maskable.png','/assets/apple-touch-icon.png','/src/features/preferences.mjs','/src/app.mjs','/src/domain/review.mjs','/src/domain/queue.mjs','/src/storage/repository.mjs','/src/sync/client.mjs','/src/features/shared.mjs','/src/features/practice.mjs','/src/features/library.mjs','/src/features/records.mjs','/content/bank.json'];
+const CACHE='wenyan-study-2026.09.24.7';
+const SHELL=['/src/features/mistakes.mjs','/src/domain/training.mjs','/src/features/training.mjs','/','/index.html','/styles.css','/manifest.webmanifest','/assets/icon.svg','/assets/icon-192.png','/assets/icon-512.png','/assets/icon-maskable.png','/assets/apple-touch-icon.png','/src/features/preferences.mjs','/src/app.mjs','/src/domain/review.mjs','/src/domain/queue.mjs','/src/storage/repository.mjs','/src/storage/backup.mjs','/src/storage/save-queue.mjs','/src/sync/scheduler.mjs','/src/sync/client.mjs','/src/features/shared.mjs','/src/features/practice.mjs','/src/features/library.mjs','/src/features/records.mjs','/content/bank.json'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(SHELL))));
 self.addEventListener('activate',event=>event.waitUntil(self.clients.claim()));
 self.addEventListener('fetch',event=>{

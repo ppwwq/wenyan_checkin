@@ -1,0 +1,12 @@
+{
+  "result": "PASS",
+  "checks": [
+    "Malformed batch: no writes",
+    "Conflicting existing ID: no writes",
+    "Other account: rejected",
+    "Mid-transaction quota error: real IndexedDB rollback",
+    "Valid import: idempotent and pending sync",
+    "Unsynced text draft included; export-import round trip stable",
+    "Failed save retries before later writes in real IndexedDB"
+  ]
+}

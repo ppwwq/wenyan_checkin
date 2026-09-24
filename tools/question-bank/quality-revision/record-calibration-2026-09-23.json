@@ -1,0 +1,289 @@
+{
+  "schemaVersion": 1,
+  "scope": "deterministic-20-item-calibration-only",
+  "bankVersion": "2026.09.23.2",
+  "bankSha256": "010be1ea1dae9f154f7b9eef1ccfd0750716dea584a6f49dcbe66f3b80272eaa",
+  "sourcePdfSha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+  "reportPath": "D:\\wenyan_checkin\\tools\\question-bank\\quality-revision\\record-calibration-2026-09-23.md",
+  "reportSha256": "51d997c213c0efe383994373683194eef624deced6a574dcbcc564692fa1347c",
+  "records": [
+    {
+      "id": "full-c-01-14-01-04",
+      "version": 2,
+      "questionSha256": "e2ea3f2d2b94f17bd48d19d092ec4d593d3ba9a16d9c6768cfdc77d1d32caf46",
+      "reviewMethod": "source-preserving-mcq-review",
+      "essayIds": [
+        "essay-01"
+      ],
+      "ability": "vocabulary",
+      "sourcePdfPage": 18,
+      "verdict": "requires-revision",
+      "riskTag": "three-remote-distractors",
+      "reason": "名望、禮物、聲音離義以為質的指代甚遠；錯項解析複製正解"
+    },
+    {
+      "id": "full-a-e02-p03-b00-v02",
+      "version": 2,
+      "questionSha256": "55630859faf1f4cd7fb10f5e80c225c32378de1182bfd24b96428cef246ce16e",
+      "reviewMethod": "contextual-mcq-review",
+      "essayIds": [
+        "essay-02"
+      ],
+      "ability": "vocabulary",
+      "sourcePdfPage": 37,
+      "verdict": "requires-revision",
+      "riskTag": "generic-distractor-explanations",
+      "reason": "三錯項解析同用不合語境，未說明豆器皿、單位、穀食各錯處"
+    },
+    {
+      "id": "full-a-e03-p02-b00-v01",
+      "version": 2,
+      "questionSha256": "88785f082be3065bb3289cedbb2d56148dd0dcd02498ed96ba149981e789d6b0",
+      "reviewMethod": "contextual-mcq-review",
+      "essayIds": [
+        "essay-03"
+      ],
+      "ability": "vocabulary",
+      "sourcePdfPage": 47,
+      "verdict": "requires-revision",
+      "riskTag": "weak-distractors",
+      "reason": "須臾題的一日、每日、從前過易；解析不分項"
+    },
+    {
+      "id": "full-a-e04-p01-b00-v04",
+      "version": 2,
+      "questionSha256": "ea372da08a9a92ba01a09296d45af92b1dda601b3126003eaae02bd3a34a9477",
+      "reviewMethod": "contextual-mcq-review",
+      "essayIds": [
+        "essay-04"
+      ],
+      "ability": "vocabulary",
+      "sourcePdfPage": 58,
+      "verdict": "requires-revision",
+      "riskTag": "weak-distractors",
+      "reason": "五石題的五個葫蘆、長五年過遠；解析不分項"
+    },
+    {
+      "id": "full-a-e05-p18-b00-v00",
+      "version": 2,
+      "questionSha256": "b366d01a2d979fecc4a1734b2ec4fa1c59f09c956088a41a777fa1adca1eef4f",
+      "reviewMethod": "contextual-mcq-review",
+      "essayIds": [
+        "essay-05"
+      ],
+      "ability": "vocabulary",
+      "sourcePdfPage": 84,
+      "verdict": "requires-revision",
+      "riskTag": "generic-distractor-explanations",
+      "reason": "竟酒動賓搭配未用來分辨三錯項；全都偏弱"
+    },
+    {
+      "id": "full-b-06-05-00-b",
+      "version": 2,
+      "questionSha256": "3ce012ab6b19ba6d9a3f3c12d336ce51ebfbb10945ade38e0a8cb44191473794",
+      "reviewMethod": "text-grounded-mcq-editorial-review",
+      "essayIds": [
+        "essay-06"
+      ],
+      "ability": "meaning",
+      "sourcePdfPage": 102,
+      "verdict": "requires-revision",
+      "riskTag": "generic-distractor-explanations",
+      "reason": "三錯項取同篇別段但解析只是複述正解；舊審稿無本題排除過程"
+    },
+    {
+      "id": "full-b-07-13-00-8",
+      "version": 2,
+      "questionSha256": "e859caaf53a57451bba9c88b6a36422ae5e91504e60bf9594eaca3dfac86a686",
+      "reviewMethod": "text-grounded-mcq-editorial-review",
+      "essayIds": [
+        "essay-07"
+      ],
+      "ability": "technique",
+      "sourcePdfPage": 129,
+      "verdict": "requires-revision",
+      "riskTag": "remote-distractors",
+      "reason": "六藝、古聖今眾、百工均非三人行的近似誤讀；解析通用"
+    },
+    {
+      "id": "full-b-08-20-00-7",
+      "version": 2,
+      "questionSha256": "092a80656c2f1f0d95015667af48e3ac0ff7edacb88731f9cc3ffc8ee9ed9ef4",
+      "reviewMethod": "text-grounded-mcq-editorial-review",
+      "essayIds": [
+        "essay-08"
+      ],
+      "ability": "vocabulary",
+      "sourcePdfPage": 149,
+      "verdict": "requires-revision",
+      "riskTag": "weak-distractors",
+      "reason": "異態與異之同字異用可辨；使變奇特、產生異議偏弱且舊審稿未記此辨析"
+    },
+    {
+      "id": "full-c-09-12-06-01",
+      "version": 2,
+      "questionSha256": "9f043235557562d9226d53c819ef330662f3ade688c9757ed4c9330656a85633",
+      "reviewMethod": "source-aligned-agent-review",
+      "essayIds": [
+        "essay-09"
+      ],
+      "ability": "technique",
+      "sourcePdfPage": 167,
+      "verdict": "reuse-supported",
+      "riskTag": "source-and-distractors-pass",
+      "reason": "銜吞作用有 PDF 依據，三錯項各對應不同誤讀且逐項排除"
+    },
+    {
+      "id": "full-b-10-11-00-14",
+      "version": 2,
+      "questionSha256": "5c3d26701018a27ffe17f2c08247049a19877f608b18f073b07bc81b8382d144",
+      "reviewMethod": "text-grounded-mcq-editorial-review",
+      "essayIds": [
+        "essay-10"
+      ],
+      "ability": "vocabulary",
+      "sourcePdfPage": 182,
+      "verdict": "requires-revision",
+      "riskTag": "weak-distractors",
+      "reason": "改革、戰甲望字生義且偏離語境；解析共用模板"
+    },
+    {
+      "id": "full-c-11-09-01-03",
+      "version": 2,
+      "questionSha256": "7073cc3056144f378a54be7422d953965a2d9c0c02b770588e33b8a52b30d87d",
+      "reviewMethod": "source-aligned-agent-review",
+      "essayIds": [
+        "essay-11"
+      ],
+      "ability": "theme",
+      "sourcePdfPage": 193,
+      "verdict": "requires-revision",
+      "riskTag": "weak-distractors",
+      "reason": "另寫春景、全無可戀、王族旅人均與自可留明顯相反"
+    },
+    {
+      "id": "full-c-12-07-02-80",
+      "version": 2,
+      "questionSha256": "05e225ee0e985d31d91061e244f908b2cde679e4c815cb85729419566d1b0e3e",
+      "reviewMethod": "source-aligned-agent-review",
+      "essayIds": [
+        "essay-12"
+      ],
+      "ability": "theme",
+      "sourcePdfPage": 200,
+      "verdict": "requires-revision",
+      "riskTag": "remote-distractors",
+      "reason": "罕見器物、昔友回憶、撤銷想像均無文句支撐"
+    },
+    {
+      "id": "full-c-13-02-03-00",
+      "version": 2,
+      "questionSha256": "a1f13e32f15557a466cc306ca56dbd4c609d2bdce3abd901446fbd201513bae8",
+      "reviewMethod": "source-preserving-mcq-review",
+      "essayIds": [
+        "essay-13"
+      ],
+      "ability": "vocabulary",
+      "sourcePdfPage": 206,
+      "verdict": "requires-revision",
+      "riskTag": "stem-answer-leak",
+      "reason": "題幹已有北極朝廷，只有正解 c 含朝廷"
+    },
+    {
+      "id": "full-c-14-00-03-80",
+      "version": 2,
+      "questionSha256": "db0a4cd49d486265f9d9b0c4f390de5103cc264b5486bc56966620e74c6e37f8",
+      "reviewMethod": "source-aligned-agent-review",
+      "essayIds": [
+        "essay-14"
+      ],
+      "ability": "theme",
+      "sourcePdfPage": 212,
+      "verdict": "requires-revision",
+      "riskTag": "partial-sequence-shortcut",
+      "reason": "四選項只有正解以江流千古起首，不需判斷全詞次序"
+    },
+    {
+      "id": "full-c-15-03-00-07",
+      "version": 2,
+      "questionSha256": "dec2f9979917640ec9a7620044c8e4a77bacd41dad7a8fc83fa0a22d726c3167",
+      "reviewMethod": "source-aligned-agent-review",
+      "essayIds": [
+        "essay-15"
+      ],
+      "ability": "meaning",
+      "sourcePdfPage": 227,
+      "verdict": "reuse-supported",
+      "riskTag": "source-and-distractors-pass",
+      "reason": "淡酒與風急關係有 PDF 依據；逐項辨析愁情、虛構過程、因果倒置"
+    },
+    {
+      "id": "full-c-16-05-01-80",
+      "version": 2,
+      "questionSha256": "6557e80fed0369e79ed07e4985ce81d8e2f67ee58f7e6a4bddaed4d9f3c02f07",
+      "reviewMethod": "source-aligned-agent-review",
+      "essayIds": [
+        "essay-16"
+      ],
+      "ability": "theme",
+      "sourcePdfPage": 237,
+      "verdict": "requires-revision",
+      "riskTag": "weak-distractors",
+      "reason": "三錯項都顯著違反由廣景收至一人的結構"
+    },
+    {
+      "id": "full-d-02-02",
+      "version": 1,
+      "questionSha256": "bd197d2a85ddc18b50a4e4813d203d0bbeaed7f9bde4e5fed5aa24c933386c51",
+      "reviewMethod": "source-aligned-agent-review",
+      "essayIds": [],
+      "ability": "technique",
+      "sourcePdfPage": 245,
+      "verdict": "requires-revision",
+      "riskTag": "answer-form-leak",
+      "reason": "正解遠長於三錯項，且錯項全部用必須、凡、只能等絕對詞"
+    },
+    {
+      "id": "full-a-e05-p27-b01-x018",
+      "version": 2,
+      "questionSha256": "59a4abd878ac4bee281f0821359e8edeeba3b7c19f9d4fa7dcb5f7965c1089b6",
+      "reviewMethod": "source-grounded-mcq-revision",
+      "essayIds": [
+        "essay-05"
+      ],
+      "ability": "technique",
+      "sourcePdfPage": 91,
+      "verdict": "requires-record-supplement",
+      "riskTag": "item-specific-evidence-missing",
+      "reason": "題面可判，但舊審稿未記 PDF 91 頁敘事分析與相關來源 73 頁原句如何接合"
+    },
+    {
+      "id": "full-c-01-02-01-00",
+      "version": 2,
+      "questionSha256": "699b83ddae14c4286261d63ede2fb88ac8afd82ae8d632649b1f4192ce5eb437",
+      "reviewMethod": "context-vocabulary-distractor-review",
+      "essayIds": [
+        "essay-01"
+      ],
+      "ability": "vocabulary",
+      "sourcePdfPage": 7,
+      "verdict": "reuse-supported",
+      "riskTag": "foundation-source-and-distractors-pass",
+      "reason": "富與貴對應財富與地位；三錯項分別混德、倒置、混學識"
+    },
+    {
+      "id": "full-c-12-01-03-03",
+      "version": 2,
+      "questionSha256": "0b80cf8c5a0e7aaf9103547d43e852eb5f5985bf2a36670799dd8b68e8c74071",
+      "reviewMethod": "source-preserving-mcq-review",
+      "essayIds": [
+        "essay-12"
+      ],
+      "ability": "vocabulary",
+      "sourcePdfPage": 196,
+      "verdict": "requires-revision",
+      "riskTag": "generic-distractor-explanations",
+      "reason": "花影酒壺選項過易，三錯項解析全複述正解"
+    }
+  ]
+}

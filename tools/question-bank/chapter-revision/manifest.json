@@ -1,0 +1,9 @@
+{
+  "version": "2026.09.23.7",
+  "essayId": "essay-01",
+  "baselineSha256": "682a1a653571f0b73713219993aea58b9844dc08afa49201e989936901f140f7",
+  "pack": "lunyu-revisions.json",
+  "packSha256": "cc087841676e8818c22e9a417663ada68b3d91d602ac47189a322061df1ee70a",
+  "evidence": "source-evidence.json",
+  "evidenceSha256": "42398c2b7cb3274d2d6d25dea98dfaf5dbf76be8e886ac8479f1203b15dc9a3d"
+}

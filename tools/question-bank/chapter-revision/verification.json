@@ -1,0 +1,62 @@
+{
+  "result": "PASS",
+  "bankVersion": "2026.09.23.7",
+  "uiVersion": "2026.09.23.4",
+  "bankSha256": "d5dc0f1bdf3e53a1b68e31f7dc0c191f5eff55a676a73eb3615fc1f0e92ea60a",
+  "totalQuestions": 2134,
+  "activeQuestions": 2133,
+  "chapterRevision": {
+    "version": "2026.09.23.7",
+    "baselineVersion": "2026.09.23.6",
+    "essayId": "essay-01",
+    "questions": 266,
+    "explanationsRewritten": 266,
+    "optionTextChangedQuestions": 40,
+    "changedOptionTexts": 111,
+    "stemChanged": 2,
+    "highlightChanged": 1,
+    "untouchedQuestions": 1868,
+    "independentReview": "not-run",
+    "studentTrial": "not-run",
+    "scope": "按篇章全題修訂；作者自檢。先前 qualityRevisionSummary 只記舊版階段，不代表本版改寫後仍獲獨立覆核。",
+    "currentReviewMethods": {
+      "source-review-and-author-self-check": 266,
+      "source-aligned-agent-review": 567,
+      "context-vocabulary-distractor-review": 57,
+      "source-review-and-agent-cross-review": 225,
+      "contextual-mcq-review": 318,
+      "source-grounded-mcq-revision": 131,
+      "text-grounded-mcq-editorial-review": 499,
+      "source-preserving-mcq-review": 71
+    }
+  },
+  "sourceLocatorsChecked": 310,
+  "freshPdfPagesChecked": 48,
+  "sourceErrors": [],
+  "reportCards": 266,
+  "externalReportResources": [],
+  "tests": {
+    "chapterProtection": {
+      "passed": 7,
+      "failed": 0,
+      "command": "python tools/question-bank/chapter-revision/test_apply_chapter.py"
+    },
+    "application": {
+      "passed": 46,
+      "failed": 0,
+      "command": "node --test tests/*.test.mjs backend/*.test.mjs cloudflare/*.test.mjs",
+      "cwd": "web-study"
+    },
+    "wholeBankSourcesAndStructure": "PASS",
+    "historicalQualityPhaseAndChapterComposition": "PASS",
+    "rebuildSameSha256": true,
+    "localBuild": "PASS",
+    "builtBankMatchesSource": true
+  },
+  "reviewMethod": "source-review-and-author-self-check",
+  "teacherValidation": "not-run",
+  "studentTrial": "not-run",
+  "browserVisualValidation": "not-run",
+  "deployment": "not-run",
+  "nextChapter": "essay-02 魚我所欲也 74 questions"
+}

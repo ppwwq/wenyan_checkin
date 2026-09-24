@@ -1,0 +1,5408 @@
+{
+  "pdfSha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+  "sourceJsonSha256": "cefaae3260a7185997dfa0dc9ba40d76fe1e1bc70b69f962d0bb75a724681f62",
+  "freshPdfPages": [
+    197,
+    202,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    215,
+    221,
+    245,
+    248
+  ],
+  "errors": [],
+  "questions": {
+    "q-e13-exp-001": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "登樓",
+          "section": "原文第1組｜原文與語譯",
+          "pdfPage": 205,
+          "printedPage": 201,
+          "blockPath": "$[12].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "花近高樓傷客心"
+        },
+        "resolvedBlock": [
+          "annot",
+          "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+          [
+            [
+              "客心",
+              "客居異地的詩人之心",
+              "blue"
+            ],
+            [
+              "萬方",
+              "天下各處",
+              "blue"
+            ],
+            [
+              "多難",
+              "內憂外患眾多",
+              "blue"
+            ],
+            [
+              "登臨",
+              "登高遠望",
+              "blue"
+            ],
+            [
+              "錦江",
+              "成都一帶的水道",
+              "blue"
+            ],
+            [
+              "來",
+              "湧來",
+              "blue"
+            ],
+            [
+              "玉壘",
+              "山名",
+              "blue"
+            ],
+            [
+              "變",
+              "變幻，引世事變遷",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "客心",
+              "meaning": "客居異地的詩人之心",
+              "spans": [
+                [
+                  5,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "萬方",
+              "meaning": "天下各處",
+              "spans": [
+                [
+                  8,
+                  10
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "多難",
+              "meaning": "內憂外患眾多",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "登臨",
+              "meaning": "登高遠望",
+              "spans": [
+                [
+                  13,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "錦江",
+              "meaning": "成都一帶的水道",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "來",
+              "meaning": "湧來",
+              "spans": [
+                [
+                  20,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "玉壘",
+              "meaning": "山名",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "變",
+              "meaning": "變幻，引世事變遷",
+              "spans": [
+                [
+                  28,
+                  29
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e13-exp-002": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "登樓",
+          "section": "原文第1組｜原文與語譯",
+          "pdfPage": 205,
+          "printedPage": 201,
+          "blockPath": "$[12].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "萬方多難此登臨"
+        },
+        "resolvedBlock": [
+          "annot",
+          "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+          [
+            [
+              "客心",
+              "客居異地的詩人之心",
+              "blue"
+            ],
+            [
+              "萬方",
+              "天下各處",
+              "blue"
+            ],
+            [
+              "多難",
+              "內憂外患眾多",
+              "blue"
+            ],
+            [
+              "登臨",
+              "登高遠望",
+              "blue"
+            ],
+            [
+              "錦江",
+              "成都一帶的水道",
+              "blue"
+            ],
+            [
+              "來",
+              "湧來",
+              "blue"
+            ],
+            [
+              "玉壘",
+              "山名",
+              "blue"
+            ],
+            [
+              "變",
+              "變幻，引世事變遷",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "客心",
+              "meaning": "客居異地的詩人之心",
+              "spans": [
+                [
+                  5,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "萬方",
+              "meaning": "天下各處",
+              "spans": [
+                [
+                  8,
+                  10
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "多難",
+              "meaning": "內憂外患眾多",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "登臨",
+              "meaning": "登高遠望",
+              "spans": [
+                [
+                  13,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "錦江",
+              "meaning": "成都一帶的水道",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "來",
+              "meaning": "湧來",
+              "spans": [
+                [
+                  20,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "玉壘",
+              "meaning": "山名",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "變",
+              "meaning": "變幻，引世事變遷",
+              "spans": [
+                [
+                  28,
+                  29
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e13-exp-003": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "登樓",
+          "section": "原文第2組｜原文與語譯",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "blockPath": "$[12].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "可憐後主還祠廟"
+        },
+        "resolvedBlock": [
+          "annot",
+          "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          [
+            [
+              "北極",
+              "北極星，喻朝廷",
+              "blue"
+            ],
+            [
+              "終",
+              "終究、始終",
+              "blue"
+            ],
+            [
+              "寇盜",
+              "指吐蕃侵略者",
+              "blue"
+            ],
+            [
+              "莫",
+              "不要",
+              "blue"
+            ],
+            [
+              "可憐",
+              "可嘆",
+              "blue"
+            ],
+            [
+              "後主",
+              "蜀漢後主劉禪",
+              "blue"
+            ],
+            [
+              "還",
+              "仍然、竟然還",
+              "blue"
+            ],
+            [
+              "日暮",
+              "傍晚",
+              "blue"
+            ],
+            [
+              "聊",
+              "姑且",
+              "blue"
+            ],
+            [
+              "梁甫吟",
+              "樂府篇名，聯繫諸葛亮",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "北極",
+              "meaning": "北極星，喻朝廷",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "終",
+              "meaning": "終究、始終",
+              "spans": [
+                [
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "寇盜",
+              "meaning": "指吐蕃侵略者",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "莫",
+              "meaning": "不要",
+              "spans": [
+                [
+                  12,
+                  13
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "可憐",
+              "meaning": "可嘆",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "後主",
+              "meaning": "蜀漢後主劉禪",
+              "spans": [
+                [
+                  18,
+                  20
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "還",
+              "meaning": "仍然、竟然還",
+              "spans": [
+                [
+                  20,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "日暮",
+              "meaning": "傍晚",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "聊",
+              "meaning": "姑且",
+              "spans": [
+                [
+                  26,
+                  27
+                ]
+              ]
+            },
+            {
+              "number": 10,
+              "word": "梁甫吟",
+              "meaning": "樂府篇名，聯繫諸葛亮",
+              "spans": [
+                [
+                  28,
+                  31
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e13-exp-004": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "登樓",
+          "section": "原文第2組｜原文與語譯",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "blockPath": "$[12].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "日暮聊為梁甫吟"
+        },
+        "resolvedBlock": [
+          "annot",
+          "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          [
+            [
+              "北極",
+              "北極星，喻朝廷",
+              "blue"
+            ],
+            [
+              "終",
+              "終究、始終",
+              "blue"
+            ],
+            [
+              "寇盜",
+              "指吐蕃侵略者",
+              "blue"
+            ],
+            [
+              "莫",
+              "不要",
+              "blue"
+            ],
+            [
+              "可憐",
+              "可嘆",
+              "blue"
+            ],
+            [
+              "後主",
+              "蜀漢後主劉禪",
+              "blue"
+            ],
+            [
+              "還",
+              "仍然、竟然還",
+              "blue"
+            ],
+            [
+              "日暮",
+              "傍晚",
+              "blue"
+            ],
+            [
+              "聊",
+              "姑且",
+              "blue"
+            ],
+            [
+              "梁甫吟",
+              "樂府篇名，聯繫諸葛亮",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "北極",
+              "meaning": "北極星，喻朝廷",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "終",
+              "meaning": "終究、始終",
+              "spans": [
+                [
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "寇盜",
+              "meaning": "指吐蕃侵略者",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "莫",
+              "meaning": "不要",
+              "spans": [
+                [
+                  12,
+                  13
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "可憐",
+              "meaning": "可嘆",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "後主",
+              "meaning": "蜀漢後主劉禪",
+              "spans": [
+                [
+                  18,
+                  20
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "還",
+              "meaning": "仍然、竟然還",
+              "spans": [
+                [
+                  20,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "日暮",
+              "meaning": "傍晚",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "聊",
+              "meaning": "姑且",
+              "spans": [
+                [
+                  26,
+                  27
+                ]
+              ]
+            },
+            {
+              "number": 10,
+              "word": "梁甫吟",
+              "meaning": "樂府篇名，聯繫諸葛亮",
+              "spans": [
+                [
+                  28,
+                  31
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e13-exp-005": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "登樓",
+          "section": "原文第2組｜原文與語譯",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "blockPath": "$[12].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "西山寇盜莫相侵"
+        },
+        "resolvedBlock": [
+          "annot",
+          "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          [
+            [
+              "北極",
+              "北極星，喻朝廷",
+              "blue"
+            ],
+            [
+              "終",
+              "終究、始終",
+              "blue"
+            ],
+            [
+              "寇盜",
+              "指吐蕃侵略者",
+              "blue"
+            ],
+            [
+              "莫",
+              "不要",
+              "blue"
+            ],
+            [
+              "可憐",
+              "可嘆",
+              "blue"
+            ],
+            [
+              "後主",
+              "蜀漢後主劉禪",
+              "blue"
+            ],
+            [
+              "還",
+              "仍然、竟然還",
+              "blue"
+            ],
+            [
+              "日暮",
+              "傍晚",
+              "blue"
+            ],
+            [
+              "聊",
+              "姑且",
+              "blue"
+            ],
+            [
+              "梁甫吟",
+              "樂府篇名，聯繫諸葛亮",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "北極",
+              "meaning": "北極星，喻朝廷",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "終",
+              "meaning": "終究、始終",
+              "spans": [
+                [
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "寇盜",
+              "meaning": "指吐蕃侵略者",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "莫",
+              "meaning": "不要",
+              "spans": [
+                [
+                  12,
+                  13
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "可憐",
+              "meaning": "可嘆",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "後主",
+              "meaning": "蜀漢後主劉禪",
+              "spans": [
+                [
+                  18,
+                  20
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "還",
+              "meaning": "仍然、竟然還",
+              "spans": [
+                [
+                  20,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "日暮",
+              "meaning": "傍晚",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "聊",
+              "meaning": "姑且",
+              "spans": [
+                [
+                  26,
+                  27
+                ]
+              ]
+            },
+            {
+              "number": 10,
+              "word": "梁甫吟",
+              "meaning": "樂府篇名，聯繫諸葛亮",
+              "spans": [
+                [
+                  28,
+                  31
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e13-exp-006": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "登樓",
+          "section": "原文第1組｜原文與語譯",
+          "pdfPage": 205,
+          "printedPage": 201,
+          "blockPath": "$[12].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "花近高樓傷客心，萬方多難此登臨"
+        },
+        "resolvedBlock": [
+          "annot",
+          "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+          [
+            [
+              "客心",
+              "客居異地的詩人之心",
+              "blue"
+            ],
+            [
+              "萬方",
+              "天下各處",
+              "blue"
+            ],
+            [
+              "多難",
+              "內憂外患眾多",
+              "blue"
+            ],
+            [
+              "登臨",
+              "登高遠望",
+              "blue"
+            ],
+            [
+              "錦江",
+              "成都一帶的水道",
+              "blue"
+            ],
+            [
+              "來",
+              "湧來",
+              "blue"
+            ],
+            [
+              "玉壘",
+              "山名",
+              "blue"
+            ],
+            [
+              "變",
+              "變幻，引世事變遷",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "客心",
+              "meaning": "客居異地的詩人之心",
+              "spans": [
+                [
+                  5,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "萬方",
+              "meaning": "天下各處",
+              "spans": [
+                [
+                  8,
+                  10
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "多難",
+              "meaning": "內憂外患眾多",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "登臨",
+              "meaning": "登高遠望",
+              "spans": [
+                [
+                  13,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "錦江",
+              "meaning": "成都一帶的水道",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "來",
+              "meaning": "湧來",
+              "spans": [
+                [
+                  20,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "玉壘",
+              "meaning": "山名",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "變",
+              "meaning": "變幻，引世事變遷",
+              "spans": [
+                [
+                  28,
+                  29
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e13-exp-007": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "登樓",
+          "section": "原文第2組｜原文與語譯",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "blockPath": "$[12].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "北極朝廷終不改，西山寇盜莫相侵"
+        },
+        "resolvedBlock": [
+          "annot",
+          "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          [
+            [
+              "北極",
+              "北極星，喻朝廷",
+              "blue"
+            ],
+            [
+              "終",
+              "終究、始終",
+              "blue"
+            ],
+            [
+              "寇盜",
+              "指吐蕃侵略者",
+              "blue"
+            ],
+            [
+              "莫",
+              "不要",
+              "blue"
+            ],
+            [
+              "可憐",
+              "可嘆",
+              "blue"
+            ],
+            [
+              "後主",
+              "蜀漢後主劉禪",
+              "blue"
+            ],
+            [
+              "還",
+              "仍然、竟然還",
+              "blue"
+            ],
+            [
+              "日暮",
+              "傍晚",
+              "blue"
+            ],
+            [
+              "聊",
+              "姑且",
+              "blue"
+            ],
+            [
+              "梁甫吟",
+              "樂府篇名，聯繫諸葛亮",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "北極",
+              "meaning": "北極星，喻朝廷",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "終",
+              "meaning": "終究、始終",
+              "spans": [
+                [
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "寇盜",
+              "meaning": "指吐蕃侵略者",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "莫",
+              "meaning": "不要",
+              "spans": [
+                [
+                  12,
+                  13
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "可憐",
+              "meaning": "可嘆",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "後主",
+              "meaning": "蜀漢後主劉禪",
+              "spans": [
+                [
+                  18,
+                  20
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "還",
+              "meaning": "仍然、竟然還",
+              "spans": [
+                [
+                  20,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "日暮",
+              "meaning": "傍晚",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "聊",
+              "meaning": "姑且",
+              "spans": [
+                [
+                  26,
+                  27
+                ]
+              ]
+            },
+            {
+              "number": 10,
+              "word": "梁甫吟",
+              "meaning": "樂府篇名，聯繫諸葛亮",
+              "spans": [
+                [
+                  28,
+                  31
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e13-exp-008": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "登樓",
+          "section": "原文第1組｜原文與語譯",
+          "pdfPage": 205,
+          "printedPage": 201,
+          "blockPath": "$[12].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "花近高樓傷客心"
+        },
+        "resolvedBlock": [
+          "annot",
+          "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+          [
+            [
+              "客心",
+              "客居異地的詩人之心",
+              "blue"
+            ],
+            [
+              "萬方",
+              "天下各處",
+              "blue"
+            ],
+            [
+              "多難",
+              "內憂外患眾多",
+              "blue"
+            ],
+            [
+              "登臨",
+              "登高遠望",
+              "blue"
+            ],
+            [
+              "錦江",
+              "成都一帶的水道",
+              "blue"
+            ],
+            [
+              "來",
+              "湧來",
+              "blue"
+            ],
+            [
+              "玉壘",
+              "山名",
+              "blue"
+            ],
+            [
+              "變",
+              "變幻，引世事變遷",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "客心",
+              "meaning": "客居異地的詩人之心",
+              "spans": [
+                [
+                  5,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "萬方",
+              "meaning": "天下各處",
+              "spans": [
+                [
+                  8,
+                  10
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "多難",
+              "meaning": "內憂外患眾多",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "登臨",
+              "meaning": "登高遠望",
+              "spans": [
+                [
+                  13,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "錦江",
+              "meaning": "成都一帶的水道",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "來",
+              "meaning": "湧來",
+              "spans": [
+                [
+                  20,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "玉壘",
+              "meaning": "山名",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "變",
+              "meaning": "變幻，引世事變遷",
+              "spans": [
+                [
+                  28,
+                  29
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-appendix-002": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書｜手法附錄",
+          "section": "修辭｜語氣與引述",
+          "jsonFile": "appendix-content.json",
+          "blockPath": "$appendix.sections[2].rows[3]",
+          "anchor": "把古書故事、人物事跡或有來歷的詞語融入文句，通常不直接交代完整故事。",
+          "pdfPage": 245,
+          "printedPage": "附錄4",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14",
+          "relatedSources": [
+            {
+              "title": "登樓",
+              "jsonFile": "student-content.json",
+              "blockPath": "$[12].pages[2].blocks[0]",
+              "quote": "日暮聊為梁甫吟",
+              "anchor": "日暮聊為梁甫吟",
+              "pdfPage": 206,
+              "printedPage": 202,
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "version": "2026-09-14"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "用典",
+          "把古書故事、人物事跡或有來歷的詞語融入文句，通常不直接交代完整故事。\n作用：以少總多，含蓄寄託感情、處境或志向，增添歷史文化聯想。",
+          "『梁甫吟』借諸葛亮典故寄託報國志向。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "登樓",
+          "jsonFile": "student-content.json",
+          "blockPath": "$[12].pages[2].blocks[0]",
+          "quote": "日暮聊為梁甫吟",
+          "anchor": "日暮聊為梁甫吟",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14"
+        },
+        "resolvedBlock": [
+          "annot",
+          "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          [
+            [
+              "北極",
+              "北極星，喻朝廷",
+              "blue"
+            ],
+            [
+              "終",
+              "終究、始終",
+              "blue"
+            ],
+            [
+              "寇盜",
+              "指吐蕃侵略者",
+              "blue"
+            ],
+            [
+              "莫",
+              "不要",
+              "blue"
+            ],
+            [
+              "可憐",
+              "可嘆",
+              "blue"
+            ],
+            [
+              "後主",
+              "蜀漢後主劉禪",
+              "blue"
+            ],
+            [
+              "還",
+              "仍然、竟然還",
+              "blue"
+            ],
+            [
+              "日暮",
+              "傍晚",
+              "blue"
+            ],
+            [
+              "聊",
+              "姑且",
+              "blue"
+            ],
+            [
+              "梁甫吟",
+              "樂府篇名，聯繫諸葛亮",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "北極",
+              "meaning": "北極星，喻朝廷",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "終",
+              "meaning": "終究、始終",
+              "spans": [
+                [
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "寇盜",
+              "meaning": "指吐蕃侵略者",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "莫",
+              "meaning": "不要",
+              "spans": [
+                [
+                  12,
+                  13
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "可憐",
+              "meaning": "可嘆",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "後主",
+              "meaning": "蜀漢後主劉禪",
+              "spans": [
+                [
+                  18,
+                  20
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "還",
+              "meaning": "仍然、竟然還",
+              "spans": [
+                [
+                  20,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "日暮",
+              "meaning": "傍晚",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "聊",
+              "meaning": "姑且",
+              "spans": [
+                [
+                  26,
+                  27
+                ]
+              ]
+            },
+            {
+              "number": 10,
+              "word": "梁甫吟",
+              "meaning": "樂府篇名，聯繫諸葛亮",
+              "spans": [
+                [
+                  28,
+                  31
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-appendix-004": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書｜手法附錄",
+          "section": "修辭與結構｜易混淆速查",
+          "jsonFile": "appendix-content.json",
+          "blockPath": "$appendix.sections[5].rows[0]",
+          "anchor": "相似關係 vs 關聯替代",
+          "pdfPage": 248,
+          "printedPage": "附錄7",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14",
+          "relatedSources": [
+            {
+              "title": "登樓",
+              "jsonFile": "student-content.json",
+              "blockPath": "$[12].pages[2].blocks[0]",
+              "quote": "北極朝廷終不改",
+              "anchor": "北極朝廷終不改",
+              "pdfPage": 206,
+              "printedPage": 202,
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "version": "2026-09-14"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "比喻 vs 借代",
+          "相似關係 vs 關聯替代",
+          "『北極』若把朝廷比作北極星，是借喻；『紅領巾』代學生，是借代。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "登樓",
+          "jsonFile": "student-content.json",
+          "blockPath": "$[12].pages[2].blocks[0]",
+          "quote": "北極朝廷終不改",
+          "anchor": "北極朝廷終不改",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14"
+        },
+        "resolvedBlock": [
+          "annot",
+          "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          [
+            [
+              "北極",
+              "北極星，喻朝廷",
+              "blue"
+            ],
+            [
+              "終",
+              "終究、始終",
+              "blue"
+            ],
+            [
+              "寇盜",
+              "指吐蕃侵略者",
+              "blue"
+            ],
+            [
+              "莫",
+              "不要",
+              "blue"
+            ],
+            [
+              "可憐",
+              "可嘆",
+              "blue"
+            ],
+            [
+              "後主",
+              "蜀漢後主劉禪",
+              "blue"
+            ],
+            [
+              "還",
+              "仍然、竟然還",
+              "blue"
+            ],
+            [
+              "日暮",
+              "傍晚",
+              "blue"
+            ],
+            [
+              "聊",
+              "姑且",
+              "blue"
+            ],
+            [
+              "梁甫吟",
+              "樂府篇名，聯繫諸葛亮",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "北極",
+              "meaning": "北極星，喻朝廷",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "終",
+              "meaning": "終究、始終",
+              "spans": [
+                [
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "寇盜",
+              "meaning": "指吐蕃侵略者",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "莫",
+              "meaning": "不要",
+              "spans": [
+                [
+                  12,
+                  13
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "可憐",
+              "meaning": "可嘆",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "後主",
+              "meaning": "蜀漢後主劉禪",
+              "spans": [
+                [
+                  18,
+                  20
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "還",
+              "meaning": "仍然、竟然還",
+              "spans": [
+                [
+                  20,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "日暮",
+              "meaning": "傍晚",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "聊",
+              "meaning": "姑且",
+              "spans": [
+                [
+                  26,
+                  27
+                ]
+              ]
+            },
+            {
+              "number": 10,
+              "word": "梁甫吟",
+              "meaning": "樂府篇名，聯繫諸葛亮",
+              "spans": [
+                [
+                  28,
+                  31
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-01-03-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 205,
+          "printedPage": 201,
+          "blockPath": "$[12].pages[1].blocks[3][1][2]",
+          "anchor": "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+          "excerpt": "多難：內憂外患眾多"
+        },
+        "resolvedBlock": [
+          "多難",
+          "內憂外患眾多",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-01-03-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 205,
+          "printedPage": 201,
+          "blockPath": "$[12].pages[1].blocks[3][1][3]",
+          "anchor": "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+          "excerpt": "登臨：登高遠望"
+        },
+        "resolvedBlock": [
+          "登臨",
+          "登高遠望",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-01-03-04": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 205,
+          "printedPage": 201,
+          "blockPath": "$[12].pages[1].blocks[3][1][4]",
+          "anchor": "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+          "excerpt": "錦江：成都一帶的水道"
+        },
+        "resolvedBlock": [
+          "錦江",
+          "成都一帶的水道",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-01-03-05": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 205,
+          "printedPage": 201,
+          "blockPath": "$[12].pages[1].blocks[3][1][5]",
+          "anchor": "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+          "excerpt": "來：湧來"
+        },
+        "resolvedBlock": [
+          "來",
+          "湧來",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-01-03-06": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 205,
+          "printedPage": 201,
+          "blockPath": "$[12].pages[1].blocks[3][1][6]",
+          "anchor": "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+          "excerpt": "玉壘：山名"
+        },
+        "resolvedBlock": [
+          "玉壘",
+          "山名",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-01-03-07": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 205,
+          "printedPage": 201,
+          "blockPath": "$[12].pages[1].blocks[3][1][7]",
+          "anchor": "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+          "excerpt": "變：變幻，引世事變遷"
+        },
+        "resolvedBlock": [
+          "變",
+          "變幻，引世事變遷",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-02-03-00": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "blockPath": "$[12].pages[2].blocks[3][1][0]",
+          "anchor": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          "excerpt": "北極：北極星，喻朝廷"
+        },
+        "resolvedBlock": [
+          "北極",
+          "北極星，喻朝廷",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-02-03-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "blockPath": "$[12].pages[2].blocks[3][1][1]",
+          "anchor": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          "excerpt": "終：終究、始終"
+        },
+        "resolvedBlock": [
+          "終",
+          "終究、始終",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-02-03-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "blockPath": "$[12].pages[2].blocks[3][1][2]",
+          "anchor": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          "excerpt": "寇盜：指吐蕃侵略者"
+        },
+        "resolvedBlock": [
+          "寇盜",
+          "指吐蕃侵略者",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-02-03-05": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "blockPath": "$[12].pages[2].blocks[3][1][5]",
+          "anchor": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          "excerpt": "後主：蜀漢後主劉禪"
+        },
+        "resolvedBlock": [
+          "後主",
+          "蜀漢後主劉禪",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-02-03-06": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "blockPath": "$[12].pages[2].blocks[3][1][6]",
+          "anchor": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          "excerpt": "還：仍然、竟然還"
+        },
+        "resolvedBlock": [
+          "還",
+          "仍然、竟然還",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-02-03-07": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "blockPath": "$[12].pages[2].blocks[3][1][7]",
+          "anchor": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          "excerpt": "日暮：傍晚"
+        },
+        "resolvedBlock": [
+          "日暮",
+          "傍晚",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-02-03-09": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "blockPath": "$[12].pages[2].blocks[3][1][9]",
+          "anchor": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          "excerpt": "梁甫吟：樂府篇名，聯繫諸葛亮"
+        },
+        "resolvedBlock": [
+          "梁甫吟",
+          "樂府篇名，聯繫諸葛亮",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-01-00-90": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 204,
+          "printedPage": 200,
+          "blockPath": "$[12].pages[1].blocks[0]",
+          "anchor": "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+          "excerpt": "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。"
+        },
+        "resolvedBlock": [
+          "annot",
+          "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+          [
+            [
+              "客心",
+              "客居異地的詩人之心",
+              "blue"
+            ],
+            [
+              "萬方",
+              "天下各處",
+              "blue"
+            ],
+            [
+              "多難",
+              "內憂外患眾多",
+              "blue"
+            ],
+            [
+              "登臨",
+              "登高遠望",
+              "blue"
+            ],
+            [
+              "錦江",
+              "成都一帶的水道",
+              "blue"
+            ],
+            [
+              "來",
+              "湧來",
+              "blue"
+            ],
+            [
+              "玉壘",
+              "山名",
+              "blue"
+            ],
+            [
+              "變",
+              "變幻，引世事變遷",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "客心",
+              "meaning": "客居異地的詩人之心",
+              "spans": [
+                [
+                  5,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "萬方",
+              "meaning": "天下各處",
+              "spans": [
+                [
+                  8,
+                  10
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "多難",
+              "meaning": "內憂外患眾多",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "登臨",
+              "meaning": "登高遠望",
+              "spans": [
+                [
+                  13,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "錦江",
+              "meaning": "成都一帶的水道",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "來",
+              "meaning": "湧來",
+              "spans": [
+                [
+                  20,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "玉壘",
+              "meaning": "山名",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "變",
+              "meaning": "變幻，引世事變遷",
+              "spans": [
+                [
+                  28,
+                  29
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-02-00-90": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 204,
+          "printedPage": 200,
+          "blockPath": "$[12].pages[2].blocks[0]",
+          "anchor": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          "excerpt": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。"
+        },
+        "resolvedBlock": [
+          "annot",
+          "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          [
+            [
+              "北極",
+              "北極星，喻朝廷",
+              "blue"
+            ],
+            [
+              "終",
+              "終究、始終",
+              "blue"
+            ],
+            [
+              "寇盜",
+              "指吐蕃侵略者",
+              "blue"
+            ],
+            [
+              "莫",
+              "不要",
+              "blue"
+            ],
+            [
+              "可憐",
+              "可嘆",
+              "blue"
+            ],
+            [
+              "後主",
+              "蜀漢後主劉禪",
+              "blue"
+            ],
+            [
+              "還",
+              "仍然、竟然還",
+              "blue"
+            ],
+            [
+              "日暮",
+              "傍晚",
+              "blue"
+            ],
+            [
+              "聊",
+              "姑且",
+              "blue"
+            ],
+            [
+              "梁甫吟",
+              "樂府篇名，聯繫諸葛亮",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "北極",
+              "meaning": "北極星，喻朝廷",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "終",
+              "meaning": "終究、始終",
+              "spans": [
+                [
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "寇盜",
+              "meaning": "指吐蕃侵略者",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "莫",
+              "meaning": "不要",
+              "spans": [
+                [
+                  12,
+                  13
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "可憐",
+              "meaning": "可嘆",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "後主",
+              "meaning": "蜀漢後主劉禪",
+              "spans": [
+                [
+                  18,
+                  20
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "還",
+              "meaning": "仍然、竟然還",
+              "spans": [
+                [
+                  20,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "日暮",
+              "meaning": "傍晚",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "聊",
+              "meaning": "姑且",
+              "spans": [
+                [
+                  26,
+                  27
+                ]
+              ]
+            },
+            {
+              "number": 10,
+              "word": "梁甫吟",
+              "meaning": "樂府篇名，聯繫諸葛亮",
+              "spans": [
+                [
+                  28,
+                  31
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-10-00-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 202,
+          "printedPage": 198,
+          "blockPath": "$[11].pages[10].blocks[0]",
+          "anchor": "《月下獨酌》與《登樓》都用美好花景襯托心事：李白苦於無相親，杜甫傷於萬方多難。結尾則不同：李白把相伴寄於雲漢的想像，杜甫以梁甫吟自況，仍想濟世卻未能施展。",
+          "excerpt": "《月下獨酌》與《登樓》都用美好花景襯托心事：李白苦於無相親，杜甫傷於萬方多難。結尾則不同：李白把相伴寄於雲漢的想像，杜甫以梁甫吟自況，仍想濟世卻未能施展。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "月下獨酌",
+              "section": "原文第3組｜原文與語譯",
+              "pdfPage": 197,
+              "printedPage": 193,
+              "blockPath": "$[11].pages[3].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "永結無情遊，相期邈雲漢。",
+              "excerpt": "永結無情遊，相期邈雲漢。",
+              "essayId": "essay-12"
+            },
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "登樓",
+              "section": "原文第2組｜原文與語譯",
+              "pdfPage": 206,
+              "printedPage": 202,
+              "blockPath": "$[12].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+              "excerpt": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+              "essayId": "essay-13"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "text",
+          "《月下獨酌》與《登樓》都用美好花景襯托心事：李白苦於無相親，杜甫傷於萬方多難。結尾則不同：李白把相伴寄於雲漢的想像，杜甫以梁甫吟自況，仍想濟世卻未能施展。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第3組｜原文與語譯",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "blockPath": "$[11].pages[3].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "永結無情遊，相期邈雲漢。",
+          "excerpt": "永結無情遊，相期邈雲漢。",
+          "essayId": "essay-12"
+        },
+        "resolvedBlock": [
+          "annot",
+          "永結無情遊，相期邈雲漢。",
+          [
+            [
+              "永結",
+              "永遠結伴的願望",
+              "blue"
+            ],
+            [
+              "無情遊",
+              "忘卻世情的交遊；亦可指與無情月影為伴",
+              "blue"
+            ],
+            [
+              "相期",
+              "相約",
+              "blue"
+            ],
+            [
+              "邈",
+              "遙遠",
+              "blue"
+            ],
+            [
+              "雲漢",
+              "銀河",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "永結",
+              "meaning": "永遠結伴的願望",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "無情遊",
+              "meaning": "忘卻世情的交遊；亦可指與無情月影為伴",
+              "spans": [
+                [
+                  2,
+                  5
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "相期",
+              "meaning": "相約",
+              "spans": [
+                [
+                  6,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "邈",
+              "meaning": "遙遠",
+              "spans": [
+                [
+                  8,
+                  9
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "雲漢",
+              "meaning": "銀河",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "登樓",
+          "section": "原文第2組｜原文與語譯",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "blockPath": "$[12].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          "excerpt": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          "essayId": "essay-13"
+        },
+        "resolvedBlock": [
+          "annot",
+          "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          [
+            [
+              "北極",
+              "北極星，喻朝廷",
+              "blue"
+            ],
+            [
+              "終",
+              "終究、始終",
+              "blue"
+            ],
+            [
+              "寇盜",
+              "指吐蕃侵略者",
+              "blue"
+            ],
+            [
+              "莫",
+              "不要",
+              "blue"
+            ],
+            [
+              "可憐",
+              "可嘆",
+              "blue"
+            ],
+            [
+              "後主",
+              "蜀漢後主劉禪",
+              "blue"
+            ],
+            [
+              "還",
+              "仍然、竟然還",
+              "blue"
+            ],
+            [
+              "日暮",
+              "傍晚",
+              "blue"
+            ],
+            [
+              "聊",
+              "姑且",
+              "blue"
+            ],
+            [
+              "梁甫吟",
+              "樂府篇名，聯繫諸葛亮",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "北極",
+              "meaning": "北極星，喻朝廷",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "終",
+              "meaning": "終究、始終",
+              "spans": [
+                [
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "寇盜",
+              "meaning": "指吐蕃侵略者",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "莫",
+              "meaning": "不要",
+              "spans": [
+                [
+                  12,
+                  13
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "可憐",
+              "meaning": "可嘆",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "後主",
+              "meaning": "蜀漢後主劉禪",
+              "spans": [
+                [
+                  18,
+                  20
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "還",
+              "meaning": "仍然、竟然還",
+              "spans": [
+                [
+                  20,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "日暮",
+              "meaning": "傍晚",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "聊",
+              "meaning": "姑且",
+              "spans": [
+                [
+                  26,
+                  27
+                ]
+              ]
+            },
+            {
+              "number": 10,
+              "word": "梁甫吟",
+              "meaning": "樂府篇名，聯繫諸葛亮",
+              "spans": [
+                [
+                  28,
+                  31
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-00-01-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 204,
+          "printedPage": 200,
+          "blockPath": "$[12].pages[0].blocks[1]",
+          "anchor": "登樓見春景，卻因國家多難而傷心；仍盼朝廷安定，感嘆報國無路。",
+          "excerpt": "登樓見春景，卻因國家多難而傷心；仍盼朝廷安定，感嘆報國無路。"
+        },
+        "resolvedBlock": [
+          "band",
+          "登樓見春景，卻因國家多難而傷心；仍盼朝廷安定，感嘆報國無路。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-00-03-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 204,
+          "printedPage": 200,
+          "blockPath": "$[12].pages[0].blocks[3]",
+          "anchor": "近花傷心→遠望山河→信念與警告→借典自傷",
+          "excerpt": "近花傷心→遠望山河→信念與警告→借典自傷"
+        },
+        "resolvedBlock": [
+          "text",
+          "近花傷心→遠望山河→信念與警告→借典自傷"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-00-05-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 204,
+          "printedPage": 200,
+          "blockPath": "$[12].pages[0].blocks[5]",
+          "anchor": "繁花是美景，「傷」的原因在「萬方多難」，不是花凋謝。",
+          "excerpt": "繁花是美景，「傷」的原因在「萬方多難」，不是花凋謝。"
+        },
+        "resolvedBlock": [
+          "text",
+          "繁花是美景，「傷」的原因在「萬方多難」，不是花凋謝。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-00-07-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 204,
+          "printedPage": 200,
+          "blockPath": "$[12].pages[0].blocks[7]",
+          "anchor": "八句，每句七字；韻腳包括首句的心，以及臨、今、侵、吟。",
+          "excerpt": "八句，每句七字；韻腳包括首句的心，以及臨、今、侵、吟。"
+        },
+        "resolvedBlock": [
+          "text",
+          "八句，每句七字；韻腳包括首句的心，以及臨、今、侵、吟。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-01-04-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 205,
+          "printedPage": 201,
+          "blockPath": "$[12].pages[1].blocks[4]",
+          "anchor": "「萬方多難」說明傷心原因。頷聯一面拓開天地空間，一面由浮雲變化聯想到古今興亡。",
+          "excerpt": "「萬方多難」說明傷心原因。頷聯一面拓開天地空間，一面由浮雲變化聯想到古今興亡。"
+        },
+        "resolvedBlock": [
+          "note",
+          "「萬方多難」說明傷心原因。頷聯一面拓開天地空間，一面由浮雲變化聯想到古今興亡。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-02-04-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "blockPath": "$[12].pages[2].blocks[4]",
+          "anchor": "「終」表信念和祝願，「莫」含警告。尾聯諷昏君而思賢相，最後以「聊」寫只能吟詩自遣的無奈。",
+          "excerpt": "「終」表信念和祝願，「莫」含警告。尾聯諷昏君而思賢相，最後以「聊」寫只能吟詩自遣的無奈。"
+        },
+        "resolvedBlock": [
+          "note",
+          "「終」表信念和祝願，「莫」含警告。尾聯諷昏君而思賢相，最後以「聊」寫只能吟詩自遣的無奈。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-03-00-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "blockPath": "$[12].pages[3].blocks[0][1][1]",
+          "anchor": "花近高樓 花近高樓傷客心 高樓近處繁花盛放。「近」點出登樓所見的近景，與下文遠望相接。",
+          "excerpt": "高樓近處繁花盛放。「近」點出登樓所見的近景，與下文遠望相接。"
+        },
+        "resolvedBlock": [
+          "花近高樓",
+          "花近高樓傷客心",
+          "高樓近處繁花盛放。「近」點出登樓所見的近景，與下文遠望相接。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-03-00-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "blockPath": "$[12].pages[3].blocks[0][1][2]",
+          "anchor": "客心 花近高樓傷客心 客居蜀地的詩人之心，包含漂泊身世之感；全詩憂傷又不止個人客愁。",
+          "excerpt": "客居蜀地的詩人之心，包含漂泊身世之感；全詩憂傷又不止個人客愁。"
+        },
+        "resolvedBlock": [
+          "客心",
+          "花近高樓傷客心",
+          "客居蜀地的詩人之心，包含漂泊身世之感；全詩憂傷又不止個人客愁。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-03-00-06": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "blockPath": "$[12].pages[3].blocks[0][1][6]",
+          "anchor": "錦江 錦江春色來天地 岷江的支流，成都一帶水道。可用此交代眼前地景。",
+          "excerpt": "岷江的支流，成都一帶水道。可用此交代眼前地景。"
+        },
+        "resolvedBlock": [
+          "錦江",
+          "錦江春色來天地",
+          "岷江的支流，成都一帶水道。可用此交代眼前地景。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-03-00-07": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "blockPath": "$[12].pages[3].blocks[0][1][7]",
+          "anchor": "玉壘 玉壘浮雲變古今 山名。詩人由山上浮雲的變化聯想到古今世事，重點在景物與時間感的連接。",
+          "excerpt": "山名。詩人由山上浮雲的變化聯想到古今世事，重點在景物與時間感的連接。"
+        },
+        "resolvedBlock": [
+          "玉壘",
+          "玉壘浮雲變古今",
+          "山名。詩人由山上浮雲的變化聯想到古今世事，重點在景物與時間感的連接。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-03-00-09": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 207,
+          "printedPage": 203,
+          "blockPath": "$[12].pages[3].blocks[0][1][9]",
+          "anchor": "變 玉壘浮雲變古今 變化、變換不定。「來」寫春色迎面鋪展，「變」由浮雲變化聯想到古今世事。",
+          "excerpt": "變化、變換不定。「來」寫春色迎面鋪展，「變」由浮雲變化聯想到古今世事。"
+        },
+        "resolvedBlock": [
+          "變",
+          "玉壘浮雲變古今",
+          "變化、變換不定。「來」寫春色迎面鋪展，「變」由浮雲變化聯想到古今世事。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-03-00-10": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 207,
+          "printedPage": 203,
+          "blockPath": "$[12].pages[3].blocks[0][1][10]",
+          "anchor": "北極 北極朝廷終不改 本指北極星，詩中比喻朝廷地位穩定。不能直接把字面詞義與比喻所指混成一項。",
+          "excerpt": "本指北極星，詩中比喻朝廷地位穩定。不能直接把字面詞義與比喻所指混成一項。"
+        },
+        "resolvedBlock": [
+          "北極",
+          "北極朝廷終不改",
+          "本指北極星，詩中比喻朝廷地位穩定。不能直接把字面詞義與比喻所指混成一項。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-03-00-12": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 207,
+          "printedPage": 203,
+          "blockPath": "$[12].pages[3].blocks[0][1][12]",
+          "anchor": "不 北極朝廷終不改 否定詞。合用表現對唐室的信心與祝願。",
+          "excerpt": "否定詞。合用表現對唐室的信心與祝願。"
+        },
+        "resolvedBlock": [
+          "不",
+          "北極朝廷終不改",
+          "否定詞。合用表現對唐室的信心與祝願。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-03-00-13": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 207,
+          "printedPage": 203,
+          "blockPath": "$[12].pages[3].blocks[0][1][13]",
+          "anchor": "西山寇盜 西山寇盜莫相侵 指吐蕃侵略者；「西山」以地名代吐蕃一方，「寇盜」含斥責。",
+          "excerpt": "指吐蕃侵略者；「西山」以地名代吐蕃一方，「寇盜」含斥責。"
+        },
+        "resolvedBlock": [
+          "西山寇盜",
+          "西山寇盜莫相侵",
+          "指吐蕃侵略者；「西山」以地名代吐蕃一方，「寇盜」含斥責。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-03-00-15": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 207,
+          "printedPage": 203,
+          "blockPath": "$[12].pages[3].blocks[0][1][15]",
+          "anchor": "相 西山寇盜莫相侵 「相侵」在這裏指來侵犯唐朝。整句警告吐蕃不要入侵，並非雙方互相侵犯。",
+          "excerpt": "「相侵」在這裏指來侵犯唐朝。整句警告吐蕃不要入侵，並非雙方互相侵犯。"
+        },
+        "resolvedBlock": [
+          "相",
+          "西山寇盜莫相侵",
+          "「相侵」在這裏指來侵犯唐朝。整句警告吐蕃不要入侵，並非雙方互相侵犯。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-03-00-17": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 207,
+          "printedPage": 203,
+          "blockPath": "$[12].pages[3].blocks[0][1][17]",
+          "anchor": "後主 可憐後主還祠廟 蜀漢後主劉禪。此處「可憐」不是單純憐憫弱者。",
+          "excerpt": "蜀漢後主劉禪。此處「可憐」不是單純憐憫弱者。"
+        },
+        "resolvedBlock": [
+          "後主",
+          "可憐後主還祠廟",
+          "蜀漢後主劉禪。此處「可憐」不是單純憐憫弱者。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-03-00-18": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 207,
+          "printedPage": 203,
+          "blockPath": "$[12].pages[3].blocks[0][1][18]",
+          "anchor": "還 可憐後主還祠廟 仍然、仍有；含「不應如此而竟然如此」的不滿、輕蔑。",
+          "excerpt": "仍然、仍有；含「不應如此而竟然如此」的不滿、輕蔑。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "登樓",
+              "section": "原文第2組｜原文與語譯",
+              "pdfPage": 206,
+              "printedPage": 202,
+              "blockPath": "$[12].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+              "excerpt": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+              "essayId": "essay-13"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "還",
+          "可憐後主還祠廟",
+          "仍然、仍有；含「不應如此而竟然如此」的不滿、輕蔑。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "登樓",
+          "section": "原文第2組｜原文與語譯",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "blockPath": "$[12].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          "excerpt": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          "essayId": "essay-13"
+        },
+        "resolvedBlock": [
+          "annot",
+          "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          [
+            [
+              "北極",
+              "北極星，喻朝廷",
+              "blue"
+            ],
+            [
+              "終",
+              "終究、始終",
+              "blue"
+            ],
+            [
+              "寇盜",
+              "指吐蕃侵略者",
+              "blue"
+            ],
+            [
+              "莫",
+              "不要",
+              "blue"
+            ],
+            [
+              "可憐",
+              "可嘆",
+              "blue"
+            ],
+            [
+              "後主",
+              "蜀漢後主劉禪",
+              "blue"
+            ],
+            [
+              "還",
+              "仍然、竟然還",
+              "blue"
+            ],
+            [
+              "日暮",
+              "傍晚",
+              "blue"
+            ],
+            [
+              "聊",
+              "姑且",
+              "blue"
+            ],
+            [
+              "梁甫吟",
+              "樂府篇名，聯繫諸葛亮",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "北極",
+              "meaning": "北極星，喻朝廷",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "終",
+              "meaning": "終究、始終",
+              "spans": [
+                [
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "寇盜",
+              "meaning": "指吐蕃侵略者",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "莫",
+              "meaning": "不要",
+              "spans": [
+                [
+                  12,
+                  13
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "可憐",
+              "meaning": "可嘆",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "後主",
+              "meaning": "蜀漢後主劉禪",
+              "spans": [
+                [
+                  18,
+                  20
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "還",
+              "meaning": "仍然、竟然還",
+              "spans": [
+                [
+                  20,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "日暮",
+              "meaning": "傍晚",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "聊",
+              "meaning": "姑且",
+              "spans": [
+                [
+                  26,
+                  27
+                ]
+              ]
+            },
+            {
+              "number": 10,
+              "word": "梁甫吟",
+              "meaning": "樂府篇名，聯繫諸葛亮",
+              "spans": [
+                [
+                  28,
+                  31
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-04-00-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 207,
+          "printedPage": 203,
+          "blockPath": "$[12].pages[4].blocks[0][1][1]",
+          "anchor": "日暮 日暮聊為梁甫吟 傍晚；亦可象徵年華老去。象徵解讀不能用來反推精確年齡。",
+          "excerpt": "傍晚；亦可象徵年華老去。象徵解讀不能用來反推精確年齡。"
+        },
+        "resolvedBlock": [
+          "日暮",
+          "日暮聊為梁甫吟",
+          "傍晚；亦可象徵年華老去。象徵解讀不能用來反推精確年齡。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-04-00-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 207,
+          "printedPage": 203,
+          "blockPath": "$[12].pages[4].blocks[0][1][2]",
+          "anchor": "為梁甫吟 日暮聊為梁甫吟 吟誦《梁甫吟》，與諸葛亮未出仕時的行為相聯。",
+          "excerpt": "吟誦《梁甫吟》，與諸葛亮未出仕時的行為相聯。"
+        },
+        "resolvedBlock": [
+          "為梁甫吟",
+          "日暮聊為梁甫吟",
+          "吟誦《梁甫吟》，與諸葛亮未出仕時的行為相聯。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-05-00-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 208,
+          "printedPage": 204,
+          "blockPath": "$[12].pages[5].blocks[0][1][1]",
+          "anchor": "首聯：登樓觸景，總提「傷」 「花近高樓」交代環境與近景，「客心」點明客居身份，「萬方多難」揭示憂傷根由，「此登臨」扣題。繁花本可悅目，詩人卻因國難而傷心，奠定憂國傷時的基調。",
+          "excerpt": "「花近高樓」交代環境與近景，「客心」點明客居身份，「萬方多難」揭示憂傷根由，「此登臨」扣題。繁花本可悅目，詩人卻因國難而傷心，奠定憂國傷時的基調。"
+        },
+        "resolvedBlock": [
+          "首聯：登樓觸景，總提「傷」",
+          "「花近高樓」交代環境與近景，「客心」點明客居身份，「萬方多難」揭示憂傷根由，「此登臨」扣題。繁花本可悅目，詩人卻因國難而傷心，奠定憂國傷時的基調。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-05-00-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 208,
+          "printedPage": 204,
+          "blockPath": "$[12].pages[5].blocks[0][1][2]",
+          "anchor": "頷聯：遠望山川，由景入思 錦江春色蓬勃，從天地邊際湧來，空間廣闊；玉壘浮雲變幻，牽動古今興亡的聯想，時間悠長。既讚歎山河壯麗，又感慨春色依舊、人事全非，憂慮國家前途。",
+          "excerpt": "錦江春色蓬勃，從天地邊際湧來，空間廣闊；玉壘浮雲變幻，牽動古今興亡的聯想，時間悠長。既讚歎山河壯麗，又感慨春色依舊、人事全非，憂慮國家前途。"
+        },
+        "resolvedBlock": [
+          "頷聯：遠望山川，由景入思",
+          "錦江春色蓬勃，從天地邊際湧來，空間廣闊；玉壘浮雲變幻，牽動古今興亡的聯想，時間悠長。既讚歎山河壯麗，又感慨春色依舊、人事全非，憂慮國家前途。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-05-00-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 208,
+          "printedPage": 204,
+          "blockPath": "$[12].pages[5].blocks[0][1][3]",
+          "anchor": "頸聯：面對國難，申明立場 以北極比唐室，表示朝廷可望穩定、國祚長存的信心；斥責、警告吐蕃不要侵犯。既有對恢復秩序的欣慰，又有對侵擾、戰亂民苦的憂慮，表現忠心和抵禦外侮的決心。",
+          "excerpt": "以北極比唐室，表示朝廷可望穩定、國祚長存的信心；斥責、警告吐蕃不要侵犯。既有對恢復秩序的欣慰，又有對侵擾、戰亂民苦的憂慮，表現忠心和抵禦外侮的決心。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "登樓",
+              "section": "原文第1組｜原文與語譯",
+              "pdfPage": 205,
+              "printedPage": 201,
+              "blockPath": "$[12].pages[1].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+              "excerpt": "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+              "essayId": "essay-13"
+            },
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "登樓",
+              "section": "原文第2組｜原文與語譯",
+              "pdfPage": 206,
+              "printedPage": 202,
+              "blockPath": "$[12].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+              "excerpt": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+              "essayId": "essay-13"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "頸聯：面對國難，申明立場",
+          "以北極比唐室，表示朝廷可望穩定、國祚長存的信心；斥責、警告吐蕃不要侵犯。既有對恢復秩序的欣慰，又有對侵擾、戰亂民苦的憂慮，表現忠心和抵禦外侮的決心。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "登樓",
+          "section": "原文第1組｜原文與語譯",
+          "pdfPage": 205,
+          "printedPage": 201,
+          "blockPath": "$[12].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+          "excerpt": "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+          "essayId": "essay-13"
+        },
+        "resolvedBlock": [
+          "annot",
+          "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+          [
+            [
+              "客心",
+              "客居異地的詩人之心",
+              "blue"
+            ],
+            [
+              "萬方",
+              "天下各處",
+              "blue"
+            ],
+            [
+              "多難",
+              "內憂外患眾多",
+              "blue"
+            ],
+            [
+              "登臨",
+              "登高遠望",
+              "blue"
+            ],
+            [
+              "錦江",
+              "成都一帶的水道",
+              "blue"
+            ],
+            [
+              "來",
+              "湧來",
+              "blue"
+            ],
+            [
+              "玉壘",
+              "山名",
+              "blue"
+            ],
+            [
+              "變",
+              "變幻，引世事變遷",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "客心",
+              "meaning": "客居異地的詩人之心",
+              "spans": [
+                [
+                  5,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "萬方",
+              "meaning": "天下各處",
+              "spans": [
+                [
+                  8,
+                  10
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "多難",
+              "meaning": "內憂外患眾多",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "登臨",
+              "meaning": "登高遠望",
+              "spans": [
+                [
+                  13,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "錦江",
+              "meaning": "成都一帶的水道",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "來",
+              "meaning": "湧來",
+              "spans": [
+                [
+                  20,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "玉壘",
+              "meaning": "山名",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "變",
+              "meaning": "變幻，引世事變遷",
+              "spans": [
+                [
+                  28,
+                  29
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "登樓",
+          "section": "原文第2組｜原文與語譯",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "blockPath": "$[12].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          "excerpt": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          "essayId": "essay-13"
+        },
+        "resolvedBlock": [
+          "annot",
+          "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          [
+            [
+              "北極",
+              "北極星，喻朝廷",
+              "blue"
+            ],
+            [
+              "終",
+              "終究、始終",
+              "blue"
+            ],
+            [
+              "寇盜",
+              "指吐蕃侵略者",
+              "blue"
+            ],
+            [
+              "莫",
+              "不要",
+              "blue"
+            ],
+            [
+              "可憐",
+              "可嘆",
+              "blue"
+            ],
+            [
+              "後主",
+              "蜀漢後主劉禪",
+              "blue"
+            ],
+            [
+              "還",
+              "仍然、竟然還",
+              "blue"
+            ],
+            [
+              "日暮",
+              "傍晚",
+              "blue"
+            ],
+            [
+              "聊",
+              "姑且",
+              "blue"
+            ],
+            [
+              "梁甫吟",
+              "樂府篇名，聯繫諸葛亮",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "北極",
+              "meaning": "北極星，喻朝廷",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "終",
+              "meaning": "終究、始終",
+              "spans": [
+                [
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "寇盜",
+              "meaning": "指吐蕃侵略者",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "莫",
+              "meaning": "不要",
+              "spans": [
+                [
+                  12,
+                  13
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "可憐",
+              "meaning": "可嘆",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "後主",
+              "meaning": "蜀漢後主劉禪",
+              "spans": [
+                [
+                  18,
+                  20
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "還",
+              "meaning": "仍然、竟然還",
+              "spans": [
+                [
+                  20,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "日暮",
+              "meaning": "傍晚",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "聊",
+              "meaning": "姑且",
+              "spans": [
+                [
+                  26,
+                  27
+                ]
+              ]
+            },
+            {
+              "number": 10,
+              "word": "梁甫吟",
+              "meaning": "樂府篇名，聯繫諸葛亮",
+              "spans": [
+                [
+                  28,
+                  31
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-05-00-04": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 208,
+          "printedPage": 204,
+          "blockPath": "$[12].pages[5].blocks[0][1][4]",
+          "anchor": "尾聯：借古諷今，自傷不遇 由附近後主廟想到昏庸君主仍受供奉，諷刺當朝信用宦官、治國無方，寄望任用賢才；再以諸葛亮未出仕時吟誦《梁甫吟》自況，慨歎年華老去、懷才不遇、報國無門，只能吟詩自遣。",
+          "excerpt": "由附近後主廟想到昏庸君主仍受供奉，諷刺當朝信用宦官、治國無方，寄望任用賢才；再以諸葛亮未出仕時吟誦《梁甫吟》自況，慨歎年華老去、懷才不遇、報國無門，只能吟詩自遣。"
+        },
+        "resolvedBlock": [
+          "尾聯：借古諷今，自傷不遇",
+          "由附近後主廟想到昏庸君主仍受供奉，諷刺當朝信用宦官、治國無方，寄望任用賢才；再以諸葛亮未出仕時吟誦《梁甫吟》自況，慨歎年華老去、懷才不遇、報國無門，只能吟詩自遣。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-05-01-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 208,
+          "printedPage": 204,
+          "blockPath": "$[12].pages[5].blocks[1]",
+          "anchor": "全詩由近景至遠景，由眼前山川至古今興亡，由國家命運至個人報國處境，景、事、情交織。憂國與自傷相聯；對唐室的信念與對當朝政治的諷刺可以並存，不能把詩人的態度簡化為全然樂觀或全然絕望。",
+          "excerpt": "全詩由近景至遠景，由眼前山川至古今興亡，由國家命運至個人報國處境，景、事、情交織。憂國與自傷相聯；對唐室的信念與對當朝政治的諷刺可以並存，不能把詩人的態度簡化為全然樂觀或全然絕望。"
+        },
+        "resolvedBlock": [
+          "text",
+          "全詩由近景至遠景，由眼前山川至古今興亡，由國家命運至個人報國處境，景、事、情交織。憂國與自傷相聯；對唐室的信念與對當朝政治的諷刺可以並存，不能把詩人的態度簡化為全然樂觀或全然絕望。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-06-00-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 208,
+          "printedPage": 204,
+          "blockPath": "$[12].pages[6].blocks[0]",
+          "anchor": "「可憐後主還祠廟」寫昏庸亡國的劉禪竟仍受祭祀，「還」帶出不滿。這一典故可理解為借古諷今：批評君主不能善治、不能任賢，同時寄望賢才獲得重用。",
+          "excerpt": "「可憐後主還祠廟」寫昏庸亡國的劉禪竟仍受祭祀，「還」帶出不滿。這一典故可理解為借古諷今：批評君主不能善治、不能任賢，同時寄望賢才獲得重用。"
+        },
+        "resolvedBlock": [
+          "text",
+          "「可憐後主還祠廟」寫昏庸亡國的劉禪竟仍受祭祀，「還」帶出不滿。這一典故可理解為借古諷今：批評君主不能善治、不能任賢，同時寄望賢才獲得重用。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-06-02-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 208,
+          "printedPage": 204,
+          "blockPath": "$[12].pages[6].blocks[2]",
+          "anchor": "諸葛亮未出仕時曾吟《梁甫吟》。杜甫以「聊為梁甫吟」把自己與尚未被任用的賢才相連：有報國之志，卻無從施展，只能姑且吟詩寄懷。「後主」諷昏君，「梁甫吟」思賢相，兩個典故一反一正，共同指向任賢與濟世。",
+          "excerpt": "諸葛亮未出仕時曾吟《梁甫吟》。杜甫以「聊為梁甫吟」把自己與尚未被任用的賢才相連：有報國之志，卻無從施展，只能姑且吟詩寄懷。「後主」諷昏君，「梁甫吟」思賢相，兩個典故一反一正，共同指向任賢與濟世。"
+        },
+        "resolvedBlock": [
+          "text",
+          "諸葛亮未出仕時曾吟《梁甫吟》。杜甫以「聊為梁甫吟」把自己與尚未被任用的賢才相連：有報國之志，卻無從施展，只能姑且吟詩寄懷。「後主」諷昏君，「梁甫吟」思賢相，兩個典故一反一正，共同指向任賢與濟世。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-07-00-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 209,
+          "printedPage": 205,
+          "blockPath": "$[12].pages[7].blocks[0][1][1]",
+          "anchor": "借景抒情 繁花春色牽動國難之愁；玉壘浮雲牽動時局興亡之感；眼前後主廟引出对昏君的憤慨；日暮烘托年老不遇。須寫出「何景→何情」。",
+          "excerpt": "繁花春色牽動國難之愁；玉壘浮雲牽動時局興亡之感；眼前後主廟引出对昏君的憤慨；日暮烘托年老不遇。須寫出「何景→何情」。"
+        },
+        "resolvedBlock": [
+          "借景抒情",
+          "繁花春色牽動國難之愁；玉壘浮雲牽動時局興亡之感；眼前後主廟引出对昏君的憤慨；日暮烘托年老不遇。須寫出「何景→何情」。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-07-00-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 209,
+          "printedPage": 205,
+          "blockPath": "$[12].pages[7].blocks[0][1][2]",
+          "anchor": "樂景反襯哀情 「花近高樓傷客心」及「錦江春色來天地」以美好的春景反襯憂國傷時，樂景愈美，哀情愈深；不可說景物本身衰敗淒涼。",
+          "excerpt": "「花近高樓傷客心」及「錦江春色來天地」以美好的春景反襯憂國傷時，樂景愈美，哀情愈深；不可說景物本身衰敗淒涼。"
+        },
+        "resolvedBlock": [
+          "樂景反襯哀情",
+          "「花近高樓傷客心」及「錦江春色來天地」以美好的春景反襯憂國傷時，樂景愈美，哀情愈深；不可說景物本身衰敗淒涼。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-07-00-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 209,
+          "printedPage": 205,
+          "blockPath": "$[12].pages[7].blocks[0][1][3]",
+          "anchor": "頷聯對偶 錦江／玉壘、春色／浮雲、天地／古今相對，景物相映，兼寫廣闊空間與悠長時間，造成雄渾氣象。",
+          "excerpt": "錦江／玉壘、春色／浮雲、天地／古今相對，景物相映，兼寫廣闊空間與悠長時間，造成雄渾氣象。"
+        },
+        "resolvedBlock": [
+          "頷聯對偶",
+          "錦江／玉壘、春色／浮雲、天地／古今相對，景物相映，兼寫廣闊空間與悠長時間，造成雄渾氣象。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-07-00-04": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 209,
+          "printedPage": 205,
+          "blockPath": "$[12].pages[7].blocks[0][1][4]",
+          "anchor": "頸聯對偶 北極／西山、朝廷／寇盜等相對，對舉朝廷與侵略者，立場鮮明，語勢整飭。",
+          "excerpt": "北極／西山、朝廷／寇盜等相對，對舉朝廷與侵略者，立場鮮明，語勢整飭。"
+        },
+        "resolvedBlock": [
+          "頸聯對偶",
+          "北極／西山、朝廷／寇盜等相對，對舉朝廷與侵略者，立場鮮明，語勢整飭。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-07-00-05": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 209,
+          "printedPage": 205,
+          "blockPath": "$[12].pages[7].blocks[0][1][5]",
+          "anchor": "比喻 北極星的穩定比朝廷不改；星的穩定連到對唐室的信念。",
+          "excerpt": "北極星的穩定比朝廷不改；星的穩定連到對唐室的信念。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "登樓",
+              "section": "原文第2組｜原文與語譯",
+              "pdfPage": 206,
+              "printedPage": 202,
+              "blockPath": "$[12].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+              "excerpt": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+              "essayId": "essay-13"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "比喻",
+          "北極星的穩定比朝廷不改；星的穩定連到對唐室的信念。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "登樓",
+          "section": "原文第2組｜原文與語譯",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "blockPath": "$[12].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          "excerpt": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          "essayId": "essay-13"
+        },
+        "resolvedBlock": [
+          "annot",
+          "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          [
+            [
+              "北極",
+              "北極星，喻朝廷",
+              "blue"
+            ],
+            [
+              "終",
+              "終究、始終",
+              "blue"
+            ],
+            [
+              "寇盜",
+              "指吐蕃侵略者",
+              "blue"
+            ],
+            [
+              "莫",
+              "不要",
+              "blue"
+            ],
+            [
+              "可憐",
+              "可嘆",
+              "blue"
+            ],
+            [
+              "後主",
+              "蜀漢後主劉禪",
+              "blue"
+            ],
+            [
+              "還",
+              "仍然、竟然還",
+              "blue"
+            ],
+            [
+              "日暮",
+              "傍晚",
+              "blue"
+            ],
+            [
+              "聊",
+              "姑且",
+              "blue"
+            ],
+            [
+              "梁甫吟",
+              "樂府篇名，聯繫諸葛亮",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "北極",
+              "meaning": "北極星，喻朝廷",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "終",
+              "meaning": "終究、始終",
+              "spans": [
+                [
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "寇盜",
+              "meaning": "指吐蕃侵略者",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "莫",
+              "meaning": "不要",
+              "spans": [
+                [
+                  12,
+                  13
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "可憐",
+              "meaning": "可嘆",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "後主",
+              "meaning": "蜀漢後主劉禪",
+              "spans": [
+                [
+                  18,
+                  20
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "還",
+              "meaning": "仍然、竟然還",
+              "spans": [
+                [
+                  20,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "日暮",
+              "meaning": "傍晚",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "聊",
+              "meaning": "姑且",
+              "spans": [
+                [
+                  26,
+                  27
+                ]
+              ]
+            },
+            {
+              "number": 10,
+              "word": "梁甫吟",
+              "meaning": "樂府篇名，聯繫諸葛亮",
+              "spans": [
+                [
+                  28,
+                  31
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-07-00-06": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 209,
+          "printedPage": 205,
+          "blockPath": "$[12].pages[7].blocks[0][1][6]",
+          "anchor": "借代 「西山」代指吐蕃一方，須結合背景說明所指，不能只答山名。",
+          "excerpt": "「西山」代指吐蕃一方，須結合背景說明所指，不能只答山名。"
+        },
+        "resolvedBlock": [
+          "借代",
+          "「西山」代指吐蕃一方，須結合背景說明所指，不能只答山名。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-07-00-07": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 209,
+          "printedPage": 205,
+          "blockPath": "$[12].pages[7].blocks[0][1][7]",
+          "anchor": "象徵／景中寓比 浮雲變幻象徵世事不定；日暮象徵年華老去。也可以浮雲作景中寓比。",
+          "excerpt": "浮雲變幻象徵世事不定；日暮象徵年華老去。也可以浮雲作景中寓比。"
+        },
+        "resolvedBlock": [
+          "象徵／景中寓比",
+          "浮雲變幻象徵世事不定；日暮象徵年華老去。也可以浮雲作景中寓比。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-07-00-08": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 209,
+          "printedPage": 205,
+          "blockPath": "$[12].pages[7].blocks[0][1][8]",
+          "anchor": "雙關 「變」既寫浮雲形態改變，又引出古今世事變遷，將自然與人事相聯。",
+          "excerpt": "「變」既寫浮雲形態改變，又引出古今世事變遷，將自然與人事相聯。"
+        },
+        "resolvedBlock": [
+          "雙關",
+          "「變」既寫浮雲形態改變，又引出古今世事變遷，將自然與人事相聯。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-07-00-09": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 209,
+          "printedPage": 205,
+          "blockPath": "$[12].pages[7].blocks[0][1][9]",
+          "anchor": "用典、借古諷今 後主亡國而受祀，諷刺當朝信用宦官、治理失當；梁甫吟借諸葛亮未遇時的行為自況，表達有志難伸。",
+          "excerpt": "後主亡國而受祀，諷刺當朝信用宦官、治理失當；梁甫吟借諸葛亮未遇時的行為自況，表達有志難伸。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "登樓",
+              "section": "原文第2組｜原文與語譯",
+              "pdfPage": 206,
+              "printedPage": 202,
+              "blockPath": "$[12].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+              "excerpt": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+              "essayId": "essay-13"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "用典、借古諷今",
+          "後主亡國而受祀，諷刺當朝信用宦官、治理失當；梁甫吟借諸葛亮未遇時的行為自況，表達有志難伸。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "登樓",
+          "section": "原文第2組｜原文與語譯",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "blockPath": "$[12].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          "excerpt": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          "essayId": "essay-13"
+        },
+        "resolvedBlock": [
+          "annot",
+          "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          [
+            [
+              "北極",
+              "北極星，喻朝廷",
+              "blue"
+            ],
+            [
+              "終",
+              "終究、始終",
+              "blue"
+            ],
+            [
+              "寇盜",
+              "指吐蕃侵略者",
+              "blue"
+            ],
+            [
+              "莫",
+              "不要",
+              "blue"
+            ],
+            [
+              "可憐",
+              "可嘆",
+              "blue"
+            ],
+            [
+              "後主",
+              "蜀漢後主劉禪",
+              "blue"
+            ],
+            [
+              "還",
+              "仍然、竟然還",
+              "blue"
+            ],
+            [
+              "日暮",
+              "傍晚",
+              "blue"
+            ],
+            [
+              "聊",
+              "姑且",
+              "blue"
+            ],
+            [
+              "梁甫吟",
+              "樂府篇名，聯繫諸葛亮",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "北極",
+              "meaning": "北極星，喻朝廷",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "終",
+              "meaning": "終究、始終",
+              "spans": [
+                [
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "寇盜",
+              "meaning": "指吐蕃侵略者",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "莫",
+              "meaning": "不要",
+              "spans": [
+                [
+                  12,
+                  13
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "可憐",
+              "meaning": "可嘆",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "後主",
+              "meaning": "蜀漢後主劉禪",
+              "spans": [
+                [
+                  18,
+                  20
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "還",
+              "meaning": "仍然、竟然還",
+              "spans": [
+                [
+                  20,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "日暮",
+              "meaning": "傍晚",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "聊",
+              "meaning": "姑且",
+              "spans": [
+                [
+                  26,
+                  27
+                ]
+              ]
+            },
+            {
+              "number": 10,
+              "word": "梁甫吟",
+              "meaning": "樂府篇名，聯繫諸葛亮",
+              "spans": [
+                [
+                  28,
+                  31
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-07-00-10": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 209,
+          "printedPage": 205,
+          "blockPath": "$[12].pages[7].blocks[0][1][10]",
+          "anchor": "呼應 「西山寇盜」回應「萬方多難」；「錦江春色」接「花近高樓」。也可把奇數句的花、春色、朝廷與偶數句的多難、浮雲古今、寇盜分線相承。",
+          "excerpt": "「西山寇盜」回應「萬方多難」；「錦江春色」接「花近高樓」。也可把奇數句的花、春色、朝廷與偶數句的多難、浮雲古今、寇盜分線相承。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+              "version": "2026-09-14",
+              "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "pdfPage": 204,
+              "printedPage": 200,
+              "blockPath": "$[12].pages[2].blocks[0]",
+              "anchor": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+              "excerpt": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+              "essayId": "essay-13",
+              "essayTitle": "登樓"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "呼應",
+          "「西山寇盜」回應「萬方多難」；「錦江春色」接「花近高樓」。也可把奇數句的花、春色、朝廷與偶數句的多難、浮雲古今、寇盜分線相承。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 204,
+          "printedPage": 200,
+          "blockPath": "$[12].pages[2].blocks[0]",
+          "anchor": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          "excerpt": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          "essayId": "essay-13",
+          "essayTitle": "登樓"
+        },
+        "resolvedBlock": [
+          "annot",
+          "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          [
+            [
+              "北極",
+              "北極星，喻朝廷",
+              "blue"
+            ],
+            [
+              "終",
+              "終究、始終",
+              "blue"
+            ],
+            [
+              "寇盜",
+              "指吐蕃侵略者",
+              "blue"
+            ],
+            [
+              "莫",
+              "不要",
+              "blue"
+            ],
+            [
+              "可憐",
+              "可嘆",
+              "blue"
+            ],
+            [
+              "後主",
+              "蜀漢後主劉禪",
+              "blue"
+            ],
+            [
+              "還",
+              "仍然、竟然還",
+              "blue"
+            ],
+            [
+              "日暮",
+              "傍晚",
+              "blue"
+            ],
+            [
+              "聊",
+              "姑且",
+              "blue"
+            ],
+            [
+              "梁甫吟",
+              "樂府篇名，聯繫諸葛亮",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "北極",
+              "meaning": "北極星，喻朝廷",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "終",
+              "meaning": "終究、始終",
+              "spans": [
+                [
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "寇盜",
+              "meaning": "指吐蕃侵略者",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "莫",
+              "meaning": "不要",
+              "spans": [
+                [
+                  12,
+                  13
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "可憐",
+              "meaning": "可嘆",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "後主",
+              "meaning": "蜀漢後主劉禪",
+              "spans": [
+                [
+                  18,
+                  20
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "還",
+              "meaning": "仍然、竟然還",
+              "spans": [
+                [
+                  20,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "日暮",
+              "meaning": "傍晚",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "聊",
+              "meaning": "姑且",
+              "spans": [
+                [
+                  26,
+                  27
+                ]
+              ]
+            },
+            {
+              "number": 10,
+              "word": "梁甫吟",
+              "meaning": "樂府篇名，聯繫諸葛亮",
+              "spans": [
+                [
+                  28,
+                  31
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-08-00-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 210,
+          "printedPage": 206,
+          "blockPath": "$[12].pages[8].blocks[0][1][1]",
+          "anchor": "江山與人事對照 常新、壯麗的山川，對照反覆多變的人事，使憂國傷時不局限於一時一地。",
+          "excerpt": "常新、壯麗的山川，對照反覆多變的人事，使憂國傷時不局限於一時一地。"
+        },
+        "resolvedBlock": [
+          "江山與人事對照",
+          "常新、壯麗的山川，對照反覆多變的人事，使憂國傷時不局限於一時一地。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-08-00-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 210,
+          "printedPage": 206,
+          "blockPath": "$[12].pages[8].blocks[0][1][2]",
+          "anchor": "賦、比、興 見花而起情，可從「興」理解；浮雲景中寓比；西山寇盜陳述現實，屬賦寫。此為官方賞析角度，與具體修辭名目並列理解。",
+          "excerpt": "見花而起情，可從「興」理解；浮雲景中寓比；西山寇盜陳述現實，屬賦寫。此為官方賞析角度，與具體修辭名目並列理解。"
+        },
+        "resolvedBlock": [
+          "賦、比、興",
+          "見花而起情，可從「興」理解；浮雲景中寓比；西山寇盜陳述現實，屬賦寫。此為官方賞析角度，與具體修辭名目並列理解。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-08-00-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 210,
+          "printedPage": 206,
+          "blockPath": "$[12].pages[8].blocks[0][1][3]",
+          "anchor": "煉字 「近」定近景、「暮」定時間並含老去之感；又以「近」引向錦江、玉壘遠景，以「暮」見詩人徜徉已久，兩字合見空間廣闊、時間綿長；「來」把春色寫得迎面湧來、鋪天蓋地；「變」連接時空與世事；「終」寫信念；「莫」帶警告與決心；「還」寫不應而竟然；「聊」寫不甘而只能如此。",
+          "excerpt": "「近」定近景、「暮」定時間並含老去之感；又以「近」引向錦江、玉壘遠景，以「暮」見詩人徜徉已久，兩字合見空間廣闊、時間綿長；「來」把春色寫得迎面湧來、鋪天蓋地；「變」連接時空與世事；「終」寫信念；「莫」帶警告與決心；「還」寫不應而竟然；「聊」寫不甘而只能如此。"
+        },
+        "resolvedBlock": [
+          "煉字",
+          "「近」定近景、「暮」定時間並含老去之感；又以「近」引向錦江、玉壘遠景，以「暮」見詩人徜徉已久，兩字合見空間廣闊、時間綿長；「來」把春色寫得迎面湧來、鋪天蓋地；「變」連接時空與世事；「終」寫信念；「莫」帶警告與決心；「還」寫不應而竟然；「聊」寫不甘而只能如此。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-08-00-04": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 210,
+          "printedPage": 206,
+          "blockPath": "$[12].pages[8].blocks[0][1][4]",
+          "anchor": "語言與風格 實詞密集，對仗凝練，時空交織，景中含情，意蘊沉鬱；不能以「沉鬱」取代具体情感分析。",
+          "excerpt": "實詞密集，對仗凝練，時空交織，景中含情，意蘊沉鬱；不能以「沉鬱」取代具体情感分析。"
+        },
+        "resolvedBlock": [
+          "語言與風格",
+          "實詞密集，對仗凝練，時空交織，景中含情，意蘊沉鬱；不能以「沉鬱」取代具体情感分析。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-10-00-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 211,
+          "printedPage": 207,
+          "blockPath": "$[12].pages[10].blocks[0]",
+          "anchor": "國難使美景變成傷心的觸媒，也使個人不遇成為報國無門的感慨。",
+          "excerpt": "國難使美景變成傷心的觸媒，也使個人不遇成為報國無門的感慨。"
+        },
+        "resolvedBlock": [
+          "band",
+          "國難使美景變成傷心的觸媒，也使個人不遇成為報國無門的感慨。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-10-01-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 211,
+          "printedPage": 207,
+          "blockPath": "$[12].pages[10].blocks[1][1][1]",
+          "anchor": "傷心有因 「花近」是眼前近景，「萬方多難」才是傷的根由；遠景把思緒推至古今。",
+          "excerpt": "「花近」是眼前近景，「萬方多難」才是傷的根由；遠景把思緒推至古今。"
+        },
+        "resolvedBlock": [
+          "傷心有因",
+          "「花近」是眼前近景，「萬方多難」才是傷的根由；遠景把思緒推至古今。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-10-01-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 211,
+          "printedPage": 207,
+          "blockPath": "$[12].pages[10].blocks[1][1][2]",
+          "anchor": "信念未失 「終不改」「莫相侵」表守護唐室的願望，與對政治失當的不滿並存。",
+          "excerpt": "「終不改」「莫相侵」表守護唐室的願望，與對政治失當的不滿並存。"
+        },
+        "resolvedBlock": [
+          "信念未失",
+          "「終不改」「莫相侵」表守護唐室的願望，與對政治失當的不滿並存。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-10-01-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 211,
+          "printedPage": 207,
+          "blockPath": "$[12].pages[10].blocks[1][1][3]",
+          "anchor": "典故收束 後主引諷今，梁甫吟引自況；「聊」把宏大的國家關切收回無從施展的個人。",
+          "excerpt": "後主引諷今，梁甫吟引自況；「聊」把宏大的國家關切收回無從施展的個人。"
+        },
+        "resolvedBlock": [
+          "典故收束",
+          "後主引諷今，梁甫吟引自況；「聊」把宏大的國家關切收回無從施展的個人。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-10-01-04": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 211,
+          "printedPage": 207,
+          "blockPath": "$[12].pages[10].blocks[1][1][4]",
+          "anchor": "兩個尺度 天地是空間，古今是時間；近花與遠山、眼前与歷史相接，使一人的傷心擴成對天下興亡的關切。",
+          "excerpt": "天地是空間，古今是時間；近花與遠山、眼前与歷史相接，使一人的傷心擴成對天下興亡的關切。"
+        },
+        "resolvedBlock": [
+          "兩個尺度",
+          "天地是空間，古今是時間；近花與遠山、眼前与歷史相接，使一人的傷心擴成對天下興亡的關切。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-13-10-01-05": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 211,
+          "printedPage": 207,
+          "blockPath": "$[12].pages[10].blocks[1][1][5]",
+          "anchor": "兩種態度相容 信朝廷不改，是不願國家敗亡；諷昏君不任賢，是希望政治改善。忠於國家並不等於滿意一切現況。",
+          "excerpt": "信朝廷不改，是不願國家敗亡；諷昏君不任賢，是希望政治改善。忠於國家並不等於滿意一切現況。"
+        },
+        "resolvedBlock": [
+          "兩種態度相容",
+          "信朝廷不改，是不願國家敗亡；諷昏君不任賢，是希望政治改善。忠於國家並不等於滿意一切現況。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-09-00-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 221,
+          "printedPage": 217,
+          "blockPath": "$[13].pages[9].blocks[0]",
+          "anchor": "與《登樓》：均借歷史人物抒抱負；杜甫借後主諷今、借未遇諸葛自況，蘇軾以周瑜年少功成反襯自己失意華髮。兩者所借人物、對照重點及收束情緒各異。",
+          "excerpt": "與《登樓》：均借歷史人物抒抱負；杜甫借後主諷今、借未遇諸葛自況，蘇軾以周瑜年少功成反襯自己失意華髮。兩者所借人物、對照重點及收束情緒各異。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "登樓",
+              "section": "原文第2組｜原文與語譯",
+              "pdfPage": 206,
+              "printedPage": 202,
+              "blockPath": "$[12].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+              "excerpt": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+              "essayId": "essay-13"
+            },
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "念奴嬌・赤壁懷古",
+              "section": "下片｜原文與語譯",
+              "pdfPage": 215,
+              "printedPage": 211,
+              "blockPath": "$[13].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+              "excerpt": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+              "essayId": "essay-14"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "text",
+          "<b>與《登樓》</b>：均借歷史人物抒抱負；杜甫借後主諷今、借未遇諸葛自況，蘇軾以周瑜年少功成反襯自己失意華髮。兩者所借人物、對照重點及收束情緒各異。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "登樓",
+          "section": "原文第2組｜原文與語譯",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "blockPath": "$[12].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          "excerpt": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          "essayId": "essay-13"
+        },
+        "resolvedBlock": [
+          "annot",
+          "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          [
+            [
+              "北極",
+              "北極星，喻朝廷",
+              "blue"
+            ],
+            [
+              "終",
+              "終究、始終",
+              "blue"
+            ],
+            [
+              "寇盜",
+              "指吐蕃侵略者",
+              "blue"
+            ],
+            [
+              "莫",
+              "不要",
+              "blue"
+            ],
+            [
+              "可憐",
+              "可嘆",
+              "blue"
+            ],
+            [
+              "後主",
+              "蜀漢後主劉禪",
+              "blue"
+            ],
+            [
+              "還",
+              "仍然、竟然還",
+              "blue"
+            ],
+            [
+              "日暮",
+              "傍晚",
+              "blue"
+            ],
+            [
+              "聊",
+              "姑且",
+              "blue"
+            ],
+            [
+              "梁甫吟",
+              "樂府篇名，聯繫諸葛亮",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "北極",
+              "meaning": "北極星，喻朝廷",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "終",
+              "meaning": "終究、始終",
+              "spans": [
+                [
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "寇盜",
+              "meaning": "指吐蕃侵略者",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "莫",
+              "meaning": "不要",
+              "spans": [
+                [
+                  12,
+                  13
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "可憐",
+              "meaning": "可嘆",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "後主",
+              "meaning": "蜀漢後主劉禪",
+              "spans": [
+                [
+                  18,
+                  20
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "還",
+              "meaning": "仍然、竟然還",
+              "spans": [
+                [
+                  20,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "日暮",
+              "meaning": "傍晚",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "聊",
+              "meaning": "姑且",
+              "spans": [
+                [
+                  26,
+                  27
+                ]
+              ]
+            },
+            {
+              "number": 10,
+              "word": "梁甫吟",
+              "meaning": "樂府篇名，聯繫諸葛亮",
+              "spans": [
+                [
+                  28,
+                  31
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "念奴嬌・赤壁懷古",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 215,
+          "printedPage": 211,
+          "blockPath": "$[13].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "excerpt": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "essayId": "essay-14"
+        },
+        "resolvedBlock": [
+          "annot",
+          "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          [
+            [
+              "公瑾",
+              "周瑜的字",
+              "blue"
+            ],
+            [
+              "雄姿英發",
+              "雄姿英偉、才華煥發",
+              "blue"
+            ],
+            [
+              "羽扇綸巾",
+              "儒將的扇與頭巾",
+              "blue"
+            ],
+            [
+              "檣櫓",
+              "船具，借代曹軍戰船",
+              "blue"
+            ],
+            [
+              "故國",
+              "赤壁故地、三國古戰場",
+              "blue"
+            ],
+            [
+              "神遊",
+              "在想像中遊歷",
+              "blue"
+            ],
+            [
+              "華髮",
+              "花白頭髮",
+              "blue"
+            ],
+            [
+              "尊",
+              "酒器，亦指一杯酒",
+              "blue"
+            ],
+            [
+              "酹",
+              "灑酒祭奠",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "公瑾",
+              "meaning": "周瑜的字",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雄姿英發",
+              "meaning": "雄姿英偉、才華煥發",
+              "spans": [
+                [
+                  13,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "羽扇綸巾",
+              "meaning": "儒將的扇與頭巾",
+              "spans": [
+                [
+                  18,
+                  22
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "檣櫓",
+              "meaning": "船具，借代曹軍戰船",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "故國",
+              "meaning": "赤壁故地、三國古戰場",
+              "spans": [
+                [
+                  34,
+                  36
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "神遊",
+              "meaning": "在想像中遊歷",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "華髮",
+              "meaning": "花白頭髮",
+              "spans": [
+                [
+                  47,
+                  49
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "尊",
+              "meaning": "酒器，亦指一杯酒",
+              "spans": [
+                [
+                  56,
+                  57
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "酹",
+              "meaning": "灑酒祭奠",
+              "spans": [
+                [
+                  58,
+                  59
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ]
+  },
+  "scope": "來源定位、原文錨點和版本核對；自動檢查不代替內容審題。"
+}

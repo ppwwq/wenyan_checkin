@@ -135,6 +135,15 @@ for ci,chapter in enumerate(data):
     if existing:
      known={x['questionId'] for x in existing['items']};existing['items'].extend(i for i in items if i['questionId'] not in known)
     else:comparisons.append({'id':f'compare-full-{ci+1:02d}-{pi:02d}-{target}','target':target,'title':f'「{target}」在不同語境中的用法','status':'reviewed','items':items})
+sys.path.insert(0,str(DIR.parent/'confusable'))
+from build_questions import add_confusable_questions
+questions,confusable_summary=add_confusable_questions(questions,comparisons)
+sys.path.insert(0,str(DIR.parent/'quality-revision'))
+from apply_quality import apply_quality
+questions,quality_revision_summary=apply_quality(questions)
+sys.path.insert(0,str(DIR.parent/'chapter-revision'))
+from apply_chapter import apply_sequence
+questions,chapter_revision_summary=apply_sequence(questions)
 by_essay=[]
 for essay in base['essays']:
  subset=[q for q in questions if essay['id'] in q['essayIds']]
@@ -144,6 +153,14 @@ report={'result':'PASS' if not errors else 'FAIL','version':'2026.09.19.2','ques
 if mcq_revision_summary:
  report['version']=mcq_revision_summary['version']
  report['mcqRevision']=mcq_revision_summary
+report['version']=confusable_summary['version']
+report['confusable']=confusable_summary
+if quality_revision_summary:
+ report['version']=quality_revision_summary['version']
+ report['qualityRevision']=quality_revision_summary
+if chapter_revision_summary:
+ report['version']=chapter_revision_summary['version']
+ report['chapterRevision']=chapter_revision_summary
 dump(DIR/'validation-report.json',report)
 print(json.dumps({k:report[k] for k in ['result','questions','newQuestions','sourceItems','mappedSourceItems','coverageStatus']},ensure_ascii=False))
 print('Errors:',len(errors),'Warnings:',len(warnings))
@@ -152,5 +169,8 @@ if errors:sys.exit(1)
 if '--audit' in sys.argv:sys.exit(0)
 bank={**base,'version':report['version'],'notice':'按所附復習書逐項整理的自編練習，非官方真題。爭議解讀另行列明，不強行判作唯一答案。','questions':questions,'comparisons':comparisons,'coverageSummary':{'sourceItems':len(inventory),'mappedSourceItems':len(inventory),'exceptions':len(report['exceptions'])}}
 if mcq_revision_summary:bank['mcqRevisionSummary']=mcq_revision_summary
+bank['confusableSummary']=confusable_summary
+if quality_revision_summary:bank['qualityRevisionSummary']=quality_revision_summary
+if chapter_revision_summary:bank['chapterRevisionSummary']=chapter_revision_summary
 dump(OUT/'bank.json',bank);dump(OUT/'coverage-report.json',report);dump(OUT/'source-coverage.json',coverage)
 print('Published local bank and coverage report; previous question IDs and snapshots preserved.')

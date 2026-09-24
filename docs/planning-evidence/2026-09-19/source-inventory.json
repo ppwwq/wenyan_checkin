@@ -1,0 +1,115 @@
+{
+  "pdf": "D:\\DSE中文甲部知识库\\10_输出成品\\文言原文留白_2026-09-14\\文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+  "actual_pages": 260,
+  "chapters": [
+    {
+      "chapter": "論仁、論孝、論君子",
+      "source_pages": 30,
+      "original_blocks": 16,
+      "vocab_entries": 115
+    },
+    {
+      "chapter": "魚我所欲也",
+      "source_pages": 14,
+      "original_blocks": 4,
+      "vocab_entries": 40
+    },
+    {
+      "chapter": "勸學",
+      "source_pages": 13,
+      "original_blocks": 4,
+      "vocab_entries": 58
+    },
+    {
+      "chapter": "逍遙遊",
+      "source_pages": 15,
+      "original_blocks": 5,
+      "vocab_entries": 51
+    },
+    {
+      "chapter": "廉頗藺相如列傳",
+      "source_pages": 33,
+      "original_blocks": 22,
+      "vocab_entries": 107
+    },
+    {
+      "chapter": "出師表",
+      "source_pages": 19,
+      "original_blocks": 8,
+      "vocab_entries": 64
+    },
+    {
+      "chapter": "師說",
+      "source_pages": 22,
+      "original_blocks": 7,
+      "vocab_entries": 40
+    },
+    {
+      "chapter": "始得西山宴遊記",
+      "source_pages": 27,
+      "original_blocks": 5,
+      "vocab_entries": 75
+    },
+    {
+      "chapter": "岳陽樓記",
+      "source_pages": 17,
+      "original_blocks": 5,
+      "vocab_entries": 58
+    },
+    {
+      "chapter": "六國論",
+      "source_pages": 18,
+      "original_blocks": 7,
+      "vocab_entries": 54
+    },
+    {
+      "chapter": "山居秋暝",
+      "source_pages": 10,
+      "original_blocks": 2,
+      "vocab_entries": 13
+    },
+    {
+      "chapter": "月下獨酌",
+      "source_pages": 14,
+      "original_blocks": 3,
+      "vocab_entries": 17
+    },
+    {
+      "chapter": "登樓",
+      "source_pages": 11,
+      "original_blocks": 2,
+      "vocab_entries": 18
+    },
+    {
+      "chapter": "念奴嬌・赤壁懷古",
+      "source_pages": 13,
+      "original_blocks": 2,
+      "vocab_entries": 20
+    },
+    {
+      "chapter": "聲聲慢・秋情",
+      "source_pages": 13,
+      "original_blocks": 2,
+      "vocab_entries": 18
+    },
+    {
+      "chapter": "青玉案・元夕",
+      "source_pages": 13,
+      "original_blocks": 2,
+      "vocab_entries": 18
+    }
+  ],
+  "block_counts": {
+    "band": 44,
+    "table": 157,
+    "head": 250,
+    "text": 338,
+    "annot": 96,
+    "vocab": 96,
+    "note": 83,
+    "pp": 16,
+    "polytable": 2
+  },
+  "vocab_occurrences": 766,
+  "unique_chapter_word_meaning": 713
+}

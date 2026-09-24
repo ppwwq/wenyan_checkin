@@ -1,0 +1,101 @@
+[
+  {
+    "file": "01-login.png",
+    "title": "1 · 登录",
+    "dimensions": [
+      378,
+      508
+    ],
+    "note": "表单结构清楚；初始窄面板。"
+  },
+  {
+    "file": "02-setup-390.png",
+    "title": "2 · 首次设置",
+    "dimensions": [
+      375,
+      504
+    ],
+    "note": "此图为初始窄面板局部；390px另测页面5819px、82个复选框。"
+  },
+  {
+    "file": "03-home-390.png",
+    "title": "3 · 首页",
+    "dimensions": [
+      375,
+      1196
+    ],
+    "note": "主操作明确；范围截断、同步状态隐藏。"
+  },
+  {
+    "file": "04-question-390.png",
+    "title": "4 · 题目",
+    "dimensions": [
+      375,
+      1279
+    ],
+    "note": "原文与题面区分明确，需滚动读完。"
+  },
+  {
+    "file": "05-explanation-390.png",
+    "title": "5 · 错答解析",
+    "dimensions": [
+      375,
+      2072
+    ],
+    "note": "突出具体误解；完整解析可展开。"
+  },
+  {
+    "file": "06-retry-home-390.png",
+    "title": "6 · 暂停与回练",
+    "dimensions": [
+      375,
+      1421
+    ],
+    "note": "可立即回练；今日首次和回练分别统计。"
+  },
+  {
+    "file": "07-retry-complete-390.png",
+    "title": "7 · 回练完成",
+    "dimensions": [
+      375,
+      2468
+    ],
+    "note": "1题却列出16篇，其中15篇0题。"
+  },
+  {
+    "file": "08-history-390.png",
+    "title": "8 · 学习记录",
+    "dimensions": [
+      375,
+      1305
+    ],
+    "note": "首次错答与回练正确都保留，次日仍有1项。"
+  },
+  {
+    "file": "09-account-390.png",
+    "title": "9 · 我的",
+    "dimensions": [
+      375,
+      1077
+    ],
+    "note": "备份入口齐全；文案误称此iPad，无待传数量。"
+  },
+  {
+    "file": "10-setup-768.png",
+    "title": "10 · 平板设置",
+    "dimensions": [
+      753,
+      3321
+    ],
+    "note": "双列可用，设置列表仍很长。"
+  },
+  {
+    "file": "11-weakness-390.png",
+    "title": "11 · 手机薄弱页",
+    "dimensions": [
+      375,
+      811
+    ],
+    "note": "需要横向移动才能看全四类，篇名列过窄。"
+  }
+]

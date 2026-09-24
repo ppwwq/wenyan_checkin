@@ -1,0 +1,40 @@
+{
+  "result": "PASS",
+  "origin": "https://chinese-a-study.philipwwq.workers.dev",
+  "checks": [
+    {
+      "path": "/",
+      "status": 200
+    },
+    {
+      "path": "/api/health",
+      "status": 200
+    },
+    {
+      "path": "/content/bank.json",
+      "status": 200,
+      "questions": 2131,
+      "matchesLocal": true
+    },
+    {
+      "path": "/sw.js",
+      "status": 200
+    },
+    {
+      "path": "source PDF range",
+      "status": 206
+    },
+    {
+      "path": "/backend/data/study.sqlite",
+      "status": 404
+    },
+    {
+      "path": "/.dev.vars",
+      "status": 404
+    },
+    {
+      "path": "/api/internal/import",
+      "status": 404
+    }
+  ]
+}

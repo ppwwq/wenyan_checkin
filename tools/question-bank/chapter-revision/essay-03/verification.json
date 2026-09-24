@@ -1,0 +1,60 @@
+{
+  "result": "PASS",
+  "bankVersion": "2026.09.23.9",
+  "uiVersion": "2026.09.23.4",
+  "bankSha256": "3deca8da2cd53e47bc9ed33448fd77386b3719cca0e099e21be7ffd914d9a2f8",
+  "chapterRevision": {
+    "version": "2026.09.23.9",
+    "baselineVersion": "2026.09.23.8",
+    "essayId": "essay-03",
+    "questions": 110,
+    "explanationsRewritten": 110,
+    "optionTextChangedQuestions": 25,
+    "changedOptionTexts": 47,
+    "stemChanged": 2,
+    "highlightChanged": 2,
+    "untouchedQuestions": 2024,
+    "independentReview": "not-run",
+    "studentTrial": "not-run",
+    "scope": "按篇章全題修訂；作者自檢。先前 qualityRevisionSummary 只記舊版階段，不代表本版改寫後仍獲獨立覆核。",
+    "currentReviewMethods": {
+      "source-review-and-author-self-check": 446,
+      "source-aligned-agent-review": 567,
+      "context-vocabulary-distractor-review": 57,
+      "source-review-and-agent-cross-review": 208,
+      "contextual-mcq-review": 201,
+      "source-grounded-mcq-revision": 85,
+      "text-grounded-mcq-editorial-review": 499,
+      "source-preserving-mcq-review": 71
+    }
+  },
+  "sourceLocatorsChecked": 155,
+  "freshPdfPagesChecked": 11,
+  "sourceErrors": [],
+  "wholeBankQuestions": 2134,
+  "currentUniqueChapterRevisions": 446,
+  "unchangedFromPreviousVersion": 2024,
+  "previousChapterQuestionsUnchanged": true,
+  "tests": {
+    "chapterProtectionAndSequence": {
+      "passCount": 10,
+      "failCount": 0
+    },
+    "application": {
+      "passCount": 46,
+      "failCount": 0
+    },
+    "fullBankStructureAndSources": "PASS",
+    "rebuildSameSha256": true,
+    "localBuild": "PASS",
+    "builtBankMatchesSource": true
+  },
+  "reportCards": 110,
+  "externalReportResources": [],
+  "reviewMethod": "source-review-and-author-self-check",
+  "teacherValidation": "not-run",
+  "studentTrial": "not-run",
+  "browserVisualValidation": "not-run",
+  "deployment": "not-run",
+  "nextChapter": "essay-04 逍遙遊 97 questions"
+}

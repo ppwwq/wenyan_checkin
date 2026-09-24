@@ -1,0 +1,45 @@
+{
+  "bankSha256": "9cecd2342672deff158b1234b9a3f667a1a1b4115dcca709f998686c365aa54a",
+  "questions": 2134,
+  "options": 8536,
+  "wrongOptions": 6402,
+  "authorReviewedQuestions": 60,
+  "authorReviewedOptions": 240,
+  "semanticPending": 2074,
+  "ruleFlags": {
+    "correct_uniquely_longest": 442,
+    "known_dispute_context": 89,
+    "generic_reason": 153,
+    "echo_rationale": 590,
+    "same_wrong_rationales": 177,
+    "all_wrong_absolute": 7
+  },
+  "candidateDispositions": {
+    "specialist": 7,
+    "revise-options": 30,
+    "revise-explanation": 7,
+    "core": 10,
+    "revise-material": 5,
+    "hold-source": 1
+  },
+  "liveBankUnchanged": true,
+  "rawCallStatuses": {
+    "completed": 355,
+    "abstained": 5
+  },
+  "probeCallStatuses": {
+    "completed": 32
+  },
+  "adoption": {
+    "semanticQuality": "disabled_for_full_bank_decisions",
+    "reason": "pilot agreement is insufficient; no model label can approve, remove or grade a question"
+  },
+  "notPerformed": [
+    "full-bank source-reading",
+    "teacher validation",
+    "student trial",
+    "live bank/app changes",
+    "deployment",
+    "current conversation native tool reload"
+  ]
+}

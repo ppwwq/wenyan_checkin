@@ -1,0 +1,337 @@
+{
+  "Result": "PASS",
+  "CompletedAt": "2026-09-20T12:24:23.0152798Z",
+  "Root": "D:\\wenyan_checkin",
+  "Scope": "Regenerable Flutter/Android compilation caches, isolated legacy browser test profiles and Python bytecode only.",
+  "RemovedDirectories": 54,
+  "RemovedFiles": 12390.0,
+  "RemovedLogicalBytes": 8014830999.0,
+  "RemovedGiB": 7.464,
+  "Preserved": [
+    "All application source and uncommitted work",
+    "Current web-study dist and complete question bank",
+    "Account databases, settings and secrets",
+    "Historical APKs and release packages",
+    "Verification reports, screenshots and helper scripts",
+    "Git repositories, worktree registrations and Android virtual device"
+  ],
+  "Verification": {
+    "ExistingRetainedFilesChecked": 6612,
+    "RetainedFileHashDifferences": [],
+    "RepositoriesBeforeAddingThisReport": [
+      {
+        "Repository": ".",
+        "HeadUnchanged": true,
+        "StatusUnchanged": true
+      },
+      {
+        "Repository": ".worktrees\\bug-audit-fixes",
+        "HeadUnchanged": true,
+        "StatusUnchanged": true
+      },
+      {
+        "Repository": ".worktrees\\chinese-a-offline",
+        "HeadUnchanged": true,
+        "StatusUnchanged": true
+      },
+      {
+        "Repository": ".publish\\github",
+        "HeadUnchanged": true,
+        "StatusUnchanged": true
+      }
+    ],
+    "ApplicationTests": {
+      "BeforeCleanup": 32,
+      "Failed": 0,
+      "AfterCleanup": 32
+    },
+    "QuestionBankTests": {
+      "Passed": 7,
+      "Failed": 0
+    },
+    "IsolatedBuild": {
+      "Result": "PASS",
+      "FilesCompared": 32,
+      "IgnoredField": "build-info.json builtAt",
+      "UiVersion": "2026.09.20.3",
+      "BankVersion": "2026.09.20.1",
+      "Questions": 2131,
+      "ExistingDistModified": false
+    },
+    "AllCleanupTargetsAbsent": true,
+    "CloudDeploymentPerformed": false,
+    "VerificationScope": "Filesystem integrity, automated application/question-bank tests and an isolated web build. No new physical-device or manual UI acceptance performed."
+  },
+  "DeletedTargets": [
+    {
+      "RelativePath": "build\\app\\intermediates",
+      "Files": 615,
+      "Bytes": 676308809
+    },
+    {
+      "RelativePath": "build\\app\\tmp",
+      "Files": 4,
+      "Bytes": 54447
+    },
+    {
+      "RelativePath": "build\\app\\kotlin",
+      "Files": 79,
+      "Bytes": 423124
+    },
+    {
+      "RelativePath": "build\\.cxx",
+      "Files": 97,
+      "Bytes": 702217
+    },
+    {
+      "RelativePath": "build\\test_cache",
+      "Files": 1,
+      "Bytes": 46968976
+    },
+    {
+      "RelativePath": "build\\unit_test_assets",
+      "Files": 25,
+      "Bytes": 3895869
+    },
+    {
+      "RelativePath": ".dart_tool\\flutter_build",
+      "Files": 54,
+      "Bytes": 126375856
+    },
+    {
+      "RelativePath": ".dart_tool\\hooks_runner",
+      "Files": 51,
+      "Bytes": 68051831
+    },
+    {
+      "RelativePath": ".worktrees\\bug-audit-fixes\\build\\test_cache",
+      "Files": 1,
+      "Bytes": 49278368
+    },
+    {
+      "RelativePath": ".worktrees\\bug-audit-fixes\\build\\unit_test_assets",
+      "Files": 25,
+      "Bytes": 3895898
+    },
+    {
+      "RelativePath": ".worktrees\\bug-audit-fixes\\.dart_tool\\flutter_build",
+      "Files": 24,
+      "Bytes": 35089997
+    },
+    {
+      "RelativePath": ".worktrees\\bug-audit-fixes\\.dart_tool\\hooks_runner",
+      "Files": 21,
+      "Bytes": 26997974
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\app\\intermediates",
+      "Files": 2344,
+      "Bytes": 2852587625
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\app\\tmp",
+      "Files": 14,
+      "Bytes": 144916
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\app\\kotlin",
+      "Files": 174,
+      "Bytes": 1034594
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\.cxx",
+      "Files": 194,
+      "Bytes": 1415842
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\test_cache",
+      "Files": 2,
+      "Bytes": 101937016
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\unit_test_assets",
+      "Files": 33,
+      "Bytes": 35463430
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\.dart_tool\\flutter_build",
+      "Files": 162,
+      "Bytes": 352607471
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\.dart_tool\\hooks_runner",
+      "Files": 102,
+      "Bytes": 142375384
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\browser-probe-profile",
+      "Files": 324,
+      "Bytes": 133255792
+    },
+    {
+      "RelativePath": "tools\\question-bank\\__pycache__",
+      "Files": 1,
+      "Bytes": 2019
+    },
+    {
+      "RelativePath": "tools\\question-bank\\full-expansion\\__pycache__",
+      "Files": 1,
+      "Bytes": 57952
+    },
+    {
+      "RelativePath": "tools\\question-bank\\mcq-revision\\__pycache__",
+      "Files": 2,
+      "Bytes": 15887
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\tool\\__pycache__",
+      "Files": 1,
+      "Bytes": 10046
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\web-e2e\\profile-9t3AQQ",
+      "Files": 303,
+      "Bytes": 135039595
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\web-e2e\\profile-AxultD",
+      "Files": 306,
+      "Bytes": 136678512
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\web-e2e\\profile-GxKIkM",
+      "Files": 306,
+      "Bytes": 136849895
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\web-e2e\\profile-iHIybA",
+      "Files": 327,
+      "Bytes": 139781576
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\web-e2e\\profile-KcJgcA",
+      "Files": 286,
+      "Bytes": 135512364
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\web-e2e\\profile-uwjjMS",
+      "Files": 306,
+      "Bytes": 136728426
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\web-e2e\\profile-vqdHSF",
+      "Files": 328,
+      "Bytes": 138248065
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\web-e2e\\profile-xCp115",
+      "Files": 306,
+      "Bytes": 138208958
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\web-e2e\\profile-YTlCrc",
+      "Files": 301,
+      "Bytes": 133444471
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\web-e2e\\update-profile-iHIybA",
+      "Files": 62,
+      "Bytes": 52274744
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\web-e2e\\update-profile-vqdHSF",
+      "Files": 62,
+      "Bytes": 52049834
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\web-e2e\\update-profile-xCp115",
+      "Files": 62,
+      "Bytes": 52274744
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\pages-live\\android-4qvSTX",
+      "Files": 298,
+      "Bytes": 116980329
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\pages-live\\android-aYUJjn",
+      "Files": 319,
+      "Bytes": 122109258
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\pages-live\\android-CThTPo",
+      "Files": 320,
+      "Bytes": 120308825
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\pages-live\\android-dDAARx",
+      "Files": 234,
+      "Bytes": 55553319
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\pages-live\\android-dYsiv5",
+      "Files": 320,
+      "Bytes": 122259028
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\pages-live\\android-lVwTdI",
+      "Files": 296,
+      "Bytes": 116665062
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\pages-live\\android-p4cOWV",
+      "Files": 299,
+      "Bytes": 120313673
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\pages-live\\android-rfWw2u",
+      "Files": 298,
+      "Bytes": 117075711
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\pages-live\\tablet-9Lozfp",
+      "Files": 297,
+      "Bytes": 115234957
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\pages-live\\tablet-CZpqPd",
+      "Files": 301,
+      "Bytes": 117473882
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\pages-live\\tablet-Gu9UAQ",
+      "Files": 300,
+      "Bytes": 121469358
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\pages-live\\tablet-k5n9xX",
+      "Files": 299,
+      "Bytes": 120441363
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\pages-live\\tablet-l1VPa3",
+      "Files": 299,
+      "Bytes": 121196336
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\pages-live\\tablet-ot7ovL",
+      "Files": 302,
+      "Bytes": 121839151
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\pages-live\\tablet-P7k0wX",
+      "Files": 301,
+      "Bytes": 117570957
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\pages-live\\tablet-Q2zY46",
+      "Files": 299,
+      "Bytes": 120927561
+    },
+    {
+      "RelativePath": ".worktrees\\chinese-a-offline\\build\\verification\\pages-live\\tablet-uxN3Qe",
+      "Files": 302,
+      "Bytes": 121369705
+    }
+  ]
+}

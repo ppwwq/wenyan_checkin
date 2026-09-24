@@ -1,0 +1,61 @@
+{
+  "result": "PASS",
+  "bankVersion": "2026.09.23.14",
+  "bankSha256": "7ce5548386dc79ecf491b27fb07b39a40fdb6365ef95c776ec45ac62d05249d5",
+  "uiVersion": "2026.09.23.4",
+  "branch": "codex/chapter-optimization-20260923",
+  "chapterRevision": {
+    "version": "2026.09.23.14",
+    "baselineVersion": "2026.09.23.13",
+    "essayId": "essay-08",
+    "questions": 139,
+    "explanationsRewritten": 139,
+    "optionTextChangedQuestions": 35,
+    "changedOptionTexts": 78,
+    "stemChanged": 10,
+    "highlightChanged": 0,
+    "untouchedQuestions": 1995,
+    "independentReview": "not-run",
+    "studentTrial": "not-run",
+    "scope": "按篇章全題修訂；作者自檢。先前 qualityRevisionSummary 只記舊版階段，不代表本版改寫後仍獲獨立覆核。",
+    "currentReviewMethods": {
+      "source-review-and-author-self-check": 1204,
+      "source-aligned-agent-review": 567,
+      "context-vocabulary-distractor-review": 57,
+      "source-review-and-agent-cross-review": 77,
+      "text-grounded-mcq-editorial-review": 158,
+      "source-preserving-mcq-review": 71
+    }
+  },
+  "sourceLocatorsChecked": 261,
+  "freshPdfPagesChecked": 22,
+  "sourceErrors": [],
+  "wholeBankQuestions": 2134,
+  "currentUniqueChapterRevisions": 1204,
+  "unchangedFromPreviousVersion": 1995,
+  "priorChapterCrossEssayQuestionsUpdated": 1,
+  "priorChapterOtherQuestionsUnchanged": 1065,
+  "identityAnswerMemoryQuoteSourcesAndTargetsPreserved": true,
+  "tests": {
+    "chapterProtectionAndSequence": {
+      "passCount": 10,
+      "failCount": 0
+    },
+    "application": {
+      "passCount": 46,
+      "failCount": 0
+    },
+    "fullBankStructureAndSources": "PASS",
+    "rebuildSameSha256": true,
+    "localBuild": "PASS",
+    "builtBankMatchesSource": true
+  },
+  "reportCards": 139,
+  "externalReportResources": [],
+  "reviewMethod": "source-review-and-author-self-check",
+  "teacherValidation": "not-run",
+  "studentTrial": "not-run",
+  "browserVisualValidation": "not-run",
+  "deployment": "not-run",
+  "nextChapter": "essay-09 岳陽樓記 162 questions"
+}

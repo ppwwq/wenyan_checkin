@@ -1,0 +1,9 @@
+{
+  "result": "PASS",
+  "checks": [
+    "unauthorized import refused",
+    "original scrypt password and user identity preserved",
+    "original event IDs and Chinese payload preserved",
+    "repeat import cannot overwrite data"
+  ]
+}

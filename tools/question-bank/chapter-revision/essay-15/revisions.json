@@ -1,0 +1,3158 @@
+{
+  "baselineVersion": "2026.09.23.20",
+  "date": "2026-09-23",
+  "author": "Codex chapter author",
+  "reviewMethod": "source-review-and-author-self-check",
+  "records": [
+    {
+      "id": "q-e15-exp-001",
+      "ordinal": 1,
+      "baseQuestionHash": "279d47dcd5e3b582409ce88a73ec9db7769ce2ba646ae4cea1b47c62ff8ea46b",
+      "patch": {
+        "explanation": "將息是調養休息，最難說詞人身心在冷暖不定時難以安頓。這是自己的調養處境，不把將拆成將要、息拆成風停，也不是特指呼吸控制。",
+        "summary": "將息是調養休息，最難說詞人身心在冷暖不定時難以安頓。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "調養休息",
+            "explanation": "將息是調養休息，最難說詞人身心在冷暖不定時難以安頓。"
+          },
+          {
+            "id": "b",
+            "text": "等待風停",
+            "explanation": "不是把將當將要、息當風止來拆讀。"
+          },
+          {
+            "id": "c",
+            "text": "控制呼吸",
+            "explanation": "將息在此不是特定呼吸動作。"
+          },
+          {
+            "id": "d",
+            "text": "安慰他人",
+            "explanation": "調養的是詞人自身，沒有安慰對象。"
+          }
+        ],
+        "misconception": "不是把將當將要、息當風止來拆讀；將息在此不是特定呼吸動作；調養的是詞人自身，沒有安慰對象。"
+      },
+      "objective": "原句中「將息」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e15-exp-002",
+      "ordinal": 2,
+      "baseQuestionHash": "a5570794b5ef716b6c9ee5a6c7d4e7ab200ae0ee5eec60d2aecacfc3d9a9b66d",
+      "patch": {
+        "explanation": "敵是抵擋，怎敵反問酒力如何抗得住急風。它由外在風寒連內心難解的愁，不是詞人敵視風，也非向風主動進攻或比較數量是否相配。",
+        "summary": "敵是抵擋，怎敵反問酒力如何抗得住急風。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "敵視",
+            "explanation": "不是對風懷有敵意。"
+          },
+          {
+            "id": "b",
+            "text": "匹配",
+            "explanation": "不是把兩個數量配平。"
+          },
+          {
+            "id": "c",
+            "text": "進攻",
+            "explanation": "方向是抵禦風寒，而非主動進攻。"
+          },
+          {
+            "id": "d",
+            "text": "抵擋",
+            "explanation": "敵是抵擋，怎敵反問酒力如何抗得住急風。"
+          }
+        ],
+        "misconception": "不是對風懷有敵意；不是把兩個數量配平；方向是抵禦風寒，而非主動進攻。"
+      },
+      "objective": "原句中「敵」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e15-exp-003",
+      "ordinal": 3,
+      "baseQuestionHash": "d9ac2bfbf5a16841d23c11a6cc5dc2a08238fc98e6683f2f62655de6d2be26fb",
+      "patch": {
+        "explanation": "黃花在本詞指菊花，與秋情及人花憔悴的聯想相連。名稱是詩詞中的慣用指稱，不能只按黃色外觀判油菜花，或因冷而換成梅花。",
+        "summary": "黃花在本詞指菊花，與秋情及人花憔悴的聯想相連。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "桂花",
+            "explanation": "同為秋花，但黃花慣指菊花，非桂。"
+          },
+          {
+            "id": "b",
+            "text": "梅花",
+            "explanation": "不能因下文寒意便移作梅花。"
+          },
+          {
+            "id": "c",
+            "text": "菊花",
+            "explanation": "黃花在本詞指菊花，與秋情及人花憔悴的聯想相連。"
+          },
+          {
+            "id": "d",
+            "text": "油菜花",
+            "explanation": "同呈黃色不代表詩詞慣用名稱相同。"
+          }
+        ],
+        "misconception": "同為秋花，但黃花慣指菊花，非桂；不能因下文寒意便移作梅花；同呈黃色不代表詩詞慣用名稱相同。"
+      },
+      "objective": "原句中「黃花」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e15-exp-004",
+      "ordinal": 4,
+      "baseQuestionHash": "166324b6cd9714dc37aaa9127a392a7a1be26f0e833d9d81f01e244e96536cf3",
+      "patch": {
+        "explanation": "次第是光景情形，這次第回收前面尋覓、風酒、雁花與守窗聽雨的種種苦況。此處不是排列先後或預告下一階段，而是為結尾愁難說盡作總括。",
+        "summary": "次第是光景情形，這次第回收前面尋覓、風酒、雁花與守窗聽雨的種種苦況。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "先後順序",
+            "explanation": "常見義但此處「這」總指目前光景，非排列次序。"
+          },
+          {
+            "id": "b",
+            "text": "光景、情形",
+            "explanation": "次第是光景情形，這次第回收前面尋覓、風酒、雁花與守窗聽雨的種種苦況。"
+          },
+          {
+            "id": "c",
+            "text": "下一階段",
+            "explanation": "不是預告後續階段。"
+          },
+          {
+            "id": "d",
+            "text": "往日的某次經歷",
+            "explanation": "這次第收眼前種種感受，不限往日單次事件。"
+          }
+        ],
+        "misconception": "常見義但此處「這」總指目前光景，非排列次序；不是預告後續階段；這次第收眼前種種感受，不限往日單次事件。"
+      },
+      "objective": "原句中「次第」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "q-e15-exp-005",
+      "ordinal": 5,
+      "baseQuestionHash": "0c0261375b713d4b43cabebb34fc8806798cddf56063af2896ef302cb8e26d24",
+      "patch": {
+        "explanation": "了得是概括得了、說得盡，所問是一個愁字能否容下種種痛苦。反問的答案是否定，並非事情已結束、身體承受不了，亦非現代讚人本領了得。",
+        "summary": "了得是概括得了、說得盡，所問是一個愁字能否容下種種痛苦。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "概括、說盡",
+            "explanation": "了得是概括得了、說得盡，所問是一個愁字能否容下種種痛苦。"
+          },
+          {
+            "id": "b",
+            "text": "承受得住",
+            "explanation": "不是直接問身體能否承受。"
+          },
+          {
+            "id": "c",
+            "text": "事情結束",
+            "explanation": "所問是愁字能否說盡，不是事件終止。"
+          },
+          {
+            "id": "d",
+            "text": "本領高強",
+            "explanation": "現代「十分了得」的評語不合句法。"
+          }
+        ],
+        "misconception": "不是直接問身體能否承受；所問是愁字能否說盡，不是事件終止；現代「十分了得」的評語不合句法。"
+      },
+      "objective": "原句中「了得」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e15-exp-006",
+      "ordinal": 6,
+      "baseQuestionHash": "17e594513722c7b9ec574eb63af102676b3d36f1c3e8af0a35225e67bd1ede97",
+      "patch": {
+        "explanation": "怎生得黑把熬到天黑寫成難題，突出孤身守窗的時間漫長。這是度日如年的主觀感受，白日已有悲情，不是光陰飛逝或天黑才開始排愁。",
+        "summary": "怎生得黑把熬到天黑寫成難題，突出孤身守窗的時間漫長。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "獨守使詞人感到光陰飛逝，來不及回憶舊日生活",
+            "explanation": "怎生得黑是難熬，非太快。"
+          },
+          {
+            "id": "b",
+            "text": "盼天黑是為了能開始排愁，因此白日尚沒有悲情",
+            "explanation": "前文已有悲戚，非到夜才愁。"
+          },
+          {
+            "id": "c",
+            "text": "句中只客觀交代由白日至夜晚，不帶主觀時間感",
+            "explanation": "怎生突出如何捱過的感受，非純報時。"
+          },
+          {
+            "id": "d",
+            "text": "孤身無伴，白日難熬，盼能捱到天黑",
+            "explanation": "怎生得黑把熬到天黑寫成難題，突出孤身守窗的時間漫長。"
+          }
+        ],
+        "misconception": "怎生得黑是難熬，非太快；前文已有悲戚，非到夜才愁；怎生突出如何捱過的感受，非純報時。"
+      },
+      "objective": "「守着窗兒，獨自怎生得黑」表現甚麼時間感受？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "q-e15-exp-007",
+      "ordinal": 7,
+      "baseQuestionHash": "46385e40b26273aa1112cf27965e1414a3307898855d15234908632ca2e9cb29",
+      "patch": {
+        "explanation": "這次第總收前文苦況，怎一箇反問一個愁字豈能說盡。末句以不能概括反而加深悲苦的豐富難言，不只是最後雨聲，也不是情感已全部說清。",
+        "summary": "這次第總收前文苦況，怎一箇反問一個愁字豈能說盡。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "這次第只指緊接前句的雨聲，與此前酒雁黃花無關",
+            "explanation": "這次第總括此前情境，不能只限雨聲。"
+          },
+          {
+            "id": "b",
+            "text": "末句用了愁字，便表示各種情緒已被完全說清而無餘味",
+            "explanation": "怎…了得反問正表一字不足。"
+          },
+          {
+            "id": "c",
+            "text": "總括前文種種處境，以反問強調悲苦難以盡言",
+            "explanation": "這次第總收前文苦況，怎一箇反問一個愁字豈能說盡。"
+          },
+          {
+            "id": "d",
+            "text": "問句沒有寫明答案，所以不能判斷詞人是否覺得愁深",
+            "explanation": "語境肯定愁難盡言，不是無方向問句。"
+          }
+        ],
+        "misconception": "這次第總括此前情境，不能只限雨聲；怎…了得反問正表一字不足；語境肯定愁難盡言，不是無方向問句。"
+      },
+      "objective": "「這次第，怎一箇愁字了得」怎樣收束全詞？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e15-exp-008",
+      "ordinal": 8,
+      "baseQuestionHash": "f2bff5020c72ce10b55d3ed739975dae9eda8eaa422da21f309a2315c151e877",
+      "patch": {
+        "explanation": "尋尋覓覓先寫反覆動作，冷冷清清再寫外境及孤冷，悽慘戚戚深入內心。尋而無得使情緒層層加重，疊字有聲情作用，卻不能推出具體生平事件的時序。",
+        "summary": "尋尋覓覓先寫反覆動作，冷冷清清再寫外境及孤冷，悽慘戚戚深入內心。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "三組都只寫內心，尋覓的行動與冷清的環境只是同義重複",
+            "explanation": "行動環境內心各有層次，非同義。"
+          },
+          {
+            "id": "b",
+            "text": "由反覆尋覓的動作，至環境冷落，再深入內心悲戚",
+            "explanation": "尋尋覓覓先寫反覆動作，冷冷清清再寫外境及孤冷，悽慘戚戚深入內心。"
+          },
+          {
+            "id": "c",
+            "text": "三組依情緒由強至弱排列，逐步從悲痛恢復平靜",
+            "explanation": "由失落冷清深入悲戚，非趨平。"
+          },
+          {
+            "id": "d",
+            "text": "只因疊字數目增加，就可判斷具體家國與婚姻事件的先後",
+            "explanation": "形式可加強聲情，不能推具體事件時間表。"
+          }
+        ],
+        "misconception": "行動環境內心各有層次，非同義；由失落冷清深入悲戚，非趨平；形式可加強聲情，不能推具體事件時間表。"
+      },
+      "objective": "開首「尋尋覓覓，冷冷清清，悽悽慘慘戚戚」如何逐層推進？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "q-appendix-005",
+      "ordinal": 9,
+      "baseQuestionHash": "79767e4dcb1d92c297c104a07671dd1ad07b9277aa176bad3866c022d4c15313",
+      "patch": {
+        "explanation": "七組是七個單字各自重複：尋、覓、冷、清、悽、慘、戚，共十四字。辨疊字要看同字相連，不把尋覓整詞重說、後文點滴或詞牌聲聲混入。",
+        "summary": "七組是七個單字各自重複：尋、覓、冷、清、悽、慘、戚，共十四字。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "尋覓、冷清、悽慘、慘戚、尋冷、覓清、悽戚",
+            "explanation": "多是不同字連用，非七組疊字。"
+          },
+          {
+            "id": "b",
+            "text": "尋尋、覓覓、冷冷、清清、點點、滴滴、聲聲",
+            "explanation": "後三項不是本詞開首的三組。"
+          },
+          {
+            "id": "c",
+            "text": "尋覓、尋覓、冷清、冷清、悽慘、悽慘、戚戚",
+            "explanation": "把原有同字重疊改成詞組反覆。"
+          },
+          {
+            "id": "d",
+            "text": "尋尋、覓覓、冷冷、清清、悽悽、慘慘、戚戚",
+            "explanation": "七組是七個單字各自重複：尋、覓、冷、清、悽、慘、戚，共十四字。"
+          }
+        ],
+        "misconception": "多是不同字連用，非七組疊字；後三項不是本詞開首的三組；把原有同字重疊改成詞組反覆。"
+      },
+      "objective": "《聲聲慢》開首哪一組完整列出七組疊字？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-01-03-00",
+      "ordinal": 10,
+      "baseQuestionHash": "f2ecc4aade0ffa63c57b1f2e0dfd13fe057430a617224eefabec8ee1d569e60d",
+      "patch": {
+        "explanation": "尋尋覓覓是反覆尋找、若有所失，詞面未明指具體物件。接着冷清悲戚表求慰藉而無所得，不能擅補赴約友人或把動作改為日常整理物品。",
+        "summary": "尋尋覓覓是反覆尋找、若有所失，詞面未明指具體物件。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "反覆尋找、若有所失",
+            "explanation": "尋尋覓覓是反覆尋找、若有所失，詞面未明指具體物件。"
+          },
+          {
+            "id": "b",
+            "text": "反覆察看，留意節令變化",
+            "explanation": "不只留意季節，重若失而尋。"
+          },
+          {
+            "id": "c",
+            "text": "四處尋訪，等待友人赴約",
+            "explanation": "沒有預定友人赴約的情節。"
+          },
+          {
+            "id": "d",
+            "text": "逐一檢點，整理眼前物件",
+            "explanation": "清點物品不足表尋而無得的心緒。"
+          }
+        ],
+        "misconception": "不只留意季節，重若失而尋；沒有預定友人赴約的情節；清點物品不足表尋而無得的心緒。"
+      },
+      "objective": "根據題引的上下文，「尋尋覓覓」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-01-03-01",
+      "ordinal": 11,
+      "baseQuestionHash": "eb1935286f97cd2494dfdd9722565625293ad195b2e420da9ee1323f2830fa92",
+      "patch": {
+        "explanation": "冷冷清清寫環境寂靜冷落，又映詞人的內心孤冷。它接在反覆尋覓之後，是未得慰藉的結果，非安然淡泊，亦非純粹天氣或待人禮貌。",
+        "summary": "冷冷清清寫環境寂靜冷落，又映詞人的內心孤冷。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "心境平靜淡泊",
+            "explanation": "淡泊偏平靜自足，此處接悲戚。"
+          },
+          {
+            "id": "b",
+            "text": "天氣寒冷清爽",
+            "explanation": "不是只報冷暖溫度。"
+          },
+          {
+            "id": "c",
+            "text": "環境寂靜冷落",
+            "explanation": "冷冷清清寫環境寂靜冷落，又映詞人的內心孤冷。"
+          },
+          {
+            "id": "d",
+            "text": "言談疏淡客氣",
+            "explanation": "未寫與人言談，無疏淡客套。"
+          }
+        ],
+        "misconception": "淡泊偏平靜自足，此處接悲戚；不是只報冷暖溫度；未寫與人言談，無疏淡客套。"
+      },
+      "objective": "根據題引的上下文，「冷冷清清」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-01-03-02",
+      "ordinal": 12,
+      "baseQuestionHash": "1231093ded51a497bfbb75ebec9847839e625f6a3988e21365ad4e5f0247c8d3",
+      "patch": {
+        "explanation": "悽悽慘慘戚戚直接寫內心悲慘，承尋覓和冷清把愁推深。它與先前動作、環境有層次差別，不能全解成景物暗淡或身體疲弱。",
+        "summary": "悽悽慘慘戚戚直接寫內心悲慘，承尋覓和冷清把愁推深。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "景物蕭條暗淡",
+            "explanation": "這組直接表情緒，非只景色。"
+          },
+          {
+            "id": "b",
+            "text": "內心悽慘悲戚",
+            "explanation": "悽悽慘慘戚戚直接寫內心悲慘，承尋覓和冷清把愁推深。"
+          },
+          {
+            "id": "c",
+            "text": "身體疲憊無力",
+            "explanation": "悲戚是精神感受，非只體力不足。"
+          },
+          {
+            "id": "d",
+            "text": "話語哀婉低沉",
+            "explanation": "詞未記說話音量，重內心悲痛。"
+          }
+        ],
+        "misconception": "這組直接表情緒，非只景色；悲戚是精神感受，非只體力不足；詞未記說話音量，重內心悲痛。"
+      },
+      "objective": "根據題引的上下文，「悽悽慘慘戚戚」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-01-03-03",
+      "ordinal": 13,
+      "baseQuestionHash": "24d76e64965010d90b9134d4d5f26c1783931cf39b67688100ba8e69343ee161",
+      "patch": {
+        "explanation": "乍煖還寒是剛暖又冷、冷暖不定，還表示又轉寒。放在秋情語境可解一天內氣溫反覆，不必按慣用印象判春天，也不是氣温一直單向變化。",
+        "summary": "乍煖還寒是剛暖又冷、冷暖不定，還表示又轉寒。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "暖意持續增加",
+            "explanation": "持續升暖漏又寒。"
+          },
+          {
+            "id": "b",
+            "text": "寒意逐日加深",
+            "explanation": "逐日更寒漏忽暖及反覆。"
+          },
+          {
+            "id": "c",
+            "text": "暖春已替寒冬",
+            "explanation": "本詞秋景不能改成春已替冬。"
+          },
+          {
+            "id": "d",
+            "text": "剛暖又寒，冷暖不定",
+            "explanation": "乍煖還寒是剛暖又冷、冷暖不定，還表示又轉寒。"
+          }
+        ],
+        "misconception": "持續升暖漏又寒；逐日更寒漏忽暖及反覆；本詞秋景不能改成春已替冬。"
+      },
+      "objective": "根據題引的上下文，「乍煖還寒」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-01-03-05",
+      "ordinal": 14,
+      "baseQuestionHash": "b0b7fe5dfd56866feba1cd77bdad979a6bf66af260c15bc8cff573e2ca15d850",
+      "patch": {
+        "explanation": "淡突出酒無力禦寒遣愁，怎敵把它放在急風與深愁前看效果。它可有主觀感受，不能只當酒精濃度或釀造品質報告，更沒有對飲舊友在場。",
+        "summary": "淡突出酒無力禦寒遣愁，怎敵把它放在急風與深愁前看效果。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "滋味偏淡而難以下嚥的酒",
+            "explanation": "滋味與難下嚥非本句重點。"
+          },
+          {
+            "id": "b",
+            "text": "無力禦寒解愁的酒",
+            "explanation": "淡突出酒無力禦寒遣愁，怎敵把它放在急風與深愁前看效果。"
+          },
+          {
+            "id": "c",
+            "text": "準備與舊友對飲助興的酒",
+            "explanation": "獨處求慰藉，未有舊友酒宴。"
+          },
+          {
+            "id": "d",
+            "text": "久置變質而失去香氣的酒",
+            "explanation": "原文無久置變質的證據。"
+          }
+        ],
+        "misconception": "滋味與難下嚥非本句重點；獨處求慰藉，未有舊友酒宴；原文無久置變質的證據。"
+      },
+      "objective": "結合「怎敵他晚來風急」及全詞愁情，「淡酒」在此突出酒的甚麼特點？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-01-03-07",
+      "ordinal": 15,
+      "baseQuestionHash": "aa9f77c67b35e31595ddbe20120680aac3742f41082783d534edef4315ddaefb",
+      "patch": {
+        "explanation": "本題引晚來，字面應作傍晚；曉來是另一底本而非晚的同義解釋。語譯須跟引用版本一致，保留異文時加以標明，不能互換後拼唯一時間線。",
+        "summary": "本題引晚來，字面應作傍晚；曉來是另一底本而非晚的同義解釋。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "清晨；天光初現之際",
+            "explanation": "清晨須採曉來本，非引晚卻譯曉。"
+          },
+          {
+            "id": "b",
+            "text": "傍晚，天色將暗之時",
+            "explanation": "晚來按本題底本為傍晚；另本曉來須另作說明。"
+          },
+          {
+            "id": "c",
+            "text": "正午；日色當空之際",
+            "explanation": "晚非正午。"
+          },
+          {
+            "id": "d",
+            "text": "深夜；更鼓將盡之際",
+            "explanation": "傍晚是將入夜，不等同更鼓將盡的深夜。"
+          }
+        ],
+        "misconception": "清晨須採曉來本，非引晚卻譯曉；晚非正午；傍晚是將入夜，不等同更鼓將盡的深夜。"
+      },
+      "objective": "只就題引所用「晚來」二字判讀，指一天中的哪個時段？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-c-15-01-03-08",
+      "ordinal": 16,
+      "baseQuestionHash": "138e397869559eb7b570dde00c649a12a042b85fdaa562e1b69f3d883de68af1",
+      "patch": {
+        "explanation": "舊時相識承雁過，指熟悉的大雁，帶眼前與昔日相連的情感。熟悉不證同一隻雁，更非真人故友重逢；黃花梧桐在後文，不能移來作所指。",
+        "summary": "舊時相識承雁過，指熟悉的大雁，帶眼前與昔日相連的情感。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "偶然相遇的陌生人",
+            "explanation": "相識承雁過指熟悉雁景，不是陌生人。"
+          },
+          {
+            "id": "b",
+            "text": "重新相聚的舊友",
+            "explanation": "是以熟悉稱雁，未寫真人重逢。"
+          },
+          {
+            "id": "c",
+            "text": "熟悉的大雁",
+            "explanation": "舊時相識承雁過，指熟悉的大雁，帶眼前與昔日相連的情感。"
+          },
+          {
+            "id": "d",
+            "text": "剛收到的一封舊信",
+            "explanation": "雁可引傳書聯想，但本句未明記收信。"
+          }
+        ],
+        "misconception": "相識承雁過指熟悉雁景，不是陌生人；是以熟悉稱雁，未寫真人重逢；雁可引傳書聯想，但本句未明記收信。"
+      },
+      "objective": "根據題引的上下文，「舊時相識」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-c-15-02-03-01",
+      "ordinal": 17,
+      "baseQuestionHash": "76601140717c3f9fd96de6e1d2a8896998a50fd37fdcb111edb0bcc15ed91e8d",
+      "patch": {
+        "explanation": "損在憔悴損中加重程度，意為憔悴得厲害。憔悴可按不同讀法指花或人，須連花況及誰堪摘配套，不能把損獨立作損害、減少或失去花期。",
+        "summary": "損在憔悴損中加重程度，意為憔悴得厲害。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "憔悴使花受損；損表造成損害",
+            "explanation": "損不是憔悴造成的另一個損害動作。"
+          },
+          {
+            "id": "b",
+            "text": "憔悴程度稍減；損表逐步減少",
+            "explanation": "加重程度，非逐步減輕。"
+          },
+          {
+            "id": "c",
+            "text": "憔悴而失花期；損表失去時機",
+            "explanation": "未把花期當損失的賓語。"
+          },
+          {
+            "id": "d",
+            "text": "憔悴得厲害；花人兩解",
+            "explanation": "損在憔悴損中加重程度，意為憔悴得厲害。"
+          }
+        ],
+        "misconception": "損不是憔悴造成的另一個損害動作；加重程度，非逐步減輕；未把花期當損失的賓語。"
+      },
+      "objective": "「憔悴損」中的程度與可能所指，哪項理解符合詞境？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-02-03-02",
+      "ordinal": 18,
+      "baseQuestionHash": "1ef061e7866d1babd9be5fc46e5a688b315e13d2eaa847b04d1056a08eaf4545",
+      "patch": {
+        "explanation": "堪是可以、能夠，誰堪摘把摘花可否連到人的處境。採不同讀法可談花可摘、人無心或無伴，但此字本身不等於應當命令、恰好或值得。",
+        "summary": "堪是可以、能夠，誰堪摘把摘花可否連到人的處境。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "應當",
+            "explanation": "應當是義務語氣，非能否。"
+          },
+          {
+            "id": "b",
+            "text": "正好",
+            "explanation": "正好說時機，非能力可能。"
+          },
+          {
+            "id": "c",
+            "text": "值得",
+            "explanation": "值得偏評價，此處依本書作可以。"
+          },
+          {
+            "id": "d",
+            "text": "可以",
+            "explanation": "堪是可以、能夠，誰堪摘把摘花可否連到人的處境。"
+          }
+        ],
+        "misconception": "應當是義務語氣，非能否；正好說時機，非能力可能；值得偏評價，此處依本書作可以。"
+      },
+      "objective": "根據題引的上下文，「堪」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-02-03-03",
+      "ordinal": 19,
+      "baseQuestionHash": "c2ce6a3ff89a20be3fd1fce2bb0ef7f7c3b829e999a37b39a51d6076c7dc6233",
+      "patch": {
+        "explanation": "怎生是怎樣，獨自怎生得黑問如何捱到天黑。它突出日子難熬，不是只問天黑幾時，更非地點或追究一個外在原因。",
+        "summary": "怎生是怎樣，獨自怎生得黑問如何捱到天黑。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "為何",
+            "explanation": "為何問原因，此句重如何熬過。"
+          },
+          {
+            "id": "b",
+            "text": "何時",
+            "explanation": "何時只問時刻，漏怎樣捱。"
+          },
+          {
+            "id": "c",
+            "text": "何處",
+            "explanation": "句中已守窗，不問何處。"
+          },
+          {
+            "id": "d",
+            "text": "怎樣",
+            "explanation": "怎生是怎樣，獨自怎生得黑問如何捱到天黑。"
+          }
+        ],
+        "misconception": "為何問原因，此句重如何熬過；何時只問時刻，漏怎樣捱；句中已守窗，不問何處。"
+      },
+      "objective": "根據題引的上下文，「怎生」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-02-03-04",
+      "ordinal": 20,
+      "baseQuestionHash": "bfc32f6bf404198976cc3ed0a89d3840c6118c3a3aaae232ed436c7ea6d181e6",
+      "patch": {
+        "explanation": "得黑是熬到天黑，得有到達的意味，前面獨自怎生使等待充滿煎熬。不是計劃夜遊，也未說黑前出門或深夜才睡。",
+        "summary": "得黑是熬到天黑，得有到達的意味，前面獨自怎生使等待充滿煎熬。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "等候夜色供人出遊",
+            "explanation": "沒有等夜出遊的安排。"
+          },
+          {
+            "id": "b",
+            "text": "趁天色未黑外出",
+            "explanation": "守窗獨坐，非趁亮外出。"
+          },
+          {
+            "id": "c",
+            "text": "熬到天黑",
+            "explanation": "得黑是熬到天黑，得有到達的意味，前面獨自怎生使等待充滿煎熬。"
+          },
+          {
+            "id": "d",
+            "text": "夜深以後才入睡",
+            "explanation": "原句未交代入睡時間。"
+          }
+        ],
+        "misconception": "沒有等夜出遊的安排；守窗獨坐，非趁亮外出；原句未交代入睡時間。"
+      },
+      "objective": "根據題引的上下文，「得黑」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-02-03-05",
+      "ordinal": 21,
+      "baseQuestionHash": "51ac4423c915204e291051f5b1a5804822c424d24ac50ce5f11dd6979f2571b8",
+      "patch": {
+        "explanation": "更兼是更加上，已有獨守之苦又添梧桐細雨。遞增語氣把景情層層相加，非新景替代前景、消去前愁或立即變成別種處境。",
+        "summary": "更兼是更加上，已有獨守之苦又添梧桐細雨。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "隨即改成",
+            "explanation": "並非轉換，重追加。"
+          },
+          {
+            "id": "b",
+            "text": "同時取代",
+            "explanation": "加一層不是取代上一層。"
+          },
+          {
+            "id": "c",
+            "text": "反而減去",
+            "explanation": "與減少相反，是愁苦再加。"
+          },
+          {
+            "id": "d",
+            "text": "更加上",
+            "explanation": "更兼是更加上，已有獨守之苦又添梧桐細雨。"
+          }
+        ],
+        "misconception": "並非轉換，重追加；加一層不是取代上一層；與減少相反，是愁苦再加。"
+      },
+      "objective": "根據題引的上下文，「更兼」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-02-03-07",
+      "ordinal": 22,
+      "baseQuestionHash": "ff7a13f77eb3672371491fa5b261269b851fdb5f6d75d014f2c6dee2e390dcd0",
+      "patch": {
+        "explanation": "箇同個，此處為量詞，一箇愁字指單一的愁字。它不是程度、次數或代人名詞；語氣由怎和了得合成的反問表達，非由箇單獨承擔。",
+        "summary": "箇同個，此處為量詞，一箇愁字指單一的愁字。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "這一種的指示詞",
+            "explanation": "一箇中箇是量詞，非這一種的指示。"
+          },
+          {
+            "id": "b",
+            "text": "一次的事件單位",
+            "explanation": "這裏數的是愁字，非事件次數。"
+          },
+          {
+            "id": "c",
+            "text": "同個",
+            "explanation": "箇同個，此處為量詞，一箇愁字指單一的愁字。"
+          },
+          {
+            "id": "d",
+            "text": "一人的人稱代詞",
+            "explanation": "箇不代人，所量對象為字。"
+          }
+        ],
+        "misconception": "一箇中箇是量詞，非這一種的指示；這裏數的是愁字，非事件次數；箇不代人，所量對象為字。"
+      },
+      "objective": "根據題引的上下文，「箇」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-c-15-01-00-90",
+      "ordinal": 23,
+      "baseQuestionHash": "532ef7c018be776820d478e86f73ba6fad38aa324519409112d0496570682767",
+      "patch": {
+        "explanation": "尋覓未得慰藉，酒又難敵風，雁過再觸舊情，愁緒累加。正傷心說明見雁時早已有悲，不是此刻才首次傷心，也不是飲酒先已取得充分慰藉。",
+        "summary": "尋覓未得慰藉，酒又難敵風，雁過再觸舊情，愁緒累加。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "酒雖難敵風，仍可據此判定精神上已得到充分慰藉，雁只是補景",
+            "explanation": "不能由飲酒推精神充分慰藉；全篇仍愁深。"
+          },
+          {
+            "id": "b",
+            "text": "雁過才首次造成詞人悲傷，開首尋覓並未帶任何失落",
+            "explanation": "開首已悽慘，正傷心也表已有悲。"
+          },
+          {
+            "id": "c",
+            "text": "尋覓未得慰藉，酒難敵風，雁又牽動舊情，愁緒加深",
+            "explanation": "尋覓未得慰藉，酒又難敵風，雁過再觸舊情，愁緒累加。"
+          },
+          {
+            "id": "d",
+            "text": "三段都寫眼前事物，因而不可能牽動往昔與身世",
+            "explanation": "眼前物象可觸記憶，舊時相識正是連接。"
+          }
+        ],
+        "misconception": "不能由飲酒推精神充分慰藉；全篇仍愁深；開首已悽慘，正傷心也表已有悲；眼前物象可觸記憶，舊時相識正是連接。"
+      },
+      "objective": "上片由尋覓、飲酒寫到雁過，哪項最能概括情感推進？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-02-00-90",
+      "ordinal": 24,
+      "baseQuestionHash": "e746594fc7cf2a2b665eb53c55a47ff6591a41964ba9b0182651bfa603d3485e",
+      "patch": {
+        "explanation": "黃花連身世憔悴，獨守窗使白日難熬，梧桐細雨又加聽覺煎熬。景事更換是在累積悲苦，非新景把舊愁消除；靜態守候同樣能寫內心痛苦。",
+        "summary": "黃花連身世憔悴，獨守窗使白日難熬，梧桐細雨又加聽覺煎熬。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "花況牽動身世，獨守覺長日難熬，雨聲再加深愁情",
+            "explanation": "黃花連身世憔悴，獨守窗使白日難熬，梧桐細雨又加聽覺煎熬。"
+          },
+          {
+            "id": "b",
+            "text": "下片只因等待天黑而愁，黃花和雨聲與身世感受無關",
+            "explanation": "多景事各自觸愁，不能只歸等黑。"
+          },
+          {
+            "id": "c",
+            "text": "黃花、守窗、聽雨依次排列，便證明前一層愁已被下一景消除",
+            "explanation": "景物使愁累積，非逐一消除。"
+          },
+          {
+            "id": "d",
+            "text": "守窗是靜態行動，所以不能表現內心煎熬",
+            "explanation": "動作少可突出獨處難捱。"
+          }
+        ],
+        "misconception": "多景事各自觸愁，不能只歸等黑；景物使愁累積，非逐一消除；動作少可突出獨處難捱。"
+      },
+      "objective": "下片從黃花、守窗寫到梧桐細雨，哪項理解較貼切？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-12-10-01-80",
+      "ordinal": 25,
+      "baseQuestionHash": "9b12a45535ae150712e428a6de4de1a8dc45553bc93dca88d82e91c54df5d547",
+      "patch": {
+        "explanation": "李白以暫伴主動接受有限的想像陪伴，李清照則覺少量酒難抵急風、難遣深愁。前者可有暫時自娛，後者突出慰藉不足，不能都簡化為喝酒後已得溫暖解脫。",
+        "summary": "李白以暫伴主動接受有限的想像陪伴，李清照則覺少量酒難抵急風、難遣深愁。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "前者因月影不解飲而拒絕相伴；後者感到酒難以禦寒解愁",
+            "explanation": "後半切合「怎敵」；前半把先前不解飲的失落停留為最終行動，漏了「暫伴」的自我調整。"
+          },
+          {
+            "id": "b",
+            "text": "前者接受月影作伴以暫時自娛；後者感到酒難以禦寒解愁",
+            "explanation": "李白以暫伴主動接受有限的想像陪伴，李清照則覺少量酒難抵急風、難遣深愁。"
+          },
+          {
+            "id": "c",
+            "text": "前者接受月影作伴以暫時自娛；後者藉風急襯出飲酒後的暖意",
+            "explanation": "前半成立；「怎敵」是難以抵擋，不是借寒風反襯酒後暖意，後半逆轉語氣。"
+          },
+          {
+            "id": "d",
+            "text": "前者把月影相伴留待酒醒後實現；後者把遣愁希望寄於酒醉之後",
+            "explanation": "「暫伴」是當下的選擇；《聲聲慢》這兩句也未設酒醉後才消愁的條件，兩邊都被補入未來結果。"
+          }
+        ],
+        "misconception": "後半切合「怎敵」；前半把先前不解飲的失落停留為最終行動，漏了「暫伴」的自我調整；前半成立；「怎敵」是難以抵擋，不是借寒風反襯酒後暖意，後半逆轉語氣；「暫伴」是當下的選擇；《聲聲慢》這兩句也未設酒醉後才消愁的條件，兩邊都被補入未來結果。"
+      },
+      "objective": "比較「暫伴月將影」與「三杯兩盞淡酒，怎敵他晚來風急」，哪項同時切合兩處尋求慰藉的情況？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-00-01-80",
+      "ordinal": 26,
+      "baseQuestionHash": "9f64d0317c7ead72e3151c1c5c3f53ce6039640946957ace002fd5a2832c2767",
+      "patch": {
+        "explanation": "前文每次求慰藉都落空，外物又不斷牽動往事身世，結尾才說一字難盡。反問的強度有層層細節支撐，不能只列景名，還須說它們如何觸發和累積愁情。",
+        "summary": "前文每次求慰藉都落空，外物又不斷牽動往事身世，結尾才說一字難盡。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "此前雖有種種景物，但只有結尾的愁字才帶個人感情",
+            "explanation": "開首及正傷心已直接抒情。"
+          },
+          {
+            "id": "b",
+            "text": "景物出現愈多，便表示每一種意象都必定同指一件往事",
+            "explanation": "各物象聯想有別，不必同一件事。"
+          },
+          {
+            "id": "c",
+            "text": "只要把所有景物名稱列出，就足以解釋為何悲苦難言",
+            "explanation": "還需說明景物與感受如何層累。"
+          },
+          {
+            "id": "d",
+            "text": "此前尋覓、淡酒、過雁、守窗、聽雨層層累積悲苦",
+            "explanation": "前文每次求慰藉都落空，外物又不斷牽動往事身世，結尾才說一字難盡。"
+          }
+        ],
+        "misconception": "開首及正傷心已直接抒情；各物象聯想有別，不必同一件事；還需說明景物與感受如何層累。"
+      },
+      "objective": "為何結尾說一個「愁」字不足以盡述，而不顯突兀？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-00-03-80",
+      "ordinal": 27,
+      "baseQuestionHash": "96ad298dec5c6532d90e7dc837a69c1008986fa96c31b15cc12f1a7ba481198c",
+      "patch": {
+        "explanation": "全詞依序尋覓冷清、酒淡風急、雁過傷心、黃花憔悴、守窗聽雨。此序從求慰藉到處處觸愁，為末尾難盡言鋪墊，不是倒敘先看花雨再回開篇。",
+        "summary": "全詞依序尋覓冷清、酒淡風急、雁過傷心、黃花憔悴、守窗聽雨。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "酒淡風急→黃花憔悴→尋覓冷清→守窗聽雨→雁過傷心",
+            "explanation": "尋覓先於飲酒，過雁先於黃花。"
+          },
+          {
+            "id": "b",
+            "text": "雁過傷心→尋覓冷清→黃花憔悴→酒淡風急→守窗聽雨",
+            "explanation": "雁過在飲酒後。"
+          },
+          {
+            "id": "c",
+            "text": "黃花憔悴→守窗聽雨→雁過傷心→酒淡風急→尋覓冷清",
+            "explanation": "把主要次序倒置。"
+          },
+          {
+            "id": "d",
+            "text": "尋覓冷清→酒淡風急→雁過傷心→黃花憔悴→守窗聽雨",
+            "explanation": "全詞依序尋覓冷清、酒淡風急、雁過傷心、黃花憔悴、守窗聽雨。"
+          }
+        ],
+        "misconception": "尋覓先於飲酒，過雁先於黃花；雁過在飲酒後；把主要次序倒置。"
+      },
+      "objective": "哪項依次列出詞中的情境？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-00-05-80",
+      "ordinal": 28,
+      "baseQuestionHash": "b034e849cde410c249a1d18db10f674563e835a67d255b9057c6a5e97965c5c1",
+      "patch": {
+        "explanation": "若取花盛人憔悴，不能又說因花枯而摘不得；應由人無心賞摘或無伴可贈解釋。另一花凋人傷的讀法可保留，但每一路花況、主體及理由須自洽。",
+        "summary": "若取花盛人憔悴，不能又說因花枯而摘不得；應由人無心賞摘或無伴可贈解釋。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "若取花盛人憔悴，便可只談花的可摘性，不必解釋人的無心賞摘",
+            "explanation": "該讀法的關鍵是人況，不能漏掉。"
+          },
+          {
+            "id": "b",
+            "text": "既然不同解讀都悲，花況和憔悴主體便可任意互換而無須交代",
+            "explanation": "情緒共通不代表主體和花況可以混用。"
+          },
+          {
+            "id": "c",
+            "text": "只要憔悴能指人，就必須排除花與人的映照作用",
+            "explanation": "人憔悴仍可和花況構成對照映照。"
+          },
+          {
+            "id": "d",
+            "text": "若解作花盛人憔悴，可說無心賞摘，形成物是人非的感傷",
+            "explanation": "若取花盛人憔悴，不能又說因花枯而摘不得；應由人無心賞摘或無伴可贈解釋。"
+          }
+        ],
+        "misconception": "該讀法的關鍵是人況，不能漏掉；情緒共通不代表主體和花況可以混用；人憔悴仍可和花況構成對照映照。"
+      },
+      "objective": "「黃花」「憔悴」有不同解讀。哪項分析能保持主體和理由一致？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-00-07-80",
+      "ordinal": 29,
+      "baseQuestionHash": "dc22b46ae365c93c3b386f0b9df63e7d83afe123d568e750498dcd4b5cc68f2f",
+      "patch": {
+        "explanation": "怎一箇愁字了得是反問，語境已肯定一字不足。它不等待別人回答，也沒有結尾之後的自答段落；這次第總括全詞，不把悲苦縮成一種雨愁。",
+        "summary": "怎一箇愁字了得是反問，語境已肯定一字不足。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "設問，末句之後另有一段回答如何消愁",
+            "explanation": "詞至此收束，未有後段回答。"
+          },
+          {
+            "id": "b",
+            "text": "反問，強調種種悲苦不能用一字說盡",
+            "explanation": "怎一箇愁字了得是反問，語境已肯定一字不足。"
+          },
+          {
+            "id": "c",
+            "text": "一般疑問，詞人未肯定愁字是否足夠",
+            "explanation": "反問已含一字不足。"
+          },
+          {
+            "id": "d",
+            "text": "反問，只加強雨聲之愁而排除此前其他悲苦",
+            "explanation": "這次第總括全篇處境，不限雨聲。"
+          }
+        ],
+        "misconception": "詞至此收束，未有後段回答；反問已含一字不足；這次第總括全篇處境，不限雨聲。"
+      },
+      "objective": "「怎一箇愁字了得」屬哪種語氣，作用為何？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-01-04-80",
+      "ordinal": 30,
+      "baseQuestionHash": "9fd5866613f45a782be1e0c295802433ac0abd8897ee6a3395339d6591b3c795",
+      "patch": {
+        "explanation": "正傷心先示已有愁，舊時相識使眼前熟悉雁景牽回往日生活，今昔落差又加悲。情感上的熟悉不能證實特定同一隻雁，更不代表昔日幸福已恢復。",
+        "summary": "正傷心先示已有愁，舊時相識使眼前熟悉雁景牽回往日生活，今昔落差又加悲。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "既稱舊時相識，就可斷定是同一隻雁而非詞人的情感投射",
+            "explanation": "熟悉聯想不證特定個體。"
+          },
+          {
+            "id": "b",
+            "text": "熟悉的雁觸發往日生活聯想，令已有傷心更加深重",
+            "explanation": "正傷心先示已有愁，舊時相識使眼前熟悉雁景牽回往日生活，今昔落差又加悲。"
+          },
+          {
+            "id": "c",
+            "text": "既見熟悉之物，便表示昔日生活已恢復而傷心終止",
+            "explanation": "舊物正勾起今昔落差，不是恢復昔日。"
+          },
+          {
+            "id": "d",
+            "text": "雁是眼前物象，舊時只能解作早一刻，不能通往往事",
+            "explanation": "舊時可連往日記憶，不限同日片刻。"
+          }
+        ],
+        "misconception": "熟悉聯想不證特定個體；舊物正勾起今昔落差，不是恢復昔日；舊時可連往日記憶，不限同日片刻。"
+      },
+      "objective": "從「雁過也，正傷心，卻是舊時相識」可作哪項推斷？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-02-04-80",
+      "ordinal": 31,
+      "baseQuestionHash": "b14a20bfa0f58ca8c50275067d67f8af3d51409104bc166f2f23ea9a32e44e80",
+      "patch": {
+        "explanation": "這次第把多個苦況收在一起，怎一箇再否定用單字說盡的可能。收束重在難言深度，非找唯一成因，也不是完成客觀雨聲描摹後宣告愁已窮盡。",
+        "summary": "這次第把多個苦況收在一起，怎一箇再否定用單字說盡的可能。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "以這次第專指點滴雨聲，再用愁字結束對聲音的客觀描摹",
+            "explanation": "末句總收前文的身世痛苦，並非只指雨聲；愁也已表明內在情緒。"
+          },
+          {
+            "id": "b",
+            "text": "以這次第總指種種苦況，再以反問表示一個愁字難以說盡",
+            "explanation": "這次第把多個苦況收在一起，怎一箇再否定用單字說盡的可能。"
+          },
+          {
+            "id": "c",
+            "text": "先承認感受可以稱愁，再用反問追問造成愁苦的單一原因",
+            "explanation": "反問問的是一字能否說盡，不是在尋找一個原因；前文已有多層感受。"
+          },
+          {
+            "id": "d",
+            "text": "先把前文種種感受歸為愁，再表示這個名稱已足以概括",
+            "explanation": "怎一箇恰說不足，本項把否定的反問讀成肯定。"
+          }
+        ],
+        "misconception": "末句總收前文的身世痛苦，並非只指雨聲；愁也已表明內在情緒；反問問的是一字能否說盡，不是在尋找一個原因；前文已有多層感受；怎一箇恰說不足，本項把否定的反問讀成肯定。"
+      },
+      "objective": "「這次第，怎一箇愁字了得」怎樣收束前文的種種感受？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-03-00-01",
+      "ordinal": 32,
+      "baseQuestionHash": "5b1278dc259f426f853621d47aeba302bf07e59e91753bec1ba57a4f5e839c29",
+      "patch": {
+        "explanation": "疊成尋尋覓覓令動作反覆，聲調迴旋，更顯若有所失又無着落。改成尋覓仍有尋找基本動作，只是削弱神態與聲情，不會突然明說所尋物件。",
+        "summary": "疊成尋尋覓覓令動作反覆，聲調迴旋，更顯若有所失又無着落。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "只會少兩個字數，尋覓動作的反覆感和聲調完全不變",
+            "explanation": "形式反覆亦有動作聲情作用。"
+          },
+          {
+            "id": "b",
+            "text": "反覆尋找、若有所失而無着落的神態與聲情",
+            "explanation": "疊成尋尋覓覓令動作反覆，聲調迴旋，更顯若有所失又無着落。"
+          },
+          {
+            "id": "c",
+            "text": "把反覆尋覓變成未曾尋覓，連基本動作也被取消",
+            "explanation": "刪疊仍保留尋覓動作，改的是反覆強度。"
+          },
+          {
+            "id": "d",
+            "text": "主要失去對所尋物件的具體描摹，而非內心神態",
+            "explanation": "原句未具體描出所尋物件。"
+          }
+        ],
+        "misconception": "形式反覆亦有動作聲情作用；刪疊仍保留尋覓動作，改的是反覆強度；原句未具體描出所尋物件。"
+      },
+      "objective": "把「尋尋覓覓」改作「尋覓」，主要會減弱甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-03-00-02",
+      "ordinal": 33,
+      "baseQuestionHash": "aa1c926fb28d2e9a6f254d6722220819472dea92add3b360f51cdaa62115c010",
+      "patch": {
+        "explanation": "冷冷清清承尋而無得，寫環境寂寥並映內心孤冷。它超出氣溫報告，接向悲戚；冷清也不要求世界完全無鳥無聲，後文雁雨可繼續深化孤愁。",
+        "summary": "冷冷清清承尋而無得，寫環境寂寥並映內心孤冷。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "只寫環境客觀無人，因此不能連到詞人的主觀心境",
+            "explanation": "外境與內心互映，不必二選一。"
+          },
+          {
+            "id": "b",
+            "text": "寫環境寂寥，並映出尋而無得的內心孤冷",
+            "explanation": "冷冷清清承尋而無得，寫環境寂寥並映內心孤冷。"
+          },
+          {
+            "id": "c",
+            "text": "只寫內心，與前面的尋覓行動沒有遞進關係",
+            "explanation": "尋而無得、冷清、悲戚相承。"
+          },
+          {
+            "id": "d",
+            "text": "既有冷清環境，後文便不能再出現雁和雨聲",
+            "explanation": "冷清不等於所有生物和聲音皆無。"
+          }
+        ],
+        "misconception": "外境與內心互映，不必二選一；尋而無得、冷清、悲戚相承；冷清不等於所有生物和聲音皆無。"
+      },
+      "objective": "「冷冷清清」接在尋覓之後，如何超出單純寫氣溫的意思？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-c-15-03-00-04",
+      "ordinal": 34,
+      "baseQuestionHash": "38c827b8aa62f819910b711fbb77b1082a78fcf2b2b0bc492b799c7528197568",
+      "patch": {
+        "explanation": "須將乍煖還寒放回本詞秋情、過雁、菊花等語境，可理解秋日冷暖反覆。不能只據日常成語慣用判春天，更不必擅改煖字或否定實際冷暖體感。",
+        "summary": "須將乍煖還寒放回本詞秋情、過雁、菊花等語境，可理解秋日冷暖反覆。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "結合過雁、黃花等全詞秋日語境，理解冷暖不定的感受",
+            "explanation": "須將乍煖還寒放回本詞秋情、過雁、菊花等語境，可理解秋日冷暖反覆。"
+          },
+          {
+            "id": "b",
+            "text": "只按常用成語搭配判春天，不再參考同詞的雁與黃花",
+            "explanation": "全詞語境須合讀，不能單憑慣用搭配。"
+          },
+          {
+            "id": "c",
+            "text": "既有黃花，就可忽略乍煖還寒所寫的冷暖感受",
+            "explanation": "物候不取消局部天氣體感。"
+          },
+          {
+            "id": "d",
+            "text": "為統一季節，必須把煖字改成冷字才可理解",
+            "explanation": "不須擅改原文，秋日也可有冷暖變化。"
+          }
+        ],
+        "misconception": "全詞語境須合讀，不能單憑慣用搭配；物候不取消局部天氣體感；不須擅改原文，秋日也可有冷暖變化。"
+      },
+      "objective": "「乍煖還寒」常可形容春季，但理解本詞時應怎樣處理？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-c-15-03-00-06",
+      "ordinal": 35,
+      "baseQuestionHash": "a7816596ff3212cea8749d30a63bdfeb7748828913574d9ae1c0c40e60c18b25",
+      "patch": {
+        "explanation": "三杯兩盞概說少量飲酒，配淡與怎敵見酒力不足及愁深難遣。不是精確分成先三杯後兩盞兩場，也不能從酒少反推愁輕，數量在此有形象作用。",
+        "summary": "三杯兩盞概說少量飲酒，配淡與怎敵見酒力不足及愁深難遣。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "既列三杯兩盞，就必須精確分成兩次飲酒，並排出先後",
+            "explanation": "數詞概寫，未明確兩次及時序。"
+          },
+          {
+            "id": "b",
+            "text": "概說少量飲酒，襯托酒力不足以抵風遣愁",
+            "explanation": "三杯兩盞概說少量飲酒，配淡與怎敵見酒力不足及愁深難遣。"
+          },
+          {
+            "id": "c",
+            "text": "既稱少量，便表示愁也很輕，不須細看怎敵語氣",
+            "explanation": "酒少或淡不等於愁輕，反可見愁深。"
+          },
+          {
+            "id": "d",
+            "text": "數詞只控制聲律，對飲酒形象和酒力薄的感受沒有作用",
+            "explanation": "數量與語境形象有關，不只是湊聲律。"
+          }
+        ],
+        "misconception": "數詞概寫，未明確兩次及時序；酒少或淡不等於愁輕，反可見愁深；數量與語境形象有關，不只是湊聲律。"
+      },
+      "objective": "「三杯兩盞淡酒」的「三杯兩盞」在句中怎樣理解較合適？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-03-00-07",
+      "ordinal": 36,
+      "baseQuestionHash": "dec2f9979917640ec9a7620044c8e4a77bacd41dad7a8fc83fa0a22d726c3167",
+      "patch": {
+        "explanation": "酒力微弱與急風難禦相對，外在寒感映出內心難消的悲苦。詞先有愁而借酒求慰藉，非飲酒造成開篇之愁，也沒有先成功暖身再轉冷的明寫階段。",
+        "summary": "酒力微弱與急風難禦相對，外在寒感映出內心難消的悲苦。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "寫酒味平淡而風聲急促，以味覺和聽覺的轉換表現愁緒漸緩",
+            "explanation": "此項將重點移為感官轉換，且漸緩與怎敵所見的難禦、難排不合。"
+          },
+          {
+            "id": "b",
+            "text": "寫酒已暖身而風又侵襲，以由暖轉寒的過程象徵昔盛今衰",
+            "explanation": "句中沒有先被酒暖身的階段；不能把三杯兩盞到風急擴寫為由暖轉寒，再據此推出盛衰。"
+          },
+          {
+            "id": "c",
+            "text": "寫酒力微弱而風寒難禦，以外在感受映照內心愁苦難排",
+            "explanation": "酒力微弱與急風難禦相對，外在寒感映出內心難消的悲苦。"
+          },
+          {
+            "id": "d",
+            "text": "寫飲酒助長悲秋之感，以借酒生愁解釋開篇尋覓的起因",
+            "explanation": "全詞先寫尋覓、冷清和難以調適，後寫酒難敵風；此項倒轉了既有愁情與飲酒求慰藉的因果。"
+          }
+        ],
+        "misconception": "此項將重點移為感官轉換，且漸緩與怎敵所見的難禦、難排不合；句中沒有先被酒暖身的階段；不能把三杯兩盞到風急擴寫為由暖轉寒，再據此推出盛衰；全詞先寫尋覓、冷清和難以調適，後寫酒難敵風；此項倒轉了既有愁情與飲酒求慰藉的因果。"
+      },
+      "objective": "「三杯兩盞淡酒，怎敵他、晚來風急」如何藉酒與風寫詞人的感受？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-03-00-09",
+      "ordinal": 37,
+      "baseQuestionHash": "a3402ce73d26e6f43eb33d93168f92671e4ef3e80bf11f892dfe3aa9bba6a0c5",
+      "patch": {
+        "explanation": "正傷心是已有悲，卻見熟悉雁景又牽舊事，讓當下與往昔相撞而更傷。卻字標意外不必標轉喜，熟悉事物也可因人事已變而格外刺痛。",
+        "summary": "正傷心是已有悲，卻見熟悉雁景又牽舊事，讓當下與往昔相撞而更傷。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "已有悲情，又因雁勾起舊事而增添傷感",
+            "explanation": "正傷心是已有悲，卻見熟悉雁景又牽舊事，讓當下與往昔相撞而更傷。"
+          },
+          {
+            "id": "b",
+            "text": "正只記同時發生，不能據此判別傷心在認出雁前已有",
+            "explanation": "正傷心表雁過時已有悲情。"
+          },
+          {
+            "id": "c",
+            "text": "卻表示與前句相反，所以舊時相識必使傷心變歡喜",
+            "explanation": "意外遇熟悉景物可增愁，非必轉喜。"
+          },
+          {
+            "id": "d",
+            "text": "舊時相識使感情退回往昔，眼前處境便不再影響",
+            "explanation": "舊情與今境相照，非取消眼前。"
+          }
+        ],
+        "misconception": "正傷心表雁過時已有悲情；意外遇熟悉景物可增愁，非必轉喜；舊情與今境相照，非取消眼前。"
+      },
+      "objective": "「正傷心」與「卻是舊時相識」如何相接？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-03-00-10",
+      "ordinal": 38,
+      "baseQuestionHash": "dcbf0aed1ef83a04d71b4c678da5ceade680496691bab34f7325792efd9b7a43",
+      "patch": {
+        "explanation": "既引晚來就譯傍晚，若用曉來須明示另一底本。不能把同一晚字訓清晨，也不能將不同版本拼為確定的一日時間表；一處晚來不限定全詞同一瞬間。",
+        "summary": "既引晚來就譯傍晚，若用曉來須明示另一底本。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "譯作傍晚時；若用曉來，須先註明採另一版本",
+            "explanation": "既引晚來就譯傍晚，若用曉來須明示另一底本。"
+          },
+          {
+            "id": "b",
+            "text": "既有曉來異本，引用晚來時也可不加說明地譯作清晨",
+            "explanation": "引文與譯義須一致，異本應說明。"
+          },
+          {
+            "id": "c",
+            "text": "採晚來就必須把全詞每一句都限定在同一個傍晚瞬間",
+            "explanation": "不能由一處晚來鎖定全部時間。"
+          },
+          {
+            "id": "d",
+            "text": "採曉來便可把其他版本的時間連詞隨意拼入，排出唯一時間線",
+            "explanation": "不同底本不可不加區別拼合。"
+          }
+        ],
+        "misconception": "引文與譯義須一致，異本應說明；不能由一處晚來鎖定全部時間；不同底本不可不加區別拼合。"
+      },
+      "objective": "題目引文作「晚來風急」，語譯怎樣處理「晚來」才與引文一致？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-03-00-11",
+      "ordinal": 39,
+      "baseQuestionHash": "e79eaf1046c4e91bfd08abfe73847a38e4b943e07559ca0c6caa79dc5246967a",
+      "patch": {
+        "explanation": "甲正確，乙正確。甲：雁熟悉而引舊情，使已有傷心加深。乙：正傷心在前，舊相識連昔，顯今昔相觸。",
+        "summary": "甲正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙不正確",
+            "explanation": "對乙的判斷不合：正傷心在前，舊相識連昔，顯今昔相觸。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：雁熟悉而引舊情，使已有傷心加深。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙正確",
+            "explanation": "甲正確，乙正確。甲：雁熟悉而引舊情，使已有傷心加深。乙：正傷心在前，舊相識連昔，顯今昔相觸。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：雁熟悉而引舊情，使已有傷心加深。對乙的判斷不合：正傷心在前，舊相識連昔，顯今昔相觸。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：正傷心在前，舊相識連昔，顯今昔相觸；對甲的判斷不合：雁熟悉而引舊情，使已有傷心加深；對甲的判斷不合：雁熟悉而引舊情，使已有傷心加深。對乙的判斷不合：正傷心在前，舊相識連昔，顯今昔相觸。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：從「雁過也，正傷心，卻是舊時相識」可作哪項推斷？\n甲：熟悉的雁觸發往日生活聯想，令已有傷心更加深重\n乙：「正傷心」先交代已有悲情，「舊時相識」又讓眼前景物連到往日，形成今昔牽動。",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-03-00-13",
+      "ordinal": 40,
+      "baseQuestionHash": "bd79ff9ba0876210930fb8c0abc8132278338936f5b137a240c48f160cbc64b5",
+      "patch": {
+        "explanation": "按無人同摘或可贈的角度，誰把採花連到人的缺席，表孤獨悼亡。它不只問花的物理可摘性，也不能因此證明花必凋殘；花盛而人無伴仍可成立。",
+        "summary": "按無人同摘或可贈的角度，誰把採花連到人的缺席，表孤獨悼亡。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "誰只關乎花能否採摘，與任何人物處境無關",
+            "explanation": "誰指人，限定角度為缺伴。"
+          },
+          {
+            "id": "b",
+            "text": "既然有疑問詞，就表示詞人正在向在場同伴索取答案",
+            "explanation": "反問可表無人，不證在場有伴。"
+          },
+          {
+            "id": "c",
+            "text": "把賞花動作連到缺少伴侶的孤獨",
+            "explanation": "按無人同摘或可贈的角度，誰把採花連到人的缺席，表孤獨悼亡。"
+          },
+          {
+            "id": "d",
+            "text": "無人同摘便表示花必已凋謝，不能採取花盛人憔悴的理解",
+            "explanation": "無人同摘不直接決定花況。"
+          }
+        ],
+        "misconception": "誰指人，限定角度為缺伴；反問可表無人，不證在場有伴；無人同摘不直接決定花況。"
+      },
+      "objective": "若從無人同摘、無人可贈的角度讀「如今有誰堪摘」，「誰」有何作用？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-03-00-14",
+      "ordinal": 41,
+      "baseQuestionHash": "fd2616e89fee6dd1a6df7664d65e5dcb60640c2745f03768d8bb65a3333355ce",
+      "patch": {
+        "explanation": "題設花正盛、人憔悴，花仍可摘而人無心或無伴，便構成物是人非。若改說花已枯盡便混了另一讀法；悲感相同不足以容許主體理由任意互換。",
+        "summary": "題設花正盛、人憔悴，花仍可摘而人無心或無伴，便構成物是人非。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "人雖憔悴仍願摘花，只因花已枯盡而無從下手",
+            "explanation": "題設是花盛，把原因改成枯盡與所採讀法衝突；也無據添仍願摘。"
+          },
+          {
+            "id": "b",
+            "text": "花仍可賞摘，卻因人的憔悴與孤寂而無心摘取",
+            "explanation": "題設花正盛、人憔悴，花仍可摘而人無心或無伴，便構成物是人非。"
+          },
+          {
+            "id": "c",
+            "text": "花與人都指向憔悴，所以不必區分誰造成不能摘",
+            "explanation": "不同讀法可並存，但本題已選花盛人憔悴，不能為悲情相同就混掉主體。"
+          },
+          {
+            "id": "d",
+            "text": "人因花開繁盛而恢復賞花心情，故發問邀人同摘",
+            "explanation": "來源在此仍是孤寂悲愁，沒有因花盛轉喜的證據；發問也未實現邀伴。"
+          }
+        ],
+        "misconception": "題設是花盛，把原因改成枯盡與所採讀法衝突；也無據添仍願摘；不同讀法可並存，但本題已選花盛人憔悴，不能為悲情相同就混掉主體；來源在此仍是孤寂悲愁，沒有因花盛轉喜的證據；發問也未實現邀伴。"
+      },
+      "objective": "若採「黃花正盛、人已憔悴」的讀法，怎樣解釋「如今有誰堪摘」才前後一致？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-03-00-15",
+      "ordinal": 42,
+      "baseQuestionHash": "aebbc55c5e21a50b062b23ace54463c37e0366bb67723a9f92566093890c324c",
+      "patch": {
+        "explanation": "甲正確，乙正確。甲：獨守中盼捱到天黑，顯時間漫長。乙：怎生把等黑變難題，非只客觀報時。",
+        "summary": "甲正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙不正確",
+            "explanation": "對乙的判斷不合：怎生把等黑變難題，非只客觀報時。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：獨守中盼捱到天黑，顯時間漫長。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：獨守中盼捱到天黑，顯時間漫長。對乙的判斷不合：怎生把等黑變難題，非只客觀報時。"
+          },
+          {
+            "id": "d",
+            "text": "甲正確，乙正確",
+            "explanation": "甲正確，乙正確。甲：獨守中盼捱到天黑，顯時間漫長。乙：怎生把等黑變難題，非只客觀報時。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：怎生把等黑變難題，非只客觀報時；對甲的判斷不合：獨守中盼捱到天黑，顯時間漫長；對甲的判斷不合：獨守中盼捱到天黑，顯時間漫長。對乙的判斷不合：怎生把等黑變難題，非只客觀報時。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「守着窗兒，獨自怎生得黑」表現甚麼時間感受？\n甲：孤身無伴，白日難熬，盼能捱到天黑\n乙：「怎生得黑」不是單報時刻，而把等候天黑寫成難題，突出獨守中時間過得特別慢。",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-03-00-17",
+      "ordinal": 43,
+      "baseQuestionHash": "e9ff048190ab76aa598cb8b11aba637f2a2bfc2f3df5d3a48bf22f06846aa082",
+      "patch": {
+        "explanation": "明寫是細雨聲延續到黃昏，綿延聲音使孤獨時間更難熬。可進一步聯想難眠長夜，但不能冒稱詞已直接寫整夜未眠，也非天黑便愁盡。",
+        "summary": "明寫是細雨聲延續到黃昏，綿延聲音使孤獨時間更難熬。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "到黃昏已明確寫整夜未眠，毋須區分明寫與延伸聯想",
+            "explanation": "直接寫到黃昏，長夜難眠可另作聯想。"
+          },
+          {
+            "id": "b",
+            "text": "點滴聲很輕，所以持續多久都不能影響時間感",
+            "explanation": "持續細聲可令難熬時間更可感。"
+          },
+          {
+            "id": "c",
+            "text": "只要到黃昏，就表示愁苦隨白日結束而全部停止",
+            "explanation": "到黃昏仍點滴，非愁已止。"
+          },
+          {
+            "id": "d",
+            "text": "雨聲延續至黃昏，愁思隨之纏綿不歇",
+            "explanation": "明寫是細雨聲延續到黃昏，綿延聲音使孤獨時間更難熬。"
+          }
+        ],
+        "misconception": "直接寫到黃昏，長夜難眠可另作聯想；持續細聲可令難熬時間更可感；到黃昏仍點滴，非愁已止。"
+      },
+      "objective": "「到黃昏、點點滴滴」直接呈現甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-04-00-01",
+      "ordinal": 44,
+      "baseQuestionHash": "dc94f7ba9e8377773f219009131759bcb1079561849bd80b45f929f088766b05",
+      "patch": {
+        "explanation": "點點滴滴以重複音節模擬連續雨聲，讓細雨聽得見、時間拉得長。雨小不代表愁小，外聲在獨處語境中反覆敲動內心，襯出愁難止。",
+        "summary": "點點滴滴以重複音節模擬連續雨聲，讓細雨聽得見、時間拉得長。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "以反覆聲響使細雨不斷可聞，襯出獨處愁思難止",
+            "explanation": "點點滴滴以重複音節模擬連續雨聲，讓細雨聽得見、時間拉得長。"
+          },
+          {
+            "id": "b",
+            "text": "點滴細小，說明情緒也逐步變輕，與開首形成必然轉喜",
+            "explanation": "雨小不等於愁輕，持續可增愁。"
+          },
+          {
+            "id": "c",
+            "text": "雨聲是外在聲音，因此只能襯景而不能加深內心愁思",
+            "explanation": "外聲可與內情相應。"
+          },
+          {
+            "id": "d",
+            "text": "重疊只是模擬同一滴雨，不含延續反覆的聽覺感",
+            "explanation": "疊字呈反覆不斷，不是同滴靜止。"
+          }
+        ],
+        "misconception": "雨小不等於愁輕，持續可增愁；外聲可與內情相應；疊字呈反覆不斷，不是同滴靜止。"
+      },
+      "objective": "「點點滴滴」怎樣把雨景與愁情相連？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-04-00-03",
+      "ordinal": 45,
+      "baseQuestionHash": "cb965a369afa1410aa170a54cf6e13274f8220e7466944411c6d3865b368edfe",
+      "patch": {
+        "explanation": "甲不正確，乙正確。甲：反問正否定一字能說盡，不是已全說清。乙：這次第總收前文苦況，結尾強化難言。",
+        "summary": "甲不正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對甲的判斷不合：反問正否定一字能說盡，不是已全說清。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙不正確",
+            "explanation": "對甲的判斷不合：反問正否定一字能說盡，不是已全說清。對乙的判斷不合：這次第總收前文苦況，結尾強化難言。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "甲不正確，乙正確。甲：反問正否定一字能說盡，不是已全說清。乙：這次第總收前文苦況，結尾強化難言。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對乙的判斷不合：這次第總收前文苦況，結尾強化難言。"
+          }
+        ],
+        "misconception": "對甲的判斷不合：反問正否定一字能說盡，不是已全說清；對甲的判斷不合：反問正否定一字能說盡，不是已全說清。對乙的判斷不合：這次第總收前文苦況，結尾強化難言；對乙的判斷不合：這次第總收前文苦況，結尾強化難言。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「這次第，怎一箇愁字了得」怎樣收束全詞？\n甲：末句用了愁字，便表示各種情緒已被完全說清而無餘味\n乙：總括前文種種處境，以反問強調悲苦難以盡言",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-04-00-04",
+      "ordinal": 46,
+      "baseQuestionHash": "8d7e135ab70c800add6168e552915f7d50ab34030e295f2eff364c458679d54e",
+      "patch": {
+        "explanation": "箇與個在此是同一量詞的字形差異，一箇愁字就是一個愁字。辨字形不另造歌唱、竹器或語氣詞義；摘錄時依所採底本保持一致。",
+        "summary": "箇與個在此是同一量詞的字形差異，一箇愁字就是一個愁字。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "分別表示歌唱與數量的兩個詞",
+            "explanation": "箇在此非歌唱。"
+          },
+          {
+            "id": "b",
+            "text": "分別指竹器與人物的兩個名詞",
+            "explanation": "不是竹器與人物對應。"
+          },
+          {
+            "id": "c",
+            "text": "同一量詞的字形差異",
+            "explanation": "箇與個在此是同一量詞的字形差異，一箇愁字就是一個愁字。"
+          },
+          {
+            "id": "d",
+            "text": "一為問句標記，一為感嘆標記",
+            "explanation": "都不是語氣標記。"
+          }
+        ],
+        "misconception": "箇在此非歌唱；不是竹器與人物對應；都不是語氣標記。"
+      },
+      "objective": "「怎一箇愁字了得」中的「箇」與「個」是甚麼關係？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-04-01-80",
+      "ordinal": 47,
+      "baseQuestionHash": "0c9a67415d5216d8a8eddcdde0469381d13ab8837525d6ab9d7d1411d1ce07fe",
+      "patch": {
+        "explanation": "本詞整體是秋情，雁與黃花提供物候線索，乍煖還寒則寫秋日冷暖不定。整體季節和局部天氣可相容，不必增造春日回憶再返秋天的轉場。",
+        "summary": "本詞整體是秋情，雁與黃花提供物候線索，乍煖還寒則寫秋日冷暖不定。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "既然日常常用來形容春天，應把黃花也改作春花解釋",
+            "explanation": "這以常用搭配迫改同詞物象，未尊重整體秋情。"
+          },
+          {
+            "id": "b",
+            "text": "既然黃花顯示秋天，乍煖還寒就不再包含實際冷暖感受",
+            "explanation": "秋情不能取消本句冷暖感；來源正以一天內氣溫反覆解其成立。"
+          },
+          {
+            "id": "c",
+            "text": "先讀作春日回憶，再把風急黃花解作重返秋天的標記",
+            "explanation": "原文未設由春日回憶返回秋天的轉場，不能為調和常語而另造時間層次。"
+          },
+          {
+            "id": "d",
+            "text": "結合雁與黃花等秋意，理解為秋日冷暖不定的感受",
+            "explanation": "本詞整體是秋情，雁與黃花提供物候線索，乍煖還寒則寫秋日冷暖不定。"
+          }
+        ],
+        "misconception": "這以常用搭配迫改同詞物象，未尊重整體秋情；秋情不能取消本句冷暖感；來源正以一天內氣溫反覆解其成立；原文未設由春日回憶返回秋天的轉場，不能為調和常語而另造時間層次。"
+      },
+      "objective": "理解《聲聲慢》的「乍煖還寒」時，哪項處理最能兼顧全詞語境？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-05-00-01",
+      "ordinal": 48,
+      "baseQuestionHash": "2564261fced6005f54264d8104be8f24724b6e3839281917080a352d10f06943",
+      "patch": {
+        "explanation": "甲正確，乙正確。甲：由行動到環境再到心情，逐層深化。乙：尋而無慰藉，外冷與內悲相接，使愁加重。",
+        "summary": "甲正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙不正確",
+            "explanation": "對乙的判斷不合：尋而無慰藉，外冷與內悲相接，使愁加重。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：由行動到環境再到心情，逐層深化。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙正確",
+            "explanation": "甲正確，乙正確。甲：由行動到環境再到心情，逐層深化。乙：尋而無慰藉，外冷與內悲相接，使愁加重。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：由行動到環境再到心情，逐層深化。對乙的判斷不合：尋而無慰藉，外冷與內悲相接，使愁加重。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：尋而無慰藉，外冷與內悲相接，使愁加重；對甲的判斷不合：由行動到環境再到心情，逐層深化；對甲的判斷不合：由行動到環境再到心情，逐層深化。對乙的判斷不合：尋而無慰藉，外冷與內悲相接，使愁加重。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：開首「尋尋覓覓，冷冷清清，悽悽慘慘戚戚」如何逐層推進？\n甲：由反覆尋覓的動作，至環境冷落，再深入內心悲戚\n乙：尋覓的努力沒有帶來慰藉，冷清的外境與悲戚的內心接連展開，愁意逐層加重。",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-05-00-02",
+      "ordinal": 49,
+      "baseQuestionHash": "366d0b3f9a350a1e6adbf170fab72561264ad3e7d82ba2a18aca029e0e3b6bbf",
+      "patch": {
+        "explanation": "怎敵把少量淡酒與急風相對，直說難禦外寒，又映內愁難消。詞中不是酒質檢驗或尚未開始飲酒，也沒有身體雖冷而精神已充分慰藉的結論。",
+        "summary": "怎敵把少量淡酒與急風相對，直說難禦外寒，又映內愁難消。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "少量酒雖未暖身，卻已使詞人在精神上得到充足慰藉",
+            "explanation": "後文正傷心及末尾愁語顯示精神未解；不能將禦寒失效改成心理成功。"
+          },
+          {
+            "id": "b",
+            "text": "少量酒難以抵擋急風寒意，也映出內心愁苦難消",
+            "explanation": "怎敵把少量淡酒與急風相對，直說難禦外寒，又映內愁難消。"
+          },
+          {
+            "id": "c",
+            "text": "急風使人決定不飲酒，淡酒只是尚未實行的排愁計劃",
+            "explanation": "三杯兩盞是在描寫借酒的處境，怎敵是感到無效，不是尚未嘗試的決定。"
+          },
+          {
+            "id": "d",
+            "text": "酒淡客觀證明釀造失當，因此愁情主要來自酒質不佳",
+            "explanation": "詞中借淡酒寫感受，不能當成釀酒質量報告；來源亦不把愁因歸於酒質。"
+          }
+        ],
+        "misconception": "後文正傷心及末尾愁語顯示精神未解；不能將禦寒失效改成心理成功；三杯兩盞是在描寫借酒的處境，怎敵是感到無效，不是尚未嘗試的決定；詞中借淡酒寫感受，不能當成釀酒質量報告；來源亦不把愁因歸於酒質。"
+      },
+      "objective": "「三杯兩盞淡酒，怎敵他晚來風急」的「怎敵」連起哪兩層感受？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-05-00-03",
+      "ordinal": 50,
+      "baseQuestionHash": "87a5ee83071b439d2429f1a08ec03243df30c100720a2442e7487306c15928c6",
+      "patch": {
+        "explanation": "候雁南北遷徙及舊時熟悉景象，使南渡者眼前生活連到離鄉往事。這可牽動故國之思，卻不是故鄉已安定的消息，更不能由鳥的遷程斷定人永不能歸。",
+        "summary": "候雁南北遷徙及舊時熟悉景象，使南渡者眼前生活連到離鄉往事。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "雁隨季節往返南北，眼前熟悉景象牽動離鄉記憶",
+            "explanation": "候雁南北遷徙及舊時熟悉景象，使南渡者眼前生活連到離鄉往事。"
+          },
+          {
+            "id": "b",
+            "text": "雁年年南來，使詞人確信自己再無北歸的可能",
+            "explanation": "候鳥遷徙不能證明自己永無北歸可能。"
+          },
+          {
+            "id": "c",
+            "text": "雁仍如舊時飛過，使詞人感到昔日生活絲毫未變",
+            "explanation": "舊景反觸今昔落差，非生活不變。"
+          },
+          {
+            "id": "d",
+            "text": "雁群象徵已收到家書，使詞人確認故國局勢安定",
+            "explanation": "意象聯想不等於真收到安定消息。"
+          }
+        ],
+        "misconception": "候鳥遷徙不能證明自己永無北歸可能；舊景反觸今昔落差，非生活不變；意象聯想不等於真收到安定消息。"
+      },
+      "objective": "結合詞人南渡漂泊的處境，過雁為何可引起故國之思？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-05-00-04",
+      "ordinal": 51,
+      "baseQuestionHash": "441b0da9f3bef1134009e99cde34f17fc85c07e3546c8ac4ca301d710176512e",
+      "patch": {
+        "explanation": "甲不正確，乙正確。甲：同有悲感不能容花盛花衰、人花主體混用。乙：花可摘人無心，符合花盛人憔悴一路。",
+        "summary": "甲不正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲不正確，乙正確",
+            "explanation": "甲不正確，乙正確。甲：同有悲感不能容花盛花衰、人花主體混用。乙：花可摘人無心，符合花盛人憔悴一路。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙正確",
+            "explanation": "對甲的判斷不合：同有悲感不能容花盛花衰、人花主體混用。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙不正確",
+            "explanation": "對甲的判斷不合：同有悲感不能容花盛花衰、人花主體混用。對乙的判斷不合：花可摘人無心，符合花盛人憔悴一路。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對乙的判斷不合：花可摘人無心，符合花盛人憔悴一路。"
+          }
+        ],
+        "misconception": "對甲的判斷不合：同有悲感不能容花盛花衰、人花主體混用；對甲的判斷不合：同有悲感不能容花盛花衰、人花主體混用。對乙的判斷不合：花可摘人無心，符合花盛人憔悴一路；對乙的判斷不合：花可摘人無心，符合花盛人憔悴一路。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「黃花」「憔悴」有不同解讀。哪項分析能保持主體和理由一致？\n甲：既然不同解讀都悲，花況和憔悴主體便可任意互換而無須交代\n乙：若解作花盛人憔悴，可說無心賞摘，形成物是人非的感傷",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-05-00-05",
+      "ordinal": 52,
+      "baseQuestionHash": "d0be58e90f67952ce4a3e9c37e9400943d5c1b986fe893ea14e32ef82ee43b88",
+      "patch": {
+        "explanation": "甲不正確，乙正確。甲：白日早有愁，並非等黑才開始。乙：怎生得黑把孤獨等待寫成難熬。",
+        "summary": "甲不正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對甲的判斷不合：白日早有愁，並非等黑才開始。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "甲不正確，乙正確。甲：白日早有愁，並非等黑才開始。乙：怎生得黑把孤獨等待寫成難熬。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙不正確",
+            "explanation": "對甲的判斷不合：白日早有愁，並非等黑才開始。對乙的判斷不合：怎生得黑把孤獨等待寫成難熬。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對乙的判斷不合：怎生得黑把孤獨等待寫成難熬。"
+          }
+        ],
+        "misconception": "對甲的判斷不合：白日早有愁，並非等黑才開始；對甲的判斷不合：白日早有愁，並非等黑才開始。對乙的判斷不合：怎生得黑把孤獨等待寫成難熬；對乙的判斷不合：怎生得黑把孤獨等待寫成難熬。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「守着窗兒，獨自怎生得黑」表現甚麼時間感受？\n甲：盼天黑是為了能開始排愁，因此白日尚沒有悲情\n乙：孤身無伴，白日難熬，盼能捱到天黑",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-05-00-06",
+      "ordinal": 53,
+      "baseQuestionHash": "5a61c28845c29490a7a57b2ede6d0f5e7ddada942b755c1d92ff8b6b14aeba8c",
+      "patch": {
+        "explanation": "獨自守窗已覺白日難過，更兼細雨又使黃昏仍有點滴入耳。新的一層聲景延續煎熬，不是喧鬧打斷愁思，亦未寫昔日共聽雨或梧桐葉落。",
+        "summary": "獨自守窗已覺白日難過，更兼細雨又使黃昏仍有點滴入耳。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "由白日難熬寫到黃昏雨聲，使守窗獨處的愁苦再添一層",
+            "explanation": "獨自守窗已覺白日難過，更兼細雨又使黃昏仍有點滴入耳。"
+          },
+          {
+            "id": "b",
+            "text": "由熟悉雨聲牽回昔日生活，以今日無人共聽與往日相聚作對照",
+            "explanation": "此處沒有敘寫昔日共同聽雨的生活；由舊識牽動往昔的寫法主要見於前文過雁，不能移置成此句的具體情節。"
+          },
+          {
+            "id": "c",
+            "text": "先以雨聲寫出戶外的喧鬧，再反襯守窗無語，形成動靜強烈對比",
+            "explanation": "點點滴滴強調細碎而綿延可聞的聲音，使寂寥更深；不能把戶外先概括為喧鬧，再據此解釋反襯。"
+          },
+          {
+            "id": "d",
+            "text": "以黃昏結束白日的等待，再由梧桐葉落引出對年華衰老的感慨",
+            "explanation": "詞句寫雨而未寫葉落；黃昏亦延續煎熬，不能據天黑便判為等待結束，再補入葉落惜年華。"
+          }
+        ],
+        "misconception": "此處沒有敘寫昔日共同聽雨的生活；由舊識牽動往昔的寫法主要見於前文過雁，不能移置成此句的具體情節；點點滴滴強調細碎而綿延可聞的聲音，使寂寥更深；不能把戶外先概括為喧鬧，再據此解釋反襯；詞句寫雨而未寫葉落；黃昏亦延續煎熬，不能據天黑便判為等待結束，再補入葉落惜年華。"
+      },
+      "objective": "梧桐細雨接在「獨自怎生得黑」之後，如何加深詞人的感受？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-05-00-07",
+      "ordinal": 54,
+      "baseQuestionHash": "66168cb7f1122c90c39dfc53b2d6f431c3b3b126e5868eff754806ca3ad86bef",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：總括種種處境，反問說一字不足。乙：反問已寓否定答案，不是方向未定的提問。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：反問已寓否定答案，不是方向未定的提問。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：總括種種處境，反問說一字不足。乙：反問已寓否定答案，不是方向未定的提問。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：總括種種處境，反問說一字不足。對乙的判斷不合：反問已寓否定答案，不是方向未定的提問。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：總括種種處境，反問說一字不足。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：反問已寓否定答案，不是方向未定的提問；對甲的判斷不合：總括種種處境，反問說一字不足。對乙的判斷不合：反問已寓否定答案，不是方向未定的提問；對甲的判斷不合：總括種種處境，反問說一字不足。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「這次第，怎一箇愁字了得」怎樣收束全詞？\n甲：總括前文種種處境，以反問強調悲苦難以盡言\n乙：問句沒有寫明答案，所以不能判斷詞人是否覺得愁深",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-05-01-80",
+      "ordinal": 55,
+      "baseQuestionHash": "d9852ab47cbeb855966de6702ed78c7cb8e518e0cea0055df73b150f66bc5591",
+      "patch": {
+        "explanation": "開首先尋慰藉卻得冷清，酒無力抵風，再由雁引舊情，悲苦逐層加深。原文先後順序和怎敵正傷心的語氣都支持此進程，不能改成先解愁後首次生愁。",
+        "summary": "開首先尋慰藉卻得冷清，酒無力抵風，再由雁引舊情，悲苦逐層加深。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "先以尋覓消除孤寂，再飲酒自慶，最後因雁過才首次傷心",
+            "explanation": "開篇悽慘戚戚已傷心，酒也有怎敵，不能把前兩步讀成得慰藉。"
+          },
+          {
+            "id": "b",
+            "text": "先尋慰藉而未得，借酒仍難解愁，過雁又觸起舊情",
+            "explanation": "開首先尋慰藉卻得冷清，酒無力抵風，再由雁引舊情，悲苦逐層加深。"
+          },
+          {
+            "id": "c",
+            "text": "先寫寒風造成不適，飲酒治癒後再平靜記下秋雁",
+            "explanation": "怎敵表示不能抵擋，正傷心也非平靜景物記錄；開篇不只是身體不適。"
+          },
+          {
+            "id": "d",
+            "text": "先因雁過而生舊愁，再回憶尋覓與飲酒的補救經過",
+            "explanation": "上片先尋覓飲酒後雁過，沒有把前文標為倒敘；原次序具有疊加作用。"
+          }
+        ],
+        "misconception": "開篇悽慘戚戚已傷心，酒也有怎敵，不能把前兩步讀成得慰藉；怎敵表示不能抵擋，正傷心也非平靜景物記錄；開篇不只是身體不適；上片先尋覓飲酒後雁過，沒有把前文標為倒敘；原次序具有疊加作用。"
+      },
+      "objective": "《聲聲慢》上片由尋覓、飲酒寫到雁過，感受如何推進？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-06-00-80",
+      "ordinal": 56,
+      "baseQuestionHash": "33654fb3bfe626bfa5946f67be00423c8e63b0f23cbdd01aeffa36a206f192c1",
+      "patch": {
+        "explanation": "舊時相識給眼前候雁加上熟悉往昔的感受，南渡漂泊由此連故國。認同意象的懷鄉作用不等於確定同一隻家養雁、真收家書或預告終生不能北歸。",
+        "summary": "舊時相識給眼前候雁加上熟悉往昔的感受，南渡漂泊由此連故國。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "認出同一隻舊日家養雁，因而確定家中已有人寄來書信",
+            "explanation": "原詞不能辨定同一隻或家養，亦未寫取得書信；雁書意象不等於本次有信。"
+          },
+          {
+            "id": "b",
+            "text": "熟悉的候雁使眼前南方生活連到往昔，勾起漂泊與故國之念",
+            "explanation": "舊時相識給眼前候雁加上熟悉往昔的感受，南渡漂泊由此連故國。"
+          },
+          {
+            "id": "c",
+            "text": "候雁依時南來，證明故鄉生活仍與昔日完全相同",
+            "explanation": "候鳥循時不能證明人事不變；舊識正能引出昔今落差。"
+          },
+          {
+            "id": "d",
+            "text": "候雁這次向南飛，便足以判定詞人以後不能北歸",
+            "explanation": "一次季節遷徙不能預言人生歸程；原文表當下思鄉，不作這種必然推斷。"
+          }
+        ],
+        "misconception": "原詞不能辨定同一隻或家養，亦未寫取得書信；雁書意象不等於本次有信；候鳥循時不能證明人事不變；舊識正能引出昔今落差；一次季節遷徙不能預言人生歸程；原文表當下思鄉，不作這種必然推斷。"
+      },
+      "objective": "結合南渡漂泊的處境，「雁過」「舊時相識」為何可引起故國之思？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-06-01-80",
+      "ordinal": 57,
+      "baseQuestionHash": "77b5110e9f0580ebace9d2d644cae482e8a4a200cf0d542816736eb41196ebf9",
+      "patch": {
+        "explanation": "正傷心先確立當下悲情，卻是舊識又把外物連回從前，使今昔落差加深。這不是熟人團聚的喜訊，也不是見雁後才第一次悲傷，關鍵在前愁上再觸舊情。",
+        "summary": "正傷心先確立當下悲情，卻是舊識又把外物連回從前，使今昔落差加深。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "原已傷心，認出舊識便轉為歡喜，悲喜由卻字決定",
+            "explanation": "卻可有轉折、意外，情緒須看上下文；來源明說舊識又勾起傷心，非必轉喜。"
+          },
+          {
+            "id": "b",
+            "text": "原只觀察雁群，認出舊識之後才第一次感到傷心",
+            "explanation": "正傷心表示當時已有傷心，不能把傷心的起點移到認出之後。"
+          },
+          {
+            "id": "c",
+            "text": "原在回憶舊友，正傷心才把描寫轉到未見過的新雁",
+            "explanation": "舊時相識將眼前與往昔相連，沒有把雁說成未見過；也未明寫先回憶特定舊友。"
+          },
+          {
+            "id": "d",
+            "text": "原已傷心，眼前雁又被認為舊識，讓今昔聯想加深愁緒",
+            "explanation": "正傷心先確立當下悲情，卻是舊識又把外物連回從前，使今昔落差加深。"
+          }
+        ],
+        "misconception": "卻可有轉折、意外，情緒須看上下文；來源明說舊識又勾起傷心，非必轉喜；正傷心表示當時已有傷心，不能把傷心的起點移到認出之後；舊時相識將眼前與往昔相連，沒有把雁說成未見過；也未明寫先回憶特定舊友。"
+      },
+      "objective": "「正傷心」與「卻是舊時相識」怎樣相接？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-06-02-80",
+      "ordinal": 58,
+      "baseQuestionHash": "9a32dd53022f61ade00a2f95db5279277674a3ffcf949f3cdeb69e6555bf4e4b",
+      "patch": {
+        "explanation": "雁可傳書的文化聯想，遇上丈夫已逝的處境，便引再不能相通及昔日相伴之痛。意象能幫助論證悼亡，但不能改成實際收到亡夫信件，亦不排斥同時懷鄉。",
+        "summary": "雁可傳書的文化聯想，遇上丈夫已逝的處境，便引再不能相通及昔日相伴之痛。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "有雁傳書的文化聯想，就足以證明本詞實際寫收到亡夫舊信",
+            "explanation": "文化聯想不等於具體收信事件。"
+          },
+          {
+            "id": "b",
+            "text": "雁有傳書聯想，但丈夫已逝，觸起再難相通及舊日相伴之痛",
+            "explanation": "雁可傳書的文化聯想，遇上丈夫已逝的處境，便引再不能相通及昔日相伴之痛。"
+          },
+          {
+            "id": "c",
+            "text": "若從悼亡解雁，就必須取消同一意象牽動故國與漂泊的可能",
+            "explanation": "一意象可連不同相關感情，不必互斥。"
+          },
+          {
+            "id": "d",
+            "text": "雁仍年年往返，便說詞人與亡夫的往昔生活也未改變",
+            "explanation": "自然如常可加深人事已變的落差。"
+          }
+        ],
+        "misconception": "文化聯想不等於具體收信事件；一意象可連不同相關感情，不必互斥；自然如常可加深人事已變的落差。"
+      },
+      "objective": "若從悼亡角度理解過雁之愁，哪條推論較完整？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-07-00-80",
+      "ordinal": 59,
+      "baseQuestionHash": "a5c7fbe3a2dd3b41a458a7eaa6b8a83cbd18b8fdcb928a709bd6143a075f0d20",
+      "patch": {
+        "explanation": "守窗盼黑之後，到黃昏仍有點滴雨聲，更兼使愁再增一層。時間推進沒有帶來釋然，反讓孤獨綿延；此處接續眼前聽雨，非忽轉往昔離別回憶。",
+        "summary": "守窗盼黑之後，到黃昏仍有點滴雨聲，更兼使愁再增一層。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "以雨聲打斷守窗的沉思，使先前的孤愁暫時得到排遣",
+            "explanation": "雨聲確帶來新的感官刺激，但「更兼」表示愁上再加一層，末句仍嘆愁難說盡，並非排遣。"
+          },
+          {
+            "id": "b",
+            "text": "以延續到黃昏的點滴雨聲，加深獨處者對時間難熬的感受",
+            "explanation": "守窗盼黑之後，到黃昏仍有點滴雨聲，更兼使愁再增一層。"
+          },
+          {
+            "id": "c",
+            "text": "以黃昏到來呼應盼黑的願望，表現等待終結後的釋然",
+            "explanation": "「到黃昏」確回應時間推移，但點滴雨聲及末句愁語顯示痛苦未了，不能把天黑當成愁已解除。"
+          },
+          {
+            "id": "d",
+            "text": "以梧桐雨聲追憶昔日守窗，把感受的重心轉到過往離別",
+            "explanation": "「舊時相識」曾觸舊情，但這裡「獨自」「到黃昏」延續眼前守窗的處境，沒有把雨景改成往昔守窗的回憶。"
+          }
+        ],
+        "misconception": "雨聲確帶來新的感官刺激，但「更兼」表示愁上再加一層，末句仍嘆愁難說盡，並非排遣；「到黃昏」確回應時間推移，但點滴雨聲及末句愁語顯示痛苦未了，不能把天黑當成愁已解除；「舊時相識」曾觸舊情，但這裡「獨自」「到黃昏」延續眼前守窗的處境，沒有把雨景改成往昔守窗的回憶。"
+      },
+      "objective": "「梧桐更兼細雨，到黃昏、點點滴滴」接在「獨自怎生得黑」之後，有何作用？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-07-05-80",
+      "ordinal": 60,
+      "baseQuestionHash": "ca6ec4701bd6d6421c8b68a715bfb8e3f4a6479364c3e4965c0ee0b6b1e4a343",
+      "patch": {
+        "explanation": "後世白樸的雨愁可用來比較相通情味，卻不能成李清照直接引用的來源。文學互照不等於承襲證據，同寫雨也仍須辨人物處境與各自作用。",
+        "summary": "後世白樸的雨愁可用來比較相通情味，卻不能成李清照直接引用的來源。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "字面有相通處，便可認定李清照直接抄用了白樸",
+            "explanation": "後世作品不能成前人直接引用來源。"
+          },
+          {
+            "id": "b",
+            "text": "白樸晚出，便表示兩作的雨聲絕不可能有共同情味",
+            "explanation": "晚出不妨礙情味比較。"
+          },
+          {
+            "id": "c",
+            "text": "兩者可幫助比較雨聲與愁情，但不能據此說李清照引用白樸",
+            "explanation": "後世白樸的雨愁可用來比較相通情味，卻不能成李清照直接引用的來源。"
+          },
+          {
+            "id": "d",
+            "text": "只要兩作同寫雨，就可忽略人物處境與時間差異",
+            "explanation": "同寫雨不等於處境全同。"
+          }
+        ],
+        "misconception": "後世作品不能成前人直接引用來源；晚出不妨礙情味比較；同寫雨不等於處境全同。"
+      },
+      "objective": "白樸晚於李清照。用白樸《梧桐雨》「助恨添愁」與本詞互相比讀，哪種說法成立？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-07-06-80",
+      "ordinal": 61,
+      "baseQuestionHash": "8935d96fee1d0dec4625413d2f95dddaf1e903e2495f2ed9e0b8189cce68183f",
+      "patch": {
+        "explanation": "甲正確，乙正確。甲：到黃昏雨仍點滴，愁也延續。乙：反覆聽覺與時間標記合寫獨處的漫長。",
+        "summary": "甲正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "甲正確，乙正確。甲：到黃昏雨仍點滴，愁也延續。乙：反覆聽覺與時間標記合寫獨處的漫長。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙不正確",
+            "explanation": "對乙的判斷不合：反覆聽覺與時間標記合寫獨處的漫長。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：到黃昏雨仍點滴，愁也延續。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：到黃昏雨仍點滴，愁也延續。對乙的判斷不合：反覆聽覺與時間標記合寫獨處的漫長。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：反覆聽覺與時間標記合寫獨處的漫長；對甲的判斷不合：到黃昏雨仍點滴，愁也延續；對甲的判斷不合：到黃昏雨仍點滴，愁也延續。對乙的判斷不合：反覆聽覺與時間標記合寫獨處的漫長。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「到黃昏、點點滴滴」直接呈現甚麼？\n甲：雨聲延續至黃昏，愁思隨之纏綿不歇\n乙：細雨的點滴被寫成可聽而持續的過程，黃昏這一時間標記使獨處的煎熬更顯綿長。",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-07-07-80",
+      "ordinal": 62,
+      "baseQuestionHash": "2950600667417c80bbe22bafc161f6befa05c39d3ebf591e74b6d71d258fff8e",
+      "patch": {
+        "explanation": "甲不正確，乙正確。甲：更兼承接獨守，聲景明與同一抒情主體相連。乙：本已孤寂，再加持續雨聲，愁更具體可感。",
+        "summary": "甲不正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對甲的判斷不合：更兼承接獨守，聲景明與同一抒情主體相連。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙不正確",
+            "explanation": "對甲的判斷不合：更兼承接獨守，聲景明與同一抒情主體相連。對乙的判斷不合：本已孤寂，再加持續雨聲，愁更具體可感。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "甲不正確，乙正確。甲：更兼承接獨守，聲景明與同一抒情主體相連。乙：本已孤寂，再加持續雨聲，愁更具體可感。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對乙的判斷不合：本已孤寂，再加持續雨聲，愁更具體可感。"
+          }
+        ],
+        "misconception": "對甲的判斷不合：更兼承接獨守，聲景明與同一抒情主體相連；對甲的判斷不合：更兼承接獨守，聲景明與同一抒情主體相連。對乙的判斷不合：本已孤寂，再加持續雨聲，愁更具體可感；對乙的判斷不合：本已孤寂，再加持續雨聲，愁更具體可感。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：梧桐細雨接在「獨自怎生得黑」之後，如何加深詞人的感受？\n甲：梧桐細雨只描寫秋日常景，不能與獨自守窗的主體相連\n乙：獨守已覺難熬，細雨點滴又使清冷與綿長愁思更可感",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-08-00-01",
+      "ordinal": 63,
+      "baseQuestionHash": "6432c7bcb6785f9fcab9434dc5c4850730e9013460f41e8aaf2f9fbce6dc560f",
+      "patch": {
+        "explanation": "甲不正確，乙正確。甲：末組悽慘戚戚更重，不是回到平靜。乙：尋覓、冷清、悲戚分屬行動外境內情的推進。",
+        "summary": "甲不正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對甲的判斷不合：末組悽慘戚戚更重，不是回到平靜。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙不正確",
+            "explanation": "對甲的判斷不合：末組悽慘戚戚更重，不是回到平靜。對乙的判斷不合：尋覓、冷清、悲戚分屬行動外境內情的推進。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "甲不正確，乙正確。甲：末組悽慘戚戚更重，不是回到平靜。乙：尋覓、冷清、悲戚分屬行動外境內情的推進。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對乙的判斷不合：尋覓、冷清、悲戚分屬行動外境內情的推進。"
+          }
+        ],
+        "misconception": "對甲的判斷不合：末組悽慘戚戚更重，不是回到平靜；對甲的判斷不合：末組悽慘戚戚更重，不是回到平靜。對乙的判斷不合：尋覓、冷清、悲戚分屬行動外境內情的推進；對乙的判斷不合：尋覓、冷清、悲戚分屬行動外境內情的推進。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：開首「尋尋覓覓，冷冷清清，悽悽慘慘戚戚」如何逐層推進？\n甲：三組依情緒由強至弱排列，逐步從悲痛恢復平靜\n乙：由反覆尋覓的動作，至環境冷落，再深入內心悲戚",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-08-00-02",
+      "ordinal": 64,
+      "baseQuestionHash": "82702faefdfc442ba6dbf4da280cf27c4b7e9170380cc9c218aa04e35c11dbcb",
+      "patch": {
+        "explanation": "點滴疊音將細碎雨聲寫成綿延不斷，配守窗與到黃昏，讓孤愁隨難熬時間加深。聲小不等於悲輕，聲景也非取代內心，而是使內心更具體可感。",
+        "summary": "點滴疊音將細碎雨聲寫成綿延不斷，配守窗與到黃昏，讓孤愁隨難熬時間加深。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "用雨滴細小表明愁苦已變輕，讓末尾轉向平靜",
+            "explanation": "雨滴大小不等於愁量大小；末句怎一箇愁字了得仍說愁深。"
+          },
+          {
+            "id": "b",
+            "text": "用反覆音節呈現綿延雨聲，使守窗者的孤愁隨時間加深",
+            "explanation": "點滴疊音將細碎雨聲寫成綿延不斷，配守窗與到黃昏，讓孤愁隨難熬時間加深。"
+          },
+          {
+            "id": "c",
+            "text": "用斷續雨聲標出短暫降雨，說明守窗等待即將結束",
+            "explanation": "點點滴滴在此反覆延綿、到黃昏，並非用以證明雨短或愁已結束。"
+          },
+          {
+            "id": "d",
+            "text": "用密集雨聲遮住詞人思緒，使景物取代內心感受",
+            "explanation": "聲景與守窗、愁語相連，是深化感受，非把感受從詞中替換掉。"
+          }
+        ],
+        "misconception": "雨滴大小不等於愁量大小；末句怎一箇愁字了得仍說愁深；點點滴滴在此反覆延綿、到黃昏，並非用以證明雨短或愁已結束；聲景與守窗、愁語相連，是深化感受，非把感受從詞中替換掉。"
+      },
+      "objective": "「點點滴滴」怎樣使雨聲與孤愁相連？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-08-00-03",
+      "ordinal": 65,
+      "baseQuestionHash": "109df3b771bda851258ca6fb60ae719129202199afb51fa9919f78c8c7256dda",
+      "patch": {
+        "explanation": "冷暖是身體觸覺，過雁黃花是所見的視覺，雨滴反覆突出聽覺。多感官都服務孤清悲苦，判別仍須逐句指向具體感受，不能因雨可看就排除聲音。",
+        "summary": "冷暖是身體觸覺，過雁黃花是所見的視覺，雨滴反覆突出聽覺。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "乍煖還寒—觸覺；過雁黃花—視覺；點點滴滴—只屬視覺",
+            "explanation": "點滴在梧桐細雨中突出雨聲，不能只視覺。"
+          },
+          {
+            "id": "b",
+            "text": "乍煖還寒—只屬視覺；過雁黃花—視覺；點點滴滴—聽覺",
+            "explanation": "冷暖主要身體感受，非看見。"
+          },
+          {
+            "id": "c",
+            "text": "乍煖還寒—觸覺；過雁黃花—主要聽覺；點點滴滴—聽覺",
+            "explanation": "過雁黃花呈所見，黃花不發聲。"
+          },
+          {
+            "id": "d",
+            "text": "乍煖還寒—觸覺；過雁黃花—視覺；點點滴滴—聽覺",
+            "explanation": "冷暖是身體觸覺，過雁黃花是所見的視覺，雨滴反覆突出聽覺。"
+          }
+        ],
+        "misconception": "點滴在梧桐細雨中突出雨聲，不能只視覺；冷暖主要身體感受，非看見；過雁黃花呈所見，黃花不發聲。"
+      },
+      "objective": "哪項把詞中景物與感官正確配對？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-08-00-04",
+      "ordinal": 66,
+      "baseQuestionHash": "b78a7821630dae874757f13acbc06f14fe0ed53b613c5190100f8b24f7d30951",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：冷暖可感、雁花可見、點滴可聽，各對感官。乙：點滴在梧桐雨中突出聽覺，非只視覺。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：點滴在梧桐雨中突出聽覺，非只視覺。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：冷暖可感、雁花可見、點滴可聽，各對感官。對乙的判斷不合：點滴在梧桐雨中突出聽覺，非只視覺。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：冷暖可感、雁花可見、點滴可聽，各對感官。乙：點滴在梧桐雨中突出聽覺，非只視覺。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：冷暖可感、雁花可見、點滴可聽，各對感官。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：點滴在梧桐雨中突出聽覺，非只視覺；對甲的判斷不合：冷暖可感、雁花可見、點滴可聽，各對感官。對乙的判斷不合：點滴在梧桐雨中突出聽覺，非只視覺；對甲的判斷不合：冷暖可感、雁花可見、點滴可聽，各對感官。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：哪項把詞中景物與感官正確配對？\n甲：乍煖還寒—觸覺；過雁黃花—視覺；點點滴滴—聽覺\n乙：乍煖還寒—觸覺；過雁黃花—視覺；點點滴滴—只屬視覺",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-08-00-05",
+      "ordinal": 67,
+      "baseQuestionHash": "100eecd5c7287b2175eb699e2e47f9b8d2bf3281b61701c66dadb1dabbc5b674",
+      "patch": {
+        "explanation": "甲不正確，乙正確。甲：外在聲音可觸內情，兩者不互斥。乙：疊音延續雨聲，襯孤愁不歇及等待難熬。",
+        "summary": "甲不正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對甲的判斷不合：外在聲音可觸內情，兩者不互斥。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "甲不正確，乙正確。甲：外在聲音可觸內情，兩者不互斥。乙：疊音延續雨聲，襯孤愁不歇及等待難熬。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙不正確",
+            "explanation": "對甲的判斷不合：外在聲音可觸內情，兩者不互斥。對乙的判斷不合：疊音延續雨聲，襯孤愁不歇及等待難熬。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對乙的判斷不合：疊音延續雨聲，襯孤愁不歇及等待難熬。"
+          }
+        ],
+        "misconception": "對甲的判斷不合：外在聲音可觸內情，兩者不互斥；對甲的判斷不合：外在聲音可觸內情，兩者不互斥。對乙的判斷不合：疊音延續雨聲，襯孤愁不歇及等待難熬；對乙的判斷不合：疊音延續雨聲，襯孤愁不歇及等待難熬。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「點點滴滴」怎樣把雨景與愁情相連？\n甲：雨聲是外在聲音，因此只能襯景而不能加深內心愁思\n乙：以反覆聲響使細雨不斷可聞，襯出獨處愁思難止",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-08-00-06",
+      "ordinal": 68,
+      "baseQuestionHash": "563166e3cd98c1b0cea2b978c6823ffe256d30283c83425efd75d83be3d19fe6",
+      "patch": {
+        "explanation": "抬頭見過雁、低頭見黃花，形成仰俯視角變化，悲感則持續。共同悲愁不等於每景聯想完全相同：雁可引故國舊情，花可映身世憔悴。",
+        "summary": "抬頭見過雁、低頭見黃花，形成仰俯視角變化，悲感則持續。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "仰看過雁後俯看黃花，視角轉換便表示悲感已轉成歡喜",
+            "explanation": "視角變化不代表感情轉喜。"
+          },
+          {
+            "id": "b",
+            "text": "仰看過雁，俯看黃花；視線改變而悲感相續",
+            "explanation": "抬頭見過雁、低頭見黃花，形成仰俯視角變化，悲感則持續。"
+          },
+          {
+            "id": "c",
+            "text": "仰俯各見不同物象，因此兩者所引感情必須完全相同",
+            "explanation": "共通悲感下可有故國、衰老等不同聯想。"
+          },
+          {
+            "id": "d",
+            "text": "兩處物象都可牽動身世，所以不需要交代觀察方向",
+            "explanation": "此題問觀察方向，仍須辨仰俯。"
+          }
+        ],
+        "misconception": "視角變化不代表感情轉喜；共通悲感下可有故國、衰老等不同聯想；此題問觀察方向，仍須辨仰俯。"
+      },
+      "objective": "按觀察方向，過雁與地上黃花有何不同？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-08-00-07",
+      "ordinal": 69,
+      "baseQuestionHash": "929492b72d365c913e18943a5caa1f0e390eb811cf40e642ace79b19e9134654",
+      "patch": {
+        "explanation": "甲不正確，乙正確。甲：雁仍在而人事已變，熟悉正可加深落差。乙：候雁南北與自身離鄉相連，提供懷鄉依據。",
+        "summary": "甲不正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲不正確，乙正確",
+            "explanation": "甲不正確，乙正確。甲：雁仍在而人事已變，熟悉正可加深落差。乙：候雁南北與自身離鄉相連，提供懷鄉依據。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙正確",
+            "explanation": "對甲的判斷不合：雁仍在而人事已變，熟悉正可加深落差。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙不正確",
+            "explanation": "對甲的判斷不合：雁仍在而人事已變，熟悉正可加深落差。對乙的判斷不合：候雁南北與自身離鄉相連，提供懷鄉依據。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對乙的判斷不合：候雁南北與自身離鄉相連，提供懷鄉依據。"
+          }
+        ],
+        "misconception": "對甲的判斷不合：雁仍在而人事已變，熟悉正可加深落差；對甲的判斷不合：雁仍在而人事已變，熟悉正可加深落差。對乙的判斷不合：候雁南北與自身離鄉相連，提供懷鄉依據；對乙的判斷不合：候雁南北與自身離鄉相連，提供懷鄉依據。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：結合詞人南渡漂泊的處境，過雁為何可引起故國之思？\n甲：雁仍如舊時飛過，使詞人感到昔日生活絲毫未變\n乙：雁隨季節往返南北，眼前熟悉景象牽動離鄉記憶",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-08-00-08",
+      "ordinal": 70,
+      "baseQuestionHash": "97806924c017fb3fd87057651b199345dba09fe13b1c2019b67b9ccfb8dfcee8",
+      "patch": {
+        "explanation": "按花凋讀法，花的憔悴與人衰老無依同向映照，內情融入外景。這可屬緣情寫景自喻，不應誤稱兩者相反的對比，也不因寄情便否認眼前花景。",
+        "summary": "按花凋讀法，花的憔悴與人衰老無依同向映照，內情融入外景。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "既說花已凋殘，就只能停留字面花況，不能映照人況",
+            "explanation": "實景與自況可以兼具。"
+          },
+          {
+            "id": "b",
+            "text": "花與人同有憔悴，就必須歸作相反狀態的對比",
+            "explanation": "同方向相映不是相反狀態的對照。"
+          },
+          {
+            "id": "c",
+            "text": "若以花況寄悲，便表示花不是篇中所見，只能是抽象概念",
+            "explanation": "寄情不取消物象的景物層。"
+          },
+          {
+            "id": "d",
+            "text": "花的憔悴映照人的衰老與無人憐惜，景中融入身世悲感",
+            "explanation": "按花凋讀法，花的憔悴與人衰老無依同向映照，內情融入外景。"
+          }
+        ],
+        "misconception": "實景與自況可以兼具；同方向相映不是相反狀態的對照；寄情不取消物象的景物層。"
+      },
+      "objective": "若按花已凋殘的讀法理解黃花，哪項景情分析一致？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-08-00-09",
+      "ordinal": 71,
+      "baseQuestionHash": "8445c765cdc0c82b1add1fd58afe68b2b07bcd8b659686a732235d1dbfc9d555",
+      "patch": {
+        "explanation": "完整答案須說物象如何引情：雁舊識牽往昔，黃花連憔悴身世，雨聲延孤獨時間。只列三景或只說都悲，無法解釋不同段落怎樣一步步加深愁。",
+        "summary": "完整答案須說物象如何引情：雁舊識牽往昔，黃花連憔悴身世，雨聲延孤獨時間。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "雁、黃花、雨三者名稱各自就能證明詞人所有生平事件",
+            "explanation": "意象不能代替生平事件考證。"
+          },
+          {
+            "id": "b",
+            "text": "只說三者都是景物，便足以說明各段不同感情",
+            "explanation": "只列類別未解釋景情。"
+          },
+          {
+            "id": "c",
+            "text": "雁的舊識牽動往昔，黃花映照憔悴，雨聲延續獨處的難熬",
+            "explanation": "完整答案須說物象如何引情：雁舊識牽往昔，黃花連憔悴身世，雨聲延孤獨時間。"
+          },
+          {
+            "id": "d",
+            "text": "只說詞人悲傷，無須分辨雁、花、雨在篇中的作用",
+            "explanation": "總說悲傷不能說明具體寫法。"
+          }
+        ],
+        "misconception": "意象不能代替生平事件考證；只列類別未解釋景情；總說悲傷不能說明具體寫法。"
+      },
+      "objective": "哪項以具體意象解釋本詞愁情較完整？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-08-00-10",
+      "ordinal": 72,
+      "baseQuestionHash": "d0edaffe913a0eeab900bbb7d9e34052fa1a7dddb4c03cc62e35021daab32ec2",
+      "patch": {
+        "explanation": "悽慘戚戚、正傷心及末尾愁語直接說出悲情，與主要借雁花雨寄情不同。全詞可兼用直抒與景中含情，分類看這一組表達是否直接落在情緒上。",
+        "summary": "悽慘戚戚、正傷心及末尾愁語直接說出悲情，與主要借雁花雨寄情不同。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "悽悽慘慘戚戚；正傷心；怎一箇愁字了得",
+            "explanation": "悽慘戚戚、正傷心及末尾愁語直接說出悲情，與主要借雁花雨寄情不同。"
+          },
+          {
+            "id": "b",
+            "text": "雁過也；滿地黃花堆積；梧桐更兼細雨",
+            "explanation": "三者主要呈現物象。"
+          },
+          {
+            "id": "c",
+            "text": "三杯兩盞淡酒；雁過也；到黃昏",
+            "explanation": "主要是飲酒、過雁、時刻。"
+          },
+          {
+            "id": "d",
+            "text": "守着窗兒；梧桐更兼細雨；滿地黃花堆積",
+            "explanation": "主要是動作與景物，非全組直接情緒表白。"
+          }
+        ],
+        "misconception": "三者主要呈現物象；主要是飲酒、過雁、時刻；主要是動作與景物，非全組直接情緒表白。"
+      },
+      "objective": "哪組句子都直接表達悲苦，而非主要通過景物寄託？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-08-00-11",
+      "ordinal": 73,
+      "baseQuestionHash": "e60591c5f6cd1a19a89e25bed4fa2b584776ae817250ad1ac00df94c3309c97c",
+      "patch": {
+        "explanation": "採花盛人憔悴，兩者狀態相反，可用美好花況反照人的衰損而見物是人非。這是所選讀法的對比，不能同時稱此花為衰景或因人景不同就拒絕比較。",
+        "summary": "採花盛人憔悴，兩者狀態相反，可用美好花況反照人的衰損而見物是人非。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "花盛與人憔悴雖狀態不同，卻只能分別描述而不能對照",
+            "explanation": "差異正可成對照，寄物是人非。"
+          },
+          {
+            "id": "b",
+            "text": "花仍繁盛與人已憔悴對照，突出物是人非",
+            "explanation": "採花盛人憔悴，兩者狀態相反，可用美好花況反照人的衰損而見物是人非。"
+          },
+          {
+            "id": "c",
+            "text": "花盛是實景，人憔悴是心境，因此二者不屬可比較層次",
+            "explanation": "外物與人況可對照，非必同類物件。"
+          },
+          {
+            "id": "d",
+            "text": "既可從花盛讀出悲情，就表示這裏必定也是以衰景寫哀",
+            "explanation": "美好花況反襯哀情，不等於花已衰。"
+          }
+        ],
+        "misconception": "差異正可成對照，寄物是人非；外物與人況可對照，非必同類物件；美好花況反襯哀情，不等於花已衰。"
+      },
+      "objective": "若採「黃花盛開，人已憔悴」的讀法，兩者有何關係？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-08-00-12",
+      "ordinal": 74,
+      "baseQuestionHash": "ae48b3ae396b8e2954507d7bf15e18c8ce6e6ef8e5ec630ec35ec69864800446",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：末句反問含一字說不盡的否定答案。乙：結尾無另一段自答，非設問導消愁方案。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：結尾無另一段自答，非設問導消愁方案。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：末句反問含一字說不盡的否定答案。乙：結尾無另一段自答，非設問導消愁方案。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：末句反問含一字說不盡的否定答案。對乙的判斷不合：結尾無另一段自答，非設問導消愁方案。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：末句反問含一字說不盡的否定答案。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：結尾無另一段自答，非設問導消愁方案；對甲的判斷不合：末句反問含一字說不盡的否定答案。對乙的判斷不合：結尾無另一段自答，非設問導消愁方案；對甲的判斷不合：末句反問含一字說不盡的否定答案。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「怎一箇愁字了得」屬哪種語氣，作用為何？\n甲：反問，強調種種悲苦不能用一字說盡\n乙：設問，末句之後另有一段回答如何消愁",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-09-00-01",
+      "ordinal": 75,
+      "baseQuestionHash": "3d67fee7cfb2e9bf64f37d74e90ddf3ee52b63e08297206075b3fd1ecdbd97f0",
+      "patch": {
+        "explanation": "守窗把孤獨落在日常動作，怎一箇用近口語反問說悲苦難盡。語言淺近仍可含深情餘味，反問亦能抒情，不一定在討論解愁方法。",
+        "summary": "守窗把孤獨落在日常動作，怎一箇用近口語反問說悲苦難盡。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "日常動作呈現孤獨，近口語反問強調難以言盡，真切有餘味",
+            "explanation": "守窗把孤獨落在日常動作，怎一箇用近口語反問說悲苦難盡。"
+          },
+          {
+            "id": "b",
+            "text": "語言接近日常，便意味情感已直接說盡而無餘味",
+            "explanation": "淺近可寫深愁，反問一字難盡有餘味。"
+          },
+          {
+            "id": "c",
+            "text": "用了反問，便表示這兩句只屬議論，不能呈現抒情",
+            "explanation": "反問也可直接抒情。"
+          },
+          {
+            "id": "d",
+            "text": "動作描寫很少，所以孤獨只能靠生平背景說明，篇內沒有依據",
+            "explanation": "守窗獨自等語已有篇內證據。"
+          }
+        ],
+        "misconception": "淺近可寫深愁，反問一字難盡有餘味；反問也可直接抒情；守窗獨自等語已有篇內證據。"
+      },
+      "objective": "「守着窗兒」「怎一箇愁字了得」怎樣以淺近語言寫深愁？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-09-00-02",
+      "ordinal": 76,
+      "baseQuestionHash": "1765f9d1116d76c99880b464786adbbc7478f50079b89eb71fdf74ff13f89cf7",
+      "patch": {
+        "explanation": "開首悲戚定基調，中間景事具體累積觸愁經驗，結尾再總括難言的深愁。呼應在情意深化，毋須末句照抄同一疊字，中間也非可以刪去的裝飾。",
+        "summary": "開首悲戚定基調，中間景事具體累積觸愁經驗，結尾再總括難言的深愁。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "開首先定悲戚，結尾總括其間種種觸愁經歷，強化難言的深度",
+            "explanation": "開首悲戚定基調，中間景事具體累積觸愁經驗，結尾再總括難言的深愁。"
+          },
+          {
+            "id": "b",
+            "text": "首尾都直接說愁，所以中間景物只是可刪除的裝飾",
+            "explanation": "中間使愁具體累積，非裝飾。"
+          },
+          {
+            "id": "c",
+            "text": "開首只定一刻情緒，結尾只寫另一刻，二者沒有回應",
+            "explanation": "全篇悲苦層累，首尾相接。"
+          },
+          {
+            "id": "d",
+            "text": "結尾沒有重複同一疊字，因此不可能與開首呼應",
+            "explanation": "呼應可以是意旨而非逐字重複。"
+          }
+        ],
+        "misconception": "中間使愁具體累積，非裝飾；全篇悲苦層累，首尾相接；呼應可以是意旨而非逐字重複。"
+      },
+      "objective": "結尾「怎一箇愁字了得」與開首「悽悽慘慘戚戚」有何呼應？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-c-15-09-01-80",
+      "ordinal": 77,
+      "baseQuestionHash": "c0849599110c7c342d2ea7676196b068752fcfa8fbb783dfcd10eda4d4975428",
+      "patch": {
+        "explanation": "獨守窗前是孤身難熬的日常動作，末句反問又承認一個愁字說不盡。白描與口語使深愁真切，不能因語言普通便降成安閒無聊或判情緒已全說清。",
+        "summary": "獨守窗前是孤身難熬的日常動作，末句反問又承認一個愁字說不盡。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "以日常守窗動作落實孤獨，再用近口語的反問說愁難盡",
+            "explanation": "獨守窗前是孤身難熬的日常動作，末句反問又承認一個愁字說不盡。"
+          },
+          {
+            "id": "b",
+            "text": "先以守窗交代安閒生活，再用愁字點出一時無聊",
+            "explanation": "怎生得黑及末尾難盡之愁都重於安閒無聊，不能因語言日常而降為小煩悶。"
+          },
+          {
+            "id": "c",
+            "text": "先以守窗提出生活難題，再用反問轉入如何排愁的說理",
+            "explanation": "末句沒有討論排愁方法，仍是抒發一字難概括的苦痛；反問不必是議論。"
+          },
+          {
+            "id": "d",
+            "text": "先直述孤獨，再用一個愁字準確窮盡前文情緒",
+            "explanation": "怎一箇正說一字不夠，不是表示情緒已被窮盡。"
+          }
+        ],
+        "misconception": "怎生得黑及末尾難盡之愁都重於安閒無聊，不能因語言日常而降為小煩悶；末句沒有討論排愁方法，仍是抒發一字難概括的苦痛；反問不必是議論；怎一箇正說一字不夠，不是表示情緒已被窮盡。"
+      },
+      "objective": "「守着窗兒」「怎一箇愁字了得」怎樣以淺近語言寫深愁？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-11-00-80",
+      "ordinal": 78,
+      "baseQuestionHash": "43035ed4ff916220552bc03f181698ecfe28cb391c9f57e6ee9d7f9de1537311",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：花盛人憔悴可用無心賞摘說物是人非。乙：憔悴指人仍可與花盛對照，未排除景人關係。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：憔悴指人仍可與花盛對照，未排除景人關係。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：花盛人憔悴可用無心賞摘說物是人非。對乙的判斷不合：憔悴指人仍可與花盛對照，未排除景人關係。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：花盛人憔悴可用無心賞摘說物是人非。乙：憔悴指人仍可與花盛對照，未排除景人關係。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：花盛人憔悴可用無心賞摘說物是人非。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：憔悴指人仍可與花盛對照，未排除景人關係；對甲的判斷不合：花盛人憔悴可用無心賞摘說物是人非。對乙的判斷不合：憔悴指人仍可與花盛對照，未排除景人關係；對甲的判斷不合：花盛人憔悴可用無心賞摘說物是人非。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「黃花」「憔悴」有不同解讀。哪項分析能保持主體和理由一致？\n甲：若解作花盛人憔悴，可說無心賞摘，形成物是人非的感傷\n乙：只要憔悴能指人，就必須排除花與人的映照作用",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-12-00-80",
+      "ordinal": 79,
+      "baseQuestionHash": "cdc4d9d55007b5b1341d6697284571ecea9a45efe69c41f86b805af8ce85dc23",
+      "patch": {
+        "explanation": "甲正確，乙正確。甲：多次慰藉落空與觸景增愁，使末句有鋪墊。乙：具體經驗層累，才令一愁字顯得不足。",
+        "summary": "甲正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙不正確",
+            "explanation": "對乙的判斷不合：具體經驗層累，才令一愁字顯得不足。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙正確",
+            "explanation": "甲正確，乙正確。甲：多次慰藉落空與觸景增愁，使末句有鋪墊。乙：具體經驗層累，才令一愁字顯得不足。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：多次慰藉落空與觸景增愁，使末句有鋪墊。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：多次慰藉落空與觸景增愁，使末句有鋪墊。對乙的判斷不合：具體經驗層累，才令一愁字顯得不足。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：具體經驗層累，才令一愁字顯得不足；對甲的判斷不合：多次慰藉落空與觸景增愁，使末句有鋪墊；對甲的判斷不合：多次慰藉落空與觸景增愁，使末句有鋪墊。對乙的判斷不合：具體經驗層累，才令一愁字顯得不足。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：為何結尾說一個「愁」字不足以盡述，而不顯突兀？\n甲：此前尋覓、淡酒、過雁、守窗、聽雨層層累積悲苦\n乙：末句的強烈語氣建立在多個失去慰藉的經驗上，前面的細節使「愁」承載豐富而具體的內容。",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-12-01-01",
+      "ordinal": 80,
+      "baseQuestionHash": "1f237e9646b3a2ca0074dc716913a6858886c89c241fa85ea82305514a222d28",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：動作外境內心逐層轉深，為開首組織。乙：疊字形式不記具體國事婚事年代，不能推時間表。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：動作外境內心逐層轉深，為開首組織。乙：疊字形式不記具體國事婚事年代，不能推時間表。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：疊字形式不記具體國事婚事年代，不能推時間表。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：動作外境內心逐層轉深，為開首組織。對乙的判斷不合：疊字形式不記具體國事婚事年代，不能推時間表。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：動作外境內心逐層轉深，為開首組織。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：疊字形式不記具體國事婚事年代，不能推時間表；對甲的判斷不合：動作外境內心逐層轉深，為開首組織。對乙的判斷不合：疊字形式不記具體國事婚事年代，不能推時間表；對甲的判斷不合：動作外境內心逐層轉深，為開首組織。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：開首「尋尋覓覓，冷冷清清，悽悽慘慘戚戚」如何逐層推進？\n甲：由反覆尋覓的動作，至環境冷落，再深入內心悲戚\n乙：只因疊字數目增加，就可判斷具體家國與婚姻事件的先後",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-12-01-02",
+      "ordinal": 81,
+      "baseQuestionHash": "98405561bdc6c46a084102defe3b873a11f78004f3b88eb6ef42e22220ed511c",
+      "patch": {
+        "explanation": "最難將息寫身心難調，怎生得黑寫苦捱時間，到黃昏則延續點滴煎熬。三處同呈持續難排的悲苦，各有側重，不是三個互不相關的客觀時刻。",
+        "summary": "最難將息寫身心難調，怎生得黑寫苦捱時間，到黃昏則延續點滴煎熬。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "三處都是時間語句，所以只提供客觀時刻，與感受無關",
+            "explanation": "難、怎生等主觀感受明顯。"
+          },
+          {
+            "id": "b",
+            "text": "既有到黃昏，便說長日難熬只發生在黃昏那一刻",
+            "explanation": "守窗等待至昏，非僅一刻。"
+          },
+          {
+            "id": "c",
+            "text": "三處都可見愁，故最難將息與怎生得黑的具體意思完全相同",
+            "explanation": "前者調養難，後者熬待難，各有側重。"
+          },
+          {
+            "id": "d",
+            "text": "身心難以安頓，時間漫長，悲苦持續而難排遣",
+            "explanation": "最難將息寫身心難調，怎生得黑寫苦捱時間，到黃昏則延續點滴煎熬。"
+          }
+        ],
+        "misconception": "難、怎生等主觀感受明顯；守窗等待至昏，非僅一刻；前者調養難，後者熬待難，各有側重。"
+      },
+      "objective": "「最難將息」「怎生得黑」「到黃昏」共同使愁情呈現哪種特點？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-12-01-03",
+      "ordinal": 82,
+      "baseQuestionHash": "f5726a120384caa05f8d319517b8768dbdc089404b36d775452d2787f20cd297",
+      "patch": {
+        "explanation": "這次第總收酒、雁、花、守窗雨聲及其身世感受，只解最後雨聲便漏全篇收束。雨為更兼的一層而非唯一原因，反問又不是宣告一字已精準說盡。",
+        "summary": "這次第總收酒、雁、花、守窗雨聲及其身世感受，只解最後雨聲便漏全篇收束。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "漏掉它按時辰重新排列景物，使此前敘事回到清晨的作用",
+            "explanation": "結尾沒有重排時辰或回到清晨，只是總收感受；不能把總括讀成倒敘。"
+          },
+          {
+            "id": "b",
+            "text": "漏掉它將雨聲當作前文所有痛苦唯一成因的作用",
+            "explanation": "雨是更兼的一層，不是尋覓、飲酒與舊情的唯一原因；總括不等於歸單因。"
+          },
+          {
+            "id": "c",
+            "text": "漏掉它將酒、雁、黃花、守窗等感受一併收束的作用",
+            "explanation": "這次第總收酒、雁、花、守窗雨聲及其身世感受，只解最後雨聲便漏全篇收束。"
+          },
+          {
+            "id": "d",
+            "text": "漏掉它以一個愁字把各種情緒準確說盡的作用",
+            "explanation": "怎一箇愁字了得恰否定說盡；末句不是詞義定義式的封閉總結。"
+          }
+        ],
+        "misconception": "結尾沒有重排時辰或回到清晨，只是總收感受；不能把總括讀成倒敘；雨是更兼的一層，不是尋覓、飲酒與舊情的唯一原因；總括不等於歸單因；怎一箇愁字了得恰否定說盡；末句不是詞義定義式的封閉總結。"
+      },
+      "objective": "若把「這次第」只解作最後的雨聲，會漏掉末句的甚麼作用？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-12-01-04",
+      "ordinal": 83,
+      "baseQuestionHash": "e0ae1dc34cbf3b122e33a5fb62ea88b12f5a3ebc0ae1493ff652d06bb5efa93a",
+      "patch": {
+        "explanation": "由難調養、苦等天黑到黃昏雨未停，愁被寫成持續狀態。時間經過並不等於悲情解除，開頭已有悲戚，所以雨只是加深，不是唯一生愁起點。",
+        "summary": "由難調養、苦等天黑到黃昏雨未停，愁被寫成持續狀態。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "由難以調養轉成耐心等候，黃昏到來時表現愁已消散",
+            "explanation": "怎生是難熬而非耐心，黃昏雨仍點滴且結尾愁難盡，不能判愁散。"
+          },
+          {
+            "id": "b",
+            "text": "先交代三個互不相連的時刻，讓讀者自行補出一日行程",
+            "explanation": "最難將息並非時刻，三處又由同一難排心境連接，不是行程表。"
+          },
+          {
+            "id": "c",
+            "text": "由難以調養到苦等天黑，再寫雨至黃昏，使愁呈現持續難排的狀態",
+            "explanation": "由難調養、苦等天黑到黃昏雨未停，愁被寫成持續狀態。"
+          },
+          {
+            "id": "d",
+            "text": "把白日的平靜集中到黃昏，說明傷心只在雨來時開始",
+            "explanation": "開首早有悽慘戚戚，最難將息也先在；雨是更兼，不是傷心唯一開始。"
+          }
+        ],
+        "misconception": "怎生是難熬而非耐心，黃昏雨仍點滴且結尾愁難盡，不能判愁散；最難將息並非時刻，三處又由同一難排心境連接，不是行程表；開首早有悽慘戚戚，最難將息也先在；雨是更兼，不是傷心唯一開始。"
+      },
+      "objective": "「最難將息」「怎生得黑」「到黃昏」共同怎樣表現愁？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-15-12-01-05",
+      "ordinal": 84,
+      "baseQuestionHash": "6c19b8bd33a7c667585015303eaeb539206d9eada7ef1f0f0b99f2db9836ca79",
+      "patch": {
+        "explanation": "舊時相識把眼前雁拉入往日生活記憶，今昔不同更添已有傷感。這兩句直接支持記憶落差，雁書可作文化聯想，卻未明記收信落空或團聚將至的事件。",
+        "summary": "舊時相識把眼前雁拉入往日生活記憶，今昔不同更添已有傷感。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "過雁仍循舊路歸來，使詞人從熟悉景象中得到團聚在望的慰藉",
+            "explanation": "此項以相識推成將團聚，與正傷心的走向不合；原句沒有團聚在望的消息。"
+          },
+          {
+            "id": "b",
+            "text": "詞人認出傳書的過雁卻未得家信，以音訊斷絕加深阻隔的悲傷",
+            "explanation": "雁可有傳書聯想，但這兩句未交代等待家信而未收到的事件，不能把可聯想的意象說成已發生的情節。"
+          },
+          {
+            "id": "c",
+            "text": "熟悉的過雁牽動昔日生活的記憶，以今昔落差加深眼前傷感",
+            "explanation": "舊時相識把眼前雁拉入往日生活記憶，今昔不同更添已有傷感。"
+          },
+          {
+            "id": "d",
+            "text": "雁群遷徙標示秋去冬來，主要藉季候推移加深年華衰老的感慨",
+            "explanation": "雁可提示時令，但「舊時相識」的特別作用在於牽回舊日生活，僅以季候和衰老概括會漏掉今昔關係。"
+          }
+        ],
+        "misconception": "此項以相識推成將團聚，與正傷心的走向不合；原句沒有團聚在望的消息；雁可有傳書聯想，但這兩句未交代等待家信而未收到的事件，不能把可聯想的意象說成已發生的情節；雁可提示時令，但「舊時相識」的特別作用在於牽回舊日生活，僅以季候和衰老概括會漏掉今昔關係。"
+      },
+      "objective": "「舊時相識」把眼前過雁連到從前，最能產生下列哪種情感作用？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-16-09-01-01",
+      "ordinal": 85,
+      "baseQuestionHash": "bf31c7184a007d985fea1f6232f7cbbd36bec71e3bfdefe5a2da358031240221",
+      "patch": {
+        "explanation": "聲聲慢開首未明列所尋，可從全篇解為尋慰藉；青玉案有他與那人，詞面明確是尋人。比較須分直接交代和寄託推論，不能倒用後來的雁確定前者所尋。",
+        "summary": "聲聲慢開首未明列所尋，可從全篇解為尋慰藉；青玉案有他與那人，詞面明確是尋人。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "前者明指尋找舊時相識的雁；後者明指在人群中尋找那人",
+            "explanation": "「舊時相識」出現在雁過時，不能倒推開篇尋找的對象就是雁；後半則符合詞面。"
+          },
+          {
+            "id": "b",
+            "text": "前者未明指具體對象；後者也未在詞面交代所尋的是人物",
+            "explanation": "前半成立；後文「那人卻在」明確承接「尋他」，因此後者詞面確寫尋人，即使另有寓意也不能抹去。"
+          },
+          {
+            "id": "c",
+            "text": "前者未明指具體對象，可解作尋慰藉；後者詞面明寫在人群中尋人",
+            "explanation": "聲聲慢開首未明列所尋，可從全篇解為尋慰藉；青玉案有他與那人，詞面明確是尋人。"
+          },
+          {
+            "id": "d",
+            "text": "前者明指尋回往日相伴的人；後者明指在人群中尋找那人",
+            "explanation": "前半可作感情背景聯想，但詞面沒有把對象明指為某人；不能將合理寄託解讀寫成已明說的具體對象。"
+          }
+        ],
+        "misconception": "「舊時相識」出現在雁過時，不能倒推開篇尋找的對象就是雁；後半則符合詞面；前半成立；後文「那人卻在」明確承接「尋他」，因此後者詞面確寫尋人，即使另有寓意也不能抹去；前半可作感情背景聯想，但詞面沒有把對象明指為某人；不能將合理寄託解讀寫成已明說的具體對象。"
+      },
+      "objective": "只據詞面及上下文，《聲聲慢》「尋尋覓覓」與《青玉案》「眾裏尋他千百度」，對所尋對象的交代有何不同？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-16-09-01-02",
+      "ordinal": 86,
+      "baseQuestionHash": "94845bfad67c88e78ae7b983addf5a07dc153101168a11079cc98f50ed2af181",
+      "patch": {
+        "explanation": "同用尋不代表對象相同：李詞未明指具體對象，辛詞以他那人指人，但未明說舊友。能推論求慰藉或寄理想，也不能用寓意取代字面的人物交代。",
+        "summary": "同用尋不代表對象相同：李詞未明指具體對象，辛詞以他那人指人，但未明說舊友。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "《聲聲慢》尋的是過雁，《青玉案》尋的是舊友，應分清所尋物種",
+            "explanation": "過雁是後來觸情的景物，不能確定是開篇所尋；《青玉案》亦沒有明說那人是離去舊友。"
+          },
+          {
+            "id": "b",
+            "text": "《聲聲慢》尋的是往昔，《青玉案》尋的是理想，兩者都不涉及人物",
+            "explanation": "這些可作寄託聯想，但「那人卻在」仍明寫人物；不能以抽象寓意取代詞面，也不宜把前者定成唯一具體意思。"
+          },
+          {
+            "id": "c",
+            "text": "《聲聲慢》由舊時相識證明在尋舊友，《青玉案》只交代尋人的次數",
+            "explanation": "雁是舊時相識，不能證明開篇在尋舊友；《青玉案》除千百度亦有他和那人，交代了所尋為人物。"
+          },
+          {
+            "id": "d",
+            "text": "《聲聲慢》未明指對象，《青玉案》由「他」「那人」表明尋人，但未交代舊友身份",
+            "explanation": "同用尋不代表對象相同：李詞未明指具體對象，辛詞以他那人指人，但未明說舊友。"
+          }
+        ],
+        "misconception": "過雁是後來觸情的景物，不能確定是開篇所尋；《青玉案》亦沒有明說那人是離去舊友；這些可作寄託聯想，但「那人卻在」仍明寫人物；不能以抽象寓意取代詞面，也不宜把前者定成唯一具體意思；雁是舊時相識，不能證明開篇在尋舊友；《青玉案》除千百度亦有他和那人，交代了所尋為人物。"
+      },
+      "objective": "有同學說：「兩詞都有『尋』，所以都明確在找一位離去的舊友。」哪項修正最有原文依據？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-16-09-01-03",
+      "ordinal": 87,
+      "baseQuestionHash": "1a438407cabc6949c195654669d9f16fb30fd5ff2c22b65266fd74513131a10b",
+      "patch": {
+        "explanation": "李詞尋後仍冷清悲戚，慰藉未得；辛詞卻在明示終於得見，形成忽然發現的轉折。孤獨或幽靜可相似，結果仍不同，辛詞久尋也不可省略。",
+        "summary": "李詞尋後仍冷清悲戚，慰藉未得；辛詞卻在明示終於得見，形成忽然發現的轉折。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "前者未得慰藉而悲愁加深；後者終於得見，形成驀然發現的轉折",
+            "explanation": "李詞尋後仍冷清悲戚，慰藉未得；辛詞卻在明示終於得見，形成忽然發現的轉折。"
+          },
+          {
+            "id": "b",
+            "text": "兩詞都有孤獨感，所以尋覓結果必然相同",
+            "explanation": "感情某些共通不等於事件結果相同。"
+          },
+          {
+            "id": "c",
+            "text": "前者結尾仍愁，後者末景幽靜，故兩者都未找到所尋",
+            "explanation": "青玉案那人卻在明示得見，幽靜不等於未見。"
+          },
+          {
+            "id": "d",
+            "text": "後者終得見，便可把此前的熱切尋覓忽略不論",
+            "explanation": "尋而久和忽得見共同形成轉折。"
+          }
+        ],
+        "misconception": "感情某些共通不等於事件結果相同；青玉案那人卻在明示得見，幽靜不等於未見；尋而久和忽得見共同形成轉折。"
+      },
+      "objective": "《聲聲慢》尋後是「冷冷清清」，《青玉案》尋後是「那人卻在」。哪項比較正確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-16-09-01-04",
+      "ordinal": 88,
+      "baseQuestionHash": "9ed2d87f5aabfd797f75ad3908ff140f218a749833ddb667e4aa1c6c08121419",
+      "patch": {
+        "explanation": "聲聲慢由尋到愁難盡，顯慰藉落空；青玉案由千百度到卻在，顯長尋後得見。末景幽靜不抹掉發現，不需補交談才算見到，也不可把李詞舊識當愁已解。",
+        "summary": "聲聲慢由尋到愁難盡，顯慰藉落空；青玉案由千百度到卻在，顯長尋後得見。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "前者未得慰藉而悲愁延續；後者也因燈火稀疏而未見所尋",
+            "explanation": "前半成立；後者「那人卻在」已明示得見，燈火稀疏是人物所在環境，不能當成尋找落空。"
+          },
+          {
+            "id": "b",
+            "text": "前者未得慰藉而悲愁延續；後者突然得見所尋，末景保留幽靜餘味",
+            "explanation": "聲聲慢由尋到愁難盡，顯慰藉落空；青玉案由千百度到卻在，顯長尋後得見。"
+          },
+          {
+            "id": "c",
+            "text": "前者因遇上舊時相識而得到慰藉；後者突然得見所尋，末景保留幽靜餘味",
+            "explanation": "後半成立；前者雁過時仍「正傷心」，舊識反觸舊情，結尾愁未解，不能把熟悉對象當成慰藉達成。"
+          },
+          {
+            "id": "d",
+            "text": "前者因所尋不明而無從判斷結果；後者因未寫交談而無從判斷是否得見",
+            "explanation": "前者雖未明指對象，冷清悲戚足見未得慰藉；後者得見由「那人卻在」明示，不必有交談才算見到。"
+          }
+        ],
+        "misconception": "前半成立；後者「那人卻在」已明示得見，燈火稀疏是人物所在環境，不能當成尋找落空；後半成立；前者雁過時仍「正傷心」，舊識反觸舊情，結尾愁未解，不能把熟悉對象當成慰藉達成；前者雖未明指對象，冷清悲戚足見未得慰藉；後者得見由「那人卻在」明示，不必有交談才算見到。"
+      },
+      "objective": "《聲聲慢》由「尋尋覓覓」寫到「怎一箇愁字了得」，《青玉案》由「千百度」寫到「那人卻在」。哪項比較切合尋覓結果？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-16-09-03-02",
+      "ordinal": 89,
+      "baseQuestionHash": "eec75b996bd6b8d32789d0f679461760c272abba2a841e930bd16bb06a8597ee",
+      "patch": {
+        "explanation": "酒難禦風、雁引舊憶、花連憔悴、雨使獨守更漫長，外物各以不同方式累積愁情。共同寄愁不代表細節次序無用，更不是每換景就把前段悲苦清零。",
+        "summary": "酒難禦風、雁引舊憶、花連憔悴、雨使獨守更漫長，外物各以不同方式累積愁情。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "各物象同寄愁情，所以它們的具體特點和篇中次序都無關緊要",
+            "explanation": "同寄愁仍有不同觸發途徑與層次。"
+          },
+          {
+            "id": "b",
+            "text": "外物反覆觸動往事與身世，累積難排的愁緒",
+            "explanation": "酒難禦風、雁引舊憶、花連憔悴、雨使獨守更漫長，外物各以不同方式累積愁情。"
+          },
+          {
+            "id": "c",
+            "text": "各物象出於眼前，所以後面的舊時相識也不能算回憶聯想",
+            "explanation": "眼前過雁正可引舊。"
+          },
+          {
+            "id": "d",
+            "text": "只要每段都有新景，便表示前一段的愁已停止，篇末只餘雨愁",
+            "explanation": "新景累積愁，不等於把前愁清零。"
+          }
+        ],
+        "misconception": "同寄愁仍有不同觸發途徑與層次；眼前過雁正可引舊；新景累積愁，不等於把前愁清零。"
+      },
+      "objective": "《聲聲慢》以秋日居處的酒、雁、黃花、梧桐雨推進，有何共同作用？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-16-09-04-80",
+      "ordinal": 90,
+      "baseQuestionHash": "4feb3a227380c21c778db66e25cef8edad225b5a3ac5a23b4a7498d250ccfb46",
+      "patch": {
+        "explanation": "蘇詞遙想歷史人物以反觀自己，李詞眼前雁觸起舊情，辛詞尋人回首發現。三條情感路徑不同，李詞不是舊友重逢解愁，辛詞也未設過往離別的回憶。",
+        "summary": "蘇詞遙想歷史人物以反觀自己，李詞眼前雁觸起舊情，辛詞尋人回首發現。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "懷古反觀自身；眼前景物觸起舊情；尋人過程推進感受",
+            "explanation": "蘇詞遙想歷史人物以反觀自己，李詞眼前雁觸起舊情，辛詞尋人回首發現。"
+          },
+          {
+            "id": "b",
+            "text": "回憶自己往事；眼前景物觸起舊情；尋人過程推進感受",
+            "explanation": "後兩項切合；公瑾是三國古人，詞人是在想像古人，並非回憶自身曾參與的往事。"
+          },
+          {
+            "id": "c",
+            "text": "懷古反觀自身；與舊友重逢得到寬慰；尋人過程推進感受",
+            "explanation": "首尾切合；舊時相識指熟悉的大雁，出現於正傷心時，並非與舊友團聚而愁解。"
+          },
+          {
+            "id": "d",
+            "text": "懷古反觀自身；眼前景物觸起舊情；追憶過往離別寄託感受",
+            "explanation": "前兩項切合；尋他、回首、那人卻在沿眼前尋找得見推進，未把這段交代成昔日離別的追憶。"
+          }
+        ],
+        "misconception": "後兩項切合；公瑾是三國古人，詞人是在想像古人，並非回憶自身曾參與的往事；首尾切合；舊時相識指熟悉的大雁，出現於正傷心時，並非與舊友團聚而愁解；前兩項切合；尋他、回首、那人卻在沿眼前尋找得見推進，未把這段交代成昔日離別的追憶。"
+      },
+      "objective": "依《念奴嬌》《聲聲慢》《青玉案》的次序，哪項分別說明「遙想公瑾」「舊時相識」「眾裏尋他」推進感受的方式？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    }
+  ]
+}

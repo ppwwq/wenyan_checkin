@@ -1,0 +1,38 @@
+{
+  "result": "PASS",
+  "bankVersion": "2026.09.22.1",
+  "checks": [
+    {
+      "questionId": "confusable-gui-lunyu-yueyang",
+      "essayIds": [
+        "essay-01",
+        "essay-09"
+      ],
+      "normalPractice": true,
+      "answerAndFeedback": true,
+      "originalComparisonCards": true
+    },
+    {
+      "questionId": "confusable-gui-lunyu-shanju",
+      "essayIds": [
+        "essay-01",
+        "essay-11"
+      ],
+      "normalPractice": true,
+      "answerAndFeedback": true,
+      "originalComparisonCards": true
+    },
+    {
+      "questionId": "confusable-gui-yueyang-shanju",
+      "essayIds": [
+        "essay-09",
+        "essay-11"
+      ],
+      "normalPractice": true,
+      "answerAndFeedback": true,
+      "originalComparisonCards": true
+    }
+  ],
+  "pageErrors": [],
+  "scope": "Local Chromium, isolated in-memory account; no production deployment or physical iPad acceptance."
+}

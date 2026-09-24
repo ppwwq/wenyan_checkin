@@ -21,3 +21,18 @@ test('quick-review browse events never generate first observations or change sch
  assert.equal(state.firsts.length,0);assert.deepEqual(state.memories,{});assert.equal(state.browsed.q,'2026-09-19T00:00:00Z');
 });
 
+
+test('backup rejects invalid payloads before projection and conflicting event IDs',()=>{
+ const wrap=events=>({format:'wenyan-backup-v1',userId:'A',events});
+ const base={id:'x',createdAt:'2026-09-24T00:00:00Z'};
+ for(const e of [
+  {...base,type:'attempt',payload:{memoryId:'m',submittedAt:'not-a-date'}},
+  {...base,type:'session',payload:{}},
+  {...base,type:'favorite',payload:{questionId:'q',saved:'yes'}},
+  {...base,type:'settings',payload:[]},
+  {...base,type:'settings',payload:{fontSize:'huge'}},
+ ])assert.throws(()=>validateBackup(wrap([e]),'A'),/備份/);
+ const e={...base,type:'favorite',payload:{questionId:'q',saved:true}};
+ assert.throws(()=>validateBackup(wrap([e,{...e,payload:{questionId:'q',saved:false}}]),'A'),/編號/);
+ assert.equal(validateBackup(wrap([e,{...e,receivedAt:'2026-09-24T01:00:00Z'}]),'A').length,1);
+});

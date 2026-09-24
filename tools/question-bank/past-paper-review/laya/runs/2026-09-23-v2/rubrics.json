@@ -1,0 +1,210 @@
+{
+  "version": "2",
+  "stages": {
+    "student": {
+      "foundation": {
+        "type": "choice",
+        "instructions": "Is this useful for basic word meaning or literal understanding?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "diagnostic": {
+        "type": "choice",
+        "instructions": "Does this distinguish a specific plausible misunderstanding?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "integration": {
+        "type": "choice",
+        "instructions": "Must the student connect multiple pieces of textual evidence?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "exam_reasoning": {
+        "type": "choice",
+        "instructions": "Does this train identifying evidence and sufficient answer points?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "extension": {
+        "type": "choice",
+        "instructions": "Does this require knowledge beyond the supplied literary text?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "operation": {
+        "type": "choice",
+        "instructions": "判斷學生必須完成的主要操作；看題目所問，不按題材分類。",
+        "criteria": {
+          "word": "解釋某字或詞的語境義",
+          "meaning": "理解或轉述整句內容",
+          "inference": "推導條件因果或論據關係",
+          "effect": "說明手法的具體作用",
+          "comparison": "比較兩處內容或結構",
+          "recall": "記憶文學常識定義",
+          "unknown": "資料不足"
+        }
+      },
+      "shortcut": {
+        "type": "choice",
+        "instructions": "Can option form or irrelevant alternatives reveal the answer without target reasoning?",
+        "criteria": {
+          "yes": "有明顯猜題捷徑",
+          "no": "需要目標判斷",
+          "unknown": "證據不足"
+        }
+      },
+      "parallel": {
+        "type": "choice",
+        "instructions": "Do all options answer the same question on the same dimension?",
+        "criteria": {
+          "yes": "同一維度",
+          "no": "混合維度或離題",
+          "unknown": "證據不足"
+        }
+      }
+    },
+    "review": {
+      "answer_support": {
+        "type": "choice",
+        "instructions": "Does the evidence support the keyed answer?",
+        "criteria": {
+          "supported": "有證據支持",
+          "contradicted": "與證據矛盾",
+          "unknown": "證據不足"
+        }
+      },
+      "uniqueness": {
+        "type": "choice",
+        "instructions": "Can a second option also be defended under the question wording?",
+        "criteria": {
+          "unique": "單一成立答案",
+          "multiple": "另一項也可成立",
+          "unknown": "不能確認"
+        }
+      },
+      "set_strength": {
+        "type": "choice",
+        "instructions": "評三個錯項的吸引點，不評難度。常見錯詞義也可有效。需有局部依據且能排除。",
+        "criteria": {
+          "all": "三錯項均有合理吸引點",
+          "some": "部分錯項有用其餘薄弱",
+          "none": "三錯項都明顯無效",
+          "unknown": "無法判斷"
+        }
+      },
+      "set_redundancy": {
+        "type": "choice",
+        "instructions": "Are the wrong options essentially the same error with different wording?",
+        "criteria": {
+          "yes": "錯因重複",
+          "no": "有實質區別",
+          "unknown": "證據不足"
+        }
+      },
+      "answer_form": {
+        "type": "choice",
+        "instructions": "Is the keyed answer conspicuous mainly by length, wording or completeness?",
+        "criteria": {
+          "yes": "形式突出",
+          "no": "無明顯提示",
+          "unknown": "不能判斷"
+        }
+      },
+      "main_explanation": {
+        "type": "choice",
+        "instructions": "Does the explanation connect concrete evidence to the answer?",
+        "criteria": {
+          "worked": "具體證據與推理",
+          "generic": "只給結論或泛泛理由",
+          "off_topic": "離題或矛盾",
+          "unknown": "證據不足"
+        }
+      }
+    },
+    "option": {
+      "relevance": {
+        "type": "choice",
+        "instructions": "Does the selected option address the same question?",
+        "criteria": {
+          "related": "直接相關",
+          "partial": "部分相關",
+          "unrelated": "離題",
+          "unknown": "無法判斷"
+        }
+      },
+      "attraction": {
+        "type": "choice",
+        "instructions": "半懂學生可能因局部依據或常見詞義誤選此項嗎？簡單不等於無效。",
+        "criteria": {
+          "plausible": "有具體吸引點",
+          "weak": "有關但吸引點薄弱",
+          "absurd": "離題荒謬可直接排除",
+          "unknown": "無法判斷"
+        }
+      },
+      "support": {
+        "type": "choice",
+        "instructions": "Does the provided evidence support the selected option?",
+        "criteria": {
+          "supported": "有據成立",
+          "refuted": "可據文排除",
+          "unknown": "證據不足"
+        }
+      },
+      "shortcut": {
+        "type": "choice",
+        "instructions": "Can this option be ruled out by form or absurdity without target understanding?",
+        "criteria": {
+          "yes": "容易直接排除",
+          "no": "需文本辨別",
+          "unknown": "不能判斷"
+        }
+      },
+      "rationale": {
+        "type": "choice",
+        "instructions": "Does its rationale explain the specific difference from the correct interpretation?",
+        "criteria": {
+          "specific": "有具體區別",
+          "generic": "只重說答案或空泛",
+          "wrong": "理由不符",
+          "unknown": "證據不足"
+        }
+      },
+      "misreading": {
+        "type": "choice",
+        "instructions": "Which error does this option suggest? Do not diagnose an actual student.",
+        "criteria": {
+          "word": "套錯詞義",
+          "scope": "漏條件或誇大範圍",
+          "role": "混淆對象或立場",
+          "relation": "倒因果或錯接關係",
+          "technique": "混淆手法或效果",
+          "irrelevant": "無關內容",
+          "other": "其他誤讀",
+          "unknown": "不能判斷"
+        }
+      }
+    }
+  }
+}

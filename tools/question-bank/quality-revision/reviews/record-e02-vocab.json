@@ -1,0 +1,73 @@
+{
+  "reviewer": "calibration_reviewer",
+  "method": "independent-source-pdf-g1-g5-cross-review",
+  "packSha256": "6a6cde7218b7acbfc74f0aaf2b154693161718ef1cb8cc1b100b20b9e99f3f0a",
+  "records": [
+    {
+      "id": "q-e02-exp-002",
+      "verdict": "approve",
+      "notes": "G1 PDF35明釋辟通避；G2 a是面對患而躲開，b事前預防、c消除禍患、d承受後果均非字義。G3三錯項是不同應對階段；G4不靠字數或絕對詞，須辨動作；G5答案a、選項ID與解析相合。",
+      "issues": []
+    },
+    {
+      "id": "q-e02-exp-004",
+      "verdict": "approve",
+      "notes": "G1 PDF37明釋得通德、感激；G2 c合「所識窮乏者得我與」，a取得、b認得、d報答分別混字面、前詞和後續行動。G3逐錯項有可診斷誤讀；G4四項詞性長度相近；G5答案c與解析一致。",
+      "issues": []
+    },
+    {
+      "id": "full-a-e02-p01-b00-v02",
+      "verdict": "approve",
+      "notes": "G1 PDF35「二者不可得兼，舍魚而取熊掌」明示捨棄；G2 d成立，a留、b贈、c安置均未符合取捨。G3同一魚的去向作干擾；G4基礎詞義題不冒稱深層推理；G5原答案d、四項ID及來源不變。",
+      "issues": []
+    },
+    {
+      "id": "full-a-e02-p02-b00-v02",
+      "verdict": "approve",
+      "notes": "G1 PDF36明釋莫為沒有甚麼；G2 b合「所欲莫甚於生」，a禁止、c推測、d尚未各錯在語氣或時間。G3三項區別清楚；G4需看比較結構；G5答案b與四項解析對齊。",
+      "issues": []
+    },
+    {
+      "id": "full-a-e02-p03-b00-v08",
+      "verdict": "approve",
+      "notes": "G1 PDF37「蹴爾而與之，乞人不屑」及字詞表支持a；G2 b把不願受作無法取得，c移後文不辯禮義，d忽略得之則生。G3三錯項各有來源線索與排除；G4須辨侮辱方式和接受意願；G5答案a與解析對齊。",
+      "issues": []
+    },
+    {
+      "id": "full-a-e02-p03-b00-v10",
+      "verdict": "approve",
+      "notes": "G1 PDF37明釋辯通辨；G2 c指受萬鍾前分辨禮義，a口頭討論、b申明、d事後辯護都改變判別行動。G3三種辯字近義有不同錯點；G4四項同為語義判斷；G5答案c與解析對齊。",
+      "issues": []
+    },
+    {
+      "id": "full-a-e02-p03-b00-v11",
+      "verdict": "approve",
+      "notes": "G1 PDF37字詞表釋加為增益、好處；G2 b合「於我何加」，a只談加俸、c責罰、d添他人比較。G3各錯項逐義排除；G4由「於我」判受益者；G5答案b及解析一致，未把反問說成確有好處。",
+      "issues": []
+    },
+    {
+      "id": "full-a-e02-p03-b00-v14",
+      "verdict": "approve",
+      "notes": "G1 PDF37標句末與通歟，並列同段與之為給予；G2 a是語氣助詞，b錯移前句動詞，c偕同、d參與均不合句末位置。G3同字異用具診斷性；G4須讀句法及問號；G5答案a、逐項解析一致。",
+      "issues": []
+    },
+    {
+      "id": "full-a-e02-p04-b00-v00",
+      "verdict": "approve",
+      "notes": "G1 PDF38「鄉……今……」及注釋從前支持d；G2 a住處、b方向、c鄉里人均無法與今形成時間對照。G3三項取鄉或向的其他義；G4需看同句今昔；G5答案d與解析一致。",
+      "issues": []
+    },
+    {
+      "id": "full-a-e02-p09-b01-g01",
+      "verdict": "approve",
+      "notes": "G1 PDF41辨析表與PDF36原句均支持為是實行；修後題面已展示「凡可以辟患者，何不為也」且targetStart指向為。G2 b合語境，a目的、c原因、d被動都不合「何不」後動作；G3同字功能逐項分開；G4選項同長且須讀前句；G5答案b與引文解析對齊。",
+      "issues": []
+    },
+    {
+      "id": "full-a-e02-p09-b01-g04",
+      "verdict": "approve",
+      "notes": "G1 PDF41辨析表及PDF38今昔對照支持後為是做；修後題面含「鄉……不受，今……為之」，無須依賴未呈現的萬鍾句。G2 d實行此事成立，a混前為目的、b誤作變成、c增添代人主體；G3三錯點不同；G4須分前後兩為及不受對照；G5答案d、targetStart與新解析一致。",
+      "issues": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "result": "PASS",
+  "verifiedAt": "2026-09-24T05:14:52.526Z",
+  "uiVersion": "2026.09.24.7",
+  "checks": [
+    "Wrong shortcut opens a dedicated actual-mistake list",
+    "All three mistakes visible despite prior six-poem/theme extra-practice filter and one-chapter daily plan",
+    "Standalone appendix mistake included",
+    "Selected Yueyang question opens as 1 / 1; answer, explanation and completion work",
+    "Same-day success keeps the mistake for later-day review",
+    "Batch practice opens as 1 / 3",
+    "Extra-practice six-poem/theme/all-scope selection is preserved",
+    "Separate empty account shows no practice action or filler questions",
+    "390px list has scrollWidth 390 and no horizontal overflow",
+    "Final build reload and empty-list navigation passed"
+  ],
+  "screenshots": [
+    "wrong-list-390.png",
+    "empty-390.png"
+  ],
+  "limits": "Local isolated in-memory accounts only; no production answer submission or physical iPad/Safari testing. Production still 2026.09.24.6."
+}

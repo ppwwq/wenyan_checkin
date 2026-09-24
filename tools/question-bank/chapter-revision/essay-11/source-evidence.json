@@ -1,0 +1,2232 @@
+{
+  "pdfSha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+  "sourceJsonSha256": "cefaae3260a7185997dfa0dc9ba40d76fe1e1bc70b69f962d0bb75a724681f62",
+  "freshPdfPages": [
+    8,
+    159,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    196
+  ],
+  "errors": [],
+  "questions": {
+    "pilot-11-01-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 189,
+          "printedPage": 185,
+          "blockPath": "$[10].pages[1].blocks[3][1][0]",
+          "anchor": "空山新雨後，天氣晚來秋。明月松間照，清泉石上流。",
+          "excerpt": "空：清幽空曠",
+          "pdfUrl": "/content/sources/revision-book.pdf"
+        },
+        "resolvedBlock": [
+          "空",
+          "清幽空曠",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "pilot-11-01-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 189,
+          "printedPage": 185,
+          "blockPath": "$[10].pages[1].blocks[3][1][1]",
+          "anchor": "空山新雨後，天氣晚來秋。明月松間照，清泉石上流。",
+          "excerpt": "新：剛剛",
+          "pdfUrl": "/content/sources/revision-book.pdf"
+        },
+        "resolvedBlock": [
+          "新",
+          "剛剛",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "pilot-11-01-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 189,
+          "printedPage": 185,
+          "blockPath": "$[10].pages[1].blocks[3][1][2]",
+          "anchor": "空山新雨後，天氣晚來秋。明月松間照，清泉石上流。",
+          "excerpt": "晚：傍晚",
+          "pdfUrl": "/content/sources/revision-book.pdf"
+        },
+        "resolvedBlock": [
+          "晚",
+          "傍晚",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "pilot-11-01-04": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 189,
+          "printedPage": 185,
+          "blockPath": "$[10].pages[1].blocks[3][1][3]",
+          "anchor": "空山新雨後，天氣晚來秋。明月松間照，清泉石上流。",
+          "excerpt": "清：清澈",
+          "pdfUrl": "/content/sources/revision-book.pdf"
+        },
+        "resolvedBlock": [
+          "清",
+          "清澈",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "pilot-11-02-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 189,
+          "printedPage": 185,
+          "blockPath": "$[10].pages[2].blocks[3][1][0]",
+          "anchor": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+          "excerpt": "喧：喧鬧",
+          "pdfUrl": "/content/sources/revision-book.pdf"
+        },
+        "resolvedBlock": [
+          "喧",
+          "喧鬧",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "pilot-11-02-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 189,
+          "printedPage": 185,
+          "blockPath": "$[10].pages[2].blocks[3][1][1]",
+          "anchor": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+          "excerpt": "歸：回來",
+          "pdfUrl": "/content/sources/revision-book.pdf"
+        },
+        "resolvedBlock": [
+          "歸",
+          "回來",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "pilot-11-02-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 189,
+          "printedPage": 185,
+          "blockPath": "$[10].pages[2].blocks[3][1][2]",
+          "anchor": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+          "excerpt": "浣：洗衣",
+          "pdfUrl": "/content/sources/revision-book.pdf"
+        },
+        "resolvedBlock": [
+          "浣",
+          "洗衣",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "pilot-11-02-04": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 189,
+          "printedPage": 185,
+          "blockPath": "$[10].pages[2].blocks[3][1][3]",
+          "anchor": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+          "excerpt": "下：順流而下",
+          "pdfUrl": "/content/sources/revision-book.pdf"
+        },
+        "resolvedBlock": [
+          "下",
+          "順流而下",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "pilot-11-02-05": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 189,
+          "printedPage": 185,
+          "blockPath": "$[10].pages[2].blocks[3][1][4]",
+          "anchor": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+          "excerpt": "隨意：任憑",
+          "pdfUrl": "/content/sources/revision-book.pdf"
+        },
+        "resolvedBlock": [
+          "隨意",
+          "任憑",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "pilot-11-02-06": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 189,
+          "printedPage": 185,
+          "blockPath": "$[10].pages[2].blocks[3][1][5]",
+          "anchor": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+          "excerpt": "春芳：春天的花草",
+          "pdfUrl": "/content/sources/revision-book.pdf"
+        },
+        "resolvedBlock": [
+          "春芳",
+          "春天的花草",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "pilot-11-02-07": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 189,
+          "printedPage": 185,
+          "blockPath": "$[10].pages[2].blocks[3][1][6]",
+          "anchor": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+          "excerpt": "歇：凋謝",
+          "pdfUrl": "/content/sources/revision-book.pdf"
+        },
+        "resolvedBlock": [
+          "歇",
+          "凋謝",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "pilot-11-02-08": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 189,
+          "printedPage": 185,
+          "blockPath": "$[10].pages[2].blocks[3][1][7]",
+          "anchor": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+          "excerpt": "王孫：隱士，借指自己",
+          "pdfUrl": "/content/sources/revision-book.pdf"
+        },
+        "resolvedBlock": [
+          "王孫",
+          "隱士，借指自己",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "pilot-11-02-09": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 189,
+          "printedPage": 185,
+          "blockPath": "$[10].pages[2].blocks[3][1][8]",
+          "anchor": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+          "excerpt": "自：自然",
+          "pdfUrl": "/content/sources/revision-book.pdf"
+        },
+        "resolvedBlock": [
+          "自",
+          "自然",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "concept-11-09": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 193,
+          "printedPage": 189,
+          "blockPath": "$[10].pages[7].blocks[0]",
+          "anchor": "即使春天花草已謝，秋景仍美，並非對春逝失落",
+          "excerpt": "即使春天花草已謝，秋景仍美，並非對春逝失落",
+          "pdfUrl": "/content/sources/revision-book.pdf"
+        },
+        "resolvedBlock": [
+          "text",
+          "「隨意春芳歇，王孫自可留」反用《楚辭・招隱士》「王孫兮歸來，山中兮不可以久留」：原意希望王孫歸來、不要久留山中；本詩反過來說山中美景與生活令人留戀，自可留下，不必回朝廷。即使春天花草已謝，秋景仍美，並非對春逝失落。常見典故活用成新意，深化歸隱主題、增強感染力。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "concept-11-10": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 193,
+          "printedPage": 189,
+          "blockPath": "$[10].pages[7].blocks[0]",
+          "anchor": "原意希望王孫歸來、不要久留山中；本詩反過來說山中美景與生活令人留戀",
+          "excerpt": "原意希望王孫歸來、不要久留山中；本詩反過來說山中美景與生活令人留戀",
+          "pdfUrl": "/content/sources/revision-book.pdf"
+        },
+        "resolvedBlock": [
+          "text",
+          "「隨意春芳歇，王孫自可留」反用《楚辭・招隱士》「王孫兮歸來，山中兮不可以久留」：原意希望王孫歸來、不要久留山中；本詩反過來說山中美景與生活令人留戀，自可留下，不必回朝廷。即使春天花草已謝，秋景仍美，並非對春逝失落。常見典故活用成新意，深化歸隱主題、增強感染力。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "concept-11-11": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 193,
+          "printedPage": 189,
+          "blockPath": "$[10].pages[7].blocks[1]",
+          "anchor": "正是聲音與動景映襯背景，讓幽靜含有人間情趣",
+          "excerpt": "正是聲音與動景映襯背景，讓幽靜含有人間情趣",
+          "pdfUrl": "/content/sources/revision-book.pdf"
+        },
+        "resolvedBlock": [
+          "text",
+          "浣女、漁舟表現村民勤勞、淳厚樸實、和平安樂的生活，詩人的心境澄明淡靜、空明，對隱居生活悠然自得、滿足。頸聯熱鬧和全詩清靜幽雅並不矛盾：正是聲音與動景映襯背景，讓幽靜含有人間情趣，構成其理想生活。「自可留」流露留戀山居、厭倦塵俗的選擇；高潔與恬淡的情志，須由明淨景物和淳樸人事加以說明。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "concept-11-12": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 190,
+          "printedPage": 186,
+          "blockPath": "$[10].pages[3].blocks[5]",
+          "anchor": "中間兩聯把相應的景物、位置和動作並排",
+          "excerpt": "中間兩聯把相應的景物、位置和動作並排",
+          "pdfUrl": "/content/sources/revision-book.pdf"
+        },
+        "resolvedBlock": [
+          "text",
+          "中間兩聯把相應的景物、位置和動作並排：「明月／清泉」「松間／石上」「照／流」。讀出這些對應，比只記「對仗工整」更能看清詩的組織。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-comparison-002": [
+      {
+        "source": {
+          "title": "山居秋暝",
+          "jsonFile": "student-content.json",
+          "blockPath": "$[10].pages[2].blocks[0]",
+          "quote": "竹喧歸浣女，蓮動下漁舟",
+          "anchor": "竹喧歸浣女，蓮動下漁舟",
+          "pdfPage": 189,
+          "printedPage": 185,
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14",
+          "relatedSources": [
+            {
+              "title": "月下獨酌",
+              "jsonFile": "student-content.json",
+              "blockPath": "$[11].pages[1].blocks[0]",
+              "quote": "舉杯邀明月，對影成三人",
+              "anchor": "舉杯邀明月，對影成三人",
+              "pdfPage": 196,
+              "printedPage": 192,
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "version": "2026-09-14"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "annot",
+          "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+          [
+            [
+              "喧",
+              "喧鬧",
+              "blue"
+            ],
+            [
+              "歸",
+              "回來",
+              "blue"
+            ],
+            [
+              "浣",
+              "洗衣",
+              "blue"
+            ],
+            [
+              "下",
+              "順流而下",
+              "blue"
+            ],
+            [
+              "隨意",
+              "任憑",
+              "blue"
+            ],
+            [
+              "春芳",
+              "春天的花草",
+              "blue"
+            ],
+            [
+              "歇",
+              "凋謝",
+              "blue"
+            ],
+            [
+              "王孫",
+              "隱士，借指自己",
+              "blue"
+            ],
+            [
+              "自",
+              "自然",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "喧",
+              "meaning": "喧鬧",
+              "spans": [
+                [
+                  1,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "歸",
+              "meaning": "回來",
+              "spans": [
+                [
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "浣",
+              "meaning": "洗衣",
+              "spans": [
+                [
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "下",
+              "meaning": "順流而下",
+              "spans": [
+                [
+                  8,
+                  9
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "隨意",
+              "meaning": "任憑",
+              "spans": [
+                [
+                  12,
+                  14
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "春芳",
+              "meaning": "春天的花草",
+              "spans": [
+                [
+                  14,
+                  16
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "歇",
+              "meaning": "凋謝",
+              "spans": [
+                [
+                  16,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "王孫",
+              "meaning": "隱士，借指自己",
+              "spans": [
+                [
+                  18,
+                  20
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "自",
+              "meaning": "自然",
+              "spans": [
+                [
+                  20,
+                  21
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "月下獨酌",
+          "jsonFile": "student-content.json",
+          "blockPath": "$[11].pages[1].blocks[0]",
+          "quote": "舉杯邀明月，對影成三人",
+          "anchor": "舉杯邀明月，對影成三人",
+          "pdfPage": 196,
+          "printedPage": 192,
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14"
+        },
+        "resolvedBlock": [
+          "annot",
+          "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          [
+            [
+              "酌",
+              "飲酒",
+              "blue"
+            ],
+            [
+              "相親",
+              "親近的友伴",
+              "blue"
+            ],
+            [
+              "邀",
+              "邀請",
+              "blue"
+            ],
+            [
+              "三人",
+              "我、明月、影子",
+              "blue"
+            ],
+            [
+              "解",
+              "懂得",
+              "blue"
+            ],
+            [
+              "徒",
+              "只、僅；含徒然意",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "酌",
+              "meaning": "飲酒",
+              "spans": [
+                [
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "相親",
+              "meaning": "親近的友伴",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "邀",
+              "meaning": "邀請",
+              "spans": [
+                [
+                  14,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "三人",
+              "meaning": "我、明月、影子",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "解",
+              "meaning": "懂得",
+              "spans": [
+                [
+                  27,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "徒",
+              "meaning": "只、僅；含徒然意",
+              "spans": [
+                [
+                  31,
+                  32
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-01-00-90": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 188,
+          "printedPage": 184,
+          "blockPath": "$[10].pages[1].blocks[0]",
+          "anchor": "空山新雨後，天氣晚來秋。明月松間照，清泉石上流。",
+          "excerpt": "空山新雨後，天氣晚來秋。明月松間照，清泉石上流。"
+        },
+        "resolvedBlock": [
+          "annot",
+          "空山新雨後，天氣晚來秋。明月松間照，清泉石上流。",
+          [
+            [
+              "空",
+              "清幽空曠",
+              "blue"
+            ],
+            [
+              "新",
+              "剛剛",
+              "blue"
+            ],
+            [
+              "晚",
+              "傍晚",
+              "blue"
+            ],
+            [
+              "清",
+              "清澈",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "空",
+              "meaning": "清幽空曠",
+              "spans": [
+                [
+                  0,
+                  1
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "新",
+              "meaning": "剛剛",
+              "spans": [
+                [
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "晚",
+              "meaning": "傍晚",
+              "spans": [
+                [
+                  8,
+                  9
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "清",
+              "meaning": "清澈",
+              "spans": [
+                [
+                  18,
+                  19
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-02-00-90": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 188,
+          "printedPage": 184,
+          "blockPath": "$[10].pages[2].blocks[0]",
+          "anchor": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+          "excerpt": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。"
+        },
+        "resolvedBlock": [
+          "annot",
+          "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+          [
+            [
+              "喧",
+              "喧鬧",
+              "blue"
+            ],
+            [
+              "歸",
+              "回來",
+              "blue"
+            ],
+            [
+              "浣",
+              "洗衣",
+              "blue"
+            ],
+            [
+              "下",
+              "順流而下",
+              "blue"
+            ],
+            [
+              "隨意",
+              "任憑",
+              "blue"
+            ],
+            [
+              "春芳",
+              "春天的花草",
+              "blue"
+            ],
+            [
+              "歇",
+              "凋謝",
+              "blue"
+            ],
+            [
+              "王孫",
+              "隱士，借指自己",
+              "blue"
+            ],
+            [
+              "自",
+              "自然",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "喧",
+              "meaning": "喧鬧",
+              "spans": [
+                [
+                  1,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "歸",
+              "meaning": "回來",
+              "spans": [
+                [
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "浣",
+              "meaning": "洗衣",
+              "spans": [
+                [
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "下",
+              "meaning": "順流而下",
+              "spans": [
+                [
+                  8,
+                  9
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "隨意",
+              "meaning": "任憑",
+              "spans": [
+                [
+                  12,
+                  14
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "春芳",
+              "meaning": "春天的花草",
+              "spans": [
+                [
+                  14,
+                  16
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "歇",
+              "meaning": "凋謝",
+              "spans": [
+                [
+                  16,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "王孫",
+              "meaning": "隱士，借指自己",
+              "spans": [
+                [
+                  18,
+                  20
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "自",
+              "meaning": "自然",
+              "spans": [
+                [
+                  20,
+                  21
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-00-01-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 188,
+          "printedPage": 184,
+          "blockPath": "$[10].pages[0].blocks[1]",
+          "anchor": "清幽秋景和淳樸人事，使詩人願意留居山中。",
+          "excerpt": "清幽秋景和淳樸人事，使詩人願意留居山中。"
+        },
+        "resolvedBlock": [
+          "band",
+          "清幽秋景和淳樸人事，使詩人願意留居山中。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-00-03-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 188,
+          "printedPage": 184,
+          "blockPath": "$[10].pages[0].blocks[3]",
+          "anchor": "雨後秋晚→月泉景物→浣女漁舟→反用典故表留居",
+          "excerpt": "雨後秋晚→月泉景物→浣女漁舟→反用典故表留居"
+        },
+        "resolvedBlock": [
+          "text",
+          "雨後秋晚→月泉景物→浣女漁舟→反用典故表留居"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-00-05-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 188,
+          "printedPage": 184,
+          "blockPath": "$[10].pages[0].blocks[5]",
+          "anchor": "「空山」不是完全沒有人。局部聲音和動態反襯幽靜，並增添生活情趣。",
+          "excerpt": "「空山」不是完全沒有人。局部聲音和動態反襯幽靜，並增添生活情趣。"
+        },
+        "resolvedBlock": [
+          "text",
+          "「空山」不是完全沒有人。局部聲音和動態反襯幽靜，並增添生活情趣。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-00-07-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 188,
+          "printedPage": 184,
+          "blockPath": "$[10].pages[0].blocks[7]",
+          "anchor": "八句，每句五字；頷聯、頸聯對仗，偶句押秋、流、舟、留。",
+          "excerpt": "八句，每句五字；頷聯、頸聯對仗，偶句押秋、流、舟、留。"
+        },
+        "resolvedBlock": [
+          "text",
+          "八句，每句五字；頷聯、頸聯對仗，偶句押秋、流、舟、留。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-01-04-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 189,
+          "printedPage": 185,
+          "blockPath": "$[10].pages[1].blocks[4]",
+          "anchor": "「空」寫清幽，不否定下文有人居住。月照偏靜，泉流是動態；局部流水襯出整體寧靜。",
+          "excerpt": "「空」寫清幽，不否定下文有人居住。月照偏靜，泉流是動態；局部流水襯出整體寧靜。"
+        },
+        "resolvedBlock": [
+          "note",
+          "「空」寫清幽，不否定下文有人居住。月照偏靜，泉流是動態；局部流水襯出整體寧靜。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-02-04-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 189,
+          "printedPage": 185,
+          "blockPath": "$[10].pages[2].blocks[4]",
+          "anchor": "竹喧先聞聲、蓮動先見動，再帶出浣女和漁舟。尾聯反用「山中不可以久留」，不是因春花凋謝而感傷。",
+          "excerpt": "竹喧先聞聲、蓮動先見動，再帶出浣女和漁舟。尾聯反用「山中不可以久留」，不是因春花凋謝而感傷。"
+        },
+        "resolvedBlock": [
+          "note",
+          "竹喧先聞聲、蓮動先見動，再帶出浣女和漁舟。尾聯反用「山中不可以久留」，不是因春花凋謝而感傷。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-03-00-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 190,
+          "printedPage": 186,
+          "blockPath": "$[10].pages[3].blocks[0][1][1]",
+          "anchor": "首聯 總寫空山、新雨後的秋晚，交代時間傍晚、季節秋、地點山間、天氣雨後清涼，呼應山／秋／暝；空與新雨造成空靈、清新、宜人的基調。",
+          "excerpt": "總寫空山、新雨後的秋晚，交代時間傍晚、季節秋、地點山間、天氣雨後清涼，呼應山／秋／暝；空與新雨造成空靈、清新、宜人的基調。"
+        },
+        "resolvedBlock": [
+          "首聯",
+          "總寫空山、新雨後的秋晚，交代時間傍晚、季節秋、地點山間、天氣雨後清涼，呼應山／秋／暝；空與新雨造成空靈、清新、宜人的基調。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-03-00-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 190,
+          "printedPage": 186,
+          "blockPath": "$[10].pages[3].blocks[0][1][2]",
+          "anchor": "頷聯 寫眼前月、松、泉、石；皓月、青松偏靜，清泉流動，以局部動態襯整體靜謐。",
+          "excerpt": "寫眼前月、松、泉、石；皓月、青松偏靜，清泉流動，以局部動態襯整體靜謐。"
+        },
+        "resolvedBlock": [
+          "頷聯",
+          "寫眼前月、松、泉、石；皓月、青松偏靜，清泉流動，以局部動態襯整體靜謐。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-03-00-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 190,
+          "printedPage": 186,
+          "blockPath": "$[10].pages[3].blocks[0][1][3]",
+          "anchor": "頸聯 由自然景物轉山民人事；浣女歸來、漁人舟行、竹喧、蓮動都是生活活動，增添動感、聲音與情趣。",
+          "excerpt": "由自然景物轉山民人事；浣女歸來、漁人舟行、竹喧、蓮動都是生活活動，增添動感、聲音與情趣。"
+        },
+        "resolvedBlock": [
+          "頸聯",
+          "由自然景物轉山民人事；浣女歸來、漁人舟行、竹喧、蓮動都是生活活動，增添動感、聲音與情趣。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-03-00-04": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 190,
+          "printedPage": 186,
+          "blockPath": "$[10].pages[3].blocks[0][1][4]",
+          "anchor": "尾聯 含蓄抒情；即使春芳凋謝，秋晚山景和淳樸生活仍值得欣賞享受，因而自可留，流露喜愛山居、嚮往隱居及厭倦官場。",
+          "excerpt": "含蓄抒情；即使春芳凋謝，秋晚山景和淳樸生活仍值得欣賞享受，因而自可留，流露喜愛山居、嚮往隱居及厭倦官場。"
+        },
+        "resolvedBlock": [
+          "尾聯",
+          "含蓄抒情；即使春芳凋謝，秋晚山景和淳樸生活仍值得欣賞享受，因而自可留，流露喜愛山居、嚮往隱居及厭倦官場。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-03-01-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 190,
+          "printedPage": 186,
+          "blockPath": "$[10].pages[3].blocks[1]",
+          "anchor": "由景到人、再到自己的選擇，前三聯是尾聯情志的依據，不是與主旨無關的景物清單。觀察視線由上而下、由遠而近；頸聯又有先聲／動、後人／舟的發現次序。",
+          "excerpt": "由景到人、再到自己的選擇，前三聯是尾聯情志的依據，不是與主旨無關的景物清單。觀察視線由上而下、由遠而近；頸聯又有先聲／動、後人／舟的發現次序。"
+        },
+        "resolvedBlock": [
+          "text",
+          "由景到人、再到自己的選擇，前三聯是尾聯情志的依據，不是與主旨無關的景物清單。觀察視線由上而下、由遠而近；頸聯又有先聲／動、後人／舟的發現次序。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-03-03-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 190,
+          "printedPage": 186,
+          "blockPath": "$[10].pages[3].blocks[3]",
+          "anchor": "本詩屬近體詩中的五言律詩：八句，每句五字，共四十字；一二句首聯、三四句頷聯、五六句頸聯、七八句尾聯。偶句韻腳為「秋、流、舟、留」，同押尤韻。中間兩聯對仗；首句「後」不列本詩偶句韻腳。",
+          "excerpt": "本詩屬近體詩中的五言律詩：八句，每句五字，共四十字；一二句首聯、三四句頷聯、五六句頸聯、七八句尾聯。偶句韻腳為「秋、流、舟、留」，同押尤韻。中間兩聯對仗；首句「後」不列本詩偶句韻腳。"
+        },
+        "resolvedBlock": [
+          "text",
+          "本詩屬近體詩中的五言律詩：八句，每句五字，共四十字；一二句首聯、三四句頷聯、五六句頸聯、七八句尾聯。偶句韻腳為「秋、流、舟、留」，同押尤韻。中間兩聯對仗；首句「後」不列本詩偶句韻腳。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-03-04-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 190,
+          "printedPage": 186,
+          "blockPath": "$[10].pages[3].blocks[4]",
+          "anchor": "古體詩在句數、對仗和轉韻方面較自由；近體詩有較嚴整的格律。本詩是五言律詩，先掌握八句四聯、每句五字、頷頸兩聯對仗和偶句押韻，再看形式如何配合景物與情感。",
+          "excerpt": "古體詩在句數、對仗和轉韻方面較自由；近體詩有較嚴整的格律。本詩是五言律詩，先掌握八句四聯、每句五字、頷頸兩聯對仗和偶句押韻，再看形式如何配合景物與情感。"
+        },
+        "resolvedBlock": [
+          "text",
+          "古體詩在句數、對仗和轉韻方面較自由；近體詩有較嚴整的格律。本詩是五言律詩，先掌握八句四聯、每句五字、頷頸兩聯對仗和偶句押韻，再看形式如何配合景物與情感。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-03-05-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 190,
+          "printedPage": 186,
+          "blockPath": "$[10].pages[3].blocks[5]",
+          "anchor": "中間兩聯把相應的景物、位置和動作並排：「明月／清泉」「松間／石上」「照／流」。讀出這些對應，比只記「對仗工整」更能看清詩的組織。",
+          "excerpt": "中間兩聯把相應的景物、位置和動作並排：「明月／清泉」「松間／石上」「照／流」。讀出這些對應，比只記「對仗工整」更能看清詩的組織。"
+        },
+        "resolvedBlock": [
+          "text",
+          "中間兩聯把相應的景物、位置和動作並排：「明月／清泉」「松間／石上」「照／流」。讀出這些對應，比只記「對仗工整」更能看清詩的組織。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-04-00-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 191,
+          "printedPage": 187,
+          "blockPath": "$[10].pages[4].blocks[0][1][1]",
+          "anchor": "觸覺 空山新雨後，天氣晚來秋 雨後秋涼，寫清爽宜人的感受。",
+          "excerpt": "空山新雨後，天氣晚來秋；雨後秋涼，寫清爽宜人的感受。"
+        },
+        "resolvedBlock": [
+          "觸覺",
+          "空山新雨後，天氣晚來秋",
+          "雨後秋涼，寫清爽宜人的感受。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-04-00-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 191,
+          "printedPage": 187,
+          "blockPath": "$[10].pages[4].blocks[0][1][2]",
+          "anchor": "視覺 明月松間照，清泉石上流 月照松、泉流石，上下景物清晰，構成秋晚圖畫。",
+          "excerpt": "明月松間照，清泉石上流；月照松、泉流石，上下景物清晰，構成秋晚圖畫。"
+        },
+        "resolvedBlock": [
+          "視覺",
+          "明月松間照，清泉石上流",
+          "月照松、泉流石，上下景物清晰，構成秋晚圖畫。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-04-00-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 191,
+          "printedPage": 187,
+          "blockPath": "$[10].pages[4].blocks[0][1][3]",
+          "anchor": "視覺 蓮動下漁舟 船過蓮葉搖動，呈現山民生活自然情趣。",
+          "excerpt": "蓮動下漁舟；船過蓮葉搖動，呈現山民生活自然情趣。"
+        },
+        "resolvedBlock": [
+          "視覺",
+          "蓮動下漁舟",
+          "船過蓮葉搖動，呈現山民生活自然情趣。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-04-00-04": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 191,
+          "printedPage": 187,
+          "blockPath": "$[10].pages[4].blocks[0][1][4]",
+          "anchor": "聽覺兼視覺 竹喧歸浣女 竹林先傳出笑語，再帶出歸來的浣女，形成先聞聲、後見人的次序，既引起注意，也增添山居生活的生氣。",
+          "excerpt": "竹喧歸浣女；竹林先傳出笑語，再帶出歸來的浣女，形成先聞聲、後見人的次序，既引起注意，也增添山居生活的生氣。"
+        },
+        "resolvedBlock": [
+          "聽覺兼視覺",
+          "竹喧歸浣女",
+          "竹林先傳出笑語，再帶出歸來的浣女，形成先聞聲、後見人的次序，既引起注意，也增添山居生活的生氣。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-04-00-05": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 191,
+          "printedPage": 187,
+          "blockPath": "$[10].pages[4].blocks[0][1][5]",
+          "anchor": "動靜結合 首聯、月照泉流、浣女與漁舟 首聯空山雨霽、頷聯青松如蓋皓月當空、山泉清洌／清冽，構成靜謐背景；泉水淙淙、浣女嬉笑、船行蓮動加入局部動景，使山村豐富多姿、活潑可喜而不冷清平淡。",
+          "excerpt": "首聯、月照泉流、浣女與漁舟；首聯空山雨霽、頷聯青松如蓋皓月當空、山泉清洌／清冽，構成靜謐背景；泉水淙淙、浣女嬉笑、船行蓮動加入局部動景，使山村豐富多姿、活潑可喜而不冷清平淡。"
+        },
+        "resolvedBlock": [
+          "動靜結合",
+          "首聯、月照泉流、浣女與漁舟",
+          "首聯空山雨霽、頷聯青松如蓋皓月當空、山泉清洌／清冽，構成靜謐背景；泉水淙淙、浣女嬉笑、船行蓮動加入局部動景，使山村豐富多姿、活潑可喜而不冷清平淡。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-04-00-06": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 191,
+          "printedPage": 187,
+          "blockPath": "$[10].pages[4].blocks[0][1][6]",
+          "anchor": "以光襯暗／以明襯暗 明月松間照 皎潔月光照入陰暗松林，明暗相映，明淨清幽。增寫光穿葉縫、斑駁影子；這是形象化聯想，不是詩句逐字內容。",
+          "excerpt": "明月松間照；皎潔月光照入陰暗松林，明暗相映，明淨清幽。增寫光穿葉縫、斑駁影子；這是形象化聯想，不是詩句逐字內容。"
+        },
+        "resolvedBlock": [
+          "以光襯暗／以明襯暗",
+          "明月松間照",
+          "皎潔月光照入陰暗松林，明暗相映，明淨清幽。增寫光穿葉縫、斑駁影子；這是形象化聯想，不是詩句逐字內容。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-04-00-07": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 191,
+          "printedPage": 187,
+          "blockPath": "$[10].pages[4].blocks[0][1][7]",
+          "anchor": "以聲襯靜 竹喧歸浣女 洗衣歸來女子喧鬧嬉笑，以局部聲音反襯山村安靜、空靜閒適。",
+          "excerpt": "竹喧歸浣女；洗衣歸來女子喧鬧嬉笑，以局部聲音反襯山村安靜、空靜閒適。"
+        },
+        "resolvedBlock": [
+          "以聲襯靜",
+          "竹喧歸浣女",
+          "洗衣歸來女子喧鬧嬉笑，以局部聲音反襯山村安靜、空靜閒適。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-04-00-08": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 191,
+          "printedPage": 187,
+          "blockPath": "$[10].pages[4].blocks[0][1][8]",
+          "anchor": "以動襯靜 清泉石上流 泉流動態映襯雨後空山靜謐；該聯以靜景為主不等於泉流屬靜物。",
+          "excerpt": "清泉石上流；泉流動態映襯雨後空山靜謐；該聯以靜景為主不等於泉流屬靜物。"
+        },
+        "resolvedBlock": [
+          "以動襯靜",
+          "清泉石上流",
+          "泉流動態映襯雨後空山靜謐；該聯以靜景為主不等於泉流屬靜物。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-04-00-09": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 191,
+          "printedPage": 187,
+          "blockPath": "$[10].pages[4].blocks[0][1][9]",
+          "anchor": "以動襯靜 竹喧歸浣女，蓮動下漁舟 人舟活動、蓮葉搖動反襯環境平靜，恬淡自然且有生活情趣。另把竹喧聲音標「以動襯靜B」，屬分類角度。",
+          "excerpt": "竹喧歸浣女，蓮動下漁舟；人舟活動、蓮葉搖動反襯環境平靜，恬淡自然且有生活情趣。另把竹喧聲音標「以動襯靜B」，屬分類角度。"
+        },
+        "resolvedBlock": [
+          "以動襯靜",
+          "竹喧歸浣女，蓮動下漁舟",
+          "人舟活動、蓮葉搖動反襯環境平靜，恬淡自然且有生活情趣。另把竹喧聲音標「以動襯靜B」，屬分類角度。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 193,
+          "printedPage": 189,
+          "blockPath": "$[10].pages[7].blocks[1]",
+          "anchor": "浣女、漁舟表現村民勤勞、淳厚樸實、和平安樂的生活，詩人的心境澄明淡靜、空明，對隱居生活悠然自得、滿足。頸聯熱鬧和全詩清靜幽雅並不矛盾：正是聲音與動景映襯背景，讓幽靜含有人間情趣，構成其理想生活。「自可留」流露留戀山居、厭倦塵俗的選擇；高潔與恬淡的情志，須由明淨景物和淳樸人事加以說明。",
+          "excerpt": "浣女、漁舟表現村民勤勞、淳厚樸實、和平安樂的生活，詩人的心境澄明淡靜、空明，對隱居生活悠然自得、滿足。頸聯熱鬧和全詩清靜幽雅並不矛盾：正是聲音與動景映襯背景，讓幽靜含有人間情趣，構成其理想生活。「自可留」流露留戀山居、厭倦塵俗的選擇；高潔與恬淡的情志，須由明淨景物和淳樸人事加以說明。"
+        },
+        "resolvedBlock": [
+          "text",
+          "浣女、漁舟表現村民勤勞、淳厚樸實、和平安樂的生活，詩人的心境澄明淡靜、空明，對隱居生活悠然自得、滿足。頸聯熱鬧和全詩清靜幽雅並不矛盾：正是聲音與動景映襯背景，讓幽靜含有人間情趣，構成其理想生活。「自可留」流露留戀山居、厭倦塵俗的選擇；高潔與恬淡的情志，須由明淨景物和淳樸人事加以說明。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 189,
+          "printedPage": 185,
+          "blockPath": "$[10].pages[2].blocks[0]",
+          "anchor": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+          "excerpt": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。"
+        },
+        "resolvedBlock": [
+          "annot",
+          "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+          [
+            [
+              "喧",
+              "喧鬧",
+              "blue"
+            ],
+            [
+              "歸",
+              "回來",
+              "blue"
+            ],
+            [
+              "浣",
+              "洗衣",
+              "blue"
+            ],
+            [
+              "下",
+              "順流而下",
+              "blue"
+            ],
+            [
+              "隨意",
+              "任憑",
+              "blue"
+            ],
+            [
+              "春芳",
+              "春天的花草",
+              "blue"
+            ],
+            [
+              "歇",
+              "凋謝",
+              "blue"
+            ],
+            [
+              "王孫",
+              "隱士，借指自己",
+              "blue"
+            ],
+            [
+              "自",
+              "自然",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "喧",
+              "meaning": "喧鬧",
+              "spans": [
+                [
+                  1,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "歸",
+              "meaning": "回來",
+              "spans": [
+                [
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "浣",
+              "meaning": "洗衣",
+              "spans": [
+                [
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "下",
+              "meaning": "順流而下",
+              "spans": [
+                [
+                  8,
+                  9
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "隨意",
+              "meaning": "任憑",
+              "spans": [
+                [
+                  12,
+                  14
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "春芳",
+              "meaning": "春天的花草",
+              "spans": [
+                [
+                  14,
+                  16
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "歇",
+              "meaning": "凋謝",
+              "spans": [
+                [
+                  16,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "王孫",
+              "meaning": "隱士，借指自己",
+              "spans": [
+                [
+                  18,
+                  20
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "自",
+              "meaning": "自然",
+              "spans": [
+                [
+                  20,
+                  21
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-05-00-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 192,
+          "printedPage": 188,
+          "blockPath": "$[10].pages[5].blocks[0][1][1]",
+          "anchor": "主謂倒裝 竹喧歸浣女，蓮動下漁舟 歸、下在浣女、漁舟前，突出動作，增加動感，配合偶句押韻、頸聯對仗及音調和諧。語義次序又是先見聞現象，再揭示人舟；形式與觀察次序可並述；若問主旨，還須把動作與發現次序連到純樸山居生活及詩人的留戀，不只停在音調動感。稱「初秋傍晚」，詩中明確交代秋日傍晚。",
+          "excerpt": "竹喧歸浣女，蓮動下漁舟；歸、下在浣女、漁舟前，突出動作，增加動感，配合偶句押韻、頸聯對仗及音調和諧。語義次序又是先見聞現象，再揭示人舟；形式與觀察次序可並述；若問主旨，還須把動作與發現次序連到純樸山居生活及詩人的留戀，不只停在音調動感。稱「初秋傍晚」，詩中明確交代秋日傍晚。"
+        },
+        "resolvedBlock": [
+          "主謂倒裝",
+          "竹喧歸浣女，蓮動下漁舟",
+          "歸、下在浣女、漁舟前，突出動作，增加動感，配合偶句押韻、頸聯對仗及音調和諧。語義次序又是先見聞現象，再揭示人舟；形式與觀察次序可並述；若問主旨，還須把動作與發現次序連到純樸山居生活及詩人的留戀，不只停在音調動感。稱「初秋傍晚」，詩中明確交代秋日傍晚。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-05-00-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 192,
+          "printedPage": 188,
+          "blockPath": "$[10].pages[5].blocks[0][1][2]",
+          "anchor": "對偶／對仗 明月松間照，清泉石上流 明月／清泉、松間／石上、照／流相對，句式整齊，兩組自然景相映。",
+          "excerpt": "明月松間照，清泉石上流；明月／清泉、松間／石上、照／流相對，句式整齊，兩組自然景相映。"
+        },
+        "resolvedBlock": [
+          "對偶／對仗",
+          "明月松間照，清泉石上流",
+          "明月／清泉、松間／石上、照／流相對，句式整齊，兩組自然景相映。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-05-00-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 192,
+          "printedPage": 188,
+          "blockPath": "$[10].pages[5].blocks[0][1][3]",
+          "anchor": "對偶／對仗 竹喧歸浣女，蓮動下漁舟 同構句式對寫女子歸和漁舟下，呈兩種純樸人事，符合律詩形式。",
+          "excerpt": "竹喧歸浣女，蓮動下漁舟；同構句式對寫女子歸和漁舟下，呈兩種純樸人事，符合律詩形式。"
+        },
+        "resolvedBlock": [
+          "對偶／對仗",
+          "竹喧歸浣女，蓮動下漁舟",
+          "同構句式對寫女子歸和漁舟下，呈兩種純樸人事，符合律詩形式。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-05-00-04": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 192,
+          "printedPage": 188,
+          "blockPath": "$[10].pages[5].blocks[0][1][4]",
+          "anchor": "前後／題文呼應 明月、歸浣女、下漁舟 呼應題中居、暝及第二句晚；月出和傍晚人事使山居場景時間一致，",
+          "excerpt": "明月、歸浣女、下漁舟；呼應題中居、暝及第二句晚；月出和傍晚人事使山居場景時間一致，"
+        },
+        "resolvedBlock": [
+          "前後／題文呼應",
+          "明月、歸浣女、下漁舟",
+          "呼應題中居、暝及第二句晚；月出和傍晚人事使山居場景時間一致，"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-05-00-05": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 192,
+          "printedPage": 188,
+          "blockPath": "$[10].pages[5].blocks[0][1][5]",
+          "anchor": "觸景生情、借景抒情 雨後山景、山民生活→自可留 秋山如洗、松靜水清、人物生活有情趣，令人流連陶醉、忘懷世事，由景生出喜愛山居及厭倦官場之情。可用「世外桃源」形容其理想境界，不據此另立本詩用了桃花源典故。",
+          "excerpt": "雨後山景、山民生活→自可留；秋山如洗、松靜水清、人物生活有情趣，令人流連陶醉、忘懷世事，由景生出喜愛山居及厭倦官場之情。可用「世外桃源」形容其理想境界，不據此另立本詩用了桃花源典故。"
+        },
+        "resolvedBlock": [
+          "觸景生情、借景抒情",
+          "雨後山景、山民生活→自可留",
+          "秋山如洗、松靜水清、人物生活有情趣，令人流連陶醉、忘懷世事，由景生出喜愛山居及厭倦官場之情。可用「世外桃源」形容其理想境界，不據此另立本詩用了桃花源典故。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-05-00-06": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 192,
+          "printedPage": 188,
+          "blockPath": "$[10].pages[5].blocks[0][1][6]",
+          "anchor": "詩中有畫 空山秋夜圖 捕捉特點，從構圖、光暗、動靜繪景，意境優美。",
+          "excerpt": "空山秋夜圖；捕捉特點，從構圖、光暗、動靜繪景，意境優美。"
+        },
+        "resolvedBlock": [
+          "詩中有畫",
+          "空山秋夜圖",
+          "捕捉特點，從構圖、光暗、動靜繪景，意境優美。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-05-00-07": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 192,
+          "printedPage": 188,
+          "blockPath": "$[10].pages[5].blocks[0][1][7]",
+          "anchor": "白描與興寄／寓情於景 明月、清泉、浣女、漁舟 說表面以白描細刻美態，實際向景物投放情感，寄託曠達高潔及厭棄官場、脫離塵俗、隱居山林的理想。白描談描寫方式，興寄談情志寄託，可以兼容。",
+          "excerpt": "明月、清泉、浣女、漁舟；說表面以白描細刻美態，實際向景物投放情感，寄託曠達高潔及厭棄官場、脫離塵俗、隱居山林的理想。白描談描寫方式，興寄談情志寄託，可以兼容。"
+        },
+        "resolvedBlock": [
+          "白描與興寄／寓情於景",
+          "明月、清泉、浣女、漁舟",
+          "說表面以白描細刻美態，實際向景物投放情感，寄託曠達高潔及厭棄官場、脫離塵俗、隱居山林的理想。白描談描寫方式，興寄談情志寄託，可以兼容。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-05-00-08": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 192,
+          "printedPage": 188,
+          "blockPath": "$[10].pages[5].blocks[0][1][8]",
+          "anchor": "反用典故 隨意春芳歇，王孫自可留 原典與本詩意思相反，詳見下節。",
+          "excerpt": "隨意春芳歇，王孫自可留；原典與本詩意思相反，詳見下節。"
+        },
+        "resolvedBlock": [
+          "反用典故",
+          "隨意春芳歇，王孫自可留",
+          "原典與本詩意思相反，詳見下節。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 193,
+          "printedPage": 189,
+          "blockPath": "$[10].pages[7].blocks[0]",
+          "anchor": "「隨意春芳歇，王孫自可留」反用《楚辭・招隱士》「王孫兮歸來，山中兮不可以久留」：原意希望王孫歸來、不要久留山中；本詩反過來說山中美景與生活令人留戀，自可留下，不必回朝廷。即使春天花草已謝，秋景仍美，並非對春逝失落。常見典故活用成新意，深化歸隱主題、增強感染力。",
+          "excerpt": "「隨意春芳歇，王孫自可留」反用《楚辭・招隱士》「王孫兮歸來，山中兮不可以久留」：原意希望王孫歸來、不要久留山中；本詩反過來說山中美景與生活令人留戀，自可留下，不必回朝廷。即使春天花草已謝，秋景仍美，並非對春逝失落。常見典故活用成新意，深化歸隱主題、增強感染力。"
+        },
+        "resolvedBlock": [
+          "text",
+          "「隨意春芳歇，王孫自可留」反用《楚辭・招隱士》「王孫兮歸來，山中兮不可以久留」：原意希望王孫歸來、不要久留山中；本詩反過來說山中美景與生活令人留戀，自可留下，不必回朝廷。即使春天花草已謝，秋景仍美，並非對春逝失落。常見典故活用成新意，深化歸隱主題、增強感染力。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-06-00-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 192,
+          "printedPage": 188,
+          "blockPath": "$[10].pages[6].blocks[0][1][1]",
+          "anchor": "借代 王孫自可留 以王孫代隱士並指自己，含蓄表達留居選擇。",
+          "excerpt": "王孫自可留；以王孫代隱士並指自己，含蓄表達留居選擇。"
+        },
+        "resolvedBlock": [
+          "借代",
+          "王孫自可留",
+          "以王孫代隱士並指自己，含蓄表達留居選擇。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-06-00-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 192,
+          "printedPage": 188,
+          "blockPath": "$[10].pages[6].blocks[0][1][2]",
+          "anchor": "象徵 明月、清泉、松、竹、蓮 月泉清明→清高光明；松竹→堅定有節；蓮→潔身自好。補竹、蓮；每物须連特點，不能把所有象徵都當同一道題必答項。",
+          "excerpt": "明月、清泉、松、竹、蓮；月泉清明→清高光明；松竹→堅定有節；蓮→潔身自好。補竹、蓮；每物须連特點，不能把所有象徵都當同一道題必答項。"
+        },
+        "resolvedBlock": [
+          "象徵",
+          "明月、清泉、松、竹、蓮",
+          "月泉清明→清高光明；松竹→堅定有節；蓮→潔身自好。補竹、蓮；每物须連特點，不能把所有象徵都當同一道題必答項。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-07-00-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 193,
+          "printedPage": 189,
+          "blockPath": "$[10].pages[7].blocks[0]",
+          "anchor": "「隨意春芳歇，王孫自可留」反用《楚辭・招隱士》「王孫兮歸來，山中兮不可以久留」：原意希望王孫歸來、不要久留山中；本詩反過來說山中美景與生活令人留戀，自可留下，不必回朝廷。即使春天花草已謝，秋景仍美，並非對春逝失落。常見典故活用成新意，深化歸隱主題、增強感染力。",
+          "excerpt": "「隨意春芳歇，王孫自可留」反用《楚辭・招隱士》「王孫兮歸來，山中兮不可以久留」：原意希望王孫歸來、不要久留山中；本詩反過來說山中美景與生活令人留戀，自可留下，不必回朝廷。即使春天花草已謝，秋景仍美，並非對春逝失落。常見典故活用成新意，深化歸隱主題、增強感染力。"
+        },
+        "resolvedBlock": [
+          "text",
+          "「隨意春芳歇，王孫自可留」反用《楚辭・招隱士》「王孫兮歸來，山中兮不可以久留」：原意希望王孫歸來、不要久留山中；本詩反過來說山中美景與生活令人留戀，自可留下，不必回朝廷。即使春天花草已謝，秋景仍美，並非對春逝失落。常見典故活用成新意，深化歸隱主題、增強感染力。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-07-01-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 193,
+          "printedPage": 189,
+          "blockPath": "$[10].pages[7].blocks[1]",
+          "anchor": "浣女、漁舟表現村民勤勞、淳厚樸實、和平安樂的生活，詩人的心境澄明淡靜、空明，對隱居生活悠然自得、滿足。頸聯熱鬧和全詩清靜幽雅並不矛盾：正是聲音與動景映襯背景，讓幽靜含有人間情趣，構成其理想生活。「自可留」流露留戀山居、厭倦塵俗的選擇；高潔與恬淡的情志，須由明淨景物和淳樸人事加以說明。",
+          "excerpt": "浣女、漁舟表現村民勤勞、淳厚樸實、和平安樂的生活，詩人的心境澄明淡靜、空明，對隱居生活悠然自得、滿足。頸聯熱鬧和全詩清靜幽雅並不矛盾：正是聲音與動景映襯背景，讓幽靜含有人間情趣，構成其理想生活。「自可留」流露留戀山居、厭倦塵俗的選擇；高潔與恬淡的情志，須由明淨景物和淳樸人事加以說明。"
+        },
+        "resolvedBlock": [
+          "text",
+          "浣女、漁舟表現村民勤勞、淳厚樸實、和平安樂的生活，詩人的心境澄明淡靜、空明，對隱居生活悠然自得、滿足。頸聯熱鬧和全詩清靜幽雅並不矛盾：正是聲音與動景映襯背景，讓幽靜含有人間情趣，構成其理想生活。「自可留」流露留戀山居、厭倦塵俗的選擇；高潔與恬淡的情志，須由明淨景物和淳樸人事加以說明。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-07-02-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 193,
+          "printedPage": 189,
+          "blockPath": "$[10].pages[7].blocks[2]",
+          "anchor": "「明月松間照」寄寓高潔，可分析月明淨皎潔→光明高尚，也可說松挺拔耐寒→剛直有節；或合看整句明淨清新的意境→不隨俗的高潔追求。不可只列「月、松象徵高潔」而漏掉特點與品格的連接。這與尾聯的反用典故是不同手法、不同證據。",
+          "excerpt": "「明月松間照」寄寓高潔，可分析月明淨皎潔→光明高尚，也可說松挺拔耐寒→剛直有節；或合看整句明淨清新的意境→不隨俗的高潔追求。不可只列「月、松象徵高潔」而漏掉特點與品格的連接。這與尾聯的反用典故是不同手法、不同證據。"
+        },
+        "resolvedBlock": [
+          "text",
+          "「明月松間照」寄寓高潔，可分析月明淨皎潔→光明高尚，也可說松挺拔耐寒→剛直有節；或合看整句明淨清新的意境→不隨俗的高潔追求。不可只列「月、松象徵高潔」而漏掉特點與品格的連接。這與尾聯的反用典故是不同手法、不同證據。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-09-00-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 193,
+          "printedPage": 189,
+          "blockPath": "$[10].pages[9].blocks[0]",
+          "anchor": "前三聯提供「自可留」的理由：環境清幽，景物明淨，生活淳樸。",
+          "excerpt": "前三聯提供「自可留」的理由：環境清幽，景物明淨，生活淳樸。"
+        },
+        "resolvedBlock": [
+          "band",
+          "前三聯提供「自可留」的理由：環境清幽，景物明淨，生活淳樸。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-09-01-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 193,
+          "printedPage": 189,
+          "blockPath": "$[10].pages[9].blocks[1][1][1]",
+          "anchor": "首聯定基調 空山、新雨、晚、秋把地點與清新涼意連起來。",
+          "excerpt": "空山、新雨、晚、秋把地點與清新涼意連起來。"
+        },
+        "resolvedBlock": [
+          "首聯定基調",
+          "空山、新雨、晚、秋把地點與清新涼意連起來。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-09-01-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 193,
+          "printedPage": 189,
+          "blockPath": "$[10].pages[9].blocks[1][1][2]",
+          "anchor": "頷頸聯充實理由 月泉寫自然，浣女漁舟寫人事；動與聲並未破壞幽靜，反令幽靜有生氣。",
+          "excerpt": "月泉寫自然，浣女漁舟寫人事；動與聲並未破壞幽靜，反令幽靜有生氣。"
+        },
+        "resolvedBlock": [
+          "頷頸聯充實理由",
+          "月泉寫自然，浣女漁舟寫人事；動與聲並未破壞幽靜，反令幽靜有生氣。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-11-09-01-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 193,
+          "printedPage": 189,
+          "blockPath": "$[10].pages[9].blocks[1][1][3]",
+          "anchor": "尾聯作選擇 即使春芳已歇，仍願留山；反用典故把前面景物收為自己的生活理想。",
+          "excerpt": "即使春芳已歇，仍願留山；反用典故把前面景物收為自己的生活理想。"
+        },
+        "resolvedBlock": [
+          "尾聯作選擇",
+          "即使春芳已歇，仍願留山；反用典故把前面景物收為自己的生活理想。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "confusable-gui-lunyu-shanju": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 8,
+          "printedPage": 4,
+          "blockPath": "$[0].pages[3].blocks[1][1][4]",
+          "anchor": "顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」",
+          "excerpt": "歸：稱讚、認同",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "essayId": "essay-01",
+          "questionId": "pilot-01-03-05",
+          "quote": "顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」",
+          "meaning": "稱讚、認同",
+          "snippet": "天下歸仁焉"
+        },
+        "resolvedBlock": [
+          "歸",
+          "稱讚、認同",
+          0
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 8,
+          "printedPage": 4,
+          "blockPath": "$[0].pages[3].blocks[1][1][4]",
+          "anchor": "顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」",
+          "excerpt": "歸：稱讚、認同",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "essayId": "essay-01",
+          "questionId": "pilot-01-03-05",
+          "quote": "顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」",
+          "meaning": "稱讚、認同",
+          "snippet": "天下歸仁焉"
+        },
+        "resolvedBlock": [
+          "歸",
+          "稱讚、認同",
+          0
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 189,
+          "printedPage": 185,
+          "blockPath": "$[10].pages[2].blocks[3][1][1]",
+          "anchor": "回來",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "excerpt": "回來",
+          "jsonFile": "student-content.json"
+        },
+        "resolvedBlock": [
+          "歸",
+          "回來",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "confusable-gui-yueyang-shanju": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 159,
+          "printedPage": 155,
+          "blockPath": "$[8].pages[5].blocks[3][1][6]",
+          "anchor": "嗟夫！予嘗求古仁人之心，或異二者之為。何哉？不以物喜，不以己悲。居廟堂之高，則憂其民；處江湖之遠，則憂其君。是進亦憂，退亦憂，然則何時而樂耶？其必曰：「先天下之憂而憂，後天下之樂而樂」歟！噫！微斯人，吾誰與歸！",
+          "excerpt": "歸：歸依、同道",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "essayId": "essay-09",
+          "questionId": "pilot-09-05-07",
+          "quote": "嗟夫！予嘗求古仁人之心，或異二者之為。何哉？不以物喜，不以己悲。居廟堂之高，則憂其民；處江湖之遠，則憂其君。是進亦憂，退亦憂，然則何時而樂耶？其必曰：「先天下之憂而憂，後天下之樂而樂」歟！噫！微斯人，吾誰與歸！",
+          "meaning": "歸依、同道",
+          "snippet": "吾誰與歸"
+        },
+        "resolvedBlock": [
+          "歸",
+          "歸依、同道",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 159,
+          "printedPage": 155,
+          "blockPath": "$[8].pages[5].blocks[3][1][6]",
+          "anchor": "嗟夫！予嘗求古仁人之心，或異二者之為。何哉？不以物喜，不以己悲。居廟堂之高，則憂其民；處江湖之遠，則憂其君。是進亦憂，退亦憂，然則何時而樂耶？其必曰：「先天下之憂而憂，後天下之樂而樂」歟！噫！微斯人，吾誰與歸！",
+          "excerpt": "歸：歸依、同道",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "essayId": "essay-09",
+          "questionId": "pilot-09-05-07",
+          "quote": "嗟夫！予嘗求古仁人之心，或異二者之為。何哉？不以物喜，不以己悲。居廟堂之高，則憂其民；處江湖之遠，則憂其君。是進亦憂，退亦憂，然則何時而樂耶？其必曰：「先天下之憂而憂，後天下之樂而樂」歟！噫！微斯人，吾誰與歸！",
+          "meaning": "歸依、同道",
+          "snippet": "吾誰與歸"
+        },
+        "resolvedBlock": [
+          "歸",
+          "歸依、同道",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 189,
+          "printedPage": 185,
+          "blockPath": "$[10].pages[2].blocks[3][1][1]",
+          "anchor": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+          "excerpt": "歸：回來",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "essayId": "essay-11",
+          "questionId": "pilot-11-02-02",
+          "quote": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+          "meaning": "回來",
+          "snippet": "竹喧歸浣女"
+        },
+        "resolvedBlock": [
+          "歸",
+          "回來",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ]
+  },
+  "scope": "來源定位、原文錨點和版本核對；自動檢查不代替內容審題。"
+}

@@ -1,0 +1,15 @@
+{
+  "verifiedAtUtc": "2026-09-23T03:23:43.330Z",
+  "target": "https://chinese-a-study.philipwwq.workers.dev",
+  "worker": "chinese-a-study",
+  "workerVersionId": "5464fe28-5fb1-4698-8068-16301666006a",
+  "bankVersion": "2026.09.23.6",
+  "bankSha256": "faefd5a52fa07c318a26623e0ed1f79741cf99ee7b0bbbb4a3fc09f2895163b4",
+  "questions": 2134,
+  "crossReviewed": 252,
+  "carriedForwardWithoutNewSemanticReview": 1882,
+  "deployment": "existing Worker and Durable Object binding retained; no account migration",
+  "verification": "public-result.json: read-only public asset, API, PDF Range and Chromium login checks passed",
+  "productionAccountLogin": "not-run",
+  "physicalIpadAcceptance": "not-run"
+}

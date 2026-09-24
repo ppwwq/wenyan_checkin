@@ -1,0 +1,3612 @@
+[
+  {
+    "question": {
+      "id": "full-d-14-02",
+      "version": 1,
+      "memoryId": "m-full-d-14-02",
+      "essayIds": [],
+      "ability": "technique",
+      "quote": "景物描寫起首",
+      "target": "",
+      "stem": "關於「景物描寫起首」，哪項理解最準確？",
+      "choices": [
+        {
+          "text": "景物必須與人物心境完全無關",
+          "explanation": "可由環境心境帶入主題",
+          "id": "a"
+        },
+        {
+          "text": "只有列景物名字，不需具體氣氛",
+          "explanation": "需描寫以渲染或觸情",
+          "id": "b"
+        },
+        {
+          "text": "景物開頭只能用於說明數據",
+          "explanation": "可用於記敘抒情",
+          "id": "c"
+        },
+        {
+          "text": "描寫眼前景物以渲染氣氛，或由景觸發感情。",
+          "explanation": "描寫眼前景物以渲染氣氛，或由景觸發感情。 記敘抒情：以環境、心境帶入主題。",
+          "id": "d"
+        }
+      ],
+      "answerId": "d",
+      "explanation": "描寫眼前景物以渲染氣氛，或由景觸發感情。\n例子或作用：記敘抒情：以環境、心境帶入主題。",
+      "source": {
+        "title": "文言詩詞・十六篇復習書｜手法附錄",
+        "section": "寫作實用｜九種開頭安排",
+        "jsonFile": "appendix-content.json",
+        "blockPath": "$appendix.sections[14].rows[2]",
+        "anchor": "描寫眼前景物以渲染氣氛，或由景觸發感情。",
+        "pdfPage": 257,
+        "printedPage": "附錄16",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "version": "2026-09-14"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "描寫眼前景物以渲染氣氛，或由景觸發感情。",
+      "misconception": "可由環境心境帶入主題",
+      "difficulty": "foundation",
+      "tags": [
+        "appendix",
+        "concept-definition"
+      ],
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "officialExamQuestion": false,
+        "scope": "依所供附錄逐列核對概念與物理頁；干擾項針對易混條件。定義辨析，不冒稱原文應用題或教師審核。",
+        "evidence": [
+          "景物描寫起首",
+          "描寫眼前景物以渲染氣氛，或由景觸發感情。",
+          "記敘抒情：以環境、心境帶入主題。"
+        ]
+      }
+    },
+    "baseQuestionHash": "9123d9320af43d6cd1d21790a6f78414e4d197c5b26d7b03c5a99c9d2a99ae06",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書｜手法附錄",
+          "section": "寫作實用｜九種開頭安排",
+          "jsonFile": "appendix-content.json",
+          "blockPath": "$appendix.sections[14].rows[2]",
+          "anchor": "描寫眼前景物以渲染氣氛，或由景觸發感情。",
+          "pdfPage": 257,
+          "printedPage": "附錄16",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14"
+        },
+        "block": [
+          "景物描寫起首",
+          "描寫眼前景物以渲染氣氛，或由景觸發感情。",
+          "記敘抒情：以環境、心境帶入主題。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "all-wrong-absolute",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-12-05-00-01",
+      "version": 2,
+      "memoryId": "full-c-12-05-00-01",
+      "essayIds": [
+        "essay-12"
+      ],
+      "ability": "meaning",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：結合「永結」「相期」，怎樣理解「無情遊」較恰當？\n甲：無情若指超越俗情，就不能再與不解飲的月影限制互相參照\n乙：無情既可指月影無人的情感，就表示詩人也不再渴望相伴",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：不同合理角度可參照，不能互斥。乙：仍永結相期，可見渴望未全失。"
+        },
+        {
+          "id": "b",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：不同合理角度可參照，不能互斥。乙：仍永結相期，可見渴望未全失。"
+        },
+        {
+          "id": "c",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：不同合理角度可參照，不能互斥。乙：仍永結相期，可見渴望未全失。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：不同合理角度可參照，不能互斥。乙：仍永結相期，可見渴望未全失。"
+        }
+      ],
+      "answerId": "a",
+      "explanation": "此判斷正確。甲：不同合理角度可參照，不能互斥。乙：仍永結相期，可見渴望未全失。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 199,
+        "printedPage": 195,
+        "blockPath": "$[11].pages[5].blocks[0][1][1]",
+        "anchor": "無情遊 永結無情遊 忘卻世情、不受人間得失束縛的交遊；也可聯繫月影沒有人的情感來理解。此處指向超越俗情的相伴，不是冷酷待人。",
+        "excerpt": "忘卻世情、不受人間得失束縛的交遊；也可聯繫月影沒有人的情感來理解。此處指向超越俗情的相伴，不是冷酷待人。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：不同合理角度可參照，不能互斥。乙：仍永結相期，可見渴望未全失。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：不同合理角度可參照，不能互斥。乙：仍永結相期，可見渴望未全失。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "無情遊 永結無情遊 忘卻世情、不受人間得失束縛的交遊；也可聯繫月影沒有人的情感來理解。此處指向超越俗情的相伴，不是冷酷待人。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／多義與語境（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "aec1c7f871e6e5e13050d99a03a639dcba93715519de3127a15edbf613184b3d",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 199,
+          "printedPage": 195,
+          "blockPath": "$[11].pages[5].blocks[0][1][1]",
+          "anchor": "無情遊 永結無情遊 忘卻世情、不受人間得失束縛的交遊；也可聯繫月影沒有人的情感來理解。此處指向超越俗情的相伴，不是冷酷待人。",
+          "excerpt": "忘卻世情、不受人間得失束縛的交遊；也可聯繫月影沒有人的情感來理解。此處指向超越俗情的相伴，不是冷酷待人。"
+        },
+        "block": [
+          "無情遊",
+          "永結無情遊",
+          "忘卻世情、不受人間得失束縛的交遊；也可聯繫月影沒有人的情感來理解。此處指向超越俗情的相伴，不是冷酷待人。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-12-06-00-04",
+      "version": 2,
+      "memoryId": "full-c-12-06-00-04",
+      "essayIds": [
+        "essay-12"
+      ],
+      "ability": "theme",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「暫伴月將影，行樂須及春」反映詩人怎樣應對孤寂？\n甲：暫伴只指被動等待，詩人尚無實際自解行動\n乙：既決定及時行樂，就足以證明不解飲不再是任何限制",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：後接我歌我舞，非被動等待。乙：主動行樂不取消月影不能相知。"
+        },
+        {
+          "id": "b",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：後接我歌我舞，非被動等待。乙：主動行樂不取消月影不能相知。"
+        },
+        {
+          "id": "c",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：後接我歌我舞，非被動等待。乙：主動行樂不取消月影不能相知。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：後接我歌我舞，非被動等待。乙：主動行樂不取消月影不能相知。"
+        }
+      ],
+      "answerId": "c",
+      "explanation": "此判斷正確。甲：後接我歌我舞，非被動等待。乙：主動行樂不取消月影不能相知。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 199,
+        "printedPage": 195,
+        "blockPath": "$[11].pages[6].blocks[0][1][4]",
+        "anchor": "7—8：暫伴及春 不願辜負春夜良辰，姑且以月影為伴，及時行樂，自我開解；既可見曠達，亦可見聊勝於無、更添苦悶。",
+        "excerpt": "不願辜負春夜良辰，姑且以月影為伴，及時行樂，自我開解；既可見曠達，亦可見聊勝於無、更添苦悶。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：後接我歌我舞，非被動等待。乙：主動行樂不取消月影不能相知。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：後接我歌我舞，非被動等待。乙：主動行樂不取消月影不能相知。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "7—8：暫伴及春 不願辜負春夜良辰，姑且以月影為伴，及時行樂，自我開解；既可見曠達，亦可見聊勝於無、更添苦悶。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／處境與回應（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "30f46f9e73ba43b45e6d7dfd897fcb461ec18abd474128ffc060301e00453a4c",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 199,
+          "printedPage": 195,
+          "blockPath": "$[11].pages[6].blocks[0][1][4]",
+          "anchor": "7—8：暫伴及春 不願辜負春夜良辰，姑且以月影為伴，及時行樂，自我開解；既可見曠達，亦可見聊勝於無、更添苦悶。",
+          "excerpt": "不願辜負春夜良辰，姑且以月影為伴，及時行樂，自我開解；既可見曠達，亦可見聊勝於無、更添苦悶。"
+        },
+        "block": [
+          "7—8：暫伴及春",
+          "不願辜負春夜良辰，姑且以月影為伴，及時行樂，自我開解；既可見曠達，亦可見聊勝於無、更添苦悶。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-12-06-00-06",
+      "version": 2,
+      "memoryId": "full-c-12-06-00-06",
+      "essayIds": [
+        "essay-12"
+      ],
+      "ability": "theme",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「醒時同交歡，醉後各分散」主要建立哪組對照？\n甲：醉散說明月影曾是真人，醒欢寫實而醉散才虛寫\n乙：醒與醉只是飲酒程度不同，並未同時形成聚散的對照",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：月影始終為想像同伴，不能分派真人。乙：同與各、歡與散明示聚散。"
+        },
+        {
+          "id": "b",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：月影始終為想像同伴，不能分派真人。乙：同與各、歡與散明示聚散。"
+        },
+        {
+          "id": "c",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：月影始終為想像同伴，不能分派真人。乙：同與各、歡與散明示聚散。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：月影始終為想像同伴，不能分派真人。乙：同與各、歡與散明示聚散。"
+        }
+      ],
+      "answerId": "b",
+      "explanation": "此判斷正確。甲：月影始終為想像同伴，不能分派真人。乙：同與各、歡與散明示聚散。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 199,
+        "printedPage": 195,
+        "blockPath": "$[11].pages[6].blocks[0][1][6]",
+        "anchor": "11—12：醒歡醉散 清醒時同歡，醉倒後不省人事、與月影離別；歡樂不能長久，轉為失落惆悵。亦可依2023接受角度解作不執着聚散。",
+        "excerpt": "清醒時同歡，醉倒後不省人事、與月影離別；歡樂不能長久，轉為失落惆悵。亦可依2023接受角度解作不執着聚散。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：月影始終為想像同伴，不能分派真人。乙：同與各、歡與散明示聚散。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：月影始終為想像同伴，不能分派真人。乙：同與各、歡與散明示聚散。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "11—12：醒歡醉散 清醒時同歡，醉倒後不省人事、與月影離別；歡樂不能長久，轉為失落惆悵。亦可依2023接受角度解作不執着聚散。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／局部對比（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "22c6cd083fb2a582629a97e270d7317fed5862158886c1c0f9aac789fc76cdf2",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 199,
+          "printedPage": 195,
+          "blockPath": "$[11].pages[6].blocks[0][1][6]",
+          "anchor": "11—12：醒歡醉散 清醒時同歡，醉倒後不省人事、與月影離別；歡樂不能長久，轉為失落惆悵。亦可依2023接受角度解作不執着聚散。",
+          "excerpt": "清醒時同歡，醉倒後不省人事、與月影離別；歡樂不能長久，轉為失落惆悵。亦可依2023接受角度解作不執着聚散。"
+        },
+        "block": [
+          "11—12：醒歡醉散",
+          "清醒時同歡，醉倒後不省人事、與月影離別；歡樂不能長久，轉為失落惆悵。亦可依2023接受角度解作不執着聚散。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-12-08-00-04",
+      "version": 2,
+      "memoryId": "full-c-12-08-00-04",
+      "essayIds": [
+        "essay-12"
+      ],
+      "ability": "technique",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：詩人以月影湊成「三人」的熱鬧，為何也能令人感到孤寂？\n甲：既認為真實孤獨存在，便必須否定我歌我舞的局部歡樂\n乙：只要場面熱鬧，現實有無知己便不再影響本詩感情",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：現實孤獨與局部自娛可同時成立。乙：熱鬧與現實缺伴的落差正重要。"
+        },
+        {
+          "id": "b",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：現實孤獨與局部自娛可同時成立。乙：熱鬧與現實缺伴的落差正重要。"
+        },
+        {
+          "id": "c",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：現實孤獨與局部自娛可同時成立。乙：熱鬧與現實缺伴的落差正重要。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：現實孤獨與局部自娛可同時成立。乙：熱鬧與現實缺伴的落差正重要。"
+        }
+      ],
+      "answerId": "c",
+      "explanation": "此判斷正確。甲：現實孤獨與局部自娛可同時成立。乙：熱鬧與現實缺伴的落差正重要。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 201,
+        "printedPage": 197,
+        "blockPath": "$[11].pages[8].blocks[0][1][4]",
+        "anchor": "以熱鬧反襯孤獨／以物襯情 想像三人既歌且舞，熱鬧與現實獨酌形成反差；沒有真正知己，愈熱鬧愈顯孤獨。",
+        "excerpt": "想像三人既歌且舞，熱鬧與現實獨酌形成反差；沒有真正知己，愈熱鬧愈顯孤獨。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：現實孤獨與局部自娛可同時成立。乙：熱鬧與現實缺伴的落差正重要。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：現實孤獨與局部自娛可同時成立。乙：熱鬧與現實缺伴的落差正重要。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "以熱鬧反襯孤獨／以物襯情 想像三人既歌且舞，熱鬧與現實獨酌形成反差；沒有真正知己，愈熱鬧愈顯孤獨。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／反襯效果（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "d10e85969e77b2fe0a1102fddd48bc63e02024240c080b3bb77e3b71b7c7919d",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 201,
+          "printedPage": 197,
+          "blockPath": "$[11].pages[8].blocks[0][1][4]",
+          "anchor": "以熱鬧反襯孤獨／以物襯情 想像三人既歌且舞，熱鬧與現實獨酌形成反差；沒有真正知己，愈熱鬧愈顯孤獨。",
+          "excerpt": "想像三人既歌且舞，熱鬧與現實獨酌形成反差；沒有真正知己，愈熱鬧愈顯孤獨。"
+        },
+        "block": [
+          "以熱鬧反襯孤獨／以物襯情",
+          "想像三人既歌且舞，熱鬧與現實獨酌形成反差；沒有真正知己，愈熱鬧愈顯孤獨。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-12-08-00-06",
+      "version": 2,
+      "memoryId": "full-c-12-08-00-06",
+      "essayIds": [
+        "essay-12"
+      ],
+      "ability": "technique",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：哪項依詩中次序列出情境的變化？\n甲：邀月影→無伴→暫伴歌舞→察覺不相知→相約→醉散\n乙：無伴→察覺不相知→邀月影→相約→醉散→歌舞",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：先寫無伴，並於歌舞之前指出不能相知。乙：不解在邀伴之後，相期在醉散之後。"
+        },
+        {
+          "id": "b",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：先寫無伴，並於歌舞之前指出不能相知。乙：不解在邀伴之後，相期在醉散之後。"
+        },
+        {
+          "id": "c",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：先寫無伴，並於歌舞之前指出不能相知。乙：不解在邀伴之後，相期在醉散之後。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：先寫無伴，並於歌舞之前指出不能相知。乙：不解在邀伴之後，相期在醉散之後。"
+        }
+      ],
+      "answerId": "a",
+      "explanation": "此判斷正確。甲：先寫無伴，並於歌舞之前指出不能相知。乙：不解在邀伴之後，相期在醉散之後。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 201,
+        "printedPage": 197,
+        "blockPath": "$[11].pages[8].blocks[0][1][6]",
+        "anchor": "抑揚交錯、一波三折 無伴→似有伴→月影不解→暫伴行樂→醉散→永結相期，悲喜交錯，心境往返「獨／不獨」，結構自然兼有跳躍感，引人入勝。",
+        "excerpt": "無伴→似有伴→月影不解→暫伴行樂→醉散→永結相期，悲喜交錯，心境往返「獨／不獨」，結構自然兼有跳躍感，引人入勝。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：先寫無伴，並於歌舞之前指出不能相知。乙：不解在邀伴之後，相期在醉散之後。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：先寫無伴，並於歌舞之前指出不能相知。乙：不解在邀伴之後，相期在醉散之後。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "抑揚交錯、一波三折 無伴→似有伴→月影不解→暫伴行樂→醉散→永結相期，悲喜交錯，心境往返「獨／不獨」，結構自然兼有跳躍感，引人入勝。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／結構次序（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "3bdf9f9eb7228ac3a959871e57b8e88fc5d8d3e3570bce4b7f5442cade1d4d4e",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 201,
+          "printedPage": 197,
+          "blockPath": "$[11].pages[8].blocks[0][1][6]",
+          "anchor": "抑揚交錯、一波三折 無伴→似有伴→月影不解→暫伴行樂→醉散→永結相期，悲喜交錯，心境往返「獨／不獨」，結構自然兼有跳躍感，引人入勝。",
+          "excerpt": "無伴→似有伴→月影不解→暫伴行樂→醉散→永結相期，悲喜交錯，心境往返「獨／不獨」，結構自然兼有跳躍感，引人入勝。"
+        },
+        "block": [
+          "抑揚交錯、一波三折",
+          "無伴→似有伴→月影不解→暫伴行樂→醉散→永結相期，悲喜交錯，心境往返「獨／不獨」，結構自然兼有跳躍感，引人入勝。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-12-09-01-80",
+      "version": 2,
+      "memoryId": "full-c-12-09-01-80",
+      "essayIds": [
+        "essay-12"
+      ],
+      "ability": "technique",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：詩題稱「獨酌」，詩中卻有「三人」「同交歡」。哪項最能解釋這種安排？\n甲：獨酌只指開頭沒有酒友，與後文想像和情感再無聯繫\n乙：只要詩中出現同交歡，題目的獨便已完全失去意義",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：獨與似有伴的往復贯穿全詩。乙：想像熱鬧仍以現實獨飲為背景。"
+        },
+        {
+          "id": "b",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：獨與似有伴的往復贯穿全詩。乙：想像熱鬧仍以現實獨飲為背景。"
+        },
+        {
+          "id": "c",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：獨與似有伴的往復贯穿全詩。乙：想像熱鬧仍以現實獨飲為背景。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：獨與似有伴的往復贯穿全詩。乙：想像熱鬧仍以現實獨飲為背景。"
+        }
+      ],
+      "answerId": "c",
+      "explanation": "此判斷正確。甲：獨與似有伴的往復贯穿全詩。乙：想像熱鬧仍以現實獨飲為背景。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 202,
+        "printedPage": 198,
+        "blockPath": "$[11].pages[9].blocks[1]",
+        "anchor": "詩題是「獨酌」，詩中卻想像出月、影兩位伴侶。人數由一變三，現實的孤獨仍未消失；正因真實無人可伴，這場想像的歡聚才格外動人。",
+        "excerpt": "詩題是「獨酌」，詩中卻想像出月、影兩位伴侶。人數由一變三，現實的孤獨仍未消失；正因真實無人可伴，這場想像的歡聚才格外動人。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：獨與似有伴的往復贯穿全詩。乙：想像熱鬧仍以現實獨飲為背景。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：獨與似有伴的往復贯穿全詩。乙：想像熱鬧仍以現實獨飲為背景。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "詩題是「獨酌」，詩中卻想像出月、影兩位伴侶。人數由一變三，現實的孤獨仍未消失；正因真實無人可伴，這場想像的歡聚才格外動人。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／題文關係（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "a81266b29b01e41df8f0e2a790673c8dfbc59a2adb11c4d4ff0d55e9f5f464fc",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 202,
+          "printedPage": 198,
+          "blockPath": "$[11].pages[9].blocks[1]",
+          "anchor": "詩題是「獨酌」，詩中卻想像出月、影兩位伴侶。人數由一變三，現實的孤獨仍未消失；正因真實無人可伴，這場想像的歡聚才格外動人。",
+          "excerpt": "詩題是「獨酌」，詩中卻想像出月、影兩位伴侶。人數由一變三，現實的孤獨仍未消失；正因真實無人可伴，這場想像的歡聚才格外動人。"
+        },
+        "block": [
+          "text",
+          "詩題是「獨酌」，詩中卻想像出月、影兩位伴侶。人數由一變三，現實的孤獨仍未消失；正因真實無人可伴，這場想像的歡聚才格外動人。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-12-13-01-01",
+      "version": 2,
+      "memoryId": "full-c-12-13-01-01",
+      "essayIds": [
+        "essay-12"
+      ],
+      "ability": "theme",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：首六句由「獨酌」寫到「三人」，再寫「不解飲」「徒隨身」。哪項準確說明這個過程？\n甲：先斷定月影不解，再邀它們作伴，沒有情緒轉折\n乙：缺少知己，想像有伴，從此完全排除不能相知的問題",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：次序為先邀後察限制，構成起伏。乙：後兩句明示不能相知，非已完全排除。"
+        },
+        {
+          "id": "b",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：次序為先邀後察限制，構成起伏。乙：後兩句明示不能相知，非已完全排除。"
+        },
+        {
+          "id": "c",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：次序為先邀後察限制，構成起伏。乙：後兩句明示不能相知，非已完全排除。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：次序為先邀後察限制，構成起伏。乙：後兩句明示不能相知，非已完全排除。"
+        }
+      ],
+      "answerId": "a",
+      "explanation": "此判斷正確。甲：次序為先邀後察限制，構成起伏。乙：後兩句明示不能相知，非已完全排除。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 203,
+        "printedPage": 199,
+        "blockPath": "$[11].pages[13].blocks[1][1][1]",
+        "anchor": "由一到三 「無相親」在先，舉杯邀月、對影在後；缺少知己才需要想像友伴。",
+        "excerpt": "「無相親」在先，舉杯邀月、對影在後；缺少知己才需要想像友伴。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：次序為先邀後察限制，構成起伏。乙：後兩句明示不能相知，非已完全排除。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：次序為先邀後察限制，構成起伏。乙：後兩句明示不能相知，非已完全排除。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "由一到三 「無相親」在先，舉杯邀月、對影在後；缺少知己才需要想像友伴。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／段意與推進（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "a441750134385d6872f5a3e337907e2be03fe9532993230298d84f8730749d73",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 203,
+          "printedPage": 199,
+          "blockPath": "$[11].pages[13].blocks[1][1][1]",
+          "anchor": "由一到三 「無相親」在先，舉杯邀月、對影在後；缺少知己才需要想像友伴。",
+          "excerpt": "「無相親」在先，舉杯邀月、對影在後；缺少知己才需要想像友伴。"
+        },
+        "block": [
+          "由一到三",
+          "「無相親」在先，舉杯邀月、對影在後；缺少知己才需要想像友伴。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-13-03-00-18",
+      "version": 2,
+      "memoryId": "full-c-13-03-00-18",
+      "essayIds": [
+        "essay-13"
+      ],
+      "ability": "meaning",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「可憐後主還祠廟」對後主仍受祭祀持甚麼態度？\n甲：後主是古人，所以相關感嘆只能關乎蜀漢，不能寄當朝之慨\n乙：因後主仍受祀，便說作者承認其治國成績足以比諸葛亮",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：用典可借古諷今，不能限為古代紀錄。乙：受祀與昏庸形成諷意，不證治理可比賢相。"
+        },
+        {
+          "id": "b",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：用典可借古諷今，不能限為古代紀錄。乙：受祀與昏庸形成諷意，不證治理可比賢相。"
+        },
+        {
+          "id": "c",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：用典可借古諷今，不能限為古代紀錄。乙：受祀與昏庸形成諷意，不證治理可比賢相。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：用典可借古諷今，不能限為古代紀錄。乙：受祀與昏庸形成諷意，不證治理可比賢相。"
+        }
+      ],
+      "answerId": "a",
+      "explanation": "此判斷正確。甲：用典可借古諷今，不能限為古代紀錄。乙：受祀與昏庸形成諷意，不證治理可比賢相。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 207,
+        "printedPage": 203,
+        "blockPath": "$[12].pages[3].blocks[0][1][18]",
+        "anchor": "還 可憐後主還祠廟 仍然、仍有；含「不應如此而竟然如此」的不滿、輕蔑。",
+        "excerpt": "仍然、仍有；含「不應如此而竟然如此」的不滿、輕蔑。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：用典可借古諷今，不能限為古代紀錄。乙：受祀與昏庸形成諷意，不證治理可比賢相。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：用典可借古諷今，不能限為古代紀錄。乙：受祀與昏庸形成諷意，不證治理可比賢相。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "還 可憐後主還祠廟 仍然、仍有；含「不應如此而竟然如此」的不滿、輕蔑。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／態度與用典（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "32076719ca03e477a9d4395282b8da68e551f0b7d79eec65d48ef0a3e2905b8d",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 207,
+          "printedPage": 203,
+          "blockPath": "$[12].pages[3].blocks[0][1][18]",
+          "anchor": "還 可憐後主還祠廟 仍然、仍有；含「不應如此而竟然如此」的不滿、輕蔑。",
+          "excerpt": "仍然、仍有；含「不應如此而竟然如此」的不滿、輕蔑。"
+        },
+        "block": [
+          "還",
+          "可憐後主還祠廟",
+          "仍然、仍有；含「不應如此而竟然如此」的不滿、輕蔑。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-13-05-00-03",
+      "version": 2,
+      "memoryId": "full-c-13-05-00-03",
+      "essayIds": [
+        "essay-13"
+      ],
+      "ability": "theme",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「北極朝廷終不改，西山寇盜莫相侵」怎樣表明詩人的立場？\n甲：雖警告外敵不要侵犯，卻以終不改表示國家完全沒有希望\n乙：相信唐室可望安定，故不再承認眼前仍有危機",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：終不改表信念，不是絕望。乙：信念和國難憂慮可共存。"
+        },
+        {
+          "id": "b",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：終不改表信念，不是絕望。乙：信念和國難憂慮可共存。"
+        },
+        {
+          "id": "c",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：終不改表信念，不是絕望。乙：信念和國難憂慮可共存。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：終不改表信念，不是絕望。乙：信念和國難憂慮可共存。"
+        }
+      ],
+      "answerId": "a",
+      "explanation": "此判斷正確。甲：終不改表信念，不是絕望。乙：信念和國難憂慮可共存。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 208,
+        "printedPage": 204,
+        "blockPath": "$[12].pages[5].blocks[0][1][3]",
+        "anchor": "頸聯：面對國難，申明立場 以北極比唐室，表示朝廷可望穩定、國祚長存的信心；斥責、警告吐蕃不要侵犯。既有對恢復秩序的欣慰，又有對侵擾、戰亂民苦的憂慮，表現忠心和抵禦外侮的決心。",
+        "excerpt": "以北極比唐室，表示朝廷可望穩定、國祚長存的信心；斥責、警告吐蕃不要侵犯。既有對恢復秩序的欣慰，又有對侵擾、戰亂民苦的憂慮，表現忠心和抵禦外侮的決心。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：終不改表信念，不是絕望。乙：信念和國難憂慮可共存。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：終不改表信念，不是絕望。乙：信念和國難憂慮可共存。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "頸聯：面對國難，申明立場 以北極比唐室，表示朝廷可望穩定、國祚長存的信心；斥責、警告吐蕃不要侵犯。既有對恢復秩序的欣慰，又有對侵擾、戰亂民苦的憂慮，表現忠心和抵禦外侮的決心。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／態度配對（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "05ec49c9818e895b8cc2ebbd78ca33a5ddc879814f76c1d98f89cfe92f727ef6",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 208,
+          "printedPage": 204,
+          "blockPath": "$[12].pages[5].blocks[0][1][3]",
+          "anchor": "頸聯：面對國難，申明立場 以北極比唐室，表示朝廷可望穩定、國祚長存的信心；斥責、警告吐蕃不要侵犯。既有對恢復秩序的欣慰，又有對侵擾、戰亂民苦的憂慮，表現忠心和抵禦外侮的決心。",
+          "excerpt": "以北極比唐室，表示朝廷可望穩定、國祚長存的信心；斥責、警告吐蕃不要侵犯。既有對恢復秩序的欣慰，又有對侵擾、戰亂民苦的憂慮，表現忠心和抵禦外侮的決心。"
+        },
+        "block": [
+          "頸聯：面對國難，申明立場",
+          "以北極比唐室，表示朝廷可望穩定、國祚長存的信心；斥責、警告吐蕃不要侵犯。既有對恢復秩序的欣慰，又有對侵擾、戰亂民苦的憂慮，表現忠心和抵禦外侮的決心。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-13-07-00-05",
+      "version": 2,
+      "memoryId": "full-c-13-07-00-05",
+      "essayIds": [
+        "essay-13"
+      ],
+      "ability": "technique",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「北極朝廷終不改」以北極星比喻朝廷，取其哪一特點？\n甲：以星位置高遠比朝廷疏遠，表明自己已無效忠之意\n乙：以星光照耀比朝廷恩澤，重點只在感謝個人受寵",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：高遠不是此喻重點，也未撤回忠心。乙：終不改取穩定，非個人受寵。"
+        },
+        {
+          "id": "b",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：高遠不是此喻重點，也未撤回忠心。乙：終不改取穩定，非個人受寵。"
+        },
+        {
+          "id": "c",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：高遠不是此喻重點，也未撤回忠心。乙：終不改取穩定，非個人受寵。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：高遠不是此喻重點，也未撤回忠心。乙：終不改取穩定，非個人受寵。"
+        }
+      ],
+      "answerId": "c",
+      "explanation": "此判斷正確。甲：高遠不是此喻重點，也未撤回忠心。乙：終不改取穩定，非個人受寵。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 209,
+        "printedPage": 205,
+        "blockPath": "$[12].pages[7].blocks[0][1][5]",
+        "anchor": "比喻 北極星的穩定比朝廷不改；星的穩定連到對唐室的信念。",
+        "excerpt": "北極星的穩定比朝廷不改；星的穩定連到對唐室的信念。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：高遠不是此喻重點，也未撤回忠心。乙：終不改取穩定，非個人受寵。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：高遠不是此喻重點，也未撤回忠心。乙：終不改取穩定，非個人受寵。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "比喻 北極星的穩定比朝廷不改；星的穩定連到對唐室的信念。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／比喻關係（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "ad31a25c78db5fda56f854a4435469b02bce502335c919308a73fb0cefbc599d",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 209,
+          "printedPage": 205,
+          "blockPath": "$[12].pages[7].blocks[0][1][5]",
+          "anchor": "比喻 北極星的穩定比朝廷不改；星的穩定連到對唐室的信念。",
+          "excerpt": "北極星的穩定比朝廷不改；星的穩定連到對唐室的信念。"
+        },
+        "block": [
+          "比喻",
+          "北極星的穩定比朝廷不改；星的穩定連到對唐室的信念。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-14-05-00-01",
+      "version": 2,
+      "memoryId": "full-c-14-05-00-01",
+      "essayIds": [
+        "essay-14"
+      ],
+      "ability": "theme",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「大江東去，浪淘盡、千古風流人物」由江流引出甚麼感慨？\n甲：江水長流代表英雄功業必永存，所以開首沒有消逝之慨\n乙：只有功業不足的人才被時間淘盡，英雄則完全不受影響",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：自然長流與人物消逝形成張力。乙：浪淘盡明包括風流人物。"
+        },
+        {
+          "id": "b",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：自然長流與人物消逝形成張力。乙：浪淘盡明包括風流人物。"
+        },
+        {
+          "id": "c",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：自然長流與人物消逝形成張力。乙：浪淘盡明包括風流人物。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：自然長流與人物消逝形成張力。乙：浪淘盡明包括風流人物。"
+        }
+      ],
+      "answerId": "d",
+      "explanation": "此判斷正確。甲：自然長流與人物消逝形成張力。乙：浪淘盡明包括風流人物。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 218,
+        "printedPage": 214,
+        "blockPath": "$[13].pages[5].blocks[0][1][1]",
+        "anchor": "上片開首：大江與千古 江水滾滾東去，空間雄闊；「浪淘盡」把江流與歷史人物相聯，時間悠久而人事消逝，奠定懷古感慨。",
+        "excerpt": "江水滾滾東去，空間雄闊；「浪淘盡」把江流與歷史人物相聯，時間悠久而人事消逝，奠定懷古感慨。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：自然長流與人物消逝形成張力。乙：浪淘盡明包括風流人物。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：自然長流與人物消逝形成張力。乙：浪淘盡明包括風流人物。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "上片開首：大江與千古 江水滾滾東去，空間雄闊；「浪淘盡」把江流與歷史人物相聯，時間悠久而人事消逝，奠定懷古感慨。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／景物寄意（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "749515bd2479ad45a3e7bcce1d00a33e6784d7685eb87543d1e49eb3c966218c",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 218,
+          "printedPage": 214,
+          "blockPath": "$[13].pages[5].blocks[0][1][1]",
+          "anchor": "上片開首：大江與千古 江水滾滾東去，空間雄闊；「浪淘盡」把江流與歷史人物相聯，時間悠久而人事消逝，奠定懷古感慨。",
+          "excerpt": "江水滾滾東去，空間雄闊；「浪淘盡」把江流與歷史人物相聯，時間悠久而人事消逝，奠定懷古感慨。"
+        },
+        "block": [
+          "上片開首：大江與千古",
+          "江水滾滾東去，空間雄闊；「浪淘盡」把江流與歷史人物相聯，時間悠久而人事消逝，奠定懷古感慨。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-14-06-01-01",
+      "version": 2,
+      "memoryId": "full-c-14-06-01-01",
+      "essayIds": [
+        "essay-14"
+      ],
+      "ability": "theme",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：把「小喬初嫁了」與「雄姿英發」放在一起，主要怎樣烘托周瑜？\n甲：既說初嫁，就可直接證實婚年與赤壁戰年必為同一年\n乙：小喬只是交代婚年，與周瑜英發形象無關",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：藝術集中不等於歷史年份相同。乙：小喬從側面烘托年少得意。"
+        },
+        {
+          "id": "b",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：藝術集中不等於歷史年份相同。乙：小喬從側面烘托年少得意。"
+        },
+        {
+          "id": "c",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：藝術集中不等於歷史年份相同。乙：小喬從側面烘托年少得意。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：藝術集中不等於歷史年份相同。乙：小喬從側面烘托年少得意。"
+        }
+      ],
+      "answerId": "d",
+      "explanation": "此判斷正確。甲：藝術集中不等於歷史年份相同。乙：小喬從側面烘托年少得意。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 219,
+        "printedPage": 215,
+        "blockPath": "$[13].pages[6].blocks[1][1][1]",
+        "anchor": "「小喬初嫁了」「雄姿英發」 以婚姻美滿和英偉姿態集中寫年少得意。 小喬從側面烘托周瑜的風采。",
+        "excerpt": "以婚姻美滿和英偉姿態集中寫年少得意。；小喬從側面烘托周瑜的風采。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：藝術集中不等於歷史年份相同。乙：小喬從側面烘托年少得意。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：藝術集中不等於歷史年份相同。乙：小喬從側面烘托年少得意。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "「小喬初嫁了」「雄姿英發」 以婚姻美滿和英偉姿態集中寫年少得意。 小喬從側面烘托周瑜的風采。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／側面烘托（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "f966cf533fb9480b963df7151a29dc134e36e5ba2e41fff8f2cd71e241bd9218",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 219,
+          "printedPage": 215,
+          "blockPath": "$[13].pages[6].blocks[1][1][1]",
+          "anchor": "「小喬初嫁了」「雄姿英發」 以婚姻美滿和英偉姿態集中寫年少得意。 小喬從側面烘托周瑜的風采。",
+          "excerpt": "以婚姻美滿和英偉姿態集中寫年少得意。；小喬從側面烘托周瑜的風采。"
+        },
+        "block": [
+          "「小喬初嫁了」「雄姿英發」",
+          "以婚姻美滿和英偉姿態集中寫年少得意。",
+          "小喬從側面烘托周瑜的風采。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-14-07-00-07",
+      "version": 2,
+      "memoryId": "full-c-14-07-00-07",
+      "essayIds": [
+        "essay-14"
+      ],
+      "ability": "technique",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「檣櫓灰飛煙滅」以「檣櫓」指曹軍戰船，依據何種關係？\n甲：灰飛煙滅帶誇飾，因此檣櫓一詞本身只能歸作誇張\n乙：檣櫓與戰船在外形上相像，因此是以相似點成立的比喻",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：同句不同部分可有不同手法，不能混判。乙：是部分代整體，非兩物形似。"
+        },
+        {
+          "id": "b",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：同句不同部分可有不同手法，不能混判。乙：是部分代整體，非兩物形似。"
+        },
+        {
+          "id": "c",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：同句不同部分可有不同手法，不能混判。乙：是部分代整體，非兩物形似。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：同句不同部分可有不同手法，不能混判。乙：是部分代整體，非兩物形似。"
+        }
+      ],
+      "answerId": "c",
+      "explanation": "此判斷正確。甲：同句不同部分可有不同手法，不能混判。乙：是部分代整體，非兩物形似。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 220,
+        "printedPage": 216,
+        "blockPath": "$[13].pages[7].blocks[0][1][7]",
+        "anchor": "借代 「檣櫓」以船具代戰船，簡潔呈曹軍覆滅。",
+        "excerpt": "「檣櫓」以船具代戰船，簡潔呈曹軍覆滅。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：同句不同部分可有不同手法，不能混判。乙：是部分代整體，非兩物形似。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：同句不同部分可有不同手法，不能混判。乙：是部分代整體，非兩物形似。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "借代 「檣櫓」以船具代戰船，簡潔呈曹軍覆滅。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／修辭依據（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "ba1d938a18b9b8561ee0c580874af1047406ec1a78e391e81f4e434faeab2771",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 220,
+          "printedPage": 216,
+          "blockPath": "$[13].pages[7].blocks[0][1][7]",
+          "anchor": "借代 「檣櫓」以船具代戰船，簡潔呈曹軍覆滅。",
+          "excerpt": "「檣櫓」以船具代戰船，簡潔呈曹軍覆滅。"
+        },
+        "block": [
+          "借代",
+          "「檣櫓」以船具代戰船，簡潔呈曹軍覆滅。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-14-07-00-09",
+      "version": 2,
+      "memoryId": "full-c-14-07-00-09",
+      "essayIds": [
+        "essay-14"
+      ],
+      "ability": "technique",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：哪組細節及人物特點配對正確？\n甲：小喬初嫁—得意；羽扇綸巾—儒雅；談笑破敵—僥倖\n乙：小喬初嫁—得意；羽扇綸巾—武勇；談笑破敵—從容",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：詞旨為才略若定，非僥倖勝利。乙：儒裝重儒雅，非直接武勇戰鬥姿態。"
+        },
+        {
+          "id": "b",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：詞旨為才略若定，非僥倖勝利。乙：儒裝重儒雅，非直接武勇戰鬥姿態。"
+        },
+        {
+          "id": "c",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：詞旨為才略若定，非僥倖勝利。乙：儒裝重儒雅，非直接武勇戰鬥姿態。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：詞旨為才略若定，非僥倖勝利。乙：儒裝重儒雅，非直接武勇戰鬥姿態。"
+        }
+      ],
+      "answerId": "b",
+      "explanation": "此判斷正確。甲：詞旨為才略若定，非僥倖勝利。乙：儒裝重儒雅，非直接武勇戰鬥姿態。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 220,
+        "printedPage": 216,
+        "blockPath": "$[13].pages[7].blocks[0][1][9]",
+        "anchor": "肖像、服飾、神態、側面烘托 雄姿、羽扇綸巾、談笑、小喬、曹軍敗況，分別見上節，不能用一個「人物描寫」刪掉具體例子。",
+        "excerpt": "雄姿、羽扇綸巾、談笑、小喬、曹軍敗況，分別見上節，不能用一個「人物描寫」刪掉具體例子。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：詞旨為才略若定，非僥倖勝利。乙：儒裝重儒雅，非直接武勇戰鬥姿態。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：詞旨為才略若定，非僥倖勝利。乙：儒裝重儒雅，非直接武勇戰鬥姿態。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "肖像、服飾、神態、側面烘托 雄姿、羽扇綸巾、談笑、小喬、曹軍敗況，分別見上節，不能用一個「人物描寫」刪掉具體例子。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／描寫配對（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "1c8a551d4642b31304534153cf4ad2fd4e27a9658c31b63e9d5e0149414830f9",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 220,
+          "printedPage": 216,
+          "blockPath": "$[13].pages[7].blocks[0][1][9]",
+          "anchor": "肖像、服飾、神態、側面烘托 雄姿、羽扇綸巾、談笑、小喬、曹軍敗況，分別見上節，不能用一個「人物描寫」刪掉具體例子。",
+          "excerpt": "雄姿、羽扇綸巾、談笑、小喬、曹軍敗況，分別見上節，不能用一個「人物描寫」刪掉具體例子。"
+        },
+        "block": [
+          "肖像、服飾、神態、側面烘托",
+          "雄姿、羽扇綸巾、談笑、小喬、曹軍敗況，分別見上節，不能用一個「人物描寫」刪掉具體例子。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-15-02-04-80",
+      "version": 2,
+      "memoryId": "full-c-15-02-04-80",
+      "essayIds": [
+        "essay-15"
+      ],
+      "ability": "meaning",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「這次第，怎一箇愁字了得」怎樣收束全詞？\n甲：末句用了愁字，便表示各種情緒已被完全說清而無餘味\n乙：這次第只指緊接前句的雨聲，與此前酒雁黃花無關",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：怎…了得反問正表一字不足。乙：這次第總括此前情境，不能只限雨聲。"
+        },
+        {
+          "id": "b",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：怎…了得反問正表一字不足。乙：這次第總括此前情境，不能只限雨聲。"
+        },
+        {
+          "id": "c",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：怎…了得反問正表一字不足。乙：這次第總括此前情境，不能只限雨聲。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：怎…了得反問正表一字不足。乙：這次第總括此前情境，不能只限雨聲。"
+        }
+      ],
+      "answerId": "b",
+      "explanation": "此判斷正確。甲：怎…了得反問正表一字不足。乙：這次第總括此前情境，不能只限雨聲。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 226,
+        "printedPage": 222,
+        "blockPath": "$[14].pages[2].blocks[4]",
+        "anchor": "「怎生得黑」寫長日難熬；「更兼」又加一層雨聲。末句不是否認愁，而是說一個愁字容不下種種痛苦。",
+        "excerpt": "「怎生得黑」寫長日難熬；「更兼」又加一層雨聲。末句不是否認愁，而是說一個愁字容不下種種痛苦。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：怎…了得反問正表一字不足。乙：這次第總括此前情境，不能只限雨聲。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：怎…了得反問正表一字不足。乙：這次第總括此前情境，不能只限雨聲。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "「怎生得黑」寫長日難熬；「更兼」又加一層雨聲。末句不是否認愁，而是說一個愁字容不下種種痛苦。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／結尾功能（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "7b112fad343af43c4fad03f07100848ec6539a965148c1876a34a10d180776bd",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 226,
+          "printedPage": 222,
+          "blockPath": "$[14].pages[2].blocks[4]",
+          "anchor": "「怎生得黑」寫長日難熬；「更兼」又加一層雨聲。末句不是否認愁，而是說一個愁字容不下種種痛苦。",
+          "excerpt": "「怎生得黑」寫長日難熬；「更兼」又加一層雨聲。末句不是否認愁，而是說一個愁字容不下種種痛苦。"
+        },
+        "block": [
+          "note",
+          "「怎生得黑」寫長日難熬；「更兼」又加一層雨聲。末句不是否認愁，而是說一個愁字容不下種種痛苦。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-15-03-00-14",
+      "version": 2,
+      "memoryId": "full-c-15-03-00-14",
+      "essayIds": [
+        "essay-15"
+      ],
+      "ability": "meaning",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「黃花」「憔悴」有不同解讀。哪項分析能保持主體和理由一致？\n甲：既然不同解讀都悲，花況和憔悴主體便可任意互換而無須交代\n乙：若取花盛人憔悴，便可只談花的可摘性，不必解釋人的無心賞摘",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：情緒共通不代表主體和花況可以混用。乙：该讀法的關鍵是人況，不能漏掉。"
+        },
+        {
+          "id": "b",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：情緒共通不代表主體和花況可以混用。乙：该讀法的關鍵是人況，不能漏掉。"
+        },
+        {
+          "id": "c",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：情緒共通不代表主體和花況可以混用。乙：该讀法的關鍵是人況，不能漏掉。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：情緒共通不代表主體和花況可以混用。乙：该讀法的關鍵是人況，不能漏掉。"
+        }
+      ],
+      "answerId": "b",
+      "explanation": "此判斷正確。甲：情緒共通不代表主體和花況可以混用。乙：该讀法的關鍵是人況，不能漏掉。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 227,
+        "printedPage": 223,
+        "blockPath": "$[14].pages[3].blocks[0][1][14]",
+        "anchor": "堪 如今有誰堪摘 堪為可以、能夠。堪摘涉及花可不可摘、人有無心情、是否有同摘或可贈之人，須按解讀分開。",
+        "excerpt": "堪為可以、能夠。堪摘涉及花可不可摘、人有無心情、是否有同摘或可贈之人，須按解讀分開。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：情緒共通不代表主體和花況可以混用。乙：该讀法的關鍵是人況，不能漏掉。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：情緒共通不代表主體和花況可以混用。乙：该讀法的關鍵是人況，不能漏掉。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "堪 如今有誰堪摘 堪為可以、能夠。堪摘涉及花可不可摘、人有無心情、是否有同摘或可贈之人，須按解讀分開。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／多解一致性（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "65b4cdaa578e0c1df93e4621c7d64800f861f0d0032eb295644be56d2751e824",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 227,
+          "printedPage": 223,
+          "blockPath": "$[14].pages[3].blocks[0][1][14]",
+          "anchor": "堪 如今有誰堪摘 堪為可以、能夠。堪摘涉及花可不可摘、人有無心情、是否有同摘或可贈之人，須按解讀分開。",
+          "excerpt": "堪為可以、能夠。堪摘涉及花可不可摘、人有無心情、是否有同摘或可贈之人，須按解讀分開。"
+        },
+        "block": [
+          "堪",
+          "如今有誰堪摘",
+          "堪為可以、能夠。堪摘涉及花可不可摘、人有無心情、是否有同摘或可贈之人，須按解讀分開。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-15-04-01-80",
+      "version": 2,
+      "memoryId": "full-c-15-04-01-80",
+      "essayIds": [
+        "essay-15"
+      ],
+      "ability": "meaning",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「乍煖還寒」常可形容春季，但理解本詞時應怎樣處理？\n甲：既有黃花，就可忽略乍煖還寒所寫的冷暖感受\n乙：只按常用成語搭配判春天，不再参考同詞的雁與黃花",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：物候不取消局部天氣體感。乙：全詞語境須合讀，不能單憑慣用搭配。"
+        },
+        {
+          "id": "b",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：物候不取消局部天氣體感。乙：全詞語境須合讀，不能單憑慣用搭配。"
+        },
+        {
+          "id": "c",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：物候不取消局部天氣體感。乙：全詞語境須合讀，不能單憑慣用搭配。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：物候不取消局部天氣體感。乙：全詞語境須合讀，不能單憑慣用搭配。"
+        }
+      ],
+      "answerId": "d",
+      "explanation": "此判斷正確。甲：物候不取消局部天氣體感。乙：全詞語境須合讀，不能單憑慣用搭配。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 228,
+        "printedPage": 224,
+        "blockPath": "$[14].pages[4].blocks[1]",
+        "anchor": "提到「乍暖還寒」若形容季節一般使人聯想到春天，但本詞明言秋情，學者因而解作一天內氣溫乍暖乍寒，言之成理；不能為套季節常語，把本詞改判春景。曉本與晚本也不能不加說明地拼成唯一時間線。",
+        "excerpt": "提到「乍暖還寒」若形容季節一般使人聯想到春天，但本詞明言秋情，學者因而解作一天內氣溫乍暖乍寒，言之成理；不能為套季節常語，把本詞改判春景。曉本與晚本也不能不加說明地拼成唯一時間線。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：物候不取消局部天氣體感。乙：全詞語境須合讀，不能單憑慣用搭配。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：物候不取消局部天氣體感。乙：全詞語境須合讀，不能單憑慣用搭配。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "提到「乍暖還寒」若形容季節一般使人聯想到春天，但本詞明言秋情，學者因而解作一天內氣溫乍暖乍寒，言之成理；不能為套季節常語，把本詞改判春景。曉本與晚本也不能不加說明地拼成唯一時間線。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／語境判斷（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "d97e01a037bbc47bc7ea81b3f884b4c74b91015d73ba5aa0dca4e5be1a954fb5",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 228,
+          "printedPage": 224,
+          "blockPath": "$[14].pages[4].blocks[1]",
+          "anchor": "提到「乍暖還寒」若形容季節一般使人聯想到春天，但本詞明言秋情，學者因而解作一天內氣溫乍暖乍寒，言之成理；不能為套季節常語，把本詞改判春景。曉本與晚本也不能不加說明地拼成唯一時間線。",
+          "excerpt": "提到「乍暖還寒」若形容季節一般使人聯想到春天，但本詞明言秋情，學者因而解作一天內氣溫乍暖乍寒，言之成理；不能為套季節常語，把本詞改判春景。曉本與晚本也不能不加說明地拼成唯一時間線。"
+        },
+        "block": [
+          "text",
+          "提到「乍暖還寒」若形容季節一般使人聯想到春天，但本詞明言秋情，學者因而解作一天內氣溫乍暖乍寒，言之成理；不能為套季節常語，把本詞改判春景。曉本與晚本也不能不加說明地拼成唯一時間線。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-15-05-00-02",
+      "version": 2,
+      "memoryId": "full-c-15-05-00-02",
+      "essayIds": [
+        "essay-15"
+      ],
+      "ability": "theme",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「淡酒」與「風急」在「怎敵」一語中形成甚麼關係？\n甲：只要酒未能禦寒，就表示詞人從未嘗試用酒尋求慰藉\n乙：淡只說酒精濃度低，詞人的悲情不能影響酒力不足的感受",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：不成功不等於沒有嘗試。乙：淡可連愁深酒薄，不能只當成分測量。"
+        },
+        {
+          "id": "b",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：不成功不等於沒有嘗試。乙：淡可連愁深酒薄，不能只當成分測量。"
+        },
+        {
+          "id": "c",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：不成功不等於沒有嘗試。乙：淡可連愁深酒薄，不能只當成分測量。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：不成功不等於沒有嘗試。乙：淡可連愁深酒薄，不能只當成分測量。"
+        }
+      ],
+      "answerId": "b",
+      "explanation": "此判斷正確。甲：不成功不等於沒有嘗試。乙：淡可連愁深酒薄，不能只當成分測量。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 228,
+        "printedPage": 224,
+        "blockPath": "$[14].pages[5].blocks[0][1][2]",
+        "anchor": "冷暖、淡酒急風 寒暖不定而難調養，秋風中獨自飲酒，酒既不能禦寒，更不敵內心淒寒；塑敏感纖弱形象，清冷襯孤寂。",
+        "excerpt": "寒暖不定而難調養，秋風中獨自飲酒，酒既不能禦寒，更不敵內心淒寒；塑敏感纖弱形象，清冷襯孤寂。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：不成功不等於沒有嘗試。乙：淡可連愁深酒薄，不能只當成分測量。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：不成功不等於沒有嘗試。乙：淡可連愁深酒薄，不能只當成分測量。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "冷暖、淡酒急風 寒暖不定而難調養，秋風中獨自飲酒，酒既不能禦寒，更不敵內心淒寒；塑敏感纖弱形象，清冷襯孤寂。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／對舉與情感（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "e99912b419086ed8f527703519d0e810e745607a2254d710dc4a64ab530bf734",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 228,
+          "printedPage": 224,
+          "blockPath": "$[14].pages[5].blocks[0][1][2]",
+          "anchor": "冷暖、淡酒急風 寒暖不定而難調養，秋風中獨自飲酒，酒既不能禦寒，更不敵內心淒寒；塑敏感纖弱形象，清冷襯孤寂。",
+          "excerpt": "寒暖不定而難調養，秋風中獨自飲酒，酒既不能禦寒，更不敵內心淒寒；塑敏感纖弱形象，清冷襯孤寂。"
+        },
+        "block": [
+          "冷暖、淡酒急風",
+          "寒暖不定而難調養，秋風中獨自飲酒，酒既不能禦寒，更不敵內心淒寒；塑敏感纖弱形象，清冷襯孤寂。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-15-05-01-80",
+      "version": 2,
+      "memoryId": "full-c-15-05-01-80",
+      "essayIds": [
+        "essay-15"
+      ],
+      "ability": "theme",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：上片由尋覓、飲酒寫到雁過，哪項最能概括情感推進？\n甲：雁過才首次造成詞人悲傷，開首尋覓並未帶任何失落\n乙：酒雖難敵風，仍可據此判定精神上已得到充分慰藉，雁只是補景",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：開首已悽慘，正傷心也表已有悲。乙：不能由飲酒推精神充分慰藉；全篇仍愁深。"
+        },
+        {
+          "id": "b",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：開首已悽慘，正傷心也表已有悲。乙：不能由飲酒推精神充分慰藉；全篇仍愁深。"
+        },
+        {
+          "id": "c",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：開首已悽慘，正傷心也表已有悲。乙：不能由飲酒推精神充分慰藉；全篇仍愁深。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：開首已悽慘，正傷心也表已有悲。乙：不能由飲酒推精神充分慰藉；全篇仍愁深。"
+        }
+      ],
+      "answerId": "b",
+      "explanation": "此判斷正確。甲：開首已悽慘，正傷心也表已有悲。乙：不能由飲酒推精神充分慰藉；全篇仍愁深。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 228,
+        "printedPage": 224,
+        "blockPath": "$[14].pages[5].blocks[1]",
+        "anchor": "上片由秋景、天候及雁寫離鄉飄零與家國之思；下片轉庭院黃花、守窗、梧桐雨，寫孀居孤寂、悼亡自傷。尋求慰藉卻無所獲，酒不能消愁，景物又引往事，愁一層緊逼一層。",
+        "excerpt": "上片由秋景、天候及雁寫離鄉飄零與家國之思；下片轉庭院黃花、守窗、梧桐雨，寫孀居孤寂、悼亡自傷。尋求慰藉卻無所獲，酒不能消愁，景物又引往事，愁一層緊逼一層。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：開首已悽慘，正傷心也表已有悲。乙：不能由飲酒推精神充分慰藉；全篇仍愁深。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：開首已悽慘，正傷心也表已有悲。乙：不能由飲酒推精神充分慰藉；全篇仍愁深。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "上片由秋景、天候及雁寫離鄉飄零與家國之思；下片轉庭院黃花、守窗、梧桐雨，寫孀居孤寂、悼亡自傷。尋求慰藉卻無所獲，酒不能消愁，景物又引往事，愁一層緊逼一層。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／段意推進（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "a8ba2123def31a554f72e05bc65acd6162b968d962db7aaeebbbd35d2a0f5256",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 228,
+          "printedPage": 224,
+          "blockPath": "$[14].pages[5].blocks[1]",
+          "anchor": "上片由秋景、天候及雁寫離鄉飄零與家國之思；下片轉庭院黃花、守窗、梧桐雨，寫孀居孤寂、悼亡自傷。尋求慰藉卻無所獲，酒不能消愁，景物又引往事，愁一層緊逼一層。",
+          "excerpt": "上片由秋景、天候及雁寫離鄉飄零與家國之思；下片轉庭院黃花、守窗、梧桐雨，寫孀居孤寂、悼亡自傷。尋求慰藉卻無所獲，酒不能消愁，景物又引往事，愁一層緊逼一層。"
+        },
+        "block": [
+          "text",
+          "上片由秋景、天候及雁寫離鄉飄零與家國之思；下片轉庭院黃花、守窗、梧桐雨，寫孀居孤寂、悼亡自傷。尋求慰藉卻無所獲，酒不能消愁，景物又引往事，愁一層緊逼一層。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-15-06-00-80",
+      "version": 2,
+      "memoryId": "full-c-15-06-00-80",
+      "essayIds": [
+        "essay-15"
+      ],
+      "ability": "theme",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：結合詞人南渡漂泊的處境，過雁為何可引起故國之思？\n甲：雁仍如舊時飛過，使詞人感到昔日生活絲毫未變\n乙：雁年年南來，使詞人確信自己再無北歸的可能",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：舊景反觸今昔落差，非生活不變。乙：候鳥遷徙不能證明自己永無北歸可能。"
+        },
+        {
+          "id": "b",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：舊景反觸今昔落差，非生活不變。乙：候鳥遷徙不能證明自己永無北歸可能。"
+        },
+        {
+          "id": "c",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：舊景反觸今昔落差，非生活不變。乙：候鳥遷徙不能證明自己永無北歸可能。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：舊景反觸今昔落差，非生活不變。乙：候鳥遷徙不能證明自己永無北歸可能。"
+        }
+      ],
+      "answerId": "b",
+      "explanation": "此判斷正確。甲：舊景反觸今昔落差，非生活不變。乙：候鳥遷徙不能證明自己永無北歸可能。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 229,
+        "printedPage": 225,
+        "blockPath": "$[14].pages[6].blocks[0]",
+        "anchor": "鴻雁為群居候鳥，隨季節遷徙，春北秋南，常象徵遊子思鄉、羈旅漂泊、無依悲苦。古人以雁書寄思親懷鄉，鴻雁因而可喻家書；群雁排「人」字，也可隱喻思念對象。這是2022評卷列出的意象途徑，不須把全部象徵堆在一個答案。",
+        "excerpt": "鴻雁為群居候鳥，隨季節遷徙，春北秋南，常象徵遊子思鄉、羈旅漂泊、無依悲苦。古人以雁書寄思親懷鄉，鴻雁因而可喻家書；群雁排「人」字，也可隱喻思念對象。這是2022評卷列出的意象途徑，不須把全部象徵堆在一個答案。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：舊景反觸今昔落差，非生活不變。乙：候鳥遷徙不能證明自己永無北歸可能。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：舊景反觸今昔落差，非生活不變。乙：候鳥遷徙不能證明自己永無北歸可能。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "鴻雁為群居候鳥，隨季節遷徙，春北秋南，常象徵遊子思鄉、羈旅漂泊、無依悲苦。古人以雁書寄思親懷鄉，鴻雁因而可喻家書；群雁排「人」字，也可隱喻思念對象。這是2022評卷列出的意象途徑，不須把全部象徵堆在一個答案。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／意象與處境（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "ec26f5c01fcfa7bfedf65d8bb4a99ed10ed244cc36745d9880b5a5032fa9d852",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 229,
+          "printedPage": 225,
+          "blockPath": "$[14].pages[6].blocks[0]",
+          "anchor": "鴻雁為群居候鳥，隨季節遷徙，春北秋南，常象徵遊子思鄉、羈旅漂泊、無依悲苦。古人以雁書寄思親懷鄉，鴻雁因而可喻家書；群雁排「人」字，也可隱喻思念對象。這是2022評卷列出的意象途徑，不須把全部象徵堆在一個答案。",
+          "excerpt": "鴻雁為群居候鳥，隨季節遷徙，春北秋南，常象徵遊子思鄉、羈旅漂泊、無依悲苦。古人以雁書寄思親懷鄉，鴻雁因而可喻家書；群雁排「人」字，也可隱喻思念對象。這是2022評卷列出的意象途徑，不須把全部象徵堆在一個答案。"
+        },
+        "block": [
+          "text",
+          "鴻雁為群居候鳥，隨季節遷徙，春北秋南，常象徵遊子思鄉、羈旅漂泊、無依悲苦。古人以雁書寄思親懷鄉，鴻雁因而可喻家書；群雁排「人」字，也可隱喻思念對象。這是2022評卷列出的意象途徑，不須把全部象徵堆在一個答案。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-15-06-01-80",
+      "version": 2,
+      "memoryId": "full-c-15-06-01-80",
+      "essayIds": [
+        "essay-15"
+      ],
+      "ability": "theme",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「正傷心」與「卻是舊時相識」如何相接？\n甲：卻表示與前句相反，所以舊時相識必使傷心變歡喜\n乙：正只記同時發生，不能據此判別傷心在認出雁前已有",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：意外遇熟悉景物可增愁，非必轉喜。乙：正傷心表雁過時已有悲情。"
+        },
+        {
+          "id": "b",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：意外遇熟悉景物可增愁，非必轉喜。乙：正傷心表雁過時已有悲情。"
+        },
+        {
+          "id": "c",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：意外遇熟悉景物可增愁，非必轉喜。乙：正傷心表雁過時已有悲情。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：意外遇熟悉景物可增愁，非必轉喜。乙：正傷心表雁過時已有悲情。"
+        }
+      ],
+      "answerId": "d",
+      "explanation": "此判斷正確。甲：意外遇熟悉景物可增愁，非必轉喜。乙：正傷心表雁過時已有悲情。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 229,
+        "printedPage": 225,
+        "blockPath": "$[14].pages[6].blocks[1]",
+        "anchor": "雁曾是傳書寄情的形象，如今雁過而音訊難通，又勾起流落南方、懷念故國與亡夫的心情。「舊時相識」把眼前秋雁連到過去，令「正傷心」更加深重。",
+        "excerpt": "雁曾是傳書寄情的形象，如今雁過而音訊難通，又勾起流落南方、懷念故國與亡夫的心情。「舊時相識」把眼前秋雁連到過去，令「正傷心」更加深重。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：意外遇熟悉景物可增愁，非必轉喜。乙：正傷心表雁過時已有悲情。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：意外遇熟悉景物可增愁，非必轉喜。乙：正傷心表雁過時已有悲情。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "雁曾是傳書寄情的形象，如今雁過而音訊難通，又勾起流落南方、懷念故國與亡夫的心情。「舊時相識」把眼前秋雁連到過去，令「正傷心」更加深重。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／情感疊加（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "de761144db09deafaba3dd97d3dd3d66e437efc2c4d8654ec4823bf2e0b493c0",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 229,
+          "printedPage": 225,
+          "blockPath": "$[14].pages[6].blocks[1]",
+          "anchor": "雁曾是傳書寄情的形象，如今雁過而音訊難通，又勾起流落南方、懷念故國與亡夫的心情。「舊時相識」把眼前秋雁連到過去，令「正傷心」更加深重。",
+          "excerpt": "雁曾是傳書寄情的形象，如今雁過而音訊難通，又勾起流落南方、懷念故國與亡夫的心情。「舊時相識」把眼前秋雁連到過去，令「正傷心」更加深重。"
+        },
+        "block": [
+          "text",
+          "雁曾是傳書寄情的形象，如今雁過而音訊難通，又勾起流落南方、懷念故國與亡夫的心情。「舊時相識」把眼前秋雁連到過去，令「正傷心」更加深重。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-15-08-00-02",
+      "version": 2,
+      "memoryId": "full-c-15-08-00-02",
+      "essayIds": [
+        "essay-15"
+      ],
+      "ability": "technique",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「點點滴滴」怎樣把雨景與愁情相連？\n甲：雨聲是外在聲音，因此只能襯景而不能加深內心愁思\n乙：點滴細小，說明情緒也逐步變輕，與開首形成必然轉喜",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：外聲可與內情相應。乙：雨小不等於愁輕，持續可增愁。"
+        },
+        {
+          "id": "b",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：外聲可與內情相應。乙：雨小不等於愁輕，持續可增愁。"
+        },
+        {
+          "id": "c",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：外聲可與內情相應。乙：雨小不等於愁輕，持續可增愁。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：外聲可與內情相應。乙：雨小不等於愁輕，持續可增愁。"
+        }
+      ],
+      "answerId": "b",
+      "explanation": "此判斷正確。甲：外聲可與內情相應。乙：雨小不等於愁輕，持續可增愁。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 230,
+        "printedPage": 226,
+        "blockPath": "$[14].pages[8].blocks[0][1][2]",
+        "anchor": "聲音反覆 「點點滴滴」模擬雨聲延綿，孤獨中的時間更加難熬。",
+        "excerpt": "「點點滴滴」模擬雨聲延綿，孤獨中的時間更加難熬。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：外聲可與內情相應。乙：雨小不等於愁輕，持續可增愁。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：外聲可與內情相應。乙：雨小不等於愁輕，持續可增愁。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "聲音反覆 「點點滴滴」模擬雨聲延綿，孤獨中的時間更加難熬。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／聲音與情感（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "e48a1fbf152b664573830a635485f5973db410f48ea4b6664da3f8e1606be864",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 230,
+          "printedPage": 226,
+          "blockPath": "$[14].pages[8].blocks[0][1][2]",
+          "anchor": "聲音反覆 「點點滴滴」模擬雨聲延綿，孤獨中的時間更加難熬。",
+          "excerpt": "「點點滴滴」模擬雨聲延綿，孤獨中的時間更加難熬。"
+        },
+        "block": [
+          "聲音反覆",
+          "「點點滴滴」模擬雨聲延綿，孤獨中的時間更加難熬。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-15-09-01-80",
+      "version": 2,
+      "memoryId": "full-c-15-09-01-80",
+      "essayIds": [
+        "essay-15"
+      ],
+      "ability": "technique",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「守着窗兒」「怎一箇愁字了得」怎樣以淺近語言寫深愁？\n甲：用了反問，便表示這兩句只屬議論，不能呈現抒情\n乙：語言接近日常，便意味情感已直接說盡而無餘味",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：反問也可直接抒情。乙：淺近可寫深愁，反問一字難盡有餘味。"
+        },
+        {
+          "id": "b",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：反問也可直接抒情。乙：淺近可寫深愁，反問一字難盡有餘味。"
+        },
+        {
+          "id": "c",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：反問也可直接抒情。乙：淺近可寫深愁，反問一字難盡有餘味。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：反問也可直接抒情。乙：淺近可寫深愁，反問一字難盡有餘味。"
+        }
+      ],
+      "answerId": "a",
+      "explanation": "此判斷正確。甲：反問也可直接抒情。乙：淺近可寫深愁，反問一字難盡有餘味。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 231,
+        "printedPage": 227,
+        "blockPath": "$[14].pages[9].blocks[1]",
+        "anchor": "《聲聲慢》多用淺近語言，卻寫出深重的哀愁。「守着窗兒」把孤獨落在日常動作，「怎一個愁字了得」用近於口語的反問收束，真切而有餘味。",
+        "excerpt": "《聲聲慢》多用淺近語言，卻寫出深重的哀愁。「守着窗兒」把孤獨落在日常動作，「怎一個愁字了得」用近於口語的反問收束，真切而有餘味。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：反問也可直接抒情。乙：淺近可寫深愁，反問一字難盡有餘味。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：反問也可直接抒情。乙：淺近可寫深愁，反問一字難盡有餘味。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "《聲聲慢》多用淺近語言，卻寫出深重的哀愁。「守着窗兒」把孤獨落在日常動作，「怎一個愁字了得」用近於口語的反問收束，真切而有餘味。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／語言風格（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "03b34e3dd1c1d689ef1e7a34183a358569b6809515ac51c5bb90a5d27a8d307b",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 231,
+          "printedPage": 227,
+          "blockPath": "$[14].pages[9].blocks[1]",
+          "anchor": "《聲聲慢》多用淺近語言，卻寫出深重的哀愁。「守着窗兒」把孤獨落在日常動作，「怎一個愁字了得」用近於口語的反問收束，真切而有餘味。",
+          "excerpt": "《聲聲慢》多用淺近語言，卻寫出深重的哀愁。「守着窗兒」把孤獨落在日常動作，「怎一個愁字了得」用近於口語的反問收束，真切而有餘味。"
+        },
+        "block": [
+          "text",
+          "《聲聲慢》多用淺近語言，卻寫出深重的哀愁。「守着窗兒」把孤獨落在日常動作，「怎一個愁字了得」用近於口語的反問收束，真切而有餘味。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-15-12-01-03",
+      "version": 2,
+      "memoryId": "full-c-15-12-01-03",
+      "essayIds": [
+        "essay-15"
+      ],
+      "ability": "theme",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「這次第，怎一箇愁字了得」怎樣收束全詞？\n甲：這次第只指緊接前句的雨聲，與此前酒雁黃花無關\n乙：末句用了愁字，便表示各種情緒已被完全說清而無餘味",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：這次第總括此前情境，不能只限雨聲。乙：怎…了得反問正表一字不足。"
+        },
+        {
+          "id": "b",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：這次第總括此前情境，不能只限雨聲。乙：怎…了得反問正表一字不足。"
+        },
+        {
+          "id": "c",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：這次第總括此前情境，不能只限雨聲。乙：怎…了得反問正表一字不足。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：這次第總括此前情境，不能只限雨聲。乙：怎…了得反問正表一字不足。"
+        }
+      ],
+      "answerId": "c",
+      "explanation": "此判斷正確。甲：這次第總括此前情境，不能只限雨聲。乙：怎…了得反問正表一字不足。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 231,
+        "printedPage": 227,
+        "blockPath": "$[14].pages[12].blocks[1][1][3]",
+        "anchor": "聲音推至結尾 梧桐細雨點滴不停，到黃昏仍愁；反問把眼前苦況和身世之痛一併收束。",
+        "excerpt": "梧桐細雨點滴不停，到黃昏仍愁；反問把眼前苦況和身世之痛一併收束。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "此判斷正確。甲：這次第總括此前情境，不能只限雨聲。乙：怎…了得反問正表一字不足。",
+      "misconception": "此判斷不符原文。甲：這次第總括此前情境，不能只限雨聲。乙：怎…了得反問正表一字不足。；此判斷不符原文。甲：這次第總括此前情境，不能只限雨聲。乙：怎…了得反問正表一字不足。；此判斷不符原文。甲：這次第總括此前情境，不能只限雨聲。乙：怎…了得反問正表一字不足。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "聲音推至結尾 梧桐細雨點滴不停，到黃昏仍愁；反問把眼前苦況和身世之痛一併收束。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／結尾功能（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "7b189e91235be8940d3a5b7f8e7823c5ca69f93d8562b30217f5795c730b034b",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 231,
+          "printedPage": 227,
+          "blockPath": "$[14].pages[12].blocks[1][1][3]",
+          "anchor": "聲音推至結尾 梧桐細雨點滴不停，到黃昏仍愁；反問把眼前苦況和身世之痛一併收束。",
+          "excerpt": "梧桐細雨點滴不停，到黃昏仍愁；反問把眼前苦況和身世之痛一併收束。"
+        },
+        "block": [
+          "聲音推至結尾",
+          "梧桐細雨點滴不停，到黃昏仍愁；反問把眼前苦況和身世之痛一併收束。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-15-12-01-04",
+      "version": 2,
+      "memoryId": "full-c-15-12-01-04",
+      "essayIds": [
+        "essay-15"
+      ],
+      "ability": "theme",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「最難將息」「怎生得黑」「到黃昏」共同使愁情呈現哪種特點？\n甲：既有到黃昏，便說長日難熬只發生在黃昏那一刻\n乙：三處都是時間語句，所以只提供客觀時刻，與感受無關",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：守窗等待至昏，非僅一刻。乙：難、怎生等主觀感受明顯。"
+        },
+        {
+          "id": "b",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：守窗等待至昏，非僅一刻。乙：難、怎生等主觀感受明顯。"
+        },
+        {
+          "id": "c",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：守窗等待至昏，非僅一刻。乙：難、怎生等主觀感受明顯。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：守窗等待至昏，非僅一刻。乙：難、怎生等主觀感受明顯。"
+        }
+      ],
+      "answerId": "c",
+      "explanation": "此判斷正確。甲：守窗等待至昏，非僅一刻。乙：難、怎生等主觀感受明顯。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 231,
+        "printedPage": 227,
+        "blockPath": "$[14].pages[12].blocks[1][1][4]",
+        "anchor": "時間與愁深 「最難將息」「怎生得黑」「到黃昏」共同写時間難熬；愁不只是某一刻的情緒，而是整日無法排遣。",
+        "excerpt": "「最難將息」「怎生得黑」「到黃昏」共同写時間難熬；愁不只是某一刻的情緒，而是整日無法排遣。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：守窗等待至昏，非僅一刻。乙：難、怎生等主觀感受明顯。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：守窗等待至昏，非僅一刻。乙：難、怎生等主觀感受明顯。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "時間與愁深 「最難將息」「怎生得黑」「到黃昏」共同写時間難熬；愁不只是某一刻的情緒，而是整日無法排遣。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／時間與情感（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "fb3b03cd08ecfb6437b323b0037b35e351a92f28e5bb8309984d55b7a6b29d20",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 231,
+          "printedPage": 227,
+          "blockPath": "$[14].pages[12].blocks[1][1][4]",
+          "anchor": "時間與愁深 「最難將息」「怎生得黑」「到黃昏」共同写時間難熬；愁不只是某一刻的情緒，而是整日無法排遣。",
+          "excerpt": "「最難將息」「怎生得黑」「到黃昏」共同写時間難熬；愁不只是某一刻的情緒，而是整日無法排遣。"
+        },
+        "block": [
+          "時間與愁深",
+          "「最難將息」「怎生得黑」「到黃昏」共同写時間難熬；愁不只是某一刻的情緒，而是整日無法排遣。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-16-00-03-80",
+      "version": 2,
+      "memoryId": "full-c-16-00-03-80",
+      "essayIds": [
+        "essay-16"
+      ],
+      "ability": "theme",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：下片由盛裝女子寫到那人，怎樣推進敘事？\n甲：眾裏尋他先宣布尋人成功，驀然回首才回憶從前未得\n乙：盛裝女子已明確就是那人，後文只重複其衣飾與姿態",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：千百度是反覆找，驀然處才得見。乙：眾女與那人有反差，未能等同。"
+        },
+        {
+          "id": "b",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：千百度是反覆找，驀然處才得見。乙：眾女與那人有反差，未能等同。"
+        },
+        {
+          "id": "c",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：千百度是反覆找，驀然處才得見。乙：眾女與那人有反差，未能等同。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：千百度是反覆找，驀然處才得見。乙：眾女與那人有反差，未能等同。"
+        }
+      ],
+      "answerId": "d",
+      "explanation": "此判斷正確。甲：千百度是反覆找，驀然處才得見。乙：眾女與那人有反差，未能等同。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 232,
+        "printedPage": 228,
+        "blockPath": "$[15].pages[0].blocks[3]",
+        "anchor": "燈火車馬→音樂魚龍→盛裝女子→千百尋找→驀然得見",
+        "excerpt": "燈火車馬→音樂魚龍→盛裝女子→千百尋找→驀然得見"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：千百度是反覆找，驀然處才得見。乙：眾女與那人有反差，未能等同。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：千百度是反覆找，驀然處才得見。乙：眾女與那人有反差，未能等同。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "燈火車馬→音樂魚龍→盛裝女子→千百尋找→驀然得見"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／敘事次序（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "d80a34ae6cab0f62ebefb65838f826510c33d7d5811ccd5708f2155e14844652",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 232,
+          "printedPage": 228,
+          "blockPath": "$[15].pages[0].blocks[3]",
+          "anchor": "燈火車馬→音樂魚龍→盛裝女子→千百尋找→驀然得見",
+          "excerpt": "燈火車馬→音樂魚龍→盛裝女子→千百尋找→驀然得見"
+        },
+        "block": [
+          "text",
+          "燈火車馬→音樂魚龍→盛裝女子→千百尋找→驀然得見"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-16-04-00-03",
+      "version": 2,
+      "memoryId": "full-c-16-04-00-03",
+      "essayIds": [
+        "essay-16"
+      ],
+      "ability": "meaning",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「千百度」怎樣表現尋覓？\n甲：把反覆尋覓寫得热切，故可據此斷言每次都曾短暫找到\n乙：以千百次數直接說明所寻者很多，而非同一對象",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：多次尋不等於多次得。乙：次數修饰寻觅，非對象人數。"
+        },
+        {
+          "id": "b",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：多次尋不等於多次得。乙：次數修饰寻觅，非對象人數。"
+        },
+        {
+          "id": "c",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：多次尋不等於多次得。乙：次數修饰寻觅，非對象人數。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：多次尋不等於多次得。乙：次數修饰寻觅，非對象人數。"
+        }
+      ],
+      "answerId": "c",
+      "explanation": "此判斷正確。甲：多次尋不等於多次得。乙：次數修饰寻觅，非對象人數。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 237,
+        "printedPage": 233,
+        "blockPath": "$[15].pages[4].blocks[0][1][3]",
+        "anchor": "千百度 眾裏尋他千百度 反覆多次尋找，突出熱切，不是實數。",
+        "excerpt": "反覆多次尋找，突出熱切，不是實數。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：多次尋不等於多次得。乙：次數修饰寻觅，非對象人數。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：多次尋不等於多次得。乙：次數修饰寻觅，非對象人數。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "千百度 眾裏尋他千百度 反覆多次尋找，突出熱切，不是實數。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／數詞效果（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "732dba59d5f7fc110f258c665a6d42ef19f0e5be8e47655078aeb7c748196370",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 237,
+          "printedPage": 233,
+          "blockPath": "$[15].pages[4].blocks[0][1][3]",
+          "anchor": "千百度 眾裏尋他千百度 反覆多次尋找，突出熱切，不是實數。",
+          "excerpt": "反覆多次尋找，突出熱切，不是實數。"
+        },
+        "block": [
+          "千百度",
+          "眾裏尋他千百度",
+          "反覆多次尋找，突出熱切，不是實數。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-16-07-00-05",
+      "version": 2,
+      "memoryId": "full-c-16-07-00-05",
+      "essayIds": [
+        "essay-16"
+      ],
+      "ability": "technique",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「蛾兒雪柳黃金縷，笑語盈盈暗香去」如何以物寫人？\n甲：既然以物代人，就不能再從笑語暗香分析人物活動\n乙：頭飾與女子外形相似，所以這裏只屬比喻",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：借代後仍可描人物活動。乙：服饰與佩戴者為關聯，非形似關系。"
+        },
+        {
+          "id": "b",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：借代後仍可描人物活動。乙：服饰與佩戴者為關聯，非形似關系。"
+        },
+        {
+          "id": "c",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：借代後仍可描人物活動。乙：服饰與佩戴者為關聯，非形似關系。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：借代後仍可描人物活動。乙：服饰與佩戴者為關聯，非形似關系。"
+        }
+      ],
+      "answerId": "a",
+      "explanation": "此判斷正確。甲：借代後仍可描人物活動。乙：服饰與佩戴者為關聯，非形似關系。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 238,
+        "printedPage": 234,
+        "blockPath": "$[15].pages[7].blocks[0][1][5]",
+        "anchor": "借代 寶馬雕車帶出富貴人家出遊賞燈；蛾兒雪柳黃金縷以頭飾代華麗女子。物象所指與作用分別交代。",
+        "excerpt": "寶馬雕車帶出富貴人家出遊賞燈；蛾兒雪柳黃金縷以頭飾代華麗女子。物象所指與作用分別交代。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：借代後仍可描人物活動。乙：服饰與佩戴者為關聯，非形似關系。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：借代後仍可描人物活動。乙：服饰與佩戴者為關聯，非形似關系。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "借代 寶馬雕車帶出富貴人家出遊賞燈；蛾兒雪柳黃金縷以頭飾代華麗女子。物象所指與作用分別交代。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／借代與人物（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "670367adaad09c80cf2b5dbd5ed8c7fec9e8e9cf936c7b923cf76c111d0bb63a",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 238,
+          "printedPage": 234,
+          "blockPath": "$[15].pages[7].blocks[0][1][5]",
+          "anchor": "借代 寶馬雕車帶出富貴人家出遊賞燈；蛾兒雪柳黃金縷以頭飾代華麗女子。物象所指與作用分別交代。",
+          "excerpt": "寶馬雕車帶出富貴人家出遊賞燈；蛾兒雪柳黃金縷以頭飾代華麗女子。物象所指與作用分別交代。"
+        },
+        "block": [
+          "借代",
+          "寶馬雕車帶出富貴人家出遊賞燈；蛾兒雪柳黃金縷以頭飾代華麗女子。物象所指與作用分別交代。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-c-16-11-00-80",
+      "version": 2,
+      "memoryId": "full-c-16-11-00-80",
+      "essayIds": [
+        "essay-16"
+      ],
+      "ability": "theme",
+      "quote": "",
+      "target": "",
+      "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「玉壺」有明月、燈具等不同讀法。哪項分析能保持前後一致？\n甲：採燈具說，卻斷言詞中此物一定是自然天體\n乙：採明月說，卻把光轉全解作手持燈具的轉動而不作說明",
+      "choices": [
+        {
+          "id": "a",
+          "text": "甲正確，乙正確",
+          "explanation": "此判斷不符原文。甲：與採燈具說自相矛盾。乙：未說明切換便混合兩解。"
+        },
+        {
+          "id": "b",
+          "text": "甲正確，乙不正確",
+          "explanation": "此判斷不符原文。甲：與採燈具說自相矛盾。乙：未說明切換便混合兩解。"
+        },
+        {
+          "id": "c",
+          "text": "甲不正確，乙正確",
+          "explanation": "此判斷不符原文。甲：與採燈具說自相矛盾。乙：未說明切換便混合兩解。"
+        },
+        {
+          "id": "d",
+          "text": "甲不正確，乙不正確",
+          "explanation": "此判斷正確。甲：與採燈具說自相矛盾。乙：未說明切換便混合兩解。"
+        }
+      ],
+      "answerId": "d",
+      "explanation": "此判斷正確。甲：與採燈具說自相矛盾。乙：未說明切換便混合兩解。",
+      "source": {
+        "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+        "version": "2026-09-14",
+        "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "pdfPage": 241,
+        "printedPage": 237,
+        "blockPath": "$[15].pages[11].blocks[0]",
+        "anchor": "本篇主線以「星」為煙花、「玉壺」為明月；另有花燈、漏壺等解釋。那人可從愛情尋覓理解，也可寄託不隨俗的高潔理想；後者是寓意解讀，不抹去詞面尋人的故事。",
+        "excerpt": "本篇主線以「星」為煙花、「玉壺」為明月；另有花燈、漏壺等解釋。那人可從愛情尋覓理解，也可寄託不隨俗的高潔理想；後者是寓意解讀，不抹去詞面尋人的故事。"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "甲：與採燈具說自相矛盾。乙：未說明切換便混合兩解。",
+      "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：與採燈具說自相矛盾。乙：未說明切換便混合兩解。",
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+        "evidence": "本篇主線以「星」為煙花、「玉壺」為明月；另有花燈、漏壺等解釋。那人可從愛情尋覓理解，也可寄託不隨俗的高潔理想；後者是寓意解讀，不抹去詞面尋人的故事。"
+      },
+      "targetStart": 0,
+      "assessmentType": "作答評議／異解一致性（四選一識別）",
+      "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+      "responseFormat": "single-choice"
+    },
+    "baseQuestionHash": "cf810f817f9d538edbf45bd1d4f985ce11f233b1de10f9ca13678ae15e22eb49",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 241,
+          "printedPage": 237,
+          "blockPath": "$[15].pages[11].blocks[0]",
+          "anchor": "本篇主線以「星」為煙花、「玉壺」為明月；另有花燈、漏壺等解釋。那人可從愛情尋覓理解，也可寄託不隨俗的高潔理想；後者是寓意解讀，不抹去詞面尋人的故事。",
+          "excerpt": "本篇主線以「星」為煙花、「玉壺」為明月；另有花燈、漏壺等解釋。那人可從愛情尋覓理解，也可寄託不隨俗的高潔理想；後者是寓意解讀，不抹去詞面尋人的故事。"
+        },
+        "block": [
+          "text",
+          "本篇主線以「星」為煙花、「玉壺」為明月；另有花燈、漏壺等解釋。那人可從愛情尋覓理解，也可寄託不隨俗的高潔理想；後者是寓意解讀，不抹去詞面尋人的故事。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "same-wrong-rationale",
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-d-00-01",
+      "version": 1,
+      "memoryId": "m-full-d-00-01",
+      "essayIds": [],
+      "ability": "technique",
+      "quote": "比擬",
+      "target": "",
+      "stem": "關於「比擬」，哪項理解最準確？",
+      "choices": [
+        {
+          "text": "只要把東西寫得大就是比擬",
+          "explanation": "寫大可能是誇張，並不構成人物化",
+          "id": "a"
+        },
+        {
+          "text": "只限把物寫成人，不包括擬物",
+          "explanation": "書中兼列擬人和擬物",
+          "id": "b"
+        },
+        {
+          "text": "必須拿一物代稱另一相關物",
+          "explanation": "這是借代的替代關係",
+          "id": "c"
+        },
+        {
+          "text": "借助想像，把物當人、把人當物，或把甲物當乙物。",
+          "explanation": "借助想像，把物當人、把人當物，或把甲物當乙物。\n擬人：賦予物人的行動、言語、思想感情。\n擬物：把人當物，賦予物的特性或行為；也可把甲物當乙物。\n作用：突出形象或性格，令描寫生動，寄託感情；要說明被賦予甚麼特徵。 擬人：「成羣的白鷺鷥在凝神養氣，誰也不叫一聲。」（梁容若《我看大明湖》）\n擬物：「十指在翻飛疾走，把驟雨潑落窗格和浮萍。」把十指當鳥和獸來寫。（黃國彬《聽陳蕾士的琴箏》）\n「月徘徊、影零亂」也把月、影人格化。",
+          "id": "d"
+        }
+      ],
+      "answerId": "d",
+      "explanation": "借助想像，把物當人、把人當物，或把甲物當乙物。\n擬人：賦予物人的行動、言語、思想感情。\n擬物：把人當物，賦予物的特性或行為；也可把甲物當乙物。\n作用：突出形象或性格，令描寫生動，寄託感情；要說明被賦予甚麼特徵。\n例子或作用：擬人：「成羣的白鷺鷥在凝神養氣，誰也不叫一聲。」（梁容若《我看大明湖》）\n擬物：「十指在翻飛疾走，把驟雨潑落窗格和浮萍。」把十指當鳥和獸來寫。（黃國彬《聽陳蕾士的琴箏》）\n「月徘徊、影零亂」也把月、影人格化。",
+      "source": {
+        "title": "文言詩詞・十六篇復習書｜手法附錄",
+        "section": "修辭｜形象與聯想",
+        "jsonFile": "appendix-content.json",
+        "blockPath": "$appendix.sections[0].rows[1]",
+        "anchor": "借助想像，把物當人、把人當物，或把甲物當乙物。",
+        "pdfPage": 243,
+        "printedPage": "附錄2",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "version": "2026-09-14"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "借助想像，把物當人、把人當物，或把甲物當乙物。",
+      "misconception": "寫大可能是誇張，並不構成人物化",
+      "difficulty": "foundation",
+      "tags": [
+        "appendix",
+        "concept-definition"
+      ],
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "officialExamQuestion": false,
+        "scope": "依所供附錄逐列核對概念與物理頁；干擾項針對易混條件。定義辨析，不冒稱原文應用題或教師審核。",
+        "evidence": [
+          "比擬",
+          "借助想像，把物當人、把人當物，或把甲物當乙物。\n擬人：賦予物人的行動、言語、思想感情。\n擬物：把人當物，賦予物的特性或行為；也可把甲物當乙物。\n作用：突出形象或性格，令描寫生動，寄託感情；要說明被賦予甚麼特徵。",
+          "擬人：「成羣的白鷺鷥在凝神養氣，誰也不叫一聲。」（梁容若《我看大明湖》）\n擬物：「十指在翻飛疾走，把驟雨潑落窗格和浮萍。」把十指當鳥和獸來寫。（黃國彬《聽陳蕾士的琴箏》）\n「月徘徊、影零亂」也把月、影人格化。"
+        ]
+      }
+    },
+    "baseQuestionHash": "baca0d4177a321823bc77a7f87612d782f433ab8ebcbb4a0b82d4f889496f665",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書｜手法附錄",
+          "section": "修辭｜形象與聯想",
+          "jsonFile": "appendix-content.json",
+          "blockPath": "$appendix.sections[0].rows[1]",
+          "anchor": "借助想像，把物當人、把人當物，或把甲物當乙物。",
+          "pdfPage": 243,
+          "printedPage": "附錄2",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14"
+        },
+        "block": [
+          "比擬",
+          "借助想像，把物當人、把人當物，或把甲物當乙物。\n擬人：賦予物人的行動、言語、思想感情。\n擬物：把人當物，賦予物的特性或行為；也可把甲物當乙物。\n作用：突出形象或性格，令描寫生動，寄託感情；要說明被賦予甚麼特徵。",
+          "擬人：「成羣的白鷺鷥在凝神養氣，誰也不叫一聲。」（梁容若《我看大明湖》）\n擬物：「十指在翻飛疾走，把驟雨潑落窗格和浮萍。」把十指當鳥和獸來寫。（黃國彬《聽陳蕾士的琴箏》）\n「月徘徊、影零亂」也把月、影人格化。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-d-00-02",
+      "version": 1,
+      "memoryId": "m-full-d-00-02",
+      "essayIds": [],
+      "ability": "technique",
+      "quote": "借代",
+      "target": "",
+      "stem": "關於「借代」，哪項理解最準確？",
+      "choices": [
+        {
+          "text": "不用本名，借用與本體密切相關的事物代稱，例如部分代全體、具體代抽象、外表特徵代人物，亦可用工具、產物等代稱。關鍵是關聯替代。",
+          "explanation": "不用本名，借用與本體密切相關的事物代稱，例如部分代全體、具體代抽象、外表特徵代人物，亦可用工具、產物等代稱。關鍵是關聯替代。\n作用：語言簡潔而具體，突出特徵並引起聯想。 「我為了明天的麵包及昨日的債務辛勞地工作。」（紀弦《存在主義》）以「麵包」替代糧食；在句中亦令人聯想到生計。",
+          "id": "a"
+        },
+        {
+          "text": "以兩物外形相似為必要條件",
+          "explanation": "借代依關聯替代而非相似",
+          "id": "b"
+        },
+        {
+          "text": "把無生命的物寫得有思想",
+          "explanation": "這是擬人，並非代稱",
+          "id": "c"
+        },
+        {
+          "text": "直接說出本名後才可使用",
+          "explanation": "借代本來可以不用本名",
+          "id": "d"
+        }
+      ],
+      "answerId": "a",
+      "explanation": "不用本名，借用與本體密切相關的事物代稱，例如部分代全體、具體代抽象、外表特徵代人物，亦可用工具、產物等代稱。關鍵是關聯替代。\n作用：語言簡潔而具體，突出特徵並引起聯想。\n例子或作用：「我為了明天的麵包及昨日的債務辛勞地工作。」（紀弦《存在主義》）以「麵包」替代糧食；在句中亦令人聯想到生計。",
+      "source": {
+        "title": "文言詩詞・十六篇復習書｜手法附錄",
+        "section": "修辭｜形象與聯想",
+        "jsonFile": "appendix-content.json",
+        "blockPath": "$appendix.sections[0].rows[2]",
+        "anchor": "不用本名，借用與本體密切相關的事物代稱，例如部分代全體、具體代抽象、外表特徵代人物，亦可用工具、產物等代稱。關鍵是關聯替代。",
+        "pdfPage": 243,
+        "printedPage": "附錄2",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "version": "2026-09-14"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "不用本名，借用與本體密切相關的事物代稱，例如部分代全體、具體代抽象、外表特徵代人物，亦可用工具、產物等代稱。關鍵是關聯替代。",
+      "misconception": "借代依關聯替代而非相似",
+      "difficulty": "foundation",
+      "tags": [
+        "appendix",
+        "concept-definition"
+      ],
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "officialExamQuestion": false,
+        "scope": "依所供附錄逐列核對概念與物理頁；干擾項針對易混條件。定義辨析，不冒稱原文應用題或教師審核。",
+        "evidence": [
+          "借代",
+          "不用本名，借用與本體密切相關的事物代稱，例如部分代全體、具體代抽象、外表特徵代人物，亦可用工具、產物等代稱。關鍵是關聯替代。\n作用：語言簡潔而具體，突出特徵並引起聯想。",
+          "「我為了明天的麵包及昨日的債務辛勞地工作。」（紀弦《存在主義》）以「麵包」替代糧食；在句中亦令人聯想到生計。"
+        ]
+      }
+    },
+    "baseQuestionHash": "d5f7389eeb9f0c6d9d89ac95fd7a715c72f2bfe29c680599fb09921a2eac2faa",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書｜手法附錄",
+          "section": "修辭｜形象與聯想",
+          "jsonFile": "appendix-content.json",
+          "blockPath": "$appendix.sections[0].rows[2]",
+          "anchor": "不用本名，借用與本體密切相關的事物代稱，例如部分代全體、具體代抽象、外表特徵代人物，亦可用工具、產物等代稱。關鍵是關聯替代。",
+          "pdfPage": 243,
+          "printedPage": "附錄2",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14"
+        },
+        "block": [
+          "借代",
+          "不用本名，借用與本體密切相關的事物代稱，例如部分代全體、具體代抽象、外表特徵代人物，亦可用工具、產物等代稱。關鍵是關聯替代。\n作用：語言簡潔而具體，突出特徵並引起聯想。",
+          "「我為了明天的麵包及昨日的債務辛勞地工作。」（紀弦《存在主義》）以「麵包」替代糧食；在句中亦令人聯想到生計。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-d-00-03",
+      "version": 1,
+      "memoryId": "m-full-d-00-03",
+      "essayIds": [],
+      "ability": "technique",
+      "quote": "象徵",
+      "target": "",
+      "stem": "關於「象徵」，哪項理解最準確？",
+      "choices": [
+        {
+          "text": "用容易引起聯想的具體符號、事物或形象，間接表現抽象情意、觀念、思想和感情。",
+          "explanation": "用容易引起聯想的具體符號、事物或形象，間接表現抽象情意、觀念、思想和感情。\n作用：表達含蓄，深化主題，增強感染力；須交代形象與象徵義的關係。 「爸爸的花兒落了，我也不再是小孩子。」（林海音《爸爸的花兒落了》）花兒落了象徵爸爸去世；後句同時帶出人物成長。",
+          "id": "a"
+        },
+        {
+          "text": "只要精確描寫外形便構成象徵",
+          "explanation": "還需具體形象寄託抽象意義",
+          "id": "b"
+        },
+        {
+          "text": "把字面意思全部反過來理解",
+          "explanation": "這是反語判讀方式",
+          "id": "c"
+        },
+        {
+          "text": "只能表示實物，不能寄託思想",
+          "explanation": "象徵正可間接表現抽象情意",
+          "id": "d"
+        }
+      ],
+      "answerId": "a",
+      "explanation": "用容易引起聯想的具體符號、事物或形象，間接表現抽象情意、觀念、思想和感情。\n作用：表達含蓄，深化主題，增強感染力；須交代形象與象徵義的關係。\n例子或作用：「爸爸的花兒落了，我也不再是小孩子。」（林海音《爸爸的花兒落了》）花兒落了象徵爸爸去世；後句同時帶出人物成長。",
+      "source": {
+        "title": "文言詩詞・十六篇復習書｜手法附錄",
+        "section": "修辭｜形象與聯想",
+        "jsonFile": "appendix-content.json",
+        "blockPath": "$appendix.sections[0].rows[3]",
+        "anchor": "用容易引起聯想的具體符號、事物或形象，間接表現抽象情意、觀念、思想和感情。",
+        "pdfPage": 243,
+        "printedPage": "附錄2",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "version": "2026-09-14"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "用容易引起聯想的具體符號、事物或形象，間接表現抽象情意、觀念、思想和感情。",
+      "misconception": "還需具體形象寄託抽象意義",
+      "difficulty": "foundation",
+      "tags": [
+        "appendix",
+        "concept-definition"
+      ],
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "officialExamQuestion": false,
+        "scope": "依所供附錄逐列核對概念與物理頁；干擾項針對易混條件。定義辨析，不冒稱原文應用題或教師審核。",
+        "evidence": [
+          "象徵",
+          "用容易引起聯想的具體符號、事物或形象，間接表現抽象情意、觀念、思想和感情。\n作用：表達含蓄，深化主題，增強感染力；須交代形象與象徵義的關係。",
+          "「爸爸的花兒落了，我也不再是小孩子。」（林海音《爸爸的花兒落了》）花兒落了象徵爸爸去世；後句同時帶出人物成長。"
+        ]
+      }
+    },
+    "baseQuestionHash": "bcaa608836841e86d424786e8eb168666fdd8c945fb6369f2c264000a7f3b2f7",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書｜手法附錄",
+          "section": "修辭｜形象與聯想",
+          "jsonFile": "appendix-content.json",
+          "blockPath": "$appendix.sections[0].rows[3]",
+          "anchor": "用容易引起聯想的具體符號、事物或形象，間接表現抽象情意、觀念、思想和感情。",
+          "pdfPage": 243,
+          "printedPage": "附錄2",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14"
+        },
+        "block": [
+          "象徵",
+          "用容易引起聯想的具體符號、事物或形象，間接表現抽象情意、觀念、思想和感情。\n作用：表達含蓄，深化主題，增強感染力；須交代形象與象徵義的關係。",
+          "「爸爸的花兒落了，我也不再是小孩子。」（林海音《爸爸的花兒落了》）花兒落了象徵爸爸去世；後句同時帶出人物成長。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-d-00-04",
+      "version": 1,
+      "memoryId": "m-full-d-00-04",
+      "essayIds": [],
+      "ability": "technique",
+      "quote": "通感（移覺）",
+      "target": "",
+      "stem": "關於「通感（移覺）」，哪項理解最準確？",
+      "choices": [
+        {
+          "text": "同時寫顏色和聲音必定是通感",
+          "explanation": "多感官並列不等於感官轉移",
+          "id": "a"
+        },
+        {
+          "text": "只可用視覺描寫視覺",
+          "explanation": "這沒有跨感官轉移",
+          "id": "b"
+        },
+        {
+          "text": "把一種感官的詞語移來描寫另一種感官，可與比喻同時出現。",
+          "explanation": "把一種感官的詞語移來描寫另一種感官，可與比喻同時出現。\n作用：使難以描摹的感受具體新鮮，擴闊聯想並增強感染力。 以『渺茫的歌聲』寫清香：聽覺寫嗅覺。",
+          "id": "c"
+        },
+        {
+          "text": "使用通感就不能同時用比喻",
+          "explanation": "兩種手法可以同時成立",
+          "id": "d"
+        }
+      ],
+      "answerId": "c",
+      "explanation": "把一種感官的詞語移來描寫另一種感官，可與比喻同時出現。\n作用：使難以描摹的感受具體新鮮，擴闊聯想並增強感染力。\n例子或作用：以『渺茫的歌聲』寫清香：聽覺寫嗅覺。",
+      "source": {
+        "title": "文言詩詞・十六篇復習書｜手法附錄",
+        "section": "修辭｜形象與聯想",
+        "jsonFile": "appendix-content.json",
+        "blockPath": "$appendix.sections[0].rows[4]",
+        "anchor": "把一種感官的詞語移來描寫另一種感官，可與比喻同時出現。",
+        "pdfPage": 243,
+        "printedPage": "附錄2",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "version": "2026-09-14"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "把一種感官的詞語移來描寫另一種感官，可與比喻同時出現。",
+      "misconception": "多感官並列不等於感官轉移",
+      "difficulty": "foundation",
+      "tags": [
+        "appendix",
+        "concept-definition"
+      ],
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "officialExamQuestion": false,
+        "scope": "依所供附錄逐列核對概念與物理頁；干擾項針對易混條件。定義辨析，不冒稱原文應用題或教師審核。",
+        "evidence": [
+          "通感（移覺）",
+          "把一種感官的詞語移來描寫另一種感官，可與比喻同時出現。\n作用：使難以描摹的感受具體新鮮，擴闊聯想並增強感染力。",
+          "以『渺茫的歌聲』寫清香：聽覺寫嗅覺。"
+        ]
+      }
+    },
+    "baseQuestionHash": "dbfcdced7282982cee2a62976df1385bd788e110842572ee9329f6853e6557eb",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書｜手法附錄",
+          "section": "修辭｜形象與聯想",
+          "jsonFile": "appendix-content.json",
+          "blockPath": "$appendix.sections[0].rows[4]",
+          "anchor": "把一種感官的詞語移來描寫另一種感官，可與比喻同時出現。",
+          "pdfPage": 243,
+          "printedPage": "附錄2",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14"
+        },
+        "block": [
+          "通感（移覺）",
+          "把一種感官的詞語移來描寫另一種感官，可與比喻同時出現。\n作用：使難以描摹的感受具體新鮮，擴闊聯想並增強感染力。",
+          "以『渺茫的歌聲』寫清香：聽覺寫嗅覺。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-d-01-00",
+      "version": 1,
+      "memoryId": "m-full-d-01-00",
+      "essayIds": [],
+      "ability": "technique",
+      "quote": "對比（對照）",
+      "target": "",
+      "stem": "關於「對比（對照）」，哪項理解最準確？",
+      "choices": [
+        {
+          "text": "必須一方為主體一方為陪襯",
+          "explanation": "這是襯托須分主次的要求",
+          "id": "a"
+        },
+        {
+          "text": "只比較兩物相同之處",
+          "explanation": "對比重點是相反或相對的差異",
+          "id": "b"
+        },
+        {
+          "text": "任何兩件事前後出現便成立",
+          "explanation": "須有共同比較角度及對立關係",
+          "id": "c"
+        },
+        {
+          "text": "把對立的事物、觀念，或同一事物相反／相對的兩面並列比較，突出差異；分析時須說清雙方及比較角度。",
+          "explanation": "把對立的事物、觀念，或同一事物相反／相對的兩面並列比較，突出差異；分析時須說清雙方及比較角度。\n作用：使差異、優劣或正誤鮮明，突出觀點或情感。 「朱門酒肉臭，路有凍死骨。」（杜甫《自京赴奉先縣詠懷五百字》）對比貴族奢華與百姓窮苦，揭露當時悲慘的社會狀況。",
+          "id": "d"
+        }
+      ],
+      "answerId": "d",
+      "explanation": "把對立的事物、觀念，或同一事物相反／相對的兩面並列比較，突出差異；分析時須說清雙方及比較角度。\n作用：使差異、優劣或正誤鮮明，突出觀點或情感。\n例子或作用：「朱門酒肉臭，路有凍死骨。」（杜甫《自京赴奉先縣詠懷五百字》）對比貴族奢華與百姓窮苦，揭露當時悲慘的社會狀況。",
+      "source": {
+        "title": "文言詩詞・十六篇復習書｜手法附錄",
+        "section": "修辭｜對照與強調",
+        "jsonFile": "appendix-content.json",
+        "blockPath": "$appendix.sections[1].rows[0]",
+        "anchor": "把對立的事物、觀念，或同一事物相反／相對的兩面並列比較，突出差異；分析時須說清雙方及比較角度。",
+        "pdfPage": 244,
+        "printedPage": "附錄3",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "version": "2026-09-14"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "把對立的事物、觀念，或同一事物相反／相對的兩面並列比較，突出差異；分析時須說清雙方及比較角度。",
+      "misconception": "這是襯托須分主次的要求",
+      "difficulty": "foundation",
+      "tags": [
+        "appendix",
+        "concept-definition"
+      ],
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "officialExamQuestion": false,
+        "scope": "依所供附錄逐列核對概念與物理頁；干擾項針對易混條件。定義辨析，不冒稱原文應用題或教師審核。",
+        "evidence": [
+          "對比（對照）",
+          "把對立的事物、觀念，或同一事物相反／相對的兩面並列比較，突出差異；分析時須說清雙方及比較角度。\n作用：使差異、優劣或正誤鮮明，突出觀點或情感。",
+          "「朱門酒肉臭，路有凍死骨。」（杜甫《自京赴奉先縣詠懷五百字》）對比貴族奢華與百姓窮苦，揭露當時悲慘的社會狀況。"
+        ]
+      }
+    },
+    "baseQuestionHash": "57dba54abdc43cbf955bafb2f724d8b5f97401278329b98792c6fe65a09d05a2",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書｜手法附錄",
+          "section": "修辭｜對照與強調",
+          "jsonFile": "appendix-content.json",
+          "blockPath": "$appendix.sections[1].rows[0]",
+          "anchor": "把對立的事物、觀念，或同一事物相反／相對的兩面並列比較，突出差異；分析時須說清雙方及比較角度。",
+          "pdfPage": 244,
+          "printedPage": "附錄3",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14"
+        },
+        "block": [
+          "對比（對照）",
+          "把對立的事物、觀念，或同一事物相反／相對的兩面並列比較，突出差異；分析時須說清雙方及比較角度。\n作用：使差異、優劣或正誤鮮明，突出觀點或情感。",
+          "「朱門酒肉臭，路有凍死骨。」（杜甫《自京赴奉先縣詠懷五百字》）對比貴族奢華與百姓窮苦，揭露當時悲慘的社會狀況。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-d-01-01",
+      "version": 1,
+      "memoryId": "m-full-d-01-01",
+      "essayIds": [],
+      "ability": "technique",
+      "quote": "襯托（映襯）",
+      "target": "",
+      "stem": "關於「襯托（映襯）」，哪項理解最準確？",
+      "choices": [
+        {
+          "text": "主體與陪襯物必須同樣重要",
+          "explanation": "襯托須分清主體與陪襯",
+          "id": "a"
+        },
+        {
+          "text": "又稱烘托。有主體和陪襯物之分。",
+          "explanation": "又稱烘托。有主體和陪襯物之分。\n正襯：用性質相近或相關的事物突出主體，如好的襯更好、大的襯更大。\n反襯：用性質相反或對立的事物突出主體，如壞的襯好、小的襯大。\n作用：令主體特徵更鮮明；答題要明說誰是主體、誰是陪襯。 「窰裏靜悄悄的，只聽見鍋台後面那隻老黃貓的呼嚕聲。」（路遙《人生》）以聲音反襯窰裏寧靜。",
+          "id": "b"
+        },
+        {
+          "text": "襯托只能採相反性質，不能正襯",
+          "explanation": "相近相關性質也可正襯",
+          "id": "c"
+        },
+        {
+          "text": "不用說明誰烘托誰",
+          "explanation": "主次關係正是判別重點",
+          "id": "d"
+        }
+      ],
+      "answerId": "b",
+      "explanation": "又稱烘托。有主體和陪襯物之分。\n正襯：用性質相近或相關的事物突出主體，如好的襯更好、大的襯更大。\n反襯：用性質相反或對立的事物突出主體，如壞的襯好、小的襯大。\n作用：令主體特徵更鮮明；答題要明說誰是主體、誰是陪襯。\n例子或作用：「窰裏靜悄悄的，只聽見鍋台後面那隻老黃貓的呼嚕聲。」（路遙《人生》）以聲音反襯窰裏寧靜。",
+      "source": {
+        "title": "文言詩詞・十六篇復習書｜手法附錄",
+        "section": "修辭｜對照與強調",
+        "jsonFile": "appendix-content.json",
+        "blockPath": "$appendix.sections[1].rows[1]",
+        "anchor": "又稱烘托。有主體和陪襯物之分。",
+        "pdfPage": 244,
+        "printedPage": "附錄3",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "version": "2026-09-14"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "又稱烘托。有主體和陪襯物之分。",
+      "misconception": "襯托須分清主體與陪襯",
+      "difficulty": "foundation",
+      "tags": [
+        "appendix",
+        "concept-definition"
+      ],
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "officialExamQuestion": false,
+        "scope": "依所供附錄逐列核對概念與物理頁；干擾項針對易混條件。定義辨析，不冒稱原文應用題或教師審核。",
+        "evidence": [
+          "襯托（映襯）",
+          "又稱烘托。有主體和陪襯物之分。\n正襯：用性質相近或相關的事物突出主體，如好的襯更好、大的襯更大。\n反襯：用性質相反或對立的事物突出主體，如壞的襯好、小的襯大。\n作用：令主體特徵更鮮明；答題要明說誰是主體、誰是陪襯。",
+          "「窰裏靜悄悄的，只聽見鍋台後面那隻老黃貓的呼嚕聲。」（路遙《人生》）以聲音反襯窰裏寧靜。"
+        ]
+      }
+    },
+    "baseQuestionHash": "d6c87162b0276f61919a756365e1ce288e7b3527af341c75ea51ca0a43460c36",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書｜手法附錄",
+          "section": "修辭｜對照與強調",
+          "jsonFile": "appendix-content.json",
+          "blockPath": "$appendix.sections[1].rows[1]",
+          "anchor": "又稱烘托。有主體和陪襯物之分。",
+          "pdfPage": 244,
+          "printedPage": "附錄3",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14"
+        },
+        "block": [
+          "襯托（映襯）",
+          "又稱烘托。有主體和陪襯物之分。\n正襯：用性質相近或相關的事物突出主體，如好的襯更好、大的襯更大。\n反襯：用性質相反或對立的事物突出主體，如壞的襯好、小的襯大。\n作用：令主體特徵更鮮明；答題要明說誰是主體、誰是陪襯。",
+          "「窰裏靜悄悄的，只聽見鍋台後面那隻老黃貓的呼嚕聲。」（路遙《人生》）以聲音反襯窰裏寧靜。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-d-01-02",
+      "version": 1,
+      "memoryId": "m-full-d-01-02",
+      "essayIds": [],
+      "ability": "technique",
+      "quote": "誇張／誇飾",
+      "target": "",
+      "stem": "關於「誇張／誇飾」，哪項理解最準確？",
+      "choices": [
+        {
+          "text": "所有修辭數字都應作統計資料",
+          "explanation": "誇張故意超越實際程度",
+          "id": "a"
+        },
+        {
+          "text": "只可往大往多描寫",
+          "explanation": "另有縮小和超前誇張",
+          "id": "b"
+        },
+        {
+          "text": "只有完全符合實況才算誇張",
+          "explanation": "符合實況不構成言過其實",
+          "id": "c"
+        },
+        {
+          "text": "故意言過其實地描寫形象、特徵、作用或程度。",
+          "explanation": "故意言過其實地描寫形象、特徵、作用或程度。\n擴大誇張：往多、快、高、長、強等方面誇大。\n縮小誇張：往少、慢、矮、短、弱等方面縮小。\n超前誇張：把後發生說成先發生或同時發生。\n作用：強化特徵與主觀感受，形成鮮明印象；不可把修辭數量當統計。 「白髮三千丈，緣愁似个長。」（李白《秋浦歌》）誇大白髮長度，強化愁苦的主觀感受。",
+          "id": "d"
+        }
+      ],
+      "answerId": "d",
+      "explanation": "故意言過其實地描寫形象、特徵、作用或程度。\n擴大誇張：往多、快、高、長、強等方面誇大。\n縮小誇張：往少、慢、矮、短、弱等方面縮小。\n超前誇張：把後發生說成先發生或同時發生。\n作用：強化特徵與主觀感受，形成鮮明印象；不可把修辭數量當統計。\n例子或作用：「白髮三千丈，緣愁似个長。」（李白《秋浦歌》）誇大白髮長度，強化愁苦的主觀感受。",
+      "source": {
+        "title": "文言詩詞・十六篇復習書｜手法附錄",
+        "section": "修辭｜對照與強調",
+        "jsonFile": "appendix-content.json",
+        "blockPath": "$appendix.sections[1].rows[2]",
+        "anchor": "故意言過其實地描寫形象、特徵、作用或程度。",
+        "pdfPage": 244,
+        "printedPage": "附錄3",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "version": "2026-09-14"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "故意言過其實地描寫形象、特徵、作用或程度。",
+      "misconception": "誇張故意超越實際程度",
+      "difficulty": "foundation",
+      "tags": [
+        "appendix",
+        "concept-definition"
+      ],
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "officialExamQuestion": false,
+        "scope": "依所供附錄逐列核對概念與物理頁；干擾項針對易混條件。定義辨析，不冒稱原文應用題或教師審核。",
+        "evidence": [
+          "誇張／誇飾",
+          "故意言過其實地描寫形象、特徵、作用或程度。\n擴大誇張：往多、快、高、長、強等方面誇大。\n縮小誇張：往少、慢、矮、短、弱等方面縮小。\n超前誇張：把後發生說成先發生或同時發生。\n作用：強化特徵與主觀感受，形成鮮明印象；不可把修辭數量當統計。",
+          "「白髮三千丈，緣愁似个長。」（李白《秋浦歌》）誇大白髮長度，強化愁苦的主觀感受。"
+        ]
+      }
+    },
+    "baseQuestionHash": "583954ec08c310cb32ca179f40beda7ba2bd9805c23af0c51c9654055c57e81b",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書｜手法附錄",
+          "section": "修辭｜對照與強調",
+          "jsonFile": "appendix-content.json",
+          "blockPath": "$appendix.sections[1].rows[2]",
+          "anchor": "故意言過其實地描寫形象、特徵、作用或程度。",
+          "pdfPage": 244,
+          "printedPage": "附錄3",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14"
+        },
+        "block": [
+          "誇張／誇飾",
+          "故意言過其實地描寫形象、特徵、作用或程度。\n擴大誇張：往多、快、高、長、強等方面誇大。\n縮小誇張：往少、慢、矮、短、弱等方面縮小。\n超前誇張：把後發生說成先發生或同時發生。\n作用：強化特徵與主觀感受，形成鮮明印象；不可把修辭數量當統計。",
+          "「白髮三千丈，緣愁似个長。」（李白《秋浦歌》）誇大白髮長度，強化愁苦的主觀感受。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-d-01-03",
+      "version": 1,
+      "memoryId": "m-full-d-01-03",
+      "essayIds": [],
+      "ability": "technique",
+      "quote": "反語",
+      "target": "",
+      "stem": "關於「反語」，哪項理解最準確？",
+      "choices": [
+        {
+          "text": "字面和真意必須完全一致",
+          "explanation": "反語恰以兩者相反為條件",
+          "id": "a"
+        },
+        {
+          "text": "只有褒詞貶用，沒有貶詞褒用",
+          "explanation": "反語也可正意反說",
+          "id": "b"
+        },
+        {
+          "text": "字面意思與內心真意相反。",
+          "explanation": "字面意思與內心真意相反。\n反意正說：褒詞貶用，表面讚賞，實際責罵。\n正意反說：貶詞褒用，表面責罵，實際讚賞。\n作用：產生諷刺或幽默效果，曲折表達憤慨、不滿、自責等感情，引人深思，有時比正說更有力量。 「我現在想想，那時真是太聰明了！」（朱自清《背影》）用「太聰明」反省自己當時自以為是。",
+          "id": "c"
+        },
+        {
+          "text": "任何表示不滿的句子都是反語",
+          "explanation": "直接表達不滿沒有字面真意反差",
+          "id": "d"
+        }
+      ],
+      "answerId": "c",
+      "explanation": "字面意思與內心真意相反。\n反意正說：褒詞貶用，表面讚賞，實際責罵。\n正意反說：貶詞褒用，表面責罵，實際讚賞。\n作用：產生諷刺或幽默效果，曲折表達憤慨、不滿、自責等感情，引人深思，有時比正說更有力量。\n例子或作用：「我現在想想，那時真是太聰明了！」（朱自清《背影》）用「太聰明」反省自己當時自以為是。",
+      "source": {
+        "title": "文言詩詞・十六篇復習書｜手法附錄",
+        "section": "修辭｜對照與強調",
+        "jsonFile": "appendix-content.json",
+        "blockPath": "$appendix.sections[1].rows[3]",
+        "anchor": "字面意思與內心真意相反。",
+        "pdfPage": 244,
+        "printedPage": "附錄3",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "version": "2026-09-14"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "字面意思與內心真意相反。",
+      "misconception": "反語恰以兩者相反為條件",
+      "difficulty": "foundation",
+      "tags": [
+        "appendix",
+        "concept-definition"
+      ],
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "officialExamQuestion": false,
+        "scope": "依所供附錄逐列核對概念與物理頁；干擾項針對易混條件。定義辨析，不冒稱原文應用題或教師審核。",
+        "evidence": [
+          "反語",
+          "字面意思與內心真意相反。\n反意正說：褒詞貶用，表面讚賞，實際責罵。\n正意反說：貶詞褒用，表面責罵，實際讚賞。\n作用：產生諷刺或幽默效果，曲折表達憤慨、不滿、自責等感情，引人深思，有時比正說更有力量。",
+          "「我現在想想，那時真是太聰明了！」（朱自清《背影》）用「太聰明」反省自己當時自以為是。"
+        ]
+      }
+    },
+    "baseQuestionHash": "9551a3045aa993ff2e6afb12c3c29b35f3d77d2f4c0cd16713e02165c33484bc",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書｜手法附錄",
+          "section": "修辭｜對照與強調",
+          "jsonFile": "appendix-content.json",
+          "blockPath": "$appendix.sections[1].rows[3]",
+          "anchor": "字面意思與內心真意相反。",
+          "pdfPage": 244,
+          "printedPage": "附錄3",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14"
+        },
+        "block": [
+          "反語",
+          "字面意思與內心真意相反。\n反意正說：褒詞貶用，表面讚賞，實際責罵。\n正意反說：貶詞褒用，表面責罵，實際讚賞。\n作用：產生諷刺或幽默效果，曲折表達憤慨、不滿、自責等感情，引人深思，有時比正說更有力量。",
+          "「我現在想想，那時真是太聰明了！」（朱自清《背影》）用「太聰明」反省自己當時自以為是。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "all-wrong-absolute"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-d-01-04",
+      "version": 1,
+      "memoryId": "m-full-d-01-04",
+      "essayIds": [],
+      "ability": "technique",
+      "quote": "雙關",
+      "target": "",
+      "stem": "關於「雙關」，哪項理解最準確？",
+      "choices": [
+        {
+          "text": "只要字音相近便一定雙關",
+          "explanation": "還須特定語境同時成立兩層意思",
+          "id": "a"
+        },
+        {
+          "text": "只可依同音，不能依多義",
+          "explanation": "書中兼有諧音及語義雙關",
+          "id": "b"
+        },
+        {
+          "text": "在特定語境中，使語句同時具有表面和內裏兩層意思。",
+          "explanation": "在特定語境中，使語句同時具有表面和內裏兩層意思。\n語義雙關：利用一詞多義。\n諧音雙關：利用同音或近音。\n作用：含蓄、風趣，增添言外之意；必須寫出兩層意思。 「東邊日出西邊雨，道是無晴卻有晴。」（劉禹錫《竹枝詞》）「晴」雙關「情」：一層是天氣晴雨，一層是情感有無。",
+          "id": "c"
+        },
+        {
+          "text": "答題只寫其中一層意思就完整",
+          "explanation": "雙關分析須說清兩層意思",
+          "id": "d"
+        }
+      ],
+      "answerId": "c",
+      "explanation": "在特定語境中，使語句同時具有表面和內裏兩層意思。\n語義雙關：利用一詞多義。\n諧音雙關：利用同音或近音。\n作用：含蓄、風趣，增添言外之意；必須寫出兩層意思。\n例子或作用：「東邊日出西邊雨，道是無晴卻有晴。」（劉禹錫《竹枝詞》）「晴」雙關「情」：一層是天氣晴雨，一層是情感有無。",
+      "source": {
+        "title": "文言詩詞・十六篇復習書｜手法附錄",
+        "section": "修辭｜對照與強調",
+        "jsonFile": "appendix-content.json",
+        "blockPath": "$appendix.sections[1].rows[4]",
+        "anchor": "在特定語境中，使語句同時具有表面和內裏兩層意思。",
+        "pdfPage": 244,
+        "printedPage": "附錄3",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "version": "2026-09-14"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "在特定語境中，使語句同時具有表面和內裏兩層意思。",
+      "misconception": "還須特定語境同時成立兩層意思",
+      "difficulty": "foundation",
+      "tags": [
+        "appendix",
+        "concept-definition"
+      ],
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "officialExamQuestion": false,
+        "scope": "依所供附錄逐列核對概念與物理頁；干擾項針對易混條件。定義辨析，不冒稱原文應用題或教師審核。",
+        "evidence": [
+          "雙關",
+          "在特定語境中，使語句同時具有表面和內裏兩層意思。\n語義雙關：利用一詞多義。\n諧音雙關：利用同音或近音。\n作用：含蓄、風趣，增添言外之意；必須寫出兩層意思。",
+          "「東邊日出西邊雨，道是無晴卻有晴。」（劉禹錫《竹枝詞》）「晴」雙關「情」：一層是天氣晴雨，一層是情感有無。"
+        ]
+      }
+    },
+    "baseQuestionHash": "38e14fa7b9abf2f8005fce79220409ab95c893f4b6b4bd57285ce20c6171acd3",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書｜手法附錄",
+          "section": "修辭｜對照與強調",
+          "jsonFile": "appendix-content.json",
+          "blockPath": "$appendix.sections[1].rows[4]",
+          "anchor": "在特定語境中，使語句同時具有表面和內裏兩層意思。",
+          "pdfPage": 244,
+          "printedPage": "附錄3",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14"
+        },
+        "block": [
+          "雙關",
+          "在特定語境中，使語句同時具有表面和內裏兩層意思。\n語義雙關：利用一詞多義。\n諧音雙關：利用同音或近音。\n作用：含蓄、風趣，增添言外之意；必須寫出兩層意思。",
+          "「東邊日出西邊雨，道是無晴卻有晴。」（劉禹錫《竹枝詞》）「晴」雙關「情」：一層是天氣晴雨，一層是情感有無。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "key-longest"
+    ]
+  },
+  {
+    "question": {
+      "id": "full-d-02-00",
+      "version": 1,
+      "memoryId": "m-full-d-02-00",
+      "essayIds": [],
+      "ability": "technique",
+      "quote": "設問",
+      "target": "",
+      "stem": "關於「設問」，哪項理解最準確？",
+      "choices": [
+        {
+          "text": "故意設置問題，引起注意、帶動思考；可自問自答、留待下文回答，也可提出問題而不予確定答案。",
+          "explanation": "故意設置問題，引起注意、帶動思考；可自問自答、留待下文回答，也可提出問題而不予確定答案。\n作用：引起注意、啟發思考、帶出下文或轉換層次。 「怎樣才能把一種勞作做到圓滿呢？惟一的祕訣就是忠實……」（梁啟超《敬業與樂業》）屬自問自答。",
+          "id": "a"
+        },
+        {
+          "text": "所有設問都必須立即自答",
+          "explanation": "設問也可留待下文或不給確定答案",
+          "id": "b"
+        },
+        {
+          "text": "凡問句一定是設問",
+          "explanation": "反問與真正詢問的功能不同",
+          "id": "c"
+        },
+        {
+          "text": "只是隱藏確定立場的問句",
+          "explanation": "這更接近反問，不是設問的必要條件",
+          "id": "d"
+        }
+      ],
+      "answerId": "a",
+      "explanation": "故意設置問題，引起注意、帶動思考；可自問自答、留待下文回答，也可提出問題而不予確定答案。\n作用：引起注意、啟發思考、帶出下文或轉換層次。\n例子或作用：「怎樣才能把一種勞作做到圓滿呢？惟一的祕訣就是忠實……」（梁啟超《敬業與樂業》）屬自問自答。",
+      "source": {
+        "title": "文言詩詞・十六篇復習書｜手法附錄",
+        "section": "修辭｜語氣與引述",
+        "jsonFile": "appendix-content.json",
+        "blockPath": "$appendix.sections[2].rows[0]",
+        "anchor": "故意設置問題，引起注意、帶動思考；可自問自答、留待下文回答，也可提出問題而不予確定答案。",
+        "pdfPage": 245,
+        "printedPage": "附錄4",
+        "pdfUrl": "/content/sources/revision-book.pdf",
+        "version": "2026-09-14"
+      },
+      "status": "reviewed",
+      "active": true,
+      "summary": "故意設置問題，引起注意、帶動思考；可自問自答、留待下文回答，也可提出問題而不予確定答案。",
+      "misconception": "設問也可留待下文或不給確定答案",
+      "difficulty": "foundation",
+      "tags": [
+        "appendix",
+        "concept-definition"
+      ],
+      "review": {
+        "method": "source-aligned-agent-review",
+        "date": "2026-09-19",
+        "officialExamQuestion": false,
+        "scope": "依所供附錄逐列核對概念與物理頁；干擾項針對易混條件。定義辨析，不冒稱原文應用題或教師審核。",
+        "evidence": [
+          "設問",
+          "故意設置問題，引起注意、帶動思考；可自問自答、留待下文回答，也可提出問題而不予確定答案。\n作用：引起注意、啟發思考、帶出下文或轉換層次。",
+          "「怎樣才能把一種勞作做到圓滿呢？惟一的祕訣就是忠實……」（梁啟超《敬業與樂業》）屬自問自答。"
+        ]
+      }
+    },
+    "baseQuestionHash": "58be1acc66acc303741fb3d3cc70a80dc4d66ff437a4aa00133a590959ee29d5",
+    "pilot": false,
+    "evidence": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書｜手法附錄",
+          "section": "修辭｜語氣與引述",
+          "jsonFile": "appendix-content.json",
+          "blockPath": "$appendix.sections[2].rows[0]",
+          "anchor": "故意設置問題，引起注意、帶動思考；可自問自答、留待下文回答，也可提出問題而不予確定答案。",
+          "pdfPage": 245,
+          "printedPage": "附錄4",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14"
+        },
+        "block": [
+          "設問",
+          "故意設置問題，引起注意、帶動思考；可自問自答、留待下文回答，也可提出問題而不予確定答案。\n作用：引起注意、啟發思考、帶出下文或轉換層次。",
+          "「怎樣才能把一種勞作做到圓滿呢？惟一的祕訣就是忠實……」（梁啟超《敬業與樂業》）屬自問自答。"
+        ]
+      }
+    ],
+    "priorAuthorReview": null,
+    "ruleSignals": [
+      "key-longest"
+    ]
+  }
+]

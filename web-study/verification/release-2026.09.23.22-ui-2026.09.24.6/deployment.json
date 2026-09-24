@@ -1,0 +1,15 @@
+{
+  "result": "deployed-and-verified",
+  "uiVersion": "2026.09.24.6",
+  "bankVersion": "2026.09.23.22",
+  "worker": "chinese-a-study",
+  "workerVersionId": "06bb875b-8130-4736-8186-f0e918b07819",
+  "url": "https://chinese-a-study.philipwwq.workers.dev",
+  "tests": 73,
+  "publishedAssetsMatched": 36,
+  "apiAndRangeChecks": 6,
+  "bankSha256": "4f3885fc61c78430eb790f4a2eb035d676c88296582cd5adc5947bfaec5feac5",
+  "databaseMigration": false,
+  "githubPush": false,
+  "resetCardConsumed": false
+}

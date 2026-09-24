@@ -135,12 +135,18 @@ h1{font-size:1.875rem}h2{font-size:1.25rem}
 .explanation .learning-point{padding:1rem;background:var(--soft);border-radius:10px;margin-bottom:1.2rem}
 .explanation .learning-point p{font-weight:600;margin-top:.4em}
 .explanation .learning-point .key-quote{font-size:1rem;font-weight:400;line-height:1.6;color:var(--muted);margin-top:.65rem}
-.explanation .selected-explanation{border-left:3px solid var(--green);padding:.8rem 1rem;margin:1.2rem 0;background:#f5f7f1}
+.explanation .selected-explanation{border-left:1px solid var(--green);padding:.8rem 1rem;margin:1.2rem 0;background:#f5f7f1}
 .explanation .selected-answer{font-weight:500;margin:.4em 0}
 .explanation .choice-review{padding:.8rem 0;border-bottom:1px solid var(--line)}
 .explanation .choice-review-title{font-weight:600;overflow-wrap:anywhere}
 .explanation details{margin-top:1rem}
 .explanation .answer-reason{border-top:1px solid var(--line);padding-top:.85rem}
+.explanation .annotated-paragraph{display:grid;grid-template-columns:4.4rem minmax(0,1fr);gap:.65rem;align-items:baseline;margin:1em 0;max-width:70ch}
+.explanation .annotation-label{font-size:.75rem;font-weight:600;line-height:1.6;color:var(--green);white-space:nowrap}
+.explanation .annotated-copy{font-weight:400;white-space:pre-wrap}
+.explanation .explanation-highlight{background:#f8e8ab;color:var(--ink);font-weight:650;padding:.05em .1em;border-radius:2px;box-decoration-break:clone;-webkit-box-decoration-break:clone}
+.explanation .explanation-evidence{text-decoration-color:#617d62;text-decoration-thickness:2px;text-underline-offset:.22em;font-weight:500}
+@media(max-width:600px){.explanation .annotated-paragraph{display:block}.explanation .annotation-label{display:inline;margin-right:.65em;vertical-align:baseline}.explanation .annotated-copy{display:inline}}
 
 /* Persistent daily training settings */
 .training-types{display:grid;gap:.65rem;padding:1rem;border-top:1px solid var(--line,#ddd)}
@@ -153,3 +159,31 @@ h1{font-size:1.875rem}h2{font-size:1.25rem}
 #training-form .check-row{display:flex;gap:.6rem;align-items:flex-start}
 
 .training-scope{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+
+.save-error{position:sticky;top:0;z-index:12;padding:16px;background:#fff0e3;border:2px solid #a44e20;border-radius:10px;color:#642d15}.save-error[hidden]{display:none}.save-error p{margin:8px 0}
+
+@media(max-width:900px){
+ .topbar .status-line{display:block;flex:1 1 100%;font-size:.75rem;line-height:1.5;overflow-wrap:anywhere;color:var(--green)}
+ .top-actions{flex:1 1 100%;display:flex;justify-content:space-between;align-items:center;flex-wrap:nowrap}
+ .top-actions .status-line{min-width:0;flex:1 1 auto}.top-actions button{flex:none}
+}
+
+.training-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:16px 0}
+.training-grid .library-card{padding:0;overflow:hidden}.training-grid .library-card>label{padding:14px;min-height:76px;gap:12px}
+.training-grid .library-card h3{font-size:1rem}.training-grid .library-card p{font-size:.75rem;margin-top:4px}
+.training-type-details[hidden]{display:none}.training-type-details summary{padding:10px 14px;min-height:44px;font-size:.8125rem;cursor:pointer;border-top:1px solid var(--line)}
+.training-types label{min-height:44px}.training-save-bar{position:sticky;bottom:0;z-index:5;background:var(--paper);border-top:1px solid var(--line);padding:14px 0;margin-top:20px}
+.training-save-bar p{font-weight:600;font-size:.875rem}.training-save-bar .toolbar{margin:8px 0 0}
+.training-scope{display:block;-webkit-line-clamp:unset;overflow:visible;max-width:none}.training-scope summary{min-height:44px;padding:10px 0;cursor:pointer}.training-scope li{margin:8px 0}
+@media(max-width:900px){.training-save-bar{bottom:calc(88px + env(safe-area-inset-bottom))}}
+@media(max-width:560px){.training-grid{grid-template-columns:1fr}.training-save-bar .btn{padding:10px 14px}.training-save-bar{padding:10px 0}}
+
+.weakness-mobile{display:none}.weakness-desktop td button>span{display:block}
+summary:focus-visible{outline:3px solid #b78830;outline-offset:3px}
+@media(max-width:700px){
+ .weakness-desktop{display:none}.weakness-mobile{display:grid;gap:12px}
+ .weakness-card{border:1px solid var(--line);border-radius:12px;background:white;min-width:0}
+ .weakness-card summary{padding:16px;min-height:64px;cursor:pointer}.weakness-card summary strong{font-size:1rem;overflow-wrap:anywhere}.weakness-card summary>span{display:block;margin-top:6px;color:var(--muted);font-size:.8125rem}
+ .weakness-cells{display:grid;gap:8px;padding:0 12px 12px}.weakness-cells button{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr);gap:4px 12px;text-align:left;padding:12px;border:1px solid var(--line);border-radius:9px;background:var(--paper);min-height:72px;overflow-wrap:anywhere}
+ .weakness-cells button.weak{background:#fbf0dc}.weakness-cells small{grid-column:2}.weakness-cells span{font-size:.875rem}
+}

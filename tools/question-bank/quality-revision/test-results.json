@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-23",
+  "bankVersion": "2026.09.23.2",
+  "initialRuns": [
+    {
+      "status": "fulfilled",
+      "value": {
+        "name": "app",
+        "chunk_id": "dc00b9",
+        "wall_time_seconds": 0.7229064,
+        "exit_code": 0,
+        "original_token_count": 1148,
+        "output": "✔ real sync drains more than one ID-ordered batch, acknowledges retries, and keeps switched accounts isolated (244.4054ms)\n✔ server correction is saved by sync and frontend projection repairs effective result without changing historical snapshot (162.2893ms)\n✔ invitation registration, independent accounts, recovery invalidates old sessions and recovery code (320.404ms)\n✔ sync is account isolated and idempotent, and reserves Hong Kong first submission before typing assessment (201.7813ms)\n✔ reports are private, admin can revise content without rewriting attempts, and no private server files are served (509.1287ms)\n✔ explicit score correction is isolated, leaves the original answer intact, and is shown in first observations (264.3037ms)\n✔ Chinese usernames work and punctuation is rejected (71.6351ms)\n✔ offline batches accept assessment before its attempt and equal submission times have deterministic first IDs (68.8576ms)\n✔ source PDFs support byte ranges and private backend files remain outside static roots (52.9485ms)\n✔ server migration preserves identities and payloads without importing sessions or invite secrets (4.0124ms)\n✔ invalid snapshot rolls back every table and existing cloud data cannot be overwritten (1.0976ms)\n✔ existing cross-essay word questions enter the pool only when both related essays are selected (16.3202ms)\n✔ confusable reading content becomes distinct, answerable cross-essay questions in normal practice (17.0397ms)\n✔ eligible word comparisons reach actual practice and still obey ability, subset and wrong-only filters (16.7434ms)\n✔ all released cross-essay questions require every related essay, including three-essay comparisons (25.525ms)\n✔ administrator answer descriptions use the attempt snapshot display label and text (1.2839ms)\n✔ saved shuffled options display matching letters without changing the answer ID (1.178ms)\n✔ feedback explains selected distractor before other choices without leaking before submission (0.3531ms)\n✔ unknown, correct and typing answers never infer a selected misconception (0.3222ms)\n✔ feedback escapes content and does not mutate legacy snapshots (1.1568ms)\n✔ global font scale supports saved legacy values and falls back for invalid preferences (0.1821ms)\n✔ answer rendering retains source data without exposing PDF or version metadata (0.3117ms)\n✔ choice-specific tasks remain four-option questions in a mixed session (0.1734ms)\n✔ legacy session snapshots and submitted typing attempts retain original mode (0.1736ms)\n✔ questions with in-stem evidence do not show an empty source panel (0.5556ms)\n✔ saved and quick-review views retain context for questions without a separate quote (0.547ms)\n✔ new queues shuffle display positions while keeping logical keys and saved order (3.7585ms)\n✔ source holds exclude new practice and quick cards without altering saved questions or memories (2.0075ms)\n✔ reviewed sibling questions do not reveal each other within a new queue (11.4239ms)\n✔ balanced queue distributes 7/7/6 with stable rotation and no variants or unselected essays (0.9023ms)\n✔ wrong-only never fills with unseen questions and cross-essay needs every selected essay (0.5733ms)\n✔ quick review cache invalidates for ability, appendix and personal scope changes (0.3507ms)\n✔ standalone appendix concepts respect opt-in and enter balanced or appendix-only practice (0.4191ms)\n✔ first correct remains the observation after same-day mistakes and retries (2.908ms)\n✔ wrong then same-day correct completes reminder without moving next day review (0.3182ms)\n✔ Hong Kong midnight and early practice do not shift an existing review (1.1137ms)\n✔ typing reserves submission day and delayed self-check cannot overwrite a newer first (0.3406ms)\n✔ same-millisecond session writes restore the highest revision rather than random UUID order (13.5279ms)\n✔ due intervals extend to the approved 90-day cap and a lapse resets to tomorrow (0.6466ms)\n✔ a new pending typing first keeps the previous valid wrong observation and schedule (0.1702ms)\n✔ a new pending typing first keeps previous valid correct status and interval (0.1706ms)\n✔ backup cannot cross account boundary and duplicates are merged by stable event id (1.4585ms)\n✔ pending typing is visibly pending, never an incorrect answer or wrong-only question (3.5203ms)\n✔ quick-review browse events never generate first observations or change schedules (0.253ms)\nℹ tests 44\nℹ suites 0\nℹ pass 44\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 1670.2839\n"
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "name": "quality-merge",
+        "chunk_id": "5dc1ee",
+        "wall_time_seconds": 0.0000294,
+        "exit_code": 0,
+        "original_token_count": 28,
+        "output": "........\r\n----------------------------------------------------------------------\r\nRan 8 tests in 0.100s\r\n\r\nOK\r\n"
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "name": "legacy-merge",
+        "chunk_id": "3e9442",
+        "wall_time_seconds": 0.0000166,
+        "exit_code": 0,
+        "original_token_count": 28,
+        "output": ".......\r\n----------------------------------------------------------------------\r\nRan 7 tests in 0.045s\r\n\r\nOK\r\n"
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "name": "cross-essay",
+        "chunk_id": "8d3fc8",
+        "wall_time_seconds": 4.577437,
+        "exit_code": 1,
+        "original_token_count": 297,
+        "output": "F..\r\n======================================================================\r\nFAIL: test_preserves_original_questions_and_cards_and_rebuilds_idempotently (test_build_questions.ConfusableBuildTest.test_preserves_original_questions_and_cards_and_rebuilds_idempotently)\r\n----------------------------------------------------------------------\r\nTraceback (most recent call last):\r\n  File \"D:\\wenyan_checkin\\tools\\question-bank\\confusable\\test_build_questions.py\", line 19, in test_preserves_original_questions_and_cards_and_rebuilds_idempotently\r\n    self.assertEqual(questions, self.bank['questions'])\r\nAssertionError: Lists differ: [{'id[4211233 chars]on': 1, 'memoryId': 'confusable-gui-lunyu-yuey[12566 chars]}]}}] != [{'id[4211233 chars]on': 2, 'memoryId': 'confusable-gui-lunyu-yuey[12816 chars]'}]}]\r\n\r\nFirst differing element 2131:\r\n{'id'[40 chars]on': 1, 'memoryId': 'confusable-gui-lunyu-yuey[4286 chars]'}]}}\r\n{'id'[40 chars]on': 2, 'memoryId': 'confusable-gui-lunyu-yuey[4282 chars]n'}]}\r\n\r\nDiff is 6400610 characters long. Set self.maxDiff to None to see it.\r\n\r\n----------------------------------------------------------------------\r\nRan 3 tests in 4.348s\r\n\r\nFAILED (failures=1)\r\n"
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "name": "bank",
+        "chunk_id": "f28095",
+        "wall_time_seconds": 0.3979657,
+        "exit_code": 0,
+        "original_token_count": 843,
+        "output": "Warning: truncated output (original token count: 843)\nTotal output lines: 1\n\n{\"result\": \"PASS\", \"questions\": 2134, \"memoryUnits\": 2084, \"comparisons\": 11, \"coverage\": [{\"id\": \"essay-01\", \"title\": \"論仁、論孝、論君子\", \"kind\": \"prose\", \"questions\": 266, \"abilityCounts\": {\"vocabulary\": 112, \"theme\": 53, \"meaning\": 73, \"technique\": 28}, \"missingDimensions\": []}, {\"id\": \"essay-02\", \"title\": \"魚我所欲也\", \"kind\": \"prose\", \"questions\": 74, \"abilityCounts\": {\"vocabu…643 tokens truncated…\", \"questions\": 86, \"abilityCounts\": {\"vocabulary\": 18, \"meaning\": 25, \"theme\": 26, \"technique\": 17}, \"missingDimensions\": []}], \"errors\": [], \"scope\": \"題庫結構、選項唯一性、來源區塊和物理頁錨點逐題檢查；內容為依提供復習書編寫之練習，非官方真題或全書學術終核。\", \"pdfSha256\": \"bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa\"}\r\n"
+      }
+    }
+  ],
+  "crossEssayRerun": {
+    "exitCode": 0,
+    "tests": 4,
+    "toolChunkId": "467424",
+    "reason": "Test the immutable pre-quality generation stage, then separately verify the quality layer reproduces the live bank."
+  },
+  "finalAppTests": 44,
+  "finalPythonTests": 19,
+  "browserVisualValidation": "not-run",
+  "teacherValidation": "not-run",
+  "studentTrial": "not-run",
+  "deployment": "not-run"
+}

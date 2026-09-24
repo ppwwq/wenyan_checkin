@@ -1,0 +1,61 @@
+{
+  "result": "PASS",
+  "baseline": false,
+  "checks": [
+    {
+      "id": "full-a-e03-p03-b00-v03",
+      "width": 768,
+      "noOverflow": true,
+      "originalTextVerified": true
+    },
+    {
+      "id": "full-a-e03-p10-b01-x005",
+      "width": 768,
+      "noOverflow": true,
+      "originalTextVerified": true
+    },
+    {
+      "id": "full-c-01-28-01-80",
+      "width": 768,
+      "noOverflow": true,
+      "originalTextVerified": true
+    },
+    {
+      "id": "full-d-03-01",
+      "width": 768,
+      "noOverflow": true,
+      "originalTextVerified": true
+    },
+    {
+      "id": "full-a-e03-p03-b00-v03",
+      "width": 390,
+      "noOverflow": true,
+      "originalTextVerified": true
+    },
+    {
+      "id": "full-a-e03-p10-b01-x005",
+      "width": 390,
+      "noOverflow": true,
+      "originalTextVerified": true
+    },
+    {
+      "id": "full-c-01-28-01-80",
+      "width": 390,
+      "noOverflow": true,
+      "originalTextVerified": true
+    },
+    {
+      "id": "full-d-03-01",
+      "width": 390,
+      "noOverflow": true,
+      "originalTextVerified": true
+    },
+    {
+      "checked": 10671,
+      "originalTextPreserved": true,
+      "noInjectedMarkup": true,
+      "noEmptyRows": true
+    }
+  ],
+  "scope": "Local feedback rendering; no account or publication."
+}

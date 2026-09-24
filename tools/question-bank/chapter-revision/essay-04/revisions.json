@@ -1,0 +1,3406 @@
+{
+  "baselineVersion": "2026.09.23.9",
+  "date": "2026-09-23",
+  "author": "Codex chapter author",
+  "reviewMethod": "source-review-and-author-self-check",
+  "records": [
+    {
+      "id": "q-e04-exp-001",
+      "ordinal": 1,
+      "baseQuestionHash": "a333a58fdc696e7a976bd0df5691092f34dd2f7e5c782bc5d421eefb309c1852",
+      "patch": {
+        "explanation": "貽是贈送，魏王是送的人，我是接受者，大瓠之種是所送的物品。三個角色接起來，便是魏王把葫蘆種子送給惠子。這裏沒有遺失或遺留的情節，不能因貽與遺形近便混用。",
+        "summary": "貽是贈送，魏王是送的人，我是接受者，大瓠之種是所送的物品。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "遺留",
+            "explanation": "遺留指留下，原句有明確贈予者和接受者。"
+          },
+          {
+            "id": "b",
+            "text": "遺失",
+            "explanation": "遺失指弄丟，惠子後來種下種子，並未說種子失去。"
+          },
+          {
+            "id": "c",
+            "text": "招致",
+            "explanation": "招致常接禍患等結果，本句交代物品轉交。"
+          },
+          {
+            "id": "d",
+            "text": "贈送",
+            "explanation": "貽是贈送，魏王是送的人，我是接受者，大瓠之種是所送的物品。"
+          }
+        ],
+        "misconception": "遺留指留下，原句有明確贈予者和接受者；遺失指弄丟，惠子後來種下種子，並未說種子失去；招致常接禍患等結果，本句交代物品轉交。"
+      },
+      "objective": "按上下文理解，這裏「貽」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e04-exp-002",
+      "ordinal": 2,
+      "baseQuestionHash": "2511b4887f96b36d4f7853ad98487aebca4a14d36102aa485f0f136c8acb06b4",
+      "patch": {
+        "explanation": "樹在我樹之中是種植，之代剛獲贈的葫蘆種子，成而實再交代長成和結實。它在我之後表示我做的動作，不是樹木這個名稱。同篇吾有大樹的樹才作名詞，須隨搭配分辨。",
+        "summary": "樹在我樹之中是種植，之代剛獲贈的葫蘆種子，成而實再交代長成和結實。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "豎立",
+            "explanation": "豎立多指使物件直立，種子長成結實應解栽種。"
+          },
+          {
+            "id": "b",
+            "text": "培養",
+            "explanation": "培養太泛，之明指植物種子，這裏是具體種植。"
+          },
+          {
+            "id": "c",
+            "text": "種植",
+            "explanation": "樹在我樹之中是種植，之代剛獲贈的葫蘆種子，成而實再交代長成和結實。"
+          },
+          {
+            "id": "d",
+            "text": "樹木",
+            "explanation": "若作樹木，便缺少我對種子作甚麼的動詞。"
+          }
+        ],
+        "misconception": "豎立多指使物件直立，種子長成結實應解栽種；培養太泛，之明指植物種子，這裏是具體種植；若作樹木，便缺少我對種子作甚麼的動詞。"
+      },
+      "objective": "按上下文理解，這裏「樹」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e04-exp-003",
+      "ordinal": 3,
+      "baseQuestionHash": "f6d10ce91981087bd10ef59891dfecf986b72624204941b3ebb391a6dc6d13bb",
+      "patch": {
+        "explanation": "掊是擊破，惠子認為葫蘆無用，最後把它打碎。先前剖之以為瓢是嘗試利用，掊之則是放棄後毀棄，兩步目的不同。辨清先試用、後擊破，才看得出他因用途受限便否定整件東西的價值。",
+        "summary": "掊是擊破，惠子認為葫蘆無用，最後把它打碎。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "挖掘",
+            "explanation": "挖掘是取土成穴，並非毀棄葫蘆的動作。"
+          },
+          {
+            "id": "b",
+            "text": "擊破",
+            "explanation": "掊是擊破，惠子認為葫蘆無用，最後把它打碎。"
+          },
+          {
+            "id": "c",
+            "text": "搜取",
+            "explanation": "搜取是尋找獲取，與眼前已有大瓠而毀掉不符。"
+          },
+          {
+            "id": "d",
+            "text": "剖開",
+            "explanation": "剖開是前一步想製瓢，掊則在認定無用後擊碎。"
+          }
+        ],
+        "misconception": "挖掘是取土成穴，並非毀棄葫蘆的動作；搜取是尋找獲取，與眼前已有大瓠而毀掉不符；剖開是前一步想製瓢，掊則在認定無用後擊碎。"
+      },
+      "objective": "按上下文理解，這裏「掊」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e04-exp-004",
+      "ordinal": 4,
+      "baseQuestionHash": "fe51ec6229535f05fc0ec121ed5c6cecafe8025a306d9f321fc038a3116ae72d",
+      "patch": {
+        "explanation": "鬻是賣，宋人商量把防皸藥方交給客人，換取百金。客請買、宋人鬻，正是同一交易的買賣兩面，不能交換主體。百金也表明有價交換，不是白送或收藏不用。",
+        "summary": "鬻是賣，宋人商量把防皸藥方交給客人，換取百金。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "賣",
+            "explanation": "鬻是賣，宋人商量把防皸藥方交给客人，換取百金。"
+          },
+          {
+            "id": "b",
+            "text": "買",
+            "explanation": "買是客人的行動，說鬻技的是持有藥方的宋人。"
+          },
+          {
+            "id": "c",
+            "text": "贈",
+            "explanation": "贈通常不取代價，原句明說鬻技百金。"
+          },
+          {
+            "id": "d",
+            "text": "藏",
+            "explanation": "藏是留下不交出，請與之卻表示同意給客人。"
+          }
+        ],
+        "misconception": "買是客人的行動，說鬻技的是持有藥方的宋人；贈通常不取代價，原句明說鬻技百金；藏是留下不交出，請與之卻表示同意給客人。"
+      },
+      "objective": "按上下文理解，這裏「鬻」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e04-exp-005",
+      "ordinal": 5,
+      "baseQuestionHash": "73eace90b626156d0acce50af7f11ffcef16990704155935b69e1eff5c8e6e87",
+      "patch": {
+        "explanation": "本在其大本中指樹幹，與下一句其小枝分寫幹、枝，說兩者都不合木工尺度。擁腫形容幹上粗大多瘤，不能把本解成抽象根本。利用並列的部位對應，比只記本有根義更可靠。",
+        "summary": "本在其大本中指樹幹，與下一句其小枝分寫幹、枝，說兩者都不合木工尺度。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "樹根",
+            "explanation": "根雖是本的常見古義，此處與小枝相對並寫多瘤的樹幹。"
+          },
+          {
+            "id": "b",
+            "text": "根本",
+            "explanation": "根本是抽象基礎，這裏說可按繩墨量度的部位。"
+          },
+          {
+            "id": "c",
+            "text": "本來",
+            "explanation": "本來作副詞，不能受大修飾並承擁腫的描寫。"
+          },
+          {
+            "id": "d",
+            "text": "樹幹",
+            "explanation": "本在其大本中指樹幹，與下一句其小枝分寫幹、枝，說兩者都不合木工尺度。"
+          }
+        ],
+        "misconception": "根雖是本的常見古義，此處與小枝相對並寫多瘤的樹幹；根本是抽象基礎，這裏說可按繩墨量度的部位；本來作副詞，不能受大修飾並承擁腫的描寫。"
+      },
+      "objective": "按上下文理解，這裏「本」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e04-exp-006",
+      "ordinal": 6,
+      "baseQuestionHash": "6c743dcd5f0fb225c0ad95e3dff1ce8ae485b23285df40a25dc7017356dbc910",
+      "patch": {
+        "explanation": "能不龜手一也先固定藥效相同，所用之異再把不同成果歸於用法：宋人用來漂絮，客人用於冬季水戰。比較的要點是同一條件可因使用場合而發揮不同價值，並未說客人先改良配方。",
+        "summary": "能不龜手一也先固定藥效相同，所用之異再把不同成果歸於用法：宋人用來漂絮，客人用於冬季水戰。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "藥方的防皸功效不同",
+            "explanation": "一也已說防皸效果相同，不能把差別歸於藥效。"
+          },
+          {
+            "id": "b",
+            "text": "家族製藥的傳承年數不同",
+            "explanation": "世世只是宋人職業背景，結語明歸因於用法不同。"
+          },
+          {
+            "id": "c",
+            "text": "使用的場合和方法不同",
+            "explanation": "能不龜手一也先固定藥效相同，所用之異再把不同成果歸於用法：宋人用來漂絮，客人用於冬季水戰。"
+          },
+          {
+            "id": "d",
+            "text": "買方與賣方所付的金額不同",
+            "explanation": "百金是買方付給賣方的一筆交易，不是兩種成效的原因。"
+          }
+        ],
+        "misconception": "一也已說防皸效果相同，不能把差別歸於藥效；世世只是宋人職業背景，結語明歸因於用法不同；百金是買方付給賣方的一筆交易，不是兩種成效的原因。"
+      },
+      "objective": "同一藥方帶來不同結果，莊子把差別歸於哪裏？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e04-exp-007",
+      "ordinal": 7,
+      "baseQuestionHash": "6ce3a507a8f8ba638152d5428f3590e241d45b7f9580b88daf488133fd4c6df5",
+      "patch": {
+        "explanation": "大樹不合木材用途，便不會因被取材而遭斧砍，人還可在樹下自在休息。莊子保留惠子所說的不材，卻改換衡量尺度，將免害和自在看成價值。這一步不必把樹修成好木材，正是無用之用。",
+        "summary": "大樹不合木材用途，便不會因被取材而遭斧砍，人還可在樹下自在休息。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "不合木材用途，反可加工成更名貴的器具",
+            "explanation": "製成貴重器具仍按木材功利尺度，原文建議是免斧害。"
+          },
+          {
+            "id": "b",
+            "text": "不合木材用途，反可免遭砍伐並供人自在休息",
+            "explanation": "大樹不合木材用途，便不會因被取材而遭斧砍，人還可在樹下自在休息。"
+          },
+          {
+            "id": "c",
+            "text": "無人願意購買，反可等待樹木逐漸長得筆直",
+            "explanation": "原文沒有等待長直，而是接納既有形態。"
+          },
+          {
+            "id": "d",
+            "text": "無人懂得欣賞，反可顯示惠子已超越眾人",
+            "explanation": "超越常見尺度的是莊子的回應，惠子仍在憂無用。"
+          }
+        ],
+        "misconception": "製成貴重器具仍按木材功利尺度，原文建議是免斧害；原文沒有等待長直，而是接納既有形態；超越常見尺度的是莊子的回應，惠子仍在憂無用。"
+      },
+      "objective": "莊子怎樣把惠子眼中的缺點轉為可取之處？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e04-exp-008",
+      "ordinal": 8,
+      "baseQuestionHash": "c237d64e6e5df54ad6e97089dde977fd2aaf5686e7288f3782d26a7a6373f440",
+      "patch": {
+        "explanation": "犛牛形體巨大卻不能捕鼠，說明有一方面的特點，不等於具備每一種本領。它與狸狌的捕獵能力對照，提醒讀者用途須配合事物特性。不能倒推大就毫無價值，也不能因狸狌能捕鼠便忽略其死於機網。",
+        "summary": "犛牛形體巨大卻不能捕鼠，說明有一方面的特點，不等於具備每一種本領。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "特長與用途須相配，不能拿單一能力衡量一物",
+            "explanation": "犛牛形體巨大卻不能捕鼠，說明有一方面的特點，不等於具備每一種本領。"
+          },
+          {
+            "id": "b",
+            "text": "形體越大能力越多，斄牛理應勝過狸狌捕鼠",
+            "explanation": "大與不能執鼠正形成反差，大小不保證捕鼠能力。"
+          },
+          {
+            "id": "c",
+            "text": "能捕鼠便能避免危險，狸狌因此勝過斄牛",
+            "explanation": "狸狌仍死於機網，能捕鼠不保證安全。"
+          },
+          {
+            "id": "d",
+            "text": "形體越大越無價值，斄牛證明大物應被捨棄",
+            "explanation": "不能捕鼠只是一項能力限制，不能概括為全無價值。"
+          }
+        ],
+        "misconception": "大與不能執鼠正形成反差，大小不保證捕鼠能力；狸狌仍死於機網，能捕鼠不保證安全；不能捕鼠只是一項能力限制，不能概括為全無價值。"
+      },
+      "objective": "「大」與「不能執鼠」並置，最能支持哪項理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p01-b00-v01",
+      "ordinal": 9,
+      "baseQuestionHash": "2b046dbfd5b0fdceecb3f57e71421caa8a1b7aaf380e858c7cafcde7233534de",
+      "patch": {
+        "explanation": "瓠是葫蘆，大瓠之種就是大葫蘆的種子，種下後才長成果實。瓜瓢是後來剖開所製的器物，不能提前當成植物名稱。把種子、果實和製成品按先後分開，便能辨清此處的名物。",
+        "summary": "瓠是葫蘆，大瓠之種就是大葫蘆的種子，種下後才長成果實。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "葫蘆",
+            "explanation": "瓠是葫蘆，大瓠之種就是大葫蘆的種子，種下後才長成果實。"
+          },
+          {
+            "id": "b",
+            "text": "瓜瓢",
+            "explanation": "瓜瓢是加工後的用途，瓠在此先指葫蘆。"
+          },
+          {
+            "id": "c",
+            "text": "藤蔓",
+            "explanation": "藤蔓是植物的一部分，不能替代結出的大葫蘆。"
+          },
+          {
+            "id": "d",
+            "text": "水桶",
+            "explanation": "水桶是器具，原句先交代有種子可種的植物。"
+          }
+        ],
+        "misconception": "瓜瓢是加工後的用途，瓠在此先指葫蘆；藤蔓是植物的一部分，不能替代結出的大葫蘆；水桶是器具，原句先交代有種子可種的植物。"
+      },
+      "objective": "按上下文理解，這裏「瓠」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p01-b00-v03",
+      "ordinal": 10,
+      "baseQuestionHash": "586f3ed302c4a4ccaa9ebd84d52f883c4359eecc15e3f8d09eecd62629aa4c58",
+      "patch": {
+        "explanation": "依逐句注釋，實指結果實，樹之成而實五石說種成後結出的葫蘆容量達五石。此處也可從果實理解名物，重點是種植所得及其容量。不能把實套成堅實，因下文恰說它承水時不夠堅固。",
+        "summary": "依逐句注釋，實指結果實，樹之成而實五石說種成後結出的葫蘆容量達五石。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "充實",
+            "explanation": "充實是填滿或豐富，沒有交代種植後結實的過程。"
+          },
+          {
+            "id": "b",
+            "text": "堅實",
+            "explanation": "堅實說質地，下文其堅不能自舉並不支持硬實。"
+          },
+          {
+            "id": "c",
+            "text": "證實",
+            "explanation": "證實是查驗真偽，本句在敘述植物生長結果。"
+          },
+          {
+            "id": "d",
+            "text": "結果實",
+            "explanation": "依逐句注釋，實指結果實，樹之成而實五石說種成後結出的葫蘆容量達五石。"
+          }
+        ],
+        "misconception": "充實是填滿或豐富，沒有交代種植後結實的過程；堅實說質地，下文其堅不能自舉並不支持硬實；證實是查驗真偽，本句在敘述植物生長結果。"
+      },
+      "objective": "按上下文理解，這裏「實」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p01-b00-v04",
+      "ordinal": 11,
+      "baseQuestionHash": "f5594b886f456d499a25ee6a10fc31f1d6784e2fa24e20f816289a060327f8e1",
+      "patch": {
+        "explanation": "五石在這裏計量葫蘆容量，突出其體積巨大；後面盛水與作瓢都沿容器用途展開。它不是五個葫蘆，也不是果實本身重量。容量大與殼能否承受水重是兩件事，正構成惠子試用時的難題。",
+        "summary": "五石在這裏計量葫蘆容量，突出其體積巨大；後面盛水與作瓢都沿容器用途展開。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "大瓠本身重達五石",
+            "explanation": "重量與容量不同，本書按可容多少解五石。"
+          },
+          {
+            "id": "b",
+            "text": "一株結出五個大瓠",
+            "explanation": "石是容量單位，不是數葫蘆個數的量詞。"
+          },
+          {
+            "id": "c",
+            "text": "大瓠容量達五石",
+            "explanation": "五石在這裏計量葫蘆容量，突出其體積巨大；後面盛水與作瓢都沿容器用途展開。"
+          },
+          {
+            "id": "d",
+            "text": "葫蘆可賣得五石糧食",
+            "explanation": "五石描述容量，原句沒有拿葫蘆交換糧食的交易。"
+          }
+        ],
+        "misconception": "重量與容量不同，本書按可容多少解五石；石是容量單位，不是數葫蘆個數的量詞；五石描述容量，原句沒有拿葫蘆交換糧食的交易。"
+      },
+      "objective": "按上下文理解，這裏「五石」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e04-p01-b00-v05",
+      "ordinal": 12,
+      "baseQuestionHash": "309f0a20327a57908003c6cb987ec2429cf0cf823dc88d84f557e3b7f44de9d0",
+      "patch": {
+        "explanation": "自舉要連其堅和盛水讀，指葫蘆自身能承住盛水的重量而被提起；不能自舉就是殼的強度不足。不是葫蘆自己伸手舉起自己，更不是水不能流出。先分盛載能力與殼的承重，才能理解惠子為何再試剖瓢。",
+        "summary": "自舉要連其堅和盛水讀，指葫蘆自身能承住盛水的重量而被提起；不能自舉就是殼的強度不足。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "自行生長到五石大小",
+            "explanation": "生長到多大由實五石交代，自舉談盛水後承重。"
+          },
+          {
+            "id": "b",
+            "text": "自身承住盛水重量而被提起",
+            "explanation": "自舉要連其堅和盛水讀，指葫蘆自身能承住盛水的重量而被提起；不能自舉就是殼的強度不足。"
+          },
+          {
+            "id": "c",
+            "text": "把水從葫蘆內舀起",
+            "explanation": "舀水是下一步製瓢的用途，這裏尚在試整個葫蘆盛水。"
+          },
+          {
+            "id": "d",
+            "text": "把空葫蘆懸起以晾乾",
+            "explanation": "晾乾空殼避開了原句盛水後承重不足的條件，自舉並非晾曬工序。"
+          }
+        ],
+        "misconception": "生長到多大由實五石交代，自舉談盛水後承重；舀水是下一步製瓢的用途，這裏尚在試整個葫蘆盛水；晾乾空殼避開了原句盛水後承重不足的條件，自舉並非晾曬工序。"
+      },
+      "objective": "按上下文理解，這裏「自舉」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e04-p01-b00-v07",
+      "ordinal": 13,
+      "baseQuestionHash": "54306e17edcdadd650e4b6f34bff592dca94d154d4b4e9d3a6e610b7ae38b254",
+      "patch": {
+        "explanation": "呺然形容虛空而巨大的樣子，與大連用；非不又以雙重否定承認葫蘆確實很大。惠子否定的是通常用途，並未否定體積。不能只取空字而漏掉大，也不能把呺按聲旁猜成叫聲宏亮。",
+        "summary": "呺然形容虛空而巨大的樣子，與大連用；非不又以雙重否定承認葫蘆確實很大。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "空大貌",
+            "explanation": "呺然形容虛空而巨大的樣子，與大連用；非不又以雙重否定承認葫蘆確實很大。"
+          },
+          {
+            "id": "b",
+            "text": "空虛無物",
+            "explanation": "空虛無物只說內容，漏了形體巨大這個重點。"
+          },
+          {
+            "id": "c",
+            "text": "聲音宏大",
+            "explanation": "聲音宏大與盛水、作瓢的形體描寫無關。"
+          },
+          {
+            "id": "d",
+            "text": "形狀圓整",
+            "explanation": "圓整是形狀規整，呺然並未保證適合作器。"
+          }
+        ],
+        "misconception": "空虛無物只說內容，漏了形體巨大這個重點；聲音宏大與盛水、作瓢的形體描寫無關；圓整是形狀規整，呺然並未保證適合作器。"
+      },
+      "objective": "按上下文理解，這裏「呺然」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p01-b00-v09",
+      "ordinal": 14,
+      "baseQuestionHash": "0996aa978060402558f0be50d3834d115941c6b8fae7dcc02a45f6db6cf6bab7",
+      "patch": {
+        "explanation": "固在固拙於用大中是實在、確實，加強莊子對惠子不善用大的判斷。它修飾拙，不是再描述葫蘆外殼堅固，也不是說惠子堅持某事。辨義先看固落在哪個判斷前，而非被前文其堅帶走。",
+        "summary": "固在固拙於用大中是實在、確實，加強莊子對惠子不善用大的判斷。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "堅固",
+            "explanation": "堅固形容物體，本句固修飾對惠子能力的判斷。"
+          },
+          {
+            "id": "b",
+            "text": "堅持",
+            "explanation": "堅持是行動，這裏並沒有固所支配的主張或目標。"
+          },
+          {
+            "id": "c",
+            "text": "鄙陋",
+            "explanation": "鄙陋可與人物評價相關，但不等於固的加強語氣。"
+          },
+          {
+            "id": "d",
+            "text": "實在、本來",
+            "explanation": "固在固拙於用大中是實在、確實，加強莊子對惠子不善用大的判斷。"
+          }
+        ],
+        "misconception": "堅固形容物體，本句固修飾對惠子能力的判斷；堅持是行動，這裏並沒有固所支配的主張或目標；鄙陋可與人物評價相關，但不等於固的加強語氣。"
+      },
+      "objective": "按上下文理解，這裏「固」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p01-b00-v10",
+      "ordinal": 15,
+      "baseQuestionHash": "737c12b056198d7d40993371610edac7cc4d5b1e0953099327264f0dc83e64b1",
+      "patch": {
+        "explanation": "拙於用大是不善使用大的事物，批評惠子只試通常用途，未想到利用巨大的特點。下文腰舟建議正補上另一用法。這是方法和觀念受限，不等於不肯使用、時間不足或只是不習慣。",
+        "summary": "拙於用大是不善使用大的事物，批評惠子只試通常用途，未想到利用巨大的特點。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "不願意",
+            "explanation": "不願是意願問題，惠子其實已試盛水和作瓢。"
+          },
+          {
+            "id": "b",
+            "text": "來不及",
+            "explanation": "來不及是時間限制，原文沒有趕不及使用的情節。"
+          },
+          {
+            "id": "c",
+            "text": "不善於",
+            "explanation": "拙於用大是不善使用大的事物，批評惠子只試通常用途，未想到利用巨大的特點。"
+          },
+          {
+            "id": "d",
+            "text": "不習慣",
+            "explanation": "不習慣不必等於方法拙劣，莊子批評的是未能轉換用法。"
+          }
+        ],
+        "misconception": "不願是意願問題，惠子其實已試盛水和作瓢；來不及是時間限制，原文沒有趕不及使用的情節；不習慣不必等於方法拙劣，莊子批評的是未能轉換用法。"
+      },
+      "objective": "按上下文理解，這裏「拙」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p01-b00-v11",
+      "ordinal": 16,
+      "baseQuestionHash": "21f0038bf58b07f9a610d5cdd11992b41f9b963acfb948cb9bf737b52f36a1ed",
+      "patch": {
+        "explanation": "龜通皸，說手部皮膚因寒冷而裂開，不龜手之藥就是防皸裂藥。漂絮要接觸水，冬季水戰也有受冷情況，這使同一藥效可移用。疲勞、僵硬與皸裂雖都可能影響手，卻不是這個字的準確意思。",
+        "summary": "龜通皸，說手部皮膚因寒冷而裂開，不龜手之藥就是防皸裂藥。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "手因長久勞作而疲乏",
+            "explanation": "疲乏說勞累，並未點出皮膚裂開。"
+          },
+          {
+            "id": "b",
+            "text": "手部皮膚因寒冷而裂開",
+            "explanation": "龜通皸，說手部皮膚因寒冷而裂開，不龜手之藥就是防皸裂藥。"
+          },
+          {
+            "id": "c",
+            "text": "手部皮膚變得粗厚有紋",
+            "explanation": "粗厚有紋不等於因寒冷皸裂，不能只按龜殼聯想。"
+          },
+          {
+            "id": "d",
+            "text": "手因寒冷僵硬而難活動",
+            "explanation": "僵硬說活動困難，龜在此特指皮膚裂開。"
+          }
+        ],
+        "misconception": "疲乏說勞累，並未點出皮膚裂開；粗厚有紋不等於因寒冷皸裂，不能只按龜殼聯想；僵硬說活動困難，龜在此特指皮膚裂開。"
+      },
+      "objective": "按上下文理解，這裏「龜」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p02-b00-v02",
+      "ordinal": 17,
+      "baseQuestionHash": "6e350b3e0c3eb424674c776c8fe1899a9b6f862b5b402a76f844b09bbe5a4a1b",
+      "patch": {
+        "explanation": "說在以說吳王中是游說，客人帶着藥方去說服吳王採用，後來才獲派領軍。它包含爭取對方接受主張的目的，不只是一般解說。說通悅的喜悅義也不合此處客對吳王採取行動的結構。",
+        "summary": "說在以說吳王中是游說，客人帶着藥方去說服吳王採用，後來才獲派領軍。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "游說",
+            "explanation": "說在以說吳王中是游說，客人帶着藥方去說服吳王採用，後來才獲派領軍。"
+          },
+          {
+            "id": "b",
+            "text": "解說",
+            "explanation": "一般解說未點出爭取吳王採用的目的，游說較準確。"
+          },
+          {
+            "id": "c",
+            "text": "喜悅",
+            "explanation": "喜悅是情緒，這裏客以藥方說服吳王。"
+          },
+          {
+            "id": "d",
+            "text": "學說",
+            "explanation": "學說是名詞，句中說帶吳王作對象，屬動詞。"
+          }
+        ],
+        "misconception": "一般解說未點出爭取吳王採用的目的，游說較準確；喜悅是情緒，這裏客以藥方說服吳王；學說是名詞，句中說帶吳王作對象，屬動詞。"
+      },
+      "objective": "按上下文理解，這裏「說」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p02-b00-v03",
+      "ordinal": 18,
+      "baseQuestionHash": "6759da0e2b2431d0b7c15324e86b7edb3fed2a86b2112f33340793c8c2ccfeac",
+      "patch": {
+        "explanation": "難在越有難中指兵難、外敵來犯，接下來吳王派客人領軍與越交戰，限定了軍事情境。不是說越國人難相處，也不是論辯中的詰難。須用後續水戰判斷這個短句，而非只按現代困難義。",
+        "summary": "難在越有難中指兵難、外敵來犯，接下來吳王派客人領軍與越交戰，限定了軍事情境。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "越國內部發生災荒",
+            "explanation": "後文是吳越水戰，難在此是來犯兵難，非自然災荒。"
+          },
+          {
+            "id": "b",
+            "text": "提出詰難",
+            "explanation": "提出詰難屬言語反駁，後文寫軍隊交戰。"
+          },
+          {
+            "id": "c",
+            "text": "客人在越國遇到危難",
+            "explanation": "客人此時受吳王任用，不能把他改作在越遇險者。"
+          },
+          {
+            "id": "d",
+            "text": "外敵侵擾",
+            "explanation": "難在越有難中指兵難、外敵來犯，接下來吳王派客人領軍與越交戰，限定了軍事情境。"
+          }
+        ],
+        "misconception": "後文是吳越水戰，難在此是來犯兵難，非自然災荒；提出詰難屬言語反駁，後文寫軍隊交戰；客人此時受吳王任用，不能把他改作在越遇險者。"
+      },
+      "objective": "按上下文理解，這裏「難」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e04-p02-b00-v04",
+      "ordinal": 19,
+      "baseQuestionHash": "c22a09a3776d9c3839cab92b7534ff2703fcc67a4bf791ad308ccb1fa0dcc7fe",
+      "patch": {
+        "explanation": "將在使之將中是統率軍隊，之指客人，使之將就是讓他帶兵。冬與越人水戰補出所帶軍隊的行動，因此將在此作動詞。若只解將領稱號，便漏了吳王讓客人做甚麼。",
+        "summary": "將在使之將中是統率軍隊，之指客人，使之將就是讓他帶兵。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "將要",
+            "explanation": "將要是時間副詞，句末需要被派執行的動作。"
+          },
+          {
+            "id": "b",
+            "text": "拿取",
+            "explanation": "拿取缺乏所拿物品，也不接後面的率軍水戰。"
+          },
+          {
+            "id": "c",
+            "text": "統率軍隊",
+            "explanation": "將在使之將中是統率軍隊，之指客人，使之將就是讓他帶兵。"
+          },
+          {
+            "id": "d",
+            "text": "將領的稱號",
+            "explanation": "將領是名詞身分，此處在使之後表統率軍隊的行動。"
+          }
+        ],
+        "misconception": "將要是時間副詞，句末需要被派執行的動作；拿取缺乏所拿物品，也不接後面的率軍水戰；將領是名詞身分，此處在使之後表統率軍隊的行動。"
+      },
+      "objective": "按上下文理解，這裏「將」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p02-b00-v05",
+      "ordinal": 20,
+      "baseQuestionHash": "39d7c1c895b746580fb6219ca432177f48f2be3256b2da023b943679a294c7da",
+      "patch": {
+        "explanation": "裂地是劃出土地，與封之連讀，說吳王為客人的戰功劃地封賞。裂在此由人主動分地，不是土地自然裂開。先辨前面大敗越人是功績、後面封是獎賞，就能確定分地的目的。",
+        "summary": "裂地是劃出土地，與封之連讀，說吳王為客人的戰功劃地封賞。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "土地開裂",
+            "explanation": "土地開裂是自然狀態，不是君王封賞行為。"
+          },
+          {
+            "id": "b",
+            "text": "劃出土地",
+            "explanation": "裂地是劃出土地，與封之連讀，說吳王為客人的戰功劃地封賞。"
+          },
+          {
+            "id": "c",
+            "text": "開墾土地",
+            "explanation": "開墾為耕種，原句沒有農事，而有封之。"
+          },
+          {
+            "id": "d",
+            "text": "毀壞土地",
+            "explanation": "毀壞土地不是封賞，會把分封的目的讀反。"
+          }
+        ],
+        "misconception": "土地開裂是自然狀態，不是君王封賞行為；開墾為耕種，原句沒有農事，而有封之；毀壞土地不是封賞，會把分封的目的讀反。"
+      },
+      "objective": "按上下文理解，這裏「裂地」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p02-b00-v07",
+      "ordinal": 21,
+      "baseQuestionHash": "3d19186fd14ea29e6b1537aae44a2b3bcfabea3c55d562bd9adb35e08ca2cb87",
+      "patch": {
+        "explanation": "一在能不龜手一也中是相同，固定兩方所用藥物的防皸功效。下文所用之異再對照使用方法不同，兩者合起來解釋成果差別。不是只用一次，也不是專心與否；抓住一和異各比較甚麼便不易混淆。",
+        "summary": "一在能不龜手一也中是相同，固定兩方所用藥物的防皸功效。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "相同",
+            "explanation": "一在能不龜手一也中是相同，固定兩方所用藥物的防皸功效。"
+          },
+          {
+            "id": "b",
+            "text": "一次",
+            "explanation": "一次是次數，原句比較兩方藥效是否相同。"
+          },
+          {
+            "id": "c",
+            "text": "專一",
+            "explanation": "專一是用心狀態，此處沒有比較誰更專心。"
+          },
+          {
+            "id": "d",
+            "text": "全都",
+            "explanation": "全都表示範圍，不能替代相同這個比較判斷。"
+          }
+        ],
+        "misconception": "一次是次數，原句比較兩方藥效是否相同；專一是用心狀態，此處沒有比較誰更專心；全都表示範圍，不能替代相同這個比較判斷。"
+      },
+      "objective": "按上下文理解，這裏「一」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p03-b00-v02",
+      "ordinal": 22,
+      "baseQuestionHash": "f7192ecf5e62b49549090c9a083e4a4a5212327b3b5ca5089319e2d534f2de4f",
+      "patch": {
+        "explanation": "依本書逐句注釋，慮所指的具體動作是繫結，把大瓠繫作可浮水的腰舟。慮亦有考慮的讀法，不能在未限定版本時直接排斥；本題以繫結義理解建議如何實行，並和後面的憂分開。",
+        "summary": "依本書逐句注釋，慮所指的具體動作是繫結，把大瓠繫作可浮水的腰舟。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "擔心、憂愁",
+            "explanation": "擔心對應憂其無所容，這裏則提出解決方法。"
+          },
+          {
+            "id": "b",
+            "text": "思量、考慮",
+            "explanation": "考慮是另一讀法；本題限定逐句注釋所指的具體繫結動作。"
+          },
+          {
+            "id": "c",
+            "text": "挑選、篩除",
+            "explanation": "篩除沒有把葫蘆繫作浮具的意思，也未見挑選多物的情節。"
+          },
+          {
+            "id": "d",
+            "text": "綴結、繫結",
+            "explanation": "依本書逐句注釋，慮所指的具體動作是繫結，把大瓠繫作可浮水的腰舟。"
+          }
+        ],
+        "stem": "依本書逐句注釋，「慮」在此所指的具體動作是甚麼？",
+        "misconception": "擔心對應憂其無所容，這裏則提出解決方法；考慮是另一讀法；本題限定逐句注釋所指的具體繫結動作；篩除沒有把葫蘆繫作浮具的意思，也未見挑選多物的情節。"
+      },
+      "objective": "依本書逐句注釋，「慮」在此所指的具體動作是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p03-b00-v03",
+      "ordinal": 23,
+      "baseQuestionHash": "3a5b16eb8a6e946119741af1976d6adeaf58bbcbc5d4d58e7bc8d20c1c621139",
+      "patch": {
+        "explanation": "大樽在此指繫於腰間的浮水工具，浮於江湖把用途限定為助浮。它雖以樽為名，卻不能照現代酒器義譯成拿來盛酒的大杯。莊子的建議正是改變葫蘆用法，未要求重新造一艘運兵船。",
+        "summary": "大樽在此指繫於腰間的浮水工具，浮於江湖把用途限定為助浮。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "盛酒的大型容器",
+            "explanation": "盛酒仍把它當容器，與浮於江湖的用途不合。"
+          },
+          {
+            "id": "b",
+            "text": "舀水的大型瓜瓢",
+            "explanation": "瓜瓢是惠子已試失敗的用途，莊子提出另一方向。"
+          },
+          {
+            "id": "c",
+            "text": "繫在腰間的浮水工具",
+            "explanation": "大樽在此指繫於腰間的浮水工具，浮於江湖把用途限定為助浮。"
+          },
+          {
+            "id": "d",
+            "text": "水戰時的運兵船隻",
+            "explanation": "運兵船把藥方故事的水戰搬來，原句只是腰舟助浮。"
+          }
+        ],
+        "misconception": "盛酒仍把它當容器，與浮於江湖的用途不合；瓜瓢是惠子已試失敗的用途，莊子提出另一方向；運兵船把藥方故事的水戰搬來，原句只是腰舟助浮。"
+      },
+      "objective": "按上下文理解，這裏「大樽」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p03-b00-v05",
+      "ordinal": 24,
+      "baseQuestionHash": "5506158165bbf118101d2ed4e9c06b314a2497946f1d7be2b9efc65d8612322f",
+      "patch": {
+        "explanation": "蓬之心比喻心思閉塞不通，批評惠子只見盛水作瓢的失敗，未肯轉換用法。蓬可解作塞心的草，也有以草彎曲不直作比的說法，兩者都指觀念不通。不能因草隨風飄動便另推成惠子心志不定。",
+        "summary": "蓬之心比喻心思閉塞不通，批評惠子只見盛水作瓢的失敗，未肯轉換用法。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "隨處漂泊的心情",
+            "explanation": "漂泊取草隨風的聯想，未對應不善轉換用法的批評。"
+          },
+          {
+            "id": "b",
+            "text": "茅塞不通的心思",
+            "explanation": "蓬之心比喻心思閉塞不通，批評惠子只見盛水作瓢的失敗，未肯轉换用法。"
+          },
+          {
+            "id": "c",
+            "text": "雜亂不安的心情",
+            "explanation": "雜亂焦慮是心情，本文重點在觀念受限。"
+          },
+          {
+            "id": "d",
+            "text": "堅守不移的心志",
+            "explanation": "堅守不移帶肯定意味，此語在責其心思閉塞。"
+          }
+        ],
+        "misconception": "漂泊取草隨風的聯想，未對應不善轉換用法的批評；雜亂焦慮是心情，本文重點在觀念受限；堅守不移帶肯定意味，此語在責其心思閉塞。"
+      },
+      "objective": "按上下文理解，這裏「蓬之心」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p04-b00-v00",
+      "ordinal": 25,
+      "baseQuestionHash": "644f07cd2fa7802eefb2568d1673701fb4dee9583e2b0bb78d4ecfe624554478",
+      "patch": {
+        "explanation": "樗是樹木名稱，後面幹多瘤、枝卷曲交代它為何不合木工用材標準。人謂之樗先為這棵樹命名，不是提出一種工具或尺寸。其形質不宜作材是惠子判無用的依據，卻未等於作品最終認定毫無價值。",
+        "summary": "樗是樹木名稱，後面幹多瘤、枝卷曲交代它為何不合木工用材標準。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "一種形質不宜作材的樹",
+            "explanation": "樗是樹木名稱，後面幹多瘤、枝卷曲交代它為何不合木工用材標準。"
+          },
+          {
+            "id": "b",
+            "text": "可按直線取材的良木",
+            "explanation": "不中繩墨明確否定按此尺度取材，與良木判斷相反。"
+          },
+          {
+            "id": "c",
+            "text": "枝幹合乎圓角尺度的樹",
+            "explanation": "不中規矩否定合乎尺度，不能只看是樹便選。"
+          },
+          {
+            "id": "d",
+            "text": "已被木匠斫伐的樹樁",
+            "explanation": "匠者不顧說未被取用，樗是樹名，不是砍後樹樁。"
+          }
+        ],
+        "misconception": "不中繩墨明確否定按此尺度取材，與良木判斷相反；不中規矩否定合乎尺度，不能只看是樹便選；匠者不顧說未被取用，樗是樹名，不是砍後樹樁。"
+      },
+      "objective": "按上下文理解，這裏「樗」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e04-p04-b00-v02",
+      "ordinal": 26,
+      "baseQuestionHash": "d977cf70dee3bc6ca872aea146be7e9ee3303e2416d7113e797e2fee72c7b091",
+      "patch": {
+        "explanation": "擁腫說樹幹粗大多瘤、不平整，所以不中繩墨，不能按木工要求取直用材。它描述幹的外形，與下一句枝的卷曲相應。粗大不代表筆直，枝葉繁茂與否也不是此處判定不材的理由。",
+        "summary": "擁腫說樹幹粗大多瘤、不平整，所以不中繩墨，不能按木工要求取直用材。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "粗大而筆直",
+            "explanation": "筆直會削弱不中繩墨的理由，擁腫重在多瘤不平。"
+          },
+          {
+            "id": "b",
+            "text": "根部外露",
+            "explanation": "根部外露改換了其大本的描寫部位與特徵。"
+          },
+          {
+            "id": "c",
+            "text": "枝葉繁茂",
+            "explanation": "枝葉繁茂是另一外觀，這句說幹多瘤。"
+          },
+          {
+            "id": "d",
+            "text": "粗大多瘤",
+            "explanation": "擁腫說樹幹粗大多瘤、不平整，所以不中繩墨，不能按木工要求取直用材。"
+          }
+        ],
+        "misconception": "筆直會削弱不中繩墨的理由，擁腫重在多瘤不平；根部外露改換了其大本的描寫部位與特徵；枝葉繁茂是另一外觀，這句說幹多瘤。"
+      },
+      "objective": "按上下文理解，這裏「擁腫」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p04-b00-v03",
+      "ordinal": 27,
+      "baseQuestionHash": "e8c8ddec64d8e7794aebe8fbc5ecb262c24d20b2f483dcf8d067bdae5f1ec99e",
+      "patch": {
+        "explanation": "中在不中繩墨、不中規矩中是符合，說幹枝都不合木工量度標準。與後面中於機辟的中不同：後者才是觸中陷阱。先看中後接標準還是陷阱，不能把同字都讀成擊中或居中。",
+        "summary": "中在不中繩墨、不中規矩中是符合，說幹枝都不合木工量度標準。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "擊中",
+            "explanation": "擊中適於觸及物件，這裏說符合尺度與否。"
+          },
+          {
+            "id": "b",
+            "text": "中間",
+            "explanation": "中間是位置，不能交代樹形是否合乎木工要求。"
+          },
+          {
+            "id": "c",
+            "text": "符合",
+            "explanation": "中在不中繩墨、不中規矩中是符合，說幹枝都不合木工量度標準。"
+          },
+          {
+            "id": "d",
+            "text": "一半",
+            "explanation": "一半是數量，原句沒有把繩墨分成兩半。"
+          }
+        ],
+        "misconception": "擊中適於觸及物件，這裏說符合尺度與否；中間是位置，不能交代樹形是否合乎木工要求；一半是數量，原句沒有把繩墨分成兩半。"
+      },
+      "objective": "按上下文理解，這裏「中」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p04-b00-v04",
+      "ordinal": 28,
+      "baseQuestionHash": "d7ec9accf65631b3d7d428abdeb254c3a829c3a0c387ac42640a7f5554e2b88f",
+      "patch": {
+        "explanation": "規矩在這裏是圓規與角尺，與繩墨同屬木工量度工具。小枝卷曲不中規矩說它不合加工尺度，字面先落在實物。雖可引申象徵世俗準則，翻譯時不能直接換成待人規則或朝廷法令。",
+        "summary": "規矩在這裏是圓規與角尺，與繩墨同屬木工量度工具。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "待人處事準則",
+            "explanation": "做人準則是引申層次，並非木匠衡量枝形的具體工具。"
+          },
+          {
+            "id": "b",
+            "text": "圓規和角尺",
+            "explanation": "規矩在這裏是圓規與角尺，與繩墨同屬木工量度工具。"
+          },
+          {
+            "id": "c",
+            "text": "朝廷刑罰法令",
+            "explanation": "刑罰法令沒有由樹枝卷曲引出，不能代替木工器具。"
+          },
+          {
+            "id": "d",
+            "text": "墨線和繩索",
+            "explanation": "墨線是前句繩墨，規與矩另指畫圓和量角的工具。"
+          }
+        ],
+        "misconception": "做人準則是引申層次，並非木匠衡量枝形的具體工具；刑罰法令沒有由樹枝卷曲引出，不能代替木工器具；墨線是前句繩墨，規與矩另指畫圓和量角的工具。"
+      },
+      "objective": "按上下文理解，這裏「規矩」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p04-b00-v05",
+      "ordinal": 29,
+      "baseQuestionHash": "6ceeda5770b649e8db13e54ebbb417ce456190a1f1077e95846d1e477e1d445c",
+      "patch": {
+        "explanation": "塗在立之塗中通途，是道路，說大樹長在路旁，木匠經過也不看它。立交代所處位置，塗因而作地點名詞。不是有人給樹塗抹東西，也不只是說地上有泥，後文匠者不顧才接得上。",
+        "summary": "塗在立之塗中通途，是道路，說大樹長在路旁，木匠經過也不看它。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "通「途」，道路",
+            "explanation": "塗在立之塗中通途，是道路，說大樹長在路旁，木匠經過也不看它。"
+          },
+          {
+            "id": "b",
+            "text": "泥塗",
+            "explanation": "泥塗只說泥土狀態，此处通途交代道路位置。"
+          },
+          {
+            "id": "c",
+            "text": "塗抹",
+            "explanation": "塗抹是動作，立之塗在此需要所在處所。"
+          },
+          {
+            "id": "d",
+            "text": "謀劃",
+            "explanation": "謀劃不是塗的本句義，也與樹的所在無關。"
+          }
+        ],
+        "misconception": "泥塗只說泥土狀態，此处通途交代道路位置；塗抹是動作，立之塗在此需要所在處所；謀劃不是塗的本句義，也與樹的所在無關。"
+      },
+      "objective": "按上下文理解，這裏「塗」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p04-b00-v06",
+      "ordinal": 30,
+      "baseQuestionHash": "47775baee5aec54776c791dfec38b9821010c80698a9424f06662a49712d144e",
+      "patch": {
+        "explanation": "顧在匠者不顧中是看、回頭看，木匠連看也不看，表現它不被當作可用木材。這個動作成為惠子判無用的證據。照料與顧慮是顧在別處的意思，不能把不顧讀成木匠忘記養樹或沒有憂慮。",
+        "summary": "顧在匠者不顧中是看、回頭看，木匠連看也不看，表現它不被當作可用木材。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "照料",
+            "explanation": "照料樹木不是木匠此處的工作，原句寫不屑一看。"
+          },
+          {
+            "id": "b",
+            "text": "顧慮",
+            "explanation": "顧慮是心中擔憂，本句以不看呈現棄置態度。"
+          },
+          {
+            "id": "c",
+            "text": "只是",
+            "explanation": "只是作轉折副詞，不能在不後表木匠的行動。"
+          },
+          {
+            "id": "d",
+            "text": "看",
+            "explanation": "顧在匠者不顧中是看、回頭看，木匠連看也不看，表現它不被當作可用木材。"
+          }
+        ],
+        "misconception": "照料樹木不是木匠此處的工作，原句寫不屑一看；顧慮是心中擔憂，本句以不看呈現棄置態度；只是作轉折副詞，不能在不後表木匠的行動。"
+      },
+      "objective": "按上下文理解，這裏「顧」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p04-b00-v07",
+      "ordinal": 31,
+      "baseQuestionHash": "b9ae79fe98073b1dfda937123e2516d860731735414e572be3b373867398d42c",
+      "patch": {
+        "explanation": "去在眾所同去中是鄙棄，所去的對象是惠子所批評的莊子之言。它承接木匠不取樗材的比喻，表明不採納而非身體離開某地。這仍是惠子在對話中的判斷，不能自動當作作者最後立場。",
+        "summary": "去在眾所同去中是鄙棄，所去的對象是惠子所批評的莊子之言。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "前往",
+            "explanation": "前往通常接目的地，原句說大家棄置言論。"
+          },
+          {
+            "id": "b",
+            "text": "離開",
+            "explanation": "離開偏向空間移動，這裏去的對象是看法與言論。"
+          },
+          {
+            "id": "c",
+            "text": "鄙棄",
+            "explanation": "去在眾所同去中是鄙棄，所去的對象是惠子所批評的莊子之言。"
+          },
+          {
+            "id": "d",
+            "text": "距離",
+            "explanation": "距離需說相隔多遠，此句沒有數量或起止地點。"
+          }
+        ],
+        "misconception": "前往通常接目的地，原句說大家棄置言論；離開偏向空間移動，這裏去的對象是看法與言論；距離需說相隔多遠，此句沒有數量或起止地點。"
+      },
+      "objective": "按上下文理解，這裏「去」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p04-b00-v08",
+      "ordinal": 32,
+      "baseQuestionHash": "3801441e7420a708c680991e08d29aba688ce7ebd7c2b04fb4fe9a17e1dfdf8d",
+      "patch": {
+        "explanation": "狸狌在本書解作野貓、黃鼠狼一類，下文伏身候獵、東西跳躍描寫其捕小動物的本領。後來中機網，才構成有能仍可能受害的反差。辨清它是捕獵者，便不會和巨大的斄牛或水中動物混同。",
+        "summary": "狸狌在本書解作野貓、黃鼠狼一類，下文伏身候獵、東西跳躍描寫其捕小動物的本領。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "蚯蚓、鱔魚一類",
+            "explanation": "蚯蚓鱔魚不是此處伏身捕獵的狸狌。"
+          },
+          {
+            "id": "b",
+            "text": "野貓、黃鼠狼一類",
+            "explanation": "狸狌在本書解作野貓、黃鼠狼一類，下文伏身候獵、東西跳躍描寫其捕小動物的本領。"
+          },
+          {
+            "id": "c",
+            "text": "野牛、駿馬一類",
+            "explanation": "野牛駿馬的特性不同，牛另在下文作不能執鼠的對照。"
+          },
+          {
+            "id": "d",
+            "text": "蛟龍、水蛇一類",
+            "explanation": "蛟龍水蛇把情境移到水中，原文寫陸上伏身捕獵。"
+          }
+        ],
+        "misconception": "蚯蚓鱔魚不是此處伏身捕獵的狸狌；野牛駿馬的特性不同，牛另在下文作不能執鼠的對照；蛟龍水蛇把情境移到水中，原文寫陸上伏身捕獵。"
+      },
+      "objective": "按上下文理解，這裏「狸狌」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p04-b00-v09",
+      "ordinal": 33,
+      "baseQuestionHash": "43d95a1b70e1c66bfdae5252a1eeeb6707fadda653b8c70bd5f1ab2deb01902a",
+      "patch": {
+        "explanation": "卑在卑身而伏中是壓低，使身體貼低而趴伏，方便等候獵物。它與身、伏搭配，說具體姿勢，不是身分低賤或性格謙遜。詞義要跟捕獵動作連讀，不能把動物描寫誤作道德評語。",
+        "summary": "卑在卑身而伏中是壓低，使身體貼低而趴伏，方便等候獵物。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "壓低",
+            "explanation": "卑在卑身而伏中是壓低，使身體貼低而趴伏，方便等候獵物。"
+          },
+          {
+            "id": "b",
+            "text": "卑賤",
+            "explanation": "卑賤評地位，原文沒有高低身分的比較。"
+          },
+          {
+            "id": "c",
+            "text": "低劣",
+            "explanation": "低劣評品質，不能解釋身體如何趴伏。"
+          },
+          {
+            "id": "d",
+            "text": "謙恭",
+            "explanation": "謙恭評態度，這裏的低身是捕獵姿勢。"
+          }
+        ],
+        "misconception": "卑賤評地位，原文沒有高低身分的比較；低劣評品質，不能解釋身體如何趴伏；謙恭評態度，這裏的低身是捕獵姿勢。"
+      },
+      "objective": "按上下文理解，這裏「卑」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p04-b00-v10",
+      "ordinal": 34,
+      "baseQuestionHash": "bd376d1254fd364c51add2b0daa77c776a1aec2bddb9059460c02ef9470c9d9c",
+      "patch": {
+        "explanation": "敖通遨，是遊走，敖者就是遊走的小動物，是狸狌等候捕捉的對象。者把動作轉成有此動作的一類對象，不是說狸狌在等傲慢的人。先辨捕獵者與獵物，才不會因敖字形聯想到傲。",
+        "summary": "敖通遨，是遊走，敖者就是遊走的小動物，是狸狌等候捕捉的對象。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "傲慢",
+            "explanation": "傲慢是性格，原文候獵的對象不以性格分類。"
+          },
+          {
+            "id": "b",
+            "text": "戲弄",
+            "explanation": "戲弄沒有遊走出現、供捕捉的意思。"
+          },
+          {
+            "id": "c",
+            "text": "放縱",
+            "explanation": "放縱是行為評價，敖在此只交代遊走狀態。"
+          },
+          {
+            "id": "d",
+            "text": "通「遨」，遊走",
+            "explanation": "敖通遨，是遊走，敖者就是遊走的小動物，是狸狌等候捕捉的對象。"
+          }
+        ],
+        "misconception": "傲慢是性格，原文候獵的對象不以性格分類；戲弄沒有遊走出現、供捕捉的意思；放縱是行為評價，敖在此只交代遊走狀態。"
+      },
+      "objective": "按上下文理解，這裏「敖」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p04-b00-v11",
+      "ordinal": 35,
+      "baseQuestionHash": "17517dcd0eeeef3f9adf419c21756bc53f9e9109600cf443e6f25f623b05ef14",
+      "patch": {
+        "explanation": "跳梁是跳躍，東西修飾向東向西，連起來突出狸狌行動靈活。梁在此不指屋樑，整詞也沒有指定跳進水中。這項本領與後來中機網形成反差，顯示靈巧未必保證安全。",
+        "summary": "跳梁是跳躍，東西修飾向東向西，連起來突出狸狌行動靈活。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "跨越屋梁",
+            "explanation": "跨屋梁把梁逐字當建築，原文沒有屋舍場景。"
+          },
+          {
+            "id": "b",
+            "text": "伏地等待獵物",
+            "explanation": "伏地等候由前面的卑身而伏表達，跳梁轉寫移動。"
+          },
+          {
+            "id": "c",
+            "text": "跳躍",
+            "explanation": "跳梁是跳躍，東西修飾向東向西，連起來突出狸狌行動靈活。"
+          },
+          {
+            "id": "d",
+            "text": "躍起後停在原處",
+            "explanation": "東西修飾四處跳躍，並非只跳起落回原地。"
+          }
+        ],
+        "misconception": "跨屋梁把梁逐字當建築，原文沒有屋舍場景；伏地等候由前面的卑身而伏表達，跳梁轉寫移動；東西修飾四處跳躍，並非只跳起落回原地。"
+      },
+      "objective": "按上下文理解，這裏「跳梁」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e04-p04-b00-v12",
+      "ordinal": 36,
+      "baseQuestionHash": "e9e5f87e8cef713e61c2e9bdb365dd261044cdd3015aa91a55ec7fa735e9e16d",
+      "patch": {
+        "explanation": "不辟高下的辟通避，是躲避，說狸狌跳躍時不避高低。下一句機辟的辟卻指陷阱，同字在相鄰句已有不同用法。本題指定不辟，須按動詞辨義，不能把後面的名物意思套過來。",
+        "summary": "不辟高下的辟通避，是躲避，說狸狌跳躍時不避高低。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "開闢",
+            "explanation": "開闢需要開出道路等對象，這裏說避不避高低。"
+          },
+          {
+            "id": "b",
+            "text": "通「避」，躲避",
+            "explanation": "不辟高下的辟通避，是躲避，說狸狌跳躍時不避高低。"
+          },
+          {
+            "id": "c",
+            "text": "徵召",
+            "explanation": "徵召通常以人為對象，與高下的地形不搭配。"
+          },
+          {
+            "id": "d",
+            "text": "駁斥",
+            "explanation": "駁斥是言語反駁，原句描寫捕獵時跳躍。"
+          }
+        ],
+        "stem": "「不辟高下」中的「辟」應解作甚麼？",
+        "targetStart": 16,
+        "misconception": "開闢需要開出道路等對象，這裏說避不避高低；徵召通常以人為對象，與高下的地形不搭配；駁斥是言語反駁，原句描寫捕獵時跳躍。"
+      },
+      "objective": "「不辟高下」中的「辟」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p04-b00-v13",
+      "ordinal": 37,
+      "baseQuestionHash": "e24e2dd33bd9e6f5667217c5253d750fbdf3f646bcd604316a4d23c73f10ba6f",
+      "patch": {
+        "explanation": "機辟是捕獸的機關陷阱，中於機辟說狸狌觸中捕獵裝置。後面罔罟另指網，兩種危險並列，不能把它們都解成繩網。這裏的辟不是避開，因為它與機合成被觸中的器物名稱。",
+        "summary": "機辟是捕獸的機關陷阱，中於機辟說狸狌觸中捕獵裝置。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "捕獸的機關陷阱",
+            "explanation": "機辟是捕獸的機關陷阱，中於機辟說狸狌觸中捕獵裝置。"
+          },
+          {
+            "id": "b",
+            "text": "捕獸的繩網",
+            "explanation": "繩網是後面的罔罟，機辟重在捕獸機關陷阱。"
+          },
+          {
+            "id": "c",
+            "text": "製作木器的工具",
+            "explanation": "木工工具屬樗樹的前一語境，這句已轉到捕獸。"
+          },
+          {
+            "id": "d",
+            "text": "製造藥物的器具",
+            "explanation": "製藥器具屬上一輪故事，無法解釋狸狌遇害。"
+          }
+        ],
+        "misconception": "繩網是後面的罔罟，機辟重在捕獸機關陷阱；木工工具屬樗樹的前一語境，這句已轉到捕獸；製藥器具屬上一輪故事，無法解釋狸狌遇害。"
+      },
+      "objective": "按上下文理解，這裏「機辟」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p04-b00-v14",
+      "ordinal": 38,
+      "baseQuestionHash": "d000bd4a1f2eef03205f19ae11c0491c9fa2749b10a81aab08bab6a14b6544d3",
+      "patch": {
+        "explanation": "罔罟指捕獸網，罔通網，死於罔罟說狸狌最終死在獵網中。它與中於機辟並列，從中陷阱推到喪命，突出靈巧之能仍可能招害。不能因都能捕獸便把網與機關陷阱視作同一詞義。",
+        "summary": "罔罟指捕獸網，罔通網，死於罔罟說狸狌最終死在獵網中。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "捕獸陷阱",
+            "explanation": "機關陷阱是機辟，罔罟指網，兩個名物應分清。"
+          },
+          {
+            "id": "b",
+            "text": "遮蓋草蓆",
+            "explanation": "草蓆用來覆蓋，原句是捕殺動物的網具。"
+          },
+          {
+            "id": "c",
+            "text": "盛物竹器",
+            "explanation": "盛物竹器不是網，不能配合死於的捕獵情境。"
+          },
+          {
+            "id": "d",
+            "text": "捕獸網",
+            "explanation": "罔罟指捕獸網，罔通網，死於罔罟說狸狌最終死在獵網中。"
+          }
+        ],
+        "misconception": "機關陷阱是機辟，罔罟指網，兩個名物應分清；草蓆用來覆蓋，原句是捕殺動物的網具；盛物竹器不是網，不能配合死於的捕獵情境。"
+      },
+      "objective": "按上下文理解，這裏「罔罟」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p05-b00-v00",
+      "ordinal": 39,
+      "baseQuestionHash": "675728411043572560be2235603b0805e6a48507a7759573f91c97390ffe3e43",
+      "patch": {
+        "explanation": "斄牛是犛牛，文中以垂天之雲誇張它的巨大，卻說它不能捕鼠。這個身分與靈巧的狸狌構成對照，用來說能力各有範圍。它不是另一匹行路的馬，也不能因雲的比喻便變成水中蛟龍。",
+        "summary": "斄牛是犛牛，文中以垂天之雲誇張它的巨大，卻說它不能捕鼠。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "駑馬",
+            "explanation": "駑馬屬馬匹，與此處牛的名稱和巨大描寫不同。"
+          },
+          {
+            "id": "b",
+            "text": "狸狌",
+            "explanation": "狸狌是前面能捕獵卻遭害的動物，並非這隻牛。"
+          },
+          {
+            "id": "c",
+            "text": "犛牛",
+            "explanation": "斄牛是犛牛，文中以垂天之雲誇張它的巨大，卻說它不能捕鼠。"
+          },
+          {
+            "id": "d",
+            "text": "水蛟",
+            "explanation": "水蛟不是牛；垂天之雲只是喻形體巨大，未改物種。"
+          }
+        ],
+        "misconception": "駑馬屬馬匹，與此處牛的名稱和巨大描寫不同；狸狌是前面能捕獵卻遭害的動物，並非這隻牛；水蛟不是牛；垂天之雲只是喻形體巨大，未改物種。"
+      },
+      "objective": "按上下文理解，這裏「斄牛」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p05-b00-v01",
+      "ordinal": 40,
+      "baseQuestionHash": "8b94f01465d92dac595534c104e70015d2ba8bd99f7d5ec9bb8973b26535f819",
+      "patch": {
+        "explanation": "執在執鼠中是捕捉，以老鼠為捕獲對象，接回狸狌的捕獵本領。不能執鼠不是不能拿住一件已到手的東西，而是欠缺這項捕獵能力。巨大與不能捕鼠並列，正說明身形大小不能代替具體本領。",
+        "summary": "執在執鼠中是捕捉，以老鼠為捕獲對象，接回狸狌的捕獵本領。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "拿着",
+            "explanation": "拿着只說持有，這裏與狸狌對照的是捕鼠能力。"
+          },
+          {
+            "id": "b",
+            "text": "捕捉",
+            "explanation": "執在執鼠中是捕捉，以老鼠為捕獲對象，接回狸狌的捕獵本領。"
+          },
+          {
+            "id": "c",
+            "text": "掌管",
+            "explanation": "掌管是管理控制，原句沒有治理老鼠的意思。"
+          },
+          {
+            "id": "d",
+            "text": "堅持",
+            "explanation": "堅持通常接立場目標，鼠在此是被捕對象。"
+          }
+        ],
+        "misconception": "拿着只說持有，這裏與狸狌對照的是捕鼠能力；掌管是管理控制，原句沒有治理老鼠的意思；堅持通常接立場目標，鼠在此是被捕對象。"
+      },
+      "objective": "按上下文理解，這裏「執」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p05-b00-v03",
+      "ordinal": 41,
+      "baseQuestionHash": "b3d6f3df101a4e6c452bbbb5963bbf445c1f60343a25029dcccbe3800a2f8d6d",
+      "patch": {
+        "explanation": "無何有之鄉是一無所有的地方，與廣莫之野合寫不受通常功用拘束的想像空間。鄉在此泛指地方，不是某個真實村名，也不要求從故鄉遠行。句中空曠處所服務逍遙遊臥的構想，不能只按無人住來縮窄。",
+        "summary": "無何有之鄉是一無所有的地方，與廣莫之野合寫不受通常功用拘束的想像空間。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "一無所有之地",
+            "explanation": "無何有之鄉是一無所有的地方，與廣莫之野合寫不受通常功用拘束的想像空間。"
+          },
+          {
+            "id": "b",
+            "text": "遠離故鄉之地",
+            "explanation": "遠離故鄉增添離鄉情節，何有問有甚麼，非故鄉。"
+          },
+          {
+            "id": "c",
+            "text": "無人居住的村落",
+            "explanation": "無人村落只說人口狀況，原詞更泛指一無所有之地。"
+          },
+          {
+            "id": "d",
+            "text": "不見光明之處",
+            "explanation": "不見光明把空無誤轉為黑暗，文中沒有光線描寫。"
+          }
+        ],
+        "misconception": "遠離故鄉增添離鄉情節，何有問有甚麼，非故鄉；無人村落只說人口狀況，原詞更泛指一無所有之地；不見光明把空無誤轉為黑暗，文中沒有光線描寫。"
+      },
+      "objective": "按上下文理解，這裏「無何有之鄉」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p05-b00-v04",
+      "ordinal": 42,
+      "baseQuestionHash": "790c6318ca4503d2b5af9b36a92f6ef898de0d75f3aa7953a470de9a7d43af13",
+      "patch": {
+        "explanation": "廣莫指廣闊無邊，莫通漠，修飾野的空間範圍。它和無何有之鄉相配，為樹與人留下自在的活動空間。空無物、荒涼無人及遙遠各說不同特徵，不能代替廣闊這個尺度。",
+        "summary": "廣莫指廣闊無邊，莫通漠，修飾野的空間範圍。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "空無一物",
+            "explanation": "空無物說有沒有東西，廣莫說範圍有多廣。"
+          },
+          {
+            "id": "b",
+            "text": "荒涼無人",
+            "explanation": "無人說人口，未保留廣闊無邊的意思。"
+          },
+          {
+            "id": "c",
+            "text": "遙遠難至",
+            "explanation": "遙遠難至說距離和到達難度，原詞未作這種限制。"
+          },
+          {
+            "id": "d",
+            "text": "廣闊無邊",
+            "explanation": "廣莫指廣闊無邊，莫通漠，修飾野的空間範圍。"
+          }
+        ],
+        "misconception": "空無物說有沒有東西，廣莫說範圍有多廣；無人說人口，未保留廣闊無邊的意思；遙遠難至說距離和到達難度，原詞未作這種限制。"
+      },
+      "objective": "按上下文理解，這裏「廣莫」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p05-b00-v05",
+      "ordinal": 43,
+      "baseQuestionHash": "19033b6f22265ee0ac5e4e1d06f7b809492fa0e6a92142e53a4e99c38b003ede",
+      "patch": {
+        "explanation": "彷徨在此是徘徊遊走，配合逍遙、寢臥，呈現縱任自在的活動。現代常用的焦慮猶豫義不合上下文，因結尾正解除無用帶來的憂困。要由整組動作判斷情緒，不能看見一個詞便套現代語感。",
+        "summary": "彷徨在此是徘徊遊走，配合逍遙、寢臥，呈現縱任自在的活動。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "猶豫不決",
+            "explanation": "猶豫不決與逍遙寢臥的安閒場景不合。"
+          },
+          {
+            "id": "b",
+            "text": "憂慮不安",
+            "explanation": "憂慮是惠子的問題，莊子建議的遊走則是自在。"
+          },
+          {
+            "id": "c",
+            "text": "徘徊遊走",
+            "explanation": "彷徨在此是徘徊遊走，配合逍遙、寢臥，呈現縱任自在的活動。"
+          },
+          {
+            "id": "d",
+            "text": "急忙逃走",
+            "explanation": "急忙逃走加了迫切危險，原文寫安然遊臥。"
+          }
+        ],
+        "misconception": "猶豫不決與逍遙寢臥的安閒場景不合；憂慮是惠子的問題，莊子建議的遊走則是自在；急忙逃走加了迫切危險，原文寫安然遊臥。"
+      },
+      "objective": "按上下文理解，這裏「彷徨」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p05-b00-v06",
+      "ordinal": 44,
+      "baseQuestionHash": "fb7c22860a569bff8ced501996eb3da29ca96bcdcb208f2149cb30b17859e9c3",
+      "patch": {
+        "explanation": "夭在不夭斤斧中是遭摧折、砍伐，說樹因不合木材用途而不遭斧害。斤斧把損害的方式說清，下一句物無害又相應。因此不是形容樹幼嫩、美好或彎曲，而是說能否保全生命。",
+        "summary": "夭在不夭斤斧中是遭摧折、砍伐，說樹因不合木材用途而不遭斧害。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "幼嫩",
+            "explanation": "幼嫩說生長階段，不能接斤斧表示免受砍伐。"
+          },
+          {
+            "id": "b",
+            "text": "摧折、夭折",
+            "explanation": "夭在不夭斤斧中是遭摧折、砍伐，說樹因不合木材用途而不遭斧害。"
+          },
+          {
+            "id": "c",
+            "text": "美好",
+            "explanation": "美好是外觀評價，與物無害的保全意思不合。"
+          },
+          {
+            "id": "d",
+            "text": "彎曲",
+            "explanation": "彎曲是前面卷曲的形態，夭則指摧折損害。"
+          }
+        ],
+        "misconception": "幼嫩說生長階段，不能接斤斧表示免受砍伐；美好是外觀評價，與物無害的保全意思不合；彎曲是前面卷曲的形態，夭則指摧折損害。"
+      },
+      "objective": "按上下文理解，這裏「夭」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p05-b00-v07",
+      "ordinal": 45,
+      "baseQuestionHash": "e322139aba20b693f8c1abba21c8fb270b5b68185aa43f859dfa5e95a562bb16",
+      "patch": {
+        "explanation": "斤斧都是砍木的斧頭，不夭斤斧說大樹不會被斧砍傷。繩墨規矩用於量度，斤斧用於伐木，工具作用不同。它可再引申人事役用之害，但詞義題應先保留斧頭這個具體名物。",
+        "summary": "斤斧都是砍木的斧頭，不夭斤斧說大樹不會被斧砍傷。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "斧頭",
+            "explanation": "斤斧都是砍木的斧頭，不夭斤斧說大樹不會被斧砍傷。"
+          },
+          {
+            "id": "b",
+            "text": "墨繩",
+            "explanation": "墨繩校直，不能當作砍伐的刃具。"
+          },
+          {
+            "id": "c",
+            "text": "角尺",
+            "explanation": "角尺量角，與造成摧折的斧頭不同。"
+          },
+          {
+            "id": "d",
+            "text": "木屑",
+            "explanation": "木屑是加工後碎料，不是造成砍伐的工具。"
+          }
+        ],
+        "misconception": "墨繩校直，不能當作砍伐的刃具；角尺量角，與造成摧折的斧頭不同；木屑是加工後碎料，不是造成砍伐的工具。"
+      },
+      "objective": "按上下文理解，這裏「斤斧」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p05-b00-v08",
+      "ordinal": 46,
+      "baseQuestionHash": "6745487a4a8d606ede978803e06837469b0e3cf9d1122b357f791756fddc4573",
+      "patch": {
+        "explanation": "安在安所困苦哉中是怎麼、哪裏，以反問加強不會受困害的意思。前面已說不遭斧害，末句不是尋問一個受苦地點，而是反轉無用必可憂的看法。不能把安字直接解成安穩，便漏掉整句反問作用。",
+        "summary": "安在安所困苦哉中是怎麼、哪裏，以反問加強不會受困害的意思。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "安穩",
+            "explanation": "安穩是狀態，安在此引反問而非直接形容平安。"
+          },
+          {
+            "id": "b",
+            "text": "安置",
+            "explanation": "安置是放到某處，句中沒有待安放的物件。"
+          },
+          {
+            "id": "c",
+            "text": "安慰",
+            "explanation": "安慰是寬解人的動作，這裏安本身是疑問詞。"
+          },
+          {
+            "id": "d",
+            "text": "哪裏、怎麼",
+            "explanation": "安在安所困苦哉中是怎麼、哪裏，以反問加強不會受困害的意思。"
+          }
+        ],
+        "misconception": "安穩是狀態，安在此引反問而非直接形容平安；安置是放到某處，句中沒有待安放的物件；安慰是寬解人的動作，這裏安本身是疑問詞。"
+      },
+      "objective": "按上下文理解，這裏「安」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p01-b00-translation",
+      "ordinal": 47,
+      "baseQuestionHash": "dcf7c7385235c697af24e6ad2d0eea2dec04dd4c3c058b7e387106fef98e3237",
+      "patch": {
+        "explanation": "惠子先試盛水，再試剖瓢，兩項都不合便判無用，限制在只承認慣常容器用途。莊子的腰舟建議沿其巨大特點開出另一可能。問題不是惠子完全沒試用，而是把局部用途失敗擴大成整件物毫無價值。",
+        "summary": "惠子先試盛水，再試剖瓢，兩項都不合便判無用，限制在只承認慣常容器用途。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "把盛水失敗歸於栽種技巧，認為須重種新品種",
+            "explanation": "惠子歸因無用而毀掉，沒有提出重種或栽培改良。"
+          },
+          {
+            "id": "b",
+            "text": "已考慮浮水用途，仍以不能舀水為由否定它",
+            "explanation": "浮水是莊子後來提出，不能說惠子已考慮這項別用。"
+          },
+          {
+            "id": "c",
+            "text": "把兩種用途的失敗只當局部限制，仍保留大瓠待用",
+            "explanation": "吾為其無用而掊之表明他已作整體否定並毀掉，未保留待用。"
+          },
+          {
+            "id": "d",
+            "text": "只以盛水及作瓢等慣常用途衡量它",
+            "explanation": "惠子先試盛水，再試剖瓢，兩項都不合便判無用，限制在只承認慣常容器用途。"
+          }
+        ],
+        "misconception": "惠子歸因無用而毀掉，沒有提出重種或栽培改良；浮水是莊子後來提出，不能說惠子已考慮這項別用；吾為其無用而掊之表明他已作整體否定並毀掉，未保留待用。"
+      },
+      "objective": "惠子判定大瓠無用，判斷過程的限制在哪裏？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e04-p02-b00-translation",
+      "ordinal": 48,
+      "baseQuestionHash": "3a6aa28de830a9741192bb02068c7243441cf7dd01f65c9e786eff993ef41c41",
+      "patch": {
+        "explanation": "客人把同一防皸功效移用於冬季水戰，使軍隊能在冷水中作戰，立功後獲劃地封賞。百金則是他先付給宋人的買方費用，不能誤作吳王購方的價款。原因在換場合發揮功效，沒有藥物變成攻擊武器的情節。",
+        "summary": "客人把同一防皸功效移用於冬季水戰，使軍隊能在冷水中作戰，立功後獲劃地封賞。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "先提高藥方的防皸功效，再用於水戰而得封賞",
+            "explanation": "能不龜手一也固定藥效相同，異效源於用法，不是先改配方。"
+          },
+          {
+            "id": "b",
+            "text": "把藥方賣給吳王取得百金，再用百金買下封地",
+            "explanation": "百金付給宋人買方，封地是吳王賞戰功，不是用百金買地。"
+          },
+          {
+            "id": "c",
+            "text": "把防皸技術用於冬季水戰，立功而獲封地",
+            "explanation": "客人把同一防皸功效移用於冬季水戰，使軍隊能在冷水中作戰，立功後獲劃地封賞。"
+          },
+          {
+            "id": "d",
+            "text": "沿用宋人漂洗的工作，因家業收入增加而受封",
+            "explanation": "客人轉用於水戰獲軍功，並非擴大漂絮生意而受封。"
+          }
+        ],
+        "misconception": "能不龜手一也固定藥效相同，異效源於用法，不是先改配方；百金付給宋人買方，封地是吳王賞戰功，不是用百金買地；客人轉用於水戰獲軍功，並非擴大漂絮生意而受封。"
+      },
+      "objective": "客人的所得與宋人不同，哪項概括最能連起原因與結果？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e04-p03-b00-translation",
+      "ordinal": 49,
+      "baseQuestionHash": "2900b9b440a50d3e793ecbbb46709dc539ec205ecc0395e7c92648fd3a6ed65c",
+      "patch": {
+        "explanation": "大樽保留葫蘆巨大而中空的特點，改作浮水工具，直接回應因尺寸不合容器用途便判無用的偏見。莊子並未要求把大變小或重新培種，而是換用途。宋人收入與江湖水勢都不是惠子此刻的難題。",
+        "summary": "大樽保留葫蘆巨大而中空的特點，改作浮水工具，直接回應因尺寸不合容器用途便判無用的偏見。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "把大物本身改造成小物，才可按原用途繼續使用",
+            "explanation": "腰舟是換用途而保留巨大，並非縮小後仍盛水作瓢。"
+          },
+          {
+            "id": "b",
+            "text": "把尺寸不合慣常用途，當成物件沒有價值",
+            "explanation": "大樽保留葫蘆巨大而中空的特點，改作浮水工具，直接回應因尺寸不合容器用途便判無用的偏見。"
+          },
+          {
+            "id": "c",
+            "text": "把尚未試用誤作無用，因此應先重做盛水實驗",
+            "explanation": "惠子已試盛水，莊子沒有叫他重複同一實驗。"
+          },
+          {
+            "id": "d",
+            "text": "把毀棄視為唯一處置，因此應保留原物等待更高售價",
+            "explanation": "莊子具體提出助浮，沒有以待售價格作保留理由。"
+          }
+        ],
+        "misconception": "腰舟是換用途而保留巨大，並非縮小後仍盛水作瓢；惠子已試盛水，莊子沒有叫他重複同一實驗；莊子具體提出助浮，沒有以待售價格作保留理由。"
+      },
+      "objective": "莊子提出「大樽」這一用途，直接回應惠子的哪個問題？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e04-p04-b00-translation",
+      "ordinal": 50,
+      "baseQuestionHash": "6072042c9d35baeb9a1cfd0dda7e77461e55f4dd2ccd97eca5d59ba610c09910",
+      "patch": {
+        "explanation": "在惠子的比擬中，大樗不合木工取材尺度，對應莊子言論宏大而不合世俗實用標準。今子之言把比物與被比者明確接起來，但這是惠子的批評，後面仍有莊子反駁。不能把比喻補成莊子已受刑的事件。",
+        "summary": "在惠子的比擬中，大樗不合木工取材尺度，對應莊子言論宏大而不合世俗實用標準。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "樗不合木工尺度，莊子之言不合世俗實用尺度",
+            "explanation": "在惠子的比擬中，大樗不合木工取材尺度，對應莊子言論宏大而不合世俗實用標準。"
+          },
+          {
+            "id": "b",
+            "text": "樗遭到木工砍伐，莊子之言已使莊子受刑",
+            "explanation": "樹尚未遭砍、莊子也未在此受刑，這是無據加事件。"
+          },
+          {
+            "id": "c",
+            "text": "樗可製作大器，莊子之言可直接用於治國",
+            "explanation": "可製大器與可治國把惠子不合實用的評價方向倒轉。"
+          },
+          {
+            "id": "d",
+            "text": "樗的枝葉很少，莊子之言也缺乏具體內容",
+            "explanation": "枝葉多少並未被比較，核心是合不合用途尺度。"
+          }
+        ],
+        "misconception": "樹尚未遭砍、莊子也未在此受刑，這是無據加事件；可製大器與可治國把惠子不合實用的評價方向倒轉；枝葉多少並未被比較，核心是合不合用途尺度。"
+      },
+      "objective": "惠子由大樗轉到「子之言」，兩者的相似關係是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p05-b00-translation",
+      "ordinal": 51,
+      "baseQuestionHash": "ad8cf6898e38fc620a850e1c7914adab4088dcdca25466143289f593c2716bee",
+      "patch": {
+        "explanation": "莊子把樹放在廣闊曠野，讓人遊臥其下、樹免斧害，把注意力由木材用途轉到保全與自在。這不是暫時休養等待成材，也不是換個地方賣高價。若仍以日後獲利解釋，就沒有回應他對單一功用尺度的突破。",
+        "summary": "莊子把樹放在廣闊曠野，讓人遊臥其下、樹免斧害，把注意力由木材用途轉到保全與自在。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "移到偏遠地方等待買主，使樹終能賣得善價",
+            "explanation": "等買主賣高價仍以商品價值衡量，原文未如此安排。"
+          },
+          {
+            "id": "b",
+            "text": "以長期休養矯正樹形，使它日後合乎規矩",
+            "explanation": "沒有矯正枝幹的工序，莊子接納樹的不材。"
+          },
+          {
+            "id": "c",
+            "text": "先使大樹符合眾人尺度，再讓人於樹下自由休息",
+            "explanation": "自由休息不以先成材為條件，原文正保留不材而免斧害。"
+          },
+          {
+            "id": "d",
+            "text": "離開狹窄的功用尺度，使人與樹免害而自在",
+            "explanation": "莊子把樹放在廣闊曠野，讓人遊臥其下、樹免斧害，把注意力由木材用途轉到保全與自在。"
+          }
+        ],
+        "misconception": "等買主賣高價仍以商品價值衡量，原文未如此安排；沒有矯正枝幹的工序，莊子接納樹的不材；自由休息不以先成材為條件，原文正保留不材而免斧害。"
+      },
+      "objective": "莊子為大樹安排的處所與活動，如何回應「無用」之憂？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e04-p06-b00-c01",
+      "ordinal": 52,
+      "baseQuestionHash": "dce933242f0557b84301fb7f68c06dd35c458edbe815604d609b73710b1f5c55",
+      "patch": {
+        "explanation": "拙於用大的批評落在不懂配合大物的特點轉換用法，腰舟建議就是具體示範。惠子已能種成大瓠，爭點不在種植技能。也沒有買葫蘆的百金客人；不能把藥方故事的角色和交易移到惠子身上。",
+        "summary": "拙於用大的批評落在不懂配合大物的特點轉換用法，腰舟建議就是具體示範。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "未把葫蘆培植成更堅硬的品種",
+            "explanation": "培出更硬品種改變物件本身，莊子先要求換用法。"
+          },
+          {
+            "id": "b",
+            "text": "未因物件的特點轉換使用方法",
+            "explanation": "拙於用大的批評落在不懂配合大物的特點轉換用法，腰舟建議就是具體示範。"
+          },
+          {
+            "id": "c",
+            "text": "未堅持把大瓠反覆製成水瓢以熟練技術",
+            "explanation": "莊子要換用法，反覆原用途並非其解法。"
+          },
+          {
+            "id": "d",
+            "text": "未以世人對大瓠的價格評價決定是否保留",
+            "explanation": "莊子突破現成評價，不是要求按眾人售價作決定。"
+          }
+        ],
+        "misconception": "培出更硬品種改變物件本身，莊子先要求換用法；莊子要換用法，反覆原用途並非其解法；莊子突破現成評價，不是要求按眾人售價作決定。"
+      },
+      "objective": "莊子批評惠子「拙」，重點在何處？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e04-p06-b00-c02",
+      "ordinal": 53,
+      "baseQuestionHash": "3952d550c2a2759706623590815c063c1cb31076e1e6f59584d57233b1524470",
+      "patch": {
+        "explanation": "藥方故事先固定藥效相同而用法、結果不同，再以腰舟把改用原則落在惠子的大瓠上。故事因而是可類推的證據，並非插進一則較貴重物品的趣聞。回答次序要說清先建立哪個關係、再怎樣應用，不能只說先故事後建議。",
+        "summary": "藥方故事先固定藥效相同而用法、結果不同，再以腰舟把改用原則落在惠子的大瓠上。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "先證同物異用可有異效，再把改用原則施於大瓠",
+            "explanation": "藥方故事先固定藥效相同而用法、結果不同，再以腰舟把改用原則落在惠子的大瓠上。"
+          },
+          {
+            "id": "b",
+            "text": "先證同物藥效會改變，再勸惠子改良葫蘆的質地",
+            "explanation": "一也說藥效相同，腰舟又換用途而非改質地，兩環均錯。"
+          },
+          {
+            "id": "c",
+            "text": "先證交易所得高於勞作，再勸惠子將大瓠出售",
+            "explanation": "封地源於換用立功，結尾建議腰舟而非售瓠。"
+          },
+          {
+            "id": "d",
+            "text": "先證凡有用者容易遭害，再勸惠子不要使用大瓠",
+            "explanation": "藥方例寫用法不同而異效，有能遇害是後面狸狌，腰舟仍是使用建議。"
+          }
+        ],
+        "misconception": "一也說藥效相同，腰舟又換用途而非改質地，兩環均錯；封地源於換用立功，結尾建議腰舟而非售瓠；藥方例寫用法不同而異效，有能遇害是後面狸狌，腰舟仍是使用建議。"
+      },
+      "objective": "先說藥方故事，再提出大樽，如何形成說理次序？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e04-p06-b00-c03",
+      "ordinal": 54,
+      "baseQuestionHash": "d95646e7184dcb688a84a0c6872e224ff7248fec1000f2311916beba78724a4e",
+      "patch": {
+        "explanation": "不中繩墨、不中規矩共同指出樗不合木工尺度，惠子再用它比莊子之言不合實用標準。對應的是評價物與言論時都用現成尺度，不是生長快慢或篇幅長短。抓住不中，就能找出真正相似點。",
+        "summary": "不中繩墨、不中規矩共同指出樗不合木工尺度，惠子再用它比莊子之言不合實用標準。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "木工不取質地不合之樹—世人不取作者身分低微之言",
+            "explanation": "前半有材質依據，後半卻偷換成身分；惠子評的是言論功用。"
+          },
+          {
+            "id": "b",
+            "text": "木工不取外形不整之樹—世人不取辭句不工整之言",
+            "explanation": "樹形不整不等於莊子辭句不整，文本對應大而無用而非語句美醜。"
+          },
+          {
+            "id": "c",
+            "text": "木工不取體形巨大之樹—世人不取涵蓋範圍廣大之言",
+            "explanation": "不取的直接原因在不中尺度，不能將大本身當成唯一被拒原因。"
+          },
+          {
+            "id": "d",
+            "text": "木工不取不合尺度之樹—世人不取不合實用之言",
+            "explanation": "不中繩墨、不中規矩共同指出樗不合木工尺度，惠子再用它比莊子之言不合實用標準。"
+          }
+        ],
+        "misconception": "前半有材質依據，後半卻偷換成身分；惠子評的是言論功用；樹形不整不等於莊子辭句不整，文本對應大而無用而非語句美醜；不取的直接原因在不中尺度，不能將大本身當成唯一被拒原因。"
+      },
+      "objective": "惠子用大樗譏評莊子之言，哪一對應最貼合他的立場？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e04-p06-b00-c04",
+      "ordinal": 55,
+      "baseQuestionHash": "9e1b33019ca8c6404d31841cc80508ce4c81ca56d71c9b08a4db745f7175eb62",
+      "patch": {
+        "explanation": "莊子補上的尺度是能否免受役用之害、保有自在生存空間，樹因不材而免斧，人得遊臥。它比大瓠換作腰舟再進一層：不必另製成器或賺取報酬，仍有保全價值。把兩輪都譯成找新實用，就漏了這一轉進。",
+        "summary": "莊子補上的尺度是能否免受役用之害、保有自在生存空間，樹因不材而免斧，人得遊臥。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "能否轉換操作方法，成為不同用途的器具",
+            "explanation": "改成別種器具較接近大瓠一輪，本句重在免害。"
+          },
+          {
+            "id": "b",
+            "text": "能否掌握物件功效，在新場合取得實際報酬",
+            "explanation": "新場合獲利是藥方例的作用，未盡樗樹保全自在之意。"
+          },
+          {
+            "id": "c",
+            "text": "能否免受役用傷害，保有自在生存的空間",
+            "explanation": "莊子補上的尺度是能否免受役用之害、保有自在生存空間，樹因不材而免斧，人得遊臥。"
+          },
+          {
+            "id": "d",
+            "text": "能否合乎木工尺度，透過加工成為合用木材",
+            "explanation": "修成合用木材仍服從惠子的原尺度，並非新增尺度。"
+          }
+        ],
+        "misconception": "改成別種器具較接近大瓠一輪，本句重在免害；新場合獲利是藥方例的作用，未盡樗樹保全自在之意；修成合用木材仍服從惠子的原尺度，並非新增尺度。"
+      },
+      "objective": "若以世俗功用為尺度，大樗似乎沒有價值；莊子補上了哪個尺度？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p11-b00-c01",
+      "ordinal": 56,
+      "baseQuestionHash": "a309ecdc0ddf854f2226dfcd6e05cfaec2c2f88f3beb4c9ee707fadf33f54b66",
+      "patch": {
+        "explanation": "惠子以常用失敗判無用，莊子換尺度反駁，兩種立場在問答中呈現，抽象觀念便成可追隨的爭辯。讀者也可看見人物如何舉例與回應，而非只收一個主旨口號。問答的作用須連人物分歧說明，不只是形式有兩人說話。",
+        "summary": "惠子以常用失敗判無用，莊子換尺度反駁，兩種立場在問答中呈現，抽象觀念便成可追隨的爭辯。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "讓作者逐次記錄植物生長，使時間線更為清楚",
+            "explanation": "植物生長只是材料，兩輪結構主要推進價值辯論。"
+          },
+          {
+            "id": "b",
+            "text": "讓不同尺度在人物對答中相撞，使抽象思想具體化",
+            "explanation": "惠子以常用失敗判無用，莊子換尺度反駁，兩種立場在問答中呈現，抽象觀念便成可追隨的爭辯。"
+          },
+          {
+            "id": "c",
+            "text": "讓兩人交替補充相同立場，使討論沒有爭辯",
+            "explanation": "兩人判斷不同，不能說在補充同一立場。"
+          },
+          {
+            "id": "d",
+            "text": "讓讀者只聽結論而略去理由，使論述更精簡",
+            "explanation": "藥方等故事正是理由，問答沒有省略推論。"
+          }
+        ],
+        "misconception": "植物生長只是材料，兩輪結構主要推進價值辯論；兩人判斷不同，不能說在補充同一立場；藥方等故事正是理由，問答沒有省略推論。"
+      },
+      "objective": "用惠莊問答展開「有用／無用」之辯，有何作用？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p11-b00-c02",
+      "ordinal": 57,
+      "baseQuestionHash": "a8b5b0fcdc3ed282108098efa0a69bd8ac80929d37d65f05457c3016c272b0ac",
+      "patch": {
+        "explanation": "莊子的話中再放入宋人的商議與客人的行動，形成故事套故事，讓同藥異用的結果具體可見。內層故事講完便回到大瓠，支持改用建議。宋人並非直接與惠子對話，莊子仍是講述及運用此例的人。",
+        "summary": "莊子的話中再放入宋人的商議與客人的行動，形成故事套故事，讓同藥異用的結果具體可見。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "形成話中有故事，使用途差異及結果可具體觀察",
+            "explanation": "莊子的話中再放入宋人的商議與客人的行動，形成故事套故事，讓同藥異用的結果具體可見。"
+          },
+          {
+            "id": "b",
+            "text": "轉由宋人直接對惠子說話，使莊子退出辯論",
+            "explanation": "宋人的話由莊子轉述，未取代莊子直接參與外層辯論。"
+          },
+          {
+            "id": "c",
+            "text": "讓宋人的收益成為唯一判準，說明一切價值都可換算為金錢",
+            "explanation": "故事比較不同用法的效果，沒有把一切價值限為金錢，後文也轉向自在。"
+          },
+          {
+            "id": "d",
+            "text": "把大瓠問題換成藥方問題，省去對惠子困難的回應",
+            "explanation": "故事後立刻接大瓠腰舟，仍回應原難題，並未偷換後擱置。"
+          }
+        ],
+        "misconception": "宋人的話由莊子轉述，未取代莊子直接參與外層辯論；故事比較不同用法的效果，沒有把一切價值限為金錢，後文也轉向自在；故事後立刻接大瓠腰舟，仍回應原難題，並未偷換後擱置。"
+      },
+      "objective": "在惠莊對答中加入宋人及客的言行，產生甚麼效果？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e04-p11-b00-c03",
+      "ordinal": 58,
+      "baseQuestionHash": "c56cd637d5265874b8b59f40105d76a91ec680c44ce3a776a79ba4397f0becc4",
+      "patch": {
+        "explanation": "惠子以自述種瓠作立論材料，屬故事內人物說自己經驗；整篇藉人物和事件說理，則屬作品的寓言層次。兩種說法談的層次不同，可以相容。不能由角色說我便推出作者本人親歷，更不能把整段當已核實的歷史紀錄。",
+        "summary": "惠子以自述種瓠作立論材料，屬故事內人物說自己經驗；整篇藉人物和事件說理，則屬作品的寓言層次。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "自述顯示作者親歷種瓠，寓言只限宋人藥方一段",
+            "explanation": "角色自述不等於作者親歷，寓言也不限藥方一段。"
+          },
+          {
+            "id": "b",
+            "text": "自述交代事件確切年代，寓言由斄牛比喻才開始",
+            "explanation": "自述未交代確切年代，寓言性不待斄牛比喻才開始。"
+          },
+          {
+            "id": "c",
+            "text": "自述提供篇中主要結論，寓言只補充景物供觀賞",
+            "explanation": "自述提出的是待反駁的判斷，後面故事服務說理而非供賞景。"
+          },
+          {
+            "id": "d",
+            "text": "自述屬角色的立論材料，寓言屬作品整體的表達方式",
+            "explanation": "惠子以自述種瓠作立論材料，屬故事內人物說自己經驗；整篇藉人物和事件說理，則屬作品的寓言層次。"
+          }
+        ],
+        "misconception": "角色自述不等於作者親歷，寓言也不限藥方一段；自述未交代確切年代，寓言性不待斄牛比喻才開始；自述提出的是待反駁的判斷，後面故事服務說理而非供賞景。"
+      },
+      "objective": "惠子自述受瓠經過，與作品以寓言說理的方式如何相容？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p11-b00-c04",
+      "ordinal": 59,
+      "baseQuestionHash": "dece392ed729864450e26dd0c08922a7e1e1a36d43027cdd3c99ebb47185b5c2",
+      "patch": {
+        "explanation": "能不龜手一也明示兩方藥物防皸效用相同，這是比較用法造成異效的共同基礎。宋人仍漂絮，客人卻藉水戰受封，工作與收益正是不同的部分。若把相同條件也說成不同，就無法單靠此例突出所用之異。",
+        "summary": "能不龜手一也明示兩方藥物防皸效用相同，這是比較用法造成異效的共同基礎。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "使用藥方從事的工作相同",
+            "explanation": "漂絮與水戰是不同工作，正是使用場合的變化。"
+          },
+          {
+            "id": "b",
+            "text": "使用藥方時的季節相同",
+            "explanation": "只明言水戰在冬季，未說漂絮只在同一季節。"
+          },
+          {
+            "id": "c",
+            "text": "藥方防止手皸裂的效用相同",
+            "explanation": "能不龜手一也明示兩方藥物防皸效用相同，這是比較用法造成異效的共同基礎。"
+          },
+          {
+            "id": "d",
+            "text": "使用藥方後的收益相同",
+            "explanation": "數金和封地呈現收益差異，並非固定不變的條件。"
+          }
+        ],
+        "misconception": "漂絮與水戰是不同工作，正是使用場合的變化；只明言水戰在冬季，未說漂絮只在同一季節；數金和封地呈現收益差異，並非固定不變的條件。"
+      },
+      "objective": "莊子以宋人與客人的結果說明「所用之異」。依原文，哪一項相同條件使這個對比成立？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p11-b00-c05",
+      "ordinal": 60,
+      "baseQuestionHash": "00253fa6d0b20e1ef68b56aeafafeb16c04f49fb0e1595fb73da90b3b3c4b02c",
+      "patch": {
+        "explanation": "蓬之心以蓬草喻心思閉塞，指惠子固守盛水作瓢的用途而未想別用。字面有草塞心與草形卷曲兩解，喻意都重在不通，不必強定其一。把形象接到人物的具體判斷，才比只說用了比喻更完整。",
+        "summary": "蓬之心以蓬草喻心思閉塞，指惠子固守盛水作瓢的用途而未想別用。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "以草蓬隨風移動喻心志不定，批評惠子經常更換用法",
+            "explanation": "隨風不定與惠子固守既定用法相反，並非批評經常換法。"
+          },
+          {
+            "id": "b",
+            "text": "以蓬草喻心思閉塞，批評惠子未能轉換用法",
+            "explanation": "蓬之心以蓬草喻心思閉塞，指惠子固守盛水作瓢的用途而未想別用。"
+          },
+          {
+            "id": "c",
+            "text": "以草蓬生長茂密喻見識豐富，肯定惠子試用大瓠的經驗",
+            "explanation": "這句是責備心思受限，不是稱許見識豐富。"
+          },
+          {
+            "id": "d",
+            "text": "以草蓬易被折斷喻意志薄弱，批評惠子未能堅持種植",
+            "explanation": "惠子已種成大瓠，問題不在未堅持種植。"
+          }
+        ],
+        "misconception": "隨風不定與惠子固守既定用法相反，並非批評經常換法；這句是責備心思受限，不是稱許見識豐富；惠子已種成大瓠，問題不在未堅持種植。"
+      },
+      "objective": "由「蓬之心」推至人物思想時，哪項分析最能兼顧字面與喻意？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e04-p11-b00-c06",
+      "ordinal": 61,
+      "baseQuestionHash": "bb47b3dd87f9252e57ae8db22fc44fa9f78e442fc643b5c6228fa40d7997b96a",
+      "patch": {
+        "explanation": "以垂天之雲明喻並誇張牛的巨大，再接不能執鼠，造成體形與具體能力的反差。它說明大不等於樣樣能，不能由大小一項判斷總價值。有能而招害則由前面的狸狌證明，答題時不宜把相鄰例子的作用互換。",
+        "summary": "以垂天之雲明喻並誇張牛的巨大，再接不能執鼠，造成體形與具體能力的反差。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "把巨大形體誇張地呈現，突顯大小不能決定某項能力",
+            "explanation": "以垂天之雲明喻並誇張牛的巨大，再接不能執鼠，造成體形與具體能力的反差。"
+          },
+          {
+            "id": "b",
+            "text": "把巨大形體誇張地呈現，證明有用者終會因用招禍",
+            "explanation": "招禍直接見狸狌遇網，牛例沒有描寫因有用而遇害。"
+          },
+          {
+            "id": "c",
+            "text": "以雲飄動喻行動輕捷，說明捕鼠需要保持專心",
+            "explanation": "雲喻體量，不在說輕捷，牛反不能捕鼠。"
+          },
+          {
+            "id": "d",
+            "text": "以雲遮天喻視野受阻，說明外形會妨礙實際用途",
+            "explanation": "原句未說雲遮住視野，不能加此原因解釋捕鼠失敗。"
+          }
+        ],
+        "misconception": "招禍直接見狸狌遇網，牛例沒有描寫因有用而遇害；雲喻體量，不在說輕捷，牛反不能捕鼠；原句未說雲遮住視野，不能加此原因解釋捕鼠失敗。"
+      },
+      "objective": "「其大若垂天之雲」怎樣配合「不能執鼠」的說理？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p11-b00-c07",
+      "ordinal": 62,
+      "baseQuestionHash": "4a78daf93df0ddf7a83a4df7ac75a4e11f451e3b8cb3750ba4b75ac4864fa3ee",
+      "patch": {
+        "explanation": "兩句分寫粗幹多瘤、細枝卷曲，並各接不合量度工具的結果，形成整齊對偶。從幹到枝都不材，使惠子的無用判斷有具體依據。這是同一棵樹不同部位的並列描寫，不能讀成春秋變化或砍伐先後。",
+        "summary": "兩句分寫粗幹多瘤、細枝卷曲，並各接不合量度工具的結果，形成整齊對偶。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "分寫幹枝形態不同，以證它們應改製成不同器物",
+            "explanation": "惠子只證不合木工尺度，沒有分配新器物用途。"
+          },
+          {
+            "id": "b",
+            "text": "分寫幹枝遭砍情況，以證有用之物已經招來危害",
+            "explanation": "原句寫原有形態，未敘砍伐；有能遇害另由狸狌呈現。"
+          },
+          {
+            "id": "c",
+            "text": "分寫枝幹各有用途，整齊地表現惠子善於變通",
+            "explanation": "兩句都说不中，並非證明各部位已有適合用途。"
+          },
+          {
+            "id": "d",
+            "text": "分寫幹與枝均不合木工尺度，整齊地累積不材的依據",
+            "explanation": "兩句分写粗幹多瘤、細枝卷曲，並各接不合量度工具的結果，形成整齊對偶。"
+          }
+        ],
+        "misconception": "惠子只證不合木工尺度，沒有分配新器物用途；原句寫原有形態，未敘砍伐；有能遇害另由狸狌呈現；兩句都说不中，並非證明各部位已有適合用途。"
+      },
+      "objective": "兩句相對，怎樣使惠子的判斷更具體？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e04-p11-b00-c08",
+      "ordinal": 63,
+      "baseQuestionHash": "b3806cc8bfd96fbdeaddac155aeb6f3fcb849715f546a0ee398dd00bfe6d738c",
+      "patch": {
+        "explanation": "安所困苦是反問不會受困害，把無用轉成可免斧害的優點；改成所以困苦則把無用當成困苦原因。這會由反駁惠子變成順着他的功用成見。比較句式時要追到肯定或否定的判斷方向，不能只報反問改陳述。",
+        "summary": "安所困苦是反問不會受困害，把無用轉成可免斧害的優點；改成所以困苦則把無用當成困苦原因。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "由反問證明有用，變為肯定大樹能加工成材",
+            "explanation": "原句未說可加工成材，反問說的是不受困害。"
+          },
+          {
+            "id": "b",
+            "text": "由感嘆樹木將亡，變為敘述工匠已停止砍伐",
+            "explanation": "原句不是預告樹將死，也沒有工匠停止砍伐的事件。"
+          },
+          {
+            "id": "c",
+            "text": "由反問解除無用之憂，變為順承惠子的功用成見",
+            "explanation": "安所困苦是反問不會受困害，把無用轉成可免斧害的優點；改成所以困苦則把無用當成困苦原因。"
+          },
+          {
+            "id": "d",
+            "text": "由疑問請惠子作答，變為作者無法作出判斷",
+            "explanation": "安所困苦已有明確反問立場，不是真要惠子提供未知答案。"
+          }
+        ],
+        "misconception": "原句未說可加工成材，反問說的是不受困害；原句不是預告樹將死，也沒有工匠停止砍伐的事件；安所困苦已有明確反問立場，不是真要惠子提供未知答案。"
+      },
+      "objective": "若改為「無所可用，所以困苦」，論旨會怎樣改變？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p09-b01-g02",
+      "ordinal": 64,
+      "baseQuestionHash": "7363d918ca71e70ed319d8f7c6c798d1340dbc5252f18d5593d5ec2c810c5907",
+      "patch": {
+        "explanation": "吾有大樹的樹是樹木，受大修飾並作有的對象，屬名詞。我樹之或樹之於曠野才以樹作種植動詞。同字要看有甚麼與做甚麼的結構分別，不能只背全篇一個解法。",
+        "summary": "吾有大樹的樹是樹木，受大修飾並作有的對象，屬名詞。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "種植",
+            "explanation": "種植是動作，吾有大樹則說擁有一棵樹。"
+          },
+          {
+            "id": "b",
+            "text": "樹木",
+            "explanation": "吾有大樹的樹是樹木，受大修飾並作有的對象，屬名詞。"
+          },
+          {
+            "id": "c",
+            "text": "樹立",
+            "explanation": "樹立是動詞，這裏的大樹是有的物件。"
+          },
+          {
+            "id": "d",
+            "text": "樹根",
+            "explanation": "樹根只是一個部位，原句樹指整棵樹。"
+          }
+        ],
+        "misconception": "種植是動作，吾有大樹則說擁有一棵樹；樹立是動詞，這裏的大樹是有的物件；樹根只是一個部位，原句樹指整棵樹。"
+      },
+      "objective": "按上下文理解，這裏「樹」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p09-b01-g04",
+      "ordinal": 65,
+      "baseQuestionHash": "a7153cb4608d184028ea3c5085eb8b4fb1d4dbe697cd7ecf83e280dc469bb284",
+      "patch": {
+        "explanation": "機辟的辟指捕獸陷阱，中於機辟說觸中機關，辟在此屬名物。不辟高下才通避，說避開的動作。把兩句並讀，看中於後面接甚麼危險物，就能避免通假義一概套用。",
+        "summary": "機辟的辟指捕獸陷阱，中於機辟說觸中機關，辟在此屬名物。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "捕獸陷阱",
+            "explanation": "機辟的辟指捕獸陷阱，中於機辟說觸中機關，辟在此屬名物。"
+          },
+          {
+            "id": "b",
+            "text": "躲避",
+            "explanation": "躲避適用於不辟高下，機辟卻是被觸中的陷阱。"
+          },
+          {
+            "id": "c",
+            "text": "開闢",
+            "explanation": "開闢是開拓的動作，不能作此處捕獸裝置名稱。"
+          },
+          {
+            "id": "d",
+            "text": "徵召",
+            "explanation": "徵召指召人任用，與狸狌遇害的情境不符。"
+          }
+        ],
+        "misconception": "躲避適用於不辟高下，機辟卻是被觸中的陷阱；開闢是開拓的動作，不能作此處捕獸裝置名稱；徵召指召人任用，與狸狌遇害的情境不符。"
+      },
+      "objective": "按上下文理解，這裏「辟」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p09-b02-g02",
+      "ordinal": 66,
+      "baseQuestionHash": "004939bb2351d8e4087dc56cdbd257cf42245cc3d4705814bd9eed127e6eec90",
+      "patch": {
+        "explanation": "種在大瓠之種中是種子，魏王贈送的物品，惠子其後才樹之，種下它。之把大瓠和種子的所屬關係連起來，故種是名詞。不能把贈送的東西解成種植動作或播種時節。",
+        "summary": "種在大瓠之種中是種子，魏王贈送的物品，惠子其後才樹之，種下它。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "種植",
+            "explanation": "種植是之後樹之的動作，此處是被贈予的物品。"
+          },
+          {
+            "id": "b",
+            "text": "種類",
+            "explanation": "種類是分類，不能直接接後文把它種下長成果實。"
+          },
+          {
+            "id": "c",
+            "text": "播種時節",
+            "explanation": "播種時節是時間，不是魏王交給惠子的物品。"
+          },
+          {
+            "id": "d",
+            "text": "種子",
+            "explanation": "種在大瓠之種中是種子，魏王贈送的物品，惠子其後才樹之，種下它。"
+          }
+        ],
+        "misconception": "種植是之後樹之的動作，此處是被贈予的物品；種類是分類，不能直接接後文把它種下長成果實；播種時節是時間，不是魏王交給惠子的物品。"
+      },
+      "objective": "按上下文理解，這裏「種」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p09-b02-g05",
+      "ordinal": 67,
+      "baseQuestionHash": "6908a4f2dc47f5aad2b0bf4b0e6ac6638941fc8e692aa409eff46007a4b19276",
+      "patch": {
+        "explanation": "堅在其堅中指堅固程度，不能自舉說殼的強度承受不了盛水重量。它提出要評量的性質，不是另有一件硬物。上下文都談葫蘆作容器的限制，沒有人的堅決態度或立場。",
+        "summary": "堅在其堅中指堅固程度，不能自舉說殼的強度承受不了盛水重量。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "堅硬之物",
+            "explanation": "堅硬之物把性質改成另一物件，此處說葫蘆有多堅固。"
+          },
+          {
+            "id": "b",
+            "text": "堅決態度",
+            "explanation": "態度屬人心，葫蘆不能承水是材料條件。"
+          },
+          {
+            "id": "c",
+            "text": "堅固程度",
+            "explanation": "堅在其堅中指堅固程度，不能自舉說殼的強度承受不了盛水重量。"
+          },
+          {
+            "id": "d",
+            "text": "堅持立場",
+            "explanation": "堅持立場是人物行為，不是殼的強度。"
+          }
+        ],
+        "misconception": "堅硬之物把性質改成另一物件，此處說葫蘆有多堅固；態度屬人心，葫蘆不能承水是材料條件；堅持立場是人物行為，不是殼的強度。"
+      },
+      "objective": "按上下文理解，這裏「堅」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p09-b02-g07",
+      "ordinal": 68,
+      "baseQuestionHash": "ec43cc9a179206343fa51f54a577c96c27fed74304ad058dd35cd66219e218a4",
+      "patch": {
+        "explanation": "剖是剖開，剖之以為瓢說把葫蘆切開，想製成舀水器。以為瓢交代保留材料再利用的目的，所以不能解成劈碎。後面掊之才是認定無用後打碎，兩個動作不要混同。",
+        "summary": "剖是剖開，剖之以為瓢說把葫蘆切開，想製成舀水器。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "剝皮",
+            "explanation": "剝皮只去表皮，不足以表達剖開製瓢。"
+          },
+          {
+            "id": "b",
+            "text": "剖開",
+            "explanation": "剖是剖開，剖之以為瓢說把葫蘆切開，想製成舀水器。"
+          },
+          {
+            "id": "c",
+            "text": "分析",
+            "explanation": "分析是抽象用法，這裏是加工實物。"
+          },
+          {
+            "id": "d",
+            "text": "劈碎",
+            "explanation": "劈碎會破壞製瓢材料，與以為瓢的目的不合。"
+          }
+        ],
+        "misconception": "剝皮只去表皮，不足以表達剖開製瓢；分析是抽象用法，這裏是加工實物；劈碎會破壞製瓢材料，與以為瓢的目的不合。"
+      },
+      "objective": "按上下文理解，這裏「剖」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p09-b02-g08",
+      "ordinal": 69,
+      "baseQuestionHash": "983e9713aa60ba9b6596f2d4f6eb8c79d7ee353e7928f8616e82422c4a58f55a",
+      "patch": {
+        "explanation": "瓢是舀水器，惠子把葫蘆剖開來製作，屬慣常容器用途。後來莊子說大樽才轉為浮水工具。辨別名物須按這一輪嘗試的動作與用途，不能把後來的新建議提前讀入。",
+        "summary": "瓢是舀水器，惠子把葫蘆剖開來製作，屬慣常容器用途。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "舀水的器具",
+            "explanation": "瓢是舀水器，惠子把葫蘆剖開來製作，屬慣常容器用途。"
+          },
+          {
+            "id": "b",
+            "text": "盛酒的器具",
+            "explanation": "盛酒器不是剖瓠作瓢的本句用途。"
+          },
+          {
+            "id": "c",
+            "text": "浮水的工具",
+            "explanation": "浮水是大樽的新用，瓢仍是舀水器。"
+          },
+          {
+            "id": "d",
+            "text": "烹食的鍋具",
+            "explanation": "鍋具用於烹煮，原文沒有加熱煮食。"
+          }
+        ],
+        "misconception": "盛酒器不是剖瓠作瓢的本句用途；浮水是大樽的新用，瓢仍是舀水器；鍋具用於烹煮，原文沒有加熱煮食。"
+      },
+      "objective": "按上下文理解，這裏「瓢」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p09-b02-g12",
+      "ordinal": 70,
+      "baseQuestionHash": "bcdf4fcf8fa006f51d606f8df05c356810e1f50fb307c88efcf9a17dd5357f9d",
+      "patch": {
+        "explanation": "夫子是莊子對眼前惠子的尊稱，接着批評他拙於用大。魏王只是惠子敘述中的贈種者，宋人故事尚未展開。找稱謂指向要先確定誰對誰說話，不能任選引文中出現過的人。",
+        "summary": "夫子是莊子對眼前惠子的尊稱，接着批評他拙於用大。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "對魏王的尊稱",
+            "explanation": "魏王沒有在這場對答中受莊子直接稱呼。"
+          },
+          {
+            "id": "b",
+            "text": "對宋人的尊稱",
+            "explanation": "宋人屬隨後的內層故事，不是眼前對話者。"
+          },
+          {
+            "id": "c",
+            "text": "對木匠的尊稱",
+            "explanation": "木匠在後一輪出現，這裏莊子正答惠子。"
+          },
+          {
+            "id": "d",
+            "text": "對惠子的尊稱",
+            "explanation": "夫子是莊子對眼前惠子的尊稱，接着批評他拙於用大。"
+          }
+        ],
+        "misconception": "魏王沒有在這場對答中受莊子直接稱呼；宋人屬隨後的內層故事，不是眼前對話者；木匠在後一輪出現，這裏莊子正答惠子。"
+      },
+      "objective": "按上下文理解，這裏「夫子」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p09-b02-g15",
+      "ordinal": 71,
+      "baseQuestionHash": "d6d9ded8d36823e4280c9535c74c0409b611b8499f8853959b5a72ae704d6067",
+      "patch": {
+        "explanation": "用大的大指大的事物，形容詞在此名物化，作使用的對象。它承接大瓠，也可概括同類大物，並非叫人使用更大的力度。翻譯成不善運用大的東西，才保留莊子對用法的批評。",
+        "summary": "用大的大指大的事物，形容詞在此名物化，作使用的對象。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "形體增大",
+            "explanation": "形體增大是變化，這裏用後面需要被使用的物件。"
+          },
+          {
+            "id": "b",
+            "text": "年長的人",
+            "explanation": "年長的人沒有由大瓠情境推出，大在此指形體大物。"
+          },
+          {
+            "id": "c",
+            "text": "大的事物",
+            "explanation": "用大的大指大的事物，形容詞在此名物化，作使用的對象。"
+          },
+          {
+            "id": "d",
+            "text": "力度很大",
+            "explanation": "力度大說怎樣用力，原句說用甚麼東西。"
+          }
+        ],
+        "misconception": "形體增大是變化，這裏用後面需要被使用的物件；年長的人沒有由大瓠情境推出，大在此指形體大物；力度大說怎樣用力，原句說用甚麼東西。"
+      },
+      "objective": "按上下文理解，這裏「大」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p09-b02-g16",
+      "ordinal": 72,
+      "baseQuestionHash": "dcd93ccfe710675a4859f1f47b11576d764fc08df7fd795b293632ba8aab55fc",
+      "patch": {
+        "explanation": "善在善為不龜手之藥中是擅長，後面為交代會製作藥物的技能。宋人的技術可防皸裂，但用途是否靈活另須從故事判斷。善在這裏不直接評品德善良或對人友好，技能與道德不能混成一項。",
+        "summary": "善在善為不龜手之藥中是擅長，後面為交代會製作藥物的技能。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "善良",
+            "explanation": "善良評品德，本句只說製藥本領。"
+          },
+          {
+            "id": "b",
+            "text": "擅長",
+            "explanation": "善在善為不龜手之藥中是擅長，後面為交代會製作藥物的技能。"
+          },
+          {
+            "id": "c",
+            "text": "友好",
+            "explanation": "友好需要交往對象，原句接的是製藥動作。"
+          },
+          {
+            "id": "d",
+            "text": "認為好",
+            "explanation": "認為好是意動評價，善為在此說擅長製作。"
+          }
+        ],
+        "misconception": "善良評品德，本句只說製藥本領；友好需要交往對象，原句接的是製藥動作；認為好是意動評價，善為在此說擅長製作。"
+      },
+      "objective": "按上下文理解，這裏「善」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p09-b02-g19",
+      "ordinal": 73,
+      "baseQuestionHash": "98a3b22b72639c91245f7a0e6a53e5a54d0222224540f9fd973cb6b5ce4e9e9a",
+      "patch": {
+        "explanation": "方在買其方中是藥方，客人要買的是製造防皸藥的配方，之後用於水戰。其回指宋人的技術，百金是交易價格。不是買一塊地方，也不因方字便表示形狀或正在進行。",
+        "summary": "方在買其方中是藥方，客人要買的是製造防皸藥的配方，之後用於水戰。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "藥方",
+            "explanation": "方在買其方中是藥方，客人要買的是製造防皸藥的配方，之後用於水戰。"
+          },
+          {
+            "id": "b",
+            "text": "地方",
+            "explanation": "地方無法接回製藥技術的轉移。"
+          },
+          {
+            "id": "c",
+            "text": "方形",
+            "explanation": "方形是外觀，本句買的是可以使用的配方。"
+          },
+          {
+            "id": "d",
+            "text": "正在",
+            "explanation": "正在是時間副詞，這裏方是買的對象。"
+          }
+        ],
+        "misconception": "地方無法接回製藥技術的轉移；方形是外觀，本句買的是可以使用的配方；正在是時間副詞，這裏方是買的對象。"
+      },
+      "objective": "按上下文理解，這裏「方」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p09-b02-g20",
+      "ordinal": 74,
+      "baseQuestionHash": "2ca602474cb1f8ef5d595b021ae951b276d27a33c5450980a7445e758a46db4c",
+      "patch": {
+        "explanation": "族在聚族中是家族，宋人召集族人商量是否出售世代使用的藥方。聚是召集動作，族是被召集的人群，兩者角色不同。不能把一家共同生計的決定擴成整個民族的議事。",
+        "summary": "族在聚族中是家族，宋人召集族人商量是否出售世代使用的藥方。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "民族",
+            "explanation": "民族範圍過大，世世漂絮在此說一家傳業。"
+          },
+          {
+            "id": "b",
+            "text": "種類",
+            "explanation": "種類是分類，不能成為商議賣方的人群。"
+          },
+          {
+            "id": "c",
+            "text": "聚集",
+            "explanation": "聚集已由聚表達，族指被聚集的家人。"
+          },
+          {
+            "id": "d",
+            "text": "家族",
+            "explanation": "族在聚族中是家族，宋人召集族人商量是否出售世代使用的藥方。"
+          }
+        ],
+        "misconception": "民族範圍過大，世世漂絮在此說一家傳業；種類是分類，不能成為商議賣方的人群；聚集已由聚表達，族指被聚集的家人。"
+      },
+      "objective": "按上下文理解，這裏「族」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p09-b02-g21",
+      "ordinal": 75,
+      "baseQuestionHash": "20b5651907bdf62b61af5c751228ffb6913d8127caca8de7a289503292ad884e",
+      "patch": {
+        "explanation": "謀在聚族而謀中是商議，所議是拿世代數金收入與一朝百金比較，決定是否出售配方。謀在此是大家做的動作，並不天然含陰謀害人的貶義。須依商量的內容判斷，不能只憑謀字猜惡意。",
+        "summary": "謀在聚族而謀中是商議，所議是拿世代數金收入與一朝百金比較，決定是否出售配方。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "謀害",
+            "explanation": "謀害須有受害對象，這裏只談出售藥方。"
+          },
+          {
+            "id": "b",
+            "text": "計策",
+            "explanation": "計策是名詞，謀在此表共同商議的動作。"
+          },
+          {
+            "id": "c",
+            "text": "商議",
+            "explanation": "謀在聚族而謀中是商議，所議是拿世代數金收入與一朝百金比較，決定是否出售配方。"
+          },
+          {
+            "id": "d",
+            "text": "圖取",
+            "explanation": "圖取着重想取得某物，原句重在召集討論。"
+          }
+        ],
+        "misconception": "謀害須有受害對象，這裏只談出售藥方；計策是名詞，謀在此表共同商議的動作；圖取着重想取得某物，原句重在召集討論。"
+      },
+      "objective": "按上下文理解，這裏「謀」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p09-b02-g22",
+      "ordinal": 76,
+      "baseQuestionHash": "e905a5ddcdbe4d0faaad76f488733b2f0bc35d08c34c0885ce894a9f1361b388",
+      "patch": {
+        "explanation": "世世是世世代代，說宋人家族長久以漂洗為業，與客人一朝買方後換用對照。它強調代際延續，不等於每一刻不停工作，也非前世來生的輪迴。時間單位是世代，不能變成空間範圍。",
+        "summary": "世世是世世代代，說宋人家族長久以漂洗為業，與客人一朝買方後換用對照。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "每時每刻",
+            "explanation": "每刻不停把傳業延續誤成一天內的工作頻率。"
+          },
+          {
+            "id": "b",
+            "text": "世世代代",
+            "explanation": "世世是世世代代，說宋人家族長久以漂洗為業，與客人一朝買方後換用對照。"
+          },
+          {
+            "id": "c",
+            "text": "前世來生",
+            "explanation": "前世來生加了輪迴觀念，文中只說家族傳業。"
+          },
+          {
+            "id": "d",
+            "text": "天下各地",
+            "explanation": "天下各地是範圍，世世則是時間延續。"
+          }
+        ],
+        "misconception": "每刻不停把傳業延續誤成一天內的工作頻率；前世來生加了輪迴觀念，文中只說家族傳業；天下各地是範圍，世世則是時間延續。"
+      },
+      "objective": "按上下文理解，這裏「世世」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p09-b02-g23",
+      "ordinal": 77,
+      "baseQuestionHash": "92776fdffd28eb924da5e879c2a951fe303cdffbdbdbf6584d26b8c001ce6a43",
+      "patch": {
+        "explanation": "一朝在今一朝而鬻技百金中是一下子、短時間內，對比世世漂絮只得數金。它突出交易收益來得快，未限定必在早上成交。也不能因朝字另讀成一代王朝，否則失去長久與短暫的反差。",
+        "summary": "一朝在今一朝而鬻技百金中是一下子、短時間內，對比世世漂絮只得數金。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "一下子、短時間內",
+            "explanation": "一朝在今一朝而鬻技百金中是一下子、短時間內，對比世世漂絮只得數金。"
+          },
+          {
+            "id": "b",
+            "text": "一天的早上",
+            "explanation": "早上只是朝的另一用法，這裏重點是短時間。"
+          },
+          {
+            "id": "c",
+            "text": "一代王朝之中",
+            "explanation": "王朝是一段政權時期，與一筆交易的即時收益不合。"
+          },
+          {
+            "id": "d",
+            "text": "每一天的早上",
+            "explanation": "每天早上是反覆頻率，原句說一次售方。"
+          }
+        ],
+        "misconception": "早上只是朝的另一用法，這裏重點是短時間；王朝是一段政權時期，與一筆交易的即時收益不合；每天早上是反覆頻率，原句說一次售方。"
+      },
+      "objective": "按上下文理解，這裏「一朝」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p09-b02-g25",
+      "ordinal": 78,
+      "baseQuestionHash": "f4bd8209d8e462671c0b42eaa19e19eb7d7622b327f2ca62f4224ae3bbd56717",
+      "patch": {
+        "explanation": "請與之是請答允把藥方給客人，與表示給予、允予，之指求購的客人。前面已談百金交易，因此不是說無償贈送。把請、與、之連成建議售方的行動，便可分清和他同行等別義。",
+        "summary": "請與之是請答允把藥方給客人，與表示給予、允予，之指求購的客人。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "參與客人行動",
+            "explanation": "參與須有共同活動，這裏決定是否交付藥方。"
+          },
+          {
+            "id": "b",
+            "text": "和客人一同",
+            "explanation": "和客人一同把與作連詞，句中卻需要答允給他的動作。"
+          },
+          {
+            "id": "c",
+            "text": "詢問客人意見",
+            "explanation": "詢問是尚待探問，族人此時已在建議答允。"
+          },
+          {
+            "id": "d",
+            "text": "答允給予客人",
+            "explanation": "請與之是請答允把藥方給客人，與表示給予、允予，之指求購的客人。"
+          }
+        ],
+        "misconception": "參與須有共同活動，這裏決定是否交付藥方；和客人一同把與作連詞，句中卻需要答允給他的動作；詢問是尚待探問，族人此時已在建議答允。"
+      },
+      "objective": "按上下文理解，這裏「與」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p09-b02-g28",
+      "ordinal": 79,
+      "baseQuestionHash": "0e310866e2c32bb82d38e8fc14297f926caff6bf5654d43a7be0617fcb4d34c5",
+      "patch": {
+        "explanation": "使在吳王使之將中是派遣、讓，吳王讓客人統率軍隊。它連接任命者、客人和領兵行動，主從關係清楚。不是出使別國，也不是假設可能發生；下文已敘述實際水戰。",
+        "summary": "使在吳王使之將中是派遣、讓，吳王讓客人統率軍隊。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "出使",
+            "explanation": "出使需要使節外交情境，客人此處被派領軍。"
+          },
+          {
+            "id": "b",
+            "text": "假使",
+            "explanation": "假使引假設，這裏敘述吳王已作的任用。"
+          },
+          {
+            "id": "c",
+            "text": "派遣、讓",
+            "explanation": "使在吳王使之將中是派遣、讓，吳王讓客人統率軍隊。"
+          },
+          {
+            "id": "d",
+            "text": "使者",
+            "explanation": "使者是人員名稱，使在句中作派遣動詞。"
+          }
+        ],
+        "misconception": "出使需要使節外交情境，客人此處被派領軍；假使引假設，這裏敘述吳王已作的任用；使者是人員名稱，使在句中作派遣動詞。"
+      },
+      "objective": "按上下文理解，這裏「使」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p09-b02-g30",
+      "ordinal": 80,
+      "baseQuestionHash": "cf9cc8471058587965a28615f0c8b9adca2a6e48099651d8641f42e797ada760",
+      "patch": {
+        "explanation": "大敗越人是大敗敵軍，使越人敗退，越人是受作用的一方。主體承前文客人所領的吳軍，封賞又證明是有功而非戰敗。語譯須保留誰勝誰負，不能看到敗字就斷定主體輸了。",
+        "summary": "大敗越人是大敗敵軍，使越人敗退，越人是受作用的一方。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "被越人打敗",
+            "explanation": "被越人打敗顛倒了施受關係，也不接後文封功。"
+          },
+          {
+            "id": "b",
+            "text": "打敗越人",
+            "explanation": "大敗越人是大敗敵軍，使越人敗退，越人是受作用的一方。"
+          },
+          {
+            "id": "c",
+            "text": "越人自行潰散",
+            "explanation": "自行潰散漏掉吳軍擊敗對方的行動。"
+          },
+          {
+            "id": "d",
+            "text": "與越人一同戰敗",
+            "explanation": "共同戰敗與敵我交戰、一方受封的敘述不合。"
+          }
+        ],
+        "misconception": "被越人打敗顛倒了施受關係，也不接後文封功；自行潰散漏掉吳軍擊敗對方的行動；共同戰敗與敵我交戰、一方受封的敘述不合。"
+      },
+      "objective": "按上下文理解，這裏「敗」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p09-b02-g32",
+      "ordinal": 81,
+      "baseQuestionHash": "734f6c53db186382595b33787a2691a047c699776b88c02bcdd788cb96dcbd99",
+      "patch": {
+        "explanation": "封在裂地而封之中是封賞，吳王劃出土地獎賞立功的客人。裂地提供封賞內容，之承客人，合起來不是封閉一片土地。不能用現代封門、封信的意思遮掉君王賞功的語境。",
+        "summary": "封在裂地而封之中是封賞，吳王劃出土地獎賞立功的客人。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "封賞",
+            "explanation": "封在裂地而封之中是封賞，吳王劃出土地獎賞立功的客人。"
+          },
+          {
+            "id": "b",
+            "text": "封閉",
+            "explanation": "封閉說隔絕空間，此處是把地賞給人。"
+          },
+          {
+            "id": "c",
+            "text": "界限",
+            "explanation": "界限是名詞，封之卻說君王對客人的獎賞行動。"
+          },
+          {
+            "id": "d",
+            "text": "封緘",
+            "explanation": "封緘是封住信件，原文沒有書信。"
+          }
+        ],
+        "misconception": "封閉說隔絕空間，此處是把地賞給人；界限是名詞，封之卻說君王對客人的獎賞行動；封緘是封住信件，原文沒有書信。"
+      },
+      "objective": "按上下文理解，這裏「封」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p09-b02-g34",
+      "ordinal": 82,
+      "baseQuestionHash": "ea212e38cd755df40a5602df8fe3b2e1503f9b532032929f38233ecf5e26f91f",
+      "patch": {
+        "explanation": "或在或以封、或不免於洴澼絖中是有人，分別指客人與宋人。兩個或對舉不同的人及結果，並非同一人有時受封、有時漂絮。找出每個分句承接誰，便能排除或許、或者的現代連詞用法。",
+        "summary": "或在或以封、或不免於洴澼絖中是有人，分別指客人與宋人。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "有時",
+            "explanation": "有時把人物對比分錯為時間變換。"
+          },
+          {
+            "id": "b",
+            "text": "或許",
+            "explanation": "或許表不確定，前文兩種結果已確實敘出。"
+          },
+          {
+            "id": "c",
+            "text": "或者",
+            "explanation": "或者列選擇，這裏則分指兩種人物。"
+          },
+          {
+            "id": "d",
+            "text": "有人",
+            "explanation": "或在或以封、或不免於洴澼絖中是有人，分別指客人與宋人。"
+          }
+        ],
+        "misconception": "有時把人物對比分錯為時間變換；或許表不確定，前文兩種結果已確實敘出；或者列選擇，這裏則分指兩種人物。"
+      },
+      "objective": "按上下文理解，這裏「或」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p09-b02-g35",
+      "ordinal": 83,
+      "baseQuestionHash": "0781b846132e7a1f41cd6e4c0ee64cd0335d32ec25dae7d6da3dd64ef39108d4",
+      "patch": {
+        "explanation": "則在則所用之異也中作歸結判斷，把不同結果歸因於使用方式有異。前面先說藥效一樣、所得不同，這句完成原因解釋。不是假設用法可能改變，也不是命令誰下一步必須改用。",
+        "summary": "則在則所用之異也中作歸結判斷，把不同結果歸因於使用方式有異。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "假設用法已經改變",
+            "explanation": "假設尚未成立，這句已根據兩例下判斷。"
+          },
+          {
+            "id": "b",
+            "text": "命令對方改換用法",
+            "explanation": "命令需指使行動，此句只是歸結原因。"
+          },
+          {
+            "id": "c",
+            "text": "判斷差異在於用法",
+            "explanation": "則在則所用之異也中作歸結判斷，把不同結果歸因於使用方式有異。"
+          },
+          {
+            "id": "d",
+            "text": "交代用法改變的先後",
+            "explanation": "先後順序未說明為何異效，則在此重在判斷歸因。"
+          }
+        ],
+        "misconception": "假設尚未成立，這句已根據兩例下判斷；命令需指使行動，此句只是歸結原因；先後順序未說明為何異效，則在此重在判斷歸因。"
+      },
+      "objective": "按上下文理解，這裏「則」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p10-b00-g04",
+      "ordinal": 84,
+      "baseQuestionHash": "4efea0c9b3f1628667205a4f40e228f82bb1036ad8108582aa55b69bc7fc4749",
+      "patch": {
+        "explanation": "繩墨是木工取直用的墨線工具，不中繩墨說樹幹多瘤而不合取材標準。畫圓則是規的功能，兩種工具不能互換。它可象徵世俗尺度，但字面翻譯仍應先說實際木工用途。",
+        "summary": "繩墨是木工取直用的墨線工具，不中繩墨說樹幹多瘤而不合取材標準。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "木工畫圓的測量工具",
+            "explanation": "畫圓是規的功能，繩墨用來取直。"
+          },
+          {
+            "id": "b",
+            "text": "木工取直的墨線工具",
+            "explanation": "繩墨是木工取直用的墨線工具，不中繩墨說樹幹多瘤而不合取材標準。"
+          },
+          {
+            "id": "c",
+            "text": "捕獵時張設的繩網",
+            "explanation": "捕獵繩網屬罔罟，此處量度木材。"
+          },
+          {
+            "id": "d",
+            "text": "社會中通行的法令",
+            "explanation": "法令屬抽象引申，原句先指木工工具。"
+          }
+        ],
+        "misconception": "畫圓是規的功能，繩墨用來取直；捕獵繩網屬罔罟，此處量度木材；法令屬抽象引申，原句先指木工工具。"
+      },
+      "objective": "按上下文理解，這裏「繩墨」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p10-b00-g07",
+      "ordinal": 85,
+      "baseQuestionHash": "170eecbaaf765167d115784162484a1b7028f084cecfc52b0c6d2315f7a5050e",
+      "patch": {
+        "explanation": "匠在匠者不顧中是木匠，前面繩墨規矩與枝幹形態都指向木材加工。他不看樗，是因其不合用材要求，不是在評藥方或染絮手藝。職業名稱要隨當前材料判斷，不能從上一輪故事任意搬用。",
+        "summary": "匠在匠者不顧中是木匠，前面繩墨規矩與枝幹形態都指向木材加工。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "木匠",
+            "explanation": "匠在匠者不顧中是木匠，前面繩墨規矩與枝幹形態都指向木材加工。"
+          },
+          {
+            "id": "b",
+            "text": "鑄匠",
+            "explanation": "鑄匠加工金屬，本段所評是樹木。"
+          },
+          {
+            "id": "c",
+            "text": "染工",
+            "explanation": "染工與漂絮相關，並非以繩墨取木材的人。"
+          },
+          {
+            "id": "d",
+            "text": "藥商",
+            "explanation": "藥商屬藥方買賣，這裏說取材工匠。"
+          }
+        ],
+        "misconception": "鑄匠加工金屬，本段所評是樹木；染工與漂絮相關，並非以繩墨取木材的人；藥商屬藥方買賣，這裏說取材工匠。"
+      },
+      "objective": "按上下文理解，這裏「匠」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p10-b00-g10",
+      "ordinal": 86,
+      "baseQuestionHash": "56c962c612b60e38c982fb87f9c1981714175d9306c8a6e31d665c16668cd1e1",
+      "patch": {
+        "explanation": "獨在子獨不見狸狌乎中是難道，與不見、乎合成反問，提醒惠子留意熟悉的例子。莊子不是問他是否一個人看，也非表同情孤獨。句式先喚起觀察，再轉到有能而遇害的反例。",
+        "summary": "獨在子獨不見狸狌乎中是難道，與不見、乎合成反問，提醒惠子留意熟悉的例子。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "獨自",
+            "explanation": "獨自說觀看人數，原句反問是否曾見。"
+          },
+          {
+            "id": "b",
+            "text": "只有",
+            "explanation": "只有會限制只有惠子，這裏獨加強反問語氣。"
+          },
+          {
+            "id": "c",
+            "text": "孤獨",
+            "explanation": "孤獨是情緒，句中沒有孤單處境。"
+          },
+          {
+            "id": "d",
+            "text": "難道",
+            "explanation": "獨在子獨不見狸狌乎中是難道，與不見、乎合成反問，提醒惠子留意熟悉的例子。"
+          }
+        ],
+        "misconception": "獨自說觀看人數，原句反問是否曾見；只有會限制只有惠子，這裏獨加強反問語氣；孤獨是情緒，句中沒有孤單處境。"
+      },
+      "objective": "按上下文理解，這裏「獨」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p10-b00-g12",
+      "ordinal": 87,
+      "baseQuestionHash": "bf1d865bcad2f3acbfc3ff823da448509b6371f8ed0415007ac4cc5c438e84a4",
+      "patch": {
+        "explanation": "伏在卑身而伏中是趴伏，與壓低身體連成等候獵物的姿態。它不是向誰屈服，也非承認罪過。候敖者提供目的，應先把動作放回捕獵場面，再分辨伏的其他引申義。",
+        "summary": "伏在卑身而伏中是趴伏，與壓低身體連成等候獵物的姿態。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "屈服",
+            "explanation": "屈服需要對手或權力對象，此處只是伏地候獵。"
+          },
+          {
+            "id": "b",
+            "text": "追逐遊走的獵物",
+            "explanation": "追逐是在移動，卑身而伏先說壓低趴着等候。"
+          },
+          {
+            "id": "c",
+            "text": "趴伏",
+            "explanation": "伏在卑身而伏中是趴伏，與壓低身體連成等候獵物的姿態。"
+          },
+          {
+            "id": "d",
+            "text": "受網束縛而倒地",
+            "explanation": "陷網是後面的結果，伏在捕獵開始時，不是遇害後倒下。"
+          }
+        ],
+        "misconception": "屈服需要對手或權力對象，此處只是伏地候獵；追逐是在移動，卑身而伏先說壓低趴着等候；陷網是後面的結果，伏在捕獵開始時，不是遇害後倒下。"
+      },
+      "objective": "按上下文理解，這裏「伏」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e04-p10-b00-g13",
+      "ordinal": 88,
+      "baseQuestionHash": "0fe134a05462a3377c5e647ccda0a0c672324a3c2faa65b3ca511e3a9491448d",
+      "patch": {
+        "explanation": "候在以候敖者中是等待，以引出伏身的目的，敖者是要等來的獵物。候作動詞，不是時候這個時間名詞，也不是守候的人。先分等待動作與被等對象，句子便可順譯為伏着等遊走的小動物。",
+        "summary": "候在以候敖者中是等待，以引出伏身的目的，敖者是要等來的獵物。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "時候",
+            "explanation": "時候是時間，這裏候後帶等待的對象。"
+          },
+          {
+            "id": "b",
+            "text": "等待",
+            "explanation": "候在以候敖者中是等待，以引出伏身的目的，敖者是要等來的獵物。"
+          },
+          {
+            "id": "c",
+            "text": "探望",
+            "explanation": "探望含主動去看對方，原句是伏身等牠出現。"
+          },
+          {
+            "id": "d",
+            "text": "守候者",
+            "explanation": "守候者是人或物的名稱，候在此是動作。"
+          }
+        ],
+        "misconception": "時候是時間，這裏候後帶等待的對象；探望含主動去看對方，原句是伏身等牠出現；守候者是人或物的名稱，候在此是動作。"
+      },
+      "objective": "按上下文理解，這裏「候」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p10-b00-g15",
+      "ordinal": 89,
+      "baseQuestionHash": "81a7d4ecb96ae7acff1af490a9043022118ac20afdfa34d6fc293b642fc2c0c5",
+      "patch": {
+        "explanation": "東西在東西跳梁中是向東向西，方位詞作狀語，修飾狸狌跳躍的方向。它不是泛稱物件，也不只列兩個地區。與不辟高下連讀，可見作者在鋪寫其活動靈巧，為下文遇害形成反差。",
+        "summary": "東西在東西跳梁中是向東向西，方位詞作狀語，修飾狸狌跳躍的方向。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "向東向西",
+            "explanation": "東西在東西跳梁中是向東向西，方位詞作狀語，修飾狸狌跳躍的方向。"
+          },
+          {
+            "id": "b",
+            "text": "東方與西方之地",
+            "explanation": "東西方之地是地點名詞，這裏修飾怎樣跳躍。"
+          },
+          {
+            "id": "c",
+            "text": "各種物件",
+            "explanation": "各種物件是現代詞義，不能修飾跳梁方向。"
+          },
+          {
+            "id": "d",
+            "text": "兩地相距之遠",
+            "explanation": "距離遠近需要量度，原句只說向哪邊跳。"
+          }
+        ],
+        "misconception": "東西方之地是地點名詞，這裏修飾怎樣跳躍；各種物件是現代詞義，不能修飾跳梁方向；距離遠近需要量度，原句只說向哪邊跳。"
+      },
+      "objective": "按上下文理解，這裏「東西」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p10-b00-g22",
+      "ordinal": 90,
+      "baseQuestionHash": "be9662ccce9f67b74cf8d6006faaa43486582ac03e56a9a21193fe54ab04672c",
+      "patch": {
+        "explanation": "患在患其無用中是擔憂，其無用是所憂的事情，主體承接惠子。這個動詞點出莊子要化解的問題，後文免害自在則重新解釋無用。若解禍患這個名詞，就漏掉誰在為何事憂心。",
+        "summary": "患在患其無用中是擔憂，其無用是所憂的事情，主體承接惠子。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "禍患",
+            "explanation": "禍患是名詞，患其無用則說本人擔憂某事。"
+          },
+          {
+            "id": "b",
+            "text": "患病",
+            "explanation": "患病需疾病對象，無用在此是看法而非疾病。"
+          },
+          {
+            "id": "c",
+            "text": "憎恨",
+            "explanation": "憎恨強調厭惡，患著重因無用而憂慮。"
+          },
+          {
+            "id": "d",
+            "text": "擔憂",
+            "explanation": "患在患其無用中是擔憂，其無用是所憂的事情，主體承接惠子。"
+          }
+        ],
+        "misconception": "禍患是名詞，患其無用則說本人擔憂某事；患病需疾病對象，無用在此是看法而非疾病；憎恨強調厭惡，患著重因無用而憂慮。"
+      },
+      "objective": "按上下文理解，這裏「患」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p10-b00-g23",
+      "ordinal": 91,
+      "baseQuestionHash": "d62a2460f88bbfeecd77704299785885d89ffa5b82efa5ede7e9d5c2be582afe",
+      "patch": {
+        "explanation": "樹之的之指惠子那棵大樹，樹作種植動詞，之是被種下的對象。於無何有之鄉再交代安放處所。前文牛與狸狌只是用來說理的動物，不能當成被種植的主體。",
+        "summary": "樹之的之指惠子那棵大樹，樹作種植動詞，之是被種下的對象。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "斄牛",
+            "explanation": "犛牛是對比喻例，不是樹可支配的種植物。"
+          },
+          {
+            "id": "b",
+            "text": "狸狌",
+            "explanation": "狸狌用於說有能遇害，並非建議移種的物件。"
+          },
+          {
+            "id": "c",
+            "text": "大樹",
+            "explanation": "樹之的之指惠子那棵大樹，樹作種植動詞，之是被種下的對象。"
+          },
+          {
+            "id": "d",
+            "text": "惠子",
+            "explanation": "惠子是受建議者，不是被種到曠野的人。"
+          }
+        ],
+        "misconception": "犛牛是對比喻例，不是樹可支配的種植物；狸狌用於說有能遇害，並非建議移種的物件；惠子是受建議者，不是被種到曠野的人。"
+      },
+      "objective": "「何不樹之於無何有之鄉」中，「之」指甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p10-b00-g27",
+      "ordinal": 92,
+      "baseQuestionHash": "97245571fadb12f9f5ee5fd9a61c09fcce7238ea4861b0d891be256502a1e5cf",
+      "patch": {
+        "explanation": "逍遙是優游自在，形容人在樹下躺臥時不受功用得失拘束的狀態。它與免斧害相接，把自由化成可感的生活畫面。不是縱欲，也不必遠行漂泊；所在地正是樹旁樹下。",
+        "summary": "逍遙是優游自在，形容人在樹下躺臥時不受功用得失拘束的狀態。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "猶豫徘徊",
+            "explanation": "猶豫是現代彷徨的常見義，不合此處閒適。"
+          },
+          {
+            "id": "b",
+            "text": "優游自在",
+            "explanation": "逍遙是優游自在，形容人在樹下躺臥時不受功用得失拘束的狀態。"
+          },
+          {
+            "id": "c",
+            "text": "放縱欲望",
+            "explanation": "放縱欲望另加追逐享樂，原文只寫自在遊臥。"
+          },
+          {
+            "id": "d",
+            "text": "遠行漂泊",
+            "explanation": "遠行漂泊與在樹下休息不是同一活動。"
+          }
+        ],
+        "misconception": "猶豫是現代彷徨的常見義，不合此處閒適；放縱欲望另加追逐享樂，原文只寫自在遊臥；遠行漂泊與在樹下休息不是同一活動。"
+      },
+      "objective": "按上下文理解，這裏「逍遙」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p10-b00-g28",
+      "ordinal": 93,
+      "baseQuestionHash": "24e313e7e1e57cd70c714c0a64806fd51fcf7d44bb341e718c6892967441f418",
+      "patch": {
+        "explanation": "寢臥是躺臥，與逍遙連用寫人在樹下安閒休息，指動作而非睡房。這個畫面回應無用之憂，顯示不作木材仍能有自在空間。不能因臥也見於病臥，就擅加疾病或伏獵情節。",
+        "summary": "寢臥是躺臥，與逍遙連用寫人在樹下安閒休息，指動作而非睡房。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "躺臥",
+            "explanation": "寢臥是躺臥，與逍遙連用寫人在樹下安閒休息，指動作而非睡房。"
+          },
+          {
+            "id": "b",
+            "text": "就寢處所",
+            "explanation": "就寢處所是地方，寢臥在此說人在做甚麼。"
+          },
+          {
+            "id": "c",
+            "text": "身患疾病",
+            "explanation": "疾病沒有原文依據，逍遙反而強調閒適。"
+          },
+          {
+            "id": "d",
+            "text": "隱伏等待",
+            "explanation": "隱伏候獵是狸狌的動作，樹下寢臥則為休息。"
+          }
+        ],
+        "misconception": "就寢處所是地方，寢臥在此說人在做甚麼；疾病沒有原文依據，逍遙反而強調閒適；隱伏候獵是狸狌的動作，樹下寢臥則為休息。"
+      },
+      "objective": "按上下文理解，這裏「寢臥」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p00-b05-x008",
+      "ordinal": 94,
+      "baseQuestionHash": "4546f5c851e069a469396502a437b064f2237bf0d05336edb464eb00024b98ba",
+      "patch": {
+        "explanation": "大瓠一輪先藉同藥異用說可換用法，再提腰舟；大樹一輪則保留不材，指出免害與自在本身有價值。兩輪由別用推進到無用之用，共同鬆動單一功用尺度。若只總結為物愈大愈好，便同時漏掉用法與價值標準的轉換。",
+        "summary": "大瓠一輪先藉同藥異用說可換用法，再提腰舟；大樹一輪則保留不材，指出免害與自在本身有價值。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "先示轉換用途能發揮大用，再示無用只是尚未找到能賣錢的用途",
+            "explanation": "後輪重在免害自在，不能將無用之用縮成等待有價用途。"
+          },
+          {
+            "id": "b",
+            "text": "先示不合世用便可免害，再示須取得封賞才有存在價值",
+            "explanation": "先後作用倒置，結尾也未以封賞作保全樗樹的條件。"
+          },
+          {
+            "id": "c",
+            "text": "兩輪都以改良物件本身，讓它最終符合原有使用標準",
+            "explanation": "大瓠改用、大樹換尺度，皆非改材質形狀來迎合原標準。"
+          },
+          {
+            "id": "d",
+            "text": "先示轉換用途能發揮大用，再示不合世用亦有免害自在之價值",
+            "explanation": "大瓠一輪先藉同藥異用說可換用法，再提腰舟；大樹一輪則保留不材，指出免害與自在本身有價值。"
+          }
+        ],
+        "misconception": "後輪重在免害自在，不能將無用之用縮成等待有價用途；先後作用倒置，結尾也未以封賞作保全樗樹的條件；大瓠改用、大樹換尺度，皆非改材質形狀來迎合原標準。"
+      },
+      "objective": "大瓠與大樹兩輪說理的推進，哪項概括最準確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e04-p07-b00-x009",
+      "ordinal": 95,
+      "baseQuestionHash": "d112bcfbdfcdf09d040958ca1604434544ab59dba0113907f51487c58a3a640e",
+      "patch": {
+        "explanation": "今子之言直接承接大樗的幹枝不中尺度，把樹的不合木工用途比作言論不合世俗實用。大瓠也可延伸比莊言，但題目問這一句的直接比物，應依眼前銜接選樗。不能只挑全篇出現過而有相似主題的例子。",
+        "summary": "今子之言直接承接大樗的幹枝不中尺度，把樹的不合木工用途比作言論不合世俗實用。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "大瓠可改作浮具—莊子之言已被惠子證明有大用",
+            "explanation": "大瓠在前一輪，這句直接接大樗；惠子也未已證其有大用。"
+          },
+          {
+            "id": "b",
+            "text": "藥方同效而異用—莊子之言與惠子之言效果相同",
+            "explanation": "藥方例比較同物異用，不是說惠莊兩種言論效果相同。"
+          },
+          {
+            "id": "c",
+            "text": "大樗不中木工尺度—莊子之言不合世俗實用尺度",
+            "explanation": "今子之言直接承接大樗的幹枝不中尺度，把樹的不合木工用途比作言論不合世俗實用。"
+          },
+          {
+            "id": "d",
+            "text": "狸狌靈巧卻遇險—莊子之言已為本人招來災禍",
+            "explanation": "狸狌在莊子回應後才出現，不能倒作惠子此句的直接比物。"
+          }
+        ],
+        "misconception": "大瓠在前一輪，這句直接接大樗；惠子也未已證其有大用；藥方例比較同物異用，不是說惠莊兩種言論效果相同；狸狌在莊子回應後才出現，不能倒作惠子此句的直接比物。"
+      },
+      "objective": "「今子之言，大而無用」的直接比物與相似點，哪項配對準確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e04-p08-b00-x010",
+      "ordinal": 96,
+      "baseQuestionHash": "f6410115bd3f609a7d63de030d4157f46a64c879133d41ff75d49f707e144910",
+      "patch": {
+        "explanation": "惠子認為兩種常用途都失敗便可擊毀，莊子則以拙於用大指出還可配合特性轉換用途。雙方承認葫蘆巨大，分歧在如何判其有用。比較人物立場要找同一物件上不同的判準，不能杜撰一方希望保留、一方主張改種。",
+        "summary": "惠子認為兩種常用途都失敗便可擊毀，莊子則以拙於用大指出還可配合特性轉換用途。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "惠子否定體積之大，莊子則先證明容量確實有五石",
+            "explanation": "非不呺然大也已承認大，分歧不在容量事實。"
+          },
+          {
+            "id": "b",
+            "text": "惠子以常用失敗判無用，莊子認為仍可轉換用途",
+            "explanation": "惠子認為兩種常用途都失敗便可擊毀，莊子則以拙於用大指出還可配合特性轉換用途。"
+          },
+          {
+            "id": "c",
+            "text": "惠子承認另有用途，莊子則只反對他過早擊碎",
+            "explanation": "惠子因無用而毀，莊子反駁其無用判斷，不只說毀得太早。"
+          },
+          {
+            "id": "d",
+            "text": "惠子要求改變用法，莊子則要求改變葫蘆的原有形質",
+            "explanation": "換用法是莊子建議，未要求改形質；人物主張倒置。"
+          }
+        ],
+        "misconception": "非不呺然大也已承認大，分歧不在容量事實；惠子因無用而毀，莊子反駁其無用判斷，不只說毀得太早；換用法是莊子建議，未要求改形質；人物主張倒置。"
+      },
+      "objective": "惠子毀瓠、莊子責其拙於用大，分歧最準確落在哪裏？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-18-01-2",
+      "ordinal": 97,
+      "baseQuestionHash": "63ce7c30feda3cbd158695ffb129a446295913fdfd6d75bbf5efc35a2700910a",
+      "patch": {
+        "explanation": "柳宗元由心凝形釋寫宴遊中精神放開、與萬化相融；莊子則重估不材之樹，使免害與遊臥成為價值。兩者都超出原有拘束，但達成出路的文本關係不同。把柳文只說成暫避現實，或把莊文讀成改造成材，都少了關鍵轉變。",
+        "summary": "柳宗元由心凝形釋寫宴遊中精神放開、與萬化相融；莊子則重估不材之樹，使免害與遊臥成為價值。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "柳由宴遊達物我相融；莊重看無用，使大樹得保全。",
+            "explanation": "柳宗元由心凝形釋寫宴遊中精神放開、與萬化相融；莊子則重估不材之樹，使免害與遊臥成為價值。"
+          },
+          {
+            "id": "b",
+            "text": "柳以西山高大證明價值；莊以大樹巨大證明有用。",
+            "explanation": "西山高大與大樹巨大只是形態，兩文精神出路不以大本身證價值。"
+          },
+          {
+            "id": "c",
+            "text": "柳由宴遊達物我相融；莊主張大樹應改成可用木材。",
+            "explanation": "莊子保留樹的不材以免斧害，未要求加工成合用木料。"
+          },
+          {
+            "id": "d",
+            "text": "柳藉山水景物暫避現實；莊重看無用，使大樹得保全。",
+            "explanation": "柳文不止暫避愁苦，心凝形釋與萬化冥合已寫物我相融的體驗。"
+          }
+        ],
+        "misconception": "西山高大與大樹巨大只是形態，兩文精神出路不以大本身證價值；莊子保留樹的不材以免斧害，未要求加工成合用木料；柳文不止暫避愁苦，心凝形釋與萬化冥合已寫物我相融的體驗。"
+      },
+      "objective": "比較《西山宴遊記》與《逍遙遊》所示的精神出路，哪項最準確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    }
+  ]
+}

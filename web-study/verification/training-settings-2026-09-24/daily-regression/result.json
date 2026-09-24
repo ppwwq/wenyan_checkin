@@ -1,0 +1,16 @@
+{
+  "result": "PASS",
+  "checks": [
+    "Daily-count shortcuts change draft without submitting the settings form",
+    "One-time per-chapter settings persist after reload",
+    "Pause/resume retains exact question and selected draft",
+    "Wrong question immediately available in separate retry, without waiting",
+    "Corrected retry not offered again and does not inflate daily total",
+    "Daily target completes once, with separate retry total",
+    "Adding a chapter preserves others; changed daily target applies immediately",
+    "Second browser restores settings, same-day target and progress from account sync",
+    "Offline reload includes new daily modules and saved settings"
+  ],
+  "errors": [],
+  "scope": "Isolated in-memory local account; Chromium 768x1024 and 390x844. No production account data or physical iPad."
+}

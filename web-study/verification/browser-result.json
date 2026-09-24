@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "checks": [
+    "primary action has visible foreground/background contrast",
+    "submission hides answer source",
+    "favorite and pause preserve selected draft",
+    "refresh restores fixed question and answer draft",
+    "choice submit saved once",
+    "offline reload preserves latest per-keystroke typing draft",
+    "typing requires both self-checks",
+    "offline typing and self assessment complete",
+    "offline refresh opens cached app",
+    "offline IndexedDB records backed up with acknowledgments",
+    "weakness displays first-result evidence",
+    "favorite list is real",
+    "quick review never creates answer",
+    "report local/server deduplication",
+    "portrait has no horizontal page overflow",
+    "split-screen/narrow has no horizontal page overflow",
+    "no browser page errors"
+  ],
+  "errors": []
+}

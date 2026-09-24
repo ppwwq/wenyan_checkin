@@ -1,0 +1,59 @@
+{
+  "result": "PASS",
+  "bankVersion": "2026.09.23.12",
+  "uiVersion": "2026.09.23.4",
+  "bankSha256": "93a54428ed635520a3706200f1adffc4a7c293c66df7800bda3d72561717cc68",
+  "chapterRevision": {
+    "version": "2026.09.23.12",
+    "baselineVersion": "2026.09.23.11",
+    "essayId": "essay-06",
+    "questions": 181,
+    "explanationsRewritten": 181,
+    "optionTextChangedQuestions": 30,
+    "changedOptionTexts": 74,
+    "stemChanged": 4,
+    "highlightChanged": 0,
+    "untouchedQuestions": 1953,
+    "independentReview": "not-run",
+    "studentTrial": "not-run",
+    "scope": "按篇章全題修訂；作者自檢。先前 qualityRevisionSummary 只記舊版階段，不代表本版改寫後仍獲獨立覆核。",
+    "currentReviewMethods": {
+      "source-review-and-author-self-check": 952,
+      "source-aligned-agent-review": 567,
+      "context-vocabulary-distractor-review": 57,
+      "source-review-and-agent-cross-review": 129,
+      "text-grounded-mcq-editorial-review": 358,
+      "source-preserving-mcq-review": 71
+    }
+  },
+  "sourceLocatorsChecked": 378,
+  "freshPdfPagesChecked": 19,
+  "sourceErrors": [],
+  "wholeBankQuestions": 2134,
+  "currentUniqueChapterRevisions": 952,
+  "unchangedFromPreviousVersion": 1953,
+  "previousChapterQuestionsUnchanged": true,
+  "identityAnswerMemoryQuoteSourcesAndTargetsPreserved": true,
+  "tests": {
+    "chapterProtectionAndSequence": {
+      "passCount": 10,
+      "failCount": 0
+    },
+    "application": {
+      "passCount": 46,
+      "failCount": 0
+    },
+    "fullBankStructureAndSources": "PASS",
+    "rebuildSameSha256": true,
+    "localBuild": "PASS",
+    "builtBankMatchesSource": true
+  },
+  "reportCards": 181,
+  "externalReportResources": [],
+  "reviewMethod": "source-review-and-author-self-check",
+  "teacherValidation": "not-run",
+  "studentTrial": "not-run",
+  "browserVisualValidation": "not-run",
+  "deployment": "not-run",
+  "nextChapter": "essay-07 師說 116 questions"
+}

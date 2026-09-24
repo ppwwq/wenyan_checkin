@@ -1,0 +1,8 @@
+{
+  "questions": 80,
+  "explanationsChanged": 80,
+  "choiceReasonsChanged": 171,
+  "explanationMedianLengthBefore": 27.5,
+  "explanationMedianLengthAfter": 59.0,
+  "scope": "字數記錄不代表語義品質或學生理解度驗收。"
+}

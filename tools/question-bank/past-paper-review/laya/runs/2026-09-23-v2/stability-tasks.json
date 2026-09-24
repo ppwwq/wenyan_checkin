@@ -1,0 +1,2898 @@
+[
+  {
+    "id": "full-a-e05-p28-b00-g47/student/probe-option-order",
+    "questionId": "full-a-e05-p28-b00-g47",
+    "questionVersion": 2,
+    "stage": "student",
+    "state": {
+      "material": "王必無人",
+      "stem": "按上下文理解，這裏「必」應解作甚麼？",
+      "options": {
+        "d": "完畢、終止",
+        "c": "務必、必須",
+        "b": "一定、必然",
+        "a": "果真、如果真"
+      }
+    },
+    "questions": {
+      "foundation": {
+        "type": "choice",
+        "instructions": "Is this useful for basic word meaning or literal understanding?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "diagnostic": {
+        "type": "choice",
+        "instructions": "Does this distinguish a specific plausible misunderstanding?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "integration": {
+        "type": "choice",
+        "instructions": "Must the student connect multiple pieces of textual evidence?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "exam_reasoning": {
+        "type": "choice",
+        "instructions": "Does this train identifying evidence and sufficient answer points?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "extension": {
+        "type": "choice",
+        "instructions": "Does this require knowledge beyond the supplied literary text?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "operation": {
+        "type": "choice",
+        "instructions": "判斷學生必須完成的主要操作；看題目所問，不按題材分類。",
+        "criteria": {
+          "word": "解釋某字或詞的語境義",
+          "meaning": "理解或轉述整句內容",
+          "inference": "推導條件因果或論據關係",
+          "effect": "說明手法的具體作用",
+          "comparison": "比較兩處內容或結構",
+          "recall": "記憶文學常識定義",
+          "unknown": "資料不足"
+        }
+      },
+      "shortcut": {
+        "type": "choice",
+        "instructions": "Can option form or irrelevant alternatives reveal the answer without target reasoning?",
+        "criteria": {
+          "yes": "有明顯猜題捷徑",
+          "no": "需要目標判斷",
+          "unknown": "證據不足"
+        }
+      },
+      "parallel": {
+        "type": "choice",
+        "instructions": "Do all options answer the same question on the same dimension?",
+        "criteria": {
+          "yes": "同一維度",
+          "no": "混合維度或離題",
+          "unknown": "證據不足"
+        }
+      }
+    },
+    "inputHash": "44f6df6bd43566a5fe6e7ce73553505c56296c9bd2c2d5a26cc748e0ccbfcb98"
+  },
+  {
+    "id": "full-a-e05-p28-b00-g47/student/probe-label-order",
+    "questionId": "full-a-e05-p28-b00-g47",
+    "questionVersion": 2,
+    "stage": "student",
+    "state": {
+      "material": "王必無人",
+      "stem": "按上下文理解，這裏「必」應解作甚麼？",
+      "options": {
+        "a": "果真、如果真",
+        "b": "一定、必然",
+        "c": "務必、必須",
+        "d": "完畢、終止"
+      }
+    },
+    "questions": {
+      "foundation": {
+        "type": "choice",
+        "instructions": "Is this useful for basic word meaning or literal understanding?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "diagnostic": {
+        "type": "choice",
+        "instructions": "Does this distinguish a specific plausible misunderstanding?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "integration": {
+        "type": "choice",
+        "instructions": "Must the student connect multiple pieces of textual evidence?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "exam_reasoning": {
+        "type": "choice",
+        "instructions": "Does this train identifying evidence and sufficient answer points?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "extension": {
+        "type": "choice",
+        "instructions": "Does this require knowledge beyond the supplied literary text?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "operation": {
+        "type": "choice",
+        "instructions": "判斷學生必須完成的主要操作；看題目所問，不按題材分類。",
+        "criteria": {
+          "unknown": "資料不足",
+          "recall": "記憶文學常識定義",
+          "comparison": "比較兩處內容或結構",
+          "effect": "說明手法的具體作用",
+          "inference": "推導條件因果或論據關係",
+          "meaning": "理解或轉述整句內容",
+          "word": "解釋某字或詞的語境義"
+        }
+      },
+      "shortcut": {
+        "type": "choice",
+        "instructions": "Can option form or irrelevant alternatives reveal the answer without target reasoning?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "需要目標判斷",
+          "yes": "有明顯猜題捷徑"
+        }
+      },
+      "parallel": {
+        "type": "choice",
+        "instructions": "Do all options answer the same question on the same dimension?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "混合維度或離題",
+          "yes": "同一維度"
+        }
+      }
+    },
+    "inputHash": "06b6dbee2fde1778faa965d7197b7504cd6647ca9c248aefe09f53f28cd19d4d"
+  },
+  {
+    "id": "full-a-e05-p28-b00-g47/review/probe-option-order",
+    "questionId": "full-a-e05-p28-b00-g47",
+    "questionVersion": 2,
+    "stage": "review",
+    "state": {
+      "material": "王必無人",
+      "stem": "按上下文理解，這裏「必」應解作甚麼？",
+      "options": {
+        "d": "完畢、終止",
+        "c": "務必、必須",
+        "b": "一定、必然",
+        "a": "果真、如果真"
+      },
+      "source": [
+        "必王必無人果真、如果真沒有；不是必定的預言。"
+      ],
+      "key": "a",
+      "explanation": "在「王必無人」中，「必」應理解為「果真、如果真」。須核對本句的行動者、施受關係和詞語搭配。"
+    },
+    "questions": {
+      "answer_support": {
+        "type": "choice",
+        "instructions": "Does the evidence support the keyed answer?",
+        "criteria": {
+          "supported": "有證據支持",
+          "contradicted": "與證據矛盾",
+          "unknown": "證據不足"
+        }
+      },
+      "uniqueness": {
+        "type": "choice",
+        "instructions": "Can a second option also be defended under the question wording?",
+        "criteria": {
+          "unique": "單一成立答案",
+          "multiple": "另一項也可成立",
+          "unknown": "不能確認"
+        }
+      },
+      "set_strength": {
+        "type": "choice",
+        "instructions": "評三個錯項的吸引點，不評難度。常見錯詞義也可有效。需有局部依據且能排除。",
+        "criteria": {
+          "all": "三錯項均有合理吸引點",
+          "some": "部分錯項有用其餘薄弱",
+          "none": "三錯項都明顯無效",
+          "unknown": "無法判斷"
+        }
+      },
+      "set_redundancy": {
+        "type": "choice",
+        "instructions": "Are the wrong options essentially the same error with different wording?",
+        "criteria": {
+          "yes": "錯因重複",
+          "no": "有實質區別",
+          "unknown": "證據不足"
+        }
+      },
+      "answer_form": {
+        "type": "choice",
+        "instructions": "Is the keyed answer conspicuous mainly by length, wording or completeness?",
+        "criteria": {
+          "yes": "形式突出",
+          "no": "無明顯提示",
+          "unknown": "不能判斷"
+        }
+      },
+      "main_explanation": {
+        "type": "choice",
+        "instructions": "Does the explanation connect concrete evidence to the answer?",
+        "criteria": {
+          "worked": "具體證據與推理",
+          "generic": "只給結論或泛泛理由",
+          "off_topic": "離題或矛盾",
+          "unknown": "證據不足"
+        }
+      }
+    },
+    "inputHash": "70fc47ee0114742c182e5cad6e7020dd43e5c9c11c9b879a16320af4dffafe95"
+  },
+  {
+    "id": "full-a-e05-p28-b00-g47/review/probe-label-order",
+    "questionId": "full-a-e05-p28-b00-g47",
+    "questionVersion": 2,
+    "stage": "review",
+    "state": {
+      "material": "王必無人",
+      "stem": "按上下文理解，這裏「必」應解作甚麼？",
+      "options": {
+        "a": "果真、如果真",
+        "b": "一定、必然",
+        "c": "務必、必須",
+        "d": "完畢、終止"
+      },
+      "source": [
+        "必王必無人果真、如果真沒有；不是必定的預言。"
+      ],
+      "key": "a",
+      "explanation": "在「王必無人」中，「必」應理解為「果真、如果真」。須核對本句的行動者、施受關係和詞語搭配。"
+    },
+    "questions": {
+      "answer_support": {
+        "type": "choice",
+        "instructions": "Does the evidence support the keyed answer?",
+        "criteria": {
+          "unknown": "證據不足",
+          "contradicted": "與證據矛盾",
+          "supported": "有證據支持"
+        }
+      },
+      "uniqueness": {
+        "type": "choice",
+        "instructions": "Can a second option also be defended under the question wording?",
+        "criteria": {
+          "unknown": "不能確認",
+          "multiple": "另一項也可成立",
+          "unique": "單一成立答案"
+        }
+      },
+      "set_strength": {
+        "type": "choice",
+        "instructions": "評三個錯項的吸引點，不評難度。常見錯詞義也可有效。需有局部依據且能排除。",
+        "criteria": {
+          "unknown": "無法判斷",
+          "none": "三錯項都明顯無效",
+          "some": "部分錯項有用其餘薄弱",
+          "all": "三錯項均有合理吸引點"
+        }
+      },
+      "set_redundancy": {
+        "type": "choice",
+        "instructions": "Are the wrong options essentially the same error with different wording?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "有實質區別",
+          "yes": "錯因重複"
+        }
+      },
+      "answer_form": {
+        "type": "choice",
+        "instructions": "Is the keyed answer conspicuous mainly by length, wording or completeness?",
+        "criteria": {
+          "unknown": "不能判斷",
+          "no": "無明顯提示",
+          "yes": "形式突出"
+        }
+      },
+      "main_explanation": {
+        "type": "choice",
+        "instructions": "Does the explanation connect concrete evidence to the answer?",
+        "criteria": {
+          "unknown": "證據不足",
+          "off_topic": "離題或矛盾",
+          "generic": "只給結論或泛泛理由",
+          "worked": "具體證據與推理"
+        }
+      }
+    },
+    "inputHash": "304043259339d98aa14f77a1e3fb4671116a17fadd61b7f7874f8d576b247109"
+  },
+  {
+    "id": "full-b-08-18-01-1/student/probe-option-order",
+    "questionId": "full-b-08-18-01-1",
+    "questionVersion": 2,
+    "stage": "student",
+    "state": {
+      "material": "《始得西山宴遊記》：「心凝形釋，與萬化冥合。」\n《岳陽樓記》：「不以物喜，不以己悲。」",
+      "stem": "比較《西山宴遊記》與《岳陽樓記》，哪項兼顧兩者超越個人得失的不同方式？",
+      "options": {
+        "d": "柳以飲酒得暫時麻醉為終點；范以不再感受悲喜為終點",
+        "c": "柳借自然達物我融通；范以憂國憂民超越己悲",
+        "b": "柳強調山的特立自持；范主張只在退隱山林時憂民",
+        "a": "柳以國家百姓為念；范以忘卻物我界限解憂"
+      }
+    },
+    "questions": {
+      "foundation": {
+        "type": "choice",
+        "instructions": "Is this useful for basic word meaning or literal understanding?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "diagnostic": {
+        "type": "choice",
+        "instructions": "Does this distinguish a specific plausible misunderstanding?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "integration": {
+        "type": "choice",
+        "instructions": "Must the student connect multiple pieces of textual evidence?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "exam_reasoning": {
+        "type": "choice",
+        "instructions": "Does this train identifying evidence and sufficient answer points?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "extension": {
+        "type": "choice",
+        "instructions": "Does this require knowledge beyond the supplied literary text?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "operation": {
+        "type": "choice",
+        "instructions": "判斷學生必須完成的主要操作；看題目所問，不按題材分類。",
+        "criteria": {
+          "word": "解釋某字或詞的語境義",
+          "meaning": "理解或轉述整句內容",
+          "inference": "推導條件因果或論據關係",
+          "effect": "說明手法的具體作用",
+          "comparison": "比較兩處內容或結構",
+          "recall": "記憶文學常識定義",
+          "unknown": "資料不足"
+        }
+      },
+      "shortcut": {
+        "type": "choice",
+        "instructions": "Can option form or irrelevant alternatives reveal the answer without target reasoning?",
+        "criteria": {
+          "yes": "有明顯猜題捷徑",
+          "no": "需要目標判斷",
+          "unknown": "證據不足"
+        }
+      },
+      "parallel": {
+        "type": "choice",
+        "instructions": "Do all options answer the same question on the same dimension?",
+        "criteria": {
+          "yes": "同一維度",
+          "no": "混合維度或離題",
+          "unknown": "證據不足"
+        }
+      }
+    },
+    "inputHash": "51a2a7deeaaaa30d48fa2052221cc4be48fa2934d42841cbe7dd1da9b12412c1"
+  },
+  {
+    "id": "full-b-08-18-01-1/student/probe-label-order",
+    "questionId": "full-b-08-18-01-1",
+    "questionVersion": 2,
+    "stage": "student",
+    "state": {
+      "material": "《始得西山宴遊記》：「心凝形釋，與萬化冥合。」\n《岳陽樓記》：「不以物喜，不以己悲。」",
+      "stem": "比較《西山宴遊記》與《岳陽樓記》，哪項兼顧兩者超越個人得失的不同方式？",
+      "options": {
+        "a": "柳以國家百姓為念；范以忘卻物我界限解憂",
+        "b": "柳強調山的特立自持；范主張只在退隱山林時憂民",
+        "c": "柳借自然達物我融通；范以憂國憂民超越己悲",
+        "d": "柳以飲酒得暫時麻醉為終點；范以不再感受悲喜為終點"
+      }
+    },
+    "questions": {
+      "foundation": {
+        "type": "choice",
+        "instructions": "Is this useful for basic word meaning or literal understanding?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "diagnostic": {
+        "type": "choice",
+        "instructions": "Does this distinguish a specific plausible misunderstanding?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "integration": {
+        "type": "choice",
+        "instructions": "Must the student connect multiple pieces of textual evidence?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "exam_reasoning": {
+        "type": "choice",
+        "instructions": "Does this train identifying evidence and sufficient answer points?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "extension": {
+        "type": "choice",
+        "instructions": "Does this require knowledge beyond the supplied literary text?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "operation": {
+        "type": "choice",
+        "instructions": "判斷學生必須完成的主要操作；看題目所問，不按題材分類。",
+        "criteria": {
+          "unknown": "資料不足",
+          "recall": "記憶文學常識定義",
+          "comparison": "比較兩處內容或結構",
+          "effect": "說明手法的具體作用",
+          "inference": "推導條件因果或論據關係",
+          "meaning": "理解或轉述整句內容",
+          "word": "解釋某字或詞的語境義"
+        }
+      },
+      "shortcut": {
+        "type": "choice",
+        "instructions": "Can option form or irrelevant alternatives reveal the answer without target reasoning?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "需要目標判斷",
+          "yes": "有明顯猜題捷徑"
+        }
+      },
+      "parallel": {
+        "type": "choice",
+        "instructions": "Do all options answer the same question on the same dimension?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "混合維度或離題",
+          "yes": "同一維度"
+        }
+      }
+    },
+    "inputHash": "d45fb01bbd60ce0a78b736fd089fc311b4f2d162148d946d40fb722ae009a1ec"
+  },
+  {
+    "id": "full-b-08-18-01-1/review/probe-option-order",
+    "questionId": "full-b-08-18-01-1",
+    "questionVersion": 2,
+    "stage": "review",
+    "state": {
+      "material": "《始得西山宴遊記》：「心凝形釋，與萬化冥合。」\n《岳陽樓記》：「不以物喜，不以己悲。」",
+      "stem": "比較《西山宴遊記》與《岳陽樓記》，哪項兼顧兩者超越個人得失的不同方式？",
+      "options": {
+        "d": "柳以飲酒得暫時麻醉為終點；范以不再感受悲喜為終點",
+        "c": "柳借自然達物我融通；范以憂國憂民超越己悲",
+        "b": "柳強調山的特立自持；范主張只在退隱山林時憂民",
+        "a": "柳以國家百姓為念；范以忘卻物我界限解憂"
+      },
+      "source": [
+        "岳陽樓記西山與萬化冥合岳陽不以物喜不以己悲先天下之憂而憂共同超越個人榮辱柳宗元由山水取得物我相融的精神解放范仲淹把憂樂放到君民天下",
+        "岳陽樓記；西山：「與萬化冥合」。\n岳陽：「不以物喜，不以己悲」「先天下之憂而憂」。；共同超越個人榮辱；柳宗元由山水取得物我相融的精神解放，范仲淹把憂樂放到君民天下。",
+        "心凝形釋與萬化冥合"
+      ],
+      "key": "c",
+      "explanation": "兩篇都能超越個人處境，但柳重山水與精神冥合，范重不以己悲及先憂後樂的公共責任。"
+    },
+    "questions": {
+      "answer_support": {
+        "type": "choice",
+        "instructions": "Does the evidence support the keyed answer?",
+        "criteria": {
+          "supported": "有證據支持",
+          "contradicted": "與證據矛盾",
+          "unknown": "證據不足"
+        }
+      },
+      "uniqueness": {
+        "type": "choice",
+        "instructions": "Can a second option also be defended under the question wording?",
+        "criteria": {
+          "unique": "單一成立答案",
+          "multiple": "另一項也可成立",
+          "unknown": "不能確認"
+        }
+      },
+      "set_strength": {
+        "type": "choice",
+        "instructions": "評三個錯項的吸引點，不評難度。常見錯詞義也可有效。需有局部依據且能排除。",
+        "criteria": {
+          "all": "三錯項均有合理吸引點",
+          "some": "部分錯項有用其餘薄弱",
+          "none": "三錯項都明顯無效",
+          "unknown": "無法判斷"
+        }
+      },
+      "set_redundancy": {
+        "type": "choice",
+        "instructions": "Are the wrong options essentially the same error with different wording?",
+        "criteria": {
+          "yes": "錯因重複",
+          "no": "有實質區別",
+          "unknown": "證據不足"
+        }
+      },
+      "answer_form": {
+        "type": "choice",
+        "instructions": "Is the keyed answer conspicuous mainly by length, wording or completeness?",
+        "criteria": {
+          "yes": "形式突出",
+          "no": "無明顯提示",
+          "unknown": "不能判斷"
+        }
+      },
+      "main_explanation": {
+        "type": "choice",
+        "instructions": "Does the explanation connect concrete evidence to the answer?",
+        "criteria": {
+          "worked": "具體證據與推理",
+          "generic": "只給結論或泛泛理由",
+          "off_topic": "離題或矛盾",
+          "unknown": "證據不足"
+        }
+      }
+    },
+    "inputHash": "13dad365c87a5a6597e8e9cd14cbe9a199e5b9372c85a01012b24fd8d496ffc9"
+  },
+  {
+    "id": "full-b-08-18-01-1/review/probe-label-order",
+    "questionId": "full-b-08-18-01-1",
+    "questionVersion": 2,
+    "stage": "review",
+    "state": {
+      "material": "《始得西山宴遊記》：「心凝形釋，與萬化冥合。」\n《岳陽樓記》：「不以物喜，不以己悲。」",
+      "stem": "比較《西山宴遊記》與《岳陽樓記》，哪項兼顧兩者超越個人得失的不同方式？",
+      "options": {
+        "a": "柳以國家百姓為念；范以忘卻物我界限解憂",
+        "b": "柳強調山的特立自持；范主張只在退隱山林時憂民",
+        "c": "柳借自然達物我融通；范以憂國憂民超越己悲",
+        "d": "柳以飲酒得暫時麻醉為終點；范以不再感受悲喜為終點"
+      },
+      "source": [
+        "岳陽樓記西山與萬化冥合岳陽不以物喜不以己悲先天下之憂而憂共同超越個人榮辱柳宗元由山水取得物我相融的精神解放范仲淹把憂樂放到君民天下",
+        "岳陽樓記；西山：「與萬化冥合」。\n岳陽：「不以物喜，不以己悲」「先天下之憂而憂」。；共同超越個人榮辱；柳宗元由山水取得物我相融的精神解放，范仲淹把憂樂放到君民天下。",
+        "心凝形釋與萬化冥合"
+      ],
+      "key": "c",
+      "explanation": "兩篇都能超越個人處境，但柳重山水與精神冥合，范重不以己悲及先憂後樂的公共責任。"
+    },
+    "questions": {
+      "answer_support": {
+        "type": "choice",
+        "instructions": "Does the evidence support the keyed answer?",
+        "criteria": {
+          "unknown": "證據不足",
+          "contradicted": "與證據矛盾",
+          "supported": "有證據支持"
+        }
+      },
+      "uniqueness": {
+        "type": "choice",
+        "instructions": "Can a second option also be defended under the question wording?",
+        "criteria": {
+          "unknown": "不能確認",
+          "multiple": "另一項也可成立",
+          "unique": "單一成立答案"
+        }
+      },
+      "set_strength": {
+        "type": "choice",
+        "instructions": "評三個錯項的吸引點，不評難度。常見錯詞義也可有效。需有局部依據且能排除。",
+        "criteria": {
+          "unknown": "無法判斷",
+          "none": "三錯項都明顯無效",
+          "some": "部分錯項有用其餘薄弱",
+          "all": "三錯項均有合理吸引點"
+        }
+      },
+      "set_redundancy": {
+        "type": "choice",
+        "instructions": "Are the wrong options essentially the same error with different wording?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "有實質區別",
+          "yes": "錯因重複"
+        }
+      },
+      "answer_form": {
+        "type": "choice",
+        "instructions": "Is the keyed answer conspicuous mainly by length, wording or completeness?",
+        "criteria": {
+          "unknown": "不能判斷",
+          "no": "無明顯提示",
+          "yes": "形式突出"
+        }
+      },
+      "main_explanation": {
+        "type": "choice",
+        "instructions": "Does the explanation connect concrete evidence to the answer?",
+        "criteria": {
+          "unknown": "證據不足",
+          "off_topic": "離題或矛盾",
+          "generic": "只給結論或泛泛理由",
+          "worked": "具體證據與推理"
+        }
+      }
+    },
+    "inputHash": "68bd897d219d277d279babe03ec3820f94f86db9476cb3a44b8dfcf23084a7c8"
+  },
+  {
+    "id": "full-b-08-18-01-2/student/probe-option-order",
+    "questionId": "full-b-08-18-01-2",
+    "questionVersion": 2,
+    "stage": "student",
+    "state": {
+      "material": "《始得西山宴遊記》：「心凝形釋，與萬化冥合。」\n《逍遙遊》：「無何有之鄉，廣莫之野」",
+      "stem": "比較《西山宴遊記》與《逍遙遊》所示的精神出路，哪項最準確？",
+      "options": {
+        "d": "兩者都以改造外物為前提；柳開山後解憂，莊修大樹後取蔭",
+        "c": "兩者都以避開外物求解脫；柳離山水以忘憂，莊棄大瓠以逍遙",
+        "b": "兩者都以形體大小定價值；柳取西山之高，莊取大瓠大樹之大",
+        "a": "兩者都突破慣常限制；柳由山水得冥合，莊另看物的可用與無用"
+      }
+    },
+    "questions": {
+      "foundation": {
+        "type": "choice",
+        "instructions": "Is this useful for basic word meaning or literal understanding?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "diagnostic": {
+        "type": "choice",
+        "instructions": "Does this distinguish a specific plausible misunderstanding?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "integration": {
+        "type": "choice",
+        "instructions": "Must the student connect multiple pieces of textual evidence?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "exam_reasoning": {
+        "type": "choice",
+        "instructions": "Does this train identifying evidence and sufficient answer points?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "extension": {
+        "type": "choice",
+        "instructions": "Does this require knowledge beyond the supplied literary text?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "operation": {
+        "type": "choice",
+        "instructions": "判斷學生必須完成的主要操作；看題目所問，不按題材分類。",
+        "criteria": {
+          "word": "解釋某字或詞的語境義",
+          "meaning": "理解或轉述整句內容",
+          "inference": "推導條件因果或論據關係",
+          "effect": "說明手法的具體作用",
+          "comparison": "比較兩處內容或結構",
+          "recall": "記憶文學常識定義",
+          "unknown": "資料不足"
+        }
+      },
+      "shortcut": {
+        "type": "choice",
+        "instructions": "Can option form or irrelevant alternatives reveal the answer without target reasoning?",
+        "criteria": {
+          "yes": "有明顯猜題捷徑",
+          "no": "需要目標判斷",
+          "unknown": "證據不足"
+        }
+      },
+      "parallel": {
+        "type": "choice",
+        "instructions": "Do all options answer the same question on the same dimension?",
+        "criteria": {
+          "yes": "同一維度",
+          "no": "混合維度或離題",
+          "unknown": "證據不足"
+        }
+      }
+    },
+    "inputHash": "535e22312c4687c2291b20cbb4b3503dd321539c4559d356eda2b4591839cff5"
+  },
+  {
+    "id": "full-b-08-18-01-2/student/probe-label-order",
+    "questionId": "full-b-08-18-01-2",
+    "questionVersion": 2,
+    "stage": "student",
+    "state": {
+      "material": "《始得西山宴遊記》：「心凝形釋，與萬化冥合。」\n《逍遙遊》：「無何有之鄉，廣莫之野」",
+      "stem": "比較《西山宴遊記》與《逍遙遊》所示的精神出路，哪項最準確？",
+      "options": {
+        "a": "兩者都突破慣常限制；柳由山水得冥合，莊另看物的可用與無用",
+        "b": "兩者都以形體大小定價值；柳取西山之高，莊取大瓠大樹之大",
+        "c": "兩者都以避開外物求解脫；柳離山水以忘憂，莊棄大瓠以逍遙",
+        "d": "兩者都以改造外物為前提；柳開山後解憂，莊修大樹後取蔭"
+      }
+    },
+    "questions": {
+      "foundation": {
+        "type": "choice",
+        "instructions": "Is this useful for basic word meaning or literal understanding?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "diagnostic": {
+        "type": "choice",
+        "instructions": "Does this distinguish a specific plausible misunderstanding?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "integration": {
+        "type": "choice",
+        "instructions": "Must the student connect multiple pieces of textual evidence?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "exam_reasoning": {
+        "type": "choice",
+        "instructions": "Does this train identifying evidence and sufficient answer points?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "extension": {
+        "type": "choice",
+        "instructions": "Does this require knowledge beyond the supplied literary text?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "operation": {
+        "type": "choice",
+        "instructions": "判斷學生必須完成的主要操作；看題目所問，不按題材分類。",
+        "criteria": {
+          "unknown": "資料不足",
+          "recall": "記憶文學常識定義",
+          "comparison": "比較兩處內容或結構",
+          "effect": "說明手法的具體作用",
+          "inference": "推導條件因果或論據關係",
+          "meaning": "理解或轉述整句內容",
+          "word": "解釋某字或詞的語境義"
+        }
+      },
+      "shortcut": {
+        "type": "choice",
+        "instructions": "Can option form or irrelevant alternatives reveal the answer without target reasoning?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "需要目標判斷",
+          "yes": "有明顯猜題捷徑"
+        }
+      },
+      "parallel": {
+        "type": "choice",
+        "instructions": "Do all options answer the same question on the same dimension?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "混合維度或離題",
+          "yes": "同一維度"
+        }
+      }
+    },
+    "inputHash": "f06bc8a55ae9df8c608f629ed6db2d315ef8379cf90b244b6fc8c2f408cc82f8"
+  },
+  {
+    "id": "full-b-08-18-01-2/review/probe-option-order",
+    "questionId": "full-b-08-18-01-2",
+    "questionVersion": 2,
+    "stage": "review",
+    "state": {
+      "material": "《始得西山宴遊記》：「心凝形釋，與萬化冥合。」\n《逍遙遊》：「無何有之鄉，廣莫之野」",
+      "stem": "比較《西山宴遊記》與《逍遙遊》所示的精神出路，哪項最準確？",
+      "options": {
+        "d": "兩者都以改造外物為前提；柳開山後解憂，莊修大樹後取蔭",
+        "c": "兩者都以避開外物求解脫；柳離山水以忘憂，莊棄大瓠以逍遙",
+        "b": "兩者都以形體大小定價值；柳取西山之高，莊取大瓠大樹之大",
+        "a": "兩者都突破慣常限制；柳由山水得冥合，莊另看物的可用與無用"
+      },
+      "source": [
+        "逍遙遊西山心凝形釋與萬化冥合逍遙無何有之鄉廣莫之野逍遙乎寢臥其下共同突破世俗功利尺度柳宗元由宴遊改變觀照莊子用寓言重新理解無用的價值",
+        "逍遙遊；西山：「心凝形釋，與萬化冥合」。\n逍遙：「無何有之鄉，廣莫之野」「逍遙乎寢臥其下」。；共同突破世俗功利尺度；柳宗元由宴遊改變觀照，莊子用寓言重新理解「無用」的價值。"
+      ],
+      "key": "a",
+      "explanation": "柳宗元由山水觀照得到超脫；莊子以大瓠、大樹等反思狹隘功用標準，兩者方式不同。"
+    },
+    "questions": {
+      "answer_support": {
+        "type": "choice",
+        "instructions": "Does the evidence support the keyed answer?",
+        "criteria": {
+          "supported": "有證據支持",
+          "contradicted": "與證據矛盾",
+          "unknown": "證據不足"
+        }
+      },
+      "uniqueness": {
+        "type": "choice",
+        "instructions": "Can a second option also be defended under the question wording?",
+        "criteria": {
+          "unique": "單一成立答案",
+          "multiple": "另一項也可成立",
+          "unknown": "不能確認"
+        }
+      },
+      "set_strength": {
+        "type": "choice",
+        "instructions": "評三個錯項的吸引點，不評難度。常見錯詞義也可有效。需有局部依據且能排除。",
+        "criteria": {
+          "all": "三錯項均有合理吸引點",
+          "some": "部分錯項有用其餘薄弱",
+          "none": "三錯項都明顯無效",
+          "unknown": "無法判斷"
+        }
+      },
+      "set_redundancy": {
+        "type": "choice",
+        "instructions": "Are the wrong options essentially the same error with different wording?",
+        "criteria": {
+          "yes": "錯因重複",
+          "no": "有實質區別",
+          "unknown": "證據不足"
+        }
+      },
+      "answer_form": {
+        "type": "choice",
+        "instructions": "Is the keyed answer conspicuous mainly by length, wording or completeness?",
+        "criteria": {
+          "yes": "形式突出",
+          "no": "無明顯提示",
+          "unknown": "不能判斷"
+        }
+      },
+      "main_explanation": {
+        "type": "choice",
+        "instructions": "Does the explanation connect concrete evidence to the answer?",
+        "criteria": {
+          "worked": "具體證據與推理",
+          "generic": "只給結論或泛泛理由",
+          "off_topic": "離題或矛盾",
+          "unknown": "證據不足"
+        }
+      }
+    },
+    "inputHash": "77b07d48d67a98669ed406d1794f8e03051b522c9713bdb102c518bbde30674b"
+  },
+  {
+    "id": "full-b-08-18-01-2/review/probe-label-order",
+    "questionId": "full-b-08-18-01-2",
+    "questionVersion": 2,
+    "stage": "review",
+    "state": {
+      "material": "《始得西山宴遊記》：「心凝形釋，與萬化冥合。」\n《逍遙遊》：「無何有之鄉，廣莫之野」",
+      "stem": "比較《西山宴遊記》與《逍遙遊》所示的精神出路，哪項最準確？",
+      "options": {
+        "a": "兩者都突破慣常限制；柳由山水得冥合，莊另看物的可用與無用",
+        "b": "兩者都以形體大小定價值；柳取西山之高，莊取大瓠大樹之大",
+        "c": "兩者都以避開外物求解脫；柳離山水以忘憂，莊棄大瓠以逍遙",
+        "d": "兩者都以改造外物為前提；柳開山後解憂，莊修大樹後取蔭"
+      },
+      "source": [
+        "逍遙遊西山心凝形釋與萬化冥合逍遙無何有之鄉廣莫之野逍遙乎寢臥其下共同突破世俗功利尺度柳宗元由宴遊改變觀照莊子用寓言重新理解無用的價值",
+        "逍遙遊；西山：「心凝形釋，與萬化冥合」。\n逍遙：「無何有之鄉，廣莫之野」「逍遙乎寢臥其下」。；共同突破世俗功利尺度；柳宗元由宴遊改變觀照，莊子用寓言重新理解「無用」的價值。"
+      ],
+      "key": "a",
+      "explanation": "柳宗元由山水觀照得到超脫；莊子以大瓠、大樹等反思狹隘功用標準，兩者方式不同。"
+    },
+    "questions": {
+      "answer_support": {
+        "type": "choice",
+        "instructions": "Does the evidence support the keyed answer?",
+        "criteria": {
+          "unknown": "證據不足",
+          "contradicted": "與證據矛盾",
+          "supported": "有證據支持"
+        }
+      },
+      "uniqueness": {
+        "type": "choice",
+        "instructions": "Can a second option also be defended under the question wording?",
+        "criteria": {
+          "unknown": "不能確認",
+          "multiple": "另一項也可成立",
+          "unique": "單一成立答案"
+        }
+      },
+      "set_strength": {
+        "type": "choice",
+        "instructions": "評三個錯項的吸引點，不評難度。常見錯詞義也可有效。需有局部依據且能排除。",
+        "criteria": {
+          "unknown": "無法判斷",
+          "none": "三錯項都明顯無效",
+          "some": "部分錯項有用其餘薄弱",
+          "all": "三錯項均有合理吸引點"
+        }
+      },
+      "set_redundancy": {
+        "type": "choice",
+        "instructions": "Are the wrong options essentially the same error with different wording?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "有實質區別",
+          "yes": "錯因重複"
+        }
+      },
+      "answer_form": {
+        "type": "choice",
+        "instructions": "Is the keyed answer conspicuous mainly by length, wording or completeness?",
+        "criteria": {
+          "unknown": "不能判斷",
+          "no": "無明顯提示",
+          "yes": "形式突出"
+        }
+      },
+      "main_explanation": {
+        "type": "choice",
+        "instructions": "Does the explanation connect concrete evidence to the answer?",
+        "criteria": {
+          "unknown": "證據不足",
+          "off_topic": "離題或矛盾",
+          "generic": "只給結論或泛泛理由",
+          "worked": "具體證據與推理"
+        }
+      }
+    },
+    "inputHash": "8fc37483e09bc40293709a62a54f49907f3f72e5dde33586bc81d8a4bab30663"
+  },
+  {
+    "id": "full-c-01-23-02-01/student/probe-option-order",
+    "questionId": "full-c-01-23-02-01",
+    "questionVersion": 2,
+    "stage": "student",
+    "state": {
+      "material": "《論仁、論孝、論君子》\n孟懿子問孝。子曰：「無違。」樊遲御，子告之曰：「孟孫問孝於我，我對曰，無違。」樊遲曰：「何謂也？」子曰：「生，事之以禮；死，葬之以禮，祭之以禮。」\n子游問孝。子曰：「今之孝者，是謂能養。至於犬馬，皆能有養；不敬，何以別乎！」\n子曰：「事父母幾諫，見志不從，又敬不違，勞而不怨。」\n子曰：「父母之年，不可不知也。一則以喜，一則以懼。」\n\n《師說》\n古之學者必有師。師者，所以傳道、受業、解惑也。人非生而知之者，孰能無惑？惑而不從師，其為惑也終不解矣。\n生乎吾前，其聞道也，固先乎吾，吾從而師之；生乎吾後，其聞道也，亦先乎吾，吾從而師之。吾師道也，夫庸知其年之先後生於吾乎？是故無貴無賤，無長無少，道之所存，師之所存也。\n嗟乎！師道之不傳也久矣！欲人之無惑也難矣！古之聖人，其出人也遠矣，猶且從師而問焉；今之眾人，其下聖人也亦遠矣，而恥學於師；是故聖益聖，愚益愚，聖人之所以為聖，愚人之所以為愚，其皆出於此乎！\n愛其子，擇師而教之，於其身也則恥師焉，惑矣！彼童子之師，授之書而習其句讀者，非吾所謂傳其道、解其惑者也。句讀之不知，惑之不解，或師焉，或不焉，小學而大遺，吾未見其明也。\n巫、醫、樂師、百工之人，不恥相師；士大夫之族，曰師、曰弟子云者，則羣聚而笑之。問之，則曰︰「彼與彼年相若也，道相似也。」位卑則足羞，官盛則近諛。嗚呼！師道之不復，可知矣。巫、醫、樂師、百工之人，君子不齒，今其智乃反不能及，其可怪也歟！\n聖人無常師，孔子師郯子、萇弘、師襄、老聃。郯子之徒，其賢不及孔子。孔子曰︰「三人行，則必有我師。」是故弟子不必不如師，師不必賢於弟子；聞道有先後，術業有專攻，如是而已。\n李氏子蟠，年十七，好古文，六藝經傳，皆通習之；不拘於時，學於余。余嘉其能行古道，作《師說》以貽之。",
+      "stem": "「問孝於我」和《師說》「學於余」的「於」，共同用法是甚麼？",
+      "options": {
+        "d": "引出詢問或學習的對象，相當於向",
+        "c": "引出行為施動者，表示被動",
+        "b": "引出比較對象，相當於比",
+        "a": "引出所在處所，相當於在"
+      }
+    },
+    "questions": {
+      "foundation": {
+        "type": "choice",
+        "instructions": "Is this useful for basic word meaning or literal understanding?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "diagnostic": {
+        "type": "choice",
+        "instructions": "Does this distinguish a specific plausible misunderstanding?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "integration": {
+        "type": "choice",
+        "instructions": "Must the student connect multiple pieces of textual evidence?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "exam_reasoning": {
+        "type": "choice",
+        "instructions": "Does this train identifying evidence and sufficient answer points?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "extension": {
+        "type": "choice",
+        "instructions": "Does this require knowledge beyond the supplied literary text?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "operation": {
+        "type": "choice",
+        "instructions": "判斷學生必須完成的主要操作；看題目所問，不按題材分類。",
+        "criteria": {
+          "word": "解釋某字或詞的語境義",
+          "meaning": "理解或轉述整句內容",
+          "inference": "推導條件因果或論據關係",
+          "effect": "說明手法的具體作用",
+          "comparison": "比較兩處內容或結構",
+          "recall": "記憶文學常識定義",
+          "unknown": "資料不足"
+        }
+      },
+      "shortcut": {
+        "type": "choice",
+        "instructions": "Can option form or irrelevant alternatives reveal the answer without target reasoning?",
+        "criteria": {
+          "yes": "有明顯猜題捷徑",
+          "no": "需要目標判斷",
+          "unknown": "證據不足"
+        }
+      },
+      "parallel": {
+        "type": "choice",
+        "instructions": "Do all options answer the same question on the same dimension?",
+        "criteria": {
+          "yes": "同一維度",
+          "no": "混合維度或離題",
+          "unknown": "證據不足"
+        }
+      }
+    },
+    "inputHash": "40f62b7ce2d715bc03541d609c4ed3a6c707544086fe87e4657f3f1b6ebb1d38"
+  },
+  {
+    "id": "full-c-01-23-02-01/student/probe-label-order",
+    "questionId": "full-c-01-23-02-01",
+    "questionVersion": 2,
+    "stage": "student",
+    "state": {
+      "material": "《論仁、論孝、論君子》\n孟懿子問孝。子曰：「無違。」樊遲御，子告之曰：「孟孫問孝於我，我對曰，無違。」樊遲曰：「何謂也？」子曰：「生，事之以禮；死，葬之以禮，祭之以禮。」\n子游問孝。子曰：「今之孝者，是謂能養。至於犬馬，皆能有養；不敬，何以別乎！」\n子曰：「事父母幾諫，見志不從，又敬不違，勞而不怨。」\n子曰：「父母之年，不可不知也。一則以喜，一則以懼。」\n\n《師說》\n古之學者必有師。師者，所以傳道、受業、解惑也。人非生而知之者，孰能無惑？惑而不從師，其為惑也終不解矣。\n生乎吾前，其聞道也，固先乎吾，吾從而師之；生乎吾後，其聞道也，亦先乎吾，吾從而師之。吾師道也，夫庸知其年之先後生於吾乎？是故無貴無賤，無長無少，道之所存，師之所存也。\n嗟乎！師道之不傳也久矣！欲人之無惑也難矣！古之聖人，其出人也遠矣，猶且從師而問焉；今之眾人，其下聖人也亦遠矣，而恥學於師；是故聖益聖，愚益愚，聖人之所以為聖，愚人之所以為愚，其皆出於此乎！\n愛其子，擇師而教之，於其身也則恥師焉，惑矣！彼童子之師，授之書而習其句讀者，非吾所謂傳其道、解其惑者也。句讀之不知，惑之不解，或師焉，或不焉，小學而大遺，吾未見其明也。\n巫、醫、樂師、百工之人，不恥相師；士大夫之族，曰師、曰弟子云者，則羣聚而笑之。問之，則曰︰「彼與彼年相若也，道相似也。」位卑則足羞，官盛則近諛。嗚呼！師道之不復，可知矣。巫、醫、樂師、百工之人，君子不齒，今其智乃反不能及，其可怪也歟！\n聖人無常師，孔子師郯子、萇弘、師襄、老聃。郯子之徒，其賢不及孔子。孔子曰︰「三人行，則必有我師。」是故弟子不必不如師，師不必賢於弟子；聞道有先後，術業有專攻，如是而已。\n李氏子蟠，年十七，好古文，六藝經傳，皆通習之；不拘於時，學於余。余嘉其能行古道，作《師說》以貽之。",
+      "stem": "「問孝於我」和《師說》「學於余」的「於」，共同用法是甚麼？",
+      "options": {
+        "a": "引出所在處所，相當於在",
+        "b": "引出比較對象，相當於比",
+        "c": "引出行為施動者，表示被動",
+        "d": "引出詢問或學習的對象，相當於向"
+      }
+    },
+    "questions": {
+      "foundation": {
+        "type": "choice",
+        "instructions": "Is this useful for basic word meaning or literal understanding?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "diagnostic": {
+        "type": "choice",
+        "instructions": "Does this distinguish a specific plausible misunderstanding?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "integration": {
+        "type": "choice",
+        "instructions": "Must the student connect multiple pieces of textual evidence?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "exam_reasoning": {
+        "type": "choice",
+        "instructions": "Does this train identifying evidence and sufficient answer points?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "extension": {
+        "type": "choice",
+        "instructions": "Does this require knowledge beyond the supplied literary text?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "operation": {
+        "type": "choice",
+        "instructions": "判斷學生必須完成的主要操作；看題目所問，不按題材分類。",
+        "criteria": {
+          "unknown": "資料不足",
+          "recall": "記憶文學常識定義",
+          "comparison": "比較兩處內容或結構",
+          "effect": "說明手法的具體作用",
+          "inference": "推導條件因果或論據關係",
+          "meaning": "理解或轉述整句內容",
+          "word": "解釋某字或詞的語境義"
+        }
+      },
+      "shortcut": {
+        "type": "choice",
+        "instructions": "Can option form or irrelevant alternatives reveal the answer without target reasoning?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "需要目標判斷",
+          "yes": "有明顯猜題捷徑"
+        }
+      },
+      "parallel": {
+        "type": "choice",
+        "instructions": "Do all options answer the same question on the same dimension?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "混合維度或離題",
+          "yes": "同一維度"
+        }
+      }
+    },
+    "inputHash": "8016da4fbe10081ffa599b1efb1c6284d40bfb496ffa4f4740f85076960e2dcb"
+  },
+  {
+    "id": "full-c-01-23-02-01/review/probe-option-order",
+    "questionId": "full-c-01-23-02-01",
+    "questionVersion": 2,
+    "stage": "review",
+    "state": {
+      "material": "《論仁、論孝、論君子》\n孟懿子問孝。子曰：「無違。」樊遲御，子告之曰：「孟孫問孝於我，我對曰，無違。」樊遲曰：「何謂也？」子曰：「生，事之以禮；死，葬之以禮，祭之以禮。」\n子游問孝。子曰：「今之孝者，是謂能養。至於犬馬，皆能有養；不敬，何以別乎！」\n子曰：「事父母幾諫，見志不從，又敬不違，勞而不怨。」\n子曰：「父母之年，不可不知也。一則以喜，一則以懼。」\n\n《師說》\n古之學者必有師。師者，所以傳道、受業、解惑也。人非生而知之者，孰能無惑？惑而不從師，其為惑也終不解矣。\n生乎吾前，其聞道也，固先乎吾，吾從而師之；生乎吾後，其聞道也，亦先乎吾，吾從而師之。吾師道也，夫庸知其年之先後生於吾乎？是故無貴無賤，無長無少，道之所存，師之所存也。\n嗟乎！師道之不傳也久矣！欲人之無惑也難矣！古之聖人，其出人也遠矣，猶且從師而問焉；今之眾人，其下聖人也亦遠矣，而恥學於師；是故聖益聖，愚益愚，聖人之所以為聖，愚人之所以為愚，其皆出於此乎！\n愛其子，擇師而教之，於其身也則恥師焉，惑矣！彼童子之師，授之書而習其句讀者，非吾所謂傳其道、解其惑者也。句讀之不知，惑之不解，或師焉，或不焉，小學而大遺，吾未見其明也。\n巫、醫、樂師、百工之人，不恥相師；士大夫之族，曰師、曰弟子云者，則羣聚而笑之。問之，則曰︰「彼與彼年相若也，道相似也。」位卑則足羞，官盛則近諛。嗚呼！師道之不復，可知矣。巫、醫、樂師、百工之人，君子不齒，今其智乃反不能及，其可怪也歟！\n聖人無常師，孔子師郯子、萇弘、師襄、老聃。郯子之徒，其賢不及孔子。孔子曰︰「三人行，則必有我師。」是故弟子不必不如師，師不必賢於弟子；聞道有先後，術業有專攻，如是而已。\n李氏子蟠，年十七，好古文，六藝經傳，皆通習之；不拘於時，學於余。余嘉其能行古道，作《師說》以貽之。",
+      "stem": "「問孝於我」和《師說》「學於余」的「於」，共同用法是甚麼？",
+      "options": {
+        "d": "引出詢問或學習的對象，相當於向",
+        "c": "引出行為施動者，表示被動",
+        "b": "引出比較對象，相當於比",
+        "a": "引出所在處所，相當於在"
+      },
+      "source": [
+        "問孝於我（本篇）／學於余（師說） 向"
+      ],
+      "key": "d",
+      "explanation": "我、余在這兩句都是問學的對象，不是場所、比較標準或被動施事。"
+    },
+    "questions": {
+      "answer_support": {
+        "type": "choice",
+        "instructions": "Does the evidence support the keyed answer?",
+        "criteria": {
+          "supported": "有證據支持",
+          "contradicted": "與證據矛盾",
+          "unknown": "證據不足"
+        }
+      },
+      "uniqueness": {
+        "type": "choice",
+        "instructions": "Can a second option also be defended under the question wording?",
+        "criteria": {
+          "unique": "單一成立答案",
+          "multiple": "另一項也可成立",
+          "unknown": "不能確認"
+        }
+      },
+      "set_strength": {
+        "type": "choice",
+        "instructions": "評三個錯項的吸引點，不評難度。常見錯詞義也可有效。需有局部依據且能排除。",
+        "criteria": {
+          "all": "三錯項均有合理吸引點",
+          "some": "部分錯項有用其餘薄弱",
+          "none": "三錯項都明顯無效",
+          "unknown": "無法判斷"
+        }
+      },
+      "set_redundancy": {
+        "type": "choice",
+        "instructions": "Are the wrong options essentially the same error with different wording?",
+        "criteria": {
+          "yes": "錯因重複",
+          "no": "有實質區別",
+          "unknown": "證據不足"
+        }
+      },
+      "answer_form": {
+        "type": "choice",
+        "instructions": "Is the keyed answer conspicuous mainly by length, wording or completeness?",
+        "criteria": {
+          "yes": "形式突出",
+          "no": "無明顯提示",
+          "unknown": "不能判斷"
+        }
+      },
+      "main_explanation": {
+        "type": "choice",
+        "instructions": "Does the explanation connect concrete evidence to the answer?",
+        "criteria": {
+          "worked": "具體證據與推理",
+          "generic": "只給結論或泛泛理由",
+          "off_topic": "離題或矛盾",
+          "unknown": "證據不足"
+        }
+      }
+    },
+    "inputHash": "aa4208a213a16cb1bc66b5ac7f60916d4488b06b82e767aef0d4d555c2930cc9"
+  },
+  {
+    "id": "full-c-01-23-02-01/review/probe-label-order",
+    "questionId": "full-c-01-23-02-01",
+    "questionVersion": 2,
+    "stage": "review",
+    "state": {
+      "material": "《論仁、論孝、論君子》\n孟懿子問孝。子曰：「無違。」樊遲御，子告之曰：「孟孫問孝於我，我對曰，無違。」樊遲曰：「何謂也？」子曰：「生，事之以禮；死，葬之以禮，祭之以禮。」\n子游問孝。子曰：「今之孝者，是謂能養。至於犬馬，皆能有養；不敬，何以別乎！」\n子曰：「事父母幾諫，見志不從，又敬不違，勞而不怨。」\n子曰：「父母之年，不可不知也。一則以喜，一則以懼。」\n\n《師說》\n古之學者必有師。師者，所以傳道、受業、解惑也。人非生而知之者，孰能無惑？惑而不從師，其為惑也終不解矣。\n生乎吾前，其聞道也，固先乎吾，吾從而師之；生乎吾後，其聞道也，亦先乎吾，吾從而師之。吾師道也，夫庸知其年之先後生於吾乎？是故無貴無賤，無長無少，道之所存，師之所存也。\n嗟乎！師道之不傳也久矣！欲人之無惑也難矣！古之聖人，其出人也遠矣，猶且從師而問焉；今之眾人，其下聖人也亦遠矣，而恥學於師；是故聖益聖，愚益愚，聖人之所以為聖，愚人之所以為愚，其皆出於此乎！\n愛其子，擇師而教之，於其身也則恥師焉，惑矣！彼童子之師，授之書而習其句讀者，非吾所謂傳其道、解其惑者也。句讀之不知，惑之不解，或師焉，或不焉，小學而大遺，吾未見其明也。\n巫、醫、樂師、百工之人，不恥相師；士大夫之族，曰師、曰弟子云者，則羣聚而笑之。問之，則曰︰「彼與彼年相若也，道相似也。」位卑則足羞，官盛則近諛。嗚呼！師道之不復，可知矣。巫、醫、樂師、百工之人，君子不齒，今其智乃反不能及，其可怪也歟！\n聖人無常師，孔子師郯子、萇弘、師襄、老聃。郯子之徒，其賢不及孔子。孔子曰︰「三人行，則必有我師。」是故弟子不必不如師，師不必賢於弟子；聞道有先後，術業有專攻，如是而已。\n李氏子蟠，年十七，好古文，六藝經傳，皆通習之；不拘於時，學於余。余嘉其能行古道，作《師說》以貽之。",
+      "stem": "「問孝於我」和《師說》「學於余」的「於」，共同用法是甚麼？",
+      "options": {
+        "a": "引出所在處所，相當於在",
+        "b": "引出比較對象，相當於比",
+        "c": "引出行為施動者，表示被動",
+        "d": "引出詢問或學習的對象，相當於向"
+      },
+      "source": [
+        "問孝於我（本篇）／學於余（師說） 向"
+      ],
+      "key": "d",
+      "explanation": "我、余在這兩句都是問學的對象，不是場所、比較標準或被動施事。"
+    },
+    "questions": {
+      "answer_support": {
+        "type": "choice",
+        "instructions": "Does the evidence support the keyed answer?",
+        "criteria": {
+          "unknown": "證據不足",
+          "contradicted": "與證據矛盾",
+          "supported": "有證據支持"
+        }
+      },
+      "uniqueness": {
+        "type": "choice",
+        "instructions": "Can a second option also be defended under the question wording?",
+        "criteria": {
+          "unknown": "不能確認",
+          "multiple": "另一項也可成立",
+          "unique": "單一成立答案"
+        }
+      },
+      "set_strength": {
+        "type": "choice",
+        "instructions": "評三個錯項的吸引點，不評難度。常見錯詞義也可有效。需有局部依據且能排除。",
+        "criteria": {
+          "unknown": "無法判斷",
+          "none": "三錯項都明顯無效",
+          "some": "部分錯項有用其餘薄弱",
+          "all": "三錯項均有合理吸引點"
+        }
+      },
+      "set_redundancy": {
+        "type": "choice",
+        "instructions": "Are the wrong options essentially the same error with different wording?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "有實質區別",
+          "yes": "錯因重複"
+        }
+      },
+      "answer_form": {
+        "type": "choice",
+        "instructions": "Is the keyed answer conspicuous mainly by length, wording or completeness?",
+        "criteria": {
+          "unknown": "不能判斷",
+          "no": "無明顯提示",
+          "yes": "形式突出"
+        }
+      },
+      "main_explanation": {
+        "type": "choice",
+        "instructions": "Does the explanation connect concrete evidence to the answer?",
+        "criteria": {
+          "unknown": "證據不足",
+          "off_topic": "離題或矛盾",
+          "generic": "只給結論或泛泛理由",
+          "worked": "具體證據與推理"
+        }
+      }
+    },
+    "inputHash": "e2c4ee688b0f362c5389c2af2a9cc294c228be922e842e1062346bc65ef75fef"
+  },
+  {
+    "id": "full-c-01-23-02-03/student/probe-option-order",
+    "questionId": "full-c-01-23-02-03",
+    "questionVersion": 2,
+    "stage": "student",
+    "state": {
+      "material": "《論仁、論孝、論君子》\n子曰：「君子義以為質，禮以行之，孫以出之，信以成之。君子哉！」\n\n《魚我所欲也》\n孟子曰：「魚，我所欲也，熊掌，亦我所欲也；二者不可得兼，舍魚而取熊掌者也。生亦我所欲也，義亦我所欲也；二者不可得兼，舍生而取義者也。生亦我所欲，所欲有甚於生者，故不為苟得也；死亦我所惡，所惡有甚於死者，故患有所不辟也。\n一簞食，一豆羹，得之則生，弗得則死。嘑爾而與之，行道之人弗受；蹴爾而與之，乞人不屑也；萬鍾則不辯禮義而受之。萬鍾於我何加焉？為宮室之美、妻妾之奉、所識窮乏者得我與？",
+      "stem": "「萬鍾於我何加焉」的「於我」，與哪一解讀相符？",
+      "options": {
+        "d": "對於我，指出厚祿的益處所涉及的人",
+        "c": "被我接受，指出厚祿對人的被動強迫",
+        "b": "從我出發，指出厚祿轉送出去的方向",
+        "a": "在我這裏，指出厚祿實際存放的位置"
+      }
+    },
+    "questions": {
+      "foundation": {
+        "type": "choice",
+        "instructions": "Is this useful for basic word meaning or literal understanding?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "diagnostic": {
+        "type": "choice",
+        "instructions": "Does this distinguish a specific plausible misunderstanding?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "integration": {
+        "type": "choice",
+        "instructions": "Must the student connect multiple pieces of textual evidence?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "exam_reasoning": {
+        "type": "choice",
+        "instructions": "Does this train identifying evidence and sufficient answer points?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "extension": {
+        "type": "choice",
+        "instructions": "Does this require knowledge beyond the supplied literary text?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "operation": {
+        "type": "choice",
+        "instructions": "判斷學生必須完成的主要操作；看題目所問，不按題材分類。",
+        "criteria": {
+          "word": "解釋某字或詞的語境義",
+          "meaning": "理解或轉述整句內容",
+          "inference": "推導條件因果或論據關係",
+          "effect": "說明手法的具體作用",
+          "comparison": "比較兩處內容或結構",
+          "recall": "記憶文學常識定義",
+          "unknown": "資料不足"
+        }
+      },
+      "shortcut": {
+        "type": "choice",
+        "instructions": "Can option form or irrelevant alternatives reveal the answer without target reasoning?",
+        "criteria": {
+          "yes": "有明顯猜題捷徑",
+          "no": "需要目標判斷",
+          "unknown": "證據不足"
+        }
+      },
+      "parallel": {
+        "type": "choice",
+        "instructions": "Do all options answer the same question on the same dimension?",
+        "criteria": {
+          "yes": "同一維度",
+          "no": "混合維度或離題",
+          "unknown": "證據不足"
+        }
+      }
+    },
+    "inputHash": "7b4db477bf4840619f509f4c59c481ab1343dfc049fa96b7965e9828dabaf37d"
+  },
+  {
+    "id": "full-c-01-23-02-03/student/probe-label-order",
+    "questionId": "full-c-01-23-02-03",
+    "questionVersion": 2,
+    "stage": "student",
+    "state": {
+      "material": "《論仁、論孝、論君子》\n子曰：「君子義以為質，禮以行之，孫以出之，信以成之。君子哉！」\n\n《魚我所欲也》\n孟子曰：「魚，我所欲也，熊掌，亦我所欲也；二者不可得兼，舍魚而取熊掌者也。生亦我所欲也，義亦我所欲也；二者不可得兼，舍生而取義者也。生亦我所欲，所欲有甚於生者，故不為苟得也；死亦我所惡，所惡有甚於死者，故患有所不辟也。\n一簞食，一豆羹，得之則生，弗得則死。嘑爾而與之，行道之人弗受；蹴爾而與之，乞人不屑也；萬鍾則不辯禮義而受之。萬鍾於我何加焉？為宮室之美、妻妾之奉、所識窮乏者得我與？",
+      "stem": "「萬鍾於我何加焉」的「於我」，與哪一解讀相符？",
+      "options": {
+        "a": "在我這裏，指出厚祿實際存放的位置",
+        "b": "從我出發，指出厚祿轉送出去的方向",
+        "c": "被我接受，指出厚祿對人的被動強迫",
+        "d": "對於我，指出厚祿的益處所涉及的人"
+      }
+    },
+    "questions": {
+      "foundation": {
+        "type": "choice",
+        "instructions": "Is this useful for basic word meaning or literal understanding?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "diagnostic": {
+        "type": "choice",
+        "instructions": "Does this distinguish a specific plausible misunderstanding?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "integration": {
+        "type": "choice",
+        "instructions": "Must the student connect multiple pieces of textual evidence?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "exam_reasoning": {
+        "type": "choice",
+        "instructions": "Does this train identifying evidence and sufficient answer points?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "extension": {
+        "type": "choice",
+        "instructions": "Does this require knowledge beyond the supplied literary text?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "operation": {
+        "type": "choice",
+        "instructions": "判斷學生必須完成的主要操作；看題目所問，不按題材分類。",
+        "criteria": {
+          "unknown": "資料不足",
+          "recall": "記憶文學常識定義",
+          "comparison": "比較兩處內容或結構",
+          "effect": "說明手法的具體作用",
+          "inference": "推導條件因果或論據關係",
+          "meaning": "理解或轉述整句內容",
+          "word": "解釋某字或詞的語境義"
+        }
+      },
+      "shortcut": {
+        "type": "choice",
+        "instructions": "Can option form or irrelevant alternatives reveal the answer without target reasoning?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "需要目標判斷",
+          "yes": "有明顯猜題捷徑"
+        }
+      },
+      "parallel": {
+        "type": "choice",
+        "instructions": "Do all options answer the same question on the same dimension?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "混合維度或離題",
+          "yes": "同一維度"
+        }
+      }
+    },
+    "inputHash": "27dd3213ff169b9a15b368faad4d1cf02bdb0432da7448ffe85a9ac94c1e1152"
+  },
+  {
+    "id": "full-c-01-23-02-03/review/probe-option-order",
+    "questionId": "full-c-01-23-02-03",
+    "questionVersion": 2,
+    "stage": "review",
+    "state": {
+      "material": "《論仁、論孝、論君子》\n子曰：「君子義以為質，禮以行之，孫以出之，信以成之。君子哉！」\n\n《魚我所欲也》\n孟子曰：「魚，我所欲也，熊掌，亦我所欲也；二者不可得兼，舍魚而取熊掌者也。生亦我所欲也，義亦我所欲也；二者不可得兼，舍生而取義者也。生亦我所欲，所欲有甚於生者，故不為苟得也；死亦我所惡，所惡有甚於死者，故患有所不辟也。\n一簞食，一豆羹，得之則生，弗得則死。嘑爾而與之，行道之人弗受；蹴爾而與之，乞人不屑也；萬鍾則不辯禮義而受之。萬鍾於我何加焉？為宮室之美、妻妾之奉、所識窮乏者得我與？",
+      "stem": "「萬鍾於我何加焉」的「於我」，與哪一解讀相符？",
+      "options": {
+        "d": "對於我，指出厚祿的益處所涉及的人",
+        "c": "被我接受，指出厚祿對人的被動強迫",
+        "b": "從我出發，指出厚祿轉送出去的方向",
+        "a": "在我這裏，指出厚祿實際存放的位置"
+      },
+      "source": [
+        "萬鍾於我何加焉（魚我所欲也） 對於"
+      ],
+      "key": "d",
+      "explanation": "何加問有甚麼益處，「於我」是對我而言的關係，不能解成存放地或出發地。"
+    },
+    "questions": {
+      "answer_support": {
+        "type": "choice",
+        "instructions": "Does the evidence support the keyed answer?",
+        "criteria": {
+          "supported": "有證據支持",
+          "contradicted": "與證據矛盾",
+          "unknown": "證據不足"
+        }
+      },
+      "uniqueness": {
+        "type": "choice",
+        "instructions": "Can a second option also be defended under the question wording?",
+        "criteria": {
+          "unique": "單一成立答案",
+          "multiple": "另一項也可成立",
+          "unknown": "不能確認"
+        }
+      },
+      "set_strength": {
+        "type": "choice",
+        "instructions": "評三個錯項的吸引點，不評難度。常見錯詞義也可有效。需有局部依據且能排除。",
+        "criteria": {
+          "all": "三錯項均有合理吸引點",
+          "some": "部分錯項有用其餘薄弱",
+          "none": "三錯項都明顯無效",
+          "unknown": "無法判斷"
+        }
+      },
+      "set_redundancy": {
+        "type": "choice",
+        "instructions": "Are the wrong options essentially the same error with different wording?",
+        "criteria": {
+          "yes": "錯因重複",
+          "no": "有實質區別",
+          "unknown": "證據不足"
+        }
+      },
+      "answer_form": {
+        "type": "choice",
+        "instructions": "Is the keyed answer conspicuous mainly by length, wording or completeness?",
+        "criteria": {
+          "yes": "形式突出",
+          "no": "無明顯提示",
+          "unknown": "不能判斷"
+        }
+      },
+      "main_explanation": {
+        "type": "choice",
+        "instructions": "Does the explanation connect concrete evidence to the answer?",
+        "criteria": {
+          "worked": "具體證據與推理",
+          "generic": "只給結論或泛泛理由",
+          "off_topic": "離題或矛盾",
+          "unknown": "證據不足"
+        }
+      }
+    },
+    "inputHash": "eff5b30dca9b181beefc585a75011f0480b5fbca27782be2b40c80bef1db7c04"
+  },
+  {
+    "id": "full-c-01-23-02-03/review/probe-label-order",
+    "questionId": "full-c-01-23-02-03",
+    "questionVersion": 2,
+    "stage": "review",
+    "state": {
+      "material": "《論仁、論孝、論君子》\n子曰：「君子義以為質，禮以行之，孫以出之，信以成之。君子哉！」\n\n《魚我所欲也》\n孟子曰：「魚，我所欲也，熊掌，亦我所欲也；二者不可得兼，舍魚而取熊掌者也。生亦我所欲也，義亦我所欲也；二者不可得兼，舍生而取義者也。生亦我所欲，所欲有甚於生者，故不為苟得也；死亦我所惡，所惡有甚於死者，故患有所不辟也。\n一簞食，一豆羹，得之則生，弗得則死。嘑爾而與之，行道之人弗受；蹴爾而與之，乞人不屑也；萬鍾則不辯禮義而受之。萬鍾於我何加焉？為宮室之美、妻妾之奉、所識窮乏者得我與？",
+      "stem": "「萬鍾於我何加焉」的「於我」，與哪一解讀相符？",
+      "options": {
+        "a": "在我這裏，指出厚祿實際存放的位置",
+        "b": "從我出發，指出厚祿轉送出去的方向",
+        "c": "被我接受，指出厚祿對人的被動強迫",
+        "d": "對於我，指出厚祿的益處所涉及的人"
+      },
+      "source": [
+        "萬鍾於我何加焉（魚我所欲也） 對於"
+      ],
+      "key": "d",
+      "explanation": "何加問有甚麼益處，「於我」是對我而言的關係，不能解成存放地或出發地。"
+    },
+    "questions": {
+      "answer_support": {
+        "type": "choice",
+        "instructions": "Does the evidence support the keyed answer?",
+        "criteria": {
+          "unknown": "證據不足",
+          "contradicted": "與證據矛盾",
+          "supported": "有證據支持"
+        }
+      },
+      "uniqueness": {
+        "type": "choice",
+        "instructions": "Can a second option also be defended under the question wording?",
+        "criteria": {
+          "unknown": "不能確認",
+          "multiple": "另一項也可成立",
+          "unique": "單一成立答案"
+        }
+      },
+      "set_strength": {
+        "type": "choice",
+        "instructions": "評三個錯項的吸引點，不評難度。常見錯詞義也可有效。需有局部依據且能排除。",
+        "criteria": {
+          "unknown": "無法判斷",
+          "none": "三錯項都明顯無效",
+          "some": "部分錯項有用其餘薄弱",
+          "all": "三錯項均有合理吸引點"
+        }
+      },
+      "set_redundancy": {
+        "type": "choice",
+        "instructions": "Are the wrong options essentially the same error with different wording?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "有實質區別",
+          "yes": "錯因重複"
+        }
+      },
+      "answer_form": {
+        "type": "choice",
+        "instructions": "Is the keyed answer conspicuous mainly by length, wording or completeness?",
+        "criteria": {
+          "unknown": "不能判斷",
+          "no": "無明顯提示",
+          "yes": "形式突出"
+        }
+      },
+      "main_explanation": {
+        "type": "choice",
+        "instructions": "Does the explanation connect concrete evidence to the answer?",
+        "criteria": {
+          "unknown": "證據不足",
+          "off_topic": "離題或矛盾",
+          "generic": "只給結論或泛泛理由",
+          "worked": "具體證據與推理"
+        }
+      }
+    },
+    "inputHash": "8e8aafc9d8b3beabfdd5d1e993d1278f66106e3a42b73a078faa0856ef676980"
+  },
+  {
+    "id": "full-c-12-10-00-80/student/probe-option-order",
+    "questionId": "full-c-12-10-00-80",
+    "questionVersion": 2,
+    "stage": "student",
+    "state": {
+      "material": "",
+      "stem": "《月下獨酌》結以「相期邈雲漢」，《登樓》結以「日暮聊為梁甫吟」。哪項比較較恰當？",
+      "options": {
+        "d": "前者與後者都以結尾完全否定了前文知己及濟世的需要",
+        "c": "前者與後者都在記錄一次已實現的古人相會",
+        "b": "前者寄相伴願望於想像；後者借諸葛亮證明自己已獲同樣成就",
+        "a": "前者寄相伴願望於天上想像；後者借諸葛亮自況，寄濟世未展之慨"
+      }
+    },
+    "questions": {
+      "foundation": {
+        "type": "choice",
+        "instructions": "Is this useful for basic word meaning or literal understanding?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "diagnostic": {
+        "type": "choice",
+        "instructions": "Does this distinguish a specific plausible misunderstanding?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "integration": {
+        "type": "choice",
+        "instructions": "Must the student connect multiple pieces of textual evidence?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "exam_reasoning": {
+        "type": "choice",
+        "instructions": "Does this train identifying evidence and sufficient answer points?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "extension": {
+        "type": "choice",
+        "instructions": "Does this require knowledge beyond the supplied literary text?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "operation": {
+        "type": "choice",
+        "instructions": "判斷學生必須完成的主要操作；看題目所問，不按題材分類。",
+        "criteria": {
+          "word": "解釋某字或詞的語境義",
+          "meaning": "理解或轉述整句內容",
+          "inference": "推導條件因果或論據關係",
+          "effect": "說明手法的具體作用",
+          "comparison": "比較兩處內容或結構",
+          "recall": "記憶文學常識定義",
+          "unknown": "資料不足"
+        }
+      },
+      "shortcut": {
+        "type": "choice",
+        "instructions": "Can option form or irrelevant alternatives reveal the answer without target reasoning?",
+        "criteria": {
+          "yes": "有明顯猜題捷徑",
+          "no": "需要目標判斷",
+          "unknown": "證據不足"
+        }
+      },
+      "parallel": {
+        "type": "choice",
+        "instructions": "Do all options answer the same question on the same dimension?",
+        "criteria": {
+          "yes": "同一維度",
+          "no": "混合維度或離題",
+          "unknown": "證據不足"
+        }
+      }
+    },
+    "inputHash": "110f645e8433edf0c758db79d55ad1c42fa06c6fb6b84bec5aa75e0dca247fcc"
+  },
+  {
+    "id": "full-c-12-10-00-80/student/probe-label-order",
+    "questionId": "full-c-12-10-00-80",
+    "questionVersion": 2,
+    "stage": "student",
+    "state": {
+      "material": "",
+      "stem": "《月下獨酌》結以「相期邈雲漢」，《登樓》結以「日暮聊為梁甫吟」。哪項比較較恰當？",
+      "options": {
+        "a": "前者寄相伴願望於天上想像；後者借諸葛亮自況，寄濟世未展之慨",
+        "b": "前者寄相伴願望於想像；後者借諸葛亮證明自己已獲同樣成就",
+        "c": "前者與後者都在記錄一次已實現的古人相會",
+        "d": "前者與後者都以結尾完全否定了前文知己及濟世的需要"
+      }
+    },
+    "questions": {
+      "foundation": {
+        "type": "choice",
+        "instructions": "Is this useful for basic word meaning or literal understanding?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "diagnostic": {
+        "type": "choice",
+        "instructions": "Does this distinguish a specific plausible misunderstanding?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "integration": {
+        "type": "choice",
+        "instructions": "Must the student connect multiple pieces of textual evidence?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "exam_reasoning": {
+        "type": "choice",
+        "instructions": "Does this train identifying evidence and sufficient answer points?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "extension": {
+        "type": "choice",
+        "instructions": "Does this require knowledge beyond the supplied literary text?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "operation": {
+        "type": "choice",
+        "instructions": "判斷學生必須完成的主要操作；看題目所問，不按題材分類。",
+        "criteria": {
+          "unknown": "資料不足",
+          "recall": "記憶文學常識定義",
+          "comparison": "比較兩處內容或結構",
+          "effect": "說明手法的具體作用",
+          "inference": "推導條件因果或論據關係",
+          "meaning": "理解或轉述整句內容",
+          "word": "解釋某字或詞的語境義"
+        }
+      },
+      "shortcut": {
+        "type": "choice",
+        "instructions": "Can option form or irrelevant alternatives reveal the answer without target reasoning?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "需要目標判斷",
+          "yes": "有明顯猜題捷徑"
+        }
+      },
+      "parallel": {
+        "type": "choice",
+        "instructions": "Do all options answer the same question on the same dimension?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "混合維度或離題",
+          "yes": "同一維度"
+        }
+      }
+    },
+    "inputHash": "91c2200b78c87563d4b5714fae9ec476750abf27ad5fa7a115b886295e91d5ec"
+  },
+  {
+    "id": "full-c-12-10-00-80/review/probe-option-order",
+    "questionId": "full-c-12-10-00-80",
+    "questionVersion": 2,
+    "stage": "review",
+    "state": {
+      "material": "",
+      "stem": "《月下獨酌》結以「相期邈雲漢」，《登樓》結以「日暮聊為梁甫吟」。哪項比較較恰當？",
+      "options": {
+        "d": "前者與後者都以結尾完全否定了前文知己及濟世的需要",
+        "c": "前者與後者都在記錄一次已實現的古人相會",
+        "b": "前者寄相伴願望於想像；後者借諸葛亮證明自己已獲同樣成就",
+        "a": "前者寄相伴願望於天上想像；後者借諸葛亮自況，寄濟世未展之慨"
+      },
+      "source": [
+        "《月下獨酌》與《登樓》都用美好花景襯托心事：李白苦於無相親，杜甫傷於萬方多難。結尾則不同：李白把相伴寄於雲漢的想像，杜甫以梁甫吟自況，仍想濟世卻未能施展。",
+        "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。"
+      ],
+      "key": "a",
+      "explanation": "雲漢是相約的想像空間；梁甫吟連諸葛亮，寄用世心志。"
+    },
+    "questions": {
+      "answer_support": {
+        "type": "choice",
+        "instructions": "Does the evidence support the keyed answer?",
+        "criteria": {
+          "supported": "有證據支持",
+          "contradicted": "與證據矛盾",
+          "unknown": "證據不足"
+        }
+      },
+      "uniqueness": {
+        "type": "choice",
+        "instructions": "Can a second option also be defended under the question wording?",
+        "criteria": {
+          "unique": "單一成立答案",
+          "multiple": "另一項也可成立",
+          "unknown": "不能確認"
+        }
+      },
+      "set_strength": {
+        "type": "choice",
+        "instructions": "評三個錯項的吸引點，不評難度。常見錯詞義也可有效。需有局部依據且能排除。",
+        "criteria": {
+          "all": "三錯項均有合理吸引點",
+          "some": "部分錯項有用其餘薄弱",
+          "none": "三錯項都明顯無效",
+          "unknown": "無法判斷"
+        }
+      },
+      "set_redundancy": {
+        "type": "choice",
+        "instructions": "Are the wrong options essentially the same error with different wording?",
+        "criteria": {
+          "yes": "錯因重複",
+          "no": "有實質區別",
+          "unknown": "證據不足"
+        }
+      },
+      "answer_form": {
+        "type": "choice",
+        "instructions": "Is the keyed answer conspicuous mainly by length, wording or completeness?",
+        "criteria": {
+          "yes": "形式突出",
+          "no": "無明顯提示",
+          "unknown": "不能判斷"
+        }
+      },
+      "main_explanation": {
+        "type": "choice",
+        "instructions": "Does the explanation connect concrete evidence to the answer?",
+        "criteria": {
+          "worked": "具體證據與推理",
+          "generic": "只給結論或泛泛理由",
+          "off_topic": "離題或矛盾",
+          "unknown": "證據不足"
+        }
+      }
+    },
+    "inputHash": "2120957d7b630a0450b8b78229ba3c15b192f7a1f9ec2b409e80844cd1aecf69"
+  },
+  {
+    "id": "full-c-12-10-00-80/review/probe-label-order",
+    "questionId": "full-c-12-10-00-80",
+    "questionVersion": 2,
+    "stage": "review",
+    "state": {
+      "material": "",
+      "stem": "《月下獨酌》結以「相期邈雲漢」，《登樓》結以「日暮聊為梁甫吟」。哪項比較較恰當？",
+      "options": {
+        "a": "前者寄相伴願望於天上想像；後者借諸葛亮自況，寄濟世未展之慨",
+        "b": "前者寄相伴願望於想像；後者借諸葛亮證明自己已獲同樣成就",
+        "c": "前者與後者都在記錄一次已實現的古人相會",
+        "d": "前者與後者都以結尾完全否定了前文知己及濟世的需要"
+      },
+      "source": [
+        "《月下獨酌》與《登樓》都用美好花景襯托心事：李白苦於無相親，杜甫傷於萬方多難。結尾則不同：李白把相伴寄於雲漢的想像，杜甫以梁甫吟自況，仍想濟世卻未能施展。",
+        "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。"
+      ],
+      "key": "a",
+      "explanation": "雲漢是相約的想像空間；梁甫吟連諸葛亮，寄用世心志。"
+    },
+    "questions": {
+      "answer_support": {
+        "type": "choice",
+        "instructions": "Does the evidence support the keyed answer?",
+        "criteria": {
+          "unknown": "證據不足",
+          "contradicted": "與證據矛盾",
+          "supported": "有證據支持"
+        }
+      },
+      "uniqueness": {
+        "type": "choice",
+        "instructions": "Can a second option also be defended under the question wording?",
+        "criteria": {
+          "unknown": "不能確認",
+          "multiple": "另一項也可成立",
+          "unique": "單一成立答案"
+        }
+      },
+      "set_strength": {
+        "type": "choice",
+        "instructions": "評三個錯項的吸引點，不評難度。常見錯詞義也可有效。需有局部依據且能排除。",
+        "criteria": {
+          "unknown": "無法判斷",
+          "none": "三錯項都明顯無效",
+          "some": "部分錯項有用其餘薄弱",
+          "all": "三錯項均有合理吸引點"
+        }
+      },
+      "set_redundancy": {
+        "type": "choice",
+        "instructions": "Are the wrong options essentially the same error with different wording?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "有實質區別",
+          "yes": "錯因重複"
+        }
+      },
+      "answer_form": {
+        "type": "choice",
+        "instructions": "Is the keyed answer conspicuous mainly by length, wording or completeness?",
+        "criteria": {
+          "unknown": "不能判斷",
+          "no": "無明顯提示",
+          "yes": "形式突出"
+        }
+      },
+      "main_explanation": {
+        "type": "choice",
+        "instructions": "Does the explanation connect concrete evidence to the answer?",
+        "criteria": {
+          "unknown": "證據不足",
+          "off_topic": "離題或矛盾",
+          "generic": "只給結論或泛泛理由",
+          "worked": "具體證據與推理"
+        }
+      }
+    },
+    "inputHash": "7497d9ee8f6c82703007986ce14b165870f38a82454f6129aba7187ed68f8535"
+  },
+  {
+    "id": "full-c-16-09-04-80/student/probe-option-order",
+    "questionId": "full-c-16-09-04-80",
+    "questionVersion": 2,
+    "stage": "student",
+    "state": {
+      "material": "",
+      "stem": "《念奴嬌》寫「遙想公瑾」，《聲聲慢》寫雁「舊時相識」，《青玉案》寫「眾裏尋他」。哪項比較準確？",
+      "options": {
+        "d": "三者都先寫尋得同伴，末段才轉為相伴已失的悲痛",
+        "c": "三者都按一次出遊的地點轉換，逐站記錄所見",
+        "b": "三者都以完整的古人生平為主線，再由作者發表史評",
+        "a": "分別以懷古反觀自身、眼前景物觸舊情、尋人過程推進感受"
+      }
+    },
+    "questions": {
+      "foundation": {
+        "type": "choice",
+        "instructions": "Is this useful for basic word meaning or literal understanding?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "diagnostic": {
+        "type": "choice",
+        "instructions": "Does this distinguish a specific plausible misunderstanding?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "integration": {
+        "type": "choice",
+        "instructions": "Must the student connect multiple pieces of textual evidence?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "exam_reasoning": {
+        "type": "choice",
+        "instructions": "Does this train identifying evidence and sufficient answer points?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "extension": {
+        "type": "choice",
+        "instructions": "Does this require knowledge beyond the supplied literary text?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "operation": {
+        "type": "choice",
+        "instructions": "判斷學生必須完成的主要操作；看題目所問，不按題材分類。",
+        "criteria": {
+          "word": "解釋某字或詞的語境義",
+          "meaning": "理解或轉述整句內容",
+          "inference": "推導條件因果或論據關係",
+          "effect": "說明手法的具體作用",
+          "comparison": "比較兩處內容或結構",
+          "recall": "記憶文學常識定義",
+          "unknown": "資料不足"
+        }
+      },
+      "shortcut": {
+        "type": "choice",
+        "instructions": "Can option form or irrelevant alternatives reveal the answer without target reasoning?",
+        "criteria": {
+          "yes": "有明顯猜題捷徑",
+          "no": "需要目標判斷",
+          "unknown": "證據不足"
+        }
+      },
+      "parallel": {
+        "type": "choice",
+        "instructions": "Do all options answer the same question on the same dimension?",
+        "criteria": {
+          "yes": "同一維度",
+          "no": "混合維度或離題",
+          "unknown": "證據不足"
+        }
+      }
+    },
+    "inputHash": "671c9b7e5b4a1a961a702b816374583929451fea362a67bcfabe51dc827da353"
+  },
+  {
+    "id": "full-c-16-09-04-80/student/probe-label-order",
+    "questionId": "full-c-16-09-04-80",
+    "questionVersion": 2,
+    "stage": "student",
+    "state": {
+      "material": "",
+      "stem": "《念奴嬌》寫「遙想公瑾」，《聲聲慢》寫雁「舊時相識」，《青玉案》寫「眾裏尋他」。哪項比較準確？",
+      "options": {
+        "a": "分別以懷古反觀自身、眼前景物觸舊情、尋人過程推進感受",
+        "b": "三者都以完整的古人生平為主線，再由作者發表史評",
+        "c": "三者都按一次出遊的地點轉換，逐站記錄所見",
+        "d": "三者都先寫尋得同伴，末段才轉為相伴已失的悲痛"
+      }
+    },
+    "questions": {
+      "foundation": {
+        "type": "choice",
+        "instructions": "Is this useful for basic word meaning or literal understanding?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "diagnostic": {
+        "type": "choice",
+        "instructions": "Does this distinguish a specific plausible misunderstanding?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "integration": {
+        "type": "choice",
+        "instructions": "Must the student connect multiple pieces of textual evidence?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "exam_reasoning": {
+        "type": "choice",
+        "instructions": "Does this train identifying evidence and sufficient answer points?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "extension": {
+        "type": "choice",
+        "instructions": "Does this require knowledge beyond the supplied literary text?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "operation": {
+        "type": "choice",
+        "instructions": "判斷學生必須完成的主要操作；看題目所問，不按題材分類。",
+        "criteria": {
+          "unknown": "資料不足",
+          "recall": "記憶文學常識定義",
+          "comparison": "比較兩處內容或結構",
+          "effect": "說明手法的具體作用",
+          "inference": "推導條件因果或論據關係",
+          "meaning": "理解或轉述整句內容",
+          "word": "解釋某字或詞的語境義"
+        }
+      },
+      "shortcut": {
+        "type": "choice",
+        "instructions": "Can option form or irrelevant alternatives reveal the answer without target reasoning?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "需要目標判斷",
+          "yes": "有明顯猜題捷徑"
+        }
+      },
+      "parallel": {
+        "type": "choice",
+        "instructions": "Do all options answer the same question on the same dimension?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "混合維度或離題",
+          "yes": "同一維度"
+        }
+      }
+    },
+    "inputHash": "66419e56736d196fb6f849d23ff42417a13f6b0d8cf679976e4a68c82f0dd6f3"
+  },
+  {
+    "id": "full-c-16-09-04-80/review/probe-option-order",
+    "questionId": "full-c-16-09-04-80",
+    "questionVersion": 2,
+    "stage": "review",
+    "state": {
+      "material": "",
+      "stem": "《念奴嬌》寫「遙想公瑾」，《聲聲慢》寫雁「舊時相識」，《青玉案》寫「眾裏尋他」。哪項比較準確？",
+      "options": {
+        "d": "三者都先寫尋得同伴，末段才轉為相伴已失的悲痛",
+        "c": "三者都按一次出遊的地點轉換，逐站記錄所見",
+        "b": "三者都以完整的古人生平為主線，再由作者發表史評",
+        "a": "分別以懷古反觀自身、眼前景物觸舊情、尋人過程推進感受"
+      },
+      "source": [
+        "共同點是把外在場景變成內心感受的依據；差異在於《念奴嬌》往返古今，《聲聲慢》由眼前觸發往事，《青玉案》沿尋人過程推進。",
+        "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+        "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+        "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+        "滿地黃花堆積，憔悴損，如今有誰堪摘？守着窗兒，獨自怎生得黑！梧桐更兼細雨，到黃昏、點點滴滴。這次第，怎一箇愁字了得！"
+      ],
+      "key": "a",
+      "explanation": "三處引文分別支持不同構思，不能一概而論。"
+    },
+    "questions": {
+      "answer_support": {
+        "type": "choice",
+        "instructions": "Does the evidence support the keyed answer?",
+        "criteria": {
+          "supported": "有證據支持",
+          "contradicted": "與證據矛盾",
+          "unknown": "證據不足"
+        }
+      },
+      "uniqueness": {
+        "type": "choice",
+        "instructions": "Can a second option also be defended under the question wording?",
+        "criteria": {
+          "unique": "單一成立答案",
+          "multiple": "另一項也可成立",
+          "unknown": "不能確認"
+        }
+      },
+      "set_strength": {
+        "type": "choice",
+        "instructions": "評三個錯項的吸引點，不評難度。常見錯詞義也可有效。需有局部依據且能排除。",
+        "criteria": {
+          "all": "三錯項均有合理吸引點",
+          "some": "部分錯項有用其餘薄弱",
+          "none": "三錯項都明顯無效",
+          "unknown": "無法判斷"
+        }
+      },
+      "set_redundancy": {
+        "type": "choice",
+        "instructions": "Are the wrong options essentially the same error with different wording?",
+        "criteria": {
+          "yes": "錯因重複",
+          "no": "有實質區別",
+          "unknown": "證據不足"
+        }
+      },
+      "answer_form": {
+        "type": "choice",
+        "instructions": "Is the keyed answer conspicuous mainly by length, wording or completeness?",
+        "criteria": {
+          "yes": "形式突出",
+          "no": "無明顯提示",
+          "unknown": "不能判斷"
+        }
+      },
+      "main_explanation": {
+        "type": "choice",
+        "instructions": "Does the explanation connect concrete evidence to the answer?",
+        "criteria": {
+          "worked": "具體證據與推理",
+          "generic": "只給結論或泛泛理由",
+          "off_topic": "離題或矛盾",
+          "unknown": "證據不足"
+        }
+      }
+    },
+    "inputHash": "c6610613e28c3a7162531107a2f30e9dc2e3bfe6db868dcae58d70d21695ed2b"
+  },
+  {
+    "id": "full-c-16-09-04-80/review/probe-label-order",
+    "questionId": "full-c-16-09-04-80",
+    "questionVersion": 2,
+    "stage": "review",
+    "state": {
+      "material": "",
+      "stem": "《念奴嬌》寫「遙想公瑾」，《聲聲慢》寫雁「舊時相識」，《青玉案》寫「眾裏尋他」。哪項比較準確？",
+      "options": {
+        "a": "分別以懷古反觀自身、眼前景物觸舊情、尋人過程推進感受",
+        "b": "三者都以完整的古人生平為主線，再由作者發表史評",
+        "c": "三者都按一次出遊的地點轉換，逐站記錄所見",
+        "d": "三者都先寫尋得同伴，末段才轉為相伴已失的悲痛"
+      },
+      "source": [
+        "共同點是把外在場景變成內心感受的依據；差異在於《念奴嬌》往返古今，《聲聲慢》由眼前觸發往事，《青玉案》沿尋人過程推進。",
+        "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+        "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+        "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+        "滿地黃花堆積，憔悴損，如今有誰堪摘？守着窗兒，獨自怎生得黑！梧桐更兼細雨，到黃昏、點點滴滴。這次第，怎一箇愁字了得！"
+      ],
+      "key": "a",
+      "explanation": "三處引文分別支持不同構思，不能一概而論。"
+    },
+    "questions": {
+      "answer_support": {
+        "type": "choice",
+        "instructions": "Does the evidence support the keyed answer?",
+        "criteria": {
+          "unknown": "證據不足",
+          "contradicted": "與證據矛盾",
+          "supported": "有證據支持"
+        }
+      },
+      "uniqueness": {
+        "type": "choice",
+        "instructions": "Can a second option also be defended under the question wording?",
+        "criteria": {
+          "unknown": "不能確認",
+          "multiple": "另一項也可成立",
+          "unique": "單一成立答案"
+        }
+      },
+      "set_strength": {
+        "type": "choice",
+        "instructions": "評三個錯項的吸引點，不評難度。常見錯詞義也可有效。需有局部依據且能排除。",
+        "criteria": {
+          "unknown": "無法判斷",
+          "none": "三錯項都明顯無效",
+          "some": "部分錯項有用其餘薄弱",
+          "all": "三錯項均有合理吸引點"
+        }
+      },
+      "set_redundancy": {
+        "type": "choice",
+        "instructions": "Are the wrong options essentially the same error with different wording?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "有實質區別",
+          "yes": "錯因重複"
+        }
+      },
+      "answer_form": {
+        "type": "choice",
+        "instructions": "Is the keyed answer conspicuous mainly by length, wording or completeness?",
+        "criteria": {
+          "unknown": "不能判斷",
+          "no": "無明顯提示",
+          "yes": "形式突出"
+        }
+      },
+      "main_explanation": {
+        "type": "choice",
+        "instructions": "Does the explanation connect concrete evidence to the answer?",
+        "criteria": {
+          "unknown": "證據不足",
+          "off_topic": "離題或矛盾",
+          "generic": "只給結論或泛泛理由",
+          "worked": "具體證據與推理"
+        }
+      }
+    },
+    "inputHash": "4afc7afca480fbb1219082eee4cef25ba29a3c3678a9ba58edf2f32d67c44b6a"
+  },
+  {
+    "id": "full-d-16-01/student/probe-option-order",
+    "questionId": "full-d-16-01",
+    "questionVersion": 1,
+    "stage": "student",
+    "state": {
+      "material": "展望作結",
+      "stem": "關於「展望作結」，哪項理解最準確？",
+      "options": {
+        "d": "帶出正面展望，表達積極的人生觀。",
+        "c": "必須引入完全無關的新問題",
+        "b": "任何空泛口號都能延伸主題",
+        "a": "只能重述過去，不能寫未來"
+      }
+    },
+    "questions": {
+      "foundation": {
+        "type": "choice",
+        "instructions": "Is this useful for basic word meaning or literal understanding?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "diagnostic": {
+        "type": "choice",
+        "instructions": "Does this distinguish a specific plausible misunderstanding?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "integration": {
+        "type": "choice",
+        "instructions": "Must the student connect multiple pieces of textual evidence?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "exam_reasoning": {
+        "type": "choice",
+        "instructions": "Does this train identifying evidence and sufficient answer points?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "extension": {
+        "type": "choice",
+        "instructions": "Does this require knowledge beyond the supplied literary text?",
+        "criteria": {
+          "yes": "適用",
+          "conditional": "有條件適用",
+          "no": "不適用",
+          "unknown": "證據不足"
+        }
+      },
+      "operation": {
+        "type": "choice",
+        "instructions": "判斷學生必須完成的主要操作；看題目所問，不按題材分類。",
+        "criteria": {
+          "word": "解釋某字或詞的語境義",
+          "meaning": "理解或轉述整句內容",
+          "inference": "推導條件因果或論據關係",
+          "effect": "說明手法的具體作用",
+          "comparison": "比較兩處內容或結構",
+          "recall": "記憶文學常識定義",
+          "unknown": "資料不足"
+        }
+      },
+      "shortcut": {
+        "type": "choice",
+        "instructions": "Can option form or irrelevant alternatives reveal the answer without target reasoning?",
+        "criteria": {
+          "yes": "有明顯猜題捷徑",
+          "no": "需要目標判斷",
+          "unknown": "證據不足"
+        }
+      },
+      "parallel": {
+        "type": "choice",
+        "instructions": "Do all options answer the same question on the same dimension?",
+        "criteria": {
+          "yes": "同一維度",
+          "no": "混合維度或離題",
+          "unknown": "證據不足"
+        }
+      }
+    },
+    "inputHash": "446b4760aa68be2dbfaed40291dc820fd76b44855c560ff58ae5cf6b98623045"
+  },
+  {
+    "id": "full-d-16-01/student/probe-label-order",
+    "questionId": "full-d-16-01",
+    "questionVersion": 1,
+    "stage": "student",
+    "state": {
+      "material": "展望作結",
+      "stem": "關於「展望作結」，哪項理解最準確？",
+      "options": {
+        "a": "只能重述過去，不能寫未來",
+        "b": "任何空泛口號都能延伸主題",
+        "c": "必須引入完全無關的新問題",
+        "d": "帶出正面展望，表達積極的人生觀。"
+      }
+    },
+    "questions": {
+      "foundation": {
+        "type": "choice",
+        "instructions": "Is this useful for basic word meaning or literal understanding?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "diagnostic": {
+        "type": "choice",
+        "instructions": "Does this distinguish a specific plausible misunderstanding?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "integration": {
+        "type": "choice",
+        "instructions": "Must the student connect multiple pieces of textual evidence?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "exam_reasoning": {
+        "type": "choice",
+        "instructions": "Does this train identifying evidence and sufficient answer points?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "extension": {
+        "type": "choice",
+        "instructions": "Does this require knowledge beyond the supplied literary text?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "不適用",
+          "conditional": "有條件適用",
+          "yes": "適用"
+        }
+      },
+      "operation": {
+        "type": "choice",
+        "instructions": "判斷學生必須完成的主要操作；看題目所問，不按題材分類。",
+        "criteria": {
+          "unknown": "資料不足",
+          "recall": "記憶文學常識定義",
+          "comparison": "比較兩處內容或結構",
+          "effect": "說明手法的具體作用",
+          "inference": "推導條件因果或論據關係",
+          "meaning": "理解或轉述整句內容",
+          "word": "解釋某字或詞的語境義"
+        }
+      },
+      "shortcut": {
+        "type": "choice",
+        "instructions": "Can option form or irrelevant alternatives reveal the answer without target reasoning?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "需要目標判斷",
+          "yes": "有明顯猜題捷徑"
+        }
+      },
+      "parallel": {
+        "type": "choice",
+        "instructions": "Do all options answer the same question on the same dimension?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "混合維度或離題",
+          "yes": "同一維度"
+        }
+      }
+    },
+    "inputHash": "9629bccae051a66b69e9464aa184abd258cb5907ecf57f8bfc8fc6b0042b5768"
+  },
+  {
+    "id": "full-d-16-01/review/probe-option-order",
+    "questionId": "full-d-16-01",
+    "questionVersion": 1,
+    "stage": "review",
+    "state": {
+      "material": "展望作結",
+      "stem": "關於「展望作結」，哪項理解最準確？",
+      "options": {
+        "d": "帶出正面展望，表達積極的人生觀。",
+        "c": "必須引入完全無關的新問題",
+        "b": "任何空泛口號都能延伸主題",
+        "a": "只能重述過去，不能寫未來"
+      },
+      "source": [
+        "帶出正面展望，表達積極的人生觀。"
+      ],
+      "key": "d",
+      "explanation": "帶出正面展望，表達積極的人生觀。\n例子或作用：由當前經驗推向未來，延伸主題。"
+    },
+    "questions": {
+      "answer_support": {
+        "type": "choice",
+        "instructions": "Does the evidence support the keyed answer?",
+        "criteria": {
+          "supported": "有證據支持",
+          "contradicted": "與證據矛盾",
+          "unknown": "證據不足"
+        }
+      },
+      "uniqueness": {
+        "type": "choice",
+        "instructions": "Can a second option also be defended under the question wording?",
+        "criteria": {
+          "unique": "單一成立答案",
+          "multiple": "另一項也可成立",
+          "unknown": "不能確認"
+        }
+      },
+      "set_strength": {
+        "type": "choice",
+        "instructions": "評三個錯項的吸引點，不評難度。常見錯詞義也可有效。需有局部依據且能排除。",
+        "criteria": {
+          "all": "三錯項均有合理吸引點",
+          "some": "部分錯項有用其餘薄弱",
+          "none": "三錯項都明顯無效",
+          "unknown": "無法判斷"
+        }
+      },
+      "set_redundancy": {
+        "type": "choice",
+        "instructions": "Are the wrong options essentially the same error with different wording?",
+        "criteria": {
+          "yes": "錯因重複",
+          "no": "有實質區別",
+          "unknown": "證據不足"
+        }
+      },
+      "answer_form": {
+        "type": "choice",
+        "instructions": "Is the keyed answer conspicuous mainly by length, wording or completeness?",
+        "criteria": {
+          "yes": "形式突出",
+          "no": "無明顯提示",
+          "unknown": "不能判斷"
+        }
+      },
+      "main_explanation": {
+        "type": "choice",
+        "instructions": "Does the explanation connect concrete evidence to the answer?",
+        "criteria": {
+          "worked": "具體證據與推理",
+          "generic": "只給結論或泛泛理由",
+          "off_topic": "離題或矛盾",
+          "unknown": "證據不足"
+        }
+      }
+    },
+    "inputHash": "a5062c4f541d58371a9dfc66aa05ba8e5597a66a908970d72b59e4fb2dd10e4d"
+  },
+  {
+    "id": "full-d-16-01/review/probe-label-order",
+    "questionId": "full-d-16-01",
+    "questionVersion": 1,
+    "stage": "review",
+    "state": {
+      "material": "展望作結",
+      "stem": "關於「展望作結」，哪項理解最準確？",
+      "options": {
+        "a": "只能重述過去，不能寫未來",
+        "b": "任何空泛口號都能延伸主題",
+        "c": "必須引入完全無關的新問題",
+        "d": "帶出正面展望，表達積極的人生觀。"
+      },
+      "source": [
+        "帶出正面展望，表達積極的人生觀。"
+      ],
+      "key": "d",
+      "explanation": "帶出正面展望，表達積極的人生觀。\n例子或作用：由當前經驗推向未來，延伸主題。"
+    },
+    "questions": {
+      "answer_support": {
+        "type": "choice",
+        "instructions": "Does the evidence support the keyed answer?",
+        "criteria": {
+          "unknown": "證據不足",
+          "contradicted": "與證據矛盾",
+          "supported": "有證據支持"
+        }
+      },
+      "uniqueness": {
+        "type": "choice",
+        "instructions": "Can a second option also be defended under the question wording?",
+        "criteria": {
+          "unknown": "不能確認",
+          "multiple": "另一項也可成立",
+          "unique": "單一成立答案"
+        }
+      },
+      "set_strength": {
+        "type": "choice",
+        "instructions": "評三個錯項的吸引點，不評難度。常見錯詞義也可有效。需有局部依據且能排除。",
+        "criteria": {
+          "unknown": "無法判斷",
+          "none": "三錯項都明顯無效",
+          "some": "部分錯項有用其餘薄弱",
+          "all": "三錯項均有合理吸引點"
+        }
+      },
+      "set_redundancy": {
+        "type": "choice",
+        "instructions": "Are the wrong options essentially the same error with different wording?",
+        "criteria": {
+          "unknown": "證據不足",
+          "no": "有實質區別",
+          "yes": "錯因重複"
+        }
+      },
+      "answer_form": {
+        "type": "choice",
+        "instructions": "Is the keyed answer conspicuous mainly by length, wording or completeness?",
+        "criteria": {
+          "unknown": "不能判斷",
+          "no": "無明顯提示",
+          "yes": "形式突出"
+        }
+      },
+      "main_explanation": {
+        "type": "choice",
+        "instructions": "Does the explanation connect concrete evidence to the answer?",
+        "criteria": {
+          "unknown": "證據不足",
+          "off_topic": "離題或矛盾",
+          "generic": "只給結論或泛泛理由",
+          "worked": "具體證據與推理"
+        }
+      }
+    },
+    "inputHash": "60449a30966cf2233ef607fa5073235b3d943c31a917adf02d7aae84d7a58c08"
+  }
+]

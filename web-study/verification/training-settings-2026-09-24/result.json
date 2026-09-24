@@ -1,0 +1,15 @@
+{
+  "result": "PASS",
+  "checks": [
+    "Saved chapter, question type and daily count apply to the unfinished session immediately",
+    "Increasing the target preserves the eligible current question and draft",
+    "Lowering the goal to completed progress removes stale pending questions",
+    "Submitted answer and history survive scope and target changes",
+    "Second browser receives updated settings and unfinished session",
+    "Offline reload preserves the refreshed session and target",
+    "Enabling standalone techniques immediately replaces the pending queue with appendix questions",
+    "Disabling standalone techniques removes pending appendix questions and keeps the submitted appendix answer"
+  ],
+  "errors": [],
+  "scope": "Isolated local in-memory account; no production records."
+}

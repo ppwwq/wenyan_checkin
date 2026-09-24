@@ -1,0 +1,32 @@
+{
+  "events": [
+    {
+      "id": "923e9d21-aaa0-42ca-a61f-0954ab728e81",
+      "type": "settings"
+    },
+    {
+      "id": "c1a5e697-2dc4-4dc4-8036-5e9fbcb818b8",
+      "type": "session",
+      "sessionId": "fb8dc896-276b-4582-bd88-648d71cdbcbf",
+      "completed": false,
+      "revision": 1
+    },
+    {
+      "id": "fd49ea75-c515-4753-a923-7365efeaacff",
+      "type": "settings"
+    },
+    {
+      "id": "fb8dc896-276b-4582-bd88-648d71cdbcbf/concept-01-01",
+      "type": "attempt",
+      "sessionId": "fb8dc896-276b-4582-bd88-648d71cdbcbf",
+      "correct": false
+    },
+    {
+      "id": "650f544b-f1f9-483c-9e24-5687750f602a",
+      "type": "session",
+      "sessionId": "fb8dc896-276b-4582-bd88-648d71cdbcbf",
+      "completed": true,
+      "revision": 2
+    }
+  ]
+}

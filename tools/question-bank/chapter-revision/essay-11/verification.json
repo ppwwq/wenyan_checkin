@@ -1,0 +1,20 @@
+{
+  "result": "PASS",
+  "stageBankVersion": "2026.09.23.17",
+  "stageBankSha256": "949723ad7738b82dfb4532fa765df5a279a3ee233362f941a71e2e7ad34286c6",
+  "questions": 62,
+  "unchangedOthers": 2072,
+  "identityAnswerMemoryQuoteSourcesPreserved": true,
+  "sourceLocatorsChecked": 70,
+  "freshPdfPagesChecked": 9,
+  "sourceErrors": [],
+  "reviewMethod": "source-review-and-author-self-check",
+  "independentReview": "not-run",
+  "teacherValidation": "not-run",
+  "studentTrial": "not-run",
+  "deployment": "not-run",
+  "browserVisualValidation": "not-run",
+  "wholeBankFinalChecks": "PASS",
+  "wholeBankFinalEvidence": "../all-chapters-verification.json",
+  "finalBankVersion": "2026.09.23.22"
+}

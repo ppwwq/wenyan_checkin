@@ -1,0 +1,2176 @@
+{
+  "date": "2026-09-22",
+  "scope": "Local bank and source-code audit; no production-site inspection or student trial.",
+  "bankVersion": "2026.09.22.1",
+  "bankSha256": "9cecd2342672deff158b1234b9a3f667a1a1b4115dcca709f998686c365aa54a",
+  "counts": {
+    "total": 2134,
+    "designated": 1983,
+    "appendix": 151,
+    "abilities": {
+      "vocabulary": 1066,
+      "meaning": 333,
+      "theme": 303,
+      "technique": 432
+    },
+    "explanationEqualsCorrectOptionRationale": 1925,
+    "summaryEqualsExplanation": 202,
+    "explanationHasNewline": 152,
+    "explanationCodePointLength": {
+      "min": 10,
+      "median": 37,
+      "p90": 67,
+      "max": 236
+    },
+    "choiceEchoTemplate": 590,
+    "vocabInstructionTemplate": 153,
+    "threeWrongRationalesIdentical": 177
+  },
+  "metricsCaveat": "String matches flag writing patterns, not incorrect answers or measured comprehension. Length counts Unicode code points including punctuation and whitespace; sample is purposive, not prevalence estimation.",
+  "sampling": "16 essays: for essay index i in bank order, select middle item of ability i modulo the essay ability count (abilities in first-appearance order). Add bank first two questions, last three confusable questions, first standalone appendix question, then longest remaining designated non-vocabulary explanations until 24 distinct IDs.",
+  "sampleCount": 24,
+  "sampleEssayCount": 16,
+  "samples": [
+    {
+      "number": 1,
+      "question": {
+        "id": "full-c-01-03-01-10",
+        "version": 1,
+        "memoryId": "full-c-01-03-01-10",
+        "essayIds": [
+          "essay-01"
+        ],
+        "ability": "vocabulary",
+        "quote": "顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」",
+        "target": "勿",
+        "targetStart": 58,
+        "stem": "在這段原文中，「勿」應怎樣理解？",
+        "choices": [
+          {
+            "id": "a",
+            "text": "沒有",
+            "explanation": "此選項把「勿」誤解為「沒有」；本句所指是「不要」，與語境不合。"
+          },
+          {
+            "id": "b",
+            "text": "不要",
+            "explanation": "符合所附復習書這一語境的解說：不要"
+          },
+          {
+            "id": "c",
+            "text": "未曾",
+            "explanation": "此選項把「勿」誤解為「未曾」；本句所指是「不要」，與語境不合。"
+          },
+          {
+            "id": "d",
+            "text": "不必",
+            "explanation": "此選項把「勿」誤解為「不必」；本句所指是「不要」，與語境不合。"
+          }
+        ],
+        "answerId": "b",
+        "explanation": "依所附復習書本項：不要 本項補充：勿：不要",
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 8,
+          "printedPage": 4,
+          "blockPath": "$[0].pages[3].blocks[1][1][10]",
+          "anchor": "顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」",
+          "excerpt": "勿：不要"
+        },
+        "status": "reviewed",
+        "active": true,
+        "summary": "不要",
+        "misconception": "此選項把「勿」誤解為「沒有」；本句所指是「不要」，與語境不合。",
+        "review": {
+          "method": "source-aligned-agent-review",
+          "date": "2026-09-19",
+          "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+          "evidence": "顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」"
+        }
+      },
+      "note": "只重复不要，未把非礼勿视转成不合礼的不要看；依据来源的套话不帮助辨义。"
+    },
+    {
+      "number": 2,
+      "question": {
+        "id": "full-a-e02-p00-b05-x000",
+        "version": 2,
+        "memoryId": "m-full-a-e02-p00-b05-x000",
+        "essayIds": [
+          "essay-02"
+        ],
+        "ability": "meaning",
+        "quote": "二者不可得兼，舍生而取義者也。",
+        "target": "",
+        "stem": "有人把「舍生取義」概括為「君子不重視生命」。哪項能依原文修正這個說法？",
+        "choices": [
+          {
+            "id": "a",
+            "text": "生命原本不值得追求，所以取義毋須抉擇",
+            "explanation": "「生亦我所欲」直接否定生命不值得追求的說法。"
+          },
+          {
+            "id": "b",
+            "text": "生命與道義本無衝突，所以不必考慮捨取",
+            "explanation": "「二者不可得兼」已提出可能衝突，不能說本無衝突。"
+          },
+          {
+            "id": "c",
+            "text": "生命價值視他人評價而定，所以取義是為求名",
+            "explanation": "取義依道義本身，不以別人評價或求名為標準。"
+          },
+          {
+            "id": "d",
+            "text": "生命亦為所欲，但不能兼得時道義優先",
+            "explanation": "「生亦我所欲」先承認生命有價值；捨生取義是不可兼得時的排序，不能把它改成厭生或求名。"
+          }
+        ],
+        "answerId": "d",
+        "explanation": "「生亦我所欲」先承認生命有價值；捨生取義是不可兼得時的排序，不能把它改成厭生或求名。",
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "魚我所欲也",
+          "section": "全篇總覽",
+          "jsonFile": "student-content.json",
+          "blockPath": "$[1].pages[0].blocks[5]",
+          "pdfPage": 34,
+          "printedPage": 30,
+          "anchor": "問題在不辨禮義便接受，不是所有俸祿和物質享受都有錯。",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "魚我所欲也",
+              "section": "第1段｜原文與語譯 1",
+              "jsonFile": "student-content.json",
+              "blockPath": "$[1].pages[1].blocks[0]",
+              "pdfPage": 35,
+              "printedPage": 31,
+              "anchor": "二者不可得兼，舍生而取義者也。",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf"
+            }
+          ]
+        },
+        "status": "reviewed",
+        "active": true,
+        "summary": "生命亦為所欲，但不能兼得時道義優先",
+        "misconception": "須依題幹指定的原文關係判斷，不能把人物、因果、範圍或論證層次錯置。",
+        "review": {
+          "method": "source-grounded-mcq-revision",
+          "reviewedAt": "2026-09-20",
+          "scope": "題幹、原文依據、四個選項及解析逐題重寫",
+          "reviewer": "命題研究代理；非官方真題、未經教師實測"
+        },
+        "tags": [
+          "full-source-expansion"
+        ],
+        "difficulty": "foundation",
+        "assessmentType": "情境判斷",
+        "revisionReason": "以原文關係設問；重建同層次干擾項，避免編者語句回憶與荒謬選項。",
+        "responseFormat": "single-choice"
+      },
+      "note": "较好：有原句、有不可兼得的限制；排序和厌生可以换成更直接的表达。"
+    },
+    {
+      "number": 3,
+      "question": {
+        "id": "q-e03-exp-007",
+        "version": 2,
+        "memoryId": "m-e03-exp-007",
+        "essayIds": [
+          "essay-03"
+        ],
+        "ability": "theme",
+        "quote": "君子博學而日參省乎己，則知明而行無過矣。",
+        "target": "",
+        "stem": "若要說明「學不可以已」關乎修養而非只增長知識，這句提供了甚麼根據？",
+        "choices": [
+          {
+            "id": "a",
+            "text": "廣學與自省可使身分提高、外物自然增多",
+            "explanation": "「知明行無過」是知行改善，不是身分財物增長。"
+          },
+          {
+            "id": "b",
+            "text": "廣學所得須轉為謀略，才能凌駕他人的能力",
+            "explanation": "句子指修養，不是靠謀略凌駕他人。"
+          },
+          {
+            "id": "c",
+            "text": "廣學與自省可使判斷明達、行為減少過失",
+            "explanation": "原句把「博學」和「日參省」共同連到知與行的改善；沒有把身分競爭當目的，也不能刪去自省條件。"
+          },
+          {
+            "id": "d",
+            "text": "廣學足以代替自省，知識越多便越少犯錯",
+            "explanation": "「而日參省」是共同條件，不可因博學而省去。"
+          }
+        ],
+        "answerId": "c",
+        "explanation": "原句把「博學」和「日參省」共同連到知與行的改善；沒有把身分競爭當目的，也不能刪去自省條件。",
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "勸學",
+          "section": "第1段｜原文與語譯",
+          "pdfPage": 46,
+          "printedPage": 42,
+          "blockPath": "$[2].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "君子博學而日參省乎己，則知明而行無過矣"
+        },
+        "status": "reviewed",
+        "active": true,
+        "summary": "廣學與自省可使判斷明達、行為減少過失",
+        "misconception": "注意原文所比較的條件、結果與論證層次。",
+        "difficulty": "foundation",
+        "tags": [
+          "theme",
+          "revision-book-authored"
+        ],
+        "review": {
+          "method": "source-grounded-mcq-revision",
+          "reviewedAt": "2026-09-20",
+          "scope": "逐題重寫四選一及解析",
+          "reviewer": "命題研究代理；非官方真題、未經教師實測"
+        },
+        "assessmentType": "因果推論",
+        "revisionReason": "改為須辨別文本關係的四選一；干擾項採相鄰概念、倒置因果或過度推論。",
+        "responseFormat": "single-choice"
+      },
+      "note": "证据较完整；共同连到知与行的改善可展开为学习和反省怎样改变判断及行为。"
+    },
+    {
+      "number": 4,
+      "question": {
+        "id": "full-a-e04-p11-b00-c04",
+        "version": 2,
+        "memoryId": "m-full-a-e04-p11-b00-c04",
+        "essayIds": [
+          "essay-04"
+        ],
+        "ability": "technique",
+        "quote": "我世世為洴澼絖，不過數金。……裂地而封之。",
+        "target": "",
+        "stem": "比較宋人與客人的結果時，哪一條件必須保持不變，對照才有說服力？",
+        "choices": [
+          {
+            "id": "a",
+            "text": "兩者從事漂洗的年數相同",
+            "explanation": "宋人漂洗而客用於水戰，從業年數非控制條件。"
+          },
+          {
+            "id": "b",
+            "text": "兩者參與水戰的經驗相同",
+            "explanation": "宋人沒有參與水戰，二者也未比較作戰經驗。"
+          },
+          {
+            "id": "c",
+            "text": "藥方防止手皸裂的效用相同",
+            "explanation": "原文明示「能不龜手一也」，排除藥效差異後，才把結果差距歸到用法；工作經驗與報酬形式本來不同。"
+          },
+          {
+            "id": "d",
+            "text": "兩者獲得報酬的形式相同",
+            "explanation": "數金與封地報酬形式本就不同，正是結果差異。"
+          }
+        ],
+        "answerId": "c",
+        "explanation": "原文明示「能不龜手一也」，排除藥效差異後，才把結果差距歸到用法；工作經驗與報酬形式本來不同。",
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "逍遙遊",
+          "section": "手法、例句與效果（1）",
+          "jsonFile": "student-content.json",
+          "blockPath": "$[3].pages[11].blocks[0]",
+          "pdfPage": 67,
+          "printedPage": 63,
+          "anchor": "對比宋人數金與客人封地、同物異用效果不同；狸有捕獵之能而受害與牛不能執鼠形成反差；惠莊同物異評；蓬草閉塞與江湖曠闊襯思想狹窄與開放。",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "row": 4,
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "逍遙遊",
+              "section": "第1段｜原文與語譯 2",
+              "jsonFile": "student-content.json",
+              "blockPath": "$[3].pages[2].blocks[0]",
+              "pdfPage": 59,
+              "printedPage": 55,
+              "anchor": "或以封，或不免於洴澼絖",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf"
+            }
+          ]
+        },
+        "status": "reviewed",
+        "active": true,
+        "summary": "藥方防止手皸裂的效用相同",
+        "misconception": "須區分物件特點、使用尺度與說理層次，不把篇中不同角色和事例混作同一事。",
+        "review": {
+          "method": "source-grounded-mcq-revision",
+          "reviewedAt": "2026-09-20",
+          "scope": "逐題重寫四選一及解析",
+          "reviewer": "命題研究代理；非官方真題、未經教師實測"
+        },
+        "tags": [
+          "full-source-expansion"
+        ],
+        "difficulty": "foundation",
+        "assessmentType": "比較",
+        "revisionReason": "以文本及思想關係設問；用錯置事例、字面與引申混淆及因果範圍構成干擾。",
+        "responseFormat": "single-choice"
+      },
+      "note": "较好：用能不龟手一也解释为什么比用法；可补一句药方效果相同的白话。"
+    },
+    {
+      "number": 5,
+      "question": {
+        "id": "full-a-e05-p22-b00-v00",
+        "version": 2,
+        "memoryId": "m-full-a-e05-p22-b00-v00",
+        "essayIds": [
+          "essay-05"
+        ],
+        "ability": "vocabulary",
+        "quote": "曰：「鄙賤之人，不知將軍寬之至此也。」卒相與驩，為刎頸之交。",
+        "target": "寬",
+        "stem": "按上下文理解，這裏「寬」應解作甚麼？",
+        "choices": [
+          {
+            "id": "a",
+            "text": "寬廣",
+            "explanation": "「寬廣」不合本句所指或語法關係；本句應解作「寬待」。"
+          },
+          {
+            "id": "b",
+            "text": "寬待",
+            "explanation": "在「曰：「鄙賤之人，不知將軍寬之至此也。」卒相與驩，為刎頸之交。」中，「寬」應理解為「寬待」。須核對本句的行動者、施受關係和詞語搭配。"
+          },
+          {
+            "id": "c",
+            "text": "放鬆",
+            "explanation": "「放鬆」不合本句所指或語法關係；本句應解作「寬待」。"
+          },
+          {
+            "id": "d",
+            "text": "寬慰",
+            "explanation": "「寬慰」不合本句所指或語法關係；本句應解作「寬待」。"
+          }
+        ],
+        "answerId": "b",
+        "explanation": "在「曰：「鄙賤之人，不知將軍寬之至此也。」卒相與驩，為刎頸之交。」中，「寬」應理解為「寬待」。須核對本句的行動者、施受關係和詞語搭配。",
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "廉頗藺相如列傳",
+          "section": "第7段｜原文與語譯 4",
+          "jsonFile": "student-content.json",
+          "blockPath": "$[4].pages[22].blocks[0]",
+          "pdfPage": 87,
+          "printedPage": 83,
+          "anchor": "曰：「鄙賤之人，不知將軍寬之至此也。」卒相與驩，為",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf"
+        },
+        "status": "reviewed",
+        "active": true,
+        "summary": "寬待",
+        "misconception": "把同字別義、現代常用義或施受角色代入本句。",
+        "review": {
+          "method": "contextual-mcq-review",
+          "reviewedAt": "2026-09-20",
+          "scope": "原有詞義與四項逐項讀審",
+          "sourceEvidence": {
+            "blockPath": "$[4].pages[22].blocks[0]",
+            "text": [
+              "annot",
+              "曰：「鄙賤之人，不知將軍寬之至此也。」卒相與驩，為刎頸之交。",
+              [
+                [
+                  "寬",
+                  "寬待",
+                  "blue"
+                ],
+                [
+                  "卒",
+                  "終於",
+                  "blue"
+                ],
+                [
+                  "驩",
+                  "同歡，友好",
+                  "blue"
+                ],
+                [
+                  "刎頸之交",
+                  "可同生共死的朋友",
+                  "blue"
+                ]
+              ],
+              [
+                {
+                  "number": 1,
+                  "word": "寬",
+                  "meaning": "寬待",
+                  "spans": [
+                    [
+                      12,
+                      13
+                    ]
+                  ]
+                },
+                {
+                  "number": 2,
+                  "word": "卒",
+                  "meaning": "終於",
+                  "spans": [
+                    [
+                      19,
+                      20
+                    ]
+                  ]
+                },
+                {
+                  "number": 3,
+                  "word": "驩",
+                  "meaning": "同歡，友好",
+                  "spans": [
+                    [
+                      22,
+                      23
+                    ]
+                  ]
+                },
+                {
+                  "number": 4,
+                  "word": "刎頸之交",
+                  "meaning": "可同生共死的朋友",
+                  "spans": [
+                    [
+                      25,
+                      29
+                    ]
+                  ]
+                }
+              ]
+            ],
+            "meaning": "寬待"
+          },
+          "reviewer": "命題研究代理；非官方真題、未經教師實測"
+        },
+        "tags": [
+          "full-source-expansion"
+        ],
+        "difficulty": "foundation",
+        "assessmentType": "語境辨義",
+        "revisionReason": "補齊語境、重審詞義與四項；以一詞多義、古今異義和語法關係誤讀構成可判別干擾。",
+        "responseFormat": "single-choice"
+      },
+      "note": "提示核对行动者和施受关系，却不指出廉颇说蔺相如宽待自己；三个错项套同一句。"
+    },
+    {
+      "number": 6,
+      "question": {
+        "id": "full-b-06-06-00-b",
+        "version": 2,
+        "memoryId": "full-b-06-06-00-b",
+        "essayIds": [
+          "essay-06"
+        ],
+        "ability": "meaning",
+        "quote": "臣本布衣，躬耕於南陽，苟全性命於亂世，不求聞達於諸侯。先帝不以臣卑鄙，猥自枉屈，三顧臣於草廬之中，諮臣以當世之事；由是感激，遂許先帝以驅馳。後值傾覆，受任於敗軍之際，奉命於危難之間，爾來二十有一年矣。先帝知臣謹慎，故臨崩寄臣以大事也。",
+        "target": "",
+        "stem": "由「不求聞達」到「遂許先帝以驅馳」，文中直接交代的轉變原因是甚麼？",
+        "choices": [
+          {
+            "id": "a",
+            "text": "先帝臨終託付國家大事，使他決定離開南陽出仕",
+            "explanation": "此項把文意理解為「先帝臨終託付國家大事，使他決定離開南陽出仕」，但「由是感激」承接先帝屈尊三顧、詢問世事，交代由無意求名到願意效勞的原因。"
+          },
+          {
+            "id": "b",
+            "text": "先帝屈尊三顧並詢問世事，使他感動而答應效勞",
+            "explanation": "「由是感激」承接先帝屈尊三顧、詢問世事，交代由無意求名到願意效勞的原因。"
+          },
+          {
+            "id": "c",
+            "text": "敗軍危難中接到任命，使他由不求聞達轉為初次出仕",
+            "explanation": "此項把文意理解為「敗軍危難中接到任命，使他由不求聞達轉為初次出仕」，但「由是感激」承接先帝屈尊三顧、詢問世事，交代由無意求名到願意效勞的原因。"
+          },
+          {
+            "id": "d",
+            "text": "攸之等承接內政責任，使他得以離開草廬從軍",
+            "explanation": "此項把文意理解為「攸之等承接內政責任，使他得以離開草廬從軍」，但「由是感激」承接先帝屈尊三顧、詢問世事，交代由無意求名到願意效勞的原因。"
+          }
+        ],
+        "answerId": "b",
+        "explanation": "「由是感激」承接先帝屈尊三顧、詢問世事，交代由無意求名到願意效勞的原因。",
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 103,
+          "printedPage": 99,
+          "blockPath": "$[5].pages[6].blocks[0]",
+          "anchor": "臣本布衣躬耕於南陽苟全性命於亂世不求聞達於諸侯先帝不以臣卑鄙猥自枉屈三顧臣於草廬之中諮",
+          "excerpt": "我（臣）本來是個平民，在南陽親自耕種，只希望能夠在亂世裏苟且保全性命，並不想在諸侯中揚名、顯貴。先帝不因為我身份卑微和見識鄙陋，委屈地貶抑自己的身份，三次到草廬探訪我，和我商議當時的天下大事；因此我很感動，就答應先帝為國事奔走效勞。後來國家遇到嚴重挫折，我在兵敗的時候接受委任，在危急的關頭接受使命，從那時到現在已有二十一年了。先帝知道我辦事謹慎，所以臨終時把輔助陛下復興漢朝的大事委託給我。",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "relatedSources": [
+            {
+              "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+              "version": "2026-09-14",
+              "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+              "pdfPage": 103,
+              "printedPage": 99,
+              "blockPath": "$[5].pages[6].blocks[2]",
+              "anchor": "我臣本來是個平民在南陽親自耕種只希望能夠在亂世裏苟且保全性命並不想在諸侯中揚名顯貴先帝不因為我身份卑微和見識鄙陋委屈地貶抑自己的身份三次到草廬探訪我和我商議當時的天下大事因此我很感動就答應先帝為國事奔走效勞後來國家遇到嚴重挫折我在兵敗的時候接受委任在危急的關頭接受使命從那時到現在已有二十一年了先帝知道我辦事謹慎所以臨終時把輔助陛下復興漢朝的大事委託給我",
+              "excerpt": "我（臣）本來是個平民，在南陽親自耕種，只希望能夠在亂世裏苟且保全性命，並不想在諸侯中揚名、顯貴。先帝不因為我身份卑微和見識鄙陋，委屈地貶抑自己的身份，三次到草廬探訪我，和我商議當時的天下大事；因此我很感動，就答應先帝為國事奔走效勞。後來國家遇到嚴重挫折，我在兵敗的時候接受委任，在危急的關頭接受使命，從那時到現在已有二十一年了。先帝知道我辦事謹慎，所以臨終時把輔助陛下復興漢朝的大事委託給我。",
+              "pdfUrl": "/content/sources/revision-book.pdf"
+            },
+            {
+              "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+              "version": "2026-09-14",
+              "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+              "pdfPage": 112,
+              "printedPage": 108,
+              "blockPath": "$[5].pages[13].blocks[3]",
+              "anchor": "以光先帝遺德的以表目的先帝不以臣卑鄙的以表原因諮臣以當世之事的以引出商議內容同一字須連到整句的關係來判斷",
+              "excerpt": "「以光先帝遺德」的「以」表目的；「先帝不以臣卑鄙」的「以」表原因；「諮臣以當世之事」的「以」引出商議內容。同一字須連到整句的關係來判斷。",
+              "pdfUrl": "/content/sources/revision-book.pdf"
+            },
+            {
+              "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+              "version": "2026-09-14",
+              "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+              "pdfPage": 106,
+              "printedPage": 102,
+              "blockPath": "$[5].pages[9].blocks[0][1][3]",
+              "anchor": "出師明志第六段布衣本志三顧受恩臨危受任託孤夙夜憂歎南征北伐目標與群臣分責表白非求名利而報先帝忠後主證明受信任及爭取後主支持南定甲足说明時機",
+              "excerpt": "出師明志；第六段：布衣本志、三顧受恩、臨危受任、託孤、夙夜憂歎、南征、北伐目標、與群臣分責；表白非求名利而報先帝忠後主，證明受信任及爭取後主支持；南定甲足说明時機",
+              "pdfUrl": "/content/sources/revision-book.pdf"
+            },
+            {
+              "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+              "version": "2026-09-14",
+              "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+              "pdfPage": 116,
+              "printedPage": 112,
+              "blockPath": "$[5].pages[18].blocks[1][1][3]",
+              "anchor": "以情支撐勸諫三顧危難受命臨終託付說明忠誠由來結尾分列責任再以流涕收束",
+              "excerpt": "以情支撐勸諫；三顧、危難受命、臨終託付說明忠誠由來；結尾分列責任，再以流涕收束。",
+              "pdfUrl": "/content/sources/revision-book.pdf"
+            }
+          ]
+        },
+        "status": "reviewed",
+        "active": true,
+        "summary": "先帝屈尊三顧並詢問世事，使他感動而答應效勞",
+        "misconception": "此項把文意理解為「先帝臨終託付國家大事，使他決定離開南陽出仕」，但「由是感激」承接先帝屈尊三顧、詢問世事，交代由無意求名到願意效勞的原因。",
+        "difficulty": 2,
+        "tags": [
+          "full-book-expansion"
+        ],
+        "review": {
+          "method": "text-grounded-mcq-editorial-review",
+          "reviewedAt": "2026-09-20",
+          "officialExamQuestion": false,
+          "scope": "依現有引文及本地 student-content.json 作文字語義審校；並非官方試題、官方評分或學生試測。",
+          "checks": [
+            "stem-task-alignment",
+            "four-options-semantic-review",
+            "keyed-answer-uniqueness",
+            "source-locator-preserved"
+          ]
+        },
+        "assessmentType": "inference",
+        "revisionReason": "將講義索引式問法或失真的選項改為依文本作判斷；四個選項保留原有識別碼，重新核對唯一答案。",
+        "responseFormat": "single-choice"
+      },
+      "note": "正解因果明确；错项没有分别指出时间先后或人物事件错接，只回贴同一理由。"
+    },
+    {
+      "number": 7,
+      "question": {
+        "id": "full-b-07-11-00-2",
+        "version": 2,
+        "memoryId": "full-b-07-11-00-2",
+        "essayIds": [
+          "essay-07"
+        ],
+        "ability": "theme",
+        "quote": "愛其子，擇師而教之，於其身也則恥師焉，惑矣！彼童子之師，授之書而習其句讀者，非吾所謂傳其道、解其惑者也。句讀之不知，惑之不解，或師焉，或不焉，小學而大遺，吾未見其明也。",
+        "target": "",
+        "stem": "「愛其子，擇師而教之；於其身也，則恥師焉」是比較哪兩者？",
+        "choices": [
+          {
+            "id": "a",
+            "text": "同一成人對孩子與對自己的從師態度",
+            "explanation": "「其子」與「其身」都是從成人一方着眼，對照他替子擇師卻自己恥師的矛盾。"
+          },
+          {
+            "id": "b",
+            "text": "不同成人為孩子選老師的準則",
+            "explanation": "此項把文意理解為「不同成人為孩子選老師的準則」，但「其子」與「其身」都是從成人一方着眼，對照他替子擇師卻自己恥師的矛盾。"
+          },
+          {
+            "id": "c",
+            "text": "同一老師對童子與成人的教學內容",
+            "explanation": "此項把文意理解為「同一老師對童子與成人的教學內容」，但「其子」與「其身」都是從成人一方着眼，對照他替子擇師卻自己恥師的矛盾。"
+          },
+          {
+            "id": "d",
+            "text": "同一孩子年少與成年後的求學態度",
+            "explanation": "此項把文意理解為「同一孩子年少與成年後的求學態度」，但「其子」與「其身」都是從成人一方着眼，對照他替子擇師卻自己恥師的矛盾。"
+          }
+        ],
+        "answerId": "a",
+        "explanation": "「其子」與「其身」都是從成人一方着眼，對照他替子擇師卻自己恥師的矛盾。",
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 127,
+          "printedPage": 123,
+          "blockPath": "$[6].pages[11].blocks[0][1][2]",
+          "anchor": "成人對孩子對自身事情輕重愛子而擇師教句讀對自身求道解惑卻不從師小的方面學大的方面遺棄本末倒置言行不一不明智責備的是成人的兩種選擇非孩子學習有錯",
+          "excerpt": "成人對孩子／對自身；事情輕重；愛子而擇師教句讀；對自身求道解惑卻不從師。；小的方面學，大的方面遺棄，本末倒置、言行不一、不明智。責備的是成人的兩種選擇，非孩子學習有錯。",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "relatedSources": [
+            {
+              "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+              "version": "2026-09-14",
+              "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+              "pdfPage": 121,
+              "printedPage": 117,
+              "blockPath": "$[6].pages[4].blocks[0]",
+              "anchor": "愛其子擇師而教之於其身也則恥師焉惑矣彼童子之師授之書而習其句讀者非吾所謂傳其道解其惑者也句讀之不知惑之",
+              "excerpt": "愛其子，擇師而教之，於其身也則恥師焉，惑矣！彼童子之師，授之書而習其句讀者，非吾所謂傳其道、解其惑者也。句讀之不知，惑之",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "essayId": "essay-07",
+              "quote": "愛其子，擇師而教之，於其身也則恥師焉，惑矣！彼童子之師，授之書而習其句讀者，非吾所謂傳其道、解其惑者也。句讀之不知，惑之不解，或師焉，或不焉，小學而大遺，吾未見其明也。"
+            }
+          ]
+        },
+        "status": "reviewed",
+        "active": true,
+        "summary": "同一成人對孩子與對自己的從師態度",
+        "misconception": "此項把文意理解為「不同成人為孩子選老師的準則」，但「其子」與「其身」都是從成人一方着眼，對照他替子擇師卻自己恥師的矛盾。",
+        "difficulty": 2,
+        "tags": [
+          "full-book-expansion"
+        ],
+        "review": {
+          "method": "text-grounded-mcq-editorial-review",
+          "reviewedAt": "2026-09-20",
+          "officialExamQuestion": false,
+          "scope": "依現有引文及本地 student-content.json 作文字語義審校；並非官方試題、官方評分或學生試測。",
+          "checks": [
+            "stem-task-alignment",
+            "four-options-semantic-review",
+            "keyed-answer-uniqueness",
+            "source-locator-preserved"
+          ]
+        },
+        "assessmentType": "comparison",
+        "revisionReason": "將講義索引式問法或失真的選項改為依文本作判斷；四個選項保留原有識別碼，重新核對唯一答案。",
+        "responseFormat": "single-choice"
+      },
+      "note": "对比对象已经明确；可用替孩子请老师／自己却耻于求师形成直观对照，错项重复。"
+    },
+    {
+      "number": 8,
+      "question": {
+        "id": "full-b-08-12-00-6",
+        "version": 2,
+        "memoryId": "full-b-08-12-00-6",
+        "essayIds": [
+          "essay-08"
+        ],
+        "ability": "technique",
+        "quote": "縈青繚白，外與天際，四望如一。然後知是山之特立，不與培塿為類。悠悠乎與顥氣俱，而莫得其涯；洋洋乎與造物者遊，而不知其所窮。",
+        "target": "",
+        "stem": "「縈青繚白」以「青」「白」寫景，主要如何運用修辭？",
+        "choices": [
+          {
+            "id": "a",
+            "text": "借喻，以青白兩色作喻體，按形態相似比擬山水",
+            "explanation": "此項把文意理解為「借喻，以青白兩色作喻體，按形態相似比擬山水」，但青白與山水有顏色特徵的關聯，以特徵代物，配合縈繚表現山水連接。"
+          },
+          {
+            "id": "b",
+            "text": "對比，以兩種色彩的強烈反差，突出景物彼此割裂",
+            "explanation": "此項把文意理解為「對比，以兩種色彩的強烈反差，突出景物彼此割裂」，但青白與山水有顏色特徵的關聯，以特徵代物，配合縈繚表現山水連接。"
+          },
+          {
+            "id": "c",
+            "text": "象徵，以兩種色彩代表人格，突出作者清白不污",
+            "explanation": "此項把文意理解為「象徵，以兩種色彩代表人格，突出作者清白不污」，但青白與山水有顏色特徵的關聯，以特徵代物，配合縈繚表現山水連接。"
+          },
+          {
+            "id": "d",
+            "text": "借代，以山水的顏色特徵代指山水，寫其相繞之態",
+            "explanation": "青白與山水有顏色特徵的關聯，以特徵代物，配合縈繚表現山水連接。"
+          }
+        ],
+        "answerId": "d",
+        "explanation": "青白與山水有顏色特徵的關聯，以特徵代物，配合縈繚表現山水連接。",
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 145,
+          "printedPage": 141,
+          "blockPath": "$[7].pages[12].blocks[0][1][6]",
+          "anchor": "借代縈青繚白青代青山白代白水以色代物凝練地呈現山水交纏",
+          "excerpt": "借代；縈青繚白。；青代青山、白代白水；以色代物，凝練地呈現山水交纏。",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "relatedSources": [
+            {
+              "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+              "version": "2026-09-14",
+              "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+              "pdfPage": 140,
+              "printedPage": 136,
+              "blockPath": "$[7].pages[4].blocks[0]",
+              "anchor": "縈青繚白外與天際四望如一然後知是山之特立不與培塿為類悠悠乎與顥氣俱而莫得其涯洋洋乎與造物者遊而不知其所窮",
+              "excerpt": "縈青繚白，外與天際，四望如一。然後知是山之特立，不與培塿為類。悠悠乎與顥氣俱，而莫得其涯；洋洋乎與造物者遊，而不知其所窮",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "essayId": "essay-08",
+              "quote": "縈青繚白，外與天際，四望如一。然後知是山之特立，不與培塿為類。悠悠乎與顥氣俱，而莫得其涯；洋洋乎與造物者遊，而不知其所窮。"
+            }
+          ]
+        },
+        "status": "reviewed",
+        "active": true,
+        "summary": "借代，以山水的顏色特徵代指山水，寫其相繞之態",
+        "misconception": "此項把文意理解為「借喻，以青白兩色作喻體，按形態相似比擬山水」，但青白與山水有顏色特徵的關聯，以特徵代物，配合縈繚表現山水連接。",
+        "difficulty": 2,
+        "tags": [
+          "full-book-expansion"
+        ],
+        "review": {
+          "method": "text-grounded-mcq-editorial-review",
+          "reviewedAt": "2026-09-20",
+          "officialExamQuestion": false,
+          "scope": "依現有引文及本地 student-content.json 作文字語義審校；並非官方試題、官方評分或學生試測。",
+          "checks": [
+            "stem-task-alignment",
+            "four-options-semantic-review",
+            "keyed-answer-uniqueness",
+            "source-locator-preserved"
+          ]
+        },
+        "assessmentType": "technique",
+        "revisionReason": "將講義索引式問法或失真的選項改為依文本作判斷；四個選項保留原有識別碼，重新核對唯一答案。",
+        "responseFormat": "single-choice"
+      },
+      "note": "以特征代物仍抽象；可明确青代青山、白代白水，并解释这如何区别借喻。"
+    },
+    {
+      "number": 9,
+      "question": {
+        "id": "pilot-09-04-15",
+        "version": 2,
+        "memoryId": "pilot-09-04-15",
+        "essayIds": [
+          "essay-09"
+        ],
+        "ability": "vocabulary",
+        "quote": "至若春和景明，波瀾不驚，上下天光，一碧萬頃；沙鷗翔集，錦鱗游泳，岸芷汀蘭，郁郁青青。而或長煙一空，皓月千里，浮光躍金，靜影沉璧；漁歌互答，此樂何極！登斯樓也，則有心曠神怡，寵辱皆忘，把酒臨風，其喜洋洋者矣。",
+        "target": "把",
+        "targetStart": 91,
+        "stem": "原句中「把」在這裏最準確的意思是甚麼？",
+        "choices": [
+          {
+            "id": "a",
+            "text": "掌管",
+            "explanation": "不是管理酒的供應或分配。"
+          },
+          {
+            "id": "b",
+            "text": "把守",
+            "explanation": "沒有防守對象。"
+          },
+          {
+            "id": "c",
+            "text": "處置",
+            "explanation": "此處把本身是動詞，不是把某物怎樣處理的介詞。"
+          },
+          {
+            "id": "d",
+            "text": "持、端起",
+            "explanation": "「把酒臨風」中的把是持起酒杯，後接酒，不是現代把字處置句。"
+          }
+        ],
+        "answerId": "d",
+        "explanation": "「把酒臨風」中的把是持起酒杯，後接酒，不是現代把字處置句。",
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 158,
+          "printedPage": 154,
+          "blockPath": "$[8].pages[4].blocks[3][1][14]",
+          "anchor": "至若春和景明，波瀾不驚，上下天光，一碧萬頃；沙鷗翔集，錦鱗游泳，岸芷汀蘭，郁郁青青。而或長煙一空，皓月千里，浮光躍金，靜影沉璧；漁歌互答，此樂何極！登斯樓也，則有心曠神怡，寵辱皆忘，把酒臨風，其喜洋洋者矣。",
+          "excerpt": "把：持、端起",
+          "pdfUrl": "/content/sources/revision-book.pdf"
+        },
+        "status": "reviewed",
+        "active": true,
+        "summary": "「把酒臨風」中的把是持起酒杯，後接酒，不是現代把字處置句。",
+        "misconception": "不是管理酒的供應或分配。；沒有防守對象。；此處把本身是動詞，不是把某物怎樣處理的介詞。",
+        "review": {
+          "method": "context-vocabulary-distractor-review",
+          "date": "2026-09-20",
+          "scope": "依保存原文語境與原詞解審改干擾及辨析，非教師獨立終審或學生難度校準。",
+          "quoteAndMeaningOnPdfPage": true,
+          "officialExamQuestion": false
+        },
+        "assessmentType": "語境詞義辨析",
+        "responseFormat": "single-choice",
+        "revisionReason": "以語境相近義項及指涉誤讀替代無關或荒謬錯項；保留來源所載正解。"
+      },
+      "note": "持起酒杯较清楚；把字处置句术语可移后或用现代例子短释，摘要无需等同全解析。"
+    },
+    {
+      "number": 10,
+      "question": {
+        "id": "full-b-10-06-00-b",
+        "version": 2,
+        "memoryId": "full-b-10-06-00-b",
+        "essayIds": [
+          "essay-10"
+        ],
+        "ability": "meaning",
+        "quote": "嗚呼！以賂秦之地，封天下之謀臣；以事秦之心，禮天下之奇才；幷力西嚮，則吾恐秦人食之不得下嚥也。悲夫！有如此之勢，而為秦人積威之所劫，日削月割，以趨於亡！為國者無使為積威之所劫哉！",
+        "target": "",
+        "stem": "作者提出「封謀臣」「禮奇才」「幷力西嚮」，重點是甚麼？",
+        "choices": [
+          {
+            "id": "a",
+            "text": "把秦的侵欲轉成對人才的需求，再以賢臣代替土地奉秦",
+            "explanation": "此項把文意理解為「把秦的侵欲轉成對人才的需求，再以賢臣代替土地奉秦」，但作者主張將賂秦資源與事秦態度轉向用才、合力抗秦，並警告為國者勿為積威所劫。"
+          },
+          {
+            "id": "b",
+            "text": "把各國土地集中交給良將，再由最強一國自行抗秦",
+            "explanation": "此項把文意理解為「把各國土地集中交給良將，再由最強一國自行抗秦」，但作者主張將賂秦資源與事秦態度轉向用才、合力抗秦，並警告為國者勿為積威所劫。"
+          },
+          {
+            "id": "c",
+            "text": "把奉秦土地心力轉作封臣禮才，再合力抗秦",
+            "explanation": "作者主張將賂秦資源與事秦態度轉向用才、合力抗秦，並警告為國者勿為積威所劫。"
+          },
+          {
+            "id": "d",
+            "text": "把奉秦的土地轉供軍備，仍各守其國而不必相援",
+            "explanation": "此項把文意理解為「把奉秦的土地轉供軍備，仍各守其國而不必相援」，但作者主張將賂秦資源與事秦態度轉向用才、合力抗秦，並警告為國者勿為積威所劫。"
+          }
+        ],
+        "answerId": "c",
+        "explanation": "作者主張將賂秦資源與事秦態度轉向用才、合力抗秦，並警告為國者勿為積威所劫。",
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 176,
+          "printedPage": 172,
+          "blockPath": "$[9].pages[6].blocks[0]",
+          "anchor": "嗚呼以賂秦之地封天下之謀臣以事秦之心禮天下之奇才幷力西嚮則吾恐秦人食之不得下嚥也悲夫",
+          "excerpt": "唉！如果用賄賂秦國的土地，封賞給天下有謀略的大臣；用侍奉秦國的心意，禮遇天下才智出眾的人才；合力向西抵禦秦國，那麼我恐怕秦國的人連飯也吃不下去了。這多麼可悲啊！六國有這樣的形勢，卻被秦國久積的威勢所脅迫，土地一天天、一月月地割削，以致走向滅亡。治理國家的人不要被別人積累的威勢所脅迫啊！",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "relatedSources": [
+            {
+              "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+              "version": "2026-09-14",
+              "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+              "pdfPage": 176,
+              "printedPage": 172,
+              "blockPath": "$[9].pages[6].blocks[2]",
+              "anchor": "唉如果用賄賂秦國的土地封賞給天下有謀略的大臣用侍奉秦國的心意禮遇天下才智出眾的人才合力向西抵禦秦國那麼我恐怕秦國的人連飯也吃不下去了這多麼可悲啊六國有這樣的形勢卻被秦國久積的威勢所脅迫土地一天天一月月地割削以致走向滅亡治理國家的人不要被別人積累的威勢所脅迫啊",
+              "excerpt": "唉！如果用賄賂秦國的土地，封賞給天下有謀略的大臣；用侍奉秦國的心意，禮遇天下才智出眾的人才；合力向西抵禦秦國，那麼我恐怕秦國的人連飯也吃不下去了。這多麼可悲啊！六國有這樣的形勢，卻被秦國久積的威勢所脅迫，土地一天天、一月月地割削，以致走向滅亡。治理國家的人不要被別人積累的威勢所脅迫啊！",
+              "pdfUrl": "/content/sources/revision-book.pdf"
+            },
+            {
+              "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+              "version": "2026-09-14",
+              "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+              "pdfPage": 178,
+              "printedPage": 174,
+              "blockPath": "$[9].pages[8].blocks[0][1][4]",
+              "anchor": "四封謀臣禮奇才並力西向感歎本有形勢卻為秦威所劫告誡為國者總結前面的分析吸取歷史教訓總結論點回應總論為國者既指六國也泛指治國者預開下段諷今",
+              "excerpt": "四；封謀臣、禮奇才、並力西向；感歎本有形勢卻為秦威所劫，告誡為國者；總結前面的分析：吸取歷史教訓、總結論點、回應總論。「為國者」既指六國，也泛指治國者，預開下段諷今",
+              "pdfUrl": "/content/sources/revision-book.pdf"
+            },
+            {
+              "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+              "version": "2026-09-14",
+              "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+              "pdfPage": 176,
+              "printedPage": 172,
+              "blockPath": "$[9].pages[6].blocks[4]",
+              "anchor": "與割地事秦相比同樣土地和心力可以轉向用才自強為國者把教訓推廣到治國者也為末段諷今鋪路",
+              "excerpt": "與割地事秦相比，同樣土地和心力可以轉向用才自強。「為國者」把教訓推廣到治國者，也為末段諷今鋪路。",
+              "pdfUrl": "/content/sources/revision-book.pdf"
+            },
+            {
+              "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+              "version": "2026-09-14",
+              "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+              "pdfPage": 187,
+              "printedPage": 183,
+              "blockPath": "$[9].pages[17].blocks[1][1][3]",
+              "anchor": "轉向當世假設封謀臣禮奇才合力抗秦提出另一條路最後警告北宋勿重蹈覆轍",
+              "excerpt": "轉向當世；假設封謀臣、禮奇才、合力抗秦，提出另一條路；最後警告北宋勿重蹈覆轍。",
+              "pdfUrl": "/content/sources/revision-book.pdf"
+            }
+          ]
+        },
+        "status": "reviewed",
+        "active": true,
+        "summary": "把奉秦土地心力轉作封臣禮才，再合力抗秦",
+        "misconception": "此項把文意理解為「把秦的侵欲轉成對人才的需求，再以賢臣代替土地奉秦」，但作者主張將賂秦資源與事秦態度轉向用才、合力抗秦，並警告為國者勿為積威所劫。",
+        "difficulty": 2,
+        "tags": [
+          "full-book-expansion"
+        ],
+        "review": {
+          "method": "text-grounded-mcq-editorial-review",
+          "reviewedAt": "2026-09-20",
+          "officialExamQuestion": false,
+          "scope": "依現有引文及本地 student-content.json 作文字語義審校；並非官方試題、官方評分或學生試測。",
+          "checks": [
+            "stem-task-alignment",
+            "four-options-semantic-review",
+            "keyed-answer-uniqueness",
+            "source-locator-preserved"
+          ]
+        },
+        "assessmentType": "summary",
+        "revisionReason": "將講義索引式問法或失真的選項改為依文本作判斷；四個選項保留原有識別碼，重新核對唯一答案。",
+        "responseFormat": "single-choice"
+      },
+      "note": "解析仍夹有积威所劫等文言表达；应说清土地、人才、联合抗秦三个动作的关系。"
+    },
+    {
+      "number": 11,
+      "question": {
+        "id": "full-c-11-04-00-09",
+        "version": 2,
+        "memoryId": "full-c-11-04-00-09",
+        "essayIds": [
+          "essay-11"
+        ],
+        "ability": "technique",
+        "quote": "",
+        "target": "",
+        "stem": "頸聯的浣女與漁舟，如何與山居理想相連？",
+        "choices": [
+          {
+            "id": "a",
+            "text": "日常勞作的歸程與舟行，使清幽山境有人間情趣。",
+            "explanation": "自然山景與淳樸生活共同支持留居。"
+          },
+          {
+            "id": "b",
+            "text": "有日常勞作，便表示此詩主旨轉為批評農村生活辛苦",
+            "explanation": "勞作生活可添淳樸情趣，未有批苦論旨。"
+          },
+          {
+            "id": "c",
+            "text": "浣女與漁舟都在移動，便表示山居已失去任何安定意味",
+            "explanation": "局部動態可與安恬共存。"
+          },
+          {
+            "id": "d",
+            "text": "村民活動只為交代傍晚，因此對留山的情感沒有作用",
+            "explanation": "除了呼應晚，亦構成山居吸引力。"
+          }
+        ],
+        "answerId": "a",
+        "explanation": "自然山景與淳樸生活共同支持留居。",
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 191,
+          "printedPage": 187,
+          "blockPath": "$[10].pages[4].blocks[0][1][9]",
+          "anchor": "以動襯靜 竹喧歸浣女，蓮動下漁舟 人舟活動、蓮葉搖動反襯環境平靜，恬淡自然且有生活情趣。另把竹喧聲音標「以動襯靜B」，屬分類角度。",
+          "excerpt": "竹喧歸浣女，蓮動下漁舟；人舟活動、蓮葉搖動反襯環境平靜，恬淡自然且有生活情趣。另把竹喧聲音標「以動襯靜B」，屬分類角度。"
+        },
+        "status": "reviewed",
+        "active": true,
+        "summary": "日常勞作的歸程與舟行，使清幽山境有人間情趣。",
+        "misconception": "勞作生活可添淳樸情趣，未有批苦論旨。；局部動態可與安恬共存。；除了呼應晚，亦構成山居吸引力。",
+        "review": {
+          "method": "source-aligned-agent-review",
+          "date": "2026-09-19",
+          "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+          "evidence": "以動襯靜 竹喧歸浣女，蓮動下漁舟 人舟活動、蓮葉搖動反襯環境平靜，恬淡自然且有生活情趣。另把竹喧聲音標「以動襯靜B」，屬分類角度。"
+        },
+        "targetStart": 0,
+        "assessmentType": "景人關係（四選一識別）",
+        "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。",
+        "responseFormat": "single-choice"
+      },
+      "note": "自然山景与淳朴生活共同支持留居是结论，缺少浣女和渔舟怎样呈现有吸引力的日常生活。"
+    },
+    {
+      "number": 12,
+      "question": {
+        "id": "full-c-12-08-00-08",
+        "version": 2,
+        "memoryId": "full-c-12-08-00-08",
+        "essayIds": [
+          "essay-12"
+        ],
+        "ability": "technique",
+        "quote": "",
+        "target": "",
+        "stem": "「我歌月徘徊，我舞影零亂」與「行樂須及春」有何關係？",
+        "choices": [
+          {
+            "id": "a",
+            "text": "以歌舞失敗的結果否定及時行樂的想法",
+            "explanation": "此處寫局部歡聚，不是歌舞失敗。"
+          },
+          {
+            "id": "b",
+            "text": "以歌舞的具體行動承接及時行樂的想法",
+            "explanation": "我歌我舞具體展開行樂。"
+          },
+          {
+            "id": "c",
+            "text": "以昔日歌舞的回憶解釋今日行樂的原因",
+            "explanation": "没有昔日與今日的切換。"
+          },
+          {
+            "id": "d",
+            "text": "以友人的歌舞示範勸詩人學會及時行樂",
+            "explanation": "歌舞主體是我，非友人。"
+          }
+        ],
+        "answerId": "b",
+        "explanation": "我歌我舞具體展開行樂。",
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 201,
+          "printedPage": 197,
+          "blockPath": "$[11].pages[8].blocks[0][1][8]",
+          "anchor": "呼應二 「行樂須及春」與「我歌月徘徊，我舞影零亂」相應，以歌舞具體說明行樂。",
+          "excerpt": "「行樂須及春」與「我歌月徘徊，我舞影零亂」相應，以歌舞具體說明行樂。"
+        },
+        "status": "reviewed",
+        "active": true,
+        "summary": "以歌舞的具體行動承接及時行樂的想法",
+        "misconception": "此處寫局部歡聚，不是歌舞失敗。；没有昔日與今日的切換。；歌舞主體是我，非友人。",
+        "review": {
+          "method": "source-aligned-agent-review",
+          "date": "2026-09-19",
+          "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+          "evidence": "呼應二 「行樂須及春」與「我歌月徘徊，我舞影零亂」相應，以歌舞具體說明行樂。"
+        },
+        "targetStart": 0,
+        "assessmentType": "承接關係（四選一識別）",
+        "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。",
+        "responseFormat": "single-choice"
+      },
+      "note": "我歌我舞具体展开行乐短到近于重复，需把趁春行乐的想法和歌舞行动连接起来。"
+    },
+    {
+      "number": 13,
+      "question": {
+        "id": "full-c-13-01-03-06",
+        "version": 2,
+        "memoryId": "full-c-13-01-03-06",
+        "essayIds": [
+          "essay-13"
+        ],
+        "ability": "vocabulary",
+        "quote": "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+        "target": "玉壘",
+        "stem": "根據題引的上下文，「玉壘」在這裏應怎樣理解？",
+        "choices": [
+          {
+            "id": "a",
+            "text": "玉築的城牆",
+            "explanation": "此項把「玉壘」解作「玉築的城牆」。玉壘與錦江為登樓所見地名，玉壘是山名，不能按玉石營壘逐字拆解。"
+          },
+          {
+            "id": "b",
+            "text": "山名",
+            "explanation": "玉壘與錦江為登樓所見地名，玉壘是山名，不能按玉石營壘逐字拆解。"
+          },
+          {
+            "id": "c",
+            "text": "堅固的營壘",
+            "explanation": "此項把「玉壘」解作「堅固的營壘」。玉壘與錦江為登樓所見地名，玉壘是山名，不能按玉石營壘逐字拆解。"
+          },
+          {
+            "id": "d",
+            "text": "宮殿的別稱",
+            "explanation": "此項把「玉壘」解作「宮殿的別稱」。玉壘與錦江為登樓所見地名，玉壘是山名，不能按玉石營壘逐字拆解。"
+          }
+        ],
+        "answerId": "b",
+        "explanation": "玉壘與錦江為登樓所見地名，玉壘是山名，不能按玉石營壘逐字拆解。",
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 205,
+          "printedPage": 201,
+          "blockPath": "$[12].pages[1].blocks[3][1][6]",
+          "anchor": "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+          "excerpt": "玉壘：山名"
+        },
+        "status": "reviewed",
+        "active": true,
+        "summary": "山名",
+        "misconception": "須從題引所指、搭配和語法判斷，不能以現代字面義或鄰近物象代替。",
+        "review": {
+          "method": "source-preserving-mcq-review",
+          "date": "2026-09-20",
+          "scope": "原文詞義四選一；正解文字原樣保留、三項干擾及解析讀審；非教師獨立驗收",
+          "evidence": "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。"
+        },
+        "assessmentType": "語境辨義",
+        "revisionReason": "保留原正解及成立異解；重建同字別義、同類物象或語法關係干擾，解除復習書句式回憶。",
+        "responseFormat": "single-choice"
+      },
+      "note": "较好：指出玉垒与锦江为地名并排除拆字；不宜为套格式强行加长。"
+    },
+    {
+      "number": 14,
+      "question": {
+        "id": "full-c-14-03-00-14",
+        "version": 2,
+        "memoryId": "full-c-14-03-00-14",
+        "essayIds": [
+          "essay-14"
+        ],
+        "ability": "meaning",
+        "quote": "",
+        "target": "",
+        "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「穿」「拍」「捲」三個動詞，分別怎樣使赤壁景象鮮明？\n甲：石壁高聳；江濤撞岸；浪花翻湧\n乙：石壁高聳；江濤撞岸；浪花凝定",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙不正確",
+            "explanation": "此判斷正確。甲：穿空、拍岸、捲雪分寫高峻、力量、翻湧，合成雄奇景象。乙：捲寫翻動，非凝定。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙正確",
+            "explanation": "此判斷不符原文。甲：穿空、拍岸、捲雪分寫高峻、力量、翻湧，合成雄奇景象。乙：捲寫翻動，非凝定。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "此判斷不符原文。甲：穿空、拍岸、捲雪分寫高峻、力量、翻湧，合成雄奇景象。乙：捲寫翻動，非凝定。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "此判斷不符原文。甲：穿空、拍岸、捲雪分寫高峻、力量、翻湧，合成雄奇景象。乙：捲寫翻動，非凝定。"
+          }
+        ],
+        "answerId": "a",
+        "explanation": "此判斷正確。甲：穿空、拍岸、捲雪分寫高峻、力量、翻湧，合成雄奇景象。乙：捲寫翻動，非凝定。",
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 216,
+          "printedPage": 212,
+          "blockPath": "$[13].pages[3].blocks[0][1][14]",
+          "anchor": "捲 捲起千堆雪 浪花被激起、翻捲。",
+          "excerpt": "浪花被激起、翻捲。"
+        },
+        "status": "reviewed",
+        "active": true,
+        "summary": "此判斷正確。甲：穿空、拍岸、捲雪分寫高峻、力量、翻湧，合成雄奇景象。乙：捲寫翻動，非凝定。",
+        "misconception": "此判斷不符原文。甲：穿空、拍岸、捲雪分寫高峻、力量、翻湧，合成雄奇景象。乙：捲寫翻動，非凝定。；此判斷不符原文。甲：穿空、拍岸、捲雪分寫高峻、力量、翻湧，合成雄奇景象。乙：捲寫翻動，非凝定。；此判斷不符原文。甲：穿空、拍岸、捲雪分寫高峻、力量、翻湧，合成雄奇景象。乙：捲寫翻動，非凝定。",
+        "review": {
+          "method": "source-aligned-agent-review",
+          "date": "2026-09-19",
+          "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+          "evidence": "捲 捲起千堆雪 浪花被激起、翻捲。"
+        },
+        "targetStart": 0,
+        "assessmentType": "作答評議／煉字與景象（四選一識別）",
+        "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。",
+        "responseFormat": "single-choice"
+      },
+      "note": "应先指出乙错在凝定，再解释卷表示翻动；三条错项解释完全相同，误区字段重复拼接。"
+    },
+    {
+      "number": 15,
+      "question": {
+        "id": "full-c-15-07-00-80",
+        "version": 2,
+        "memoryId": "full-c-15-07-00-80",
+        "essayIds": [
+          "essay-15"
+        ],
+        "ability": "theme",
+        "quote": "",
+        "target": "",
+        "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：梧桐細雨接在「獨自怎生得黑」之後，如何加深詞人的感受？\n甲：梧桐細雨只描寫秋日常景，不能與獨自守窗的主體相連\n乙：雨聲出現後，前文守窗的時間煎熬便被新的景象取代而不再存在",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "此判斷不符原文。甲：同一詞中景物與獨處感受相連。乙：雨聲延長並深化原有煎熬，非取代消失。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙不正確",
+            "explanation": "此判斷正確。甲：同一詞中景物與獨處感受相連。乙：雨聲延長並深化原有煎熬，非取代消失。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙不正確",
+            "explanation": "此判斷不符原文。甲：同一詞中景物與獨處感受相連。乙：雨聲延長並深化原有煎熬，非取代消失。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙正確",
+            "explanation": "此判斷不符原文。甲：同一詞中景物與獨處感受相連。乙：雨聲延長並深化原有煎熬，非取代消失。"
+          }
+        ],
+        "answerId": "b",
+        "explanation": "此判斷正確。甲：同一詞中景物與獨處感受相連。乙：雨聲延長並深化原有煎熬，非取代消失。",
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 229,
+          "printedPage": 225,
+          "blockPath": "$[14].pages[7].blocks[0]",
+          "anchor": "雨打梧桐是孤寂、哀愁的傳統意象組合。以下詩句有助理解它的文化聯想：",
+          "excerpt": "雨打梧桐是孤寂、哀愁的傳統意象組合。以下詩句有助理解它的文化聯想："
+        },
+        "status": "reviewed",
+        "active": true,
+        "summary": "甲：同一詞中景物與獨處感受相連。乙：雨聲延長並深化原有煎熬，非取代消失。",
+        "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：同一詞中景物與獨處感受相連。乙：雨聲延長並深化原有煎熬，非取代消失。",
+        "review": {
+          "method": "source-aligned-agent-review",
+          "date": "2026-09-19",
+          "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+          "evidence": "雨打梧桐是孤寂、哀愁的傳統意象組合。以下詩句有助理解它的文化聯想："
+        },
+        "targetStart": 0,
+        "assessmentType": "作答評議／承接與深化（四選一識別）",
+        "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+        "responseFormat": "single-choice"
+      },
+      "note": "雨声深化煎熬仍缺白话的听觉和时间体验；甲乙应逐条判断，不必逐字母反复复制。"
+    },
+    {
+      "number": 16,
+      "question": {
+        "id": "full-c-16-07-00-08",
+        "version": 2,
+        "memoryId": "full-c-16-07-00-08",
+        "essayIds": [
+          "essay-16"
+        ],
+        "ability": "technique",
+        "quote": "",
+        "target": "",
+        "stem": "那人只在結尾出現，前文大篇幅寫燈市和仕女，會否削弱她的重要性？",
+        "choices": [
+          {
+            "id": "a",
+            "text": "不會，前文的盛況形成反襯，使末句簡筆人物更突出",
+            "explanation": "間接烘托能使少量直接描寫有更強作用。"
+          },
+          {
+            "id": "b",
+            "text": "會，因為只有直接描寫才可能塑造人物",
+            "explanation": "人物也可間接描寫。"
+          },
+          {
+            "id": "c",
+            "text": "不會，因為前文每一景物都已直接交代她的外貌",
+            "explanation": "前文非逐一寫她外貌。"
+          },
+          {
+            "id": "d",
+            "text": "會，因為環境與人物形象在文學中不能相互關聯",
+            "explanation": "環境可烘托人物。"
+          }
+        ],
+        "answerId": "a",
+        "explanation": "間接烘托能使少量直接描寫有更強作用。",
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 238,
+          "printedPage": 234,
+          "blockPath": "$[15].pages[7].blocks[0][1][8]",
+          "anchor": "直接與間接描寫 直接鋪寫節夜場景、車馬仕女活動；大篇幅盛況間接襯出末句那人形象。",
+          "excerpt": "直接鋪寫節夜場景、車馬仕女活動；大篇幅盛況間接襯出末句那人形象。"
+        },
+        "status": "reviewed",
+        "active": true,
+        "summary": "不會，前文的盛況形成反襯，使末句簡筆人物更突出",
+        "misconception": "人物也可間接描寫。；前文非逐一寫她外貌。；環境可烘托人物。",
+        "review": {
+          "method": "source-aligned-agent-review",
+          "date": "2026-09-19",
+          "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+          "evidence": "直接與間接描寫 直接鋪寫節夜場景、車馬仕女活動；大篇幅盛況間接襯出末句那人形象。"
+        },
+        "targetStart": 0,
+        "assessmentType": "詳略與作用（四選一識別）",
+        "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。",
+        "responseFormat": "single-choice"
+      },
+      "note": "间接烘托解释术语而未呈现前文热闹与结尾疏灯人物的具体反差。"
+    },
+    {
+      "number": 17,
+      "question": {
+        "id": "pilot-01-01-03",
+        "version": 1,
+        "memoryId": "pilot-01-01-03",
+        "essayIds": [
+          "essay-01"
+        ],
+        "ability": "vocabulary",
+        "quote": "子曰：「不仁者，不可以久處約，不可以長處樂。仁者安仁，知者利仁。」",
+        "target": "約",
+        "targetStart": 13,
+        "stem": "原句中「約」在這裏最準確的意思是甚麼？",
+        "choices": [
+          {
+            "id": "a",
+            "text": "事先訂下的約定",
+            "explanation": "本句「約」指「窮困、困苦」。「事先訂下的約定」不符合此處詞義；須連同原句理解，不能套用其他語境。"
+          },
+          {
+            "id": "b",
+            "text": "節省財物",
+            "explanation": "本句「約」指「窮困、困苦」。「節省財物」不符合此處詞義；須連同原句理解，不能套用其他語境。"
+          },
+          {
+            "id": "c",
+            "text": "窮困、困苦",
+            "explanation": "本句「約」指「窮困、困苦」。符合原句語境與書中詞解。"
+          },
+          {
+            "id": "d",
+            "text": "約束別人的行為",
+            "explanation": "本句「約」指「窮困、困苦」。「約束別人的行為」不符合此處詞義；須連同原句理解，不能套用其他語境。"
+          }
+        ],
+        "answerId": "c",
+        "explanation": "復習書詞解：「約」是「窮困、困苦」。安仁：把仁德當作自己應守的道理，自然願意實踐，不以利益作前提。利仁：認識到行仁有長遠利益或價值，因而實踐。比較的是行仁動機和道德自覺，不是誰會思考。知者也行仁，不等於不仁。",
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 6,
+          "printedPage": 2,
+          "blockPath": "$[0].pages[1].blocks[1][1][2]",
+          "anchor": "子曰：「不仁者，不可以久處約，不可以長處樂。仁者安仁，知者利仁。」",
+          "excerpt": "約：窮困、困苦",
+          "pdfUrl": "/content/sources/revision-book.pdf"
+        },
+        "status": "reviewed",
+        "active": true,
+        "summary": "約：窮困、困苦",
+        "misconception": "不能把此處「約」解成「事先訂下的約定」。",
+        "review": {
+          "method": "source-aligned-agent-review",
+          "date": "2026-09-19",
+          "scope": "原句與正解逐題對照提供的復習書；三個干擾項按本句語境編寫並檢查互斥，非官方真題；不代表全書學術終核。",
+          "quoteAndMeaningOnPdfPage": true
+        }
+      },
+      "note": "只问约，主解析大部分转去讲安仁利仁；需要删除离题扩展并用处约／处乐的对应关系解释。"
+    },
+    {
+      "number": 18,
+      "question": {
+        "id": "pilot-01-01-05",
+        "version": 2,
+        "memoryId": "pilot-01-01-05",
+        "essayIds": [
+          "essay-01"
+        ],
+        "ability": "vocabulary",
+        "quote": "子曰：「不仁者，不可以久處約，不可以長處樂。仁者安仁，知者利仁。」",
+        "target": "安仁",
+        "targetStart": 24,
+        "stem": "原句中「安仁」在這裏最準確的意思是甚麼？",
+        "choices": [
+          {
+            "id": "a",
+            "text": "明白行仁有益，因而選擇行仁",
+            "explanation": "這是相對的「利仁」，把兩種動機混同。"
+          },
+          {
+            "id": "b",
+            "text": "安於行仁，出於內在道德自覺",
+            "explanation": "「安仁」與「利仁」對舉；前者行仁出於內在自覺，不以認識行仁好處作起點。"
+          },
+          {
+            "id": "c",
+            "text": "安居於樂境，才願持守仁德",
+            "explanation": "安指安於仁，不是處境安樂才行仁。"
+          },
+          {
+            "id": "d",
+            "text": "習慣依眾人行為決定是否行仁",
+            "explanation": "「安仁」著眼內在道德自覺，非隨眾取捨。"
+          }
+        ],
+        "answerId": "b",
+        "explanation": "「安仁」與「利仁」對舉；前者行仁出於內在自覺，不以認識行仁好處作起點。",
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 6,
+          "printedPage": 2,
+          "blockPath": "$[0].pages[1].blocks[1][1][4]",
+          "anchor": "子曰：「不仁者，不可以久處約，不可以長處樂。仁者安仁，知者利仁。」",
+          "excerpt": "安仁：安於行仁，出於內在道德自覺",
+          "pdfUrl": "/content/sources/revision-book.pdf"
+        },
+        "status": "reviewed",
+        "active": true,
+        "summary": "「安仁」與「利仁」對舉；前者行仁出於內在自覺，不以認識行仁好處作起點。",
+        "misconception": "這是相對的「利仁」，把兩種動機混同。；安指安於仁，不是處境安樂才行仁。；「安仁」著眼內在道德自覺，非隨眾取捨。",
+        "review": {
+          "method": "context-vocabulary-distractor-review",
+          "date": "2026-09-20",
+          "scope": "依保存原文語境與原詞解審改干擾及辨析，非教師獨立終審或學生難度校準。",
+          "quoteAndMeaningOnPdfPage": true,
+          "officialExamQuestion": false
+        },
+        "assessmentType": "語境詞義辨析",
+        "responseFormat": "single-choice",
+        "revisionReason": "以語境相近義項及指涉誤讀替代無關或荒謬錯項；保留來源所載正解。"
+      },
+      "note": "内在自觉、对举、不以……作起点抽象且压缩；适合改为两种行仁理由的白话对照。"
+    },
+    {
+      "number": 19,
+      "question": {
+        "id": "confusable-gui-lunyu-yueyang",
+        "version": 1,
+        "memoryId": "confusable-gui-lunyu-yueyang",
+        "essayIds": [
+          "essay-01",
+          "essay-09"
+        ],
+        "ability": "vocabulary",
+        "responseFormat": "single-choice",
+        "quote": "甲：顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」\n\n乙：嗟夫！予嘗求古仁人之心，或異二者之為。何哉？不以物喜，不以己悲。居廟堂之高，則憂其民；處江湖之遠，則憂其君。是進亦憂，退亦憂，然則何時而樂耶？其必曰：「先天下之憂而憂，後天下之樂而樂」歟！噫！微斯人，吾誰與歸！",
+        "target": "歸",
+        "targetStart": 27,
+        "stem": "比較甲「天下歸仁焉」與乙「吾誰與歸」的「歸」，哪項辨析符合兩處語境？",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲是天下人返回原居地；乙是作者尋求可歸依的同道。",
+            "explanation": "「天下」雖可指眾人，但甲談行仁帶來的認同，沒有返回居所的移動。"
+          },
+          {
+            "id": "b",
+            "text": "甲是天下人認同其仁德；乙是作者尋求可歸依的同道。",
+            "explanation": "甲承接「克己復禮」，是對行仁者的評價；乙承接古仁人之心，是尋求志同道合者。"
+          },
+          {
+            "id": "c",
+            "text": "甲是天下人認同其仁德；乙是作者詢問與誰一同返鄉。",
+            "explanation": "「與誰」可使人聯想到同行，但乙上文論古仁人之心，所求是精神同道，沒有返鄉的目的地。"
+          },
+          {
+            "id": "d",
+            "text": "甲是天下人歸附某位君主；乙是作者詢問應投奔哪位君主。",
+            "explanation": "兩句都不能因「歸」字便判為政治投奔；甲論行仁，乙論與古仁人同道，並無君主歸附關係。"
+          }
+        ],
+        "answerId": "b",
+        "explanation": "甲承接「克己復禮」，是對行仁者的評價；乙承接古仁人之心，是尋求志同道合者。",
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 8,
+          "printedPage": 4,
+          "blockPath": "$[0].pages[3].blocks[1][1][4]",
+          "anchor": "顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」",
+          "excerpt": "歸：稱讚、認同",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "essayId": "essay-01",
+          "questionId": "pilot-01-03-05",
+          "quote": "顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」",
+          "meaning": "稱讚、認同",
+          "snippet": "天下歸仁焉"
+        },
+        "relatedSources": [
+          {
+            "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+            "version": "2026-09-14",
+            "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+            "pdfPage": 8,
+            "printedPage": 4,
+            "blockPath": "$[0].pages[3].blocks[1][1][4]",
+            "anchor": "顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」",
+            "excerpt": "歸：稱讚、認同",
+            "pdfUrl": "/content/sources/revision-book.pdf",
+            "essayId": "essay-01",
+            "questionId": "pilot-01-03-05",
+            "quote": "顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」",
+            "meaning": "稱讚、認同",
+            "snippet": "天下歸仁焉"
+          },
+          {
+            "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+            "version": "2026-09-14",
+            "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+            "pdfPage": 159,
+            "printedPage": 155,
+            "blockPath": "$[8].pages[5].blocks[3][1][6]",
+            "anchor": "嗟夫！予嘗求古仁人之心，或異二者之為。何哉？不以物喜，不以己悲。居廟堂之高，則憂其民；處江湖之遠，則憂其君。是進亦憂，退亦憂，然則何時而樂耶？其必曰：「先天下之憂而憂，後天下之樂而樂」歟！噫！微斯人，吾誰與歸！",
+            "excerpt": "歸：歸依、同道",
+            "pdfUrl": "/content/sources/revision-book.pdf",
+            "essayId": "essay-09",
+            "questionId": "pilot-09-05-07",
+            "quote": "嗟夫！予嘗求古仁人之心，或異二者之為。何哉？不以物喜，不以己悲。居廟堂之高，則憂其民；處江湖之遠，則憂其君。是進亦憂，退亦憂，然則何時而樂耶？其必曰：「先天下之憂而憂，後天下之樂而樂」歟！噫！微斯人，吾誰與歸！",
+            "meaning": "歸依、同道",
+            "snippet": "吾誰與歸"
+          }
+        ],
+        "status": "reviewed",
+        "active": true,
+        "tags": [
+          "comparison",
+          "confusable"
+        ],
+        "comparisonGroupId": "compare-1",
+        "comparisonItemIndices": [
+          0,
+          1
+        ],
+        "summary": "分清對行仁者的認同與尋求精神同道。",
+        "assessmentType": "comparison",
+        "review": {
+          "method": "author-self-check",
+          "date": "2026-09-22",
+          "status": "ready-for-trial",
+          "primaryObjective": "分清對行仁者的認同與尋求精神同道。",
+          "cognitiveDemand": "integration",
+          "empiricalValidation": "not-run",
+          "teacherReview": "not-run",
+          "gates": {
+            "G1": "兩方原文及詞義逐一與原書區塊、PDF頁文字核對；保留雙方定位。",
+            "G2": "依題示兩處語境檢查唯一答案；「天下歸仁」沿用所供原書稱讚、認同之解。",
+            "G3": "錯項分別測移動義、精神同道、評價義或動作主體的誤接；逐項附排除證據。",
+            "G4": "須同時核對甲乙語境；選項使用平行敘述，不把正解固定在同一位置。",
+            "G5": "新題號和記憶單元；檢查選項、正解及雙篇範圍；對照卡與旧題不變。"
+          },
+          "distractorAudit": [
+            {
+              "optionId": "a",
+              "evidenceType": "hypothesis",
+              "attraction": "把其他語境可成立的歸字詞義或人物關係套入本句。",
+              "misreadingAndRefutation": "「天下」雖可指眾人，但甲談行仁帶來的認同，沒有返回居所的移動。",
+              "sourceRefs": [
+                "$[0].pages[3].blocks[1][1][4]",
+                "$[8].pages[5].blocks[3][1][6]"
+              ],
+              "followUp": "重讀甲乙，分別找出歸的主體、對象及前文所談內容。"
+            },
+            {
+              "optionId": "c",
+              "evidenceType": "hypothesis",
+              "attraction": "把其他語境可成立的歸字詞義或人物關係套入本句。",
+              "misreadingAndRefutation": "「與誰」可使人聯想到同行，但乙上文論古仁人之心，所求是精神同道，沒有返鄉的目的地。",
+              "sourceRefs": [
+                "$[0].pages[3].blocks[1][1][4]",
+                "$[8].pages[5].blocks[3][1][6]"
+              ],
+              "followUp": "重讀甲乙，分別找出歸的主體、對象及前文所談內容。"
+            },
+            {
+              "optionId": "d",
+              "evidenceType": "hypothesis",
+              "attraction": "把其他語境可成立的歸字詞義或人物關係套入本句。",
+              "misreadingAndRefutation": "兩句都不能因「歸」字便判為政治投奔；甲論行仁，乙論與古仁人同道，並無君主歸附關係。",
+              "sourceRefs": [
+                "$[0].pages[3].blocks[1][1][4]",
+                "$[8].pages[5].blocks[3][1][6]"
+              ],
+              "followUp": "重讀甲乙，分別找出歸的主體、對象及前文所談內容。"
+            }
+          ]
+        }
+      },
+      "note": "新题证据及区别明确；归依、同道可释为志向相同的人。沿用本书归的解读，不扩成唯一学术解释。"
+    },
+    {
+      "number": 20,
+      "question": {
+        "id": "confusable-gui-lunyu-shanju",
+        "version": 1,
+        "memoryId": "confusable-gui-lunyu-shanju",
+        "essayIds": [
+          "essay-01",
+          "essay-11"
+        ],
+        "ability": "vocabulary",
+        "responseFormat": "single-choice",
+        "quote": "甲：顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」\n\n乙：竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+        "target": "歸",
+        "targetStart": 27,
+        "stem": "比較甲「天下歸仁焉」與乙「竹喧歸浣女」的「歸」，哪項辨析符合兩處語境？",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲寫天下人回到仁者身邊；乙寫浣女回來，引出竹林的喧聲。",
+            "explanation": "甲是行仁得到認同，並非天下人向仁者所在地移動；不能把乙的人物移動套到甲。"
+          },
+          {
+            "id": "b",
+            "text": "甲寫天下人認同其仁德；乙寫浣女回來，引出竹林的喧聲。",
+            "explanation": "甲的「歸」是稱讚、認同；乙的「歸」是回來，「浣女」是回來的人。"
+          },
+          {
+            "id": "c",
+            "text": "甲寫天下人認同其仁德；乙寫浣女認同隱居生活，因而喧笑。",
+            "explanation": "乙的喧聲來自浣女歸來；詩句沒有以「歸」表示她們贊同某種生活主張。"
+          },
+          {
+            "id": "d",
+            "text": "甲寫天下人歸依仁者；乙寫詩人歸依浣女所代表的精神同道。",
+            "explanation": "乙描寫眼前山村人物的動作，不能因全詩有隱居情意便把「歸浣女」改解成詩人的精神歸依。"
+          }
+        ],
+        "answerId": "b",
+        "explanation": "甲的「歸」是稱讚、認同；乙的「歸」是回來，「浣女」是回來的人。",
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 8,
+          "printedPage": 4,
+          "blockPath": "$[0].pages[3].blocks[1][1][4]",
+          "anchor": "顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」",
+          "excerpt": "歸：稱讚、認同",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "essayId": "essay-01",
+          "questionId": "pilot-01-03-05",
+          "quote": "顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」",
+          "meaning": "稱讚、認同",
+          "snippet": "天下歸仁焉"
+        },
+        "relatedSources": [
+          {
+            "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+            "version": "2026-09-14",
+            "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+            "pdfPage": 8,
+            "printedPage": 4,
+            "blockPath": "$[0].pages[3].blocks[1][1][4]",
+            "anchor": "顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」",
+            "excerpt": "歸：稱讚、認同",
+            "pdfUrl": "/content/sources/revision-book.pdf",
+            "essayId": "essay-01",
+            "questionId": "pilot-01-03-05",
+            "quote": "顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」",
+            "meaning": "稱讚、認同",
+            "snippet": "天下歸仁焉"
+          },
+          {
+            "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+            "version": "2026-09-14",
+            "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+            "pdfPage": 189,
+            "printedPage": 185,
+            "blockPath": "$[10].pages[2].blocks[3][1][1]",
+            "anchor": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+            "excerpt": "歸：回來",
+            "pdfUrl": "/content/sources/revision-book.pdf",
+            "essayId": "essay-11",
+            "questionId": "pilot-11-02-02",
+            "quote": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+            "meaning": "回來",
+            "snippet": "竹喧歸浣女"
+          }
+        ],
+        "status": "reviewed",
+        "active": true,
+        "tags": [
+          "comparison",
+          "confusable"
+        ],
+        "comparisonGroupId": "compare-1",
+        "comparisonItemIndices": [
+          0,
+          2
+        ],
+        "summary": "分清道德評價與人物回來的動作。",
+        "assessmentType": "comparison",
+        "review": {
+          "method": "author-self-check",
+          "date": "2026-09-22",
+          "status": "ready-for-trial",
+          "primaryObjective": "分清道德評價與人物回來的動作。",
+          "cognitiveDemand": "integration",
+          "empiricalValidation": "not-run",
+          "teacherReview": "not-run",
+          "gates": {
+            "G1": "兩方原文及詞義逐一與原書區塊、PDF頁文字核對；保留雙方定位。",
+            "G2": "依題示兩處語境檢查唯一答案；「天下歸仁」沿用所供原書稱讚、認同之解。",
+            "G3": "錯項分別測移動義、精神同道、評價義或動作主體的誤接；逐項附排除證據。",
+            "G4": "須同時核對甲乙語境；選項使用平行敘述，不把正解固定在同一位置。",
+            "G5": "新題號和記憶單元；檢查選項、正解及雙篇範圍；對照卡與旧題不變。"
+          },
+          "distractorAudit": [
+            {
+              "optionId": "a",
+              "evidenceType": "hypothesis",
+              "attraction": "把其他語境可成立的歸字詞義或人物關係套入本句。",
+              "misreadingAndRefutation": "甲是行仁得到認同，並非天下人向仁者所在地移動；不能把乙的人物移動套到甲。",
+              "sourceRefs": [
+                "$[0].pages[3].blocks[1][1][4]",
+                "$[10].pages[2].blocks[3][1][1]"
+              ],
+              "followUp": "重讀甲乙，分別找出歸的主體、對象及前文所談內容。"
+            },
+            {
+              "optionId": "c",
+              "evidenceType": "hypothesis",
+              "attraction": "把其他語境可成立的歸字詞義或人物關係套入本句。",
+              "misreadingAndRefutation": "乙的喧聲來自浣女歸來；詩句沒有以「歸」表示她們贊同某種生活主張。",
+              "sourceRefs": [
+                "$[0].pages[3].blocks[1][1][4]",
+                "$[10].pages[2].blocks[3][1][1]"
+              ],
+              "followUp": "重讀甲乙，分別找出歸的主體、對象及前文所談內容。"
+            },
+            {
+              "optionId": "d",
+              "evidenceType": "hypothesis",
+              "attraction": "把其他語境可成立的歸字詞義或人物關係套入本句。",
+              "misreadingAndRefutation": "乙描寫眼前山村人物的動作，不能因全詩有隱居情意便把「歸浣女」改解成詩人的精神歸依。",
+              "sourceRefs": [
+                "$[0].pages[3].blocks[1][1][4]",
+                "$[10].pages[2].blocks[3][1][1]"
+              ],
+              "followUp": "重讀甲乙，分別找出歸的主體、對象及前文所談內容。"
+            }
+          ]
+        }
+      },
+      "note": "较好：清楚区别认同与回来、交代浣女是行动者；可保留简洁程度。"
+    },
+    {
+      "number": 21,
+      "question": {
+        "id": "confusable-gui-yueyang-shanju",
+        "version": 1,
+        "memoryId": "confusable-gui-yueyang-shanju",
+        "essayIds": [
+          "essay-09",
+          "essay-11"
+        ],
+        "ability": "vocabulary",
+        "responseFormat": "single-choice",
+        "quote": "甲：嗟夫！予嘗求古仁人之心，或異二者之為。何哉？不以物喜，不以己悲。居廟堂之高，則憂其民；處江湖之遠，則憂其君。是進亦憂，退亦憂，然則何時而樂耶？其必曰：「先天下之憂而憂，後天下之樂而樂」歟！噫！微斯人，吾誰與歸！\n\n乙：竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+        "target": "歸",
+        "targetStart": 105,
+        "stem": "比較甲「吾誰與歸」與乙「竹喧歸浣女」的「歸」，哪項辨析符合兩處語境？",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲是作者尋求可同道的人；乙是詩人回來時聽見浣女。",
+            "explanation": "「歸浣女」寫回來的浣女，不能把「歸」的行動者換成詩人。"
+          },
+          {
+            "id": "b",
+            "text": "甲是作者稱讚某人的仁德；乙是浣女稱讚山居的生活。",
+            "explanation": "「稱讚、認同」雖是「歸」在別處的詞義，甲的「與歸」指同道，乙則是人物移動。"
+          },
+          {
+            "id": "c",
+            "text": "甲是作者尋找一同返鄉的人；乙是浣女回來的動作。",
+            "explanation": "甲所說的「斯人」承接古仁人，重點是志向相合，不是返鄉同行。"
+          },
+          {
+            "id": "d",
+            "text": "甲是作者尋求可同道的人；乙是浣女回來的動作。",
+            "explanation": "甲承接對古仁人之心的追求，解作歸依、同道；乙描寫浣女歸來，解作回來。"
+          }
+        ],
+        "answerId": "d",
+        "explanation": "甲承接對古仁人之心的追求，解作歸依、同道；乙描寫浣女歸來，解作回來。",
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 159,
+          "printedPage": 155,
+          "blockPath": "$[8].pages[5].blocks[3][1][6]",
+          "anchor": "嗟夫！予嘗求古仁人之心，或異二者之為。何哉？不以物喜，不以己悲。居廟堂之高，則憂其民；處江湖之遠，則憂其君。是進亦憂，退亦憂，然則何時而樂耶？其必曰：「先天下之憂而憂，後天下之樂而樂」歟！噫！微斯人，吾誰與歸！",
+          "excerpt": "歸：歸依、同道",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "essayId": "essay-09",
+          "questionId": "pilot-09-05-07",
+          "quote": "嗟夫！予嘗求古仁人之心，或異二者之為。何哉？不以物喜，不以己悲。居廟堂之高，則憂其民；處江湖之遠，則憂其君。是進亦憂，退亦憂，然則何時而樂耶？其必曰：「先天下之憂而憂，後天下之樂而樂」歟！噫！微斯人，吾誰與歸！",
+          "meaning": "歸依、同道",
+          "snippet": "吾誰與歸"
+        },
+        "relatedSources": [
+          {
+            "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+            "version": "2026-09-14",
+            "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+            "pdfPage": 159,
+            "printedPage": 155,
+            "blockPath": "$[8].pages[5].blocks[3][1][6]",
+            "anchor": "嗟夫！予嘗求古仁人之心，或異二者之為。何哉？不以物喜，不以己悲。居廟堂之高，則憂其民；處江湖之遠，則憂其君。是進亦憂，退亦憂，然則何時而樂耶？其必曰：「先天下之憂而憂，後天下之樂而樂」歟！噫！微斯人，吾誰與歸！",
+            "excerpt": "歸：歸依、同道",
+            "pdfUrl": "/content/sources/revision-book.pdf",
+            "essayId": "essay-09",
+            "questionId": "pilot-09-05-07",
+            "quote": "嗟夫！予嘗求古仁人之心，或異二者之為。何哉？不以物喜，不以己悲。居廟堂之高，則憂其民；處江湖之遠，則憂其君。是進亦憂，退亦憂，然則何時而樂耶？其必曰：「先天下之憂而憂，後天下之樂而樂」歟！噫！微斯人，吾誰與歸！",
+            "meaning": "歸依、同道",
+            "snippet": "吾誰與歸"
+          },
+          {
+            "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+            "version": "2026-09-14",
+            "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+            "pdfPage": 189,
+            "printedPage": 185,
+            "blockPath": "$[10].pages[2].blocks[3][1][1]",
+            "anchor": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+            "excerpt": "歸：回來",
+            "pdfUrl": "/content/sources/revision-book.pdf",
+            "essayId": "essay-11",
+            "questionId": "pilot-11-02-02",
+            "quote": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+            "meaning": "回來",
+            "snippet": "竹喧歸浣女"
+          }
+        ],
+        "status": "reviewed",
+        "active": true,
+        "tags": [
+          "comparison",
+          "confusable"
+        ],
+        "comparisonGroupId": "compare-1",
+        "comparisonItemIndices": [
+          1,
+          2
+        ],
+        "summary": "分清作者的精神歸依與浣女的實際移動。",
+        "assessmentType": "comparison",
+        "review": {
+          "method": "author-self-check",
+          "date": "2026-09-22",
+          "status": "ready-for-trial",
+          "primaryObjective": "分清作者的精神歸依與浣女的實際移動。",
+          "cognitiveDemand": "integration",
+          "empiricalValidation": "not-run",
+          "teacherReview": "not-run",
+          "gates": {
+            "G1": "兩方原文及詞義逐一與原書區塊、PDF頁文字核對；保留雙方定位。",
+            "G2": "依題示兩處語境檢查唯一答案；「天下歸仁」沿用所供原書稱讚、認同之解。",
+            "G3": "錯項分別測移動義、精神同道、評價義或動作主體的誤接；逐項附排除證據。",
+            "G4": "須同時核對甲乙語境；選項使用平行敘述，不把正解固定在同一位置。",
+            "G5": "新題號和記憶單元；檢查選項、正解及雙篇範圍；對照卡與旧題不變。"
+          },
+          "distractorAudit": [
+            {
+              "optionId": "a",
+              "evidenceType": "hypothesis",
+              "attraction": "把其他語境可成立的歸字詞義或人物關係套入本句。",
+              "misreadingAndRefutation": "「歸浣女」寫回來的浣女，不能把「歸」的行動者換成詩人。",
+              "sourceRefs": [
+                "$[8].pages[5].blocks[3][1][6]",
+                "$[10].pages[2].blocks[3][1][1]"
+              ],
+              "followUp": "重讀甲乙，分別找出歸的主體、對象及前文所談內容。"
+            },
+            {
+              "optionId": "b",
+              "evidenceType": "hypothesis",
+              "attraction": "把其他語境可成立的歸字詞義或人物關係套入本句。",
+              "misreadingAndRefutation": "「稱讚、認同」雖是「歸」在別處的詞義，甲的「與歸」指同道，乙則是人物移動。",
+              "sourceRefs": [
+                "$[8].pages[5].blocks[3][1][6]",
+                "$[10].pages[2].blocks[3][1][1]"
+              ],
+              "followUp": "重讀甲乙，分別找出歸的主體、對象及前文所談內容。"
+            },
+            {
+              "optionId": "c",
+              "evidenceType": "hypothesis",
+              "attraction": "把其他語境可成立的歸字詞義或人物關係套入本句。",
+              "misreadingAndRefutation": "甲所說的「斯人」承接古仁人，重點是志向相合，不是返鄉同行。",
+              "sourceRefs": [
+                "$[8].pages[5].blocks[3][1][6]",
+                "$[10].pages[2].blocks[3][1][1]"
+              ],
+              "followUp": "重讀甲乙，分別找出歸的主體、對象及前文所談內容。"
+            }
+          ]
+        }
+      },
+      "note": "两处有区别，但精神归依较抽象；先写志向相合，再写实际回来。"
+    },
+    {
+      "number": 22,
+      "question": {
+        "id": "full-d-00-00",
+        "version": 1,
+        "memoryId": "m-full-d-00-00",
+        "essayIds": [],
+        "ability": "technique",
+        "quote": "比喻",
+        "target": "",
+        "stem": "關於「比喻」，哪項理解最準確？",
+        "choices": [
+          {
+            "text": "只要兩件事互相關聯便成立",
+            "explanation": "比喻須有相似點，關聯替代是借代",
+            "id": "a"
+          },
+          {
+            "text": "一定要出現像或如字才成立",
+            "explanation": "暗喻借喻不必用這些喻詞",
+            "id": "b"
+          },
+          {
+            "text": "喻體必須與本體屬於同一事物",
+            "explanation": "本喻體是用相似點聯繫，不是同一對象",
+            "id": "c"
+          },
+          {
+            "text": "利用本體與喻體的相似點，以具體、常見的事物說明抽象、生疏的事物或道理。",
+            "explanation": "利用本體與喻體的相似點，以具體、常見的事物說明抽象、生疏的事物或道理。\n明喻：本體＋喻詞（像、似、如、彷彿）＋喻體。\n暗喻：本體＋「是／為／變成／成為／當作」等＋喻體。\n借喻：只出現喻體，省略本體、喻詞；表達較含蓄隱晦。\n作用：使抽象事理具體、形象、易明；答案須指出本體、喻體及相似點。 明喻：「沉澱着彩虹似的夢。」\n暗喻：「那河畔的金柳，是夕陽中的新娘。」（徐志摩《再別康橋》）\n借喻：「你不妨搖曳着一頭的蓬草。」以蓬草比喻頭髮。（徐志摩《翡冷翠山居閒話》）",
+            "id": "d"
+          }
+        ],
+        "answerId": "d",
+        "explanation": "利用本體與喻體的相似點，以具體、常見的事物說明抽象、生疏的事物或道理。\n明喻：本體＋喻詞（像、似、如、彷彿）＋喻體。\n暗喻：本體＋「是／為／變成／成為／當作」等＋喻體。\n借喻：只出現喻體，省略本體、喻詞；表達較含蓄隱晦。\n作用：使抽象事理具體、形象、易明；答案須指出本體、喻體及相似點。\n例子或作用：明喻：「沉澱着彩虹似的夢。」\n暗喻：「那河畔的金柳，是夕陽中的新娘。」（徐志摩《再別康橋》）\n借喻：「你不妨搖曳着一頭的蓬草。」以蓬草比喻頭髮。（徐志摩《翡冷翠山居閒話》）",
+        "source": {
+          "title": "文言詩詞・十六篇復習書｜手法附錄",
+          "section": "修辭｜形象與聯想",
+          "jsonFile": "appendix-content.json",
+          "blockPath": "$appendix.sections[0].rows[0]",
+          "anchor": "利用本體與喻體的相似點，以具體、常見的事物說明抽象、生疏的事物或道理。",
+          "pdfPage": 243,
+          "printedPage": "附錄2",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14"
+        },
+        "status": "reviewed",
+        "active": true,
+        "summary": "利用本體與喻體的相似點，以具體、常見的事物說明抽象、生疏的事物或道理。",
+        "misconception": "比喻須有相似點，關聯替代是借代",
+        "difficulty": "foundation",
+        "tags": [
+          "appendix",
+          "concept-definition"
+        ],
+        "review": {
+          "method": "source-aligned-agent-review",
+          "date": "2026-09-19",
+          "officialExamQuestion": false,
+          "scope": "依所供附錄逐列核對概念與物理頁；干擾項針對易混條件。定義辨析，不冒稱原文應用題或教師審核。",
+          "evidence": [
+            "比喻",
+            "利用本體與喻體的相似點，以具體、常見的事物說明抽象、生疏的事物或道理。\n明喻：本體＋喻詞（像、似、如、彷彿）＋喻體。\n暗喻：本體＋「是／為／變成／成為／當作」等＋喻體。\n借喻：只出現喻體，省略本體、喻詞；表達較含蓄隱晦。\n作用：使抽象事理具體、形象、易明；答案須指出本體、喻體及相似點。",
+            "明喻：「沉澱着彩虹似的夢。」\n暗喻：「那河畔的金柳，是夕陽中的新娘。」（徐志摩《再別康橋》）\n借喻：「你不妨搖曳着一頭的蓬草。」以蓬草比喻頭髮。（徐志摩《翡冷翠山居閒話》）"
+          ]
+        }
+      },
+      "note": "一题把定义、三种分类、作用、多例堆在一起；附录应把核心辨别与补充分层。"
+    },
+    {
+      "number": 23,
+      "question": {
+        "id": "full-c-01-19-02-80",
+        "version": 2,
+        "memoryId": "full-c-01-19-02-80",
+        "essayIds": [
+          "essay-01"
+        ],
+        "ability": "meaning",
+        "quote": "孟懿子問孝。子曰：「無違。」樊遲御，子告之曰：「孟孫問孝於我，我對曰，無違。」樊遲曰：「何謂也？」子曰：「生，事之以禮；死，葬之以禮，祭之以禮。」\n\n子曰：「事父母幾諫，見志不從，又敬不違，勞而不怨。」",
+        "target": "",
+        "stem": "比較問孝答「無違」與「幾諫……又敬不違」，哪項最穩妥？",
+        "choices": [
+          {
+            "id": "a",
+            "text": "前者只談未納諫言；後者只談葬祭的儀節",
+            "explanation": "此項把文本的關係解作「前者只談未納諫言；後者只談葬祭的儀節」；但「無違」由後文明确限定不違禮；「不違」來源有不冒犯父母的主解，2019題另取不違父母意願。須按具體章句與題設分辨，不以一讀法否定另一合理解讀。"
+          },
+          {
+            "id": "b",
+            "text": "前者由生葬祭以禮解說；後者置於規勸未納仍持敬的情況",
+            "explanation": "「無違」由後文明确限定不違禮；「不違」來源有不冒犯父母的主解，2019題另取不違父母意願。須按具體章句與題設分辨，不以一讀法否定另一合理解讀。"
+          },
+          {
+            "id": "c",
+            "text": "兩處的主體都由父母轉為君主，故同指臣下服從",
+            "explanation": "此項把文本的關係解作「兩處的主體都由父母轉為君主，故同指臣下服從」；但「無違」由後文明确限定不違禮；「不違」來源有不冒犯父母的主解，2019題另取不違父母意願。須按具體章句與題設分辨，不以一讀法否定另一合理解讀。"
+          },
+          {
+            "id": "d",
+            "text": "兩處都先取消勸諫，再要求子女不作判斷地順從",
+            "explanation": "此項把文本的關係解作「兩處都先取消勸諫，再要求子女不作判斷地順從」；但「無違」由後文明确限定不違禮；「不違」來源有不冒犯父母的主解，2019題另取不違父母意願。須按具體章句與題設分辨，不以一讀法否定另一合理解讀。"
+          }
+        ],
+        "answerId": "b",
+        "explanation": "「無違」由後文明确限定不違禮；「不違」來源有不冒犯父母的主解，2019題另取不違父母意願。須按具體章句與題設分辨，不以一讀法否定另一合理解讀。",
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 23,
+          "printedPage": 19,
+          "blockPath": "$[0].pages[19].blocks[2]",
+          "anchor": "第5則「無違」指不違禮；第7則「不違」依本篇主解，指不觸忤、冒犯父母。2019年第3題的選項另把「不違」表述為不違父母意願，這是該題的解讀語境，不能把三者混成同一詞義。",
+          "excerpt": "第5則「無違」指不違禮；第7則「不違」依本篇主解，指不觸忤、冒犯父母。2019年第3題的選項另把「不違」表述為不違父母意願，這是該題的解讀語境，不能把三者混成同一詞義。"
+        },
+        "status": "reviewed",
+        "active": true,
+        "summary": "前者由生葬祭以禮解說；後者置於規勸未納仍持敬的情況",
+        "misconception": "此項把文本的關係解作「前者只談未納諫言；後者只談葬祭的儀節」；但「無違」由後文明确限定不違禮；「不違」來源有不冒犯父母的主解，2019題另取不違父母意願。須按具體章句與題設分辨，不以一讀法否定另一合理解讀。",
+        "review": {
+          "method": "text-grounded-mcq-editorial-review",
+          "reviewedAt": "2026-09-20",
+          "officialExamQuestion": false,
+          "scope": "逐題讀審基線及本地 student-content.json；保留合理異說。非官方題或學生試測。",
+          "checks": [
+            "four-options",
+            "source-locator-preserved",
+            "contextual-uniqueness-review"
+          ]
+        },
+        "assessmentType": "comparison",
+        "revisionReason": "將講義填空改為指定章句的解讀、證據配對、句式或比較；干擾取相鄰章句、合理字義及對象／範圍／因果誤讀。",
+        "responseFormat": "single-choice"
+      },
+      "note": "长解析含实质异解边界，不能一刀删短；先解释两处各自语境，再补必要的版本限定。"
+    },
+    {
+      "number": 24,
+      "question": {
+        "id": "full-c-16-02-04-80",
+        "version": 2,
+        "memoryId": "full-c-16-02-04-80",
+        "essayIds": [
+          "essay-16"
+        ],
+        "ability": "meaning",
+        "quote": "",
+        "target": "",
+        "stem": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：那人身處「燈火闌珊處」，與前文盛裝人群相對。哪種形象解讀較有依據？\n甲：遠離繁華中心，呈現孤高自持的形象\n乙：人物沒有依繁華人群的方式出現，疏燈中的位置與前文盛裝熱鬧形成距離，可支持不隨俗的讀法。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙不正確",
+            "explanation": "此判斷不符原文。甲：位置及氛圍的反差支持不隨俗的解讀，不必擅加言行。乙：孤高自持屬形象解讀，其篇內根據是那人與繁華人群的反差，而非另造人物生平。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "此判斷不符原文。甲：位置及氛圍的反差支持不隨俗的解讀，不必擅加言行。乙：孤高自持屬形象解讀，其篇內根據是那人與繁華人群的反差，而非另造人物生平。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙正確",
+            "explanation": "此判斷正確。甲：位置及氛圍的反差支持不隨俗的解讀，不必擅加言行。乙：孤高自持屬形象解讀，其篇內根據是那人與繁華人群的反差，而非另造人物生平。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "此判斷不符原文。甲：位置及氛圍的反差支持不隨俗的解讀，不必擅加言行。乙：孤高自持屬形象解讀，其篇內根據是那人與繁華人群的反差，而非另造人物生平。"
+          }
+        ],
+        "answerId": "c",
+        "explanation": "此判斷正確。甲：位置及氛圍的反差支持不隨俗的解讀，不必擅加言行。乙：孤高自持屬形象解讀，其篇內根據是那人與繁華人群的反差，而非另造人物生平。",
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[2].blocks[4]",
+          "anchor": "千百度極言尋找之多，驀然寫發現的突然。那人不在熱鬧中心，位置上的反差支持其孤高形象。",
+          "excerpt": "千百度極言尋找之多，驀然寫發現的突然。那人不在熱鬧中心，位置上的反差支持其孤高形象。"
+        },
+        "status": "reviewed",
+        "active": true,
+        "summary": "甲：位置及氛圍的反差支持不隨俗的解讀，不必擅加言行。乙：孤高自持屬形象解讀，其篇內根據是那人與繁華人群的反差，而非另造人物生平。",
+        "misconception": "甲乙須各自對照原文，不可預設只有一位同學答對。甲：位置及氛圍的反差支持不隨俗的解讀，不必擅加言行。乙：孤高自持屬形象解讀，其篇內根據是那人與繁華人群的反差，而非另造人物生平。",
+        "review": {
+          "method": "source-aligned-agent-review",
+          "date": "2026-09-19",
+          "scope": "代理逐項對照用戶所附復習書與PDF物理頁；自編干擾項，非官方真題或教師審核；多角度手法依指定分析角度設問，不否定其他可成立角度。",
+          "evidence": "千百度極言尋找之多，驀然寫發現的突然。那人不在熱鬧中心，位置上的反差支持其孤高形象。"
+        },
+        "targetStart": 0,
+        "assessmentType": "作答評議／形象與證據（四選一識別）",
+        "revisionReason": "重構為有文本依據的四選一任務，重新撰寫同層次選項及逐項釋義；此題評核識別而非書面輸出。 本題重新配置兩個有獨立文本理由的判斷，以免甲乙評議形成固定正誤組合。",
+        "responseFormat": "single-choice"
+      },
+      "note": "甲乙判断与证据重复，先说两人均抓住繁华与疏灯的反差，再分别解释，保留有依据的读法限定。"
+    }
+  ],
+  "codeEvidence": [
+    {
+      "file": "web-study/src/features/practice.mjs",
+      "line": 13,
+      "observation": "One explanation paragraph; all option rationales inside closed details; no selected-wrong rationale shown by default."
+    },
+    {
+      "file": "web-study/styles.css",
+      "line": 54,
+      "observation": "All explanation p elements have font-weight 700; choice rationales overridden to weight 400."
+    },
+    {
+      "file": "web-study/src/features/records.mjs",
+      "line": 27,
+      "observation": "Quick review uses summary and misconception, falling back to first incorrect option rationale."
+    }
+  ],
+  "inspectedFilesSha256": {
+    "web-study/src/features/practice.mjs": "4b8f6162392f033fa1f0d5c40798eaa38fcf38b5984a5b869be049b2c51103eb",
+    "web-study/styles.css": "b4fdfe2ab15adb34a8e2679d26dabd9ec2733ee8901c318e8e67996d81247952",
+    "web-study/src/features/records.mjs": "661d216d057a0d2e0c41fa56489b29e61ed796df5887d99eab1f71b32d93b05d",
+    "tools/question-bank/full-expansion/build_full_bank.py": "377edb12c9715d3f74895b39966b9c5140edb6fc29e10ad180d55b86c578c7c2"
+  }
+}

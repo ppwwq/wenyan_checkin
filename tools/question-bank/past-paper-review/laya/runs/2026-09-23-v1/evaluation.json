@@ -1,0 +1,2910 @@
+{
+  "referenceMethod": "Codex source-read author judgements; not independent teacher gold; no student data",
+  "referenceHash": "598156736d5d06f65497392bc6fb5cb27de2cec12d5b207007d3be9eee1a27e7",
+  "metrics": {
+    "option/attraction": {
+      "tune": {
+        "total": 60,
+        "completedCalls": 54,
+        "classified": 48,
+        "agreement": 20,
+        "agreementAll": 0.3333333333333333,
+        "agreementClassified": 0.4166666666666667,
+        "trainingMajorityLabel": "plausible",
+        "majorityBaselineAgreement": 35,
+        "statuses": {
+          "completed": 54,
+          "abstained": 6
+        },
+        "confusion": {
+          "plausible -> plausible": 20,
+          "weak -> plausible": 13,
+          "plausible -> absurd": 8,
+          "weak -> absurd": 4,
+          "weak -> unknown": 3,
+          "plausible -> None": 5,
+          "weak -> None": 1,
+          "absurd -> plausible": 3,
+          "absurd -> unknown": 1,
+          "plausible -> unknown": 2
+        },
+        "byLabel": {
+          "absurd": {
+            "tp": 0,
+            "fp": 12,
+            "fn": 4,
+            "precision": 0.0,
+            "recall": 0.0
+          },
+          "plausible": {
+            "tp": 20,
+            "fp": 16,
+            "fn": 15,
+            "precision": 0.5555555555555556,
+            "recall": 0.5714285714285714
+          },
+          "weak": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 21,
+            "precision": null,
+            "recall": 0.0
+          }
+        }
+      },
+      "holdout": {
+        "total": 120,
+        "completedCalls": 0,
+        "classified": 0,
+        "agreement": 0,
+        "agreementAll": 0.0,
+        "agreementClassified": null,
+        "trainingMajorityLabel": "plausible",
+        "majorityBaselineAgreement": 60,
+        "statuses": {
+          "not-run": 120
+        },
+        "confusion": {
+          "weak -> None": 56,
+          "plausible -> None": 60,
+          "absurd -> None": 4
+        },
+        "byLabel": {
+          "absurd": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 4,
+            "precision": null,
+            "recall": 0.0
+          },
+          "plausible": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 60,
+            "precision": null,
+            "recall": 0.0
+          },
+          "weak": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 56,
+            "precision": null,
+            "recall": 0.0
+          }
+        }
+      }
+    },
+    "review/set_strength": {
+      "tune": {
+        "total": 20,
+        "completedCalls": 18,
+        "classified": 18,
+        "agreement": 7,
+        "agreementAll": 0.35,
+        "agreementClassified": 0.3888888888888889,
+        "trainingMajorityLabel": "some",
+        "majorityBaselineAgreement": 9,
+        "statuses": {
+          "completed": 18,
+          "abstained": 2
+        },
+        "confusion": {
+          "all -> none": 4,
+          "some -> some": 4,
+          "some -> none": 4,
+          "some -> None": 1,
+          "all -> some": 2,
+          "all -> all": 1,
+          "all -> None": 1,
+          "none -> none": 2,
+          "none -> some": 1
+        },
+        "byLabel": {
+          "all": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 7,
+            "precision": 1.0,
+            "recall": 0.125
+          },
+          "none": {
+            "tp": 2,
+            "fp": 8,
+            "fn": 1,
+            "precision": 0.2,
+            "recall": 0.6666666666666666
+          },
+          "some": {
+            "tp": 4,
+            "fp": 3,
+            "fn": 5,
+            "precision": 0.5714285714285714,
+            "recall": 0.4444444444444444
+          }
+        }
+      },
+      "holdout": {
+        "total": 40,
+        "completedCalls": 0,
+        "classified": 0,
+        "agreement": 0,
+        "agreementAll": 0.0,
+        "agreementClassified": null,
+        "trainingMajorityLabel": "some",
+        "majorityBaselineAgreement": 25,
+        "statuses": {
+          "not-run": 40
+        },
+        "confusion": {
+          "none -> None": 5,
+          "all -> None": 10,
+          "some -> None": 25
+        },
+        "byLabel": {
+          "all": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 10,
+            "precision": null,
+            "recall": 0.0
+          },
+          "none": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 5,
+            "precision": null,
+            "recall": 0.0
+          },
+          "some": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 25,
+            "precision": null,
+            "recall": 0.0
+          }
+        }
+      }
+    },
+    "student/operation": {
+      "tune": {
+        "total": 20,
+        "completedCalls": 20,
+        "classified": 16,
+        "agreement": 3,
+        "agreementAll": 0.15,
+        "agreementClassified": 0.1875,
+        "trainingMajorityLabel": "word",
+        "majorityBaselineAgreement": 6,
+        "statuses": {
+          "completed": 20
+        },
+        "confusion": {
+          "word -> meaning": 6,
+          "inference -> unknown": 2,
+          "inference -> recall": 2,
+          "inference -> word": 1,
+          "meaning -> comparison": 1,
+          "effect -> comparison": 1,
+          "meaning -> meaning": 1,
+          "inference -> effect": 1,
+          "effect -> unknown": 2,
+          "effect -> word": 1,
+          "comparison -> comparison": 2
+        },
+        "byLabel": {
+          "comparison": {
+            "tp": 2,
+            "fp": 2,
+            "fn": 0,
+            "precision": 0.5,
+            "recall": 1.0
+          },
+          "effect": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 4,
+            "precision": 0.0,
+            "recall": 0.0
+          },
+          "inference": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 6,
+            "precision": null,
+            "recall": 0.0
+          },
+          "meaning": {
+            "tp": 1,
+            "fp": 6,
+            "fn": 1,
+            "precision": 0.14285714285714285,
+            "recall": 0.5
+          },
+          "word": {
+            "tp": 0,
+            "fp": 2,
+            "fn": 6,
+            "precision": 0.0,
+            "recall": 0.0
+          }
+        }
+      },
+      "holdout": {
+        "total": 40,
+        "completedCalls": 0,
+        "classified": 0,
+        "agreement": 0,
+        "agreementAll": 0.0,
+        "agreementClassified": null,
+        "trainingMajorityLabel": "word",
+        "majorityBaselineAgreement": 9,
+        "statuses": {
+          "not-run": 40
+        },
+        "confusion": {
+          "comparison -> None": 22,
+          "word -> None": 9,
+          "recall -> None": 3,
+          "effect -> None": 3,
+          "inference -> None": 2,
+          "meaning -> None": 1
+        },
+        "byLabel": {
+          "comparison": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 22,
+            "precision": null,
+            "recall": 0.0
+          },
+          "effect": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 3,
+            "precision": null,
+            "recall": 0.0
+          },
+          "inference": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 2,
+            "precision": null,
+            "recall": 0.0
+          },
+          "meaning": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 1,
+            "precision": null,
+            "recall": 0.0
+          },
+          "recall": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 3,
+            "precision": null,
+            "recall": 0.0
+          },
+          "word": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 9,
+            "precision": null,
+            "recall": 0.0
+          }
+        }
+      }
+    }
+  },
+  "wrongOptionSampleIndependence": "Three options per question are clustered, not three independent students",
+  "unvalidatedDimensions": [
+    "usefulness fit",
+    "correctness",
+    "unique answer",
+    "misreading diagnosis",
+    "explanation quality",
+    "whole-bank incremental value"
+  ],
+  "records": [
+    {
+      "id": "full-c-01-03-01-10",
+      "split": "tune",
+      "metric": "student/operation",
+      "expected": "word",
+      "predicted": "meaning",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-01-03-01-10",
+      "split": "tune",
+      "metric": "review/set_strength",
+      "expected": "all",
+      "predicted": "none",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-01-03-01-10",
+      "choiceId": "a",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-01-03-01-10",
+      "choiceId": "c",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-01-03-01-10",
+      "choiceId": "d",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "full-a-e02-p00-b05-x000",
+      "split": "tune",
+      "metric": "student/operation",
+      "expected": "inference",
+      "predicted": "unknown",
+      "status": "completed"
+    },
+    {
+      "id": "full-a-e02-p00-b05-x000",
+      "split": "tune",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": "some",
+      "status": "completed"
+    },
+    {
+      "id": "full-a-e02-p00-b05-x000",
+      "choiceId": "a",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "full-a-e02-p00-b05-x000",
+      "choiceId": "b",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "full-a-e02-p00-b05-x000",
+      "choiceId": "c",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "q-e03-exp-007",
+      "split": "tune",
+      "metric": "student/operation",
+      "expected": "inference",
+      "predicted": "recall",
+      "status": "completed"
+    },
+    {
+      "id": "q-e03-exp-007",
+      "split": "tune",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": "none",
+      "status": "completed"
+    },
+    {
+      "id": "q-e03-exp-007",
+      "choiceId": "a",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "q-e03-exp-007",
+      "choiceId": "b",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "q-e03-exp-007",
+      "choiceId": "d",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "absurd",
+      "status": "completed"
+    },
+    {
+      "id": "full-a-e04-p11-b00-c04",
+      "split": "tune",
+      "metric": "student/operation",
+      "expected": "inference",
+      "predicted": "unknown",
+      "status": "completed"
+    },
+    {
+      "id": "full-a-e04-p11-b00-c04",
+      "split": "tune",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": "none",
+      "status": "completed"
+    },
+    {
+      "id": "full-a-e04-p11-b00-c04",
+      "choiceId": "a",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "full-a-e04-p11-b00-c04",
+      "choiceId": "b",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": "absurd",
+      "status": "completed"
+    },
+    {
+      "id": "full-a-e04-p11-b00-c04",
+      "choiceId": "d",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": "unknown",
+      "status": "completed"
+    },
+    {
+      "id": "full-a-e05-p22-b00-v00",
+      "split": "tune",
+      "metric": "student/operation",
+      "expected": "word",
+      "predicted": "meaning",
+      "status": "completed"
+    },
+    {
+      "id": "full-a-e05-p22-b00-v00",
+      "split": "tune",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": "some",
+      "status": "completed"
+    },
+    {
+      "id": "full-a-e05-p22-b00-v00",
+      "choiceId": "a",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": "absurd",
+      "status": "completed"
+    },
+    {
+      "id": "full-a-e05-p22-b00-v00",
+      "choiceId": "c",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "full-a-e05-p22-b00-v00",
+      "choiceId": "d",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "full-b-06-06-00-b",
+      "split": "tune",
+      "metric": "student/operation",
+      "expected": "inference",
+      "predicted": "word",
+      "status": "completed"
+    },
+    {
+      "id": "full-b-06-06-00-b",
+      "split": "tune",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": null,
+      "status": "abstained"
+    },
+    {
+      "id": "full-b-06-06-00-b",
+      "choiceId": "a",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "abstained"
+    },
+    {
+      "id": "full-b-06-06-00-b",
+      "choiceId": "c",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "abstained"
+    },
+    {
+      "id": "full-b-06-06-00-b",
+      "choiceId": "d",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "abstained"
+    },
+    {
+      "id": "full-b-07-11-00-2",
+      "split": "tune",
+      "metric": "student/operation",
+      "expected": "meaning",
+      "predicted": "comparison",
+      "status": "completed"
+    },
+    {
+      "id": "full-b-07-11-00-2",
+      "split": "tune",
+      "metric": "review/set_strength",
+      "expected": "all",
+      "predicted": "some",
+      "status": "completed"
+    },
+    {
+      "id": "full-b-07-11-00-2",
+      "choiceId": "b",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "absurd",
+      "status": "completed"
+    },
+    {
+      "id": "full-b-07-11-00-2",
+      "choiceId": "c",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "absurd",
+      "status": "completed"
+    },
+    {
+      "id": "full-b-07-11-00-2",
+      "choiceId": "d",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "absurd",
+      "status": "completed"
+    },
+    {
+      "id": "full-b-08-12-00-6",
+      "split": "tune",
+      "metric": "student/operation",
+      "expected": "effect",
+      "predicted": "comparison",
+      "status": "completed"
+    },
+    {
+      "id": "full-b-08-12-00-6",
+      "split": "tune",
+      "metric": "review/set_strength",
+      "expected": "all",
+      "predicted": "all",
+      "status": "completed"
+    },
+    {
+      "id": "full-b-08-12-00-6",
+      "choiceId": "a",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "full-b-08-12-00-6",
+      "choiceId": "b",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "full-b-08-12-00-6",
+      "choiceId": "c",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "pilot-09-04-15",
+      "split": "tune",
+      "metric": "student/operation",
+      "expected": "word",
+      "predicted": "meaning",
+      "status": "completed"
+    },
+    {
+      "id": "pilot-09-04-15",
+      "split": "tune",
+      "metric": "review/set_strength",
+      "expected": "all",
+      "predicted": "none",
+      "status": "completed"
+    },
+    {
+      "id": "pilot-09-04-15",
+      "choiceId": "a",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "pilot-09-04-15",
+      "choiceId": "b",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "pilot-09-04-15",
+      "choiceId": "c",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "full-b-10-06-00-b",
+      "split": "tune",
+      "metric": "student/operation",
+      "expected": "meaning",
+      "predicted": "meaning",
+      "status": "completed"
+    },
+    {
+      "id": "full-b-10-06-00-b",
+      "split": "tune",
+      "metric": "review/set_strength",
+      "expected": "all",
+      "predicted": null,
+      "status": "abstained"
+    },
+    {
+      "id": "full-b-10-06-00-b",
+      "choiceId": "a",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "abstained"
+    },
+    {
+      "id": "full-b-10-06-00-b",
+      "choiceId": "b",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "abstained"
+    },
+    {
+      "id": "full-b-10-06-00-b",
+      "choiceId": "d",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "abstained"
+    },
+    {
+      "id": "full-c-11-04-00-09",
+      "split": "tune",
+      "metric": "student/operation",
+      "expected": "inference",
+      "predicted": "effect",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-11-04-00-09",
+      "split": "tune",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": "none",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-11-04-00-09",
+      "choiceId": "b",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-11-04-00-09",
+      "choiceId": "c",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "absurd",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-11-04-00-09",
+      "choiceId": "d",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-12-08-00-08",
+      "split": "tune",
+      "metric": "student/operation",
+      "expected": "inference",
+      "predicted": "recall",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-12-08-00-08",
+      "split": "tune",
+      "metric": "review/set_strength",
+      "expected": "none",
+      "predicted": "none",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-12-08-00-08",
+      "choiceId": "a",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": "absurd",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-12-08-00-08",
+      "choiceId": "c",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": "absurd",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-12-08-00-08",
+      "choiceId": "d",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "absurd",
+      "predicted": "unknown",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-13-01-03-06",
+      "split": "tune",
+      "metric": "student/operation",
+      "expected": "word",
+      "predicted": "meaning",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-13-01-03-06",
+      "split": "tune",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": "some",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-13-01-03-06",
+      "choiceId": "a",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-13-01-03-06",
+      "choiceId": "c",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-13-01-03-06",
+      "choiceId": "d",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "unknown",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-14-03-00-14",
+      "split": "tune",
+      "metric": "student/operation",
+      "expected": "effect",
+      "predicted": "unknown",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-14-03-00-14",
+      "split": "tune",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": "some",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-14-03-00-14",
+      "choiceId": "b",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-14-03-00-14",
+      "choiceId": "c",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-14-03-00-14",
+      "choiceId": "d",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-15-07-00-80",
+      "split": "tune",
+      "metric": "student/operation",
+      "expected": "effect",
+      "predicted": "unknown",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-15-07-00-80",
+      "split": "tune",
+      "metric": "review/set_strength",
+      "expected": "none",
+      "predicted": "some",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-15-07-00-80",
+      "choiceId": "a",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": "unknown",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-15-07-00-80",
+      "choiceId": "c",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-15-07-00-80",
+      "choiceId": "d",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": "unknown",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-16-07-00-08",
+      "split": "tune",
+      "metric": "student/operation",
+      "expected": "effect",
+      "predicted": "word",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-16-07-00-08",
+      "split": "tune",
+      "metric": "review/set_strength",
+      "expected": "none",
+      "predicted": "none",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-16-07-00-08",
+      "choiceId": "b",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "absurd",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-16-07-00-08",
+      "choiceId": "c",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-16-07-00-08",
+      "choiceId": "d",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "absurd",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "pilot-01-01-03",
+      "split": "tune",
+      "metric": "student/operation",
+      "expected": "word",
+      "predicted": "meaning",
+      "status": "completed"
+    },
+    {
+      "id": "pilot-01-01-03",
+      "split": "tune",
+      "metric": "review/set_strength",
+      "expected": "all",
+      "predicted": "some",
+      "status": "completed"
+    },
+    {
+      "id": "pilot-01-01-03",
+      "choiceId": "a",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "pilot-01-01-03",
+      "choiceId": "b",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "pilot-01-01-03",
+      "choiceId": "d",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "pilot-01-01-05",
+      "split": "tune",
+      "metric": "student/operation",
+      "expected": "word",
+      "predicted": "meaning",
+      "status": "completed"
+    },
+    {
+      "id": "pilot-01-01-05",
+      "split": "tune",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": "none",
+      "status": "completed"
+    },
+    {
+      "id": "pilot-01-01-05",
+      "choiceId": "a",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "pilot-01-01-05",
+      "choiceId": "c",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "unknown",
+      "status": "completed"
+    },
+    {
+      "id": "pilot-01-01-05",
+      "choiceId": "d",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "confusable-gui-lunyu-yueyang",
+      "split": "tune",
+      "metric": "student/operation",
+      "expected": "comparison",
+      "predicted": "comparison",
+      "status": "completed"
+    },
+    {
+      "id": "confusable-gui-lunyu-yueyang",
+      "split": "tune",
+      "metric": "review/set_strength",
+      "expected": "all",
+      "predicted": "none",
+      "status": "completed"
+    },
+    {
+      "id": "confusable-gui-lunyu-yueyang",
+      "choiceId": "a",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "confusable-gui-lunyu-yueyang",
+      "choiceId": "c",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "absurd",
+      "status": "completed"
+    },
+    {
+      "id": "confusable-gui-lunyu-yueyang",
+      "choiceId": "d",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "absurd",
+      "status": "completed"
+    },
+    {
+      "id": "confusable-gui-lunyu-shanju",
+      "split": "tune",
+      "metric": "student/operation",
+      "expected": "comparison",
+      "predicted": "comparison",
+      "status": "completed"
+    },
+    {
+      "id": "confusable-gui-lunyu-shanju",
+      "split": "tune",
+      "metric": "review/set_strength",
+      "expected": "all",
+      "predicted": "none",
+      "status": "completed"
+    },
+    {
+      "id": "confusable-gui-lunyu-shanju",
+      "choiceId": "a",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "plausible",
+      "status": "completed"
+    },
+    {
+      "id": "confusable-gui-lunyu-shanju",
+      "choiceId": "c",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "absurd",
+      "status": "completed"
+    },
+    {
+      "id": "confusable-gui-lunyu-shanju",
+      "choiceId": "d",
+      "split": "tune",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": "absurd",
+      "status": "completed"
+    },
+    {
+      "id": "full-c-16-09-04-80",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "comparison",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-16-09-04-80",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "none",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-16-09-04-80",
+      "choiceId": "b",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-16-09-04-80",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-16-09-04-80",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-23-02-01",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "comparison",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-23-02-01",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "all",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-23-02-01",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-23-02-01",
+      "choiceId": "b",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-23-02-01",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-08-18-01-2",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "comparison",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-08-18-01-2",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-08-18-01-2",
+      "choiceId": "b",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-08-18-01-2",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-08-18-01-2",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-12-10-00-80",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "comparison",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-12-10-00-80",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-12-10-00-80",
+      "choiceId": "b",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-12-10-00-80",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-12-10-00-80",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e05-p28-b00-g47",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "word",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e05-p28-b00-g47",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e05-p28-b00-g47",
+      "choiceId": "b",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e05-p28-b00-g47",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e05-p28-b00-g47",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-d-16-01",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "recall",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-d-16-01",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "none",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-d-16-01",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "absurd",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-d-16-01",
+      "choiceId": "b",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-d-16-01",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "absurd",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-08-18-01-1",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "comparison",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-08-18-01-1",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "all",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-08-18-01-1",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-08-18-01-1",
+      "choiceId": "b",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-08-18-01-1",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-23-02-03",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "word",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-23-02-03",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-23-02-03",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-23-02-03",
+      "choiceId": "b",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-23-02-03",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-11-05-00-02",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "comparison",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-11-05-00-02",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-11-05-00-02",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-11-05-00-02",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-11-05-00-02",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "q-e10-exp-001",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "word",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "q-e10-exp-001",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "q-e10-exp-001",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "q-e10-exp-001",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "q-e10-exp-001",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-12-10-01-80",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "comparison",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-12-10-01-80",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-12-10-01-80",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-12-10-01-80",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-12-10-01-80",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-06-15-00-4",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "comparison",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-06-15-00-4",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "none",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-06-15-00-4",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-06-15-00-4",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-06-15-00-4",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e03-p03-b00-v03",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "word",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e03-p03-b00-v03",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e03-p03-b00-v03",
+      "choiceId": "b",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e03-p03-b00-v03",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e03-p03-b00-v03",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-16-09-01-04",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "comparison",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-16-09-01-04",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-16-09-01-04",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-16-09-01-04",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-16-09-01-04",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-28-04-80",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "comparison",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-28-04-80",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "all",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-28-04-80",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-28-04-80",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-28-04-80",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-04-08-80",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "comparison",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-04-08-80",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-04-08-80",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-04-08-80",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-04-08-80",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-14-09-00-80",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "comparison",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-14-09-00-80",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-14-09-00-80",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-14-09-00-80",
+      "choiceId": "b",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-14-09-00-80",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "q-comparison-002",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "comparison",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "q-comparison-002",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "all",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "q-comparison-002",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "q-comparison-002",
+      "choiceId": "b",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "q-comparison-002",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-d-13-05",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "recall",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-d-13-05",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-d-13-05",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-d-13-05",
+      "choiceId": "b",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-d-13-05",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "absurd",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-23-02-02",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "comparison",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-23-02-02",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-23-02-02",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-23-02-02",
+      "choiceId": "b",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-23-02-02",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-10-01-03-1",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "word",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-10-01-03-1",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "all",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-10-01-03-1",
+      "choiceId": "b",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-10-01-03-1",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-10-01-03-1",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-16-09-01-02",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "comparison",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-16-09-01-02",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-16-09-01-02",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-16-09-01-02",
+      "choiceId": "b",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-16-09-01-02",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-22-02-02",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "comparison",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-22-02-02",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-22-02-02",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-22-02-02",
+      "choiceId": "b",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-22-02-02",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e04-p03-b00-v02",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "word",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e04-p03-b00-v02",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "all",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e04-p03-b00-v02",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e04-p03-b00-v02",
+      "choiceId": "b",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e04-p03-b00-v02",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-06-16-00-6",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "effect",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-06-16-00-6",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-06-16-00-6",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-06-16-00-6",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-06-16-00-6",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-08-18-01-3",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "comparison",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-08-18-01-3",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "all",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-08-18-01-3",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-08-18-01-3",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-08-18-01-3",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e05-p12-b00-v03",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "word",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e05-p12-b00-v03",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e05-p12-b00-v03",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e05-p12-b00-v03",
+      "choiceId": "b",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e05-p12-b00-v03",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e03-p05-b00-x003",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "inference",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e03-p05-b00-x003",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "none",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e03-p05-b00-x003",
+      "choiceId": "b",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e03-p05-b00-x003",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e03-p05-b00-x003",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-d-10-09",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "recall",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-d-10-09",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-d-10-09",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-d-10-09",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "absurd",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-d-10-09",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-28-06-80",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "comparison",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-28-06-80",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-28-06-80",
+      "choiceId": "b",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-28-06-80",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-28-06-80",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-13-07-00-09",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "effect",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-13-07-00-09",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-13-07-00-09",
+      "choiceId": "b",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-13-07-00-09",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-13-07-00-09",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-10-10-02-13",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "inference",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-10-10-02-13",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "all",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-10-10-02-13",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-10-10-02-13",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-10-10-02-13",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-16-09-01-01",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "comparison",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-16-09-01-01",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-16-09-01-01",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-16-09-01-01",
+      "choiceId": "b",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-16-09-01-01",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-28-01-80",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "comparison",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-28-01-80",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-28-01-80",
+      "choiceId": "b",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-28-01-80",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-01-28-01-80",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e04-p01-b00-v11",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "word",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e04-p01-b00-v11",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e04-p01-b00-v11",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e04-p01-b00-v11",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e04-p01-b00-v11",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-11-05-00-08",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "effect",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-11-05-00-08",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "all",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-11-05-00-08",
+      "choiceId": "b",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-11-05-00-08",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-11-05-00-08",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e05-p03-b00-v00",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "word",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e05-p03-b00-v00",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "none",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e05-p03-b00-v00",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e05-p03-b00-v00",
+      "choiceId": "b",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-a-e05-p03-b00-v00",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-07-19-01-4",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "comparison",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-07-19-01-4",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-07-19-01-4",
+      "choiceId": "b",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-07-19-01-4",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-07-19-01-4",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-06-11-02-23",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "meaning",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-06-11-02-23",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "some",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-06-11-02-23",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-06-11-02-23",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-b-06-11-02-23",
+      "choiceId": "d",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "weak",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-16-09-03-01",
+      "split": "holdout",
+      "metric": "student/operation",
+      "expected": "comparison",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-16-09-03-01",
+      "split": "holdout",
+      "metric": "review/set_strength",
+      "expected": "all",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-16-09-03-01",
+      "choiceId": "a",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-16-09-03-01",
+      "choiceId": "b",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    },
+    {
+      "id": "full-c-16-09-03-01",
+      "choiceId": "c",
+      "split": "holdout",
+      "metric": "option/attraction",
+      "expected": "plausible",
+      "predicted": null,
+      "status": "not-run"
+    }
+  ]
+}

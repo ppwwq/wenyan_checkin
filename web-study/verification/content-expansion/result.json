@@ -1,0 +1,34 @@
+{
+  "result": "PASS",
+  "bankVersion": "2026.09.20.1",
+  "checks": [
+    {
+      "check": "Expanded bank and all sixteen essay cards",
+      "questions": 2131
+    },
+    {
+      "check": "Meaning filter includes all sentence comprehension and translation questions",
+      "available": 333
+    },
+    {
+      "check": "Explicit empty essay scope survives online reload"
+    },
+    {
+      "check": "Appendix-only practice opt-in",
+      "available": 151
+    },
+    {
+      "check": "Correct answer, explanation and source PDF",
+      "questionId": "full-d-00-00",
+      "page": 243
+    },
+    {
+      "check": "Appendix favorites and quick review label"
+    },
+    {
+      "check": "Expanded bank available after offline reload"
+    }
+  ],
+  "pageErrors": [],
+  "scope": "Isolated in-memory database and Chromium 768px. No production accounts or real iPad Safari used."
+}

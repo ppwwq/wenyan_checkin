@@ -1,0 +1,3 @@
+# Content and review manifests use exact-byte SHA-256 values across platforms.
+web-study/content/**/*.json -text whitespace=cr-at-eol
+tools/question-bank/**/*.json -text whitespace=cr-at-eol

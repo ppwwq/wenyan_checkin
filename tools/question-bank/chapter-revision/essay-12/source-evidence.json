@@ -1,0 +1,6315 @@
+{
+  "pdfSha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+  "sourceJsonSha256": "cefaae3260a7185997dfa0dc9ba40d76fe1e1bc70b69f962d0bb75a724681f62",
+  "freshPdfPages": [
+    189,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    206,
+    225,
+    243
+  ],
+  "errors": [],
+  "questions": {
+    "q-e12-exp-001": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第1組｜原文與語譯",
+          "pdfPage": 196,
+          "printedPage": 192,
+          "blockPath": "$[11].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "獨酌無相親"
+        },
+        "resolvedBlock": [
+          "annot",
+          "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          [
+            [
+              "酌",
+              "飲酒",
+              "blue"
+            ],
+            [
+              "相親",
+              "親近的友伴",
+              "blue"
+            ],
+            [
+              "邀",
+              "邀請",
+              "blue"
+            ],
+            [
+              "三人",
+              "我、明月、影子",
+              "blue"
+            ],
+            [
+              "解",
+              "懂得",
+              "blue"
+            ],
+            [
+              "徒",
+              "只、僅；含徒然意",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "酌",
+              "meaning": "飲酒",
+              "spans": [
+                [
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "相親",
+              "meaning": "親近的友伴",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "邀",
+              "meaning": "邀請",
+              "spans": [
+                [
+                  14,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "三人",
+              "meaning": "我、明月、影子",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "解",
+              "meaning": "懂得",
+              "spans": [
+                [
+                  27,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "徒",
+              "meaning": "只、僅；含徒然意",
+              "spans": [
+                [
+                  31,
+                  32
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e12-exp-002": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第1組｜原文與語譯",
+          "pdfPage": 196,
+          "printedPage": 192,
+          "blockPath": "$[11].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "月既不解飲"
+        },
+        "resolvedBlock": [
+          "annot",
+          "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          [
+            [
+              "酌",
+              "飲酒",
+              "blue"
+            ],
+            [
+              "相親",
+              "親近的友伴",
+              "blue"
+            ],
+            [
+              "邀",
+              "邀請",
+              "blue"
+            ],
+            [
+              "三人",
+              "我、明月、影子",
+              "blue"
+            ],
+            [
+              "解",
+              "懂得",
+              "blue"
+            ],
+            [
+              "徒",
+              "只、僅；含徒然意",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "酌",
+              "meaning": "飲酒",
+              "spans": [
+                [
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "相親",
+              "meaning": "親近的友伴",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "邀",
+              "meaning": "邀請",
+              "spans": [
+                [
+                  14,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "三人",
+              "meaning": "我、明月、影子",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "解",
+              "meaning": "懂得",
+              "spans": [
+                [
+                  27,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "徒",
+              "meaning": "只、僅；含徒然意",
+              "spans": [
+                [
+                  31,
+                  32
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e12-exp-003": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第2組｜原文與語譯",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "blockPath": "$[11].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "暫伴月將影"
+        },
+        "resolvedBlock": [
+          "annot",
+          "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          [
+            [
+              "暫",
+              "姑且、暫時",
+              "blue"
+            ],
+            [
+              "將",
+              "和",
+              "blue"
+            ],
+            [
+              "及",
+              "趁着",
+              "blue"
+            ],
+            [
+              "徘徊",
+              "往返流連",
+              "blue"
+            ],
+            [
+              "零亂",
+              "零散紛亂",
+              "blue"
+            ],
+            [
+              "交歡",
+              "共同歡樂",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "暫",
+              "meaning": "姑且、暫時",
+              "spans": [
+                [
+                  0,
+                  1
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "將",
+              "meaning": "和",
+              "spans": [
+                [
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "及",
+              "meaning": "趁着",
+              "spans": [
+                [
+                  9,
+                  10
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "徘徊",
+              "meaning": "往返流連",
+              "spans": [
+                [
+                  15,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "零亂",
+              "meaning": "零散紛亂",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "交歡",
+              "meaning": "共同歡樂",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e12-exp-004": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第2組｜原文與語譯",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "blockPath": "$[11].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "行樂須及春"
+        },
+        "resolvedBlock": [
+          "annot",
+          "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          [
+            [
+              "暫",
+              "姑且、暫時",
+              "blue"
+            ],
+            [
+              "將",
+              "和",
+              "blue"
+            ],
+            [
+              "及",
+              "趁着",
+              "blue"
+            ],
+            [
+              "徘徊",
+              "往返流連",
+              "blue"
+            ],
+            [
+              "零亂",
+              "零散紛亂",
+              "blue"
+            ],
+            [
+              "交歡",
+              "共同歡樂",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "暫",
+              "meaning": "姑且、暫時",
+              "spans": [
+                [
+                  0,
+                  1
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "將",
+              "meaning": "和",
+              "spans": [
+                [
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "及",
+              "meaning": "趁着",
+              "spans": [
+                [
+                  9,
+                  10
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "徘徊",
+              "meaning": "往返流連",
+              "spans": [
+                [
+                  15,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "零亂",
+              "meaning": "零散紛亂",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "交歡",
+              "meaning": "共同歡樂",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e12-exp-005": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第3組｜原文與語譯",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "blockPath": "$[11].pages[3].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "相期邈雲漢"
+        },
+        "resolvedBlock": [
+          "annot",
+          "永結無情遊，相期邈雲漢。",
+          [
+            [
+              "永結",
+              "永遠結伴的願望",
+              "blue"
+            ],
+            [
+              "無情遊",
+              "忘卻世情的交遊；亦可指與無情月影為伴",
+              "blue"
+            ],
+            [
+              "相期",
+              "相約",
+              "blue"
+            ],
+            [
+              "邈",
+              "遙遠",
+              "blue"
+            ],
+            [
+              "雲漢",
+              "銀河",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "永結",
+              "meaning": "永遠結伴的願望",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "無情遊",
+              "meaning": "忘卻世情的交遊；亦可指與無情月影為伴",
+              "spans": [
+                [
+                  2,
+                  5
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "相期",
+              "meaning": "相約",
+              "spans": [
+                [
+                  6,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "邈",
+              "meaning": "遙遠",
+              "spans": [
+                [
+                  8,
+                  9
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "雲漢",
+              "meaning": "銀河",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e12-exp-006": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第1組｜原文與語譯",
+          "pdfPage": 196,
+          "printedPage": 192,
+          "blockPath": "$[11].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "舉杯邀明月，對影成三人"
+        },
+        "resolvedBlock": [
+          "annot",
+          "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          [
+            [
+              "酌",
+              "飲酒",
+              "blue"
+            ],
+            [
+              "相親",
+              "親近的友伴",
+              "blue"
+            ],
+            [
+              "邀",
+              "邀請",
+              "blue"
+            ],
+            [
+              "三人",
+              "我、明月、影子",
+              "blue"
+            ],
+            [
+              "解",
+              "懂得",
+              "blue"
+            ],
+            [
+              "徒",
+              "只、僅；含徒然意",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "酌",
+              "meaning": "飲酒",
+              "spans": [
+                [
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "相親",
+              "meaning": "親近的友伴",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "邀",
+              "meaning": "邀請",
+              "spans": [
+                [
+                  14,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "三人",
+              "meaning": "我、明月、影子",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "解",
+              "meaning": "懂得",
+              "spans": [
+                [
+                  27,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "徒",
+              "meaning": "只、僅；含徒然意",
+              "spans": [
+                [
+                  31,
+                  32
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e12-exp-007": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第1組｜原文與語譯",
+          "pdfPage": 196,
+          "printedPage": 192,
+          "blockPath": "$[11].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "月既不解飲，影徒隨我身"
+        },
+        "resolvedBlock": [
+          "annot",
+          "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          [
+            [
+              "酌",
+              "飲酒",
+              "blue"
+            ],
+            [
+              "相親",
+              "親近的友伴",
+              "blue"
+            ],
+            [
+              "邀",
+              "邀請",
+              "blue"
+            ],
+            [
+              "三人",
+              "我、明月、影子",
+              "blue"
+            ],
+            [
+              "解",
+              "懂得",
+              "blue"
+            ],
+            [
+              "徒",
+              "只、僅；含徒然意",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "酌",
+              "meaning": "飲酒",
+              "spans": [
+                [
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "相親",
+              "meaning": "親近的友伴",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "邀",
+              "meaning": "邀請",
+              "spans": [
+                [
+                  14,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "三人",
+              "meaning": "我、明月、影子",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "解",
+              "meaning": "懂得",
+              "spans": [
+                [
+                  27,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "徒",
+              "meaning": "只、僅；含徒然意",
+              "spans": [
+                [
+                  31,
+                  32
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e12-exp-008": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第1組｜原文與語譯",
+          "pdfPage": 196,
+          "printedPage": 192,
+          "blockPath": "$[11].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "舉杯邀明月"
+        },
+        "resolvedBlock": [
+          "annot",
+          "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          [
+            [
+              "酌",
+              "飲酒",
+              "blue"
+            ],
+            [
+              "相親",
+              "親近的友伴",
+              "blue"
+            ],
+            [
+              "邀",
+              "邀請",
+              "blue"
+            ],
+            [
+              "三人",
+              "我、明月、影子",
+              "blue"
+            ],
+            [
+              "解",
+              "懂得",
+              "blue"
+            ],
+            [
+              "徒",
+              "只、僅；含徒然意",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "酌",
+              "meaning": "飲酒",
+              "spans": [
+                [
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "相親",
+              "meaning": "親近的友伴",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "邀",
+              "meaning": "邀請",
+              "spans": [
+                [
+                  14,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "三人",
+              "meaning": "我、明月、影子",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "解",
+              "meaning": "懂得",
+              "spans": [
+                [
+                  27,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "徒",
+              "meaning": "只、僅；含徒然意",
+              "spans": [
+                [
+                  31,
+                  32
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-appendix-003": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書｜手法附錄",
+          "section": "修辭｜形象與聯想",
+          "jsonFile": "appendix-content.json",
+          "blockPath": "$appendix.sections[0].rows[1]",
+          "anchor": "借助想像，把物當人、把人當物，或把甲物當乙物。",
+          "pdfPage": 243,
+          "printedPage": "附錄2",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14",
+          "relatedSources": [
+            {
+              "title": "月下獨酌",
+              "jsonFile": "student-content.json",
+              "blockPath": "$[11].pages[2].blocks[0]",
+              "quote": "我歌月徘徊，我舞影零亂",
+              "anchor": "我歌月徘徊，我舞影零亂",
+              "pdfPage": 197,
+              "printedPage": 193,
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "version": "2026-09-14"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "比擬",
+          "借助想像，把物當人、把人當物，或把甲物當乙物。\n擬人：賦予物人的行動、言語、思想感情。\n擬物：把人當物，賦予物的特性或行為；也可把甲物當乙物。\n作用：突出形象或性格，令描寫生動，寄託感情；要說明被賦予甚麼特徵。",
+          "擬人：「成羣的白鷺鷥在凝神養氣，誰也不叫一聲。」（梁容若《我看大明湖》）\n擬物：「十指在翻飛疾走，把驟雨潑落窗格和浮萍。」把十指當鳥和獸來寫。（黃國彬《聽陳蕾士的琴箏》）\n「月徘徊、影零亂」也把月、影人格化。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "月下獨酌",
+          "jsonFile": "student-content.json",
+          "blockPath": "$[11].pages[2].blocks[0]",
+          "quote": "我歌月徘徊，我舞影零亂",
+          "anchor": "我歌月徘徊，我舞影零亂",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14"
+        },
+        "resolvedBlock": [
+          "annot",
+          "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          [
+            [
+              "暫",
+              "姑且、暫時",
+              "blue"
+            ],
+            [
+              "將",
+              "和",
+              "blue"
+            ],
+            [
+              "及",
+              "趁着",
+              "blue"
+            ],
+            [
+              "徘徊",
+              "往返流連",
+              "blue"
+            ],
+            [
+              "零亂",
+              "零散紛亂",
+              "blue"
+            ],
+            [
+              "交歡",
+              "共同歡樂",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "暫",
+              "meaning": "姑且、暫時",
+              "spans": [
+                [
+                  0,
+                  1
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "將",
+              "meaning": "和",
+              "spans": [
+                [
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "及",
+              "meaning": "趁着",
+              "spans": [
+                [
+                  9,
+                  10
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "徘徊",
+              "meaning": "往返流連",
+              "spans": [
+                [
+                  15,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "零亂",
+              "meaning": "零散紛亂",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "交歡",
+              "meaning": "共同歡樂",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-comparison-002": [
+      {
+        "source": {
+          "title": "山居秋暝",
+          "jsonFile": "student-content.json",
+          "blockPath": "$[10].pages[2].blocks[0]",
+          "quote": "竹喧歸浣女，蓮動下漁舟",
+          "anchor": "竹喧歸浣女，蓮動下漁舟",
+          "pdfPage": 189,
+          "printedPage": 185,
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14",
+          "relatedSources": [
+            {
+              "title": "月下獨酌",
+              "jsonFile": "student-content.json",
+              "blockPath": "$[11].pages[1].blocks[0]",
+              "quote": "舉杯邀明月，對影成三人",
+              "anchor": "舉杯邀明月，對影成三人",
+              "pdfPage": 196,
+              "printedPage": 192,
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "version": "2026-09-14"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "annot",
+          "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+          [
+            [
+              "喧",
+              "喧鬧",
+              "blue"
+            ],
+            [
+              "歸",
+              "回來",
+              "blue"
+            ],
+            [
+              "浣",
+              "洗衣",
+              "blue"
+            ],
+            [
+              "下",
+              "順流而下",
+              "blue"
+            ],
+            [
+              "隨意",
+              "任憑",
+              "blue"
+            ],
+            [
+              "春芳",
+              "春天的花草",
+              "blue"
+            ],
+            [
+              "歇",
+              "凋謝",
+              "blue"
+            ],
+            [
+              "王孫",
+              "隱士，借指自己",
+              "blue"
+            ],
+            [
+              "自",
+              "自然",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "喧",
+              "meaning": "喧鬧",
+              "spans": [
+                [
+                  1,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "歸",
+              "meaning": "回來",
+              "spans": [
+                [
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "浣",
+              "meaning": "洗衣",
+              "spans": [
+                [
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "下",
+              "meaning": "順流而下",
+              "spans": [
+                [
+                  8,
+                  9
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "隨意",
+              "meaning": "任憑",
+              "spans": [
+                [
+                  12,
+                  14
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "春芳",
+              "meaning": "春天的花草",
+              "spans": [
+                [
+                  14,
+                  16
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "歇",
+              "meaning": "凋謝",
+              "spans": [
+                [
+                  16,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "王孫",
+              "meaning": "隱士，借指自己",
+              "spans": [
+                [
+                  18,
+                  20
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "自",
+              "meaning": "自然",
+              "spans": [
+                [
+                  20,
+                  21
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "月下獨酌",
+          "jsonFile": "student-content.json",
+          "blockPath": "$[11].pages[1].blocks[0]",
+          "quote": "舉杯邀明月，對影成三人",
+          "anchor": "舉杯邀明月，對影成三人",
+          "pdfPage": 196,
+          "printedPage": 192,
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14"
+        },
+        "resolvedBlock": [
+          "annot",
+          "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          [
+            [
+              "酌",
+              "飲酒",
+              "blue"
+            ],
+            [
+              "相親",
+              "親近的友伴",
+              "blue"
+            ],
+            [
+              "邀",
+              "邀請",
+              "blue"
+            ],
+            [
+              "三人",
+              "我、明月、影子",
+              "blue"
+            ],
+            [
+              "解",
+              "懂得",
+              "blue"
+            ],
+            [
+              "徒",
+              "只、僅；含徒然意",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "酌",
+              "meaning": "飲酒",
+              "spans": [
+                [
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "相親",
+              "meaning": "親近的友伴",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "邀",
+              "meaning": "邀請",
+              "spans": [
+                [
+                  14,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "三人",
+              "meaning": "我、明月、影子",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "解",
+              "meaning": "懂得",
+              "spans": [
+                [
+                  27,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "徒",
+              "meaning": "只、僅；含徒然意",
+              "spans": [
+                [
+                  31,
+                  32
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-01-03-00": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 196,
+          "printedPage": 192,
+          "blockPath": "$[11].pages[1].blocks[3][1][0]",
+          "anchor": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          "excerpt": "酌：飲酒"
+        },
+        "resolvedBlock": [
+          "酌",
+          "飲酒",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-01-03-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 196,
+          "printedPage": 192,
+          "blockPath": "$[11].pages[1].blocks[3][1][2]",
+          "anchor": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          "excerpt": "邀：邀請"
+        },
+        "resolvedBlock": [
+          "邀",
+          "邀請",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-01-03-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 196,
+          "printedPage": 192,
+          "blockPath": "$[11].pages[1].blocks[3][1][3]",
+          "anchor": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          "excerpt": "三人：我、明月、影子"
+        },
+        "resolvedBlock": [
+          "三人",
+          "我、明月、影子",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-01-03-05": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 196,
+          "printedPage": 192,
+          "blockPath": "$[11].pages[1].blocks[3][1][5]",
+          "anchor": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          "excerpt": "徒：只、僅；含徒然意"
+        },
+        "resolvedBlock": [
+          "徒",
+          "只、僅；含徒然意",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-02-03-00": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "blockPath": "$[11].pages[2].blocks[3][1][0]",
+          "anchor": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          "excerpt": "暫：姑且、暫時"
+        },
+        "resolvedBlock": [
+          "暫",
+          "姑且、暫時",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-02-03-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "blockPath": "$[11].pages[2].blocks[3][1][3]",
+          "anchor": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          "excerpt": "徘徊：往返流連"
+        },
+        "resolvedBlock": [
+          "徘徊",
+          "往返流連",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-02-03-04": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "blockPath": "$[11].pages[2].blocks[3][1][4]",
+          "anchor": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          "excerpt": "零亂：零散紛亂"
+        },
+        "resolvedBlock": [
+          "零亂",
+          "零散紛亂",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-02-03-05": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "blockPath": "$[11].pages[2].blocks[3][1][5]",
+          "anchor": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          "excerpt": "交歡：共同歡樂"
+        },
+        "resolvedBlock": [
+          "交歡",
+          "共同歡樂",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-03-03-00": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "blockPath": "$[11].pages[3].blocks[3][1][0]",
+          "anchor": "永結無情遊，相期邈雲漢。",
+          "excerpt": "永結：永遠結伴的願望"
+        },
+        "resolvedBlock": [
+          "永結",
+          "永遠結伴的願望",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-03-03-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "blockPath": "$[11].pages[3].blocks[3][1][1]",
+          "anchor": "永結無情遊，相期邈雲漢。",
+          "excerpt": "無情遊：忘卻世情的交遊；亦可指與無情月影為伴"
+        },
+        "resolvedBlock": [
+          "無情遊",
+          "忘卻世情的交遊；亦可指與無情月影為伴",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-03-03-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "blockPath": "$[11].pages[3].blocks[3][1][2]",
+          "anchor": "永結無情遊，相期邈雲漢。",
+          "excerpt": "相期：相約"
+        },
+        "resolvedBlock": [
+          "相期",
+          "相約",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-03-03-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "blockPath": "$[11].pages[3].blocks[3][1][3]",
+          "anchor": "永結無情遊，相期邈雲漢。",
+          "excerpt": "邈：遙遠"
+        },
+        "resolvedBlock": [
+          "邈",
+          "遙遠",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-01-00-90": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 195,
+          "printedPage": 191,
+          "blockPath": "$[11].pages[1].blocks[0]",
+          "anchor": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          "excerpt": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。"
+        },
+        "resolvedBlock": [
+          "annot",
+          "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          [
+            [
+              "酌",
+              "飲酒",
+              "blue"
+            ],
+            [
+              "相親",
+              "親近的友伴",
+              "blue"
+            ],
+            [
+              "邀",
+              "邀請",
+              "blue"
+            ],
+            [
+              "三人",
+              "我、明月、影子",
+              "blue"
+            ],
+            [
+              "解",
+              "懂得",
+              "blue"
+            ],
+            [
+              "徒",
+              "只、僅；含徒然意",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "酌",
+              "meaning": "飲酒",
+              "spans": [
+                [
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "相親",
+              "meaning": "親近的友伴",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "邀",
+              "meaning": "邀請",
+              "spans": [
+                [
+                  14,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "三人",
+              "meaning": "我、明月、影子",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "解",
+              "meaning": "懂得",
+              "spans": [
+                [
+                  27,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "徒",
+              "meaning": "只、僅；含徒然意",
+              "spans": [
+                [
+                  31,
+                  32
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-02-00-90": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 195,
+          "printedPage": 191,
+          "blockPath": "$[11].pages[2].blocks[0]",
+          "anchor": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          "excerpt": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。"
+        },
+        "resolvedBlock": [
+          "annot",
+          "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          [
+            [
+              "暫",
+              "姑且、暫時",
+              "blue"
+            ],
+            [
+              "將",
+              "和",
+              "blue"
+            ],
+            [
+              "及",
+              "趁着",
+              "blue"
+            ],
+            [
+              "徘徊",
+              "往返流連",
+              "blue"
+            ],
+            [
+              "零亂",
+              "零散紛亂",
+              "blue"
+            ],
+            [
+              "交歡",
+              "共同歡樂",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "暫",
+              "meaning": "姑且、暫時",
+              "spans": [
+                [
+                  0,
+                  1
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "將",
+              "meaning": "和",
+              "spans": [
+                [
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "及",
+              "meaning": "趁着",
+              "spans": [
+                [
+                  9,
+                  10
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "徘徊",
+              "meaning": "往返流連",
+              "spans": [
+                [
+                  15,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "零亂",
+              "meaning": "零散紛亂",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "交歡",
+              "meaning": "共同歡樂",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-03-00-90": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 195,
+          "printedPage": 191,
+          "blockPath": "$[11].pages[3].blocks[0]",
+          "anchor": "永結無情遊，相期邈雲漢。",
+          "excerpt": "永結無情遊，相期邈雲漢。"
+        },
+        "resolvedBlock": [
+          "annot",
+          "永結無情遊，相期邈雲漢。",
+          [
+            [
+              "永結",
+              "永遠結伴的願望",
+              "blue"
+            ],
+            [
+              "無情遊",
+              "忘卻世情的交遊；亦可指與無情月影為伴",
+              "blue"
+            ],
+            [
+              "相期",
+              "相約",
+              "blue"
+            ],
+            [
+              "邈",
+              "遙遠",
+              "blue"
+            ],
+            [
+              "雲漢",
+              "銀河",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "永結",
+              "meaning": "永遠結伴的願望",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "無情遊",
+              "meaning": "忘卻世情的交遊；亦可指與無情月影為伴",
+              "spans": [
+                [
+                  2,
+                  5
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "相期",
+              "meaning": "相約",
+              "spans": [
+                [
+                  6,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "邈",
+              "meaning": "遙遠",
+              "spans": [
+                [
+                  8,
+                  9
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "雲漢",
+              "meaning": "銀河",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-00-01-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 194,
+          "printedPage": 190,
+          "blockPath": "$[11].pages[0].blocks[1]",
+          "anchor": "現實中沒有知己，詩人想像月影相伴，在孤獨與自我排遣之間起伏。",
+          "excerpt": "現實中沒有知己，詩人想像月影相伴，在孤獨與自我排遣之間起伏。"
+        },
+        "resolvedBlock": [
+          "band",
+          "現實中沒有知己，詩人想像月影相伴，在孤獨與自我排遣之間起伏。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-00-03-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 194,
+          "printedPage": 190,
+          "blockPath": "$[11].pages[0].blocks[3]",
+          "anchor": "無伴→邀月影→發現不能相知→暫且行樂→醉散→相約再遊",
+          "excerpt": "無伴→邀月影→發現不能相知→暫且行樂→醉散→相約再遊"
+        },
+        "resolvedBlock": [
+          "text",
+          "無伴→邀月影→發現不能相知→暫且行樂→醉散→相約再遊"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-00-05-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 194,
+          "printedPage": 190,
+          "blockPath": "$[11].pages[0].blocks[5]",
+          "anchor": "我、月、影是想像中的三人。「暫」與「永」分別指眼前相伴和未來願望。",
+          "excerpt": "我、月、影是想像中的三人。「暫」與「永」分別指眼前相伴和未來願望。"
+        },
+        "resolvedBlock": [
+          "text",
+          "我、月、影是想像中的三人。「暫」與「永」分別指眼前相伴和未來願望。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-00-07-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 194,
+          "printedPage": 190,
+          "blockPath": "$[11].pages[0].blocks[7]",
+          "anchor": "十四句，每句五字；屬古體詩，不能套用律詩四聯的名稱。",
+          "excerpt": "十四句，每句五字；屬古體詩，不能套用律詩四聯的名稱。"
+        },
+        "resolvedBlock": [
+          "text",
+          "十四句，每句五字；屬古體詩，不能套用律詩四聯的名稱。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-01-04-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 196,
+          "printedPage": 192,
+          "blockPath": "$[11].pages[1].blocks[4]",
+          "anchor": "「三人」是我、月、影，沒有真正來了兩位朋友。邀月的熱鬧與不解飲的失落，正構成情感起伏。",
+          "excerpt": "「三人」是我、月、影，沒有真正來了兩位朋友。邀月的熱鬧與不解飲的失落，正構成情感起伏。"
+        },
+        "resolvedBlock": [
+          "note",
+          "「三人」是我、月、影，沒有真正來了兩位朋友。邀月的熱鬧與不解飲的失落，正構成情感起伏。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-02-04-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "blockPath": "$[11].pages[2].blocks[4]",
+          "anchor": "「暫」限定眼前相伴的時間；我歌我舞顯出主動排遣。月影的回應是想像，不能據此說現實孤獨已完全解除。",
+          "excerpt": "「暫」限定眼前相伴的時間；我歌我舞顯出主動排遣。月影的回應是想像，不能據此說現實孤獨已完全解除。"
+        },
+        "resolvedBlock": [
+          "note",
+          "「暫」限定眼前相伴的時間；我歌我舞顯出主動排遣。月影的回應是想像，不能據此說現實孤獨已完全解除。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-03-04-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "blockPath": "$[11].pages[3].blocks[4]",
+          "anchor": "「無情」可以指忘卻世情，也可從月影沒有感情理解。它不等於冷酷無情；「相期」仍是願望。",
+          "excerpt": "「無情」可以指忘卻世情，也可從月影沒有感情理解。它不等於冷酷無情；「相期」仍是願望。"
+        },
+        "resolvedBlock": [
+          "note",
+          "「無情」可以指忘卻世情，也可從月影沒有感情理解。它不等於冷酷無情；「相期」仍是願望。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-04-00-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 198,
+          "printedPage": 194,
+          "blockPath": "$[11].pages[4].blocks[0][1][3]",
+          "anchor": "一壺 花間一壺酒 一壺酒，寫自斟慢酌的情態；用字平易而有韻味。",
+          "excerpt": "一壺酒，寫自斟慢酌的情態；用字平易而有韻味。"
+        },
+        "resolvedBlock": [
+          "一壺",
+          "花間一壺酒",
+          "一壺酒，寫自斟慢酌的情態；用字平易而有韻味。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-04-00-04": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 198,
+          "printedPage": 194,
+          "blockPath": "$[11].pages[4].blocks[0][1][4]",
+          "anchor": "相親 獨酌無相親 互相親近；「無相親」指沒有可以親近的人、友伴，流露欲有人相親而不可得。",
+          "excerpt": "互相親近；「無相親」指沒有可以親近的人、友伴，流露欲有人相親而不可得。"
+        },
+        "resolvedBlock": [
+          "相親",
+          "獨酌無相親",
+          "互相親近；「無相親」指沒有可以親近的人、友伴，流露欲有人相親而不可得。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-04-00-06": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 198,
+          "printedPage": 194,
+          "blockPath": "$[11].pages[4].blocks[0][1][6]",
+          "anchor": "三人 對影成三人 我、月、影。把無生命的月影想像為朋友，從獨轉為似不獨。",
+          "excerpt": "我、月、影。把無生命的月影想像為朋友，從獨轉為似不獨。"
+        },
+        "resolvedBlock": [
+          "三人",
+          "對影成三人",
+          "我、月、影。把無生命的月影想像為朋友，從獨轉為似不獨。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-04-00-07": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 198,
+          "printedPage": 194,
+          "blockPath": "$[11].pages[4].blocks[0][1][7]",
+          "anchor": "既 月既不解飲 既然；與下句影徒相接，帶出月影不能相知的無奈。",
+          "excerpt": "既然；與下句影徒相接，帶出月影不能相知的無奈。"
+        },
+        "resolvedBlock": [
+          "既",
+          "月既不解飲",
+          "既然；與下句影徒相接，帶出月影不能相知的無奈。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-04-00-09": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 198,
+          "printedPage": 194,
+          "blockPath": "$[11].pages[4].blocks[0][1][9]",
+          "anchor": "徒 影徒隨我身 只、僅，兼有徒然、白白相隨的意味。影子只能隨身，不能真正理解詩人的心情。",
+          "excerpt": "只、僅，兼有徒然、白白相隨的意味。影子只能隨身，不能真正理解詩人的心情。"
+        },
+        "resolvedBlock": [
+          "徒",
+          "影徒隨我身",
+          "只、僅，兼有徒然、白白相隨的意味。影子只能隨身，不能真正理解詩人的心情。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-04-00-10": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 198,
+          "printedPage": 194,
+          "blockPath": "$[11].pages[4].blocks[0][1][10]",
+          "anchor": "暫 暫伴月將影 暫時、姑且，限定月影相伴只是片刻；由此說片刻解脫可貴而悲哀，2023另一可接受角度則說不求天長地久、享受當下。",
+          "excerpt": "暫時、姑且，限定月影相伴只是片刻；由此說片刻解脫可貴而悲哀，2023另一可接受角度則說不求天長地久、享受當下。"
+        },
+        "resolvedBlock": [
+          "暫",
+          "暫伴月將影",
+          "暫時、姑且，限定月影相伴只是片刻；由此說片刻解脫可貴而悲哀，2023另一可接受角度則說不求天長地久、享受當下。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-04-00-12": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 198,
+          "printedPage": 194,
+          "blockPath": "$[11].pages[4].blocks[0][1][12]",
+          "anchor": "徘徊 我歌月徘徊 往返迴旋、流連不去；想像月亮傾聽歌聲。",
+          "excerpt": "往返迴旋、流連不去；想像月亮傾聽歌聲。"
+        },
+        "resolvedBlock": [
+          "徘徊",
+          "我歌月徘徊",
+          "往返迴旋、流連不去；想像月亮傾聽歌聲。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-04-00-13": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 198,
+          "printedPage": 194,
+          "blockPath": "$[11].pages[4].blocks[0][1][13]",
+          "anchor": "零亂 我舞影零亂 零散、紛亂；影隨舞動搖曳。另列雙聲，兩字聲母相同，屬音韻特色。",
+          "excerpt": "零散、紛亂；影隨舞動搖曳。另列雙聲，兩字聲母相同，屬音韻特色。"
+        },
+        "resolvedBlock": [
+          "零亂",
+          "我舞影零亂",
+          "零散、紛亂；影隨舞動搖曳。另列雙聲，兩字聲母相同，屬音韻特色。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-04-00-15": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 198,
+          "printedPage": 194,
+          "blockPath": "$[11].pages[4].blocks[0][1][15]",
+          "anchor": "分散 醉後各分散 別離。醒／醉、同／各、歡／散形成對照。",
+          "excerpt": "別離。醒／醉、同／各、歡／散形成對照。"
+        },
+        "resolvedBlock": [
+          "分散",
+          "醉後各分散",
+          "別離。醒／醉、同／各、歡／散形成對照。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-04-00-17": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 199,
+          "printedPage": 195,
+          "blockPath": "$[11].pages[4].blocks[0][1][17]",
+          "anchor": "相期 相期邈雲漢 相約、約定。寫願望，不能直接當作已實現的事實。",
+          "excerpt": "相約、約定。寫願望，不能直接當作已實現的事實。"
+        },
+        "resolvedBlock": [
+          "相期",
+          "相期邈雲漢",
+          "相約、約定。寫願望，不能直接當作已實現的事實。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-04-00-19": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 199,
+          "printedPage": 195,
+          "blockPath": "$[11].pages[4].blocks[0][1][19]",
+          "anchor": "雲漢 相期邈雲漢 銀河。想像由眼前拓展至天上、未來。",
+          "excerpt": "銀河。想像由眼前拓展至天上、未來。"
+        },
+        "resolvedBlock": [
+          "雲漢",
+          "相期邈雲漢",
+          "銀河。想像由眼前拓展至天上、未來。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-05-00-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 199,
+          "printedPage": 195,
+          "blockPath": "$[11].pages[5].blocks[0][1][1]",
+          "anchor": "無情遊 永結無情遊 忘卻世情、不受人間得失束縛的交遊；也可聯繫月影沒有人的情感來理解。此處指向超越俗情的相伴，不是冷酷待人。",
+          "excerpt": "忘卻世情、不受人間得失束縛的交遊；也可聯繫月影沒有人的情感來理解。此處指向超越俗情的相伴，不是冷酷待人。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "月下獨酌",
+              "section": "原文第1組｜原文與語譯",
+              "pdfPage": 196,
+              "printedPage": 192,
+              "blockPath": "$[11].pages[1].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+              "excerpt": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+              "essayId": "essay-12"
+            },
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "月下獨酌",
+              "section": "原文第3組｜原文與語譯",
+              "pdfPage": 197,
+              "printedPage": 193,
+              "blockPath": "$[11].pages[3].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "永結無情遊，相期邈雲漢。",
+              "excerpt": "永結無情遊，相期邈雲漢。",
+              "essayId": "essay-12"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "無情遊",
+          "永結無情遊",
+          "忘卻世情、不受人間得失束縛的交遊；也可聯繫月影沒有人的情感來理解。此處指向超越俗情的相伴，不是冷酷待人。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第1組｜原文與語譯",
+          "pdfPage": 196,
+          "printedPage": 192,
+          "blockPath": "$[11].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          "excerpt": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          "essayId": "essay-12"
+        },
+        "resolvedBlock": [
+          "annot",
+          "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          [
+            [
+              "酌",
+              "飲酒",
+              "blue"
+            ],
+            [
+              "相親",
+              "親近的友伴",
+              "blue"
+            ],
+            [
+              "邀",
+              "邀請",
+              "blue"
+            ],
+            [
+              "三人",
+              "我、明月、影子",
+              "blue"
+            ],
+            [
+              "解",
+              "懂得",
+              "blue"
+            ],
+            [
+              "徒",
+              "只、僅；含徒然意",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "酌",
+              "meaning": "飲酒",
+              "spans": [
+                [
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "相親",
+              "meaning": "親近的友伴",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "邀",
+              "meaning": "邀請",
+              "spans": [
+                [
+                  14,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "三人",
+              "meaning": "我、明月、影子",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "解",
+              "meaning": "懂得",
+              "spans": [
+                [
+                  27,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "徒",
+              "meaning": "只、僅；含徒然意",
+              "spans": [
+                [
+                  31,
+                  32
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第3組｜原文與語譯",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "blockPath": "$[11].pages[3].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "永結無情遊，相期邈雲漢。",
+          "excerpt": "永結無情遊，相期邈雲漢。",
+          "essayId": "essay-12"
+        },
+        "resolvedBlock": [
+          "annot",
+          "永結無情遊，相期邈雲漢。",
+          [
+            [
+              "永結",
+              "永遠結伴的願望",
+              "blue"
+            ],
+            [
+              "無情遊",
+              "忘卻世情的交遊；亦可指與無情月影為伴",
+              "blue"
+            ],
+            [
+              "相期",
+              "相約",
+              "blue"
+            ],
+            [
+              "邈",
+              "遙遠",
+              "blue"
+            ],
+            [
+              "雲漢",
+              "銀河",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "永結",
+              "meaning": "永遠結伴的願望",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "無情遊",
+              "meaning": "忘卻世情的交遊；亦可指與無情月影為伴",
+              "spans": [
+                [
+                  2,
+                  5
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "相期",
+              "meaning": "相約",
+              "spans": [
+                [
+                  6,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "邈",
+              "meaning": "遙遠",
+              "spans": [
+                [
+                  8,
+                  9
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "雲漢",
+              "meaning": "銀河",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-05-01-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 199,
+          "printedPage": 195,
+          "blockPath": "$[11].pages[5].blocks[1]",
+          "anchor": "「無情」亦可反襯「我」有情：月影不識人意，我仍願邀其再遊，顯出深情與對陪伴的渴望。「徒」突顯無法改變事實的無奈；「暫」的悲哀讀法與享受當下讀法須依全篇立場論證，不混成唯一詞義。",
+          "excerpt": "「無情」亦可反襯「我」有情：月影不識人意，我仍願邀其再遊，顯出深情與對陪伴的渴望。「徒」突顯無法改變事實的無奈；「暫」的悲哀讀法與享受當下讀法須依全篇立場論證，不混成唯一詞義。"
+        },
+        "resolvedBlock": [
+          "text",
+          "「無情」亦可反襯「我」有情：月影不識人意，我仍願邀其再遊，顯出深情與對陪伴的渴望。「徒」突顯無法改變事實的無奈；「暫」的悲哀讀法與享受當下讀法須依全篇立場論證，不混成唯一詞義。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-06-00-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 199,
+          "printedPage": 195,
+          "blockPath": "$[11].pages[6].blocks[0][1][1]",
+          "anchor": "1—2：花間獨酌 繁花盛開，詩人獨自斟飲，無人相伴，孤獨寂寞。",
+          "excerpt": "繁花盛開，詩人獨自斟飲，無人相伴，孤獨寂寞。"
+        },
+        "resolvedBlock": [
+          "1—2：花間獨酌",
+          "繁花盛開，詩人獨自斟飲，無人相伴，孤獨寂寞。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-06-00-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 199,
+          "printedPage": 195,
+          "blockPath": "$[11].pages[6].blocks[0][1][2]",
+          "anchor": "3—4：邀月對影 想像邀月影對飲，成三人，冷清轉熱鬧，似找到伴侶而獲慰藉；熱鬧出於想像，更顯現實無友。",
+          "excerpt": "想像邀月影對飲，成三人，冷清轉熱鬧，似找到伴侶而獲慰藉；熱鬧出於想像，更顯現實無友。"
+        },
+        "resolvedBlock": [
+          "3—4：邀月對影",
+          "想像邀月影對飲，成三人，冷清轉熱鬧，似找到伴侶而獲慰藉；熱鬧出於想像，更顯現實無友。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-06-00-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 199,
+          "printedPage": 195,
+          "blockPath": "$[11].pages[6].blocks[0][1][3]",
+          "anchor": "5—6：月影不解 月不懂飲酒，影只隨身而動，兩者不識人心、不解人意，詩人回落到失落、孤單與無奈。",
+          "excerpt": "月不懂飲酒，影只隨身而動，兩者不識人心、不解人意，詩人回落到失落、孤單與無奈。"
+        },
+        "resolvedBlock": [
+          "5—6：月影不解",
+          "月不懂飲酒，影只隨身而動，兩者不識人心、不解人意，詩人回落到失落、孤單與無奈。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-06-00-04": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 199,
+          "printedPage": 195,
+          "blockPath": "$[11].pages[6].blocks[0][1][4]",
+          "anchor": "7—8：暫伴及春 不願辜負春夜良辰，姑且以月影為伴，及時行樂，自我開解；既可見曠達，亦可見聊勝於無、更添苦悶。",
+          "excerpt": "不願辜負春夜良辰，姑且以月影為伴，及時行樂，自我開解；既可見曠達，亦可見聊勝於無、更添苦悶。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "月下獨酌",
+              "section": "原文第1組｜原文與語譯",
+              "pdfPage": 196,
+              "printedPage": 192,
+              "blockPath": "$[11].pages[1].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+              "excerpt": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+              "essayId": "essay-12"
+            },
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "月下獨酌",
+              "section": "原文第2組｜原文與語譯",
+              "pdfPage": 197,
+              "printedPage": 193,
+              "blockPath": "$[11].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+              "excerpt": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+              "essayId": "essay-12"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "7—8：暫伴及春",
+          "不願辜負春夜良辰，姑且以月影為伴，及時行樂，自我開解；既可見曠達，亦可見聊勝於無、更添苦悶。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第1組｜原文與語譯",
+          "pdfPage": 196,
+          "printedPage": 192,
+          "blockPath": "$[11].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          "excerpt": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          "essayId": "essay-12"
+        },
+        "resolvedBlock": [
+          "annot",
+          "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          [
+            [
+              "酌",
+              "飲酒",
+              "blue"
+            ],
+            [
+              "相親",
+              "親近的友伴",
+              "blue"
+            ],
+            [
+              "邀",
+              "邀請",
+              "blue"
+            ],
+            [
+              "三人",
+              "我、明月、影子",
+              "blue"
+            ],
+            [
+              "解",
+              "懂得",
+              "blue"
+            ],
+            [
+              "徒",
+              "只、僅；含徒然意",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "酌",
+              "meaning": "飲酒",
+              "spans": [
+                [
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "相親",
+              "meaning": "親近的友伴",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "邀",
+              "meaning": "邀請",
+              "spans": [
+                [
+                  14,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "三人",
+              "meaning": "我、明月、影子",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "解",
+              "meaning": "懂得",
+              "spans": [
+                [
+                  27,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "徒",
+              "meaning": "只、僅；含徒然意",
+              "spans": [
+                [
+                  31,
+                  32
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第2組｜原文與語譯",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "blockPath": "$[11].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          "excerpt": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          "essayId": "essay-12"
+        },
+        "resolvedBlock": [
+          "annot",
+          "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          [
+            [
+              "暫",
+              "姑且、暫時",
+              "blue"
+            ],
+            [
+              "將",
+              "和",
+              "blue"
+            ],
+            [
+              "及",
+              "趁着",
+              "blue"
+            ],
+            [
+              "徘徊",
+              "往返流連",
+              "blue"
+            ],
+            [
+              "零亂",
+              "零散紛亂",
+              "blue"
+            ],
+            [
+              "交歡",
+              "共同歡樂",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "暫",
+              "meaning": "姑且、暫時",
+              "spans": [
+                [
+                  0,
+                  1
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "將",
+              "meaning": "和",
+              "spans": [
+                [
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "及",
+              "meaning": "趁着",
+              "spans": [
+                [
+                  9,
+                  10
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "徘徊",
+              "meaning": "往返流連",
+              "spans": [
+                [
+                  15,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "零亂",
+              "meaning": "零散紛亂",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "交歡",
+              "meaning": "共同歡樂",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-06-00-05": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 199,
+          "printedPage": 195,
+          "blockPath": "$[11].pages[6].blocks[0][1][5]",
+          "anchor": "9—10：歌舞共歡 月彷彿傾聽、影彷彿伴舞，場面熱鬧，情緒上揚、自得其樂；此為局部狀態，現實知己並未出現。",
+          "excerpt": "月彷彿傾聽、影彷彿伴舞，場面熱鬧，情緒上揚、自得其樂；此為局部狀態，現實知己並未出現。"
+        },
+        "resolvedBlock": [
+          "9—10：歌舞共歡",
+          "月彷彿傾聽、影彷彿伴舞，場面熱鬧，情緒上揚、自得其樂；此為局部狀態，現實知己並未出現。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-06-00-06": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 199,
+          "printedPage": 195,
+          "blockPath": "$[11].pages[6].blocks[0][1][6]",
+          "anchor": "11—12：醒歡醉散 清醒時同歡，醉倒後不省人事、與月影離別；歡樂不能長久，轉為失落惆悵。亦可依2023接受角度解作不執着聚散。",
+          "excerpt": "清醒時同歡，醉倒後不省人事、與月影離別；歡樂不能長久，轉為失落惆悵。亦可依2023接受角度解作不執着聚散。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "月下獨酌",
+              "section": "原文第2組｜原文與語譯",
+              "pdfPage": 197,
+              "printedPage": 193,
+              "blockPath": "$[11].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+              "excerpt": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+              "essayId": "essay-12"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "11—12：醒歡醉散",
+          "清醒時同歡，醉倒後不省人事、與月影離別；歡樂不能長久，轉為失落惆悵。亦可依2023接受角度解作不執着聚散。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第2組｜原文與語譯",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "blockPath": "$[11].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          "excerpt": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          "essayId": "essay-12"
+        },
+        "resolvedBlock": [
+          "annot",
+          "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          [
+            [
+              "暫",
+              "姑且、暫時",
+              "blue"
+            ],
+            [
+              "將",
+              "和",
+              "blue"
+            ],
+            [
+              "及",
+              "趁着",
+              "blue"
+            ],
+            [
+              "徘徊",
+              "往返流連",
+              "blue"
+            ],
+            [
+              "零亂",
+              "零散紛亂",
+              "blue"
+            ],
+            [
+              "交歡",
+              "共同歡樂",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "暫",
+              "meaning": "姑且、暫時",
+              "spans": [
+                [
+                  0,
+                  1
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "將",
+              "meaning": "和",
+              "spans": [
+                [
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "及",
+              "meaning": "趁着",
+              "spans": [
+                [
+                  9,
+                  10
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "徘徊",
+              "meaning": "往返流連",
+              "spans": [
+                [
+                  15,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "零亂",
+              "meaning": "零散紛亂",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "交歡",
+              "meaning": "共同歡樂",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-06-00-07": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 199,
+          "printedPage": 195,
+          "blockPath": "$[11].pages[6].blocks[0][1][7]",
+          "anchor": "13—14：相期雲漢 想像與月影永遠忘情同遊，相约銀河，失落化期盼，自我開解、曠達超脫；另一角度則認為只是對現實無法排憂的無奈逃避。",
+          "excerpt": "想像與月影永遠忘情同遊，相约銀河，失落化期盼，自我開解、曠達超脫；另一角度則認為只是對現實無法排憂的無奈逃避。"
+        },
+        "resolvedBlock": [
+          "13—14：相期雲漢",
+          "想像與月影永遠忘情同遊，相约銀河，失落化期盼，自我開解、曠達超脫；另一角度則認為只是對現實無法排憂的無奈逃避。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-07-00-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 200,
+          "printedPage": 196,
+          "blockPath": "$[11].pages[7].blocks[0]",
+          "anchor": "詩人借春夜花月間獨飲，邀月影共飲、歌舞、相約同遊，抒發懷才不遇、抑鬱孤獨、知音難覓的心情，又企求解脫，不願被愁思束縛。現實孤獨、局部歡樂、自我排遣的努力與排遣是否成功，屬不同層次。",
+          "excerpt": "詩人借春夜花月間獨飲，邀月影共飲、歌舞、相約同遊，抒發懷才不遇、抑鬱孤獨、知音難覓的心情，又企求解脫，不願被愁思束縛。現實孤獨、局部歡樂、自我排遣的努力與排遣是否成功，屬不同層次。"
+        },
+        "resolvedBlock": [
+          "text",
+          "詩人借春夜花月間獨飲，邀月影共飲、歌舞、相約同遊，抒發懷才不遇、抑鬱孤獨、知音難覓的心情，又企求解脫，不願被愁思束縛。現實孤獨、局部歡樂、自我排遣的努力與排遣是否成功，屬不同層次。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-07-01-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 200,
+          "printedPage": 196,
+          "blockPath": "$[11].pages[7].blocks[1]",
+          "anchor": "及時行樂：「行樂須及春」，明知月影不能真正相知，仍暫以之為伴、且歌且舞，不辜負美好時光。豁達超脫：相約月影在遙遠銀河遊歷，超越人世得失，自我紓解。高潔自持、鄙棄世俗：月影是美好事物和感情寄託，與之親密歡洽，反襯人間知音難覓，也可表現對現實社會的憤懣、厭惡及遺世獨立的品格。",
+          "excerpt": "及時行樂：「行樂須及春」，明知月影不能真正相知，仍暫以之為伴、且歌且舞，不辜負美好時光。豁達超脫：相約月影在遙遠銀河遊歷，超越人世得失，自我紓解。高潔自持、鄙棄世俗：月影是美好事物和感情寄託，與之親密歡洽，反襯人間知音難覓，也可表現對現實社會的憤懣、厭惡及遺世獨立的品格。"
+        },
+        "resolvedBlock": [
+          "text",
+          "<b>及時行樂</b>：「行樂須及春」，明知月影不能真正相知，仍暫以之為伴、且歌且舞，不辜負美好時光。<b>豁達超脫</b>：相約月影在遙遠銀河遊歷，超越人世得失，自我紓解。<b>高潔自持、鄙棄世俗</b>：月影是美好事物和感情寄託，與之親密歡洽，反襯人間知音難覓，也可表現對現實社會的憤懣、厭惡及遺世獨立的品格。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-07-02-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 200,
+          "printedPage": 196,
+          "blockPath": "$[11].pages[7].blocks[2]",
+          "anchor": "「詩仙」的作品依據有兩層：邀明月、對影成三人，把無伴冷清想成奇妙熱鬧，浪漫而富想像；永結無情遊、相期雲漢，表現道家順其自然、適性、忘情超脫的精神。不能只列稱號而沒有本詩例證。",
+          "excerpt": "「詩仙」的作品依據有兩層：邀明月、對影成三人，把無伴冷清想成奇妙熱鬧，浪漫而富想像；永結無情遊、相期雲漢，表現道家順其自然、適性、忘情超脫的精神。不能只列稱號而沒有本詩例證。"
+        },
+        "resolvedBlock": [
+          "text",
+          "「詩仙」的作品依據有兩層：邀明月、對影成三人，把無伴冷清想成奇妙熱鬧，浪漫而富想像；永結無情遊、相期雲漢，表現道家順其自然、適性、忘情超脫的精神。不能只列稱號而沒有本詩例證。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-08-00-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 201,
+          "printedPage": 197,
+          "blockPath": "$[11].pages[8].blocks[0][1][1]",
+          "anchor": "想像、構思精奇 邀月對影成三人；月聽歌、影伴舞；醒同歡、醉分散；最後相期雲漢。從眼前邀伴推展到未來相約，意境愈轉愈奇，仍圍繞「獨」。",
+          "excerpt": "邀月對影成三人；月聽歌、影伴舞；醒同歡、醉分散；最後相期雲漢。從眼前邀伴推展到未來相約，意境愈轉愈奇，仍圍繞「獨」。"
+        },
+        "resolvedBlock": [
+          "想像、構思精奇",
+          "邀月對影成三人；月聽歌、影伴舞；醒同歡、醉分散；最後相期雲漢。從眼前邀伴推展到未來相約，意境愈轉愈奇，仍圍繞「獨」。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-08-00-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 201,
+          "printedPage": 197,
+          "blockPath": "$[11].pages[8].blocks[0][1][2]",
+          "anchor": "擬人 月影可受邀、傾聽、共舞、交歡、分散、相期；「月既不解飲，影徒隨我身」亦從人的知覺與回應能力描述月影。把物賦予人的動作、思想感情，使冷清場面在想像中轉熱鬧、生動。另形容為知己共聚、「把酒談天」；談天是對想像場面的展開，原詩未明記交談內容。",
+          "excerpt": "月影可受邀、傾聽、共舞、交歡、分散、相期；「月既不解飲，影徒隨我身」亦從人的知覺與回應能力描述月影。把物賦予人的動作、思想感情，使冷清場面在想像中轉熱鬧、生動。另形容為知己共聚、「把酒談天」；談天是對想像場面的展開，原詩未明記交談內容。"
+        },
+        "resolvedBlock": [
+          "擬人",
+          "月影可受邀、傾聽、共舞、交歡、分散、相期；「月既不解飲，影徒隨我身」亦從人的知覺與回應能力描述月影。把物賦予人的動作、思想感情，使冷清場面在想像中轉熱鬧、生動。另形容為知己共聚、「把酒談天」；談天是對想像場面的展開，原詩未明記交談內容。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-08-00-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 201,
+          "printedPage": 197,
+          "blockPath": "$[11].pages[8].blocks[0][1][3]",
+          "anchor": "樂景反襯哀情／以景襯情 花間月下、良辰美景、美酒當前，本宜歡暢，卻無友分享；景愈美好，孤寂苦悶愈鮮明。",
+          "excerpt": "花間月下、良辰美景、美酒當前，本宜歡暢，卻無友分享；景愈美好，孤寂苦悶愈鮮明。"
+        },
+        "resolvedBlock": [
+          "樂景反襯哀情／以景襯情",
+          "花間月下、良辰美景、美酒當前，本宜歡暢，卻無友分享；景愈美好，孤寂苦悶愈鮮明。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-08-00-04": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 201,
+          "printedPage": 197,
+          "blockPath": "$[11].pages[8].blocks[0][1][4]",
+          "anchor": "以熱鬧反襯孤獨／以物襯情 想像三人既歌且舞，熱鬧與現實獨酌形成反差；沒有真正知己，愈熱鬧愈顯孤獨。",
+          "excerpt": "想像三人既歌且舞，熱鬧與現實獨酌形成反差；沒有真正知己，愈熱鬧愈顯孤獨。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "月下獨酌",
+              "section": "原文第1組｜原文與語譯",
+              "pdfPage": 196,
+              "printedPage": 192,
+              "blockPath": "$[11].pages[1].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+              "excerpt": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+              "essayId": "essay-12"
+            },
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "月下獨酌",
+              "section": "原文第2組｜原文與語譯",
+              "pdfPage": 197,
+              "printedPage": 193,
+              "blockPath": "$[11].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+              "excerpt": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+              "essayId": "essay-12"
+            },
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "月下獨酌",
+              "section": "原文第3組｜原文與語譯",
+              "pdfPage": 197,
+              "printedPage": 193,
+              "blockPath": "$[11].pages[3].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "永結無情遊，相期邈雲漢。",
+              "excerpt": "永結無情遊，相期邈雲漢。",
+              "essayId": "essay-12"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "以熱鬧反襯孤獨／以物襯情",
+          "想像三人既歌且舞，熱鬧與現實獨酌形成反差；沒有真正知己，愈熱鬧愈顯孤獨。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第1組｜原文與語譯",
+          "pdfPage": 196,
+          "printedPage": 192,
+          "blockPath": "$[11].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          "excerpt": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          "essayId": "essay-12"
+        },
+        "resolvedBlock": [
+          "annot",
+          "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          [
+            [
+              "酌",
+              "飲酒",
+              "blue"
+            ],
+            [
+              "相親",
+              "親近的友伴",
+              "blue"
+            ],
+            [
+              "邀",
+              "邀請",
+              "blue"
+            ],
+            [
+              "三人",
+              "我、明月、影子",
+              "blue"
+            ],
+            [
+              "解",
+              "懂得",
+              "blue"
+            ],
+            [
+              "徒",
+              "只、僅；含徒然意",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "酌",
+              "meaning": "飲酒",
+              "spans": [
+                [
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "相親",
+              "meaning": "親近的友伴",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "邀",
+              "meaning": "邀請",
+              "spans": [
+                [
+                  14,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "三人",
+              "meaning": "我、明月、影子",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "解",
+              "meaning": "懂得",
+              "spans": [
+                [
+                  27,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "徒",
+              "meaning": "只、僅；含徒然意",
+              "spans": [
+                [
+                  31,
+                  32
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第2組｜原文與語譯",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "blockPath": "$[11].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          "excerpt": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          "essayId": "essay-12"
+        },
+        "resolvedBlock": [
+          "annot",
+          "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          [
+            [
+              "暫",
+              "姑且、暫時",
+              "blue"
+            ],
+            [
+              "將",
+              "和",
+              "blue"
+            ],
+            [
+              "及",
+              "趁着",
+              "blue"
+            ],
+            [
+              "徘徊",
+              "往返流連",
+              "blue"
+            ],
+            [
+              "零亂",
+              "零散紛亂",
+              "blue"
+            ],
+            [
+              "交歡",
+              "共同歡樂",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "暫",
+              "meaning": "姑且、暫時",
+              "spans": [
+                [
+                  0,
+                  1
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "將",
+              "meaning": "和",
+              "spans": [
+                [
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "及",
+              "meaning": "趁着",
+              "spans": [
+                [
+                  9,
+                  10
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "徘徊",
+              "meaning": "往返流連",
+              "spans": [
+                [
+                  15,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "零亂",
+              "meaning": "零散紛亂",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "交歡",
+              "meaning": "共同歡樂",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第3組｜原文與語譯",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "blockPath": "$[11].pages[3].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "永結無情遊，相期邈雲漢。",
+          "excerpt": "永結無情遊，相期邈雲漢。",
+          "essayId": "essay-12"
+        },
+        "resolvedBlock": [
+          "annot",
+          "永結無情遊，相期邈雲漢。",
+          [
+            [
+              "永結",
+              "永遠結伴的願望",
+              "blue"
+            ],
+            [
+              "無情遊",
+              "忘卻世情的交遊；亦可指與無情月影為伴",
+              "blue"
+            ],
+            [
+              "相期",
+              "相約",
+              "blue"
+            ],
+            [
+              "邈",
+              "遙遠",
+              "blue"
+            ],
+            [
+              "雲漢",
+              "銀河",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "永結",
+              "meaning": "永遠結伴的願望",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "無情遊",
+              "meaning": "忘卻世情的交遊；亦可指與無情月影為伴",
+              "spans": [
+                [
+                  2,
+                  5
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "相期",
+              "meaning": "相約",
+              "spans": [
+                [
+                  6,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "邈",
+              "meaning": "遙遠",
+              "spans": [
+                [
+                  8,
+                  9
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "雲漢",
+              "meaning": "銀河",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-08-00-05": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 201,
+          "printedPage": 197,
+          "blockPath": "$[11].pages[8].blocks[0][1][5]",
+          "anchor": "借景、借事、借物抒情 花月之景襯孤寂；獨酌、邀伴、歌舞之事抒知己難求與自解；月影之物暫伴、醉後仍散，寄無奈。角度可交疊，不必互斥。",
+          "excerpt": "花月之景襯孤寂；獨酌、邀伴、歌舞之事抒知己難求與自解；月影之物暫伴、醉後仍散，寄無奈。角度可交疊，不必互斥。"
+        },
+        "resolvedBlock": [
+          "借景、借事、借物抒情",
+          "花月之景襯孤寂；獨酌、邀伴、歌舞之事抒知己難求與自解；月影之物暫伴、醉後仍散，寄無奈。角度可交疊，不必互斥。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-08-00-06": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 201,
+          "printedPage": 197,
+          "blockPath": "$[11].pages[8].blocks[0][1][6]",
+          "anchor": "抑揚交錯、一波三折 無伴→似有伴→月影不解→暫伴行樂→醉散→永結相期，悲喜交錯，心境往返「獨／不獨」，結構自然兼有跳躍感，引人入勝。",
+          "excerpt": "無伴→似有伴→月影不解→暫伴行樂→醉散→永結相期，悲喜交錯，心境往返「獨／不獨」，結構自然兼有跳躍感，引人入勝。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "月下獨酌",
+              "section": "原文第1組｜原文與語譯",
+              "pdfPage": 196,
+              "printedPage": 192,
+              "blockPath": "$[11].pages[1].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+              "excerpt": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+              "essayId": "essay-12"
+            },
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "月下獨酌",
+              "section": "原文第2組｜原文與語譯",
+              "pdfPage": 197,
+              "printedPage": 193,
+              "blockPath": "$[11].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+              "excerpt": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+              "essayId": "essay-12"
+            },
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "月下獨酌",
+              "section": "原文第3組｜原文與語譯",
+              "pdfPage": 197,
+              "printedPage": 193,
+              "blockPath": "$[11].pages[3].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "永結無情遊，相期邈雲漢。",
+              "excerpt": "永結無情遊，相期邈雲漢。",
+              "essayId": "essay-12"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "抑揚交錯、一波三折",
+          "無伴→似有伴→月影不解→暫伴行樂→醉散→永結相期，悲喜交錯，心境往返「獨／不獨」，結構自然兼有跳躍感，引人入勝。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第1組｜原文與語譯",
+          "pdfPage": 196,
+          "printedPage": 192,
+          "blockPath": "$[11].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          "excerpt": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          "essayId": "essay-12"
+        },
+        "resolvedBlock": [
+          "annot",
+          "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          [
+            [
+              "酌",
+              "飲酒",
+              "blue"
+            ],
+            [
+              "相親",
+              "親近的友伴",
+              "blue"
+            ],
+            [
+              "邀",
+              "邀請",
+              "blue"
+            ],
+            [
+              "三人",
+              "我、明月、影子",
+              "blue"
+            ],
+            [
+              "解",
+              "懂得",
+              "blue"
+            ],
+            [
+              "徒",
+              "只、僅；含徒然意",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "酌",
+              "meaning": "飲酒",
+              "spans": [
+                [
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "相親",
+              "meaning": "親近的友伴",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "邀",
+              "meaning": "邀請",
+              "spans": [
+                [
+                  14,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "三人",
+              "meaning": "我、明月、影子",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "解",
+              "meaning": "懂得",
+              "spans": [
+                [
+                  27,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "徒",
+              "meaning": "只、僅；含徒然意",
+              "spans": [
+                [
+                  31,
+                  32
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第2組｜原文與語譯",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "blockPath": "$[11].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          "excerpt": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          "essayId": "essay-12"
+        },
+        "resolvedBlock": [
+          "annot",
+          "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          [
+            [
+              "暫",
+              "姑且、暫時",
+              "blue"
+            ],
+            [
+              "將",
+              "和",
+              "blue"
+            ],
+            [
+              "及",
+              "趁着",
+              "blue"
+            ],
+            [
+              "徘徊",
+              "往返流連",
+              "blue"
+            ],
+            [
+              "零亂",
+              "零散紛亂",
+              "blue"
+            ],
+            [
+              "交歡",
+              "共同歡樂",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "暫",
+              "meaning": "姑且、暫時",
+              "spans": [
+                [
+                  0,
+                  1
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "將",
+              "meaning": "和",
+              "spans": [
+                [
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "及",
+              "meaning": "趁着",
+              "spans": [
+                [
+                  9,
+                  10
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "徘徊",
+              "meaning": "往返流連",
+              "spans": [
+                [
+                  15,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "零亂",
+              "meaning": "零散紛亂",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "交歡",
+              "meaning": "共同歡樂",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第3組｜原文與語譯",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "blockPath": "$[11].pages[3].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "永結無情遊，相期邈雲漢。",
+          "excerpt": "永結無情遊，相期邈雲漢。",
+          "essayId": "essay-12"
+        },
+        "resolvedBlock": [
+          "annot",
+          "永結無情遊，相期邈雲漢。",
+          [
+            [
+              "永結",
+              "永遠結伴的願望",
+              "blue"
+            ],
+            [
+              "無情遊",
+              "忘卻世情的交遊；亦可指與無情月影為伴",
+              "blue"
+            ],
+            [
+              "相期",
+              "相約",
+              "blue"
+            ],
+            [
+              "邈",
+              "遙遠",
+              "blue"
+            ],
+            [
+              "雲漢",
+              "銀河",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "永結",
+              "meaning": "永遠結伴的願望",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "無情遊",
+              "meaning": "忘卻世情的交遊；亦可指與無情月影為伴",
+              "spans": [
+                [
+                  2,
+                  5
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "相期",
+              "meaning": "相約",
+              "spans": [
+                [
+                  6,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "邈",
+              "meaning": "遙遠",
+              "spans": [
+                [
+                  8,
+                  9
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "雲漢",
+              "meaning": "銀河",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-08-00-07": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 201,
+          "printedPage": 197,
+          "blockPath": "$[11].pages[8].blocks[0][1][7]",
+          "anchor": "呼應一 「花間一壺酒」與「行樂須及春」相應，春花盛放、及時行樂。",
+          "excerpt": "「花間一壺酒」與「行樂須及春」相應，春花盛放、及時行樂。"
+        },
+        "resolvedBlock": [
+          "呼應一",
+          "「花間一壺酒」與「行樂須及春」相應，春花盛放、及時行樂。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-08-00-08": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 201,
+          "printedPage": 197,
+          "blockPath": "$[11].pages[8].blocks[0][1][8]",
+          "anchor": "呼應二 「行樂須及春」與「我歌月徘徊，我舞影零亂」相應，以歌舞具體說明行樂。",
+          "excerpt": "「行樂須及春」與「我歌月徘徊，我舞影零亂」相應，以歌舞具體說明行樂。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "月下獨酌",
+              "section": "原文第1組｜原文與語譯",
+              "pdfPage": 196,
+              "printedPage": 192,
+              "blockPath": "$[11].pages[1].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+              "excerpt": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+              "essayId": "essay-12"
+            },
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "月下獨酌",
+              "section": "原文第2組｜原文與語譯",
+              "pdfPage": 197,
+              "printedPage": 193,
+              "blockPath": "$[11].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+              "excerpt": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+              "essayId": "essay-12"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "呼應二",
+          "「行樂須及春」與「我歌月徘徊，我舞影零亂」相應，以歌舞具體說明行樂。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第1組｜原文與語譯",
+          "pdfPage": 196,
+          "printedPage": 192,
+          "blockPath": "$[11].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          "excerpt": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          "essayId": "essay-12"
+        },
+        "resolvedBlock": [
+          "annot",
+          "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          [
+            [
+              "酌",
+              "飲酒",
+              "blue"
+            ],
+            [
+              "相親",
+              "親近的友伴",
+              "blue"
+            ],
+            [
+              "邀",
+              "邀請",
+              "blue"
+            ],
+            [
+              "三人",
+              "我、明月、影子",
+              "blue"
+            ],
+            [
+              "解",
+              "懂得",
+              "blue"
+            ],
+            [
+              "徒",
+              "只、僅；含徒然意",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "酌",
+              "meaning": "飲酒",
+              "spans": [
+                [
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "相親",
+              "meaning": "親近的友伴",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "邀",
+              "meaning": "邀請",
+              "spans": [
+                [
+                  14,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "三人",
+              "meaning": "我、明月、影子",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "解",
+              "meaning": "懂得",
+              "spans": [
+                [
+                  27,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "徒",
+              "meaning": "只、僅；含徒然意",
+              "spans": [
+                [
+                  31,
+                  32
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第2組｜原文與語譯",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "blockPath": "$[11].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          "excerpt": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          "essayId": "essay-12"
+        },
+        "resolvedBlock": [
+          "annot",
+          "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          [
+            [
+              "暫",
+              "姑且、暫時",
+              "blue"
+            ],
+            [
+              "將",
+              "和",
+              "blue"
+            ],
+            [
+              "及",
+              "趁着",
+              "blue"
+            ],
+            [
+              "徘徊",
+              "往返流連",
+              "blue"
+            ],
+            [
+              "零亂",
+              "零散紛亂",
+              "blue"
+            ],
+            [
+              "交歡",
+              "共同歡樂",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "暫",
+              "meaning": "姑且、暫時",
+              "spans": [
+                [
+                  0,
+                  1
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "將",
+              "meaning": "和",
+              "spans": [
+                [
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "及",
+              "meaning": "趁着",
+              "spans": [
+                [
+                  9,
+                  10
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "徘徊",
+              "meaning": "往返流連",
+              "spans": [
+                [
+                  15,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "零亂",
+              "meaning": "零散紛亂",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "交歡",
+              "meaning": "共同歡樂",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-08-00-09": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 201,
+          "printedPage": 197,
+          "blockPath": "$[11].pages[8].blocks[0][1][9]",
+          "anchor": "呼應三 「月既不解飲，影徒隨我身」與「永結無情遊」相應，連接月影不解人意與無情交遊。",
+          "excerpt": "「月既不解飲，影徒隨我身」與「永結無情遊」相應，連接月影不解人意與無情交遊。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+              "version": "2026-09-14",
+              "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "pdfPage": 195,
+              "printedPage": 191,
+              "blockPath": "$[11].pages[3].blocks[0]",
+              "anchor": "永結無情遊，相期邈雲漢。",
+              "excerpt": "永結無情遊，相期邈雲漢。",
+              "essayId": "essay-12",
+              "essayTitle": "月下獨酌"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "呼應三",
+          "「月既不解飲，影徒隨我身」與「永結無情遊」相應，連接月影不解人意與無情交遊。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 195,
+          "printedPage": 191,
+          "blockPath": "$[11].pages[3].blocks[0]",
+          "anchor": "永結無情遊，相期邈雲漢。",
+          "excerpt": "永結無情遊，相期邈雲漢。",
+          "essayId": "essay-12",
+          "essayTitle": "月下獨酌"
+        },
+        "resolvedBlock": [
+          "annot",
+          "永結無情遊，相期邈雲漢。",
+          [
+            [
+              "永結",
+              "永遠結伴的願望",
+              "blue"
+            ],
+            [
+              "無情遊",
+              "忘卻世情的交遊；亦可指與無情月影為伴",
+              "blue"
+            ],
+            [
+              "相期",
+              "相約",
+              "blue"
+            ],
+            [
+              "邈",
+              "遙遠",
+              "blue"
+            ],
+            [
+              "雲漢",
+              "銀河",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "永結",
+              "meaning": "永遠結伴的願望",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "無情遊",
+              "meaning": "忘卻世情的交遊；亦可指與無情月影為伴",
+              "spans": [
+                [
+                  2,
+                  5
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "相期",
+              "meaning": "相約",
+              "spans": [
+                [
+                  6,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "邈",
+              "meaning": "遙遠",
+              "spans": [
+                [
+                  8,
+                  9
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "雲漢",
+              "meaning": "銀河",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-09-00-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 202,
+          "printedPage": 198,
+          "blockPath": "$[11].pages[9].blocks[0][1][1]",
+          "anchor": "對偶 「我歌／我舞、月／影、徘徊／零亂」；「醒時／醉後、同／各、交歡／分散」，結構整齊，節奏相稱。",
+          "excerpt": "「我歌／我舞、月／影、徘徊／零亂」；「醒時／醉後、同／各、交歡／分散」，結構整齊，節奏相稱。"
+        },
+        "resolvedBlock": [
+          "對偶",
+          "「我歌／我舞、月／影、徘徊／零亂」；「醒時／醉後、同／各、交歡／分散」，結構整齊，節奏相稱。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-09-00-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 202,
+          "printedPage": 198,
+          "blockPath": "$[11].pages[9].blocks[0][1][2]",
+          "anchor": "對比 醒與醉、喜與悲、聚與散相對，使歡後孤獨鮮明；2023另一角度可分析不執着離合的自解。",
+          "excerpt": "醒與醉、喜與悲、聚與散相對，使歡後孤獨鮮明；2023另一角度可分析不執着離合的自解。"
+        },
+        "resolvedBlock": [
+          "對比",
+          "醒與醉、喜與悲、聚與散相對，使歡後孤獨鮮明；2023另一角度可分析不執着離合的自解。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-09-00-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 202,
+          "printedPage": 198,
+          "blockPath": "$[11].pages[9].blocks[0][1][3]",
+          "anchor": "託物寄志、象徵 月影象徵美好，寄寓思想感情，與之為友象徵鄙棄凡俗、孤清高潔。",
+          "excerpt": "月影象徵美好，寄寓思想感情，與之為友象徵鄙棄凡俗、孤清高潔。"
+        },
+        "resolvedBlock": [
+          "託物寄志、象徵",
+          "月影象徵美好，寄寓思想感情，與之為友象徵鄙棄凡俗、孤清高潔。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-09-00-04": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 202,
+          "printedPage": 198,
+          "blockPath": "$[11].pages[9].blocks[0][1][4]",
+          "anchor": "誇張筆法 把月影寫成同宴友伴，想像超越現實，重點是想像超越現實，不能把「三人」當真實人数。",
+          "excerpt": "把月影寫成同宴友伴，想像超越現實，重點是想像超越現實，不能把「三人」當真實人数。"
+        },
+        "resolvedBlock": [
+          "誇張筆法",
+          "把月影寫成同宴友伴，想像超越現實，重點是想像超越現實，不能把「三人」當真實人数。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-09-00-05": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 202,
+          "printedPage": 198,
+          "blockPath": "$[11].pages[9].blocks[0][1][5]",
+          "anchor": "雙聲 「零亂」兩字聲母相同，為音韻觀察，與對偶的句法對稱分開。",
+          "excerpt": "「零亂」兩字聲母相同，為音韻觀察，與對偶的句法對稱分開。"
+        },
+        "resolvedBlock": [
+          "雙聲",
+          "「零亂」兩字聲母相同，為音韻觀察，與對偶的句法對稱分開。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-09-00-06": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 202,
+          "printedPage": 198,
+          "blockPath": "$[11].pages[9].blocks[0][1][6]",
+          "anchor": "語言質樸而精鍊 淺白如話，少艱深字，沒有典故堆砌、辭藻雕飾，情感率真自然；首四句一氣呵成，「月、影、我」反覆而不呆板，像自然說話。「一壺、既、徒、暫、無情」皆可細析，平易不代表沒有煉字。",
+          "excerpt": "淺白如話，少艱深字，沒有典故堆砌、辭藻雕飾，情感率真自然；首四句一氣呵成，「月、影、我」反覆而不呆板，像自然說話。「一壺、既、徒、暫、無情」皆可細析，平易不代表沒有煉字。"
+        },
+        "resolvedBlock": [
+          "語言質樸而精鍊",
+          "淺白如話，少艱深字，沒有典故堆砌、辭藻雕飾，情感率真自然；首四句一氣呵成，「月、影、我」反覆而不呆板，像自然說話。「一壺、既、徒、暫、無情」皆可細析，平易不代表沒有煉字。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-09-01-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 202,
+          "printedPage": 198,
+          "blockPath": "$[11].pages[9].blocks[1]",
+          "anchor": "詩題是「獨酌」，詩中卻想像出月、影兩位伴侶。人數由一變三，現實的孤獨仍未消失；正因真實無人可伴，這場想像的歡聚才格外動人。",
+          "excerpt": "詩題是「獨酌」，詩中卻想像出月、影兩位伴侶。人數由一變三，現實的孤獨仍未消失；正因真實無人可伴，這場想像的歡聚才格外動人。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "月下獨酌",
+              "section": "原文第1組｜原文與語譯",
+              "pdfPage": 196,
+              "printedPage": 192,
+              "blockPath": "$[11].pages[1].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+              "excerpt": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+              "essayId": "essay-12"
+            },
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "月下獨酌",
+              "section": "原文第2組｜原文與語譯",
+              "pdfPage": 197,
+              "printedPage": 193,
+              "blockPath": "$[11].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+              "excerpt": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+              "essayId": "essay-12"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "text",
+          "詩題是「獨酌」，詩中卻想像出月、影兩位伴侶。人數由一變三，現實的孤獨仍未消失；正因真實無人可伴，這場想像的歡聚才格外動人。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第1組｜原文與語譯",
+          "pdfPage": 196,
+          "printedPage": 192,
+          "blockPath": "$[11].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          "excerpt": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          "essayId": "essay-12"
+        },
+        "resolvedBlock": [
+          "annot",
+          "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          [
+            [
+              "酌",
+              "飲酒",
+              "blue"
+            ],
+            [
+              "相親",
+              "親近的友伴",
+              "blue"
+            ],
+            [
+              "邀",
+              "邀請",
+              "blue"
+            ],
+            [
+              "三人",
+              "我、明月、影子",
+              "blue"
+            ],
+            [
+              "解",
+              "懂得",
+              "blue"
+            ],
+            [
+              "徒",
+              "只、僅；含徒然意",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "酌",
+              "meaning": "飲酒",
+              "spans": [
+                [
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "相親",
+              "meaning": "親近的友伴",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "邀",
+              "meaning": "邀請",
+              "spans": [
+                [
+                  14,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "三人",
+              "meaning": "我、明月、影子",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "解",
+              "meaning": "懂得",
+              "spans": [
+                [
+                  27,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "徒",
+              "meaning": "只、僅；含徒然意",
+              "spans": [
+                [
+                  31,
+                  32
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第2組｜原文與語譯",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "blockPath": "$[11].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          "excerpt": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          "essayId": "essay-12"
+        },
+        "resolvedBlock": [
+          "annot",
+          "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          [
+            [
+              "暫",
+              "姑且、暫時",
+              "blue"
+            ],
+            [
+              "將",
+              "和",
+              "blue"
+            ],
+            [
+              "及",
+              "趁着",
+              "blue"
+            ],
+            [
+              "徘徊",
+              "往返流連",
+              "blue"
+            ],
+            [
+              "零亂",
+              "零散紛亂",
+              "blue"
+            ],
+            [
+              "交歡",
+              "共同歡樂",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "暫",
+              "meaning": "姑且、暫時",
+              "spans": [
+                [
+                  0,
+                  1
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "將",
+              "meaning": "和",
+              "spans": [
+                [
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "及",
+              "meaning": "趁着",
+              "spans": [
+                [
+                  9,
+                  10
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "徘徊",
+              "meaning": "往返流連",
+              "spans": [
+                [
+                  15,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "零亂",
+              "meaning": "零散紛亂",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "交歡",
+              "meaning": "共同歡樂",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-10-00-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 202,
+          "printedPage": 198,
+          "blockPath": "$[11].pages[10].blocks[0]",
+          "anchor": "《月下獨酌》與《登樓》都用美好花景襯托心事：李白苦於無相親，杜甫傷於萬方多難。結尾則不同：李白把相伴寄於雲漢的想像，杜甫以梁甫吟自況，仍想濟世卻未能施展。",
+          "excerpt": "《月下獨酌》與《登樓》都用美好花景襯托心事：李白苦於無相親，杜甫傷於萬方多難。結尾則不同：李白把相伴寄於雲漢的想像，杜甫以梁甫吟自況，仍想濟世卻未能施展。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "月下獨酌",
+              "section": "原文第3組｜原文與語譯",
+              "pdfPage": 197,
+              "printedPage": 193,
+              "blockPath": "$[11].pages[3].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "永結無情遊，相期邈雲漢。",
+              "excerpt": "永結無情遊，相期邈雲漢。",
+              "essayId": "essay-12"
+            },
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "登樓",
+              "section": "原文第2組｜原文與語譯",
+              "pdfPage": 206,
+              "printedPage": 202,
+              "blockPath": "$[12].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+              "excerpt": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+              "essayId": "essay-13"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "text",
+          "《月下獨酌》與《登樓》都用美好花景襯托心事：李白苦於無相親，杜甫傷於萬方多難。結尾則不同：李白把相伴寄於雲漢的想像，杜甫以梁甫吟自況，仍想濟世卻未能施展。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第3組｜原文與語譯",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "blockPath": "$[11].pages[3].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "永結無情遊，相期邈雲漢。",
+          "excerpt": "永結無情遊，相期邈雲漢。",
+          "essayId": "essay-12"
+        },
+        "resolvedBlock": [
+          "annot",
+          "永結無情遊，相期邈雲漢。",
+          [
+            [
+              "永結",
+              "永遠結伴的願望",
+              "blue"
+            ],
+            [
+              "無情遊",
+              "忘卻世情的交遊；亦可指與無情月影為伴",
+              "blue"
+            ],
+            [
+              "相期",
+              "相約",
+              "blue"
+            ],
+            [
+              "邈",
+              "遙遠",
+              "blue"
+            ],
+            [
+              "雲漢",
+              "銀河",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "永結",
+              "meaning": "永遠結伴的願望",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "無情遊",
+              "meaning": "忘卻世情的交遊；亦可指與無情月影為伴",
+              "spans": [
+                [
+                  2,
+                  5
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "相期",
+              "meaning": "相約",
+              "spans": [
+                [
+                  6,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "邈",
+              "meaning": "遙遠",
+              "spans": [
+                [
+                  8,
+                  9
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "雲漢",
+              "meaning": "銀河",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "登樓",
+          "section": "原文第2組｜原文與語譯",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "blockPath": "$[12].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          "excerpt": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          "essayId": "essay-13"
+        },
+        "resolvedBlock": [
+          "annot",
+          "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          [
+            [
+              "北極",
+              "北極星，喻朝廷",
+              "blue"
+            ],
+            [
+              "終",
+              "終究、始終",
+              "blue"
+            ],
+            [
+              "寇盜",
+              "指吐蕃侵略者",
+              "blue"
+            ],
+            [
+              "莫",
+              "不要",
+              "blue"
+            ],
+            [
+              "可憐",
+              "可嘆",
+              "blue"
+            ],
+            [
+              "後主",
+              "蜀漢後主劉禪",
+              "blue"
+            ],
+            [
+              "還",
+              "仍然、竟然還",
+              "blue"
+            ],
+            [
+              "日暮",
+              "傍晚",
+              "blue"
+            ],
+            [
+              "聊",
+              "姑且",
+              "blue"
+            ],
+            [
+              "梁甫吟",
+              "樂府篇名，聯繫諸葛亮",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "北極",
+              "meaning": "北極星，喻朝廷",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "終",
+              "meaning": "終究、始終",
+              "spans": [
+                [
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "寇盜",
+              "meaning": "指吐蕃侵略者",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "莫",
+              "meaning": "不要",
+              "spans": [
+                [
+                  12,
+                  13
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "可憐",
+              "meaning": "可嘆",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "後主",
+              "meaning": "蜀漢後主劉禪",
+              "spans": [
+                [
+                  18,
+                  20
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "還",
+              "meaning": "仍然、竟然還",
+              "spans": [
+                [
+                  20,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "日暮",
+              "meaning": "傍晚",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "聊",
+              "meaning": "姑且",
+              "spans": [
+                [
+                  26,
+                  27
+                ]
+              ]
+            },
+            {
+              "number": 10,
+              "word": "梁甫吟",
+              "meaning": "樂府篇名，聯繫諸葛亮",
+              "spans": [
+                [
+                  28,
+                  31
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-10-01-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 202,
+          "printedPage": 198,
+          "blockPath": "$[11].pages[10].blocks[1]",
+          "anchor": "與《念奴嬌・赤壁懷古》：可比较失意处境、月等自然意象、飲酒及精神自解；須分李白邀月影的想像交遊與蘇軾懷古、自傷、酹江月的過程。與《聲聲慢・秋情》：可比較尋求慰藉的方式與結果；李白主動想像同伴、心情反覆，李清照尋覓寄託而不得，酒、雁等又增愁。詳細各篇證據另見相應篇章及考卷卡，不以「都借酒消愁」抹平差異。",
+          "excerpt": "與《念奴嬌・赤壁懷古》：可比较失意处境、月等自然意象、飲酒及精神自解；須分李白邀月影的想像交遊與蘇軾懷古、自傷、酹江月的過程。與《聲聲慢・秋情》：可比較尋求慰藉的方式與結果；李白主動想像同伴、心情反覆，李清照尋覓寄託而不得，酒、雁等又增愁。詳細各篇證據另見相應篇章及考卷卡，不以「都借酒消愁」抹平差異。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "月下獨酌",
+              "section": "原文第1組｜原文與語譯",
+              "pdfPage": 196,
+              "printedPage": 192,
+              "blockPath": "$[11].pages[1].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+              "excerpt": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+              "essayId": "essay-12"
+            },
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "月下獨酌",
+              "section": "原文第2組｜原文與語譯",
+              "pdfPage": 197,
+              "printedPage": 193,
+              "blockPath": "$[11].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+              "excerpt": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+              "essayId": "essay-12"
+            },
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "聲聲慢・秋情",
+              "section": "上片｜原文與語譯",
+              "pdfPage": 225,
+              "printedPage": 221,
+              "blockPath": "$[14].pages[1].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+              "excerpt": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+              "essayId": "essay-15"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "text",
+          "<b>與《念奴嬌・赤壁懷古》</b>：可比较失意处境、月等自然意象、飲酒及精神自解；須分李白邀月影的想像交遊與蘇軾懷古、自傷、酹江月的過程。<b>與《聲聲慢・秋情》</b>：可比較尋求慰藉的方式與結果；李白主動想像同伴、心情反覆，李清照尋覓寄託而不得，酒、雁等又增愁。詳細各篇證據另見相應篇章及考卷卡，不以「都借酒消愁」抹平差異。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第1組｜原文與語譯",
+          "pdfPage": 196,
+          "printedPage": 192,
+          "blockPath": "$[11].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          "excerpt": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          "essayId": "essay-12"
+        },
+        "resolvedBlock": [
+          "annot",
+          "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          [
+            [
+              "酌",
+              "飲酒",
+              "blue"
+            ],
+            [
+              "相親",
+              "親近的友伴",
+              "blue"
+            ],
+            [
+              "邀",
+              "邀請",
+              "blue"
+            ],
+            [
+              "三人",
+              "我、明月、影子",
+              "blue"
+            ],
+            [
+              "解",
+              "懂得",
+              "blue"
+            ],
+            [
+              "徒",
+              "只、僅；含徒然意",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "酌",
+              "meaning": "飲酒",
+              "spans": [
+                [
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "相親",
+              "meaning": "親近的友伴",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "邀",
+              "meaning": "邀請",
+              "spans": [
+                [
+                  14,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "三人",
+              "meaning": "我、明月、影子",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "解",
+              "meaning": "懂得",
+              "spans": [
+                [
+                  27,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "徒",
+              "meaning": "只、僅；含徒然意",
+              "spans": [
+                [
+                  31,
+                  32
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第2組｜原文與語譯",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "blockPath": "$[11].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          "excerpt": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          "essayId": "essay-12"
+        },
+        "resolvedBlock": [
+          "annot",
+          "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          [
+            [
+              "暫",
+              "姑且、暫時",
+              "blue"
+            ],
+            [
+              "將",
+              "和",
+              "blue"
+            ],
+            [
+              "及",
+              "趁着",
+              "blue"
+            ],
+            [
+              "徘徊",
+              "往返流連",
+              "blue"
+            ],
+            [
+              "零亂",
+              "零散紛亂",
+              "blue"
+            ],
+            [
+              "交歡",
+              "共同歡樂",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "暫",
+              "meaning": "姑且、暫時",
+              "spans": [
+                [
+                  0,
+                  1
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "將",
+              "meaning": "和",
+              "spans": [
+                [
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "及",
+              "meaning": "趁着",
+              "spans": [
+                [
+                  9,
+                  10
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "徘徊",
+              "meaning": "往返流連",
+              "spans": [
+                [
+                  15,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "零亂",
+              "meaning": "零散紛亂",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "交歡",
+              "meaning": "共同歡樂",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "聲聲慢・秋情",
+          "section": "上片｜原文與語譯",
+          "pdfPage": 225,
+          "printedPage": 221,
+          "blockPath": "$[14].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+          "excerpt": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+          "essayId": "essay-15"
+        },
+        "resolvedBlock": [
+          "annot",
+          "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+          [
+            [
+              "尋尋覓覓",
+              "反覆尋找、若有所失",
+              "blue"
+            ],
+            [
+              "冷冷清清",
+              "環境寂靜冷落",
+              "blue"
+            ],
+            [
+              "悽悽慘慘戚戚",
+              "內心悽慘悲戚",
+              "blue"
+            ],
+            [
+              "乍煖還寒",
+              "剛暖又寒，冷暖不定",
+              "blue"
+            ],
+            [
+              "將息",
+              "調養休息",
+              "blue"
+            ],
+            [
+              "淡酒",
+              "無力禦寒解愁的酒",
+              "blue"
+            ],
+            [
+              "敵",
+              "抵擋",
+              "blue"
+            ],
+            [
+              "晚來",
+              "傍晚；另本作曉來",
+              "blue"
+            ],
+            [
+              "舊時相識",
+              "熟悉的大雁",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "尋尋覓覓",
+              "meaning": "反覆尋找、若有所失",
+              "spans": [
+                [
+                  0,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "冷冷清清",
+              "meaning": "環境寂靜冷落",
+              "spans": [
+                [
+                  5,
+                  9
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "悽悽慘慘戚戚",
+              "meaning": "內心悽慘悲戚",
+              "spans": [
+                [
+                  10,
+                  16
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "乍煖還寒",
+              "meaning": "剛暖又寒，冷暖不定",
+              "spans": [
+                [
+                  17,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "將息",
+              "meaning": "調養休息",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "淡酒",
+              "meaning": "無力禦寒解愁的酒",
+              "spans": [
+                [
+                  33,
+                  35
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "敵",
+              "meaning": "抵擋",
+              "spans": [
+                [
+                  37,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "晚來",
+              "meaning": "傍晚；另本作曉來",
+              "spans": [
+                [
+                  39,
+                  41
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "舊時相識",
+              "meaning": "熟悉的大雁",
+              "spans": [
+                [
+                  54,
+                  58
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-12-00-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 203,
+          "printedPage": 199,
+          "blockPath": "$[11].pages[12].blocks[0]",
+          "anchor": "全詩是否已排遣憂愁，可以有不同解讀。可由月影終不能相知、醉後分散，說憂仍存在；也可由及春行樂、永結無情遊，說詩人主動自解。兩種立場都要貫通全詩，不能只摘一句便斷定。",
+          "excerpt": "全詩是否已排遣憂愁，可以有不同解讀。可由月影終不能相知、醉後分散，說憂仍存在；也可由及春行樂、永結無情遊，說詩人主動自解。兩種立場都要貫通全詩，不能只摘一句便斷定。"
+        },
+        "resolvedBlock": [
+          "text",
+          "全詩是否已排遣憂愁，可以有不同解讀。可由月影終不能相知、醉後分散，說憂仍存在；也可由及春行樂、永結無情遊，說詩人主動自解。兩種立場都要貫通全詩，不能只摘一句便斷定。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-13-00-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 203,
+          "printedPage": 199,
+          "blockPath": "$[11].pages[13].blocks[0]",
+          "anchor": "全詩反覆在獨與伴之間移動，想像既帶來安慰，也反照真實孤獨。",
+          "excerpt": "全詩反覆在獨與伴之間移動，想像既帶來安慰，也反照真實孤獨。"
+        },
+        "resolvedBlock": [
+          "band",
+          "全詩反覆在獨與伴之間移動，想像既帶來安慰，也反照真實孤獨。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-13-01-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 203,
+          "printedPage": 199,
+          "blockPath": "$[11].pages[13].blocks[1][1][1]",
+          "anchor": "由一到三 「無相親」在先，舉杯邀月、對影在後；缺少知己才需要想像友伴。",
+          "excerpt": "「無相親」在先，舉杯邀月、對影在後；缺少知己才需要想像友伴。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "月下獨酌",
+              "section": "原文第1組｜原文與語譯",
+              "pdfPage": 196,
+              "printedPage": 192,
+              "blockPath": "$[11].pages[1].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+              "excerpt": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+              "essayId": "essay-12"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "由一到三",
+          "「無相親」在先，舉杯邀月、對影在後；缺少知己才需要想像友伴。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第1組｜原文與語譯",
+          "pdfPage": 196,
+          "printedPage": 192,
+          "blockPath": "$[11].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          "excerpt": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          "essayId": "essay-12"
+        },
+        "resolvedBlock": [
+          "annot",
+          "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          [
+            [
+              "酌",
+              "飲酒",
+              "blue"
+            ],
+            [
+              "相親",
+              "親近的友伴",
+              "blue"
+            ],
+            [
+              "邀",
+              "邀請",
+              "blue"
+            ],
+            [
+              "三人",
+              "我、明月、影子",
+              "blue"
+            ],
+            [
+              "解",
+              "懂得",
+              "blue"
+            ],
+            [
+              "徒",
+              "只、僅；含徒然意",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "酌",
+              "meaning": "飲酒",
+              "spans": [
+                [
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "相親",
+              "meaning": "親近的友伴",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "邀",
+              "meaning": "邀請",
+              "spans": [
+                [
+                  14,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "三人",
+              "meaning": "我、明月、影子",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "解",
+              "meaning": "懂得",
+              "spans": [
+                [
+                  27,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "徒",
+              "meaning": "只、僅；含徒然意",
+              "spans": [
+                [
+                  31,
+                  32
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-13-01-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 203,
+          "printedPage": 199,
+          "blockPath": "$[11].pages[13].blocks[1][1][2]",
+          "anchor": "歡聚有裂縫 月不解飲、影徒隨身，揭示伴侶不能回應；暫伴行樂遂帶自解意味。",
+          "excerpt": "月不解飲、影徒隨身，揭示伴侶不能回應；暫伴行樂遂帶自解意味。"
+        },
+        "resolvedBlock": [
+          "歡聚有裂縫",
+          "月不解飲、影徒隨身，揭示伴侶不能回應；暫伴行樂遂帶自解意味。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-13-01-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 203,
+          "printedPage": 199,
+          "blockPath": "$[11].pages[13].blocks[1][1][3]",
+          "anchor": "由散到遠約 歌舞暫聚，醉後仍散；相期雲漢把相伴延至超越現實的想像，留曠達與孤寂兩層餘味。",
+          "excerpt": "歌舞暫聚，醉後仍散；相期雲漢把相伴延至超越現實的想像，留曠達與孤寂兩層餘味。"
+        },
+        "resolvedBlock": [
+          "由散到遠約",
+          "歌舞暫聚，醉後仍散；相期雲漢把相伴延至超越現實的想像，留曠達與孤寂兩層餘味。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-13-01-04": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 203,
+          "printedPage": 199,
+          "blockPath": "$[11].pages[13].blocks[1][1][4]",
+          "anchor": "關鍵轉折 「不解」「徒」指出想像伴侶的限制，「暫」承認歡聚短促，「永結」「相期」才把希望推往超越現實的境地。",
+          "excerpt": "「不解」「徒」指出想像伴侶的限制，「暫」承認歡聚短促，「永結」「相期」才把希望推往超越現實的境地。"
+        },
+        "resolvedBlock": [
+          "關鍵轉折",
+          "「不解」「徒」指出想像伴侶的限制，「暫」承認歡聚短促，「永結」「相期」才把希望推往超越現實的境地。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-13-01-05": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 203,
+          "printedPage": 199,
+          "blockPath": "$[11].pages[13].blocks[1][1][5]",
+          "anchor": "兩層結尾 若着眼相期雲漢，可見自我超越；若着眼現實仍無相親，可見孤獨未解。兩層理解各有全詩依據。",
+          "excerpt": "若着眼相期雲漢，可見自我超越；若着眼現實仍無相親，可見孤獨未解。兩層理解各有全詩依據。"
+        },
+        "resolvedBlock": [
+          "兩層結尾",
+          "若着眼相期雲漢，可見自我超越；若着眼現實仍無相親，可見孤獨未解。兩層理解各有全詩依據。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ]
+  },
+  "scope": "來源定位、原文錨點和版本核對；自動檢查不代替內容審題。"
+}

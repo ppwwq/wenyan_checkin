@@ -1,0 +1,5 @@
+{
+  "result": "FAIL",
+  "message": "Removed chapter must not remain in the active question\n+ actual - expected\n\n  [\n+   'essay-01'\n-   'essay-09'\n  ]\n",
+  "checks": []
+}

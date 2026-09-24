@@ -1,0 +1,14 @@
+{
+  "questions": 266,
+  "mainExplanationLengthBefore": {
+    "median": 34.5
+  },
+  "mainExplanationLengthAfter": {
+    "min": 74,
+    "median": 88.0,
+    "max": 107
+  },
+  "explanationChanged": 266,
+  "choiceRationaleChanged": 1064,
+  "scope": "長度僅記錄變化，不是語義品質或學生理解度的驗收標準。"
+}

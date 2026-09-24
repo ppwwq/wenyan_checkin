@@ -1,0 +1,23 @@
+{
+  "version": "2026.09.23.13",
+  "baselineVersion": "2026.09.23.12",
+  "essayId": "essay-07",
+  "questions": 116,
+  "explanationsRewritten": 116,
+  "optionTextChangedQuestions": 21,
+  "changedOptionTexts": 55,
+  "stemChanged": 3,
+  "highlightChanged": 0,
+  "untouchedQuestions": 2018,
+  "independentReview": "not-run",
+  "studentTrial": "not-run",
+  "scope": "按篇章全題修訂；作者自檢。先前 qualityRevisionSummary 只記舊版階段，不代表本版改寫後仍獲獨立覆核。",
+  "currentReviewMethods": {
+    "source-review-and-author-self-check": 1066,
+    "source-aligned-agent-review": 567,
+    "context-vocabulary-distractor-review": 57,
+    "source-review-and-agent-cross-review": 92,
+    "text-grounded-mcq-editorial-review": 281,
+    "source-preserving-mcq-review": 71
+  }
+}

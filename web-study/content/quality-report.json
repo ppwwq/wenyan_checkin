@@ -1,16 +1,16 @@
 {
   "result": "PASS",
-  "questions": 2131,
-  "memoryUnits": 2081,
+  "questions": 2134,
+  "memoryUnits": 2084,
   "comparisons": 11,
   "coverage": [
     {
       "id": "essay-01",
       "title": "論仁、論孝、論君子",
       "kind": "prose",
-      "questions": 264,
+      "questions": 266,
       "abilityCounts": {
-        "vocabulary": 110,
+        "vocabulary": 112,
         "theme": 53,
         "meaning": 73,
         "technique": 28
@@ -112,9 +112,9 @@
       "id": "essay-09",
       "title": "岳陽樓記",
       "kind": "prose",
-      "questions": 160,
+      "questions": 162,
       "abilityCounts": {
-        "vocabulary": 57,
+        "vocabulary": 59,
         "theme": 31,
         "meaning": 48,
         "technique": 24
@@ -138,9 +138,9 @@
       "id": "essay-11",
       "title": "山居秋暝",
       "kind": "poem",
-      "questions": 60,
+      "questions": 62,
       "abilityCounts": {
-        "vocabulary": 13,
+        "vocabulary": 15,
         "theme": 21,
         "technique": 21,
         "meaning": 5

@@ -1,0 +1,2025 @@
+{
+  "questions": 8,
+  "probes": 32,
+  "comparisons": 224,
+  "changed": 40,
+  "records": [
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "option-order",
+      "dimension": "student/foundation",
+      "before": "no",
+      "after": "no",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "option-order",
+      "dimension": "student/diagnostic",
+      "before": "no",
+      "after": "no",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "option-order",
+      "dimension": "student/integration",
+      "before": "no",
+      "after": "no",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "option-order",
+      "dimension": "student/exam_reasoning",
+      "before": "no",
+      "after": "no",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "option-order",
+      "dimension": "student/extension",
+      "before": "no",
+      "after": "no",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "option-order",
+      "dimension": "student/operation",
+      "before": "unknown",
+      "after": "recall",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "option-order",
+      "dimension": "student/shortcut",
+      "before": "unknown",
+      "after": "yes",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "option-order",
+      "dimension": "student/parallel",
+      "before": "unknown",
+      "after": "yes",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "label-order",
+      "dimension": "student/foundation",
+      "before": "no",
+      "after": "no",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "label-order",
+      "dimension": "student/diagnostic",
+      "before": "no",
+      "after": "no",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "label-order",
+      "dimension": "student/integration",
+      "before": "no",
+      "after": "no",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "label-order",
+      "dimension": "student/exam_reasoning",
+      "before": "no",
+      "after": "no",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "label-order",
+      "dimension": "student/extension",
+      "before": "no",
+      "after": "unknown",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "label-order",
+      "dimension": "student/operation",
+      "before": "unknown",
+      "after": "unknown",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "label-order",
+      "dimension": "student/shortcut",
+      "before": "unknown",
+      "after": "unknown",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "label-order",
+      "dimension": "student/parallel",
+      "before": "unknown",
+      "after": "unknown",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "option-order",
+      "dimension": "review/answer_support",
+      "before": "supported",
+      "after": "supported",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "option-order",
+      "dimension": "review/uniqueness",
+      "before": "unique",
+      "after": "multiple",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "option-order",
+      "dimension": "review/set_strength",
+      "before": "some",
+      "after": "some",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "option-order",
+      "dimension": "review/set_redundancy",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "option-order",
+      "dimension": "review/answer_form",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "option-order",
+      "dimension": "review/main_explanation",
+      "before": "generic",
+      "after": "generic",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "label-order",
+      "dimension": "review/answer_support",
+      "before": "supported",
+      "after": "supported",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "label-order",
+      "dimension": "review/uniqueness",
+      "before": "unique",
+      "after": "multiple",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "label-order",
+      "dimension": "review/set_strength",
+      "before": "some",
+      "after": "some",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "label-order",
+      "dimension": "review/set_redundancy",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "label-order",
+      "dimension": "review/answer_form",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-a-e05-p28-b00-g47",
+      "mode": "label-order",
+      "dimension": "review/main_explanation",
+      "before": "generic",
+      "after": "off_topic",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "option-order",
+      "dimension": "student/foundation",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "option-order",
+      "dimension": "student/diagnostic",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "option-order",
+      "dimension": "student/integration",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "option-order",
+      "dimension": "student/exam_reasoning",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "option-order",
+      "dimension": "student/extension",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "option-order",
+      "dimension": "student/operation",
+      "before": "comparison",
+      "after": "comparison",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "option-order",
+      "dimension": "student/shortcut",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "option-order",
+      "dimension": "student/parallel",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "label-order",
+      "dimension": "student/foundation",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "label-order",
+      "dimension": "student/diagnostic",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "label-order",
+      "dimension": "student/integration",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "label-order",
+      "dimension": "student/exam_reasoning",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "label-order",
+      "dimension": "student/extension",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "label-order",
+      "dimension": "student/operation",
+      "before": "comparison",
+      "after": "comparison",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "label-order",
+      "dimension": "student/shortcut",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "label-order",
+      "dimension": "student/parallel",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "option-order",
+      "dimension": "review/answer_support",
+      "before": "supported",
+      "after": "supported",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "option-order",
+      "dimension": "review/uniqueness",
+      "before": "multiple",
+      "after": "multiple",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "option-order",
+      "dimension": "review/set_strength",
+      "before": "some",
+      "after": "some",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "option-order",
+      "dimension": "review/set_redundancy",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "option-order",
+      "dimension": "review/answer_form",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "option-order",
+      "dimension": "review/main_explanation",
+      "before": "worked",
+      "after": "worked",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "label-order",
+      "dimension": "review/answer_support",
+      "before": "supported",
+      "after": "supported",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "label-order",
+      "dimension": "review/uniqueness",
+      "before": "multiple",
+      "after": "multiple",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "label-order",
+      "dimension": "review/set_strength",
+      "before": "some",
+      "after": "some",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "label-order",
+      "dimension": "review/set_redundancy",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "label-order",
+      "dimension": "review/answer_form",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-1",
+      "mode": "label-order",
+      "dimension": "review/main_explanation",
+      "before": "worked",
+      "after": "generic",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "option-order",
+      "dimension": "student/foundation",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "option-order",
+      "dimension": "student/diagnostic",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "option-order",
+      "dimension": "student/integration",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "option-order",
+      "dimension": "student/exam_reasoning",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "option-order",
+      "dimension": "student/extension",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "option-order",
+      "dimension": "student/operation",
+      "before": "comparison",
+      "after": "comparison",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "option-order",
+      "dimension": "student/shortcut",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "option-order",
+      "dimension": "student/parallel",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "label-order",
+      "dimension": "student/foundation",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "label-order",
+      "dimension": "student/diagnostic",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "label-order",
+      "dimension": "student/integration",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "label-order",
+      "dimension": "student/exam_reasoning",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "label-order",
+      "dimension": "student/extension",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "label-order",
+      "dimension": "student/operation",
+      "before": "comparison",
+      "after": "comparison",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "label-order",
+      "dimension": "student/shortcut",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "label-order",
+      "dimension": "student/parallel",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "option-order",
+      "dimension": "review/answer_support",
+      "before": "supported",
+      "after": "supported",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "option-order",
+      "dimension": "review/uniqueness",
+      "before": "multiple",
+      "after": "multiple",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "option-order",
+      "dimension": "review/set_strength",
+      "before": "some",
+      "after": "some",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "option-order",
+      "dimension": "review/set_redundancy",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "option-order",
+      "dimension": "review/answer_form",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "option-order",
+      "dimension": "review/main_explanation",
+      "before": "generic",
+      "after": "generic",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "label-order",
+      "dimension": "review/answer_support",
+      "before": "supported",
+      "after": "supported",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "label-order",
+      "dimension": "review/uniqueness",
+      "before": "multiple",
+      "after": "multiple",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "label-order",
+      "dimension": "review/set_strength",
+      "before": "some",
+      "after": "some",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "label-order",
+      "dimension": "review/set_redundancy",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "label-order",
+      "dimension": "review/answer_form",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-b-08-18-01-2",
+      "mode": "label-order",
+      "dimension": "review/main_explanation",
+      "before": "generic",
+      "after": "off_topic",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "option-order",
+      "dimension": "student/foundation",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "option-order",
+      "dimension": "student/diagnostic",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "option-order",
+      "dimension": "student/integration",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "option-order",
+      "dimension": "student/exam_reasoning",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "option-order",
+      "dimension": "student/extension",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "option-order",
+      "dimension": "student/operation",
+      "before": "comparison",
+      "after": "comparison",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "option-order",
+      "dimension": "student/shortcut",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "option-order",
+      "dimension": "student/parallel",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "label-order",
+      "dimension": "student/foundation",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "label-order",
+      "dimension": "student/diagnostic",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "label-order",
+      "dimension": "student/integration",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "label-order",
+      "dimension": "student/exam_reasoning",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "label-order",
+      "dimension": "student/extension",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "label-order",
+      "dimension": "student/operation",
+      "before": "comparison",
+      "after": "comparison",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "label-order",
+      "dimension": "student/shortcut",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "label-order",
+      "dimension": "student/parallel",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "option-order",
+      "dimension": "review/answer_support",
+      "before": "contradicted",
+      "after": "supported",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "option-order",
+      "dimension": "review/uniqueness",
+      "before": "multiple",
+      "after": "multiple",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "option-order",
+      "dimension": "review/set_strength",
+      "before": "some",
+      "after": "some",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "option-order",
+      "dimension": "review/set_redundancy",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "option-order",
+      "dimension": "review/answer_form",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "option-order",
+      "dimension": "review/main_explanation",
+      "before": "off_topic",
+      "after": "off_topic",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "label-order",
+      "dimension": "review/answer_support",
+      "before": "contradicted",
+      "after": "contradicted",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "label-order",
+      "dimension": "review/uniqueness",
+      "before": "multiple",
+      "after": "multiple",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "label-order",
+      "dimension": "review/set_strength",
+      "before": "some",
+      "after": "some",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "label-order",
+      "dimension": "review/set_redundancy",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "label-order",
+      "dimension": "review/answer_form",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-01",
+      "mode": "label-order",
+      "dimension": "review/main_explanation",
+      "before": "off_topic",
+      "after": "off_topic",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "option-order",
+      "dimension": "student/foundation",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "option-order",
+      "dimension": "student/diagnostic",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "option-order",
+      "dimension": "student/integration",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "option-order",
+      "dimension": "student/exam_reasoning",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "option-order",
+      "dimension": "student/extension",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "option-order",
+      "dimension": "student/operation",
+      "before": "comparison",
+      "after": "comparison",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "option-order",
+      "dimension": "student/shortcut",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "option-order",
+      "dimension": "student/parallel",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "label-order",
+      "dimension": "student/foundation",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "label-order",
+      "dimension": "student/diagnostic",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "label-order",
+      "dimension": "student/integration",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "label-order",
+      "dimension": "student/exam_reasoning",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "label-order",
+      "dimension": "student/extension",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "label-order",
+      "dimension": "student/operation",
+      "before": "comparison",
+      "after": "comparison",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "label-order",
+      "dimension": "student/shortcut",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "label-order",
+      "dimension": "student/parallel",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "option-order",
+      "dimension": "review/answer_support",
+      "before": "contradicted",
+      "after": "contradicted",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "option-order",
+      "dimension": "review/uniqueness",
+      "before": "unknown",
+      "after": "unknown",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "option-order",
+      "dimension": "review/set_strength",
+      "before": "none",
+      "after": "unknown",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "option-order",
+      "dimension": "review/set_redundancy",
+      "before": "yes",
+      "after": "no",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "option-order",
+      "dimension": "review/answer_form",
+      "before": "yes",
+      "after": "unknown",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "option-order",
+      "dimension": "review/main_explanation",
+      "before": "off_topic",
+      "after": "off_topic",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "label-order",
+      "dimension": "review/answer_support",
+      "before": "contradicted",
+      "after": "contradicted",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "label-order",
+      "dimension": "review/uniqueness",
+      "before": "unknown",
+      "after": "unknown",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "label-order",
+      "dimension": "review/set_strength",
+      "before": "none",
+      "after": "some",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "label-order",
+      "dimension": "review/set_redundancy",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "label-order",
+      "dimension": "review/answer_form",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-01-23-02-03",
+      "mode": "label-order",
+      "dimension": "review/main_explanation",
+      "before": "off_topic",
+      "after": "off_topic",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "option-order",
+      "dimension": "student/foundation",
+      "before": "yes",
+      "after": "no",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "option-order",
+      "dimension": "student/diagnostic",
+      "before": "no",
+      "after": "no",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "option-order",
+      "dimension": "student/integration",
+      "before": "yes",
+      "after": "no",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "option-order",
+      "dimension": "student/exam_reasoning",
+      "before": "yes",
+      "after": "no",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "option-order",
+      "dimension": "student/extension",
+      "before": "yes",
+      "after": "no",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "option-order",
+      "dimension": "student/operation",
+      "before": "recall",
+      "after": "comparison",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "option-order",
+      "dimension": "student/shortcut",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "option-order",
+      "dimension": "student/parallel",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "label-order",
+      "dimension": "student/foundation",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "label-order",
+      "dimension": "student/diagnostic",
+      "before": "no",
+      "after": "no",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "label-order",
+      "dimension": "student/integration",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "label-order",
+      "dimension": "student/exam_reasoning",
+      "before": "yes",
+      "after": "no",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "label-order",
+      "dimension": "student/extension",
+      "before": "yes",
+      "after": "no",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "label-order",
+      "dimension": "student/operation",
+      "before": "recall",
+      "after": "recall",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "label-order",
+      "dimension": "student/shortcut",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "label-order",
+      "dimension": "student/parallel",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "option-order",
+      "dimension": "review/answer_support",
+      "before": "supported",
+      "after": "supported",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "option-order",
+      "dimension": "review/uniqueness",
+      "before": "multiple",
+      "after": "multiple",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "option-order",
+      "dimension": "review/set_strength",
+      "before": "some",
+      "after": "some",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "option-order",
+      "dimension": "review/set_redundancy",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "option-order",
+      "dimension": "review/answer_form",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "option-order",
+      "dimension": "review/main_explanation",
+      "before": "worked",
+      "after": "off_topic",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "label-order",
+      "dimension": "review/answer_support",
+      "before": "supported",
+      "after": "supported",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "label-order",
+      "dimension": "review/uniqueness",
+      "before": "multiple",
+      "after": "unique",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "label-order",
+      "dimension": "review/set_strength",
+      "before": "some",
+      "after": "some",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "label-order",
+      "dimension": "review/set_redundancy",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "label-order",
+      "dimension": "review/answer_form",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-12-10-00-80",
+      "mode": "label-order",
+      "dimension": "review/main_explanation",
+      "before": "worked",
+      "after": "off_topic",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "option-order",
+      "dimension": "student/foundation",
+      "before": "no",
+      "after": "yes",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "option-order",
+      "dimension": "student/diagnostic",
+      "before": "no",
+      "after": "yes",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "option-order",
+      "dimension": "student/integration",
+      "before": "no",
+      "after": "yes",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "option-order",
+      "dimension": "student/exam_reasoning",
+      "before": "no",
+      "after": "yes",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "option-order",
+      "dimension": "student/extension",
+      "before": "no",
+      "after": "yes",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "option-order",
+      "dimension": "student/operation",
+      "before": "recall",
+      "after": "recall",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "option-order",
+      "dimension": "student/shortcut",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "option-order",
+      "dimension": "student/parallel",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "label-order",
+      "dimension": "student/foundation",
+      "before": "no",
+      "after": "no",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "label-order",
+      "dimension": "student/diagnostic",
+      "before": "no",
+      "after": "no",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "label-order",
+      "dimension": "student/integration",
+      "before": "no",
+      "after": "no",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "label-order",
+      "dimension": "student/exam_reasoning",
+      "before": "no",
+      "after": "no",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "label-order",
+      "dimension": "student/extension",
+      "before": "no",
+      "after": "no",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "label-order",
+      "dimension": "student/operation",
+      "before": "recall",
+      "after": "comparison",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "label-order",
+      "dimension": "student/shortcut",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "label-order",
+      "dimension": "student/parallel",
+      "before": "yes",
+      "after": "no",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "option-order",
+      "dimension": "review/answer_support",
+      "before": "supported",
+      "after": "supported",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "option-order",
+      "dimension": "review/uniqueness",
+      "before": "unknown",
+      "after": "unknown",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "option-order",
+      "dimension": "review/set_strength",
+      "before": "none",
+      "after": "none",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "option-order",
+      "dimension": "review/set_redundancy",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "option-order",
+      "dimension": "review/answer_form",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "option-order",
+      "dimension": "review/main_explanation",
+      "before": "unknown",
+      "after": "off_topic",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "label-order",
+      "dimension": "review/answer_support",
+      "before": "supported",
+      "after": "supported",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "label-order",
+      "dimension": "review/uniqueness",
+      "before": "unknown",
+      "after": "unique",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "label-order",
+      "dimension": "review/set_strength",
+      "before": "none",
+      "after": "all",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "label-order",
+      "dimension": "review/set_redundancy",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "label-order",
+      "dimension": "review/answer_form",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-c-16-09-04-80",
+      "mode": "label-order",
+      "dimension": "review/main_explanation",
+      "before": "unknown",
+      "after": "off_topic",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "option-order",
+      "dimension": "student/foundation",
+      "before": "no",
+      "after": "no",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "option-order",
+      "dimension": "student/diagnostic",
+      "before": "no",
+      "after": "no",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "option-order",
+      "dimension": "student/integration",
+      "before": "no",
+      "after": "no",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "option-order",
+      "dimension": "student/exam_reasoning",
+      "before": "no",
+      "after": "no",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "option-order",
+      "dimension": "student/extension",
+      "before": "no",
+      "after": "no",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "option-order",
+      "dimension": "student/operation",
+      "before": "recall",
+      "after": "inference",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "option-order",
+      "dimension": "student/shortcut",
+      "before": "no",
+      "after": "no",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "option-order",
+      "dimension": "student/parallel",
+      "before": "yes",
+      "after": "no",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "label-order",
+      "dimension": "student/foundation",
+      "before": "no",
+      "after": "yes",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "label-order",
+      "dimension": "student/diagnostic",
+      "before": "no",
+      "after": "no",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "label-order",
+      "dimension": "student/integration",
+      "before": "no",
+      "after": "no",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "label-order",
+      "dimension": "student/exam_reasoning",
+      "before": "no",
+      "after": "no",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "label-order",
+      "dimension": "student/extension",
+      "before": "no",
+      "after": "no",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "label-order",
+      "dimension": "student/operation",
+      "before": "recall",
+      "after": "recall",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "label-order",
+      "dimension": "student/shortcut",
+      "before": "no",
+      "after": "yes",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "label-order",
+      "dimension": "student/parallel",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "option-order",
+      "dimension": "review/answer_support",
+      "before": "supported",
+      "after": "supported",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "option-order",
+      "dimension": "review/uniqueness",
+      "before": "multiple",
+      "after": "multiple",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "option-order",
+      "dimension": "review/set_strength",
+      "before": "some",
+      "after": "some",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "option-order",
+      "dimension": "review/set_redundancy",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "option-order",
+      "dimension": "review/answer_form",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "option-order",
+      "dimension": "review/main_explanation",
+      "before": "off_topic",
+      "after": "worked",
+      "comparable": true,
+      "changed": true
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "label-order",
+      "dimension": "review/answer_support",
+      "before": "supported",
+      "after": "supported",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "label-order",
+      "dimension": "review/uniqueness",
+      "before": "multiple",
+      "after": "multiple",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "label-order",
+      "dimension": "review/set_strength",
+      "before": "some",
+      "after": "some",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "label-order",
+      "dimension": "review/set_redundancy",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "label-order",
+      "dimension": "review/answer_form",
+      "before": "yes",
+      "after": "yes",
+      "comparable": true,
+      "changed": false
+    },
+    {
+      "questionId": "full-d-16-01",
+      "mode": "label-order",
+      "dimension": "review/main_explanation",
+      "before": "off_topic",
+      "after": "off_topic",
+      "comparable": true,
+      "changed": false
+    }
+  ],
+  "meaning": "Order consistency probe, not accuracy or student performance"
+}

@@ -1,10 +1,50 @@
-import {questionMistakes} from '../domain/training.mjs';
+import {questionMistakes,effectiveAttempts} from '../domain/training.mjs';
 import {esc,button,quote,essayTitle,abilities,heading} from './shared.mjs';
 const choiceLabel=c=>c.displayLabel||c.id.toUpperCase();
+function readingUnits(text){
+ const units=[];let start=0,depth=0;
+ const add=part=>{if(!part.trim()&&units.length)units[units.length-1]+=part;else units.push(part);};
+ for(let i=0;i<text.length;i++){
+  if('「『“（('.includes(text[i]))depth++;
+  else if('」』”）)'.includes(text[i]))depth=Math.max(0,depth-1);
+  if(!depth&&('。！？\n'.includes(text[i])||(text[i]==='；'&&i-start>45))){add(text.slice(start,i+1));start=i+1;}
+ }
+ if(start<text.length)add(text.slice(start));
+ return units;
+}
+function readingMarks(text,q,budget){
+ const answer=q.choices?.find(c=>c.id===q.answerId)?.text||'';
+ const evidence=String(q.quote||'').split(/[，。；！？\n「」『』《》]/).map(s=>s.trim()).filter(s=>s.length>=4&&s.length<=28&&text.includes(s)).sort((a,b)=>text.indexOf(a)-text.indexOf(b))[0];
+ const answerParts=[answer,...answer.split(/[，。、；：]/)].filter(s=>s.length>=4&&s.length<=32&&text.includes(s)).sort((a,b)=>b.length-a.length);
+ const contrast=text.match(/(?:並非|而非|不是|不能|不應|不等於|不代表|不可|只有|還須|須有)[^，。；！？\n]+/)?.[0];
+ const conclusion=text.match(/(?:重點是|應解作|應譯成|因此|所以|可見)[^，。；！？\n]+/)?.[0];
+ const clauses=text.split(/[，。；：\n]/).map(s=>s.trim()).filter(s=>s.length>=4&&s.length<=28&&!/^(?:依本|按本|例如|例子|作用)/.test(s));
+ const example=/^\s*(?:例子|例如|例：)/.test(text);
+ const focus=example?text.match(/[）)]([^，。；！？\n]{4,28})(?=[。；！？\n]|$)/)?.[1]:[answerParts[0],contrast,conclusion,clauses[0]].find(s=>s&&s.length<=40);
+ const ranges=[];
+ for(const [value,kind] of [[focus,'highlight'],[evidence,'evidence']]){
+  if(!value||value.length>budget)continue;
+  const start=text.indexOf(value),end=start+value.length;
+  if(ranges.some(r=>start<r.end&&end>r.start))continue;
+  ranges.push({start,end,kind});budget-=value.length;
+ }
+ ranges.sort((a,b)=>a.start-b.start);let result='',cursor=0;
+ for(const r of ranges){const tag=r.kind==='highlight'?'mark':'u';result+=esc(text.slice(cursor,r.start))+'<'+tag+' class="explanation-'+r.kind+'">'+esc(text.slice(r.start,r.end))+'</'+tag+'>';cursor=r.end;}
+ return {html:result+esc(text.slice(cursor)),used:ranges.reduce((n,r)=>n+r.end-r.start,0),evidence:!!evidence,contrast:!!contrast};
+}
+export function annotatedExplanation(value,q,role='detail'){
+ const text=String(value||'');if(!text)return '';
+ let budget=Math.min(72,Math.max(24,Math.ceil(text.length*.45)));
+ return '<div class="annotated-explanation">'+readingUnits(text).map((part,index)=>{
+  const marked=readingMarks(part,q,budget);budget-=marked.used;
+  const label=/^\s*(?:例子|例如|例：)/.test(part)?'例子':/^\s*作用[：:]/.test(part)?'作用':role==='wrong'&&index===0?'錯在這裏':marked.evidence?'原文依據':index===0?'要點':marked.contrast?'關鍵區別':'補充';
+  return '<p class="explanation-detail annotated-paragraph"><span class="annotation-label">'+label+'</span><span class="annotated-copy">'+marked.html+'</span></p>';
+ }).join('')+'</div>';
+}
 function explanationView(q,p,mode){
  const correct=q.choices.find(c=>c.id===q.answerId);
  const selected=mode==='choice'&&p.answer!==q.answerId?q.choices.find(c=>c.id===p.answer):null;
- const paragraphs=value=>String(value||'').split(/\r?\n/).filter(s=>s.trim()).map(s=>'<p class="explanation-detail">'+esc(s)+'</p>').join('');
+ const paragraphs=(value,role)=>annotatedExplanation(value,q,role);
  const others=q.choices.filter(c=>!selected||c.id!==selected.id);
  const answer=correct?.text||'請核對下方解析';
  const summary=String(q.summary||'').trim();
@@ -14,15 +54,15 @@ function explanationView(q,p,mode){
  const targetIndex=q.ability==='vocabulary'&&q.target?(hasTargetSpan?q.targetStart:quote.indexOf(q.target)):-1;
  const clause=targetIndex<0?'':quote.slice(Math.max(0,quote.lastIndexOf('，',targetIndex)+1,quote.lastIndexOf('。',targetIndex)+1,quote.lastIndexOf('；',targetIndex)+1),Math.min(...['，','。','；'].map(mark=>{const i=quote.indexOf(mark,targetIndex);return i<0?quote.length:i}))).trim();
  const keyQuote=clause.length<=30?clause:'';
- const extraSummary=summary&&summary!==focus&&summary!==q.explanation?'<p class="explanation-detail">'+esc(summary)+'</p>':'';
  const detail=q.explanation||correct?.explanation||'';
+ const extraSummary=summary&&summary!==focus&&!detail.includes(summary)?paragraphs(summary):'';
  const showDetail=extraSummary||detail&&detail!==focus&&detail!==answer;
  const genericWrong=selected&&q.ability==='vocabulary'&&q.target&&/^(?:此項把文意理解為|「[^」]+」不合本句所指或語法關係)/.test(selected.explanation||'');
- const wrongReason=genericWrong?'<p class="explanation-detail">你選了「'+esc(selected.text)+'」。'+(keyQuote?'看原句「'+esc(keyQuote)+'」，':'')+'這裏的「'+esc(q.target)+'」是「'+esc(answer)+'」。</p><details><summary>查看原有選項解析</summary>'+paragraphs(selected.explanation)+'</details>':paragraphs(selected?.explanation||'請對照原文及參考答案。');
+ const wrongReason=genericWrong?'<p class="explanation-detail">你選了「'+esc(selected.text)+'」。'+(keyQuote?'看原句「'+esc(keyQuote)+'」，':'')+'這裏的「'+esc(q.target)+'」是「'+esc(answer)+'」。</p><details><summary>查看原有選項解析</summary>'+paragraphs(selected.explanation,'wrong')+'</details>':paragraphs(selected?.explanation||'請對照原文及參考答案。','wrong');
  return '<div class="explanation"><div class="learning-point"><h3>先看這題答案</h3><p>'+esc(focus)+'</p>'+(keyQuote?'<p class="key-quote">原句關鍵：'+esc(keyQuote)+'</p>':'')+'</div>'+
   (selected?'<section class="selected-explanation"><h3>你選的選項差在哪裏</h3><p class="selected-answer">'+esc(choiceLabel(selected))+' · '+esc(selected.text)+'</p>'+wrongReason+'</section>':'')+
   (showDetail?'<details class="answer-reason"'+(mode==='typing'?' open':'')+'><summary>看原文與完整解析</summary>'+extraSummary+paragraphs(detail)+'</details>':'')+
-  '<details><summary>逐項辨析'+(selected?' · 其他選項':'')+'</summary>'+others.map(c=>'<div class="choice-review"><p class="choice-review-title">'+esc(choiceLabel(c))+' · '+esc(c.text)+'</p>'+paragraphs(c.explanation)+'</div>').join('')+'</details></div>';
+  '<details><summary>逐項辨析'+(selected?' · 其他選項':'')+'</summary>'+others.map(c=>'<div class="choice-review"><p class="choice-review-title">'+esc(choiceLabel(c))+' · '+esc(c.text)+'</p>'+paragraphs(c.explanation,c.id===q.answerId?'detail':'wrong')+'</div>').join('')+'</details></div>';
 }
 export function answerMode(q,session,payload){
  return payload?.mode||(q.responseFormat==='single-choice'?'choice':session.mode==='mixed'&&session.index%3===2?'typing':'choice');
@@ -50,6 +90,16 @@ export function practiceView(bank,session,state){
  return '<div class="practice-head">'+button('pause','← 暫停並保存','','quiet')+'<span class="session-meta">'+(session.index+1)+' / '+session.questions.length+'</span></div><div class="progress-track"><span style="width:'+((session.index/session.questions.length)*100)+'%"></span></div>'+(!hasQuote?'<p class="section-note">'+esc(titles)+'</p>':'')+'<div class="question-layout'+(!hasQuote?' question-only':'')+'">'+material+'<section class="answer-panel" id="answer-panel">'+answerPanel(q,session,state)+'</section></div>';
 }
 export function summaryView(bank,session,state){
- const records=state.attempts.filter(e=>e.payload.sessionId===session.id),firstIds=new Set(state.firsts.map(f=>f.id));
- return heading('這一組，積累好了','首次表現與當天重練分開看；一題答對不代表整篇已掌握。')+'<div class="metric-grid"><div class="metric"><strong>'+records.length+'</strong>已完成作答</div><div class="metric"><strong>'+records.filter(e=>firstIds.has(e.id)).length+'</strong>每日首次</div><div class="metric"><strong>'+records.filter(e=>!firstIds.has(e.id)).length+'</strong>當天重練</div></div>'+session.essayIds.map(id=>{const rs=records.filter(e=>e.payload.question.essayIds.includes(id)),fs=rs.filter(e=>firstIds.has(e.id)),weak=fs.filter(e=>state.firsts.find(f=>f.id===e.id)?.correct!==true);return '<div class="saved-row"><h3>'+esc(essayTitle(bank,id))+'</h3><p>'+rs.length+' 題 · 每日首次 '+fs.length+' 題 · 待鞏固 '+weak.length+' 題</p><p class="subtle">'+weak.map(e=>esc(e.payload.question.target||e.payload.question.stem)).join('、')+'</p></div>';}).join('')+'<div class="toolbar">'+button('nav','返回今日訓練','data-page="home"')+button('retry-today','錯題回練','','secondary')+button('extra','自選加練','','quiet')+button('nav','看看薄弱地圖','data-page="weakness"','secondary')+'</div>';
+ const records=effectiveAttempts(state).filter(a=>a.sessionId===session.id),firstIds=new Set(state.firsts.map(f=>f.id));
+ const chapterIds=[...new Set(records.flatMap(a=>a.question.essayIds.length?a.question.essayIds:['']))];
+ const rows=chapterIds.map(id=>{
+  const rs=records.filter(a=>id?a.question.essayIds.includes(id):!a.question.essayIds.length);
+  const correct=rs.filter(a=>a.correct===true).length,wrong=rs.filter(a=>a.correct===false).length,pending=rs.length-correct-wrong;
+  return '<div class="saved-row"><h3>'+esc(id?essayTitle(bank,id):'手法附錄')+'</h3><p>'+rs.length+' 題 · 本次答對 '+correct+' · 本次答錯 '+wrong+(pending?' · 待自查 '+pending:'')+'</p></div>';
+ }).join('');
+ return heading('這組練習已完成','本次結果與長期複習分開看；一題答對不代表整篇已掌握。')+
+ '<div class="metric-grid"><div class="metric"><strong>'+records.length+'</strong>本組已完成作答</div><div class="metric"><strong>'+records.filter(a=>firstIds.has(a.id)).length+'</strong>每日首次作答</div><div class="metric"><strong>'+records.filter(a=>!firstIds.has(a.id)).length+'</strong>當天重練作答</div></div>'+
+ rows+'<p class="section-note">回練答對表示這次已訂正；當日曾答錯的知識點仍保留次日複習安排，薄弱頁不會立即清零。回練不重複計入今日目標。</p>'+
+ (records.some(a=>a.question.essayIds.length>1)?'<p class="subtle">跨篇題會列於相關篇章；上方總數按實際作答次數計算。</p>':'')+
+ '<div class="toolbar">'+button('nav','返回今日訓練','data-page="home"')+button('retry-today','錯題回練','','secondary')+button('extra','自選加練','','quiet')+button('nav','看看薄弱知識點','data-page="weakness"','secondary')+'</div>';
 }

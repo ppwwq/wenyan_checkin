@@ -1,0 +1,5714 @@
+{
+  "baselineVersion": "2026.09.23.15",
+  "date": "2026-09-23",
+  "author": "Codex chapter author",
+  "reviewMethod": "source-review-and-author-self-check",
+  "records": [
+    {
+      "id": "q-e10-exp-001",
+      "ordinal": 1,
+      "baseQuestionHash": "9fe4b3877cf9309db09f4ef8a57215661ee7c69234fa95445ce16cca0bbc5ba5",
+      "patch": {
+        "explanation": "依本題以利為鋒利的限定，兵直接指兵器，非兵不利是否定兵器不鋒利這個根本敗因。資料也容兵器借指軍力，但不能忽略題目已指定的直接詞義。",
+        "summary": "依本題以利為鋒利的限定，兵直接指兵器，非兵不利是否定兵器不鋒利這個根本敗因。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "軍隊",
+            "explanation": "軍隊是可延伸的軍事義，此題限定兵器鋒利。"
+          },
+          {
+            "id": "b",
+            "text": "兵器",
+            "explanation": "依本題以利為鋒利的限定，兵直接指兵器，非兵不利是否定兵器不鋒利這個根本敗因。"
+          },
+          {
+            "id": "c",
+            "text": "戰爭",
+            "explanation": "戰爭是行為事件，不以鋒利形容。"
+          },
+          {
+            "id": "d",
+            "text": "戰術",
+            "explanation": "戰術是作戰方法，後面的戰不善另談。"
+          }
+        ],
+        "misconception": "軍隊是可延伸的軍事義，此題限定兵器鋒利；戰爭是行為事件，不以鋒利形容；戰術是作戰方法，後面的戰不善另談。"
+      },
+      "objective": "依本書原文注釋，把「利」解作「鋒利」時，「非兵不利」的「兵」直接指甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e10-exp-002",
+      "ordinal": 2,
+      "baseQuestionHash": "b9024f18f6311955f3d7185966d36ea87cd986ebbaea227ea7b41ae71f8d6a68",
+      "patch": {
+        "explanation": "舉是全部拿出，舉以予人說把祖業土地拿去送人。它與先祖艱難得地對照，突出子孫不惜土地；不是將某件物品往高處舉。",
+        "summary": "舉是全部拿出，舉以予人說把祖業土地拿去送人。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "全部拿出",
+            "explanation": "舉是全部拿出，舉以予人說把祖業土地拿去送人。"
+          },
+          {
+            "id": "b",
+            "text": "舉起",
+            "explanation": "舉起只說身體動作，漏掉全數拿出的範圍。"
+          },
+          {
+            "id": "c",
+            "text": "推舉",
+            "explanation": "推舉須有被推薦者，本文送的是土地。"
+          },
+          {
+            "id": "d",
+            "text": "列舉",
+            "explanation": "列舉說逐項提出，非予人土地的行動。"
+          }
+        ],
+        "misconception": "舉起只說身體動作，漏掉全數拿出的範圍；推舉須有被推薦者，本文送的是土地；列舉說逐項提出，非予人土地的行動。"
+      },
+      "objective": "文句中「舉」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e10-exp-003",
+      "ordinal": 3,
+      "baseQuestionHash": "3df69ee09ae8ed3a6677c61e907c5a564c989b1a9776d98cf7c6d27cf756926a",
+      "patch": {
+        "explanation": "厭通饜，是滿足，無厭說秦的貪欲沒有止境。它與諸侯土地有限對照，說明割地求安難以持續；若解成厭惡，便錯置欲望的方向。",
+        "summary": "厭通饜，是滿足，無厭說秦的貪欲沒有止境。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "厭惡",
+            "explanation": "無厭不是不討厭，而是不滿足。"
+          },
+          {
+            "id": "b",
+            "text": "疲倦",
+            "explanation": "疲倦說體力精神狀態，非貪欲終點。"
+          },
+          {
+            "id": "c",
+            "text": "壓制",
+            "explanation": "壓制是外力限制，不是欲望自身滿足。"
+          },
+          {
+            "id": "d",
+            "text": "滿足",
+            "explanation": "厭通饜，是滿足，無厭說秦的貪欲沒有止境。"
+          }
+        ],
+        "misconception": "無厭不是不討厭，而是不滿足；疲倦說體力精神狀態，非貪欲終點；壓制是外力限制，不是欲望自身滿足。"
+      },
+      "objective": "文句中「厭」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e10-exp-004",
+      "ordinal": 4,
+      "baseQuestionHash": "4913da841de7d0465c662ed6fc74127f473171558a6ec3abc8d10597590f2304",
+      "patch": {
+        "explanation": "再是兩次，後秦擊趙者再交代後來攻趙的次數。前文已有五戰二敗三勝，這裏另列後來兩次，不能按現代再來一次理解成一次或泛指多次。",
+        "summary": "再是兩次，後秦擊趙者再交代後來攻趙的次數。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "又一次",
+            "explanation": "又一次少算本句限定的兩次。"
+          },
+          {
+            "id": "b",
+            "text": "多次",
+            "explanation": "多次太含混，古義再有明確數量。"
+          },
+          {
+            "id": "c",
+            "text": "兩次",
+            "explanation": "再是兩次，後秦擊趙者再交代後來攻趙的次數。"
+          },
+          {
+            "id": "d",
+            "text": "稍後再做",
+            "explanation": "稍後再做表未來，本句記已發生攻擊。"
+          }
+        ],
+        "misconception": "又一次少算本句限定的兩次；多次太含混，古義再有明確數量；稍後再做表未來，本句記已發生攻擊。"
+      },
+      "objective": "文句中「再」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e10-exp-005",
+      "ordinal": 5,
+      "baseQuestionHash": "2a8f6b7a31c8128cf3e60d913ef0da4d0ebece57f11523696b42bc1febe40d69",
+      "patch": {
+        "explanation": "故事是舊事、先例，破亡限定為六國敗亡的前車之鑑。從故事是沿襲導致失敗的做法，不是跟着一個虛構敘事，也不等於所有歷史都不值得學。",
+        "summary": "故事是舊事、先例，破亡限定為六國敗亡的前車之鑑。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "虛構的敘事",
+            "explanation": "現代故事可為虛構，本文重已往敗例。"
+          },
+          {
+            "id": "b",
+            "text": "舊事、先例",
+            "explanation": "故事是舊事、先例，破亡限定為六國敗亡的前車之鑑。"
+          },
+          {
+            "id": "c",
+            "text": "新近的消息",
+            "explanation": "新消息與舊例時間相反。"
+          },
+          {
+            "id": "d",
+            "text": "故人的事跡",
+            "explanation": "故指過往，不專指故人的生平。"
+          }
+        ],
+        "misconception": "現代故事可為虛構，本文重已往敗例；新消息與舊例時間相反；故指過往，不專指故人的生平。"
+      },
+      "objective": "文句中「故事」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e10-exp-006",
+      "ordinal": 6,
+      "baseQuestionHash": "70bfd3c2dd60e45636f22257efaf5a669c9413bbf3a50db608b4bc27f7b3a9f6",
+      "patch": {
+        "explanation": "共同敗因是賂秦者削弱而亡，使不賂者失去強援，難獨保全。齊燕趙還各有決策問題，但不能把某國的刺客或殺將錯誤套成三國共同原因。",
+        "summary": "共同敗因是賂秦者削弱而亡，使不賂者失去強援，難獨保全。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "賂秦者削弱而亡，使不賂者失去強援",
+            "explanation": "共同敗因是賂秦者削弱而亡，使不賂者失去強援，難獨保全。"
+          },
+          {
+            "id": "b",
+            "text": "不賂者親附秦國，均不願援助五國",
+            "explanation": "親秦不援是齊的個別選擇，非全部不賂者。"
+          },
+          {
+            "id": "c",
+            "text": "不賂者改用刺客，所以提早招致秦禍",
+            "explanation": "派刺客是燕的個別敗因。"
+          },
+          {
+            "id": "d",
+            "text": "不賂者殺害良將，所以未能堅持用武",
+            "explanation": "殺良將是趙的個別敗因。"
+          }
+        ],
+        "misconception": "親秦不援是齊的個別選擇，非全部不賂者；派刺客是燕的個別敗因；殺良將是趙的個別敗因。"
+      },
+      "objective": "「蓋失強援，不能獨完」提出不賂者哪一項共同敗因？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e10-exp-007",
+      "ordinal": 7,
+      "baseQuestionHash": "856e2faffb6857e0606d0d9937fecf8bd5f1640fcfe2c10f380259ac0bf6c51d",
+      "patch": {
+        "explanation": "結尾以當世統一大國的有利條件，反襯仍循六國敗轍更加可責。六國較弱尚有抗秦可能，為國者更不應被積威脅迫；這是由古到今的警告，不是模仿齊燕錯策。",
+        "summary": "結尾以當世統一大國的有利條件，反襯仍循六國敗轍更加可責。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "六國兵器作戰不利，當世應先改善軍械和戰法",
+            "explanation": "篇首已否定兵戰為根本敗因。"
+          },
+          {
+            "id": "b",
+            "text": "齊國未曾割地而亡，當世應仿齊與強敵建立聯繫",
+            "explanation": "齊附秦不援正受批評，不能仿效。"
+          },
+          {
+            "id": "c",
+            "text": "燕趙曾堅持用兵，當世應把外交資源全改為刺敵計策",
+            "explanation": "刺客招禍是反例，非作者補救建議。"
+          },
+          {
+            "id": "d",
+            "text": "條件勝過六國，若仍因強敵威勢而重蹈敗轍更可責",
+            "explanation": "結尾以當世統一大國的有利條件，反襯仍循六國敗轍更加可責。"
+          }
+        ],
+        "misconception": "篇首已否定兵戰為根本敗因；齊附秦不援正受批評，不能仿效；刺客招禍是反例，非作者補救建議。"
+      },
+      "objective": "結尾說有「天下之大」卻重蹈六國覆轍，意在提醒當世治國者甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e10-exp-008",
+      "ordinal": 8,
+      "baseQuestionHash": "74d9c244932f78453c8a31e2313c9bb439448c121d8911875f0d1c52b5d094f7",
+      "patch": {
+        "explanation": "抱薪救火比獻地求免侵略卻反助秦力秦欲，方法加重本想消除的禍患。柴對土地、火對侵欲、救火對求安，重點是措施的反效果。",
+        "summary": "抱薪救火比獻地求免侵略卻反助秦力秦欲，方法加重本想消除的禍患。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "諸侯失去援國，最後難以單獨保全",
+            "explanation": "失援是另一條因果，並非柴助火的直接對應。"
+          },
+          {
+            "id": "b",
+            "text": "李牧接連卻敵，卻因讒言失去重用",
+            "explanation": "李牧被害關乎用人，不是割地添敵力。"
+          },
+          {
+            "id": "c",
+            "text": "獻地求免侵略，反而增長敵力與侵欲",
+            "explanation": "抱薪救火比獻地求免侵略卻反助秦力秦欲，方法加重本想消除的禍患。"
+          },
+          {
+            "id": "d",
+            "text": "祖先艱難得地，子孫輕易送給別人",
+            "explanation": "輕棄祖業另見草芥比喻，未完整說求安反致禍。"
+          }
+        ],
+        "misconception": "失援是另一條因果，並非柴助火的直接對應；李牧被害關乎用人，不是割地添敵力；輕棄祖業另見草芥比喻，未完整說求安反致禍。"
+      },
+      "objective": "「抱薪救火」最直接比擬哪一種政策的反效果？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-appendix-006",
+      "ordinal": 9,
+      "baseQuestionHash": "f1f5bfdbda6bd2a95b4ce441f95c3332f1cc665c904366a54c1ad6b6d26e6127",
+      "patch": {
+        "explanation": "前句末的賂秦緊接後句首，構成頂真，把中心論點連到國力耗損的因果。辨認手法不只數重複，還要看到它發生在相鄰句首尾的承接位置。",
+        "summary": "前句末的賂秦緊接後句首，構成頂真，把中心論點連到國力耗損的因果。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "設問，由六國互喪引出不賂者失援",
+            "explanation": "此兩句沒有問答，非設問。"
+          },
+          {
+            "id": "b",
+            "text": "對比，由戰得戰失凸顯非戰土地轉移",
+            "explanation": "未作兩方數量比較，非此處對比。"
+          },
+          {
+            "id": "c",
+            "text": "頂真，由賂秦緊接到力虧的因果",
+            "explanation": "前句末的賂秦緊接後句首，構成頂真，把中心論點連到國力耗損的因果。"
+          },
+          {
+            "id": "d",
+            "text": "引用，由古人的話印證割地難求安",
+            "explanation": "此處是作者立論，不是引古語。"
+          }
+        ],
+        "misconception": "此兩句沒有問答，非設問；未作兩方數量比較，非此處對比；此處是作者立論，不是引古語。"
+      },
+      "objective": "「弊在賂秦。賂秦而力虧」的詞語銜接屬甚麼手法？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-appendix-008",
+      "ordinal": 10,
+      "baseQuestionHash": "ab739dcc45867a2786b2d1aeeeb8b575cc7dd67debd30142c79c82c18dc08276",
+      "patch": {
+        "explanation": "設問處理不賂者也亡這個表面反例，再以失援補足總論。作者沒有斷言六國都直接割地，而是分直接力虧、間接失援兩路，使弊在賂秦較周密。",
+        "summary": "設問處理不賂者也亡這個表面反例，再以失援補足總論。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "處理不賂者仍亡的表面反例，補上失援的解釋",
+            "explanation": "設問處理不賂者也亡這個表面反例，再以失援補足總論。"
+          },
+          {
+            "id": "b",
+            "text": "處理秦戰勝得地的數量問題，補上百倍的比較",
+            "explanation": "百倍數量在第二段另論，非此問焦點。"
+          },
+          {
+            "id": "c",
+            "text": "處理燕趙為何較晚亡的問題，補上用兵的成效",
+            "explanation": "後亡的用兵成效在燕趙例另論。"
+          },
+          {
+            "id": "d",
+            "text": "處理秦為何食不下嚥的問題，補上六國合力的設想",
+            "explanation": "食不下嚥屬後面合力方案，非首段疑問。"
+          }
+        ],
+        "misconception": "百倍數量在第二段另論，非此問焦點；後亡的用兵成效在燕趙例另論；食不下嚥屬後面合力方案，非首段疑問。"
+      },
+      "objective": "「六國互喪，率賂秦耶？」後立即解答，這一安排有何作用？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-01-03-1",
+      "ordinal": 11,
+      "baseQuestionHash": "ea98fab2e56611247eb250c2e612deaaf636b76e8ba0c5a4d184e2e6a8e6e5a7",
+      "patch": {
+        "explanation": "利在本書此句解作鋒利，兵器不利說武器不鋒利，非又把這一敗因否定。整句先排除常見軍事解釋，再突出賂秦，不是說六國沒有任何作戰問題。",
+        "summary": "利在本書此句解作鋒利，兵器不利說武器不鋒利，非又把這一敗因否定。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "鋒利",
+            "explanation": "利在本書此句解作鋒利，兵器不利說武器不鋒利，非又把這一敗因否定。"
+          },
+          {
+            "id": "b",
+            "text": "利益",
+            "explanation": "利益是所得好處，非兵器質地。"
+          },
+          {
+            "id": "c",
+            "text": "順利",
+            "explanation": "順利形容進展，非本題兵器的銳利。"
+          },
+          {
+            "id": "d",
+            "text": "便利",
+            "explanation": "便利是方便，不如鋒利準確對應兵器。"
+          }
+        ],
+        "misconception": "利益是所得好處，非兵器質地；順利形容進展，非本題兵器的銳利；便利是方便，不如鋒利準確對應兵器。"
+      },
+      "objective": "文句中「利」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-01-03-2",
+      "ordinal": 12,
+      "baseQuestionHash": "6a6eec2f99eedd3ace6db45dbd131f255e400f1e442fe90d5db2bdcb8c019af5",
+      "patch": {
+        "explanation": "賂是割地賄賂秦國，希望換取安寧。文中後以五城十城具體展開，方向是諸侯把地送秦，不是賣地交易、武力奪地或封賞自家謀臣。",
+        "summary": "賂是割地賄賂秦國，希望換取安寧。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "賣地換物",
+            "explanation": "賄賂求安不是等價買賣。"
+          },
+          {
+            "id": "b",
+            "text": "割地賄賂",
+            "explanation": "賂是割地賄賂秦國，希望換取安寧。"
+          },
+          {
+            "id": "c",
+            "text": "出兵取地",
+            "explanation": "出兵取地是攻取，方向與送地相反。"
+          },
+          {
+            "id": "d",
+            "text": "封地賞臣",
+            "explanation": "封臣在後文是替代賂秦的方案。"
+          }
+        ],
+        "misconception": "賄賂求安不是等價買賣；出兵取地是攻取，方向與送地相反；封臣在後文是替代賂秦的方案。"
+      },
+      "objective": "文句中「賂」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-01-03-3",
+      "ordinal": 13,
+      "baseQuestionHash": "8ab999756d5794fc0ae3b70948d9c77d84691433c0bdc3a11fcee9ad9c9c1fa2",
+      "patch": {
+        "explanation": "力虧是國力耗損，割地使抵抗秦國的資源削弱。破滅之道把這種削弱連到亡國原因，範圍不只士卒疲倦，也不是君主道理上站不住腳。",
+        "summary": "力虧是國力耗損，割地使抵抗秦國的資源削弱。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "國力耗損",
+            "explanation": "力虧是國力耗損，割地使抵抗秦國的資源削弱。"
+          },
+          {
+            "id": "b",
+            "text": "士兵疲倦",
+            "explanation": "士兵疲倦只局部體能，不能涵蓋失地削國力。"
+          },
+          {
+            "id": "c",
+            "text": "君主理虧",
+            "explanation": "理虧說道理不足，非力量耗損。"
+          },
+          {
+            "id": "d",
+            "text": "耕地欠收",
+            "explanation": "耕地欠收沒有在本句建立為原因。"
+          }
+        ],
+        "misconception": "士兵疲倦只局部體能，不能涵蓋失地削國力；理虧說道理不足，非力量耗損；耕地欠收沒有在本句建立為原因。"
+      },
+      "objective": "文句中「力虧」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-01-03-4",
+      "ordinal": 14,
+      "baseQuestionHash": "a510a71bf665a22c44c61aeb5d8569a7dc4108b090b0b2e9a3335d0e72d271af",
+      "patch": {
+        "explanation": "道是原因，破滅之道把賂秦而力虧判定為滅亡的由來。它不是教人主動尋求亡國的方法，也不是實際道路；須接回前句整條因果。",
+        "summary": "道是原因，破滅之道把賂秦而力虧判定為滅亡的由來。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "方法",
+            "explanation": "方法是為目的採取的手段，此句在解釋敗亡原因。"
+          },
+          {
+            "id": "b",
+            "text": "道路",
+            "explanation": "道路是空間通路，非政論因果。"
+          },
+          {
+            "id": "c",
+            "text": "原因",
+            "explanation": "道是原因，破滅之道把賂秦而力虧判定為滅亡的由來。"
+          },
+          {
+            "id": "d",
+            "text": "道德",
+            "explanation": "道德不是此處之道所指的內容。"
+          }
+        ],
+        "misconception": "方法是為目的採取的手段，此句在解釋敗亡原因；道路是空間通路，非政論因果；道德不是此處之道所指的內容。"
+      },
+      "objective": "文句中「道」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-01-03-5",
+      "ordinal": 15,
+      "baseQuestionHash": "afb7de4d92ea5fa2ba08630ea70f5c95a2e31a90fea0563f5e993b6e371fbda3",
+      "patch": {
+        "explanation": "或是有人，或曰先設一個發問者，提出六國是否全賂秦的質疑。後面的曰由作者作答，形成設問；或此時不是推測語氣，也不指某些方面。",
+        "summary": "或是有人，或曰先設一個發問者，提出六國是否全賂秦的質疑。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "有時",
+            "explanation": "有時表示時間，曰前在指說話人。"
+          },
+          {
+            "id": "b",
+            "text": "也許",
+            "explanation": "也許不是此處設想發問者的用法。"
+          },
+          {
+            "id": "c",
+            "text": "有的方面",
+            "explanation": "方面不能作曰的行動主體。"
+          },
+          {
+            "id": "d",
+            "text": "有人",
+            "explanation": "或是有人，或曰先設一個發問者，提出六國是否全賂秦的質疑。"
+          }
+        ],
+        "misconception": "有時表示時間，曰前在指說話人；也許不是此處設想發問者的用法；方面不能作曰的行動主體。"
+      },
+      "objective": "文句中「或」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-01-03-6",
+      "ordinal": 16,
+      "baseQuestionHash": "b1514dea1114a246fe43a9feaaa40280302d0764446f63d9c69d049afd639577",
+      "patch": {
+        "explanation": "互喪在此是相繼滅亡，喪說失國，互連起六國先後的結局。設問正要追問它們是否同因賂秦，非討論互相弔喪的禮節。",
+        "summary": "互喪在此是相繼滅亡，喪說失國，互連起六國先後的結局。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "互相攻打",
+            "explanation": "互相攻打是戰事，喪在此說結果。"
+          },
+          {
+            "id": "b",
+            "text": "同時覆亡",
+            "explanation": "互喪連起先後亡國，非斷定同一天同時滅亡。"
+          },
+          {
+            "id": "c",
+            "text": "彼此消滅對方",
+            "explanation": "後文說受秦侵迫而亡，非六國互相消滅。"
+          },
+          {
+            "id": "d",
+            "text": "相繼滅亡",
+            "explanation": "互喪在此是相繼滅亡，喪說失國，互連起六國先後的結局。"
+          }
+        ],
+        "misconception": "互相攻打是戰事，喪在此說結果；互喪連起先後亡國，非斷定同一天同時滅亡；後文說受秦侵迫而亡，非六國互相消滅。"
+      },
+      "objective": "文句中「互喪」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-10-01-03-7",
+      "ordinal": 17,
+      "baseQuestionHash": "ef23cf19fac7246070b74b903b488cb224d370996799b313a137c454276d143e",
+      "patch": {
+        "explanation": "率是全都，率賂秦耶追問是否每國都賂秦。這個全稱範圍引出不賂者的反例，作者才需補失援；若譯大概，便失去設問的針對性。",
+        "summary": "率是全都，率賂秦耶追問是否每國都賂秦。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "全都",
+            "explanation": "率是全都，率賂秦耶追問是否每國都賂秦。"
+          },
+          {
+            "id": "b",
+            "text": "率領",
+            "explanation": "率領需有領隊行動，非問是否全數如此。"
+          },
+          {
+            "id": "c",
+            "text": "大概",
+            "explanation": "大概只表推測，沒有全部的範圍。"
+          },
+          {
+            "id": "d",
+            "text": "草率",
+            "explanation": "草率是做事態度，非率在此的副詞義。"
+          }
+        ],
+        "misconception": "率領需有領隊行動，非問是否全數如此；大概只表推測，沒有全部的範圍；草率是做事態度，非率在此的副詞義。"
+      },
+      "objective": "文句中「率」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-01-03-8",
+      "ordinal": 18,
+      "baseQuestionHash": "28ba5b283cf1f698efdbb793dc75d27332f397e7b649b7f2637c8904c5cf13c5",
+      "patch": {
+        "explanation": "以是因為，引出不賂者受賂者牽連而亡的原因。後句失強援把關係說明：援國削弱消亡，不賂者也難獨存，非自己憑賂者作工具。",
+        "summary": "以是因為，引出不賂者受賂者牽連而亡的原因。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "用來",
+            "explanation": "用來是目的，本句說亡國原因。"
+          },
+          {
+            "id": "b",
+            "text": "憑藉",
+            "explanation": "憑藉是手段，非失援的因果。"
+          },
+          {
+            "id": "c",
+            "text": "因而",
+            "explanation": "因而引結果，以後的賂者在此引原因。"
+          },
+          {
+            "id": "d",
+            "text": "因為",
+            "explanation": "以是因為，引出不賂者受賂者牽連而亡的原因。"
+          }
+        ],
+        "misconception": "用來是目的，本句說亡國原因；憑藉是手段，非失援的因果；因而引結果，以後的賂者在此引原因。"
+      },
+      "objective": "文句中「以」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-01-03-9",
+      "ordinal": 19,
+      "baseQuestionHash": "18990da4332c43cb72aee3ca45b50758b15704f47b270b0966088063c7a3ce95",
+      "patch": {
+        "explanation": "完是保全，獨完即沒有強援仍獨自保存國家。不能否定了這個可能，與失援相接，不是在說某項工程能否完成。",
+        "summary": "完是保全，獨完即沒有強援仍獨自保存國家。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "保全",
+            "explanation": "完是保全，獨完即沒有強援仍獨自保存國家。"
+          },
+          {
+            "id": "b",
+            "text": "完成",
+            "explanation": "完成須有待辦之事，此處保國。"
+          },
+          {
+            "id": "c",
+            "text": "修繕",
+            "explanation": "修繕只說修補器物，非維持國家生存。"
+          },
+          {
+            "id": "d",
+            "text": "完結",
+            "explanation": "完結是結束，與保全存續不同。"
+          }
+        ],
+        "misconception": "完成須有待辦之事，此處保國；修繕只說修補器物，非維持國家生存；完結是結束，與保全存續不同。"
+      },
+      "objective": "文句中「完」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-02-03-0",
+      "ordinal": 20,
+      "baseQuestionHash": "9166de45bb9b5d9d838593d6ed48d43b736c29a9980afe92974cc752353fece5",
+      "patch": {
+        "explanation": "邑是城邑，本句小則獲邑、大則得城，以小大對舉非戰所得的土地。它不是整個國家，也不是只獲一座宮殿，須保持政治地理單位的層次。",
+        "summary": "邑是城邑，本句小則獲邑、大則得城，以小大對舉非戰所得的土地。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "國家",
+            "explanation": "國家比邑的範圍大，不能互換。"
+          },
+          {
+            "id": "b",
+            "text": "國都宮城",
+            "explanation": "邑可指城邑，不能都縮為都城宮城。"
+          },
+          {
+            "id": "c",
+            "text": "邊境關隘",
+            "explanation": "城邑與關隘不同，本文並不限於邊界設防之處。"
+          },
+          {
+            "id": "d",
+            "text": "城邑",
+            "explanation": "邑是城邑，本句小則獲邑、大則得城，以小大對舉非戰所得的土地。"
+          }
+        ],
+        "misconception": "國家比邑的範圍大，不能互換；邑可指城邑，不能都縮為都城宮城；城邑與關隘不同，本文並不限於邊界設防之處。"
+      },
+      "objective": "文句中「邑」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-10-02-03-1",
+      "ordinal": 21,
+      "baseQuestionHash": "ac7e2e557275f3875991c1a1e5e4e337f45db5bd4cf2df0675526f547d47e69a",
+      "patch": {
+        "explanation": "其實在此是它們實際的數量，接百倍比較受賂得地與戰勝得地。其與實保留各自含義，不是現代用來轉折更正的其實，也不指品格誠實。",
+        "summary": "其實在此是它們實際的數量，接百倍比較受賂得地與戰勝得地。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "他們的誠信",
+            "explanation": "其實承接得地失地作數量比較，非品格評價。"
+          },
+          {
+            "id": "b",
+            "text": "它們實際的數量",
+            "explanation": "其實在此是它們實際的數量，接百倍比較受賂得地與戰勝得地。"
+          },
+          {
+            "id": "c",
+            "text": "其實，轉折連詞",
+            "explanation": "百倍承接數量比較，非另起轉折。"
+          },
+          {
+            "id": "d",
+            "text": "土地的出產",
+            "explanation": "所較是土地數量，不是收成。"
+          }
+        ],
+        "misconception": "其實承接得地失地作數量比較，非品格評價；百倍承接數量比較，非另起轉折；所較是土地數量，不是收成。"
+      },
+      "objective": "文句中「其實」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-10-02-03-2",
+      "ordinal": 22,
+      "baseQuestionHash": "1e2ad1ed7315d62ca62fdb7bb9fc2d525545783fae67959529df084289f27e6c",
+      "patch": {
+        "explanation": "亡是失去，所亡指諸侯送秦而失的土地，與戰敗失地相比。此處尚在量失地，不是直接把亡解成整國滅亡；與後段戰敗而亡要區別。",
+        "summary": "亡是失去，所亡指諸侯送秦而失的土地，與戰敗失地相比。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "失去",
+            "explanation": "亡是失去，所亡指諸侯送秦而失的土地，與戰敗失地相比。"
+          },
+          {
+            "id": "b",
+            "text": "逃亡",
+            "explanation": "逃亡是人離走，不能指所失土地。"
+          },
+          {
+            "id": "c",
+            "text": "死亡",
+            "explanation": "死亡是生命終止，非土地轉移。"
+          },
+          {
+            "id": "d",
+            "text": "滅國",
+            "explanation": "滅國範圍不同，此句先比較兩類失地。"
+          }
+        ],
+        "misconception": "逃亡是人離走，不能指所失土地；死亡是生命終止，非土地轉移；滅國範圍不同，此句先比較兩類失地。"
+      },
+      "objective": "文句中「亡」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-02-03-3",
+      "ordinal": 23,
+      "baseQuestionHash": "aa10e667d4b481ce3ff046422f946b686a546aab3d043bfe62b26acba2f5bf5f",
+      "patch": {
+        "explanation": "固是本來、根本，固不在戰總結前面土地得失的比較。秦最大所欲、諸侯最大所患在割地賂秦，並非說戰爭完全不造成任何損失。",
+        "summary": "固是本來、根本，固不在戰總結前面土地得失的比較。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "堅固",
+            "explanation": "堅固形容牢靠程度，不能修飾此因果判斷。"
+          },
+          {
+            "id": "b",
+            "text": "固執",
+            "explanation": "固執是人的態度，非本來之義。"
+          },
+          {
+            "id": "c",
+            "text": "本來",
+            "explanation": "固是本來、根本，固不在戰總結前面土地得失的比較。"
+          },
+          {
+            "id": "d",
+            "text": "固守",
+            "explanation": "固守是防守動作，此處並未寫守城。"
+          }
+        ],
+        "misconception": "堅固形容牢靠程度，不能修飾此因果判斷；固執是人的態度，非本來之義；固守是防守動作，此處並未寫守城。"
+      },
+      "objective": "文句中「固」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-02-03-4",
+      "ordinal": 24,
+      "baseQuestionHash": "97fd1d88450ce6c245ab2ca13c033ce51fbce1b9e217c7f65c5007aa83f14c7d",
+      "patch": {
+        "explanation": "厥是其、他們的，厥先祖父指諸侯的祖輩父輩。思引讀者回望祖先創業的艱辛，再與子孫棄地對比；不能把厥當昏厥的動作。",
+        "summary": "厥是其、他們的，厥先祖父指諸侯的祖輩父輩。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "因此",
+            "explanation": "因此是連詞，不限定祖先所屬。"
+          },
+          {
+            "id": "b",
+            "text": "他們的",
+            "explanation": "厥是其、他們的，厥先祖父指諸侯的祖輩父輩。"
+          },
+          {
+            "id": "c",
+            "text": "我的",
+            "explanation": "厥先祖指諸侯自己的先祖，非作者的祖先。"
+          },
+          {
+            "id": "d",
+            "text": "那時",
+            "explanation": "那時是時間，厥在此指他們的。"
+          }
+        ],
+        "misconception": "因此是連詞，不限定祖先所屬；厥先祖指諸侯自己的先祖，非作者的祖先；那時是時間，厥在此指他們的。"
+      },
+      "objective": "文句中「厥」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-10-02-03-5",
+      "ordinal": 25,
+      "baseQuestionHash": "795f0d90a7f61f2e2e05217706f0e9225f62179285789bdb222ce93c1018a55e",
+      "patch": {
+        "explanation": "先祖父泛指已故祖輩父輩，不限於某一位祖父。暴霜露、斬荊棘以集體創業經歷對照後代輕棄，古文祖父不能直接套今天單指父親父親的親屬稱謂。",
+        "summary": "先祖父泛指已故祖輩父輩，不限於某一位祖父。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "已去世的祖父一人",
+            "explanation": "只限一位祖父過窄。"
+          },
+          {
+            "id": "b",
+            "text": "祖輩父輩，泛指祖先",
+            "explanation": "先祖父泛指已故祖輩父輩，不限於某一位祖父。"
+          },
+          {
+            "id": "c",
+            "text": "祖先的父親一人",
+            "explanation": "祖先的父親仍縮成單一人，不合泛指祖輩父輩。"
+          },
+          {
+            "id": "d",
+            "text": "先帝和他的父親",
+            "explanation": "原文說諸侯祖先，不限定先帝父子。"
+          }
+        ],
+        "misconception": "只限一位祖父過窄；祖先的父親仍縮成單一人，不合泛指祖輩父輩；原文說諸侯祖先，不限定先帝父子。"
+      },
+      "objective": "文句中「先祖父」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-02-03-6",
+      "ordinal": 26,
+      "baseQuestionHash": "62c7c21e38c8e39c88e5cde04eebc815521c381e25d02b4b85a163ace7471205",
+      "patch": {
+        "explanation": "暴通曝，是冒着、暴露於，暴霜露寫頂着風霜露水創業。後接斬荊棘，兩動作共同顯艱苦；不同於暴秦之欲的殘暴義。",
+        "summary": "暴通曝，是冒着、暴露於，暴霜露寫頂着風霜露水創業。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "突然",
+            "explanation": "突然是時間急變，這裏需承接霜露作遭受對象。"
+          },
+          {
+            "id": "b",
+            "text": "殘暴",
+            "explanation": "殘暴適合暴秦，不合冒霜露的行動。"
+          },
+          {
+            "id": "c",
+            "text": "憤怒",
+            "explanation": "憤怒是情緒，未說祖先發怒。"
+          },
+          {
+            "id": "d",
+            "text": "冒着、暴露於",
+            "explanation": "暴通曝，是冒着、暴露於，暴霜露寫頂着風霜露水創業。"
+          }
+        ],
+        "misconception": "突然是時間急變，這裏需承接霜露作遭受對象；殘暴適合暴秦，不合冒霜露的行動；憤怒是情緒，未說祖先發怒。"
+      },
+      "objective": "文句中「暴」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-02-03-8",
+      "ordinal": 27,
+      "baseQuestionHash": "52d58b7f4f54088ddf182027a9b1881da7a62c6d22cea2eec5ce3ae3a603b5e9",
+      "patch": {
+        "explanation": "草芥是小草，在如棄草芥中比不值錢的東西。土地本來得來艱難，子孫卻像扔小草般送掉，比喻突出不珍惜，不是評土地長甚麼植物。",
+        "summary": "草芥是小草，在如棄草芥中比不值錢的東西。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "小草",
+            "explanation": "草芥是小草，在如棄草芥中比不值錢的東西。"
+          },
+          {
+            "id": "b",
+            "text": "大樹",
+            "explanation": "大樹不同於微小草芥，也削弱輕棄形象。"
+          },
+          {
+            "id": "c",
+            "text": "灌木",
+            "explanation": "灌木不是本詞所指的小草。"
+          },
+          {
+            "id": "d",
+            "text": "穀物",
+            "explanation": "穀物有農用價值，非此處輕賤小草之喻。"
+          }
+        ],
+        "misconception": "大樹不同於微小草芥，也削弱輕棄形象；灌木不是本詞所指的小草；穀物有農用價值，非此處輕賤小草之喻。"
+      },
+      "objective": "文句中「草芥」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-03-03-0",
+      "ordinal": 28,
+      "baseQuestionHash": "05abd87e1e08817760fe8b4eeafd95523473046d02f590b03f257c21796f6655",
+      "patch": {
+        "explanation": "然後是這樣以後，指割了五城十城才換到一夕安睡。先付巨大代價，後得短暫安寧，接着秦兵又至；這個先後正顯賂秦失策。",
+        "summary": "然後是這樣以後，指割了五城十城才換到一夕安睡。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "然而不過",
+            "explanation": "然而表示轉折，此處承接割地條件。"
+          },
+          {
+            "id": "b",
+            "text": "從前之時",
+            "explanation": "從前之時未表示割地後才得安。"
+          },
+          {
+            "id": "c",
+            "text": "即使如此",
+            "explanation": "即使表示讓步，非實際先後結果。"
+          },
+          {
+            "id": "d",
+            "text": "這樣以後",
+            "explanation": "然後是這樣以後，指割了五城十城才換到一夕安睡。"
+          }
+        ],
+        "misconception": "然而表示轉折，此處承接割地條件；從前之時未表示割地後才得安；即使表示讓步，非實際先後結果。"
+      },
+      "objective": "文句中「然後」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-03-03-1",
+      "ordinal": 29,
+      "baseQuestionHash": "e1acf35d497e9563e34b0ecfc7b3759b58a03d449e5b3254d30b0117c6b50a9c",
+      "patch": {
+        "explanation": "秦兵中的兵是軍隊，至說秦軍再次來到邊境。此處行動主體可移動進攻，故不能拘泥兵器字面義，也不是抽象戰術自己到來。",
+        "summary": "秦兵中的兵是軍隊，至說秦軍再次來到邊境。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "軍隊",
+            "explanation": "秦兵中的兵是軍隊，至說秦軍再次來到邊境。"
+          },
+          {
+            "id": "b",
+            "text": "兵器",
+            "explanation": "兵器不獨自到境，本句借指軍隊。"
+          },
+          {
+            "id": "c",
+            "text": "戰爭",
+            "explanation": "戰爭是事件，這裏來的是秦軍。"
+          },
+          {
+            "id": "d",
+            "text": "戰術",
+            "explanation": "戰術是方法，非到來的主體。"
+          }
+        ],
+        "misconception": "兵器不獨自到境，本句借指軍隊；戰爭是事件，這裏來的是秦軍；戰術是方法，非到來的主體。"
+      },
+      "objective": "文句中「兵」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-03-03-3",
+      "ordinal": 30,
+      "baseQuestionHash": "97666a9a7b150a39af096d4708424a34f92bb3875734b78eeb4cb520a1cb5d50",
+      "patch": {
+        "explanation": "彌是更加，奉之彌繁說供奉越來越多，與侵之愈急相應。前彌後愈把獻地與侵略加劇連起來，顯示求安的方法反使情況惡化。",
+        "summary": "彌是更加，奉之彌繁說供奉越來越多，與侵之愈急相應。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "彌補",
+            "explanation": "彌補須有缺失對象，此處修飾繁的程度。"
+          },
+          {
+            "id": "b",
+            "text": "消除",
+            "explanation": "消除與增加相反。"
+          },
+          {
+            "id": "c",
+            "text": "更加",
+            "explanation": "彌是更加，奉之彌繁說供奉越來越多，與侵之愈急相應。"
+          },
+          {
+            "id": "d",
+            "text": "遍佈",
+            "explanation": "遍佈說分布範圍，非程度愈加。"
+          }
+        ],
+        "misconception": "彌補須有缺失對象，此處修飾繁的程度；消除與增加相反；遍佈說分布範圍，非程度愈加。"
+      },
+      "objective": "文句中「彌」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-03-03-4",
+      "ordinal": 31,
+      "baseQuestionHash": "14f7185c02149bcc3a71e9c4b04d2d8b3de3232a0f381467fd29737a9c7a4886",
+      "patch": {
+        "explanation": "判是分明、可判定，未開戰而強弱勝負已見分曉。有限土地不斷送出，自己弱、秦更強，故形勢已明，並不是法官已宣判刑罰。",
+        "summary": "判是分明、可判定，未開戰而強弱勝負已見分曉。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "判刑",
+            "explanation": "沒有司法裁判，勝負是形勢判定。"
+          },
+          {
+            "id": "b",
+            "text": "分裂",
+            "explanation": "分裂不是此處勝負清楚的意思。"
+          },
+          {
+            "id": "c",
+            "text": "分明",
+            "explanation": "判是分明、可判定，未開戰而強弱勝負已見分曉。"
+          },
+          {
+            "id": "d",
+            "text": "判別人物",
+            "explanation": "所判是強弱勝負，非人物品格。"
+          }
+        ],
+        "misconception": "沒有司法裁判，勝負是形勢判定；分裂不是此處勝負清楚的意思；所判是強弱勝負，非人物品格。"
+      },
+      "objective": "文句中「判」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-03-03-5",
+      "ordinal": 32,
+      "baseQuestionHash": "3c619690e9b12242ee194d73270087f57ef6a489d8390f702564c50e7c4449f0",
+      "patch": {
+        "explanation": "顛覆是國家滅亡，承接長期割地自弱而亡的結局。理固宜然說這種政策導致敗亡在因果上可理解，不是君主改了某個意見或物件翻倒。",
+        "summary": "顛覆是國家滅亡，承接長期割地自弱而亡的結局。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "器物翻倒",
+            "explanation": "器物翻倒是字面聯想，本文主體為國家。"
+          },
+          {
+            "id": "b",
+            "text": "改變見解",
+            "explanation": "改見解不等於失國。"
+          },
+          {
+            "id": "c",
+            "text": "滅亡",
+            "explanation": "顛覆是國家滅亡，承接長期割地自弱而亡的結局。"
+          },
+          {
+            "id": "d",
+            "text": "上下顛倒",
+            "explanation": "上下顛倒太泛，未交代國家覆亡。"
+          }
+        ],
+        "misconception": "器物翻倒是字面聯想，本文主體為國家；改見解不等於失國；上下顛倒太泛，未交代國家覆亡。"
+      },
+      "objective": "文句中「顛覆」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-03-03-6",
+      "ordinal": 33,
+      "baseQuestionHash": "93cce5da3ad8ea75bd7cfd707b1e29669be992cff3b1a44d3a5d2bb135a55f9e",
+      "patch": {
+        "explanation": "固是本來，理固宜然說按前述因果，走到覆亡本來就不足為奇。然回指賂秦自弱而亡，固強化判斷，不是在說國防堅固。",
+        "summary": "固是本來，理固宜然說按前述因果，走到覆亡本來就不足為奇。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "本來",
+            "explanation": "固是本來，理固宜然說按前述因果，走到覆亡本來就不足為奇。"
+          },
+          {
+            "id": "b",
+            "text": "堅固",
+            "explanation": "堅固與已顛覆的形勢不合。"
+          },
+          {
+            "id": "c",
+            "text": "固執",
+            "explanation": "固執是人的態度，原句評因果道理。"
+          },
+          {
+            "id": "d",
+            "text": "固守",
+            "explanation": "固守是防守行動，非本來副詞。"
+          }
+        ],
+        "misconception": "堅固與已顛覆的形勢不合；固執是人的態度，原句評因果道理；固守是防守行動，非本來副詞。"
+      },
+      "objective": "文句中「固」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-03-03-7",
+      "ordinal": 34,
+      "baseQuestionHash": "9dde3435cff694850e95432d005fc273ddd95671dc0e5871399a8dfe02db8d3d",
+      "patch": {
+        "explanation": "薪是柴草，投入火中會助燃，故抱薪救火的方法反增火勢。比喻中柴對應割予秦的土地，詞義不是薪資，否則不能建立助火的物理關係。",
+        "summary": "薪是柴草，投入火中會助燃，故抱薪救火的方法反增火勢。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "俸祿",
+            "explanation": "俸祿不是直接用來添火的柴草。"
+          },
+          {
+            "id": "b",
+            "text": "火種",
+            "explanation": "薪是餵火的柴草，非起火的火種。"
+          },
+          {
+            "id": "c",
+            "text": "柴草",
+            "explanation": "薪是柴草，投入火中會助燃，故抱薪救火的方法反增火勢。"
+          },
+          {
+            "id": "d",
+            "text": "樹木的根",
+            "explanation": "薪重可燃之柴，非專指樹根。"
+          }
+        ],
+        "misconception": "俸祿不是直接用來添火的柴草；薪是餵火的柴草，非起火的火種；薪重可燃之柴，非專指樹根。"
+      },
+      "objective": "文句中「薪」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-10-04-03-0",
+      "ordinal": 35,
+      "baseQuestionHash": "d5bdee9213d5ac5581f9b783260530afd645d2163157b857862b876c800c59d5",
+      "patch": {
+        "explanation": "賂在齊未嘗賂秦中仍是割地賄賂，未嘗明說齊沒有直接採此做法。作者因而須解釋其親秦不援、失去強援的間接敗因，不能把所有國家都寫成割地。",
+        "summary": "賂在齊未嘗賂秦中仍是割地賄賂，未嘗明說齊沒有直接採此做法。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "賣地換物",
+            "explanation": "賣地是交易，未準確指向賄賂求安。"
+          },
+          {
+            "id": "b",
+            "text": "出兵取地",
+            "explanation": "出兵取地是攻取，非賂。"
+          },
+          {
+            "id": "c",
+            "text": "封地賞臣",
+            "explanation": "封賞自家臣子是另一種用地方式。"
+          },
+          {
+            "id": "d",
+            "text": "割地賄賂",
+            "explanation": "賂在齊未嘗賂秦中仍是割地賄賂，未嘗明說齊沒有直接採此做法。"
+          }
+        ],
+        "misconception": "賣地是交易，未準確指向賄賂求安；出兵取地是攻取，非賂；封賞自家臣子是另一種用地方式。"
+      },
+      "objective": "文句中「賂」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-04-03-1",
+      "ordinal": 36,
+      "baseQuestionHash": "6dc55fafef4f071e27fe73380a07eab6a6d8c26f773095e02cc961d9daf474f1",
+      "patch": {
+        "explanation": "與是親附，與嬴說齊親近秦國而不援五國。嬴借秦君姓代秦國，與在此承擔行動，不是只用和字並列兩個國家。",
+        "summary": "與是親附，與嬴說齊親近秦國而不援五國。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "給予",
+            "explanation": "給予須有所給物，此處說親附政治選擇。"
+          },
+          {
+            "id": "b",
+            "text": "和、同",
+            "explanation": "和是連詞，不能獨自表達齊的作為。"
+          },
+          {
+            "id": "c",
+            "text": "參與",
+            "explanation": "參與需有參加之事，嬴是所親附國家。"
+          },
+          {
+            "id": "d",
+            "text": "親附",
+            "explanation": "與是親附，與嬴說齊親近秦國而不援五國。"
+          }
+        ],
+        "misconception": "給予須有所給物，此處說親附政治選擇；和是連詞，不能獨自表達齊的作為；參與需有參加之事，嬴是所親附國家。"
+      },
+      "objective": "文句中「與」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-04-03-2",
+      "ordinal": 37,
+      "baseQuestionHash": "d2da4d4696279072d58fbb0c292f1cabbba335637e63a9e51f3b30b50e596237",
+      "patch": {
+        "explanation": "義表示守義、以不賂秦為應守的原則，與能守其土相接。作者先肯定燕趙早期方略，再指出後來錯誤；不能把義直接解成結拜或賑濟。",
+        "summary": "義表示守義、以不賂秦為應守的原則，與能守其土相接。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "守義，堅持原則",
+            "explanation": "義表示守義、以不賂秦為應守的原則，與能守其土相接。"
+          },
+          {
+            "id": "b",
+            "text": "結義，締結親族",
+            "explanation": "結義親族不是國家守土政策。"
+          },
+          {
+            "id": "c",
+            "text": "施惠，賑濟人民",
+            "explanation": "賑濟人民雖可屬義行，非本句具體所說。"
+          },
+          {
+            "id": "d",
+            "text": "議論，商討計策",
+            "explanation": "議論是商討動作，不表示堅守原則。"
+          }
+        ],
+        "misconception": "結義親族不是國家守土政策；賑濟人民雖可屬義行，非本句具體所說；議論是商討動作，不表示堅守原則。"
+      },
+      "objective": "文句中「義」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-04-03-3",
+      "ordinal": 38,
+      "baseQuestionHash": "916e7f576079c0eba76d2fd754afd71aba31b823f9dc548af5974e8eb73bbfe7",
+      "patch": {
+        "explanation": "亡是滅亡，燕小而後亡說它雖弱小，仍因早期用兵守土而較後失國。後亡不等於免亡，但足以證明抗秦曾有成效。",
+        "summary": "亡是滅亡，燕小而後亡說它雖弱小，仍因早期用兵守土而較後失國。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "逃亡",
+            "explanation": "逃亡只說離走，未說國家終結。"
+          },
+          {
+            "id": "b",
+            "text": "遺忘",
+            "explanation": "遺忘是記憶活動，主體國家不合。"
+          },
+          {
+            "id": "c",
+            "text": "滅亡",
+            "explanation": "亡是滅亡，燕小而後亡說它雖弱小，仍因早期用兵守土而較後失國。"
+          },
+          {
+            "id": "d",
+            "text": "失去器物",
+            "explanation": "失去器物過於局部，原句論國家命運。"
+          }
+        ],
+        "misconception": "逃亡只說離走，未說國家終結；遺忘是記憶活動，主體國家不合；失去器物過於局部，原句論國家命運。"
+      },
+      "objective": "文句中「亡」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-04-03-4",
+      "ordinal": 39,
+      "baseQuestionHash": "b6d73afc00b5f4afea6a3ada6124437339a72cb789f01efff792b6a52d5380f8",
+      "patch": {
+        "explanation": "兵在用兵中指軍隊，用兵連讀即運用軍事力量作戰。斯指燕守土而較後亡的事實，作者藉此肯定抗秦有效，不是只說軍餉或戶籍。",
+        "summary": "兵在用兵中指軍隊，用兵連讀即運用軍事力量作戰。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "軍餉",
+            "explanation": "軍餉是資源，不等於用兵作戰。"
+          },
+          {
+            "id": "b",
+            "text": "軍籍",
+            "explanation": "軍籍是名冊，非守土抗戰行動。"
+          },
+          {
+            "id": "c",
+            "text": "軍令",
+            "explanation": "軍令是命令，兵在此指其軍事力量。"
+          },
+          {
+            "id": "d",
+            "text": "軍隊",
+            "explanation": "兵在用兵中指軍隊，用兵連讀即運用軍事力量作戰。"
+          }
+        ],
+        "misconception": "軍餉是資源，不等於用兵作戰；軍籍是名冊，非守土抗戰行動；軍令是命令，兵在此指其軍事力量。"
+      },
+      "objective": "文句中「兵」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-04-03-5",
+      "ordinal": 40,
+      "baseQuestionHash": "1e6c23a3e7c454c559a28e61afcacc4041519297577f103efe29720681ff8c75",
+      "patch": {
+        "explanation": "速是招致，始速禍說以荊軻刺秦為計才引來禍患。始標記轉折，速帶禍作對象；不能只譯迅速而漏掉招禍的因果。",
+        "summary": "速是招致，始速禍說以荊軻刺秦為計才引來禍患。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "招致",
+            "explanation": "速是招致，始速禍說以荊軻刺秦為計才引來禍患。"
+          },
+          {
+            "id": "b",
+            "text": "迅速",
+            "explanation": "迅速只說快慢，速禍在此是招致禍患。"
+          },
+          {
+            "id": "c",
+            "text": "催促",
+            "explanation": "催促需有被催者，這裏是引來災禍。"
+          },
+          {
+            "id": "d",
+            "text": "加快行軍",
+            "explanation": "行軍速度不是此句討論的政策後果。"
+          }
+        ],
+        "misconception": "迅速只說快慢，速禍在此是招致禍患；催促需有被催者，這裏是引來災禍；行軍速度不是此句討論的政策後果。"
+      },
+      "objective": "文句中「速」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-05-03-1",
+      "ordinal": 41,
+      "baseQuestionHash": "1c4f0ab6da8b259b90e27ebaf74f685e8f7a4868513cf5e12b20c39697db3bf6",
+      "patch": {
+        "explanation": "卻是擊退，李牧為施動者，之代秦軍，連說接連做到。不是李牧自己退卻；分清誰退誰，才能明白下文殺良將為何可惜。",
+        "summary": "卻是擊退，李牧為施動者，之代秦軍，連說接連做到。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "退卻",
+            "explanation": "退卻把動作移到李牧自己身上。"
+          },
+          {
+            "id": "b",
+            "text": "擊退",
+            "explanation": "卻是擊退，李牧為施動者，之代秦軍，連說接連做到。"
+          },
+          {
+            "id": "c",
+            "text": "拒絕",
+            "explanation": "拒絕只說不接受，未寫軍事擊退。"
+          },
+          {
+            "id": "d",
+            "text": "然而",
+            "explanation": "然而是連詞，不能帶之作作戰對象。"
+          }
+        ],
+        "misconception": "退卻把動作移到李牧自己身上；拒絕只說不接受，未寫軍事擊退；然而是連詞，不能帶之作作戰對象。"
+      },
+      "objective": "文句中「卻」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-05-03-2",
+      "ordinal": 42,
+      "baseQuestionHash": "86ad979a74067541fede76abe7a43a9958b6d464068e57d2b7f259cec8e6c229",
+      "patch": {
+        "explanation": "洎是及至，標出由李牧連退秦軍轉到遭讒被殺的時間關節。它引新階段，後句邯鄲為郡交代後果；以讒才是死亡原因，兩者勿混。",
+        "summary": "洎是及至，標出由李牧連退秦軍轉到遭讒被殺的時間關節。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "由於",
+            "explanation": "由於是原因，此處原因已由以讒表達。"
+          },
+          {
+            "id": "b",
+            "text": "及至",
+            "explanation": "洎是及至，標出由李牧連退秦軍轉到遭讒被殺的時間關節。"
+          },
+          {
+            "id": "c",
+            "text": "即使",
+            "explanation": "即使是假設讓步，原文敘已發生之事。"
+          },
+          {
+            "id": "d",
+            "text": "隨同",
+            "explanation": "隨同是一起行動，非時間推進。"
+          }
+        ],
+        "misconception": "由於是原因，此處原因已由以讒表達；即使是假設讓步，原文敘已發生之事；隨同是一起行動，非時間推進。"
+      },
+      "objective": "文句中「洎」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-05-03-3",
+      "ordinal": 43,
+      "baseQuestionHash": "e1db02e61a1f5311dff35fb7c32a998cce64e4d31e270d2993c4622c9b4c3305",
+      "patch": {
+        "explanation": "以是因為，讒是招致李牧被誅的原因。李牧是受害者，不是用讒言誅殺別人；須保留施受關係，才能接上良將喪失、趙國敗亡。",
+        "summary": "以是因為，讒是招致李牧被誅的原因。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "用來",
+            "explanation": "用來表目的，原文沒有以誹謗作殺人手段的主語。"
+          },
+          {
+            "id": "b",
+            "text": "因為",
+            "explanation": "以是因為，讒是招致李牧被誅的原因。"
+          },
+          {
+            "id": "c",
+            "text": "憑藉",
+            "explanation": "憑藉是手段，此處以讒說受害原因。"
+          },
+          {
+            "id": "d",
+            "text": "因而",
+            "explanation": "因而引結果，讒在此是原因。"
+          }
+        ],
+        "misconception": "用來表目的，原文沒有以誹謗作殺人手段的主語；憑藉是手段，此處以讒說受害原因；因而引結果，讒在此是原因。"
+      },
+      "objective": "文句中「以」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-05-03-4",
+      "ordinal": 44,
+      "baseQuestionHash": "2e5a3187fc1a8c23bbaef616101f0725733026021d0dd5db95e505314fa6b5fe",
+      "patch": {
+        "explanation": "殆是幾乎，殆盡表示其他國家快被消滅淨盡。這個程度說明燕趙的強援將失、形勢孤危，不能把幾乎加強成已經全部消滅。",
+        "summary": "殆是幾乎，殆盡表示其他國家快被消滅淨盡。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "幾乎",
+            "explanation": "殆是幾乎，殆盡表示其他國家快被消滅淨盡。"
+          },
+          {
+            "id": "b",
+            "text": "危險",
+            "explanation": "危險雖常為殆義，此處殆修飾盡表接近程度。"
+          },
+          {
+            "id": "c",
+            "text": "怠慢",
+            "explanation": "怠慢是行為態度，非此字語境。"
+          },
+          {
+            "id": "d",
+            "text": "必然",
+            "explanation": "必然說確定性，殆說接近而未全。"
+          }
+        ],
+        "misconception": "危險雖常為殆義，此處殆修飾盡表接近程度；怠慢是行為態度，非此字語境；必然說確定性，殆說接近而未全。"
+      },
+      "objective": "文句中「殆」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-05-03-5",
+      "ordinal": 45,
+      "baseQuestionHash": "a309c693021d65005472afd73f754f28df84dfad1626cbeff4e1bd37e41b0225",
+      "patch": {
+        "explanation": "智力是智謀和力量，在國家抗秦語境中包括謀略與軍力。孤危說後援薄弱、處境孤立，不能套成現代個人智商低，否則會漏掉結盟失援的論證。",
+        "summary": "智力是智謀和力量，在國家抗秦語境中包括謀略與軍力。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "個人的智商",
+            "explanation": "智商是個人測量概念，範圍不合。"
+          },
+          {
+            "id": "b",
+            "text": "軍隊的戰鬥力",
+            "explanation": "只說軍力漏了智謀，原文兼指謀略和力量。"
+          },
+          {
+            "id": "c",
+            "text": "單指聰明才智",
+            "explanation": "只說聰明漏掉力所指的軍事力量。"
+          },
+          {
+            "id": "d",
+            "text": "智謀和力量",
+            "explanation": "智力是智謀和力量，在國家抗秦語境中包括謀略與軍力。"
+          }
+        ],
+        "misconception": "智商是個人測量概念，範圍不合；只說軍力漏了智謀，原文兼指謀略和力量；只說聰明漏掉力所指的軍事力量。"
+      },
+      "objective": "文句中「智力」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-10-05-03-6",
+      "ordinal": 46,
+      "baseQuestionHash": "c6e92143eb81ccce245fdef0e0536ec416c4ddf58bc74e924fca54526e8ff871",
+      "patch": {
+        "explanation": "亡是國家滅亡，戰敗而亡連起軍事失敗與失國結局。誠不得已體諒燕趙在失援孤危下難獨存，但不抹掉前文各自的決策錯誤。",
+        "summary": "亡是國家滅亡，戰敗而亡連起軍事失敗與失國結局。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "滅亡",
+            "explanation": "亡是國家滅亡，戰敗而亡連起軍事失敗與失國結局。"
+          },
+          {
+            "id": "b",
+            "text": "逃亡",
+            "explanation": "逃走不是國家本身覆亡。"
+          },
+          {
+            "id": "c",
+            "text": "遺忘",
+            "explanation": "遺忘與軍事結局無關。"
+          },
+          {
+            "id": "d",
+            "text": "失去器物",
+            "explanation": "失器物未到國家生存的層次。"
+          }
+        ],
+        "misconception": "逃走不是國家本身覆亡；遺忘與軍事結局無關；失器物未到國家生存的層次。"
+      },
+      "objective": "文句中「亡」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-05-03-7",
+      "ordinal": 47,
+      "baseQuestionHash": "3debe3f6a0a0823bb4e7385bcfc5004c16c5da2b3147a7a8afdaa46bde5145b1",
+      "patch": {
+        "explanation": "向使是假如當初，引出與實際歷史不同的選擇。惜地、不附秦、不派刺客、良將猶在都是反設條件，不能把後面未易量寫成六國已實際聯合取勝。",
+        "summary": "向使是假如當初，引出與實際歷史不同的選擇。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "從前使用",
+            "explanation": "從前使用拆錯向使的假設組合。"
+          },
+          {
+            "id": "b",
+            "text": "向外派遣使者",
+            "explanation": "派遣使者是使的別義，此處沒有使節。"
+          },
+          {
+            "id": "c",
+            "text": "假如當初",
+            "explanation": "向使是假如當初，引出與實際歷史不同的選擇。"
+          },
+          {
+            "id": "d",
+            "text": "即使現在如此",
+            "explanation": "這是假設當初，不是即使現在的讓步。"
+          }
+        ],
+        "misconception": "從前使用拆錯向使的假設組合；派遣使者是使的別義，此處沒有使節；這是假設當初，不是即使現在的讓步。"
+      },
+      "objective": "文句中「向使」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-05-03-8",
+      "ordinal": 48,
+      "baseQuestionHash": "6c97598c6dd6364bb39e89242741a2bccff937433212f327300dac883360ee0b",
+      "patch": {
+        "explanation": "當依本書通倘，作倘若解，與秦相較仍在向使引起的假設中。作者只說若如此比較，勝負也許難料，不是命令當時必須比較，更不是必勝保證。",
+        "summary": "當依本書通倘，作倘若解，與秦相較仍在向使引起的假設中。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "倘若",
+            "explanation": "當依本書通倘，作倘若解，與秦相較仍在向使引起的假設中。"
+          },
+          {
+            "id": "b",
+            "text": "應當",
+            "explanation": "應當是義務，非本書假設解。"
+          },
+          {
+            "id": "c",
+            "text": "當時",
+            "explanation": "當時是時間，不能表若拿來比較。"
+          },
+          {
+            "id": "d",
+            "text": "抵擋",
+            "explanation": "抵擋是動作，當與秦相較在此先設條件。"
+          }
+        ],
+        "misconception": "應當是義務，非本書假設解；當時是時間，不能表若拿來比較；抵擋是動作，當與秦相較在此先設條件。"
+      },
+      "objective": "文句中「當」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-05-03-9",
+      "ordinal": 49,
+      "baseQuestionHash": "82483428eeebb5298ec5f9218e8ec78b2c43c9a963057bf1ea2048a260993bce",
+      "patch": {
+        "explanation": "量是估量，未易量即不容易判定勝負。或保留也許的語氣，整句為反設更好選擇後的可能局面，不能讀成精確勝率或確定會贏。",
+        "summary": "量是估量，未易量即不容易判定勝負。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "容量",
+            "explanation": "容量屬容納多少，不合勝負判斷。"
+          },
+          {
+            "id": "b",
+            "text": "估量",
+            "explanation": "量是估量，未易量即不容易判定勝負。"
+          },
+          {
+            "id": "c",
+            "text": "數量",
+            "explanation": "數量是名詞，易量需要估測動作。"
+          },
+          {
+            "id": "d",
+            "text": "器量",
+            "explanation": "器量是人格胸襟，非推測戰局。"
+          }
+        ],
+        "misconception": "容量屬容納多少，不合勝負判斷；數量是名詞，易量需要估測動作；器量是人格胸襟，非推測戰局。"
+      },
+      "objective": "文句中「量」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-06-03-0",
+      "ordinal": 50,
+      "baseQuestionHash": "e3609981e4e02dce78d53cbbd9e257fb99dd688e8c640250af96462f72eca411",
+      "patch": {
+        "explanation": "賂秦之地是原來拿去割予秦的土地，作者設想改作封賞謀臣。相同資源有兩種用途，前者助敵自弱，後者用才自強，賂本身仍指割地賄賂。",
+        "summary": "賂秦之地是原來拿去割予秦的土地，作者設想改作封賞謀臣。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "割地賄賂",
+            "explanation": "賂秦之地是原來拿去割予秦的土地，作者設想改作封賞謀臣。"
+          },
+          {
+            "id": "b",
+            "text": "賣地換物",
+            "explanation": "送地求安不以換物交易為重。"
+          },
+          {
+            "id": "c",
+            "text": "出兵取地",
+            "explanation": "出兵取地屬攻取，非賂秦之地的來源關係。"
+          },
+          {
+            "id": "d",
+            "text": "封地賞臣",
+            "explanation": "封臣是替代用途，不是賂的詞義。"
+          }
+        ],
+        "misconception": "送地求安不以換物交易為重；出兵取地屬攻取，非賂秦之地的來源關係；封臣是替代用途，不是賂的詞義。"
+      },
+      "objective": "文句中「賂」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-06-03-1",
+      "ordinal": 51,
+      "baseQuestionHash": "809e1ddc93a5dc6e7ac4ef202e4daa807b24a172133a7ce0258acea7cc2ed418",
+      "patch": {
+        "explanation": "禮是禮待，以敬意對待天下奇才，在句中作動詞。以事秦之心作方式，奇才作對象，與封謀臣相應，意在將心力轉向人才。",
+        "summary": "禮是禮待，以敬意對待天下奇才，在句中作動詞。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "禮物",
+            "explanation": "禮物是名詞，此處要求禮待的動作。"
+          },
+          {
+            "id": "b",
+            "text": "禮制",
+            "explanation": "禮制是制度，不能直接帶奇才作受事。"
+          },
+          {
+            "id": "c",
+            "text": "行禮的人",
+            "explanation": "行禮者改成一個人，與句法角色不合。"
+          },
+          {
+            "id": "d",
+            "text": "禮待",
+            "explanation": "禮是禮待，以敬意對待天下奇才，在句中作動詞。"
+          }
+        ],
+        "misconception": "禮物是名詞，此處要求禮待的動作；禮制是制度，不能直接帶奇才作受事；行禮者改成一個人，與句法角色不合。"
+      },
+      "objective": "文句中「禮」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-06-03-2",
+      "ordinal": 52,
+      "baseQuestionHash": "b17ab3866298106d540d88db69099a8076b461caf0e9bae8c3bbca4d96af858f",
+      "patch": {
+        "explanation": "幷力是合力，指各國把力量集合起來向西抗秦。它回應失強援、不能獨完的問題，重共同合作，不只是各自盡力而仍分散。",
+        "summary": "幷力是合力，指各國把力量集合起來向西抗秦。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "分兵",
+            "explanation": "分兵不是集合抗敵力量。"
+          },
+          {
+            "id": "b",
+            "text": "併吞",
+            "explanation": "併吞是消滅兼併他國，非聯合合作。"
+          },
+          {
+            "id": "c",
+            "text": "合力",
+            "explanation": "幷力是合力，指各國把力量集合起來向西抗秦。"
+          },
+          {
+            "id": "d",
+            "text": "盡力",
+            "explanation": "盡力只說努力程度，漏掉共同合力。"
+          }
+        ],
+        "misconception": "分兵不是集合抗敵力量；併吞是消滅兼併他國，非聯合合作；盡力只說努力程度，漏掉共同合力。"
+      },
+      "objective": "文句中「幷力」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-06-03-3",
+      "ordinal": 53,
+      "baseQuestionHash": "572489b0a0a078e9935a690a8970dd40d9a1b41f5ffe06f25b4e861996050b4c",
+      "patch": {
+        "explanation": "西嚮是向西抗秦，西指方向，嚮同向，連着幷力說聯合進取。它是作者提出的抗敵方案，不是六國共同向西逃跑或悠閒賞景。",
+        "summary": "西嚮是向西抗秦，西指方向，嚮同向，連着幷力說聯合進取。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "向西逃亡",
+            "explanation": "逃亡與合力抗敵的目的相反。"
+          },
+          {
+            "id": "b",
+            "text": "由西而來",
+            "explanation": "由西而來把方向讀反。"
+          },
+          {
+            "id": "c",
+            "text": "西望賞景",
+            "explanation": "文中論抗秦，不是山水觀賞。"
+          },
+          {
+            "id": "d",
+            "text": "向西抗秦",
+            "explanation": "西嚮是向西抗秦，西指方向，嚮同向，連着幷力說聯合進取。"
+          }
+        ],
+        "misconception": "逃亡與合力抗敵的目的相反；由西而來把方向讀反；文中論抗秦，不是山水觀賞。"
+      },
+      "objective": "文句中「西嚮」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-06-03-4",
+      "ordinal": 54,
+      "baseQuestionHash": "b89287e1fb9aca2dacef088a1e48df5dddf74f4bfc3ccafdccf59316d7b66240",
+      "patch": {
+        "explanation": "劫是脅迫、懾服，為積威之所劫表示被秦長期威勢壓住。前有本可抗衡的形勢，後卻日削月割，作者因決策受威嚇而悲，不是說被擄走身體。",
+        "summary": "劫是脅迫、懾服，為積威之所劫表示被秦長期威勢壓住。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "搶奪",
+            "explanation": "搶奪只說奪物，這裏重受威勢壓迫。"
+          },
+          {
+            "id": "b",
+            "text": "劫持",
+            "explanation": "劫持通常含拘禁人身，此處是心理政治懾服。"
+          },
+          {
+            "id": "c",
+            "text": "災難",
+            "explanation": "災難是名詞，為所劫需要被脅迫的動作。"
+          },
+          {
+            "id": "d",
+            "text": "脅迫",
+            "explanation": "劫是脅迫、懾服，為積威之所劫表示被秦長期威勢壓住。"
+          }
+        ],
+        "misconception": "搶奪只說奪物，這裏重受威勢壓迫；劫持通常含拘禁人身，此處是心理政治懾服；災難是名詞，為所劫需要被脅迫的動作。"
+      },
+      "objective": "文句中「劫」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-06-03-5",
+      "ordinal": 55,
+      "baseQuestionHash": "c2b9a0b494bdac38152a3216bbcccaba4dd54d69c1910be55d3d8e9f028362ca",
+      "patch": {
+        "explanation": "日是每天，與月並用作狀語，日削月割說土地持續割削。它強調反覆積累的自弱過程，不限白天發生，也不是某一次割地事件。",
+        "summary": "日是每天，與月並用作狀語，日削月割說土地持續割削。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "白天",
+            "explanation": "白天是時段，日月在此表日復一日。"
+          },
+          {
+            "id": "b",
+            "text": "太陽",
+            "explanation": "太陽不是削割的主體。"
+          },
+          {
+            "id": "c",
+            "text": "某一天",
+            "explanation": "某一天只有一次，漏掉持續性。"
+          },
+          {
+            "id": "d",
+            "text": "每天",
+            "explanation": "日是每天，與月並用作狀語，日削月割說土地持續割削。"
+          }
+        ],
+        "misconception": "白天是時段，日月在此表日復一日；太陽不是削割的主體；某一天只有一次，漏掉持續性。"
+      },
+      "objective": "文句中「日」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-06-03-6",
+      "ordinal": 56,
+      "baseQuestionHash": "a6749feffa142608d5e91fbdb604f763bdb7558b0c9cfbdac28d382694e79d4c",
+      "patch": {
+        "explanation": "亡是滅亡，趨於亡說在反覆割地中走向國家敗亡。於後接結局，主體仍是六國；不是秦人逃走，也不是某件土地器物偶然丟失。",
+        "summary": "亡是滅亡，趨於亡說在反覆割地中走向國家敗亡。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "逃亡",
+            "explanation": "逃亡是離開地方，未準確表失國終局。"
+          },
+          {
+            "id": "b",
+            "text": "遺忘",
+            "explanation": "遺忘不合政治生死存亡。"
+          },
+          {
+            "id": "c",
+            "text": "失去器物",
+            "explanation": "局部失物小於整國敗亡的層次。"
+          },
+          {
+            "id": "d",
+            "text": "滅亡",
+            "explanation": "亡是滅亡，趨於亡說在反覆割地中走向國家敗亡。"
+          }
+        ],
+        "misconception": "逃亡是離開地方，未準確表失國終局；遺忘不合政治生死存亡；局部失物小於整國敗亡的層次。"
+      },
+      "objective": "文句中「亡」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-06-03-7",
+      "ordinal": 57,
+      "baseQuestionHash": "7eca552d43ac82f6a83248304984fc0a00a03d9942e76df09005806ea69bebed",
+      "patch": {
+        "explanation": "為國者的為是治理，為國者即治國的人，後一為才與所組成被動。前者提出告誡對象，後者說不要被積威脅迫，一句同字而句法角色不同。",
+        "summary": "為國者的為是治理，為國者即治國的人，後一為才與所組成被動。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "成為",
+            "explanation": "成為國家不合者所指治國者。"
+          },
+          {
+            "id": "b",
+            "text": "被",
+            "explanation": "被動是後一為，不能移到前一字。"
+          },
+          {
+            "id": "c",
+            "text": "治理",
+            "explanation": "為國者的為是治理，為國者即治國的人，後一為才與所組成被動。"
+          },
+          {
+            "id": "d",
+            "text": "為了",
+            "explanation": "為了國家不如治理準確指明為國者身分。"
+          }
+        ],
+        "misconception": "成為國家不合者所指治國者；被動是後一為，不能移到前一字；為了國家不如治理準確指明為國者身分。"
+      },
+      "objective": "「為國者」的「為」是甚麼意思？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-07-03-0",
+      "ordinal": 58,
+      "baseQuestionHash": "bcf2b0fed99f4b6711b978337bba08d6641ba9e2cdafb12eed00517d1ab9082a",
+      "patch": {
+        "explanation": "不賂而勝的賂仍指割地賄賂，作者說六國尚有不靠此策而抗衡取勝的形勢。猶有強調可利用的條件，並非聲稱只要不割地就必勝。",
+        "summary": "不賂而勝的賂仍指割地賄賂，作者說六國尚有不靠此策而抗衡取勝的形勢。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "賣地換物",
+            "explanation": "買賣地不是賄賂求安的政策。"
+          },
+          {
+            "id": "b",
+            "text": "出兵取地",
+            "explanation": "攻取土地是軍事行動，非賂。"
+          },
+          {
+            "id": "c",
+            "text": "割地賄賂",
+            "explanation": "不賂而勝的賂仍指割地賄賂，作者說六國尚有不靠此策而抗衡取勝的形勢。"
+          },
+          {
+            "id": "d",
+            "text": "封地賞臣",
+            "explanation": "封臣用地是作者建議，非弊病本身。"
+          }
+        ],
+        "misconception": "買賣地不是賄賂求安的政策；攻取土地是軍事行動，非賂；封臣用地是作者建議，非弊病本身。"
+      },
+      "objective": "文句中「賂」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-07-03-1",
+      "ordinal": 59,
+      "baseQuestionHash": "af656c1cd3c792d62ba949c92cbacb2d9bb8bc28daf5cefdb7e7a193d3855948",
+      "patch": {
+        "explanation": "破亡的亡是國家滅亡，破亡之故事是六國敗亡的舊例。末段警告當世勿沿襲同樣路線，這是以國家存續為題，不是遺忘往事的記憶問題。",
+        "summary": "破亡的亡是國家滅亡，破亡之故事是六國敗亡的舊例。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "逃亡",
+            "explanation": "逃亡是人物離走，非本文國家終局。"
+          },
+          {
+            "id": "b",
+            "text": "滅亡",
+            "explanation": "破亡的亡是國家滅亡，破亡之故事是六國敗亡的舊例。"
+          },
+          {
+            "id": "c",
+            "text": "遺忘",
+            "explanation": "遺忘把亡誤配成忘，故事仍是舊例。"
+          },
+          {
+            "id": "d",
+            "text": "失去器物",
+            "explanation": "失器物只是局部損失，未到破國層次。"
+          }
+        ],
+        "misconception": "逃亡是人物離走，非本文國家終局；遺忘把亡誤配成忘，故事仍是舊例；失器物只是局部損失，未到破國層次。"
+      },
+      "objective": "文句中「亡」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-01-00-b",
+      "ordinal": 60,
+      "baseQuestionHash": "e9844a64ff33f1ae8bdbbbcdc9d9fac288940092f559c410ba707b63cb555f1c",
+      "patch": {
+        "explanation": "只說賂秦而力虧，尚未解釋沒有直接賂秦的國家為何也亡。首段第二條因果以失援補足，令總論能涵蓋不同選擇者，而不必捏成六國全割地。",
+        "summary": "只說賂秦而力虧，尚未解釋沒有直接賂秦的國家為何也亡。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "賂秦的國家為何國力減弱",
+            "explanation": "力虧一句已說賂者自弱。"
+          },
+          {
+            "id": "b",
+            "text": "秦國為何能在戰爭外得地",
+            "explanation": "非戰得地屬下一段展開，非這處總論缺口。"
+          },
+          {
+            "id": "c",
+            "text": "六國的失地為何大於戰敗所失",
+            "explanation": "土地數量比較用來證實力虧，非不賂者反例。"
+          },
+          {
+            "id": "d",
+            "text": "不賂秦的國家為何也亡",
+            "explanation": "只說賂秦而力虧，尚未解釋沒有直接賂秦的國家為何也亡。"
+          }
+        ],
+        "misconception": "力虧一句已說賂者自弱；非戰得地屬下一段展開，非這處總論缺口；土地數量比較用來證實力虧，非不賂者反例。"
+      },
+      "objective": "首段若只寫「賂秦而力虧」，尚未解釋哪個問題？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-02-00-b",
+      "ordinal": 61,
+      "baseQuestionHash": "e3e91c0ea722adc38123cf637c7afeeab1e5b7d89a0e477b7733af33b9df791b",
+      "patch": {
+        "explanation": "土地比較凸顯非戰割地損失大，世代比較凸顯得地難而棄地輕。前者以損益說理，後者使人痛惜祖業，兩組相輔卻不能把所比對象混換。",
+        "summary": "土地比較凸顯非戰割地損失大，世代比較凸顯得地難而棄地輕。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "秦的欲望永不滿足；齊失五國援助之孤危",
+            "explanation": "有限無限、齊失援是另外論據。"
+          },
+          {
+            "id": "b",
+            "text": "燕趙用兵曾有成效；秦因六國合力而恐懼",
+            "explanation": "燕趙用兵及秦人恐懼不是兩組所述。"
+          },
+          {
+            "id": "c",
+            "text": "非戰割地損失之大；子孫棄祖業之輕率",
+            "explanation": "土地比較凸顯非戰割地損失大，世代比較凸顯得地難而棄地輕。"
+          },
+          {
+            "id": "d",
+            "text": "祖先得地全靠戰爭；子孫失地全因刺秦之計",
+            "explanation": "祖先開拓非全靠戰爭，子孫也非全因刺秦失地。"
+          }
+        ],
+        "misconception": "有限無限、齊失援是另外論據；燕趙用兵及秦人恐懼不是兩組所述；祖先開拓非全靠戰爭，子孫也非全因刺秦失地。"
+      },
+      "objective": "土地得失與祖先子孫兩組比較，分別強調甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-03-00-b",
+      "ordinal": 62,
+      "baseQuestionHash": "59a753fb25886ceb049a5d87799686fb1fe8dc50e19a2037cc3391b30c7f3e57",
+      "patch": {
+        "explanation": "土地有限而侵欲無盡，持續割地不能長久滿足秦，反因敵強我弱令侵略更急。這條因果否定用有限資源買永久安全，不是說不割地便必然保全。",
+        "summary": "土地有限而侵欲無盡，持續割地不能長久滿足秦，反因敵強我弱令侵略更急。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "有限土地難以供養軍隊，所以諸侯必須先停止作戰",
+            "explanation": "此處論奉地與侵欲，不是供養軍隊不足。"
+          },
+          {
+            "id": "b",
+            "text": "秦欲無厭源於六國反覆用兵，所以停止抵抗即可求安",
+            "explanation": "無厭沒有被歸因於六國抵抗，停戰不保安全。"
+          },
+          {
+            "id": "c",
+            "text": "有限土地無法長供無厭侵欲，奉地又使侵略加急",
+            "explanation": "土地有限而侵欲無盡，持續割地不能長久滿足秦，反因敵強我弱令侵略更急。"
+          },
+          {
+            "id": "d",
+            "text": "諸侯割地造成失援，所以凡不割地者都能保全",
+            "explanation": "不賂者也亡，原文明說單不割地不足。"
+          }
+        ],
+        "misconception": "此處論奉地與侵欲，不是供養軍隊不足；無厭沒有被歸因於六國抵抗，停戰不保安全；不賂者也亡，原文明說單不割地不足。"
+      },
+      "objective": "「諸侯之地有限，暴秦之欲無厭」為何能否定以割地求長安？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-04-00-b",
+      "ordinal": 63,
+      "baseQuestionHash": "fbb1f408e8deaa339d0f8244876664a1026be51c389ec522625c594989d18682",
+      "patch": {
+        "explanation": "齊的個別錯誤是親秦不援五國，燕則改用刺秦計而招禍。兩國都未直接賂秦，又共同受失援牽連；答題須保留個別決策與共同形勢兩層。",
+        "summary": "齊的個別錯誤是親秦不援五國，燕則改用刺秦計而招禍。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "齊因荊卿計而速禍；燕親附秦而不援五國",
+            "explanation": "齊燕的錯誤對調。"
+          },
+          {
+            "id": "b",
+            "text": "齊不能堅持用武；燕因殺良將而失去強援",
+            "explanation": "殺李牧屬趙，不能移到燕。"
+          },
+          {
+            "id": "c",
+            "text": "齊直接割地而力虧；燕因土地盡失而不能再賂",
+            "explanation": "齊未嘗賂秦，不能列作直接割地者。"
+          },
+          {
+            "id": "d",
+            "text": "齊親附秦而不援五國；燕因荊卿計而速禍",
+            "explanation": "齊的個別錯誤是親秦不援五國，燕則改用刺秦計而招禍。"
+          }
+        ],
+        "misconception": "齊燕的錯誤對調；殺李牧屬趙，不能移到燕；齊未嘗賂秦，不能列作直接割地者。"
+      },
+      "objective": "齊、燕都未賂秦，文中對其個別敗因有何區分？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-05-00-b",
+      "ordinal": 64,
+      "baseQuestionHash": "7cb554f2a23eb1d0bc09d4b865cf5ce1c8df35f2ad31c9edaf386f42593037ba",
+      "patch": {
+        "explanation": "李牧遭讒被殺是文中敘述的史事，良將猶在是向使引出的反事實假設。前者解釋用武不終，後者探討改變選擇的可能，不能合寫為真實戰勝經過。",
+        "summary": "李牧遭讒被殺是文中敘述的史事，良將猶在是向使引出的反事實假設。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "被讒殺是假設敗因；良將仍在是據史事推論的現狀",
+            "explanation": "假設與既述史事倒置。"
+          },
+          {
+            "id": "b",
+            "text": "兩句同屬史事，先述趙亡再倒敘李牧守國",
+            "explanation": "猶在受向使統領，非回述實際存活。"
+          },
+          {
+            "id": "c",
+            "text": "被讒殺是既述史事；良將仍在是與史事相反的假設",
+            "explanation": "李牧遭讒被殺是文中敘述的史事，良將猶在是向使引出的反事實假設。"
+          },
+          {
+            "id": "d",
+            "text": "兩句同屬假設，分別推想用武與賂秦兩條道路",
+            "explanation": "前句未被假設詞統領，是先述的敗因。"
+          }
+        ],
+        "misconception": "假設與既述史事倒置；猶在受向使統領，非回述實際存活；前句未被假設詞統領，是先述的敗因。"
+      },
+      "objective": "李牧被讒殺與「向使……良將猶在」，何者是作者的事實敘述，何者是設想？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-06-00-b",
+      "ordinal": 65,
+      "baseQuestionHash": "9e4fb7066405629160730ee7ced5d424d7e764f2afc4793aecfb6925574d6076",
+      "patch": {
+        "explanation": "作者把奉秦的土地轉封謀臣、事秦的心意轉禮奇才，再合力抗秦。同一資源不必用來壯敵，這個方案也回應失援孤立，不止增添軍械或另派人議和。",
+        "summary": "作者把奉秦的土地轉封謀臣、事秦的心意轉禮奇才，再合力抗秦。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "以封地禮遇謀臣奇才，由他們出面與秦議和。",
+            "explanation": "目的在合力抗秦，非換人出面求和。"
+          },
+          {
+            "id": "b",
+            "text": "以土地心力招攬賢才，再由最強一國獨力抗秦。",
+            "explanation": "幷力指共同合作，非一國獨力承擔。"
+          },
+          {
+            "id": "c",
+            "text": "以奉秦土地封臣、事秦之心禮才，再合力抗秦。",
+            "explanation": "作者把奉秦的土地轉封謀臣、事秦的心意轉禮奇才，再合力抗秦。"
+          },
+          {
+            "id": "d",
+            "text": "以奉秦土地充實軍備，六國結盟合力抵禦秦國。",
+            "explanation": "封謀臣與禮人才是明列用途，不能改成純買軍備。"
+          }
+        ],
+        "misconception": "目的在合力抗秦，非換人出面求和；幷力指共同合作，非一國獨力承擔；封謀臣與禮人才是明列用途，不能改成純買軍備。"
+      },
+      "objective": "作者提出「封謀臣」「禮奇才」「幷力西嚮」，重點是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-07-00-b",
+      "ordinal": 66,
+      "baseQuestionHash": "4dd0dc8d7d1e874ff97e712542494a8f3ca6312a627ddfffbeab766100768e89",
+      "patch": {
+        "explanation": "由較弱的六國尚有不賂而勝的形勢，推到統一大國更不應重犯敗策。這是條件對比加強警戒，並非國土大就能無限滿足強敵。",
+        "summary": "由較弱的六國尚有不賂而勝的形勢，推到統一大國更不應重犯敗策。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "由各國結局相同，推割地與否均不能影響存亡",
+            "explanation": "作者明辨政策影響，非認為選擇無用。"
+          },
+          {
+            "id": "b",
+            "text": "由秦受賂勝於戰得，推北宋應效法秦擴張疆土",
+            "explanation": "並未勸北宋模仿秦的擴張。"
+          },
+          {
+            "id": "c",
+            "text": "由條件較差尚有出路，推條件較好不應重犯錯誤",
+            "explanation": "由較弱的六國尚有不賂而勝的形勢，推到統一大國更不應重犯敗策。"
+          },
+          {
+            "id": "d",
+            "text": "由諸侯土地有限，推統一大國有足夠土地滿足強敵",
+            "explanation": "秦欲無厭已否定靠更多土地長供求安。"
+          }
+        ],
+        "misconception": "作者明辨政策影響，非認為選擇無用；並未勸北宋模仿秦的擴張；秦欲無厭已否定靠更多土地長供求安。"
+      },
+      "objective": "結尾以六國「勢弱於秦」對照「天下之大」，論證如何推進？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-01-2",
+      "ordinal": 67,
+      "baseQuestionHash": "733eb6e22ca0080a5ab043cff49b901f65dc6892e645dabf41f8ec79d3cfd0ef",
+      "patch": {
+        "explanation": "或是也許，或未易量保留假設結果的不確定。作者提出可改變局面的條件，沒有保證六國必勝；與或曰的有人義不同。",
+        "summary": "或是也許，或未易量保留假設結果的不確定。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "有人",
+            "explanation": "這裏沒有提出另一說話者。"
+          },
+          {
+            "id": "b",
+            "text": "也許",
+            "explanation": "或是也許，或未易量保留假設結果的不確定。"
+          },
+          {
+            "id": "c",
+            "text": "有時",
+            "explanation": "有時表時間，此處表判斷分寸。"
+          },
+          {
+            "id": "d",
+            "text": "有的方面",
+            "explanation": "方面不能修飾整個勝負推測。"
+          }
+        ],
+        "misconception": "這裏沒有提出另一說話者；有時表時間，此處表判斷分寸；方面不能修飾整個勝負推測。"
+      },
+      "objective": "文句中「或」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-01-3",
+      "ordinal": 68,
+      "baseQuestionHash": "46cce6df34a53fce5a972559f3502f8330e3163c385dd62ca10b87b6e974a795",
+      "patch": {
+        "explanation": "始是起初，始有遠略先肯定燕趙早期守土抗秦的方略。下文燕行刺、趙殺將再轉出錯誤，所以起初為前後變化留下空間，非說一直不變。",
+        "summary": "始是起初，始有遠略先肯定燕趙早期守土抗秦的方略。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "才",
+            "explanation": "才偏直到此刻方發生，這裏先交代早期。"
+          },
+          {
+            "id": "b",
+            "text": "開始",
+            "explanation": "開始是起動行為，本句始修飾早期有遠略。"
+          },
+          {
+            "id": "c",
+            "text": "曾經",
+            "explanation": "曾經不如起初準確表明與後來相對的階段。"
+          },
+          {
+            "id": "d",
+            "text": "起初",
+            "explanation": "始是起初，始有遠略先肯定燕趙早期守土抗秦的方略。"
+          }
+        ],
+        "misconception": "才偏直到此刻方發生，這裏先交代早期；開始是起動行為，本句始修飾早期有遠略；曾經不如起初準確表明與後來相對的階段。"
+      },
+      "objective": "文句中「始」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-01-4",
+      "ordinal": 69,
+      "baseQuestionHash": "7455caf5a5fa80a944ce9ce521169a3134ede35fa069f4bd520fd85bfaafc5f0",
+      "patch": {
+        "explanation": "始是才，至丹以荊卿為計才招致禍患，標出錯策後的結果。它不同於始有遠略的起初，不能把燕一開始守土也寫成已招禍。",
+        "summary": "始是才，至丹以荊卿為計才招致禍患，標出錯策後的結果。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "起初",
+            "explanation": "起初會把招禍移回早期，抹掉至丹的轉折。"
+          },
+          {
+            "id": "b",
+            "text": "曾經",
+            "explanation": "曾經只是回顧，沒有此後才招致的關係。"
+          },
+          {
+            "id": "c",
+            "text": "才",
+            "explanation": "始是才，至丹以荊卿為計才招致禍患，標出錯策後的結果。"
+          },
+          {
+            "id": "d",
+            "text": "開始",
+            "explanation": "開始未準確表達因改策而才有此禍。"
+          }
+        ],
+        "misconception": "起初會把招禍移回早期，抹掉至丹的轉折；曾經只是回顧，沒有此後才招致的關係；開始未準確表達因改策而才有此禍。"
+      },
+      "objective": "文句中「始」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-01-5",
+      "ordinal": 70,
+      "baseQuestionHash": "56fc6d531aba328be2c6743449f1dd37e1fe88fb9006eb261d303f18cbad3392",
+      "patch": {
+        "explanation": "為是成為，邯鄲為郡說趙都變成秦的一個郡，借首都地位改變表趙亡。為後接新身分，非被動標記，也不是邯鄲在治理某國。",
+        "summary": "為是成為，邯鄲為郡說趙都變成秦的一個郡，借首都地位改變表趙亡。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "成為",
+            "explanation": "為是成為，邯鄲為郡說趙都變成秦的一個郡，借首都地位改變表趙亡。"
+          },
+          {
+            "id": "b",
+            "text": "治理",
+            "explanation": "治理需受治理對象，此處說身分轉變。"
+          },
+          {
+            "id": "c",
+            "text": "被",
+            "explanation": "若作被仍缺被怎樣的動作，郡是新歸屬。"
+          },
+          {
+            "id": "d",
+            "text": "為了",
+            "explanation": "為了表目的，這裏直接敘結果。"
+          }
+        ],
+        "misconception": "治理需受治理對象，此處說身分轉變；若作被仍缺被怎樣的動作，郡是新歸屬；為了表目的，這裏直接敘結果。"
+      },
+      "objective": "文句中「為」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-01-7",
+      "ordinal": 71,
+      "baseQuestionHash": "4a8311dd2b7055a971246c3a59f828d98563a0f79a43451e2681b5ca20b3278a",
+      "patch": {
+        "explanation": "為與所配合表示被動，為積威之所劫即被長期威勢脅迫。受壓者是六國，不能把它讀成六國主動以威勢脅迫別人。",
+        "summary": "為與所配合表示被動，為積威之所劫即被長期威勢脅迫。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "治理，表示施政",
+            "explanation": "治理義在為國者，非這個為所結構。"
+          },
+          {
+            "id": "b",
+            "text": "成為，表示轉變",
+            "explanation": "成為須接新身分，這裏是被劫動作。"
+          },
+          {
+            "id": "c",
+            "text": "為了，表示目的",
+            "explanation": "為了表目的，與所劫的受動關係不合。"
+          },
+          {
+            "id": "d",
+            "text": "被，與「所」配合表被動",
+            "explanation": "為與所配合表示被動，為積威之所劫即被長期威勢脅迫。"
+          }
+        ],
+        "misconception": "治理義在為國者，非這個為所結構；成為須接新身分，這裏是被劫動作；為了表目的，與所劫的受動關係不合。"
+      },
+      "objective": "文句中「為」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-01-9",
+      "ordinal": 72,
+      "baseQuestionHash": "d36edece33543b9d44dbc866099618cbeafab01faaa634287e1ff566c970399a",
+      "patch": {
+        "explanation": "暴秦的暴是殘暴，修飾秦的強暴性質，接無厭描其侵欲。與祖先暴霜露的暴露、冒着不同，不能看到同字就套同一詞義。",
+        "summary": "暴秦的暴是殘暴，修飾秦的強暴性質，接無厭描其侵欲。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "突然",
+            "explanation": "突然說時間急變，非秦的性質。"
+          },
+          {
+            "id": "b",
+            "text": "殘暴",
+            "explanation": "暴秦的暴是殘暴，修飾秦的強暴性質，接無厭描其侵欲。"
+          },
+          {
+            "id": "c",
+            "text": "冒着",
+            "explanation": "冒着用於暴霜露，此處不接遭受對象。"
+          },
+          {
+            "id": "d",
+            "text": "暴露",
+            "explanation": "暴露是動作，非形容秦的強暴。"
+          }
+        ],
+        "misconception": "突然說時間急變，非秦的性質；冒着用於暴霜露，此處不接遭受對象；暴露是動作，非形容秦的強暴。"
+      },
+      "objective": "文句中「暴」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-02-3",
+      "ordinal": 73,
+      "baseQuestionHash": "475d485f5bb172c4e816ba3bb559245c9cb6eb487eb7ff85c15366c6050e0708",
+      "patch": {
+        "explanation": "戰不善是作戰不得法，善評戰法是否得當。篇首非否定這是根本亡因，不表示作戰不仁慈，也沒有說六國從未參戰。",
+        "summary": "戰不善是作戰不得法，善評戰法是否得當。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "作戰不得法",
+            "explanation": "戰不善是作戰不得法，善評戰法是否得當。"
+          },
+          {
+            "id": "b",
+            "text": "不肯發動戰爭",
+            "explanation": "不肯是意願，善在此論方法能力。"
+          },
+          {
+            "id": "c",
+            "text": "用兵不仁慈",
+            "explanation": "仁慈是道德，非戰法得當與否。"
+          },
+          {
+            "id": "d",
+            "text": "尚未參加戰爭",
+            "explanation": "未參戰是經歷問題，原文燕趙多次作戰。"
+          }
+        ],
+        "misconception": "不肯是意願，善在此論方法能力；仁慈是道德，非戰法得當與否；未參戰是經歷問題，原文燕趙多次作戰。"
+      },
+      "objective": "文句中「戰不善」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-02-4",
+      "ordinal": 74,
+      "baseQuestionHash": "ad8c504167c5591b95ad1ab7020e706d175a295d561799f6148de9aff4e4e95e",
+      "patch": {
+        "explanation": "弊是弊端、癥結，弊在賂秦直接指出根本問題所在。它承接排除兵戰主因的兩句，作全篇中心判斷，不是形容某件兵器破舊。",
+        "summary": "弊是弊端、癥結，弊在賂秦直接指出根本問題所在。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "疲敝的程度",
+            "explanation": "疲敝程度屬結果，弊在此命名問題所在。"
+          },
+          {
+            "id": "b",
+            "text": "弊端、癥結",
+            "explanation": "弊是弊端、癥結，弊在賂秦直接指出根本問題所在。"
+          },
+          {
+            "id": "c",
+            "text": "武器的缺陷",
+            "explanation": "後文明定癥結在賂秦，非兵器本身的缺陷。"
+          },
+          {
+            "id": "d",
+            "text": "戰術的失誤",
+            "explanation": "作者先排除戰不善為根本解釋，再指出賂秦。"
+          }
+        ],
+        "misconception": "疲敝程度屬結果，弊在此命名問題所在；後文明定癥結在賂秦，非兵器本身的缺陷；作者先排除戰不善為根本解釋，再指出賂秦。"
+      },
+      "objective": "文句中「弊」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-10-10-02-5",
+      "ordinal": 75,
+      "baseQuestionHash": "2a388c0ecd3dded08e5b519bfbae71d94f378e7ecd3e222a68db6c2cd5526c37",
+      "patch": {
+        "explanation": "賂是割地賄賂，本文把以土地討好秦以求安寧作為批評對象。後文不是只勸節省財物，而要改變壯敵自弱與受積威支配的政策。",
+        "summary": "賂是割地賄賂，本文把以土地討好秦以求安寧作為批評對象。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "賣地換物",
+            "explanation": "交易換物不是本文求安的賄賂。"
+          },
+          {
+            "id": "b",
+            "text": "出兵取地",
+            "explanation": "攻取是獲地，賂是送地。"
+          },
+          {
+            "id": "c",
+            "text": "割地賄賂",
+            "explanation": "賂是割地賄賂，本文把以土地討好秦以求安寧作為批評對象。"
+          },
+          {
+            "id": "d",
+            "text": "封地賞臣",
+            "explanation": "封臣是用同一土地作自強的替代方案。"
+          }
+        ],
+        "misconception": "交易換物不是本文求安的賄賂；攻取是獲地，賂是送地；封臣是用同一土地作自強的替代方案。"
+      },
+      "objective": "文句中「賂」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-02-6",
+      "ordinal": 76,
+      "baseQuestionHash": "2501469cc3fa658ae6acf52e52d9ccf12e100f9d659efc5813ce59ce528ed5cc",
+      "patch": {
+        "explanation": "力虧說國力耗損，割地使自身資源減少、敵方增加。它是通向破滅的中間環節，不能縮成兵卒一次疲倦或君主理屈。",
+        "summary": "力虧說國力耗損，割地使自身資源減少、敵方增加。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "士兵疲倦",
+            "explanation": "個別士兵疲倦不足概括國力損耗。"
+          },
+          {
+            "id": "b",
+            "text": "君主理虧",
+            "explanation": "理虧與力虧兩字不同，這裏說實力。"
+          },
+          {
+            "id": "c",
+            "text": "耕地欠收",
+            "explanation": "欠收未在本句被列為耗力原因。"
+          },
+          {
+            "id": "d",
+            "text": "國力耗損",
+            "explanation": "力虧說國力耗損，割地使自身資源減少、敵方增加。"
+          }
+        ],
+        "misconception": "個別士兵疲倦不足概括國力損耗；理虧與力虧兩字不同，這裏說實力；欠收未在本句被列為耗力原因。"
+      },
+      "objective": "文句中「力虧」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-02-8",
+      "ordinal": 77,
+      "baseQuestionHash": "71d63ac9032454e2934c97f321f641199757a53f7ca4b1c1da010d5a883378bf",
+      "patch": {
+        "explanation": "或曰是有人說，以假設發問者帶出反對意見。作者隨即自答不賂者如何失援，這種安排使總論更周密；不是不確定地說也許會說。",
+        "summary": "或曰是有人說，以假設發問者帶出反對意見。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "有時說",
+            "explanation": "有時說把人變成時間。"
+          },
+          {
+            "id": "b",
+            "text": "有人說",
+            "explanation": "或曰是有人說，以假設發問者帶出反對意見。"
+          },
+          {
+            "id": "c",
+            "text": "也許會說",
+            "explanation": "也許會說是推測，未指出設想的發問者。"
+          },
+          {
+            "id": "d",
+            "text": "有些話說完",
+            "explanation": "或不指話語片段，曰也不是說完之意。"
+          }
+        ],
+        "misconception": "有時說把人變成時間；也許會說是推測，未指出設想的發問者；或不指話語片段，曰也不是說完之意。"
+      },
+      "objective": "文句中「或曰」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-02-10",
+      "ordinal": 78,
+      "baseQuestionHash": "e7706ff68e2ad52b0a79c3604e849783c5635b99f5712d1891ad9f874c14415e",
+      "patch": {
+        "explanation": "率是全都，問題在六國是否每一國都直接賂秦。回答容納不賂者，利用間接失援維持總論，率的全稱範圍正是問答關鍵。",
+        "summary": "率是全都，問題在六國是否每一國都直接賂秦。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "率領",
+            "explanation": "率領是帶隊行動，非全數副詞。"
+          },
+          {
+            "id": "b",
+            "text": "大概",
+            "explanation": "大概只表概率，未提出全部的質疑。"
+          },
+          {
+            "id": "c",
+            "text": "全都",
+            "explanation": "率是全都，問題在六國是否每一國都直接賂秦。"
+          },
+          {
+            "id": "d",
+            "text": "草率",
+            "explanation": "草率評態度，非問各國是否同策。"
+          }
+        ],
+        "misconception": "率領是帶隊行動，非全數副詞；大概只表概率，未提出全部的質疑；草率評態度，非問各國是否同策。"
+      },
+      "objective": "文句中「率」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-02-11",
+      "ordinal": 79,
+      "baseQuestionHash": "284535148eb00e98f5ee0c611cba442a87265b8b2480e5b72faad68aebafa3e3",
+      "patch": {
+        "explanation": "蓋在此解作因為，補明不賂者因賂者亡而失援的理由。讀作解釋性承接，便能連起失援、不能獨完；不能只按蓋有遮蓋義理解。",
+        "summary": "蓋在此解作因為，補明不賂者因賂者亡而失援的理由。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "大概",
+            "explanation": "本書此句以解釋原因為重，非估計大概。"
+          },
+          {
+            "id": "b",
+            "text": "覆蓋",
+            "explanation": "覆蓋是具體動作，強援不是被蓋住的物件。"
+          },
+          {
+            "id": "c",
+            "text": "因為",
+            "explanation": "蓋在此解作因為，補明不賂者因賂者亡而失援的理由。"
+          },
+          {
+            "id": "d",
+            "text": "縱使",
+            "explanation": "縱使表示讓步，這裏提出實際因果。"
+          }
+        ],
+        "misconception": "本書此句以解釋原因為重，非估計大概；覆蓋是具體動作，強援不是被蓋住的物件；縱使表示讓步，這裏提出實際因果。"
+      },
+      "objective": "文句中「蓋」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-02-12",
+      "ordinal": 80,
+      "baseQuestionHash": "efad7e924e393da6c20d6e0d0c12869ac7ba6602f2ceba3f13fe3879b0de53eb",
+      "patch": {
+        "explanation": "獨完是獨自保全國家，不能獨完說在失去強援後難以維持生存。獨指沒有外援的處境，完指保全，不是獨立完成某項修城任務。",
+        "summary": "獨完是獨自保全國家，不能獨完說在失去強援後難以維持生存。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "獨自保全",
+            "explanation": "獨完是獨自保全國家，不能獨完說在失去強援後難以維持生存。"
+          },
+          {
+            "id": "b",
+            "text": "獨自完成任務",
+            "explanation": "沒有要完成的任務名詞，重國家存續。"
+          },
+          {
+            "id": "c",
+            "text": "獨自修繕城牆",
+            "explanation": "修城只是可能手段，非完的此處義。"
+          },
+          {
+            "id": "d",
+            "text": "只求器物完好",
+            "explanation": "器物完好縮小了保國的範圍。"
+          }
+        ],
+        "misconception": "沒有要完成的任務名詞，重國家存續；修城只是可能手段，非完的此處義；器物完好縮小了保國的範圍。"
+      },
+      "objective": "文句中「獨完」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-02-13",
+      "ordinal": 81,
+      "baseQuestionHash": "a4dcaed83667b29b91226a4501e92cd96dc2eeb93af691a2b4f83c8d4c45a215",
+      "patch": {
+        "explanation": "以表原因：賂者削弱而亡，使不賂者失去援助，終亦難獨存。句子不是說雙方合兵戰敗，也不是說不賂者後來全改為割地。",
+        "summary": "以表原因：賂者削弱而亡，使不賂者失去援助，終亦難獨存。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "不賂者與賂者合兵，因而一同戰敗而亡。",
+            "explanation": "原文解失援，未說合兵同敗。"
+          },
+          {
+            "id": "b",
+            "text": "賂秦者力虧而亡，令不賂者失援而亡。",
+            "explanation": "以表原因：賂者削弱而亡，使不賂者失去援助，終亦難獨存。"
+          },
+          {
+            "id": "c",
+            "text": "不賂者取代賂者，向秦交地後同樣而亡。",
+            "explanation": "不賂者沒有在這句被改寫為直接交地。"
+          },
+          {
+            "id": "d",
+            "text": "賂秦者依靠不賂者，因援軍未到而亡。",
+            "explanation": "因果方向是不賂者受賂者消亡牽連，非倒轉。"
+          }
+        ],
+        "misconception": "原文解失援，未說合兵同敗；不賂者沒有在這句被改寫為直接交地；因果方向是不賂者受賂者消亡牽連，非倒轉。"
+      },
+      "objective": "「不賂者以賂者喪」的「以」，與哪種關係最相符？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-02-14",
+      "ordinal": 82,
+      "baseQuestionHash": "b5b00f66931823833dde99e872d7dfb7d96cbec73db9ea19e317315378cf76b8",
+      "patch": {
+        "explanation": "攻取是用戰爭攻佔獲取，攻取之外則另論秦不戰也得土地。辨清此基準，才能理解受賂所得與戰勝所得的比較，不把兩者混為同一種得地。",
+        "summary": "攻取是用戰爭攻佔獲取，攻取之外則另論秦不戰也得土地。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "用物品交換取得",
+            "explanation": "物品交易沒有攻戰行動。"
+          },
+          {
+            "id": "b",
+            "text": "用戰爭攻佔取得",
+            "explanation": "攻取是用戰爭攻佔獲取，攻取之外則另論秦不戰也得土地。"
+          },
+          {
+            "id": "c",
+            "text": "用開墾拓荒取得",
+            "explanation": "拓荒靠開墾，非以武力奪取。"
+          },
+          {
+            "id": "d",
+            "text": "接受別國贈地取得",
+            "explanation": "受贈地正是攻取之外的另一類。"
+          }
+        ],
+        "misconception": "物品交易沒有攻戰行動；拓荒靠開墾，非以武力奪取；受贈地正是攻取之外的另一類。"
+      },
+      "objective": "文句中「攻取」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-02-15",
+      "ordinal": 83,
+      "baseQuestionHash": "bc93d8e0166ed922b13853427534c4f0e4b98f7be6b0e2876ef72c42def9601d",
+      "patch": {
+        "explanation": "邑是城邑，與大則得城相對，說秦非戰所得有不同規模。它屬地理聚落單位，不等於整國或單一宮殿。",
+        "summary": "邑是城邑，與大則得城相對，說秦非戰所得有不同規模。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "國家",
+            "explanation": "國比邑範圍大。"
+          },
+          {
+            "id": "b",
+            "text": "宮廷",
+            "explanation": "宮廷是建築機構，非聚落。"
+          },
+          {
+            "id": "c",
+            "text": "城邑",
+            "explanation": "邑是城邑，與大則得城相對，說秦非戰所得有不同規模。"
+          },
+          {
+            "id": "d",
+            "text": "山林",
+            "explanation": "山林不等於城邑，不能因同是地而混用。"
+          }
+        ],
+        "misconception": "國比邑範圍大；宮廷是建築機構，非聚落；山林不等於城邑，不能因同是地而混用。"
+      },
+      "objective": "文句中「邑」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-02-16",
+      "ordinal": 84,
+      "baseQuestionHash": "23b5ae2a9ce33b17357acfd41760b946d7e1b75b1882a056d9da59b898c67c80",
+      "patch": {
+        "explanation": "城是城池，大則得城與小則獲邑並列，具體說受賂得地的規模。作者不是分析城的制度，也不是把大所得縮成一座宮殿。",
+        "summary": "城是城池，大則得城與小則獲邑並列，具體說受賂得地的規模。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "宮殿",
+            "explanation": "宮殿只是城內可能部分。"
+          },
+          {
+            "id": "b",
+            "text": "城牆的一段",
+            "explanation": "五城十城以整座城池計割地，不是牆段。"
+          },
+          {
+            "id": "c",
+            "text": "村莊農田",
+            "explanation": "農田村莊未準確表城的名物義。"
+          },
+          {
+            "id": "d",
+            "text": "城池",
+            "explanation": "城是城池，大則得城與小則獲邑並列，具體說受賂得地的規模。"
+          }
+        ],
+        "misconception": "宮殿只是城內可能部分；五城十城以整座城池計割地，不是牆段；農田村莊未準確表城的名物義。"
+      },
+      "objective": "文句中「城」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-10-10-02-17",
+      "ordinal": 85,
+      "baseQuestionHash": "d235598d894aab2d98ad0a722670e8cee6c85ecd9fdb11465029f259333ef26e",
+      "patch": {
+        "explanation": "所得在本句特指秦受賄賂得到的土地，另一端才是戰勝而得者。兩個得字有不同取得方式，應根據攻取之外辨明比較項，不能把同一項自比。",
+        "summary": "所得在本句特指秦受賄賂得到的土地，另一端才是戰勝而得者。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "秦戰勝取得的土地",
+            "explanation": "戰勝所得是後項基準，不是前項。"
+          },
+          {
+            "id": "b",
+            "text": "諸侯從秦取得的土地",
+            "explanation": "主體是秦得地，不是諸侯向秦取地。"
+          },
+          {
+            "id": "c",
+            "text": "秦自行開墾的土地",
+            "explanation": "原文沒有秦自行拓荒的比較。"
+          },
+          {
+            "id": "d",
+            "text": "秦受賂得到的土地",
+            "explanation": "所得在本句特指秦受賄賂得到的土地，另一端才是戰勝而得者。"
+          }
+        ],
+        "misconception": "戰勝所得是後項基準，不是前項；主體是秦得地，不是諸侯向秦取地；原文沒有秦自行拓荒的比較。"
+      },
+      "objective": "文句中「所得」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-02-18",
+      "ordinal": 86,
+      "baseQuestionHash": "c8d9c32a4c05866ffea8ac52a345e2bf77015cea90e839b70e6d3f426f780564",
+      "patch": {
+        "explanation": "所亡指諸侯因賂秦而送失的土地，與戰敗失地作比較。亡的對象相同、原因不同，百倍突出割地的危害，並非比較軍隊或人口損失。",
+        "summary": "所亡指諸侯因賂秦而送失的土地，與戰敗失地作比較。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "諸侯賂秦失去的土地",
+            "explanation": "所亡指諸侯因賂秦而送失的土地，與戰敗失地作比較。"
+          },
+          {
+            "id": "b",
+            "text": "諸侯戰敗失去的土地",
+            "explanation": "戰敗所失是另一個比較基準。"
+          },
+          {
+            "id": "c",
+            "text": "秦戰敗損失的軍隊",
+            "explanation": "主體與損失對象都換了。"
+          },
+          {
+            "id": "d",
+            "text": "諸侯因天災失去的人口",
+            "explanation": "本文此處比較土地，非天災人口。"
+          }
+        ],
+        "misconception": "戰敗所失是另一個比較基準；主體與損失對象都換了；本文此處比較土地，非天災人口。"
+      },
+      "objective": "文句中「所亡」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-02-19",
+      "ordinal": 87,
+      "baseQuestionHash": "d944db43939ab25e7dc269d5d6523be993df5b7167db4e49199026cc33bcad96",
+      "patch": {
+        "explanation": "其實是它們實際的數量，百倍接續土地得失的比較。實在此不作誠實品格，也不是現代其實的轉折連詞；數量懸殊是論證重點而非精密統計。",
+        "summary": "其實是它們實際的數量，百倍接續土地得失的比較。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "他們的誠信",
+            "explanation": "其實承接得地失地作數量比較，非品格評價。"
+          },
+          {
+            "id": "b",
+            "text": "其實，轉折連詞",
+            "explanation": "若作轉折會丟失其實與百倍的數量關係。"
+          },
+          {
+            "id": "c",
+            "text": "它們實際的數量",
+            "explanation": "其實是它們實際的數量，百倍接續土地得失的比較。"
+          },
+          {
+            "id": "d",
+            "text": "土地的出產",
+            "explanation": "所較是土地數量，不是收成。"
+          }
+        ],
+        "misconception": "其實承接得地失地作數量比較，非品格評價；若作轉折會丟失其實與百倍的數量關係；所較是土地數量，不是收成。"
+      },
+      "objective": "文句中「其實」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-10-10-02-20",
+      "ordinal": 88,
+      "baseQuestionHash": "7aba9e9168fe348a538245b1b8e389dc46d9548ce1d20e845500f3680d078467",
+      "patch": {
+        "explanation": "則是那麼，由前面的非戰得失比較推出禍患根本不在戰。它承接推論，不是另訂法則，也不限定事件必立即發生。",
+        "summary": "則是那麼，由前面的非戰得失比較推出禍患根本不在戰。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "只要，提出條件",
+            "explanation": "只要開條件，則此處引結果判斷。"
+          },
+          {
+            "id": "b",
+            "text": "那麼，承接推論",
+            "explanation": "則是那麼，由前面的非戰得失比較推出禍患根本不在戰。"
+          },
+          {
+            "id": "c",
+            "text": "立即，限定時間",
+            "explanation": "立即說時間速度，非邏輯承接。"
+          },
+          {
+            "id": "d",
+            "text": "法則，指具體制度",
+            "explanation": "法則是名詞，不合句首推論連詞。"
+          }
+        ],
+        "misconception": "只要開條件，則此處引結果判斷；立即說時間速度，非邏輯承接；法則是名詞，不合句首推論連詞。"
+      },
+      "objective": "文句中「則」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-02-21",
+      "ordinal": 89,
+      "baseQuestionHash": "c277ac1891f8671323222d2543748f689eb700d98d07d48478ebcce8d02dd540",
+      "patch": {
+        "explanation": "欲在所大欲中指慾望、所極想取得的東西，秦主要貪圖更多土地。它不是將要發生的時間標記，與諸侯所大患構成得地與失地的兩端。",
+        "summary": "欲在所大欲中指慾望、所極想取得的東西，秦主要貪圖更多土地。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "將要",
+            "explanation": "將要是助動用法，不合此處名詞性所欲。"
+          },
+          {
+            "id": "b",
+            "text": "願意的動作",
+            "explanation": "願意動作過泛，未表秦對土地的慾望。"
+          },
+          {
+            "id": "c",
+            "text": "秦國的要求",
+            "explanation": "本句先說秦之欲求，並非記錄某次具體下令。"
+          },
+          {
+            "id": "d",
+            "text": "慾望",
+            "explanation": "欲在所大欲中指慾望、所極想取得的東西，秦主要貪圖更多土地。"
+          }
+        ],
+        "misconception": "將要是助動用法，不合此處名詞性所欲；願意動作過泛，未表秦對土地的慾望；本句先說秦之欲求，並非記錄某次具體下令。"
+      },
+      "objective": "文句中「欲」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-10-10-02-22",
+      "ordinal": 90,
+      "baseQuestionHash": "fcb00faa612e05d983c27ef44726eb5a811629712df80ad53f6673377ab21a19",
+      "patch": {
+        "explanation": "患是禍患，所大患說諸侯最重大的威脅，是非戰失地造成的自弱。與秦所大欲相對，同一土地轉移對秦為利、對諸侯為害。",
+        "summary": "患是禍患，所大患說諸侯最重大的威脅，是非戰失地造成的自弱。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "患病",
+            "explanation": "患病是疾病，這裏是國家禍患。"
+          },
+          {
+            "id": "b",
+            "text": "禍患",
+            "explanation": "患是禍患，所大患說諸侯最重大的威脅，是非戰失地造成的自弱。"
+          },
+          {
+            "id": "c",
+            "text": "憂慮的動作",
+            "explanation": "只說憂慮動作，漏掉所憂的威脅。"
+          },
+          {
+            "id": "d",
+            "text": "擔憂的人",
+            "explanation": "擔憂的人把名詞所指換成人物。"
+          }
+        ],
+        "stem": "依本書注釋，文句中「患」的意思是甚麼？",
+        "misconception": "患病是疾病，這裏是國家禍患；只說憂慮動作，漏掉所憂的威脅；擔憂的人把名詞所指換成人物。"
+      },
+      "objective": "依本書注釋，文句中「患」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-02-24",
+      "ordinal": 91,
+      "baseQuestionHash": "c0db31bd76d8a842377c5b4169e640884e171714cd76a3313a6cd844dd5eb9b8",
+      "patch": {
+        "explanation": "思厥先祖父即想到諸侯的祖輩父輩，思引讀者回顧艱難開創。厥指他們的，祖父在古文泛指祖輩父輩，不能只限一位現代稱謂的祖父。",
+        "summary": "思厥先祖父即想到諸侯的祖輩父輩，思引讀者回顧艱難開創。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "懷念父親的父親一人",
+            "explanation": "單一祖父把範圍縮窄。"
+          },
+          {
+            "id": "b",
+            "text": "思考開國先帝的政令",
+            "explanation": "本句不研究先帝政令，後接創業行動。"
+          },
+          {
+            "id": "c",
+            "text": "推想下一代子孫的生活",
+            "explanation": "先祖與下一代子孫時間相反。"
+          },
+          {
+            "id": "d",
+            "text": "想到他們的祖輩父輩",
+            "explanation": "思厥先祖父即想到諸侯的祖輩父輩，思引讀者回顧艱難開創。"
+          }
+        ],
+        "misconception": "單一祖父把範圍縮窄；本句不研究先帝政令，後接創業行動；先祖與下一代子孫時間相反。"
+      },
+      "objective": "文句中「思厥先祖父」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-02-25",
+      "ordinal": 92,
+      "baseQuestionHash": "b04605ecf2db048090af9338f6a032ad49908e007853ab1c6dd786137f0d8639",
+      "patch": {
+        "explanation": "暴霜露是冒着風霜雨露，寫先人暴露於艱苦環境。主體是先祖，與斬荊棘相接才得尺寸之地，非天氣突然降下或使霜露乾燥。",
+        "summary": "暴霜露是冒着風霜雨露，寫先人暴露於艱苦環境。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "冒着風霜雨露",
+            "explanation": "暴霜露是冒着風霜雨露，寫先人暴露於艱苦環境。"
+          },
+          {
+            "id": "b",
+            "text": "忽然降下霜露",
+            "explanation": "把先祖行動改成天氣發生。"
+          },
+          {
+            "id": "c",
+            "text": "向霜露發怒",
+            "explanation": "暴此處不是發怒情緒。"
+          },
+          {
+            "id": "d",
+            "text": "使霜露晒乾",
+            "explanation": "通曝仍須依語境解冒受，非曬乾霜露。"
+          }
+        ],
+        "misconception": "把先祖行動改成天氣發生；暴此處不是發怒情緒；通曝仍須依語境解冒受，非曬乾霜露。"
+      },
+      "objective": "文句中「暴霜露」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-02-26",
+      "ordinal": 93,
+      "baseQuestionHash": "f16d1a1ca104b17734b33a4910b815dd8d01d5437cbe60033be295bd94a695df",
+      "patch": {
+        "explanation": "斬荊棘是斬除阻礙以開拓荒地，與暴霜露共同寫創業艱苦。可由實際開路聯想到立國不易，但不能直接把荊棘換成敵軍或園藝花木。",
+        "summary": "斬荊棘是斬除阻礙以開拓荒地，與暴霜露共同寫創業艱苦。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "斬除荊棘，艱苦開拓",
+            "explanation": "斬荊棘是斬除阻礙以開拓荒地，與暴霜露共同寫創業艱苦。"
+          },
+          {
+            "id": "b",
+            "text": "修剪庭園，整理花木",
+            "explanation": "庭園修剪較安逸，非荒蕪創業語境。"
+          },
+          {
+            "id": "c",
+            "text": "清除敵軍，完成戰事",
+            "explanation": "原文沒有把荊棘直接指敵軍。"
+          },
+          {
+            "id": "d",
+            "text": "收集柴草，準備進貢",
+            "explanation": "目的在開拓得地，不是蒐柴進貢。"
+          }
+        ],
+        "misconception": "庭園修剪較安逸，非荒蕪創業語境；原文沒有把荊棘直接指敵軍；目的在開拓得地，不是蒐柴進貢。"
+      },
+      "objective": "文句中「斬荊棘」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-02-27",
+      "ordinal": 94,
+      "baseQuestionHash": "9c21937af40bda811fd0386713bf50e4bf6b9918034e9f16d126396a1ecc8a3d",
+      "patch": {
+        "explanation": "尺寸形容土地很少，用小量反襯先祖創業艱難。冒霜露、斬荊棘才有少量土地，後人卻大批送出，這是情理對比，不是精確丈量。",
+        "summary": "尺寸形容土地很少，用小量反襯先祖創業艱難。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "精確量出一尺一寸",
+            "explanation": "誇言少量，不是恰好一尺一寸。"
+          },
+          {
+            "id": "b",
+            "text": "用來丈量的工具",
+            "explanation": "此處尺寸形容地的少，不是量具。"
+          },
+          {
+            "id": "c",
+            "text": "形容土地很少",
+            "explanation": "尺寸形容土地很少，用小量反襯先祖創業艱難。"
+          },
+          {
+            "id": "d",
+            "text": "形容疆域特別廣闊",
+            "explanation": "廣闊與尺寸小量方向相反。"
+          }
+        ],
+        "misconception": "誇言少量，不是恰好一尺一寸；此處尺寸形容地的少，不是量具；廣闊與尺寸小量方向相反。"
+      },
+      "objective": "文句中「尺寸」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-02-28",
+      "ordinal": 95,
+      "baseQuestionHash": "73df8a822f1aab36dbb8a976daee38de35ae9dc28d4876fee26023b60de5636b",
+      "patch": {
+        "explanation": "舉是全部拿出，舉以予人把輕率送地的動作突出。前有不甚惜，後以棄草芥作喻，三者共同批評不愛惜祖業，而不是舉手推薦人物。",
+        "summary": "舉是全部拿出，舉以予人把輕率送地的動作突出。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "全部拿出",
+            "explanation": "舉是全部拿出，舉以予人把輕率送地的動作突出。"
+          },
+          {
+            "id": "b",
+            "text": "舉起",
+            "explanation": "舉起只說移高，沒有全數送出的意思。"
+          },
+          {
+            "id": "c",
+            "text": "推舉",
+            "explanation": "推舉需有人選，文中對象為地。"
+          },
+          {
+            "id": "d",
+            "text": "列舉",
+            "explanation": "列舉是逐項說明，非交予秦國。"
+          }
+        ],
+        "misconception": "舉起只說移高，沒有全數送出的意思；推舉需有人選，文中對象為地；列舉是逐項說明，非交予秦國。"
+      },
+      "objective": "文句中「舉」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-02-29",
+      "ordinal": 96,
+      "baseQuestionHash": "f5b6fbc743d81a122cf0a1d287747e90efed84c7af2851e27f8ff7938fac6ca6",
+      "patch": {
+        "explanation": "予是給予，予人說把土地交給別人，承接舉的全部拿出。此字在別篇可作我，但這裏位於行動位置，且人是接受者，應讀給。",
+        "summary": "予是給予，予人說把土地交給別人，承接舉的全部拿出。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "給予",
+            "explanation": "予是給予，予人說把土地交給別人，承接舉的全部拿出。"
+          },
+          {
+            "id": "b",
+            "text": "我",
+            "explanation": "我作主語會破壞給人土地的句法。"
+          },
+          {
+            "id": "c",
+            "text": "預先",
+            "explanation": "預先是時間副詞，非此處交付動作。"
+          },
+          {
+            "id": "d",
+            "text": "取走",
+            "explanation": "取走與給出的方向相反。"
+          }
+        ],
+        "misconception": "我作主語會破壞給人土地的句法；預先是時間副詞，非此處交付動作；取走與給出的方向相反。"
+      },
+      "objective": "文句中「予」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-02-31",
+      "ordinal": 97,
+      "baseQuestionHash": "5944af455fdb78d22bbae04158cac0634b0310859b036295637894debb3cd15d",
+      "patch": {
+        "explanation": "事秦是侍奉秦國，以地說用土地作奉承求安的手段。下文抱薪救火評其反效果，因此事不指記史，也不是在秦任官。",
+        "summary": "事秦是侍奉秦國，以地說用土地作奉承求安的手段。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "侍奉秦國",
+            "explanation": "事秦是侍奉秦國，以地說用土地作奉承求安的手段。"
+          },
+          {
+            "id": "b",
+            "text": "征服秦國",
+            "explanation": "征服與屈從侍奉的方向相反。"
+          },
+          {
+            "id": "c",
+            "text": "記錄秦國史事",
+            "explanation": "沒有寫史活動，地是送出的資源。"
+          },
+          {
+            "id": "d",
+            "text": "在秦國任官",
+            "explanation": "諸侯以地奉秦，不表示親自入秦任職。"
+          }
+        ],
+        "misconception": "征服與屈從侍奉的方向相反；沒有寫史活動，地是送出的資源；諸侯以地奉秦，不表示親自入秦任職。"
+      },
+      "objective": "文句中「事秦」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-02-32",
+      "ordinal": 98,
+      "baseQuestionHash": "48faf85cd8355b73f144ddae2f1c77361390423c01a54903672d2d55331c292a",
+      "patch": {
+        "explanation": "秦的欲望沒有止境，諸侯能供給的土地卻終有盡頭，兩者不相稱。奉得越多侵得越急再說明不只難持續，更會助長侵略，不能以厭作厭倦讀。",
+        "summary": "秦的欲望沒有止境，諸侯能供給的土地卻終有盡頭，兩者不相稱。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "秦已厭倦取得土地，諸侯土地卻仍然很多",
+            "explanation": "無厭為不滿足，非已厭倦。"
+          },
+          {
+            "id": "b",
+            "text": "秦尚未厭惡諸侯，所以暫不要求更多土地",
+            "explanation": "未說不討厭諸侯便停止索地。"
+          },
+          {
+            "id": "c",
+            "text": "秦的欲望無止境，諸侯可供的土地卻有盡",
+            "explanation": "秦的欲望沒有止境，諸侯能供給的土地卻終有盡頭，兩者不相稱。"
+          },
+          {
+            "id": "d",
+            "text": "秦對戰事感到疲倦，所以先接受有限土地",
+            "explanation": "沒有把秦欲解成厭戰，恰說侵略更急。"
+          }
+        ],
+        "misconception": "無厭為不滿足，非已厭倦；未說不討厭諸侯便停止索地；沒有把秦欲解成厭戰，恰說侵略更急。"
+      },
+      "objective": "「暴秦之欲無厭」與「諸侯之地有限」合讀，哪項語譯最準確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-02-33",
+      "ordinal": 99,
+      "baseQuestionHash": "78a9ae33afa1ea48f0dd5c03775d57c8ff020a35a14dd0050ca7165b6b15b153",
+      "patch": {
+        "explanation": "彌是更加，修飾繁以突出獻地日益頻繁、數量增加。後句愈急與它相應，使原想求安卻加劇侵逼的反效果更鮮明。",
+        "summary": "彌是更加，修飾繁以突出獻地日益頻繁、數量增加。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "彌補",
+            "explanation": "彌補是補缺，這裏無所補之物。"
+          },
+          {
+            "id": "b",
+            "text": "消除",
+            "explanation": "消除與繁增相反。"
+          },
+          {
+            "id": "c",
+            "text": "更加",
+            "explanation": "彌是更加，修飾繁以突出獻地日益頻繁、數量增加。"
+          },
+          {
+            "id": "d",
+            "text": "遍佈",
+            "explanation": "遍佈說空間，不是程度增加。"
+          }
+        ],
+        "misconception": "彌補是補缺，這裏無所補之物；消除與繁增相反；遍佈說空間，不是程度增加。"
+      },
+      "objective": "文句中「彌」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-02-34",
+      "ordinal": 100,
+      "baseQuestionHash": "aeb90f18d772bffc0ad9bcd3665c651c7b1ce88c01995d750edd8b47c8737186",
+      "patch": {
+        "explanation": "愈是更加，侵之愈急即秦侵逼越發急迫。它承接奉之彌繁，顯示獻地沒有減緩敵意；不能按愈合的病好義理解。",
+        "summary": "愈是更加，侵之愈急即秦侵逼越發急迫。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "痊癒",
+            "explanation": "痊癒需疾病語境，非侵略程度。"
+          },
+          {
+            "id": "b",
+            "text": "更加",
+            "explanation": "愈是更加，侵之愈急即秦侵逼越發急迫。"
+          },
+          {
+            "id": "c",
+            "text": "逐漸",
+            "explanation": "愈表程度更深，不專說隨時間緩慢變化。"
+          },
+          {
+            "id": "d",
+            "text": "減少",
+            "explanation": "減少與愈急的增強相反。"
+          }
+        ],
+        "misconception": "痊癒需疾病語境，非侵略程度；愈表程度更深，不專說隨時間緩慢變化；減少與愈急的增強相反。"
+      },
+      "objective": "文句中「愈」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-10-10-02-35",
+      "ordinal": 101,
+      "baseQuestionHash": "54d8629b45ba75c5cee4eff5410ebd049734588bc980e64015e6125b2152db85",
+      "patch": {
+        "explanation": "判是分明，不戰而勝負已判說力量在割地中此消彼長，結局已可預見。重點在未正式決戰已失抗衡條件，不是法院先判罪。",
+        "summary": "判是分明，不戰而勝負已判說力量在割地中此消彼長，結局已可預見。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "判刑",
+            "explanation": "勝負不是刑罰。"
+          },
+          {
+            "id": "b",
+            "text": "分明",
+            "explanation": "判是分明，不戰而勝負已判說力量在割地中此消彼長，結局已可預見。"
+          },
+          {
+            "id": "c",
+            "text": "分裂",
+            "explanation": "分裂是分開的結果，非此處已明。"
+          },
+          {
+            "id": "d",
+            "text": "判別人物",
+            "explanation": "所判為強弱勝負，不是個人品格。"
+          }
+        ],
+        "misconception": "勝負不是刑罰；分裂是分開的結果，非此處已明；所判為強弱勝負，不是個人品格。"
+      },
+      "objective": "文句中「判」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-10-02-37",
+      "ordinal": 102,
+      "baseQuestionHash": "75514bb87dee5870f6bd0c0439d1a5c445f8292a81c89ca05d35fce2e04f1a52",
+      "patch": {
+        "explanation": "此言得之是說抱薪救火的古語說中了道理。此言回指引文，得之肯定其對賂秦反效果的概括，並非宣告某人得地或打贏。",
+        "summary": "此言得之是說抱薪救火的古語說中了道理。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "這句古語說中了其中道理",
+            "explanation": "此言得之是說抱薪救火的古語說中了道理。"
+          },
+          {
+            "id": "b",
+            "text": "這句話記錄了實得土地",
+            "explanation": "得之評說理恰當，不是取得土地。"
+          },
+          {
+            "id": "c",
+            "text": "這句話得到君主的批准",
+            "explanation": "原文沒有君主批准言論的情節。"
+          },
+          {
+            "id": "d",
+            "text": "這位古人已取得勝利",
+            "explanation": "引古語不等於敘那位古人戰勝。"
+          }
+        ],
+        "misconception": "得之評說理恰當，不是取得土地；原文沒有君主批准言論的情節；引古語不等於敘那位古人戰勝。"
+      },
+      "objective": "文句中「此言得之」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-1",
+      "ordinal": 103,
+      "baseQuestionHash": "d9ac603f535606479768152a212aa35b01680313bae147d606ac216163b0eb21",
+      "patch": {
+        "explanation": "未嘗是從來未曾，明說齊不曾直接割地賂秦。這使齊亡成為須另解的例子，後面以親秦不援作答；不是還未試吃或尚在試驗政策。",
+        "summary": "未嘗是從來未曾，明說齊不曾直接割地賂秦。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "從來未曾",
+            "explanation": "未嘗是從來未曾，明說齊不曾直接割地賂秦。"
+          },
+          {
+            "id": "b",
+            "text": "還未品嘗",
+            "explanation": "品嘗是嘗的別義，此處否定過往經歷。"
+          },
+          {
+            "id": "c",
+            "text": "尚未試驗",
+            "explanation": "試驗不是未嘗整體用法。"
+          },
+          {
+            "id": "d",
+            "text": "不願嘗試",
+            "explanation": "不願是意願，原文明說未曾發生。"
+          }
+        ],
+        "misconception": "品嘗是嘗的別義，此處否定過往經歷；試驗不是未嘗整體用法；不願是意願，原文明說未曾發生。"
+      },
+      "objective": "文句中「未嘗」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-2",
+      "ordinal": 104,
+      "baseQuestionHash": "6995e2c6b528b0ea4a0a739338e6d527b21bb080463c86498dbc1a11d924ec75",
+      "patch": {
+        "explanation": "遷滅是滅亡，終繼五國遷滅說齊最後跟着其他五國走向敗亡。繼寫先後，不能因遷字就理解為遷都而國家仍存。",
+        "summary": "遷滅是滅亡，終繼五國遷滅說齊最後跟着其他五國走向敗亡。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "遷都",
+            "explanation": "遷都不必滅國，本句明說終亡。"
+          },
+          {
+            "id": "b",
+            "text": "滅亡",
+            "explanation": "遷滅是滅亡，終繼五國遷滅說齊最後跟着其他五國走向敗亡。"
+          },
+          {
+            "id": "c",
+            "text": "移民",
+            "explanation": "移民是人口轉移，非國家結局。"
+          },
+          {
+            "id": "d",
+            "text": "改朝換代而國土仍存",
+            "explanation": "遷滅指國家走向滅亡，非只換君主。"
+          }
+        ],
+        "misconception": "遷都不必滅國，本句明說終亡；移民是人口轉移，非國家結局；遷滅指國家走向滅亡，非只換君主。"
+      },
+      "objective": "文句中「遷滅」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-10-11-00-3",
+      "ordinal": 105,
+      "baseQuestionHash": "07fa8485a4ba6b7d7b7ed85860526921ad7f971bf7c9ca379655ccff55375a33",
+      "patch": {
+        "explanation": "與嬴是親附秦國，嬴以秦君姓氏代秦。它與不助五國相連，說齊的外交選擇損害共同抗秦力量，不是齊已戰勝秦。",
+        "summary": "與嬴是親附秦國，嬴以秦君姓氏代秦。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "與秦國勢均力敵",
+            "explanation": "沒有比較雙方勢均力敵。"
+          },
+          {
+            "id": "b",
+            "text": "替五國戰勝秦國",
+            "explanation": "親附秦與替五國抗秦方向相反。"
+          },
+          {
+            "id": "c",
+            "text": "親附秦國",
+            "explanation": "與嬴是親附秦國，嬴以秦君姓氏代秦。"
+          },
+          {
+            "id": "d",
+            "text": "向勝者交出人口",
+            "explanation": "嬴不是贏的勝者義，也未說交人口。"
+          }
+        ],
+        "misconception": "沒有比較雙方勢均力敵；親附秦與替五國抗秦方向相反；嬴不是贏的勝者義，也未說交人口。"
+      },
+      "objective": "文句中「與嬴」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-4",
+      "ordinal": 106,
+      "baseQuestionHash": "ef41326d2ba4af80cee2da8b248b5ad805f7b9a45c9221fc5904d19dad480e67",
+      "patch": {
+        "explanation": "既是已經，五國既喪先交代援國消亡已成事實，才推齊亦不免。它標記已完成狀態，不是未來預測或即使如此的讓步。",
+        "summary": "既是已經，五國既喪先交代援國消亡已成事實，才推齊亦不免。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "已經",
+            "explanation": "既是已經，五國既喪先交代援國消亡已成事實，才推齊亦不免。"
+          },
+          {
+            "id": "b",
+            "text": "即使",
+            "explanation": "即使是假設，本句先述既成局面。"
+          },
+          {
+            "id": "c",
+            "text": "即將",
+            "explanation": "即將把已發生改為未發生。"
+          },
+          {
+            "id": "d",
+            "text": "仍然",
+            "explanation": "仍然說延續，未標出已經亡國的時點。"
+          }
+        ],
+        "misconception": "即使是假設，本句先述既成局面；即將把已發生改為未發生；仍然說延續，未標出已經亡國的時點。"
+      },
+      "objective": "文句中「既」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-5",
+      "ordinal": 107,
+      "baseQuestionHash": "bc88e902a76dbcba8b6749f4e0876528b5efbbd8b566d7c6acf65a8884766632",
+      "patch": {
+        "explanation": "始有遠略是起初有長遠謀略，作者先肯定守土不賂的方略。後文才寫刺客與殺將造成轉折，不能把起初肯定擴成一直沒有變。",
+        "summary": "始有遠略是起初有長遠謀略，作者先肯定守土不賂的方略。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "到最後才有長遠謀略",
+            "explanation": "到最後才有把時序倒置。"
+          },
+          {
+            "id": "b",
+            "text": "一直沒有改變謀略",
+            "explanation": "後文明確改策，非一直不變。"
+          },
+          {
+            "id": "c",
+            "text": "從未有過任何謀略",
+            "explanation": "能守土是原有遠略的具體根據，非從未有謀略。"
+          },
+          {
+            "id": "d",
+            "text": "起初有長遠謀略",
+            "explanation": "始有遠略是起初有長遠謀略，作者先肯定守土不賂的方略。"
+          }
+        ],
+        "misconception": "到最後才有把時序倒置；後文明確改策，非一直不變；能守土是原有遠略的具體根據，非從未有謀略。"
+      },
+      "objective": "文句中「始有遠略」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-6",
+      "ordinal": 108,
+      "baseQuestionHash": "00de884bc9b37478f90302c31722ea638d72981abbb6eeb7700bfbc2bca3d985",
+      "patch": {
+        "explanation": "義不賂秦是以不賂秦為合義的原則，主動守土而不屈服。它是早期方略的肯定，不是地已割盡而被迫停送，也不是說別國應賄賂。",
+        "summary": "義不賂秦是以不賂秦為合義的原則，主動守土而不屈服。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "為求財利而暫停賂秦",
+            "explanation": "文中肯定守義，未以求財為目的。"
+          },
+          {
+            "id": "b",
+            "text": "因土地用盡而不能賂秦",
+            "explanation": "能守其土說尚守有土地，非已用盡。"
+          },
+          {
+            "id": "c",
+            "text": "堅持以不賂秦為合義",
+            "explanation": "義不賂秦是以不賂秦為合義的原則，主動守土而不屈服。"
+          },
+          {
+            "id": "d",
+            "text": "認為別國賂秦才合義",
+            "explanation": "主體是燕趙自守原則，非要求別國賂秦。"
+          }
+        ],
+        "misconception": "文中肯定守義，未以求財為目的；能守其土說尚守有土地，非已用盡；主體是燕趙自守原則，非要求別國賂秦。"
+      },
+      "objective": "文句中「義不賂秦」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-7",
+      "ordinal": 109,
+      "baseQuestionHash": "7e69a0ca65de5e031b3d60a6b8ec22a49bcb1ac581183be321a5b3a2310e5772",
+      "patch": {
+        "explanation": "斯是這，回指燕雖小卻較後亡的事實，判為用兵成效。先找回指內容，才能看到作者用事實證明抗秦並非毫無作用。",
+        "summary": "斯是這，回指燕雖小卻較後亡的事實，判為用兵成效。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "這",
+            "explanation": "斯是這，回指燕雖小卻較後亡的事實，判為用兵成效。"
+          },
+          {
+            "id": "b",
+            "text": "於是",
+            "explanation": "於是是承接連詞，斯在此作指代。"
+          },
+          {
+            "id": "c",
+            "text": "那人",
+            "explanation": "不是代某一個人，而是前述事實。"
+          },
+          {
+            "id": "d",
+            "text": "此時",
+            "explanation": "此時只指時間，未概括守土後亡的結果。"
+          }
+        ],
+        "misconception": "於是是承接連詞，斯在此作指代；不是代某一個人，而是前述事實；此時只指時間，未概括守土後亡的結果。"
+      },
+      "objective": "文句中「斯」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-8",
+      "ordinal": 110,
+      "baseQuestionHash": "3525d437727ecd8948eea5b0142f90047ec8afccad1b18d6ddd68204ea3f66d8",
+      "patch": {
+        "explanation": "始速禍是才招致禍患，起點在太子丹改用荊軻刺秦計。速是招致而非快，始又指此時才發生，兩字一起說政策轉折的後果。",
+        "summary": "始速禍是才招致禍患，起點在太子丹改用荊軻刺秦計。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "一開始便已滅亡",
+            "explanation": "不是一開始便亡，之前守土曾有效。"
+          },
+          {
+            "id": "b",
+            "text": "才招致禍患",
+            "explanation": "始速禍是才招致禍患，起點在太子丹改用荊軻刺秦計。"
+          },
+          {
+            "id": "c",
+            "text": "起初加速出兵",
+            "explanation": "沒有說加快軍隊行進。"
+          },
+          {
+            "id": "d",
+            "text": "迅速消除災禍",
+            "explanation": "招禍與消災方向相反。"
+          }
+        ],
+        "misconception": "不是一開始便亡，之前守土曾有效；沒有說加快軍隊行進；招禍與消災方向相反。"
+      },
+      "objective": "文句中「始速禍」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-9",
+      "ordinal": 111,
+      "baseQuestionHash": "fe890e939cd55b9308647094f6ff2366ac50efa77a0d9229ca16d058892e4e00",
+      "patch": {
+        "explanation": "先五次，再在後來另有兩次，共七次，因再在古義是兩次。二敗三勝分解前五戰，李牧連卻則寫後兩戰，不能把後來兩戰塞回前五次。",
+        "summary": "先五次，再在後來另有兩次，共七次，因再在古義是兩次。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "先五次，後另有兩次，共七次",
+            "explanation": "先五次，再在後來另有兩次，共七次，因再在古義是兩次。"
+          },
+          {
+            "id": "b",
+            "text": "先五次，後另有一次，共六次",
+            "explanation": "將再作又一次少算一次。"
+          },
+          {
+            "id": "c",
+            "text": "前後合計五次，其中兩次是李牧擊退秦軍",
+            "explanation": "後明示另一期，不是前五戰的子集。"
+          },
+          {
+            "id": "d",
+            "text": "先五次，後多次但沒有說明確切次數",
+            "explanation": "再已有兩次的明確數量。"
+          }
+        ],
+        "misconception": "將再作又一次少算一次；後明示另一期，不是前五戰的子集；再已有兩次的明確數量。"
+      },
+      "objective": "「趙嘗五戰于秦，二敗而三勝；後秦擊趙者再，李牧連卻之」記了多少次交戰？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-10",
+      "ordinal": 112,
+      "baseQuestionHash": "8fa4561d6b50f75e7684fcc11b4114656b808b67a2c1f7f62f37f3dee4c9da78",
+      "patch": {
+        "explanation": "連卻是接連擊退，主語李牧、對象秦軍，肯定良將守國成效。之承接後秦擊趙，不能把這個及物動作改為李牧不斷退走。",
+        "summary": "連卻是接連擊退，主語李牧、對象秦軍，肯定良將守國成效。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "接連退避",
+            "explanation": "退避倒轉李牧與秦軍的勝退關係。"
+          },
+          {
+            "id": "b",
+            "text": "一併拒絕",
+            "explanation": "拒絕未表達軍事擊退。"
+          },
+          {
+            "id": "c",
+            "text": "接連擊退",
+            "explanation": "連卻是接連擊退，主語李牧、對象秦軍，肯定良將守國成效。"
+          },
+          {
+            "id": "d",
+            "text": "連同撤退",
+            "explanation": "連同撤退說一起走，與連續卻敵不同。"
+          }
+        ],
+        "misconception": "退避倒轉李牧與秦軍的勝退關係；拒絕未表達軍事擊退；連同撤退說一起走，與連續卻敵不同。"
+      },
+      "objective": "文句中「連卻」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-11",
+      "ordinal": 113,
+      "baseQuestionHash": "b4afde4f6b0159e7bf3bd6d1630f252c972894ced3b9c7f720ae82c320704d07",
+      "patch": {
+        "explanation": "洎牧以讒誅是及至李牧因讒言被殺，李牧是受害者，以讒引原因。後接邯鄲為郡，將錯失良將連到亡國，不能把他改成誅殺進讒者的人。",
+        "summary": "洎牧以讒誅是及至李牧因讒言被殺，李牧是受害者，以讒引原因。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "及至李牧用讒言殺人",
+            "explanation": "把受害李牧改作殺人者。"
+          },
+          {
+            "id": "b",
+            "text": "李牧奉命誅殺進讒者",
+            "explanation": "仍把受誅者改成執行誅殺者。"
+          },
+          {
+            "id": "c",
+            "text": "及至李牧因讒言被殺",
+            "explanation": "洎牧以讒誅是及至李牧因讒言被殺，李牧是受害者，以讒引原因。"
+          },
+          {
+            "id": "d",
+            "text": "秦因李牧進讒而滅亡",
+            "explanation": "亡的是趙，且未說李牧向秦進讒。"
+          }
+        ],
+        "misconception": "把受害李牧改作殺人者；仍把受誅者改成執行誅殺者；亡的是趙，且未說李牧向秦進讒。"
+      },
+      "objective": "文句中「洎牧以讒誅」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-12",
+      "ordinal": 114,
+      "baseQuestionHash": "709e9286cf7c07bfc8e81f07df31ba41ea909f1d47dd67d4a830afe75a2d28a1",
+      "patch": {
+        "explanation": "邯鄲成為秦的郡，借趙都被吞併表趙亡。為表成為，郡的政治隸屬改變才是關鍵，不能只理解改名而原國仍獨立。",
+        "summary": "邯鄲成為秦的郡，借趙都被吞併表趙亡。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "趙國增設邯鄲郡以擴土",
+            "explanation": "不是趙擴張增設自己的郡。"
+          },
+          {
+            "id": "b",
+            "text": "秦國遷都至邯鄲",
+            "explanation": "沒有秦遷都的情節。"
+          },
+          {
+            "id": "c",
+            "text": "邯鄲成為秦國的郡",
+            "explanation": "邯鄲成為秦的郡，借趙都被吞併表趙亡。"
+          },
+          {
+            "id": "d",
+            "text": "邯鄲改名而趙國仍獨立",
+            "explanation": "成為秦郡已失國權，非只換名字。"
+          }
+        ],
+        "misconception": "不是趙擴張增設自己的郡；沒有秦遷都的情節；成為秦郡已失國權，非只換名字。"
+      },
+      "objective": "文句中「邯鄲為郡」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-13",
+      "ordinal": 115,
+      "baseQuestionHash": "46fbf6129e65aba17ed2bc0728462f29353653fc8cbeb7ec6f74855d6b809fbf",
+      "patch": {
+        "explanation": "用武而不終指武力抗秦未能堅持到底，原因接李牧遭讒被殺。作者先寫多次勝退秦軍，再歎中途自毀，故不終不是戰爭遲遲不停。",
+        "summary": "用武而不終指武力抗秦未能堅持到底，原因接李牧遭讒被殺。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "始終拒絕以武力抗秦",
+            "explanation": "前文多次用兵，不能說始終拒絕。"
+          },
+          {
+            "id": "b",
+            "text": "武力抗秦未能堅持到底",
+            "explanation": "用武而不終指武力抗秦未能堅持到底，原因接李牧遭讒被殺。"
+          },
+          {
+            "id": "c",
+            "text": "用盡所有兵器仍不止戰",
+            "explanation": "沒有說兵器已用盡，重策略中斷。"
+          },
+          {
+            "id": "d",
+            "text": "戰亂一直持續沒有結束",
+            "explanation": "不終否定堅持到底，非戰事永無終結。"
+          }
+        ],
+        "misconception": "前文多次用兵，不能說始終拒絕；沒有說兵器已用盡，重策略中斷；不終否定堅持到底，非戰事永無終結。"
+      },
+      "objective": "文句中「用武而不終」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-14",
+      "ordinal": 116,
+      "baseQuestionHash": "045f91c9822225717444272c939358fc00462922f08c6b9af8bad5771d1b03b3",
+      "patch": {
+        "explanation": "秦是消滅別國的主體，殆盡是幾乎滅盡其他諸侯的程度。這時燕趙尚在孤危抗秦，所以不能提前說它們已被全滅，也不能倒成秦被消滅。",
+        "summary": "秦是消滅別國的主體，殆盡是幾乎滅盡其他諸侯的程度。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "秦被六國幾乎消滅",
+            "explanation": "主客倒轉，原文秦在兼併他國。"
+          },
+          {
+            "id": "b",
+            "text": "秦已把燕趙兩國完全消滅",
+            "explanation": "燕趙此刻仍抗秦，並非已全部消失。"
+          },
+          {
+            "id": "c",
+            "text": "秦已幾乎滅盡其他諸侯國",
+            "explanation": "秦是消滅別國的主體，殆盡是幾乎滅盡其他諸侯的程度。"
+          },
+          {
+            "id": "d",
+            "text": "秦只削弱各國而未使其滅亡",
+            "explanation": "革滅確含滅國，非只有削弱。"
+          }
+        ],
+        "misconception": "主客倒轉，原文秦在兼併他國；燕趙此刻仍抗秦，並非已全部消失；革滅確含滅國，非只有削弱。"
+      },
+      "objective": "「秦革滅殆盡」的主體和滅國程度，哪項理解最準確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-15",
+      "ordinal": 117,
+      "baseQuestionHash": "7af6f41098a36e86b2ecc54b6e15a7bde88bddce7d5969fdeb886a68d9c25ccf",
+      "patch": {
+        "explanation": "智力孤危說智謀軍力在失援後孤立薄弱，不是君主智商低。且把個別失策補上整體局面，使不能獨完的總論在燕趙案例得到呼應。",
+        "summary": "智力孤危說智謀軍力在失援後孤立薄弱，不是君主智商低。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "君主智商低而多疑",
+            "explanation": "將國家謀略力量縮成個人智商。"
+          },
+          {
+            "id": "b",
+            "text": "智謀軍力孤立薄弱",
+            "explanation": "智力孤危說智謀軍力在失援後孤立薄弱，不是君主智商低。"
+          },
+          {
+            "id": "c",
+            "text": "讀書人孤獨而貧困",
+            "explanation": "讀書人貧困不合抗秦政治語境。"
+          },
+          {
+            "id": "d",
+            "text": "臣子計策多而君主自滿",
+            "explanation": "沒有臣多計君自滿的對立。"
+          }
+        ],
+        "misconception": "將國家謀略力量縮成個人智商；讀書人貧困不合抗秦政治語境；沒有臣多計君自滿的對立。"
+      },
+      "objective": "文句中「智力孤危」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-16",
+      "ordinal": 118,
+      "baseQuestionHash": "4de47f60454738a2921e2e014cd8c9ed0d13ae61f46b1191954a3def87bc3843",
+      "patch": {
+        "explanation": "誠是確實，誠不得已承認燕趙在失援孤危下敗亡有無可奈何的一面。它強化作者判斷，不是設假如條件，也不指忠誠品格。",
+        "summary": "誠是確實，誠不得已承認燕趙在失援孤危下敗亡有無可奈何的一面。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "假如",
+            "explanation": "假如是未定條件，誠在此肯定事實評價。"
+          },
+          {
+            "id": "b",
+            "text": "忠誠",
+            "explanation": "忠誠是品德，非確實副詞。"
+          },
+          {
+            "id": "c",
+            "text": "誠心地請求",
+            "explanation": "本句沒有請求誰做事。"
+          },
+          {
+            "id": "d",
+            "text": "確實",
+            "explanation": "誠是確實，誠不得已承認燕趙在失援孤危下敗亡有無可奈何的一面。"
+          }
+        ],
+        "misconception": "假如是未定條件，誠在此肯定事實評價；忠誠是品德，非確實副詞；本句沒有請求誰做事。"
+      },
+      "objective": "文句中「誠」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-17",
+      "ordinal": 119,
+      "baseQuestionHash": "8b8da4543b5148f2c743215adb5cf6b973e54e8e55fed8a5b6d04d7e8f50f195",
+      "patch": {
+        "explanation": "向使是假如當初，回過頭設想六國若改掉各項錯誤會如何。它與後面或未易量形成條件與可能結果，不是史實中已共同採用的政策。",
+        "summary": "向使是假如當初，回過頭設想六國若改掉各項錯誤會如何。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "假如當初",
+            "explanation": "向使是假如當初，回過頭設想六國若改掉各項錯誤會如何。"
+          },
+          {
+            "id": "b",
+            "text": "從前使用",
+            "explanation": "不是兩字拆作過去使用。"
+          },
+          {
+            "id": "c",
+            "text": "向外派遣使者",
+            "explanation": "使不是使節名詞，沒有向外派人。"
+          },
+          {
+            "id": "d",
+            "text": "即使現在如此",
+            "explanation": "當初反設不是即使現在的讓步。"
+          }
+        ],
+        "misconception": "不是兩字拆作過去使用；使不是使節名詞，沒有向外派人；當初反設不是即使現在的讓步。"
+      },
+      "objective": "文句中「向使」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-18",
+      "ordinal": 120,
+      "baseQuestionHash": "ea41b379ffdb311e90e7031d6c216ea7f0e80fb4fd56d400826cc53bc4069a7f",
+      "patch": {
+        "explanation": "三國指韓魏楚，承接前段割地者；齊、燕、趙在假設句後續分別處理。用篇章分組辨認，不能見三國就套後世魏蜀吳。",
+        "summary": "三國指韓魏楚，承接前段割地者；齊、燕、趙在假設句後續分別處理。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "齊、燕、趙",
+            "explanation": "齊燕趙各有後面的獨立假設，不是本處三國。"
+          },
+          {
+            "id": "b",
+            "text": "韓、魏、楚",
+            "explanation": "三國指韓魏楚，承接前段割地者；齊、燕、趙在假設句後續分別處理。"
+          },
+          {
+            "id": "c",
+            "text": "魏、蜀、吳",
+            "explanation": "魏蜀吳時代與本文戰國不同。"
+          },
+          {
+            "id": "d",
+            "text": "秦、楚、趙",
+            "explanation": "秦是對手，不能列作各愛其地的賂秦諸侯。"
+          }
+        ],
+        "misconception": "齊燕趙各有後面的獨立假設，不是本處三國；魏蜀吳時代與本文戰國不同；秦是對手，不能列作各愛其地的賂秦諸侯。"
+      },
+      "objective": "文句中「三國」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-19",
+      "ordinal": 121,
+      "baseQuestionHash": "834f7b417de5ad74b48a705de14d2257e751b04d6b858307509f2ba4d8f44ba5",
+      "patch": {
+        "explanation": "愛是愛惜，愛其地反設割地諸侯能珍惜守住土地。它回應子孫視之不甚惜，不是對某人愛慕或君主寵信臣子。",
+        "summary": "愛是愛惜，愛其地反設割地諸侯能珍惜守住土地。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "愛惜",
+            "explanation": "愛是愛惜，愛其地反設割地諸侯能珍惜守住土地。"
+          },
+          {
+            "id": "b",
+            "text": "偏愛",
+            "explanation": "偏愛需選擇偏重的對象，這裏是珍惜土地。"
+          },
+          {
+            "id": "c",
+            "text": "愛慕",
+            "explanation": "愛慕多指情意傾向，非守地政策。"
+          },
+          {
+            "id": "d",
+            "text": "寵信",
+            "explanation": "寵信以人為對象，土地不受任用。"
+          }
+        ],
+        "misconception": "偏愛需選擇偏重的對象，這裏是珍惜土地；愛慕多指情意傾向，非守地政策；寵信以人為對象，土地不受任用。"
+      },
+      "objective": "文句中「愛」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-20",
+      "ordinal": 122,
+      "baseQuestionHash": "4f55cdd4fd041396459cd53638830d1517041bbbd19c92b1ad8d2c786ac32ede",
+      "patch": {
+        "explanation": "刺客不行是在反設不實行刺秦計，回應燕太子丹用荊軻招禍。行關乎方案付諸行動，不是刺客是否能步行、行禮或品行好壞。",
+        "summary": "刺客不行是在反設不實行刺秦計，回應燕太子丹用荊軻招禍。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "刺客出發卻未能成功",
+            "explanation": "向使假設沒有實行此計，並非仍出發而失敗。"
+          },
+          {
+            "id": "b",
+            "text": "刺客能力不足以任事",
+            "explanation": "不行在此否定實行刺秦，非評刺客本領。"
+          },
+          {
+            "id": "c",
+            "text": "刺客被擒而不能行動",
+            "explanation": "這是另造被擒情節，非向使的假設內容。"
+          },
+          {
+            "id": "d",
+            "text": "不實行刺秦計",
+            "explanation": "刺客不行是在反設不實行刺秦計，回應燕太子丹用荊軻招禍。"
+          }
+        ],
+        "misconception": "向使假設沒有實行此計，並非仍出發而失敗；不行在此否定實行刺秦，非評刺客本領；這是另造被擒情節，非向使的假設內容。"
+      },
+      "objective": "文句中「刺客不行」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-10-11-00-21",
+      "ordinal": 123,
+      "baseQuestionHash": "d85e2000afa6e03949ed4158547704926aa5918ad33450c0a62e2ca67e8fddfc",
+      "patch": {
+        "explanation": "良將指李牧，猶在反設他未遭讒殺，仍能繼續抗秦。前面連卻秦軍提供稱良將的根據，不能把刺客荊軻或燕太子當作趙的守將。",
+        "summary": "良將指李牧，猶在反設他未遭讒殺，仍能繼續抗秦。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "荊軻",
+            "explanation": "荊軻是刺客，前句另處理其計策。"
+          },
+          {
+            "id": "b",
+            "text": "燕太子丹",
+            "explanation": "太子丹是燕國決策者，非趙將。"
+          },
+          {
+            "id": "c",
+            "text": "李牧",
+            "explanation": "良將指李牧，猶在反設他未遭讒殺，仍能繼續抗秦。"
+          },
+          {
+            "id": "d",
+            "text": "齊國國君",
+            "explanation": "齊君不是這段連卻秦軍的人。"
+          }
+        ],
+        "misconception": "荊軻是刺客，前句另處理其計策；太子丹是燕國決策者，非趙將；齊君不是這段連卻秦軍的人。"
+      },
+      "objective": "文句中「良將」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-22",
+      "ordinal": 124,
+      "baseQuestionHash": "75d81fbf4a716bccbcdd0a0327bb47f5dddd8cc5d01c202893f038407ad8555c",
+      "patch": {
+        "explanation": "數是命運、運數，勝負之數指戰局成敗的走向。與存亡之理相應，作者用未易量說尚有可爭，不是要求把勝場敗場相加。",
+        "summary": "數是命運、運數，勝負之數指戰局成敗的走向。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "數目、數量",
+            "explanation": "次數是前文五戰再戰的量，此處論勝負走向。"
+          },
+          {
+            "id": "b",
+            "text": "命運、運數",
+            "explanation": "數是命運、運數，勝負之數指戰局成敗的走向。"
+          },
+          {
+            "id": "c",
+            "text": "列舉、計數",
+            "explanation": "列舉是動作，之數為名詞性內容。"
+          },
+          {
+            "id": "d",
+            "text": "數次、多次",
+            "explanation": "數次是頻率，非此處成敗之數。"
+          }
+        ],
+        "misconception": "次數是前文五戰再戰的量，此處論勝負走向；列舉是動作，之數為名詞性內容；數次是頻率，非此處成敗之數。"
+      },
+      "objective": "文句中「數」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-23",
+      "ordinal": 125,
+      "baseQuestionHash": "c17389d2e0ac6340c366532fb62051d172534fc1e7d20f4af30bff3b9ff55470",
+      "patch": {
+        "explanation": "理在存亡之理中指因素、情勢，連同勝負之數概括可能局面。它受向使的條件影響，並非在討論倫理名分或進行審判。",
+        "summary": "理在存亡之理中指因素、情勢，連同勝負之數概括可能局面。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "倫理、名分",
+            "explanation": "倫理名分不是這句勝敗情勢所重。"
+          },
+          {
+            "id": "b",
+            "text": "因素、情勢",
+            "explanation": "理在存亡之理中指因素、情勢，連同勝負之數概括可能局面。"
+          },
+          {
+            "id": "c",
+            "text": "整理、修整",
+            "explanation": "整理是動作，非存亡的名詞內容。"
+          },
+          {
+            "id": "d",
+            "text": "審理、治罪",
+            "explanation": "沒有司法審案，理不作治罪。"
+          }
+        ],
+        "misconception": "倫理名分不是這句勝敗情勢所重；整理是動作，非存亡的名詞內容；沒有司法審案，理不作治罪。"
+      },
+      "objective": "文句中「理」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-25",
+      "ordinal": 126,
+      "baseQuestionHash": "ffa63b57c09fa0b3f0a93d434f5ff4a20f08403787e50597d95b297bab8b6514",
+      "patch": {
+        "explanation": "或保留也許的分寸，只說若改變條件，勝負可能尚難估量。這支持滅亡非只能由先天強弱注定，卻不足推出六國必勝或必敗。",
+        "summary": "或保留也許的分寸，只說若改變條件，勝負可能尚難估量。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "已確定六國可勝，只未定勝在何時",
+            "explanation": "未易量不等於只未知勝利日期。"
+          },
+          {
+            "id": "b",
+            "text": "可能仍有可爭的勝負，未斷言六國必勝",
+            "explanation": "或保留也許的分寸，只說若改變條件，勝負可能尚難估量。"
+          },
+          {
+            "id": "c",
+            "text": "已確定六國仍敗，只未定哪國先亡",
+            "explanation": "原文沒有預先保證仍必敗。"
+          },
+          {
+            "id": "d",
+            "text": "只表示有人尚未計算，作者本人已定勝負",
+            "explanation": "或修飾推斷，不是在指一名沒計算的人。"
+          }
+        ],
+        "misconception": "未易量不等於只未知勝利日期；原文沒有預先保證仍必敗；或修飾推斷，不是在指一名沒計算的人。"
+      },
+      "objective": "「當與秦相較，或未易量」的「或」使作者對假設結果保留甚麼分寸？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-27",
+      "ordinal": 127,
+      "baseQuestionHash": "23ab4e3b3a603da7248131074f448c58f99ea898fda0e69061ca976ba1586da9",
+      "patch": {
+        "explanation": "封是封賞，把原奉秦土地賞給天下謀臣，用以招攬人才。地是資源，謀臣是受賞者，故不是把人才關起來或封存土地。",
+        "summary": "封是封賞，把原奉秦土地賞給天下謀臣，用以招攬人才。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "封賞",
+            "explanation": "封是封賞，把原奉秦土地賞給天下謀臣，用以招攬人才。"
+          },
+          {
+            "id": "b",
+            "text": "封閉",
+            "explanation": "封閉使人隔絕，與延攬人才相反。"
+          },
+          {
+            "id": "c",
+            "text": "封鎖",
+            "explanation": "封鎖是阻斷，非獎賞。"
+          },
+          {
+            "id": "d",
+            "text": "封存",
+            "explanation": "封存是保存不動，原文主張轉用封賞。"
+          }
+        ],
+        "misconception": "封閉使人隔絕，與延攬人才相反；封鎖是阻斷，非獎賞；封存是保存不動，原文主張轉用封賞。"
+      },
+      "objective": "文句中「封」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-28",
+      "ordinal": 128,
+      "baseQuestionHash": "0f6335232640d73a3f50de1a048be9f9c62f9b7ea0633302bbdc71ae5fa18142",
+      "patch": {
+        "explanation": "禮作動詞是禮待，以事秦的心意改為敬重、延攬奇才。與封謀臣相對，一談土地、一談心力，不能把禮解成一份名詞禮物便算完整。",
+        "summary": "禮作動詞是禮待，以事秦的心意改為敬重、延攬奇才。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "禮物",
+            "explanation": "禮物是物件，這裏是對人採取的態度行動。"
+          },
+          {
+            "id": "b",
+            "text": "禮制",
+            "explanation": "禮制是規章，不能直接禮制奇才。"
+          },
+          {
+            "id": "c",
+            "text": "禮待",
+            "explanation": "禮作動詞是禮待，以事秦的心意改為敬重、延攬奇才。"
+          },
+          {
+            "id": "d",
+            "text": "行禮的人",
+            "explanation": "行禮的人不是禮這個動詞本身。"
+          }
+        ],
+        "misconception": "禮物是物件，這裏是對人採取的態度行動；禮制是規章，不能直接禮制奇才；行禮的人不是禮這個動詞本身。"
+      },
+      "objective": "文句中「禮」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-29",
+      "ordinal": 129,
+      "baseQuestionHash": "a3adb8be269fb55cf20531983a60451295c5b45f83c79c18b055180f262d7d2c",
+      "patch": {
+        "explanation": "奇才是才智出眾的人，與謀臣相應，都是可助抗秦的人才。奇說才能卓越，並非外貌或脾氣古怪，文中也未限於一項小技。",
+        "summary": "奇才是才智出眾的人，與謀臣相應，都是可助抗秦的人才。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "行事與眾不同的人",
+            "explanation": "奇才的重點是才智出眾，非凡異行為皆可。"
+          },
+          {
+            "id": "b",
+            "text": "門第顯赫的人",
+            "explanation": "才說才能，非以家世界定。"
+          },
+          {
+            "id": "c",
+            "text": "武力強大的人",
+            "explanation": "奇才不限定武力，合力抗秦仍須各種人才。"
+          },
+          {
+            "id": "d",
+            "text": "才智出眾的人",
+            "explanation": "奇才是才智出眾的人，與謀臣相應，都是可助抗秦的人才。"
+          }
+        ],
+        "misconception": "奇才的重點是才智出眾，非凡異行為皆可；才說才能，非以家世界定；奇才不限定武力，合力抗秦仍須各種人才。"
+      },
+      "objective": "文句中「奇才」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-10-11-00-30",
+      "ordinal": 130,
+      "baseQuestionHash": "7eec9bb07536d543a227b3b0d71e8d55331e3fc600f99443b4dbc3fd5d99ad6c",
+      "patch": {
+        "explanation": "幷力西嚮是合力向西抗秦，將分散力量組合起來改變對敵局面。它接封臣禮才，構成自強合作方案，而非結交秦一同拓土或西去求和。",
+        "summary": "幷力西嚮是合力向西抗秦，將分散力量組合起來改變對敵局面。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "合兵向西逃亡",
+            "explanation": "逃亡取消抗敵目的。"
+          },
+          {
+            "id": "b",
+            "text": "聯同秦軍向西拓土",
+            "explanation": "秦是所抗對手，非聯盟成員。"
+          },
+          {
+            "id": "c",
+            "text": "向西朝拜以求休戰",
+            "explanation": "朝拜求和仍是事秦方向，與此方案相反。"
+          },
+          {
+            "id": "d",
+            "text": "合力向西抗秦",
+            "explanation": "幷力西嚮是合力向西抗秦，將分散力量組合起來改變對敵局面。"
+          }
+        ],
+        "misconception": "逃亡取消抗敵目的；秦是所抗對手，非聯盟成員；朝拜求和仍是事秦方向，與此方案相反。"
+      },
+      "objective": "文句中「幷力西嚮」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-31",
+      "ordinal": 131,
+      "baseQuestionHash": "c4ca664ad89cc6e7aad574b021a695f19f0a86a88780265827c37cb58d6b5236",
+      "patch": {
+        "explanation": "秦人食不下嚥是作者推演聯合抗秦後，敵方可能恐懼難安的效果。則把條件與結果接起來，並非史實已記六國合力使秦如此。",
+        "summary": "秦人食不下嚥是作者推演聯合抗秦後，敵方可能恐懼難安的效果。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "合力抗秦的設想使秦人不安，是作者推演的效果",
+            "explanation": "秦人食不下嚥是作者推演聯合抗秦後，敵方可能恐懼難安的效果。"
+          },
+          {
+            "id": "b",
+            "text": "奉地愈繁使秦人不安，是作者概括的歷史事實",
+            "explanation": "奉地反增秦力，且此句在假設之後。"
+          },
+          {
+            "id": "c",
+            "text": "秦欲無厭使秦人不安，是作者諷刺的貪欲反噬",
+            "explanation": "重點不是貪欲自行反噬，而是六國自強的威懾。"
+          },
+          {
+            "id": "d",
+            "text": "先祖得地艱難使秦人不安，是作者鋪寫的創業情狀",
+            "explanation": "祖先創業是前段情態，非此處秦人不安原因。"
+          }
+        ],
+        "misconception": "奉地反增秦力，且此句在假設之後；重點不是貪欲自行反噬，而是六國自強的威懾；祖先創業是前段情態，非此處秦人不安原因。"
+      },
+      "objective": "「秦人食之不得下嚥」接在用才合力的假設後，描寫秦人怎樣的反應？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-32",
+      "ordinal": 132,
+      "baseQuestionHash": "c13e7288d7626739359244c8b31b3b97cadedd4feadc86a4eb38bf04043543dd",
+      "patch": {
+        "explanation": "積威是長期累積的強大威勢，令六國因恐懼而屈從。積強調累積，威強調威懾，不等於仁德信望或只是倉庫兵器存量。",
+        "summary": "積威是長期累積的強大威勢，令六國因恐懼而屈從。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "以仁德建立的信望",
+            "explanation": "德望與令他國畏懼的威勢不同。"
+          },
+          {
+            "id": "b",
+            "text": "短暫偶發的威脅",
+            "explanation": "短暫偶發漏掉積的長期累積。"
+          },
+          {
+            "id": "c",
+            "text": "長期累積的強大威勢",
+            "explanation": "積威是長期累積的強大威勢，令六國因恐懼而屈從。"
+          },
+          {
+            "id": "d",
+            "text": "多年儲存的兵甲",
+            "explanation": "兵甲可構成力量，但積威不是器物清單。"
+          }
+        ],
+        "misconception": "德望與令他國畏懼的威勢不同；短暫偶發漏掉積的長期累積；兵甲可構成力量，但積威不是器物清單。"
+      },
+      "objective": "文句中「積威」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-11-00-34",
+      "ordinal": 133,
+      "baseQuestionHash": "36b618e83b286d8c85784f94c2c47c8670fd32c74b5df8bc440d94746344b9a3",
+      "patch": {
+        "explanation": "日削月割說日復日、月復月持續失地，日月作時間狀語。反覆割削把本有的形勢逐步耗盡，與趨於亡相接，不是按日月形狀分割。",
+        "summary": "日削月割說日復日、月復月持續失地，日月作時間狀語。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "只在白天和月初割地",
+            "explanation": "日月連用表反覆不斷，不設定割地時段。"
+          },
+          {
+            "id": "b",
+            "text": "每天割同樣數目的土地",
+            "explanation": "原句強調持續，未說每次數量相同。"
+          },
+          {
+            "id": "c",
+            "text": "秦每日攻取土地，諸侯從不主動割讓",
+            "explanation": "削割在本文包含賂秦割地，不能排除主動獻地。"
+          },
+          {
+            "id": "d",
+            "text": "日復日月復月不斷割地",
+            "explanation": "日削月割說日復日、月復月持續失地，日月作時間狀語。"
+          }
+        ],
+        "misconception": "日月連用表反覆不斷，不設定割地時段；原句強調持續，未說每次數量相同；削割在本文包含賂秦割地，不能排除主動獻地。"
+      },
+      "objective": "文句中「日削月割」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-10-12-00-1",
+      "ordinal": 134,
+      "baseQuestionHash": "e3a084c11afe81bd2b894594276bf878e393bf171d006145a1debb411084fcb1",
+      "patch": {
+        "explanation": "前為是治理，後為與所構成被動，整句勸治國者不要被積威脅迫。先認出告誡對象，再看被動遭遇；無使是不要使，不是無須。",
+        "summary": "前為是治理，後為與所構成被動，整句勸治國者不要被積威脅迫。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "成為；被",
+            "explanation": "為國不是成為國家。"
+          },
+          {
+            "id": "b",
+            "text": "治理；為了",
+            "explanation": "後為不是目的，與所劫構成受動。"
+          },
+          {
+            "id": "c",
+            "text": "治理；被",
+            "explanation": "前為是治理，後為與所構成被動，整句勸治國者不要被積威脅迫。"
+          },
+          {
+            "id": "d",
+            "text": "為了；成為",
+            "explanation": "兩字分別為治理與被，非為了與成為。"
+          }
+        ],
+        "misconception": "為國不是成為國家；後為不是目的，與所劫構成受動；兩字分別為治理與被，非為了與成為。"
+      },
+      "objective": "「為國者無使為積威之所劫哉」兩個「為」分別怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-12-00-2",
+      "ordinal": 135,
+      "baseQuestionHash": "4fd86ff7a0be2b014f307236153b8f1eb7ab18a157d2cc70bb218e4e56f999d6",
+      "patch": {
+        "explanation": "其勢弱於秦即六國勢力比秦弱，於引比較對象秦。弱說被比較者六國，方向不能讀反；而猶有再指出即使較弱仍有別的出路。",
+        "summary": "其勢弱於秦即六國勢力比秦弱，於引比較對象秦。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "秦國勢力比六國弱",
+            "explanation": "把比較方向反成秦較弱。"
+          },
+          {
+            "id": "b",
+            "text": "六國勢力被秦當作弱者",
+            "explanation": "於此處是比較，非被秦當作弱者的被動。"
+          },
+          {
+            "id": "c",
+            "text": "六國勢力比秦國弱",
+            "explanation": "其勢弱於秦即六國勢力比秦弱，於引比較對象秦。"
+          },
+          {
+            "id": "d",
+            "text": "六國要求秦削弱兵力",
+            "explanation": "沒有要求秦減軍的命令內容。"
+          }
+        ],
+        "misconception": "把比較方向反成秦較弱；於此處是比較，非被秦當作弱者的被動；沒有要求秦減軍的命令內容。"
+      },
+      "objective": "文句中「其勢弱於秦」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-12-00-3",
+      "ordinal": 136,
+      "baseQuestionHash": "67fca9b4e7df98974f645694405d77c447d6d4f0e7480043447948efc3ae4906",
+      "patch": {
+        "explanation": "苟設假如：憑統一大國條件卻沿襲六國敗策，便更不如六國。較好條件令重犯更可責，不是保證大國只要不打仗就敗或只要統一就安全。",
+        "summary": "苟設假如：憑統一大國條件卻沿襲六國敗策，便更不如六國。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "即使統一大國國土廣大，只要不用兵就會比六國更不如",
+            "explanation": "作者批評屈從敗策，不是把所有不用兵等同必敗。"
+          },
+          {
+            "id": "b",
+            "text": "因為統一大國同樣力弱，所以須把六國政策修正後沿用",
+            "explanation": "天下之大正比六國有利，非同樣力弱。"
+          },
+          {
+            "id": "c",
+            "text": "假如憑統一大國的條件卻沿襲敗策，便比六國更不如",
+            "explanation": "苟設假如：憑統一大國條件卻沿襲六國敗策，便更不如六國。"
+          },
+          {
+            "id": "d",
+            "text": "只要統一大國保存疆土，即使循六國故事也不會更不如",
+            "explanation": "更有利仍可因錯策失敗，非國土自動保證。"
+          }
+        ],
+        "misconception": "作者批評屈從敗策，不是把所有不用兵等同必敗；天下之大正比六國有利，非同樣力弱；更有利仍可因錯策失敗，非國土自動保證。"
+      },
+      "objective": "「苟以天下之大」怎樣連到「是又在六國下矣」？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-12-00-4",
+      "ordinal": 137,
+      "baseQuestionHash": "fb48b75488f50b8090e99e35469b2ff82548921567e6f9505c032a2e33746e07",
+      "patch": {
+        "explanation": "從是跟從、沿襲，所跟的是六國導致滅亡的舊例。作者以此警告當世不應重走敗路，不是在此主張合縱，亦非指自某時起。",
+        "summary": "從是跟從、沿襲，所跟的是六國導致滅亡的舊例。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "使人服從",
+            "explanation": "使人服從把主動沿襲改成支配他人。"
+          },
+          {
+            "id": "b",
+            "text": "跟從",
+            "explanation": "從是跟從、沿襲，所跟的是六國導致滅亡的舊例。"
+          },
+          {
+            "id": "c",
+            "text": "自某時開始",
+            "explanation": "後面是先例對象，非開始時點。"
+          },
+          {
+            "id": "d",
+            "text": "合縱",
+            "explanation": "合縱雖關聯戰國，從在此不是聯盟術語。"
+          }
+        ],
+        "misconception": "使人服從把主動沿襲改成支配他人；後面是先例對象，非開始時點；合縱雖關聯戰國，從在此不是聯盟術語。"
+      },
+      "objective": "文句中「從」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-12-00-5",
+      "ordinal": 138,
+      "baseQuestionHash": "81073d82085710fb68f0c07b4420303858043894ff54e84214ddd090171c323d",
+      "patch": {
+        "explanation": "從破亡之故事是沿襲導致六國敗亡的舊做法，所以才受更不如的責備。若是吸取教訓改正，便與作者批評的從故事方向相反。",
+        "summary": "從破亡之故事是沿襲導致六國敗亡的舊做法，所以才受更不如的責備。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "沿襲六國導致滅亡的舊例",
+            "explanation": "從破亡之故事是沿襲導致六國敗亡的舊做法，所以才受更不如的責備。"
+          },
+          {
+            "id": "b",
+            "text": "按照六國滅亡的傳說編寫故事",
+            "explanation": "故事為舊事，非編寫虛構傳說。"
+          },
+          {
+            "id": "c",
+            "text": "跟隨六國亡國後逃散的故人",
+            "explanation": "故不指故人，從也非跟着逃亡者。"
+          },
+          {
+            "id": "d",
+            "text": "從六國史事中吸取教訓而改正政策",
+            "explanation": "改正政策是作者期望，非被批評的重蹈覆轍。"
+          }
+        ],
+        "misconception": "故事為舊事，非編寫虛構傳說；故不指故人，從也非跟着逃亡者；改正政策是作者期望，非被批評的重蹈覆轍。"
+      },
+      "objective": "「從六國破亡之故事」的意思是哪一項？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-12-00-6",
+      "ordinal": 139,
+      "baseQuestionHash": "890b54176d709387c319e8a1ff75ad8bfb6778e63c479d55e79a8182d4a5e77e",
+      "patch": {
+        "explanation": "下是更不如，在六國下評價當世若重犯錯誤反比六國差。它比較政策責任與判斷，不是國家位於地圖下方或君主下命令。",
+        "summary": "下是更不如，在六國下評價當世若重犯錯誤反比六國差。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "更不如",
+            "explanation": "下是更不如，在六國下評價當世若重犯錯誤反比六國差。"
+          },
+          {
+            "id": "b",
+            "text": "位於下方",
+            "explanation": "這是評價高下，不是地理位置。"
+          },
+          {
+            "id": "c",
+            "text": "命令",
+            "explanation": "下令需命令對象，在下結構不取此義。"
+          },
+          {
+            "id": "d",
+            "text": "放下",
+            "explanation": "放下是動作，不能解釋國與國的比較。"
+          }
+        ],
+        "misconception": "這是評價高下，不是地理位置；下令需命令對象，在下結構不取此義；放下是動作，不能解釋國與國的比較。"
+      },
+      "objective": "文句中「下」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-13-00-1",
+      "ordinal": 140,
+      "baseQuestionHash": "61fa38c693f26892412af02500f8222ce658ed419b7a22813c917c1c86bb11cd",
+      "patch": {
+        "explanation": "先否定兵器戰法為根本敗因，再立賂秦為癥結，是先破後立的開門見山。後文分兩條因果展開，不能把首句當作尚未定論的史事羅列。",
+        "summary": "先否定兵器戰法為根本敗因，再立賂秦為癥結，是先破後立的開門見山。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "承認不賂國也滅亡，提出失援補足總論",
+            "explanation": "不賂者問答在立論之後補足，非本句次序。"
+          },
+          {
+            "id": "b",
+            "text": "比較戰爭與割地得失，提出非戰損益更大",
+            "explanation": "得失數量在第二段，非首句安排。"
+          },
+          {
+            "id": "c",
+            "text": "回顧六國尚可抗秦，提出當世不應重蹈覆轍",
+            "explanation": "借古諷今在結尾完成，非首句直接對照。"
+          },
+          {
+            "id": "d",
+            "text": "否定兵器戰法為主因，提出賂秦才是癥結",
+            "explanation": "先否定兵器戰法為根本敗因，再立賂秦為癥結，是先破後立的開門見山。"
+          }
+        ],
+        "misconception": "不賂者問答在立論之後補足，非本句次序；得失數量在第二段，非首句安排；借古諷今在結尾完成，非首句直接對照。"
+      },
+      "objective": "「非兵不利，戰不善，弊在賂秦」的立論次序是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-13-00-2",
+      "ordinal": 141,
+      "baseQuestionHash": "d5b9b50260100d93a49a34b8b28a188161fa501f9787657cb4996ca4ca4132c2",
+      "patch": {
+        "explanation": "兩處均先設疑問再自答，分別補失援總因與齊親秦不援的個別因果。問答使可能反例被正面處理，不是作者隨便向讀者索取未知答案。",
+        "summary": "兩處均先設疑問再自答，分別補失援總因與齊親秦不援的個別因果。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "先自設疑點，再補明間接失援及親秦不援的因果",
+            "explanation": "兩處均先設疑問再自答，分別補失援總因與齊親秦不援的個別因果。"
+          },
+          {
+            "id": "b",
+            "text": "先引古人評論，再以投薪救火解釋獻地的反效果",
+            "explanation": "引古語喻證在別段，非這兩個問答。"
+          },
+          {
+            "id": "c",
+            "text": "先敘良將用武，再以被讒見殺說明堅持抗秦的重要",
+            "explanation": "李牧事例不是這兩問的直接對象。"
+          },
+          {
+            "id": "d",
+            "text": "先列土地得失，再以祖先子孫對照激發讀者痛惜",
+            "explanation": "土地與祖孫對比是第二段另一手法。"
+          }
+        ],
+        "misconception": "引古語喻證在別段，非這兩個問答；李牧事例不是這兩問的直接對象；土地與祖孫對比是第二段另一手法。"
+      },
+      "objective": "「六國互喪，率賂秦耶」和齊亡後的「何哉」，在論述中共同起甚麼作用？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-13-00-3",
+      "ordinal": 142,
+      "baseQuestionHash": "7b3cccdc6f078eb545473181cdcfc0f228587273a07eff477b5b9ed6e47e56cc",
+      "patch": {
+        "explanation": "賂秦首尾相接，把弊病推進為力虧致亡的原因，屬有作用的頂真。重複不只是強調詞語存在，更把總論與解釋緊扣，讀時可看前末後首的位置。",
+        "summary": "賂秦首尾相接，把弊病推進為力虧致亡的原因，屬有作用的頂真。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "同一詞重複兩次，把戰得與非戰所得作對比",
+            "explanation": "此處沒比較戰得與非戰得地。"
+          },
+          {
+            "id": "b",
+            "text": "同一詞出現在問題和回答，把齊亡的疑點解開",
+            "explanation": "不是問題和回答的重複，也未論齊亡。"
+          },
+          {
+            "id": "c",
+            "text": "同一詞前後倒置，把祖先與子孫的態度並列",
+            "explanation": "詞序沒有倒置，主體也非祖先子孫。"
+          },
+          {
+            "id": "d",
+            "text": "同一詞承前啟後，把癥結推進為致亡因果",
+            "explanation": "賂秦首尾相接，把弊病推進為力虧致亡的原因，屬有作用的頂真。"
+          }
+        ],
+        "misconception": "此處沒比較戰得與非戰得地；不是問題和回答的重複，也未論齊亡；詞序沒有倒置，主體也非祖先子孫。"
+      },
+      "objective": "「弊在賂秦。賂秦而力虧」重複「賂秦」，為何不只是贅語？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-13-00-4",
+      "ordinal": 143,
+      "baseQuestionHash": "aee8b701cf9900bc36df71a4bd835d9480bfb447af07da064e400389bc7ffebf",
+      "patch": {
+        "explanation": "同一割地使秦增、諸侯減，從敵我兩面看出危害，較只計本國損失完整。兩組百倍同向強化賂秦弊病，不會因一得一失而抵銷戰略差距。",
+        "summary": "同一割地使秦增、諸侯減，從敵我兩面看出危害，較只計本國損失完整。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "非戰割地使各國同時失援，證明六國均未直接抗秦",
+            "explanation": "不是說六國從未抗秦，燕趙例正相反。"
+          },
+          {
+            "id": "b",
+            "text": "非戰割地同時使敵增我減，危害比只看本國損失更全面",
+            "explanation": "同一割地使秦增、諸侯減，從敵我兩面看出危害，較只計本國損失完整。"
+          },
+          {
+            "id": "c",
+            "text": "兩面百倍相互抵銷，證明敵我力量變化未必明顯",
+            "explanation": "敵增我減加大差距，不相互抵銷。"
+          },
+          {
+            "id": "d",
+            "text": "戰勝所得遠超割地所得，證明秦主要依靠武力致勝",
+            "explanation": "文中受賂得地多於戰勝，選項倒轉。"
+          }
+        ],
+        "misconception": "不是說六國從未抗秦，燕趙例正相反；敵增我減加大差距，不相互抵銷；文中受賂得地多於戰勝，選項倒轉。"
+      },
+      "objective": "從秦「所得」和諸侯「所亡」兩面比較，何以比只寫諸侯失地更有力？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-13-00-5",
+      "ordinal": 144,
+      "baseQuestionHash": "182c6dd8debdffd2752e300bfb126047ec7a4b1551bbf32a58c2d2817c0c456d",
+      "patch": {
+        "explanation": "祖先取得艱難與子孫棄地輕易形成對照，使讀者痛惜祖業。暴斬寫辛勞，舉予與草芥寫不惜，說理便帶情感力量，不只宣告割地有害。",
+        "summary": "祖先取得艱難與子孫棄地輕易形成對照，使讀者痛惜祖業。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "小國後亡與強國先亡對照，令人反思國力",
+            "explanation": "小國後亡是燕例，不是祖孫對照。"
+          },
+          {
+            "id": "b",
+            "text": "取得艱難與拋棄輕易對照，令人痛惜祖業",
+            "explanation": "祖先取得艱難與子孫棄地輕易形成對照，使讀者痛惜祖業。"
+          },
+          {
+            "id": "c",
+            "text": "供地有限與侵欲無厭對照，令人看清求安無效",
+            "explanation": "有限無厭是資源欲望比較，非此題情感來源。"
+          },
+          {
+            "id": "d",
+            "text": "五國相繼滅亡與齊亦不免對照，令人重視相援",
+            "explanation": "齊失援屬下一段例證。"
+          }
+        ],
+        "misconception": "小國後亡是燕例，不是祖孫對照；有限無厭是資源欲望比較，非此題情感來源；齊失援屬下一段例證。"
+      },
+      "objective": "「暴霜露，斬荊棘」對「舉以予人，如棄草芥」，怎樣加強情感？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-13-00-6",
+      "ordinal": 145,
+      "baseQuestionHash": "63d20bfa25cf6ce53a820a38af33274e37ef42b45460d02806a49e7a61f9c610",
+      "patch": {
+        "explanation": "大量城邑只能換一夜安寢，代價大而效果短，顯出政策不相稱。五城十城強調割讓頻繁，不能當經核實逐日統計，更非祖先開拓時間。",
+        "summary": "大量城邑只能換一夜安寢，代價大而效果短，顯出政策不相稱。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "前日割地對明日再割，強調祖先創業時間漫長",
+            "explanation": "今日明日說子孫頻割，非祖先漫長創業。"
+          },
+          {
+            "id": "b",
+            "text": "諸侯得城對秦失土地，強調戰爭風險雙向增加",
+            "explanation": "割地是諸侯失、秦得，方向相反。"
+          },
+          {
+            "id": "c",
+            "text": "五城對十城，精確列出先後割地數量的統計",
+            "explanation": "數字服務誇張說理，非精密流水帳。"
+          },
+          {
+            "id": "d",
+            "text": "大量城邑對短暫安寢，強調代價與效果不相稱",
+            "explanation": "大量城邑只能換一夜安寢，代價大而效果短，顯出政策不相稱。"
+          }
+        ],
+        "misconception": "今日明日說子孫頻割，非祖先漫長創業；割地是諸侯失、秦得，方向相反；數字服務誇張說理，非精密流水帳。"
+      },
+      "objective": "用「五城」「十城」換「一夕安寢」，作者最想讀者看出哪種不相稱？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-13-00-7",
+      "ordinal": 146,
+      "baseQuestionHash": "a59902f1ef810392cec1c68e1e99f5643e2aacbfe9334a1357063b8c34851f5c",
+      "patch": {
+        "explanation": "有盡資源不能長期滿足無盡要求，所以割地求安沒有可持續的基礎。並置有限無厭直接打破愈奉愈安的想像，後面侵愈急又補現實反效果。",
+        "summary": "有盡資源不能長期滿足無盡要求，所以割地求安沒有可持續的基礎。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "資源有盡而要求無盡，長期求安無法維持",
+            "explanation": "有盡資源不能長期滿足無盡要求，所以割地求安沒有可持續的基礎。"
+          },
+          {
+            "id": "b",
+            "text": "國家有大有小而地位不等，應分別採割地和用兵",
+            "explanation": "沒有依國大小分配應賂或應戰的政策。"
+          },
+          {
+            "id": "c",
+            "text": "城邑取得有難有易而用處相同，故可棄易留難",
+            "explanation": "未把土地分得難易後容許棄易。"
+          },
+          {
+            "id": "d",
+            "text": "六國疆土有限而秦軍數量大，說明兵器作戰是主因",
+            "explanation": "核心是賂秦資源與侵欲，非改立兵器主因。"
+          }
+        ],
+        "misconception": "沒有依國大小分配應賂或應戰的政策；未把土地分得難易後容許棄易；核心是賂秦資源與侵欲，非改立兵器主因。"
+      },
+      "objective": "「有限」與「無厭」並置，主要從哪一點說明割地難以奏效？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-13-00-8",
+      "ordinal": 147,
+      "baseQuestionHash": "68e97502c52b046ffe26b728d1cd11c16435bc10a6aa3564288ac21f7d43257f",
+      "patch": {
+        "explanation": "原想奉地減緩侵略，實際卻使侵逼加急，目的與效果相反。彌繁和愈急同向增加，說的不是交替停止，也不是祖先創業因此回頭變難。",
+        "summary": "原想奉地減緩侵略，實際卻使侵逼加急，目的與效果相反。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "欲以合力增加威懾，卻使秦人更加恐懼",
+            "explanation": "合力威懾使秦恐懼是另個正面方案。"
+          },
+          {
+            "id": "b",
+            "text": "欲以奉地減緩侵略，卻使侵略更加急迫",
+            "explanation": "原想奉地減緩侵略，實際卻使侵逼加急，目的與效果相反。"
+          },
+          {
+            "id": "c",
+            "text": "欲以割地保存國力，卻使先祖開拓更加艱難",
+            "explanation": "祖先創業已在過去，不由後代割地改變。"
+          },
+          {
+            "id": "d",
+            "text": "欲以親秦支援五國，卻使燕趙更早失去良將",
+            "explanation": "親秦不是支援五國，良將也另有被讒原因。"
+          }
+        ],
+        "misconception": "合力威懾使秦恐懼是另個正面方案；祖先創業已在過去，不由後代割地改變；親秦不是支援五國，良將也另有被讒原因。"
+      },
+      "objective": "「奉之彌繁，侵之愈急」揭示割地的實際效果與原來目的有何關係？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-13-00-9",
+      "ordinal": 148,
+      "baseQuestionHash": "e08b7ffb9dc5f72eaeb70c1285778645217255220238fe7bf0efbf80e72c6efe",
+      "patch": {
+        "explanation": "薪對獻出的土地，火對秦的侵略欲望，救火對求免侵略的目的。送地如添柴，反助所欲消除的火，完整對應須包括資源、威脅、目的三項。",
+        "summary": "薪對獻出的土地，火對秦的侵略欲望，救火對求免侵略的目的。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "薪是軍備；火是戰事；救火是放棄用兵",
+            "explanation": "軍備與放棄作戰不是這個比喻的對應。"
+          },
+          {
+            "id": "b",
+            "text": "薪是強援；火是孤危；救火是與秦親附",
+            "explanation": "強援孤危是另一論證線，非獻地助秦。"
+          },
+          {
+            "id": "c",
+            "text": "薪是獻地；火是侵欲；救火是求免侵略",
+            "explanation": "薪對獻出的土地，火對秦的侵略欲望，救火對求免侵略的目的。"
+          },
+          {
+            "id": "d",
+            "text": "薪是人才；火是積威；救火是封臣禮才",
+            "explanation": "封臣禮才是替代方案，不是被喻為救火失策。"
+          }
+        ],
+        "misconception": "軍備與放棄作戰不是這個比喻的對應；強援孤危是另一論證線，非獻地助秦；封臣禮才是替代方案，不是被喻為救火失策。"
+      },
+      "objective": "在「以地事秦，猶抱薪救火」中，哪項對應完整正確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-14-00-1",
+      "ordinal": 149,
+      "baseQuestionHash": "14d59dd74dd4a7c4bd2095682e0de39c7192cf63ca5c609480b49a65854d0ec1",
+      "patch": {
+        "explanation": "草芥比不值錢的小草，重寫子孫把祖業看得輕、送得容易。真正土地並非草，問題在棄的態度；與祖先得地難合讀，責備才更有力量。",
+        "summary": "草芥比不值錢的小草，重寫子孫把祖業看得輕、送得容易。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "祖先珍惜尺寸之地，開拓時辛勞備至",
+            "explanation": "先祖珍惜是對照另一端，非喻句主體。"
+          },
+          {
+            "id": "b",
+            "text": "秦國不滿足於所得，受地後侵逼更急",
+            "explanation": "秦欲無厭說接受一方，此句寫送地者。"
+          },
+          {
+            "id": "c",
+            "text": "子孫輕賤祖業，割地時不甚愛惜",
+            "explanation": "草芥比不值錢的小草，重寫子孫把祖業看得輕、送得容易。"
+          },
+          {
+            "id": "d",
+            "text": "百姓被迫放棄生計，遷居時痛惜草木",
+            "explanation": "文中未轉寫百姓遷居割愛。"
+          }
+        ],
+        "misconception": "先祖珍惜是對照另一端，非喻句主體；秦欲無厭說接受一方，此句寫送地者；文中未轉寫百姓遷居割愛。"
+      },
+      "objective": "「如棄草芥」並非說土地真是草，它重點形容甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-14-00-2",
+      "ordinal": 150,
+      "baseQuestionHash": "43319ad3b0512d92858fe80eec493e53a29a8c45053bd2a9cd8fbfc41d71834d",
+      "patch": {
+        "explanation": "三例在共同失援背景下分辨各自決策錯誤，說明不賂秦仍須團結、善用人才和正確抗敵。作者沒有改稱三國都直接賂秦，也未否定合作可能。",
+        "summary": "三例在共同失援背景下分辨各自決策錯誤，說明不賂秦仍須團結、善用人才和正確抗敵。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "在共同失援背景下，分辨三國各自的決策失誤",
+            "explanation": "三例在共同失援背景下分辨各自決策錯誤，說明不賂秦仍須團結、善用人才和正確抗敵。"
+          },
+          {
+            "id": "b",
+            "text": "把三國都納入直接賂秦者，證明割地耗力的普遍性",
+            "explanation": "三國明列不賂者，不能改回直接割地。"
+          },
+          {
+            "id": "c",
+            "text": "以三國的兵器戰法作比較，推翻首段否定的主因",
+            "explanation": "案例重決策與援助，非推翻首段立論。"
+          },
+          {
+            "id": "d",
+            "text": "以三國用兵的不同結果，證明聯合也無法改變勝負",
+            "explanation": "向使與幷力正提出合作可改變局面。"
+          }
+        ],
+        "misconception": "三國明列不賂者，不能改回直接割地；案例重決策與援助，非推翻首段立論；向使與幷力正提出合作可改變局面。"
+      },
+      "objective": "齊附秦、燕刺秦、趙殺李牧三例，在「不賂者」的論述中說明甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-14-00-3",
+      "ordinal": 151,
+      "baseQuestionHash": "6ba528eb6672afe34b320c4ad5a32719dd3424c72c33f4dd882e57b5d075d33d",
+      "patch": {
+        "explanation": "向使反設錯誤條件可改，便可能改變勝負，表明滅亡不只由先天強弱注定。各條件共同成方案，或未易量仍留分寸，不能只保一將便保證取勝。",
+        "summary": "向使反設錯誤條件可改，便可能改變勝負，表明滅亡不只由先天強弱注定。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "保留良將就足以保證勝秦，其餘國家政策可以不改",
+            "explanation": "保良將只是其中一條，非足夠條件。"
+          },
+          {
+            "id": "b",
+            "text": "六國既未實行設想，便不能對既往決策作出任何評價",
+            "explanation": "假設可用於檢視決策，未實行不等於不能分析。"
+          },
+          {
+            "id": "c",
+            "text": "以設想代替史實，表示前述割地和殺將不足以解釋滅亡",
+            "explanation": "不是抹去史實，而是用史實問題提出替代。"
+          },
+          {
+            "id": "d",
+            "text": "改變錯誤條件可能改變勝負，故滅亡並非只由強弱注定",
+            "explanation": "向使反設錯誤條件可改，便可能改變勝負，表明滅亡不只由先天強弱注定。"
+          }
+        ],
+        "misconception": "保良將只是其中一條，非足夠條件；假設可用於檢視決策，未實行不等於不能分析；不是抹去史實，而是用史實問題提出替代。"
+      },
+      "objective": "「向使」一連串設想的論證作用，哪項最準確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-14-00-4",
+      "ordinal": 152,
+      "baseQuestionHash": "5a97985678e11f57ee145011898784df622ff5c075698dd7083b8dfe2aca6de5",
+      "patch": {
+        "explanation": "小大對舉受賂所得的規模，說秦在攻取之外仍可獲邑得城。兩句相應讓抽象土地利益具體可見，不是在排列實際攻城日期。",
+        "summary": "小大對舉受賂所得的規模，說秦在攻取之外仍可獲邑得城。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "並列受賂所得的大小規模，凸顯非戰也能得地",
+            "explanation": "小大對舉受賂所得的規模，說秦在攻取之外仍可獲邑得城。"
+          },
+          {
+            "id": "b",
+            "text": "並列秦攻城的先後次序，凸顯戰爭擴張迅速",
+            "explanation": "攻取之外已限定非戰所得。"
+          },
+          {
+            "id": "c",
+            "text": "並列六國城邑的行政等級，凸顯各國國力差距",
+            "explanation": "未比較各國行政等級。"
+          },
+          {
+            "id": "d",
+            "text": "並列祖先開拓的大小成果，凸顯得地艱辛",
+            "explanation": "祖先艱辛在下段，主體此時是秦受地。"
+          }
+        ],
+        "misconception": "攻取之外已限定非戰所得；未比較各國行政等級；祖先艱辛在下段，主體此時是秦受地。"
+      },
+      "objective": "「小則獲邑，大則得城」兩句相應，主要表現甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-14-00-5",
+      "ordinal": 153,
+      "baseQuestionHash": "bf158ba9165f5da90c21c55e6708e70f4ae53fbec99949186f5924360f29de88",
+      "patch": {
+        "explanation": "冒霜露與斬荊棘兩組動賓短語並列，從環境與勞作寫創業艱苦。後接才有尺寸之地，使短句的辛勞與所得微少相扣，不是泛泛列活動。",
+        "summary": "冒霜露與斬荊棘兩組動賓短語並列，從環境與勞作寫創業艱苦。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "割五城、割十城兩面寫奉地頻繁",
+            "explanation": "割城屬子孫行為，非先祖。"
+          },
+          {
+            "id": "b",
+            "text": "冒霜露、斬荊棘兩面寫創業勞苦",
+            "explanation": "冒霜露與斬荊棘兩組動賓短語並列，從環境與勞作寫創業艱苦。"
+          },
+          {
+            "id": "c",
+            "text": "獲城邑、得土地兩面寫受賂之利",
+            "explanation": "受賂之利說秦，不是創業祖先。"
+          },
+          {
+            "id": "d",
+            "text": "不行刺、留良將兩面寫另有出路",
+            "explanation": "反設刺客良將在後段，非這兩句。"
+          }
+        ],
+        "misconception": "割城屬子孫行為，非先祖；受賂之利說秦，不是創業祖先；反設刺客良將在後段，非這兩句。"
+      },
+      "objective": "「暴霜露，斬荊棘」用兩組短語並列，如何寫祖先？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-14-00-6",
+      "ordinal": 154,
+      "baseQuestionHash": "77367dfa8db3213ce3e5a1e23468df68c4e4577b6e5ba419475d5cc68c91b3c2",
+      "patch": {
+        "explanation": "彌與愈都表遞增，工整句式把奉地增多、侵逼增急緊密相連。形式相應加強因果反效果：越求安反越不安，而不是兩事輪流停止。",
+        "summary": "彌與愈都表遞增，工整句式把奉地增多、侵逼增急緊密相連。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "兩個遞增程度相應，緊密呈現獻地與受侵俱增",
+            "explanation": "彌與愈都表遞增，工整句式把奉地增多、侵逼增急緊密相連。"
+          },
+          {
+            "id": "b",
+            "text": "兩個遞增程度相應，呈現奉地與侵略輪流停止",
+            "explanation": "兩項都加劇，沒有輪流停止。"
+          },
+          {
+            "id": "c",
+            "text": "兩個相反結果相應，呈現諸侯奉地而秦失地",
+            "explanation": "秦因奉地增地，非失地。"
+          },
+          {
+            "id": "d",
+            "text": "兩個時間段落相應，呈現先祖得地與子孫割地",
+            "explanation": "此處比較同步加劇，非先祖子孫時段。"
+          }
+        ],
+        "misconception": "兩項都加劇，沒有輪流停止；秦因奉地增地，非失地；此處比較同步加劇，非先祖子孫時段。"
+      },
+      "objective": "「奉之彌繁，侵之愈急」句式相應，表意上有何力量？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-14-00-7",
+      "ordinal": 155,
+      "baseQuestionHash": "7668b4590fe5f868758e61cc1a0025182b3e2d05e8e7682894d311433b83aeab",
+      "patch": {
+        "explanation": "刺客不行反設燕不用刺秦計，良將猶在反設趙不殺李牧。兩句合寫改正不同錯誤的條件，不能按人物名字相近或全屬抗秦便互換國家。",
+        "summary": "刺客不行反設燕不用刺秦計，良將猶在反設趙不殺李牧。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "趙殺李牧；燕用刺秦計",
+            "explanation": "燕趙的對應顛倒。"
+          },
+          {
+            "id": "b",
+            "text": "燕用刺秦計；趙殺李牧",
+            "explanation": "刺客不行反設燕不用刺秦計，良將猶在反設趙不殺李牧。"
+          },
+          {
+            "id": "c",
+            "text": "齊不援五國；燕用刺秦計",
+            "explanation": "齊不援另由勿附秦處理。"
+          },
+          {
+            "id": "d",
+            "text": "韓魏楚賂秦；趙用兵不終",
+            "explanation": "韓魏楚惜地在前一條，非刺客所指。"
+          }
+        ],
+        "misconception": "燕趙的對應顛倒；齊不援另由勿附秦處理；韓魏楚惜地在前一條，非刺客所指。"
+      },
+      "objective": "「刺客不行，良將猶在」兩句分別針對哪國的失誤？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-14-00-8",
+      "ordinal": 156,
+      "baseQuestionHash": "61d8788c2779fab5a116c53595159812cff2d243d19fde44a87f9b0c0fa8e3fb",
+      "patch": {
+        "explanation": "土地轉封謀臣，事秦之心轉禮奇才，以資源與心力兩路支持用才自強。對偶既寫形式相稱，也使讀者看見相同投入可以產生不同政策方向。",
+        "summary": "土地轉封謀臣，事秦之心轉禮奇才，以資源與心力兩路支持用才自強。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "土地改用於封謀臣，事秦之心改用於禮奇才",
+            "explanation": "土地轉封謀臣，事秦之心轉禮奇才，以資源與心力兩路支持用才自強。"
+          },
+          {
+            "id": "b",
+            "text": "土地改留給各國君主，人才則集中交由秦國任用",
+            "explanation": "不是把人才交秦，這會反助敵。"
+          },
+          {
+            "id": "c",
+            "text": "土地改作增添軍械，待秦之禮則改為結交齊國",
+            "explanation": "軍械與結齊未準確對應原文明列的封臣禮才。"
+          },
+          {
+            "id": "d",
+            "text": "土地改用於供養刺客，禮才之心則改為請良將止戰",
+            "explanation": "原文批評刺秦，也未要求良將停戰。"
+          }
+        ],
+        "misconception": "不是把人才交秦，這會反助敵；軍械與結齊未準確對應原文明列的封臣禮才；原文批評刺秦，也未要求良將停戰。"
+      },
+      "objective": "「以賂秦之地……以事秦之心……」兩句相應，提出怎樣的轉用？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-14-00-9",
+      "ordinal": 157,
+      "baseQuestionHash": "ef8a1c9c9b32e1dc9362d81789155851257477d141e9df21053ea9f500885258",
+      "patch": {
+        "explanation": "秦受賂所得以戰勝所得為基準，諸侯賂秦所失以戰敗所失為基準。兩邊都比較非戰與戰爭，問基準要取後項，不能把受賂、賂秦兩個前項再當基準。",
+        "summary": "秦受賂所得以戰勝所得為基準，諸侯賂秦所失以戰敗所失為基準。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "秦受賂所得；諸侯賂秦所失",
+            "explanation": "兩項都錯取前面的非戰項。"
+          },
+          {
+            "id": "b",
+            "text": "秦戰勝所得；諸侯賂秦所失",
+            "explanation": "後一仍錯取賂秦所失，應為戰敗所失。"
+          },
+          {
+            "id": "c",
+            "text": "秦受賂所得；諸侯戰敗所失",
+            "explanation": "前一錯取受賂所得，應為戰勝所得。"
+          },
+          {
+            "id": "d",
+            "text": "秦戰勝所得；諸侯戰敗所失",
+            "explanation": "秦受賂所得以戰勝所得為基準，諸侯賂秦所失以戰敗所失為基準。"
+          }
+        ],
+        "misconception": "兩項都錯取前面的非戰項；後一仍錯取賂秦所失，應為戰敗所失；前一錯取受賂所得，應為戰勝所得。"
+      },
+      "objective": "秦之「所得」與諸侯之「所亡」皆說「百倍」，所比較的基準各是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-14-00-10",
+      "ordinal": 158,
+      "baseQuestionHash": "bd4b2711774c46d3c4610f412da76b1fe7164297ea4ab36da1e484a11713a7af",
+      "patch": {
+        "explanation": "嬴以秦君的姓氏代指秦國，是借代，依真實關聯換稱。它不是以某人形象比像一國的比喻，更沒有引用秦君說話。",
+        "summary": "嬴以秦君的姓氏代指秦國，是借代，依真實關聯換稱。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "借喻，以秦君形象比擬秦國",
+            "explanation": "借喻靠相似，此處靠君姓與國的關聯。"
+          },
+          {
+            "id": "b",
+            "text": "反語，以稱許秦君實際批評秦國",
+            "explanation": "沒有說反話褒秦，嬴只是代稱。"
+          },
+          {
+            "id": "c",
+            "text": "借代，以秦君姓氏代指秦國",
+            "explanation": "嬴以秦君的姓氏代指秦國，是借代，依真實關聯換稱。"
+          },
+          {
+            "id": "d",
+            "text": "引用，以秦君之言作為親秦的論據",
+            "explanation": "未引任何秦君言論，非引用。"
+          }
+        ],
+        "misconception": "借喻靠相似，此處靠君姓與國的關聯；沒有說反話褒秦，嬴只是代稱；未引任何秦君言論，非引用。"
+      },
+      "objective": "「與嬴而不助五國也」的「嬴」，運用了哪種修辭？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-15-00-1",
+      "ordinal": 159,
+      "baseQuestionHash": "9290855771d61c846b1eec86cd01e737d59778f06eaef5e4eccee248cf56597c",
+      "patch": {
+        "explanation": "百倍以放大數量差距突出非戰割地的危害，屬論說的誇張強調。兩組有明確比較基準，但未附統計資料，不能據此算出精確土地比率。",
+        "summary": "百倍以放大數量差距突出非戰割地的危害，屬論說的誇張強調。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "誇大強調兩類土地得失的懸殊，使割地危害鮮明",
+            "explanation": "百倍以放大數量差距突出非戰割地的危害，屬論說的誇張強調。"
+          },
+          {
+            "id": "b",
+            "text": "精確列出兩類土地得失的比例，將割地與戰敗作數量核算",
+            "explanation": "表達上的數量不等於已核實比例。"
+          },
+          {
+            "id": "c",
+            "text": "放大秦與諸侯原有疆域的差距，說明雙方先天國力不等",
+            "explanation": "比的是取得途徑，不是原有疆域。"
+          },
+          {
+            "id": "d",
+            "text": "放大祖先與子孫所有土地的差距，說明世代經營逐漸衰落",
+            "explanation": "兩組對照秦與諸侯得失方式，非世代總面積。"
+          }
+        ],
+        "misconception": "表達上的數量不等於已核實比例；比的是取得途徑，不是原有疆域；兩組對照秦與諸侯得失方式，非世代總面積。"
+      },
+      "objective": "「其實百倍」在論說中的主要效果是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-15-00-2",
+      "ordinal": 160,
+      "baseQuestionHash": "42052c84b21588d16e39df50e283cce0957dc9ccd4ebf7a25a97216665b380bc",
+      "patch": {
+        "explanation": "概寫獲邑得城把史事集中為賂秦自弱的共通因果，使當世可引為鑑戒。這符合政論選材目的，不能因不列地名就稱捏造，也不能把本文當完整史學統計。",
+        "summary": "概寫獲邑得城把史事集中為賂秦自弱的共通因果，使當世可引為鑑戒。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "按割地日期編次史事，讓讀者核對各國先後存亡",
+            "explanation": "並未依日期詳細編年。"
+          },
+          {
+            "id": "b",
+            "text": "依地名界定諸侯疆域，讓讀者據此比較行政區劃",
+            "explanation": "沒有逐地界定行政區。"
+          },
+          {
+            "id": "c",
+            "text": "逐城考證軍事勝負，讓讀者從地形判定戰法優劣",
+            "explanation": "不以逐城地形考證戰法為重心。"
+          },
+          {
+            "id": "d",
+            "text": "取共通因果論治國得失，將史事集中為當世鑑戒",
+            "explanation": "概寫獲邑得城把史事集中為賂秦自弱的共通因果，使當世可引為鑑戒。"
+          }
+        ],
+        "misconception": "並未依日期詳細編年；沒有逐地界定行政區；不以逐城地形考證戰法為重心。"
+      },
+      "objective": "作者概寫獲邑得城而不逐一列地名、割地日期，怎樣配合史論的目的？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-15-00-3",
+      "ordinal": 161,
+      "baseQuestionHash": "5c102d01be55492a064b3763aef0359648e4a4f55bf329ebf3ded7c094d8c5b8",
+      "patch": {
+        "explanation": "得地艱難、棄地輕率、割地反覆的情態，使說理具體又令人痛惜。鋪陳不是脫離論旨的故事，而是讓損己益敵的政策有可感後果。",
+        "summary": "得地艱難、棄地輕率、割地反覆的情態，使說理具體又令人痛惜。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "把得地、棄地、割地的情態寫具體，兼有說理與痛惜",
+            "explanation": "得地艱難、棄地輕率、割地反覆的情態，使說理具體又令人痛惜。"
+          },
+          {
+            "id": "b",
+            "text": "列舉齊燕趙不同失策，分辨不賂秦者的個別敗因",
+            "explanation": "齊燕趙例在下一段，非此處祖孫情態。"
+          },
+          {
+            "id": "c",
+            "text": "提出封臣禮才的設想，反證六國原可改變勝負",
+            "explanation": "封臣禮才是假設方案，非這三組描寫。"
+          },
+          {
+            "id": "d",
+            "text": "對照秦人戰得與受賂，着重土地轉移的數量",
+            "explanation": "土地數量是另一比較，此題重情態感染。"
+          }
+        ],
+        "misconception": "齊燕趙例在下一段，非此處祖孫情態；封臣禮才是假設方案，非這三組描寫；土地數量是另一比較，此題重情態感染。"
+      },
+      "objective": "詳寫祖先創業、子孫棄地、反覆割城的情態，對論說有何幫助？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-15-00-4",
+      "ordinal": 162,
+      "baseQuestionHash": "b671a08727913e9e98500ee936e7bd755e18412e373d373d09ff8a9346d43ae4",
+      "patch": {
+        "explanation": "由本可有為卻受積威脅迫的悲歎，轉為治國者不要再受懾服的告誡。感歎承前面失策與替代方案，使歷史分析帶出當世責任，不只是泛說作者很悲。",
+        "summary": "由本可有為卻受積威脅迫的悲歎，轉為治國者不要再受懾服的告誡。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "感歎本可有為卻受積威所劫，再轉為治國告誡",
+            "explanation": "由本可有為卻受積威脅迫的悲歎，轉為治國者不要再受懾服的告誡。"
+          },
+          {
+            "id": "b",
+            "text": "感歎祖先得地之艱，再勸後人逐一記錄城邑名稱",
+            "explanation": "未要求逐一記城邑名。"
+          },
+          {
+            "id": "c",
+            "text": "感歎齊不曾賂秦仍亡，再勸當世採用以地求和",
+            "explanation": "以地求和正是被批評的政策。"
+          },
+          {
+            "id": "d",
+            "text": "感歎燕趙堅持用兵仍敗，再勸當世避戰而親強敵",
+            "explanation": "守土用兵曾有效，不是勸避戰親強敵。"
+          }
+        ],
+        "misconception": "未要求逐一記城邑名；以地求和正是被批評的政策；守土用兵曾有效，不是勸避戰親強敵。"
+      },
+      "objective": "「嗚呼」「悲夫」至「為國者無使……哉」，語氣如何與論旨配合？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-10-15-00-5",
+      "ordinal": 163,
+      "baseQuestionHash": "f5d04df9a7a2ef37468e61a5aa0fff5bca241bb5e25aa75f7a0164ac03346dc2",
+      "patch": {
+        "explanation": "六國較弱尚有出路，當世條件較好卻重犯敗策便更可責，形成由古到今的警戒。優勢增加改策責任，不是免除選擇，也不能只靠統一保安全。",
+        "summary": "六國較弱尚有出路，當世條件較好卻重犯敗策便更可責，形成由古到今的警戒。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "較弱的六國先後滅亡，較強的當世便可仿其政策",
+            "explanation": "較強不代表適合仿效敗策。"
+          },
+          {
+            "id": "b",
+            "text": "六國中不賂者也亡，當世可以據此免負政策責任",
+            "explanation": "不賂者各有錯誤與失援，不能作免責理由。"
+          },
+          {
+            "id": "c",
+            "text": "六國原來未能統一，當世只要統一便毋須考慮選策",
+            "explanation": "統一是條件優勢，仍須正確政策。"
+          },
+          {
+            "id": "d",
+            "text": "較弱的六國尚有出路，較強的當世若重犯便更可責",
+            "explanation": "六國較弱尚有出路，當世條件較好卻重犯敗策便更可責，形成由古到今的警戒。"
+          }
+        ],
+        "misconception": "較強不代表適合仿效敗策；不賂者各有錯誤與失援，不能作免責理由；統一是條件優勢，仍須正確政策。"
+      },
+      "objective": "結尾借六國說「是又在六國下矣」，如何形成對當世的警戒？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    }
+  ]
+}

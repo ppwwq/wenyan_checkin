@@ -1,0 +1,136 @@
+[
+  {
+    "project": "D:\\DSE中文甲部知识库",
+    "configuration": "D:\\DSE中文甲部知识库\\.codex\\config.toml",
+    "checks": [
+      "reject_empty",
+      "reject_overlong",
+      "initialize",
+      "tools_list",
+      "real_chinese_inference",
+      "responsive_after_errors"
+    ],
+    "codexCurrentTaskToolDiscovery": "requires-session-reload; not verified by this MCP client",
+    "tools": [
+      "laya_decide",
+      "laya_status"
+    ],
+    "before": {
+      "model_present": true,
+      "loaded": false,
+      "offline": true,
+      "device": null,
+      "selected_device": "cuda",
+      "device_preference": "auto",
+      "cuda_available": true,
+      "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+      "revision": "052592a15d198d9ad47da779604259b10b47b7aa"
+    },
+    "inference": {
+      "provider": "laya",
+      "checkpoint": "convaiinnovations/laya-multilingual",
+      "device": "cuda",
+      "latency_ms": 322.6,
+      "cpu_fallback": false,
+      "answers": {
+        "skill": {
+          "type": "choice",
+          "choice": "word_meaning",
+          "probabilities": {
+            "word_meaning": 0.7875,
+            "literary_effect": 0.0006,
+            "unknown": 0.2119
+          },
+          "confidence": 0.5256,
+          "action": {
+            "act_probability": 1.0
+          }
+        }
+      },
+      "usage": {
+        "input_tokens": 67,
+        "output_tokens": 0
+      },
+      "calibration": "Not validated on DSE question design; confidence is not an accuracy guarantee.",
+      "advisory_only": true
+    },
+    "after": {
+      "model_present": true,
+      "loaded": true,
+      "offline": true,
+      "device": "cuda",
+      "selected_device": "cuda",
+      "device_preference": "auto",
+      "cuda_available": true,
+      "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+      "revision": "052592a15d198d9ad47da779604259b10b47b7aa"
+    }
+  },
+  {
+    "project": "D:\\wenyan_checkin",
+    "configuration": "D:\\wenyan_checkin\\.codex\\config.toml",
+    "checks": [
+      "reject_empty",
+      "reject_overlong",
+      "initialize",
+      "tools_list",
+      "real_chinese_inference",
+      "responsive_after_errors"
+    ],
+    "codexCurrentTaskToolDiscovery": "requires-session-reload; not verified by this MCP client",
+    "tools": [
+      "laya_decide",
+      "laya_status"
+    ],
+    "before": {
+      "model_present": true,
+      "loaded": false,
+      "offline": true,
+      "device": null,
+      "selected_device": "cuda",
+      "device_preference": "auto",
+      "cuda_available": true,
+      "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+      "revision": "052592a15d198d9ad47da779604259b10b47b7aa"
+    },
+    "inference": {
+      "provider": "laya",
+      "checkpoint": "convaiinnovations/laya-multilingual",
+      "device": "cuda",
+      "latency_ms": 298.4,
+      "cpu_fallback": false,
+      "answers": {
+        "skill": {
+          "type": "choice",
+          "choice": "word_meaning",
+          "probabilities": {
+            "word_meaning": 0.7875,
+            "literary_effect": 0.0006,
+            "unknown": 0.2119
+          },
+          "confidence": 0.5256,
+          "action": {
+            "act_probability": 1.0
+          }
+        }
+      },
+      "usage": {
+        "input_tokens": 67,
+        "output_tokens": 0
+      },
+      "calibration": "Not validated on DSE question design; confidence is not an accuracy guarantee.",
+      "advisory_only": true
+    },
+    "after": {
+      "model_present": true,
+      "loaded": true,
+      "offline": true,
+      "device": "cuda",
+      "selected_device": "cuda",
+      "device_preference": "auto",
+      "cuda_available": true,
+      "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+      "revision": "052592a15d198d9ad47da779604259b10b47b7aa"
+    }
+  }
+]

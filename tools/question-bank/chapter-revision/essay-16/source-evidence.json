@@ -1,0 +1,7304 @@
+{
+  "pdfSha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+  "sourceJsonSha256": "cefaae3260a7185997dfa0dc9ba40d76fe1e1bc70b69f962d0bb75a724681f62",
+  "freshPdfPages": [
+    215,
+    224,
+    225,
+    226,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241
+  ],
+  "errors": [],
+  "questions": {
+    "q-e16-exp-001": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "青玉案・元夕",
+          "section": "上片｜原文與語譯",
+          "pdfPage": 234,
+          "printedPage": 230,
+          "blockPath": "$[15].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "寶馬雕車香滿路"
+        },
+        "resolvedBlock": [
+          "annot",
+          "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+          [
+            [
+              "東風",
+              "春風",
+              "blue"
+            ],
+            [
+              "花千樹",
+              "花燈如千樹繁花",
+              "blue"
+            ],
+            [
+              "星如雨",
+              "煙花如雨；另有燈說",
+              "blue"
+            ],
+            [
+              "寶馬",
+              "名貴駿馬",
+              "blue"
+            ],
+            [
+              "雕車",
+              "裝飾華麗的車",
+              "blue"
+            ],
+            [
+              "鳳簫",
+              "簫的美稱；亦說排簫",
+              "blue"
+            ],
+            [
+              "玉壺",
+              "主解明月；另有燈、漏壺說",
+              "blue"
+            ],
+            [
+              "光轉",
+              "光照位置隨時間轉移",
+              "blue"
+            ],
+            [
+              "魚龍舞",
+              "魚龍形彩燈舞動",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "東風",
+              "meaning": "春風",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "花千樹",
+              "meaning": "花燈如千樹繁花",
+              "spans": [
+                [
+                  4,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "星如雨",
+              "meaning": "煙花如雨；另有燈說",
+              "spans": [
+                [
+                  12,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "寶馬",
+              "meaning": "名貴駿馬",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "雕車",
+              "meaning": "裝飾華麗的車",
+              "spans": [
+                [
+                  18,
+                  20
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "鳳簫",
+              "meaning": "簫的美稱；亦說排簫",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "玉壺",
+              "meaning": "主解明月；另有燈、漏壺說",
+              "spans": [
+                [
+                  29,
+                  31
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "光轉",
+              "meaning": "光照位置隨時間轉移",
+              "spans": [
+                [
+                  31,
+                  33
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "魚龍舞",
+              "meaning": "魚龍形彩燈舞動",
+              "spans": [
+                [
+                  36,
+                  39
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e16-exp-002": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "青玉案・元夕",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "蛾兒雪柳黃金縷"
+        },
+        "resolvedBlock": [
+          "annot",
+          "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          [
+            [
+              "蛾兒",
+              "蛾蝶形頭飾",
+              "blue"
+            ],
+            [
+              "雪柳",
+              "柳狀頭飾",
+              "blue"
+            ],
+            [
+              "黃金縷",
+              "金色頭飾",
+              "blue"
+            ],
+            [
+              "盈盈",
+              "儀態輕盈美好",
+              "blue"
+            ],
+            [
+              "暗香",
+              "幽香",
+              "blue"
+            ],
+            [
+              "千百度",
+              "千百次，極言多次",
+              "blue"
+            ],
+            [
+              "驀然",
+              "突然、忽然",
+              "blue"
+            ],
+            [
+              "迴首",
+              "回頭",
+              "blue"
+            ],
+            [
+              "闌珊",
+              "稀疏、暗淡",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "蛾兒",
+              "meaning": "蛾蝶形頭飾",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雪柳",
+              "meaning": "柳狀頭飾",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "黃金縷",
+              "meaning": "金色頭飾",
+              "spans": [
+                [
+                  4,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "盈盈",
+              "meaning": "儀態輕盈美好",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "暗香",
+              "meaning": "幽香",
+              "spans": [
+                [
+                  12,
+                  14
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "千百度",
+              "meaning": "千百次，極言多次",
+              "spans": [
+                [
+                  20,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "驀然",
+              "meaning": "突然、忽然",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "迴首",
+              "meaning": "回頭",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "闌珊",
+              "meaning": "稀疏、暗淡",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e16-exp-003": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "青玉案・元夕",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "眾裏尋他千百度"
+        },
+        "resolvedBlock": [
+          "annot",
+          "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          [
+            [
+              "蛾兒",
+              "蛾蝶形頭飾",
+              "blue"
+            ],
+            [
+              "雪柳",
+              "柳狀頭飾",
+              "blue"
+            ],
+            [
+              "黃金縷",
+              "金色頭飾",
+              "blue"
+            ],
+            [
+              "盈盈",
+              "儀態輕盈美好",
+              "blue"
+            ],
+            [
+              "暗香",
+              "幽香",
+              "blue"
+            ],
+            [
+              "千百度",
+              "千百次，極言多次",
+              "blue"
+            ],
+            [
+              "驀然",
+              "突然、忽然",
+              "blue"
+            ],
+            [
+              "迴首",
+              "回頭",
+              "blue"
+            ],
+            [
+              "闌珊",
+              "稀疏、暗淡",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "蛾兒",
+              "meaning": "蛾蝶形頭飾",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雪柳",
+              "meaning": "柳狀頭飾",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "黃金縷",
+              "meaning": "金色頭飾",
+              "spans": [
+                [
+                  4,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "盈盈",
+              "meaning": "儀態輕盈美好",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "暗香",
+              "meaning": "幽香",
+              "spans": [
+                [
+                  12,
+                  14
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "千百度",
+              "meaning": "千百次，極言多次",
+              "spans": [
+                [
+                  20,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "驀然",
+              "meaning": "突然、忽然",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "迴首",
+              "meaning": "回頭",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "闌珊",
+              "meaning": "稀疏、暗淡",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e16-exp-004": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "青玉案・元夕",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "驀然迴首"
+        },
+        "resolvedBlock": [
+          "annot",
+          "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          [
+            [
+              "蛾兒",
+              "蛾蝶形頭飾",
+              "blue"
+            ],
+            [
+              "雪柳",
+              "柳狀頭飾",
+              "blue"
+            ],
+            [
+              "黃金縷",
+              "金色頭飾",
+              "blue"
+            ],
+            [
+              "盈盈",
+              "儀態輕盈美好",
+              "blue"
+            ],
+            [
+              "暗香",
+              "幽香",
+              "blue"
+            ],
+            [
+              "千百度",
+              "千百次，極言多次",
+              "blue"
+            ],
+            [
+              "驀然",
+              "突然、忽然",
+              "blue"
+            ],
+            [
+              "迴首",
+              "回頭",
+              "blue"
+            ],
+            [
+              "闌珊",
+              "稀疏、暗淡",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "蛾兒",
+              "meaning": "蛾蝶形頭飾",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雪柳",
+              "meaning": "柳狀頭飾",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "黃金縷",
+              "meaning": "金色頭飾",
+              "spans": [
+                [
+                  4,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "盈盈",
+              "meaning": "儀態輕盈美好",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "暗香",
+              "meaning": "幽香",
+              "spans": [
+                [
+                  12,
+                  14
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "千百度",
+              "meaning": "千百次，極言多次",
+              "spans": [
+                [
+                  20,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "驀然",
+              "meaning": "突然、忽然",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "迴首",
+              "meaning": "回頭",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "闌珊",
+              "meaning": "稀疏、暗淡",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e16-exp-005": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "青玉案・元夕",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "燈火闌珊處"
+        },
+        "resolvedBlock": [
+          "annot",
+          "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          [
+            [
+              "蛾兒",
+              "蛾蝶形頭飾",
+              "blue"
+            ],
+            [
+              "雪柳",
+              "柳狀頭飾",
+              "blue"
+            ],
+            [
+              "黃金縷",
+              "金色頭飾",
+              "blue"
+            ],
+            [
+              "盈盈",
+              "儀態輕盈美好",
+              "blue"
+            ],
+            [
+              "暗香",
+              "幽香",
+              "blue"
+            ],
+            [
+              "千百度",
+              "千百次，極言多次",
+              "blue"
+            ],
+            [
+              "驀然",
+              "突然、忽然",
+              "blue"
+            ],
+            [
+              "迴首",
+              "回頭",
+              "blue"
+            ],
+            [
+              "闌珊",
+              "稀疏、暗淡",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "蛾兒",
+              "meaning": "蛾蝶形頭飾",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雪柳",
+              "meaning": "柳狀頭飾",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "黃金縷",
+              "meaning": "金色頭飾",
+              "spans": [
+                [
+                  4,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "盈盈",
+              "meaning": "儀態輕盈美好",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "暗香",
+              "meaning": "幽香",
+              "spans": [
+                [
+                  12,
+                  14
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "千百度",
+              "meaning": "千百次，極言多次",
+              "spans": [
+                [
+                  20,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "驀然",
+              "meaning": "突然、忽然",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "迴首",
+              "meaning": "回頭",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "闌珊",
+              "meaning": "稀疏、暗淡",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e16-exp-006": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "青玉案・元夕",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處"
+        },
+        "resolvedBlock": [
+          "annot",
+          "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          [
+            [
+              "蛾兒",
+              "蛾蝶形頭飾",
+              "blue"
+            ],
+            [
+              "雪柳",
+              "柳狀頭飾",
+              "blue"
+            ],
+            [
+              "黃金縷",
+              "金色頭飾",
+              "blue"
+            ],
+            [
+              "盈盈",
+              "儀態輕盈美好",
+              "blue"
+            ],
+            [
+              "暗香",
+              "幽香",
+              "blue"
+            ],
+            [
+              "千百度",
+              "千百次，極言多次",
+              "blue"
+            ],
+            [
+              "驀然",
+              "突然、忽然",
+              "blue"
+            ],
+            [
+              "迴首",
+              "回頭",
+              "blue"
+            ],
+            [
+              "闌珊",
+              "稀疏、暗淡",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "蛾兒",
+              "meaning": "蛾蝶形頭飾",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雪柳",
+              "meaning": "柳狀頭飾",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "黃金縷",
+              "meaning": "金色頭飾",
+              "spans": [
+                [
+                  4,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "盈盈",
+              "meaning": "儀態輕盈美好",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "暗香",
+              "meaning": "幽香",
+              "spans": [
+                [
+                  12,
+                  14
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "千百度",
+              "meaning": "千百次，極言多次",
+              "spans": [
+                [
+                  20,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "驀然",
+              "meaning": "突然、忽然",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "迴首",
+              "meaning": "回頭",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "闌珊",
+              "meaning": "稀疏、暗淡",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e16-exp-007": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "青玉案・元夕",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "那人卻在、燈火闌珊處"
+        },
+        "resolvedBlock": [
+          "annot",
+          "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          [
+            [
+              "蛾兒",
+              "蛾蝶形頭飾",
+              "blue"
+            ],
+            [
+              "雪柳",
+              "柳狀頭飾",
+              "blue"
+            ],
+            [
+              "黃金縷",
+              "金色頭飾",
+              "blue"
+            ],
+            [
+              "盈盈",
+              "儀態輕盈美好",
+              "blue"
+            ],
+            [
+              "暗香",
+              "幽香",
+              "blue"
+            ],
+            [
+              "千百度",
+              "千百次，極言多次",
+              "blue"
+            ],
+            [
+              "驀然",
+              "突然、忽然",
+              "blue"
+            ],
+            [
+              "迴首",
+              "回頭",
+              "blue"
+            ],
+            [
+              "闌珊",
+              "稀疏、暗淡",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "蛾兒",
+              "meaning": "蛾蝶形頭飾",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雪柳",
+              "meaning": "柳狀頭飾",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "黃金縷",
+              "meaning": "金色頭飾",
+              "spans": [
+                [
+                  4,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "盈盈",
+              "meaning": "儀態輕盈美好",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "暗香",
+              "meaning": "幽香",
+              "spans": [
+                [
+                  12,
+                  14
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "千百度",
+              "meaning": "千百次，極言多次",
+              "spans": [
+                [
+                  20,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "驀然",
+              "meaning": "突然、忽然",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "迴首",
+              "meaning": "回頭",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "闌珊",
+              "meaning": "稀疏、暗淡",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e16-exp-008": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "青玉案・元夕",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "笑語盈盈暗香去"
+        },
+        "resolvedBlock": [
+          "annot",
+          "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          [
+            [
+              "蛾兒",
+              "蛾蝶形頭飾",
+              "blue"
+            ],
+            [
+              "雪柳",
+              "柳狀頭飾",
+              "blue"
+            ],
+            [
+              "黃金縷",
+              "金色頭飾",
+              "blue"
+            ],
+            [
+              "盈盈",
+              "儀態輕盈美好",
+              "blue"
+            ],
+            [
+              "暗香",
+              "幽香",
+              "blue"
+            ],
+            [
+              "千百度",
+              "千百次，極言多次",
+              "blue"
+            ],
+            [
+              "驀然",
+              "突然、忽然",
+              "blue"
+            ],
+            [
+              "迴首",
+              "回頭",
+              "blue"
+            ],
+            [
+              "闌珊",
+              "稀疏、暗淡",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "蛾兒",
+              "meaning": "蛾蝶形頭飾",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雪柳",
+              "meaning": "柳狀頭飾",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "黃金縷",
+              "meaning": "金色頭飾",
+              "spans": [
+                [
+                  4,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "盈盈",
+              "meaning": "儀態輕盈美好",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "暗香",
+              "meaning": "幽香",
+              "spans": [
+                [
+                  12,
+                  14
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "千百度",
+              "meaning": "千百次，極言多次",
+              "spans": [
+                [
+                  20,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "驀然",
+              "meaning": "突然、忽然",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "迴首",
+              "meaning": "回頭",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "闌珊",
+              "meaning": "稀疏、暗淡",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-01-03-00": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 234,
+          "printedPage": 230,
+          "blockPath": "$[15].pages[1].blocks[3][1][0]",
+          "anchor": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+          "excerpt": "東風：春風"
+        },
+        "resolvedBlock": [
+          "東風",
+          "春風",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-01-03-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 234,
+          "printedPage": 230,
+          "blockPath": "$[15].pages[1].blocks[3][1][1]",
+          "anchor": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+          "excerpt": "花千樹：花燈如千樹繁花"
+        },
+        "resolvedBlock": [
+          "花千樹",
+          "花燈如千樹繁花",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-01-03-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 234,
+          "printedPage": 230,
+          "blockPath": "$[15].pages[1].blocks[3][1][2]",
+          "anchor": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+          "excerpt": "星如雨：煙花如雨；另有燈說"
+        },
+        "resolvedBlock": [
+          "星如雨",
+          "煙花如雨；另有燈說",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-01-03-04": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 234,
+          "printedPage": 230,
+          "blockPath": "$[15].pages[1].blocks[3][1][4]",
+          "anchor": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+          "excerpt": "雕車：裝飾華麗的車"
+        },
+        "resolvedBlock": [
+          "雕車",
+          "裝飾華麗的車",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-01-03-05": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 234,
+          "printedPage": 230,
+          "blockPath": "$[15].pages[1].blocks[3][1][5]",
+          "anchor": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+          "excerpt": "鳳簫：簫的美稱；亦說排簫"
+        },
+        "resolvedBlock": [
+          "鳳簫",
+          "簫的美稱；亦說排簫",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-01-03-06": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 234,
+          "printedPage": 230,
+          "blockPath": "$[15].pages[1].blocks[3][1][6]",
+          "anchor": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+          "excerpt": "玉壺：主解明月；另有燈、漏壺說"
+        },
+        "resolvedBlock": [
+          "玉壺",
+          "主解明月；另有燈、漏壺說",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-01-03-07": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 234,
+          "printedPage": 230,
+          "blockPath": "$[15].pages[1].blocks[3][1][7]",
+          "anchor": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+          "excerpt": "光轉：光照位置隨時間轉移"
+        },
+        "resolvedBlock": [
+          "光轉",
+          "光照位置隨時間轉移",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-01-03-08": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 234,
+          "printedPage": 230,
+          "blockPath": "$[15].pages[1].blocks[3][1][8]",
+          "anchor": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+          "excerpt": "魚龍舞：魚龍形彩燈舞動"
+        },
+        "resolvedBlock": [
+          "魚龍舞",
+          "魚龍形彩燈舞動",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-02-03-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[2].blocks[3][1][1]",
+          "anchor": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          "excerpt": "雪柳：柳狀頭飾"
+        },
+        "resolvedBlock": [
+          "雪柳",
+          "柳狀頭飾",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-02-03-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[2].blocks[3][1][2]",
+          "anchor": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          "excerpt": "黃金縷：金色頭飾"
+        },
+        "resolvedBlock": [
+          "黃金縷",
+          "金色頭飾",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-02-03-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[2].blocks[3][1][3]",
+          "anchor": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          "excerpt": "盈盈：儀態輕盈美好"
+        },
+        "resolvedBlock": [
+          "盈盈",
+          "儀態輕盈美好",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-02-03-04": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[2].blocks[3][1][4]",
+          "anchor": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          "excerpt": "暗香：幽香"
+        },
+        "resolvedBlock": [
+          "暗香",
+          "幽香",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-02-03-07": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[2].blocks[3][1][7]",
+          "anchor": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          "excerpt": "迴首：回頭"
+        },
+        "resolvedBlock": [
+          "迴首",
+          "回頭",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-01-00-90": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 233,
+          "printedPage": 229,
+          "blockPath": "$[15].pages[1].blocks[0]",
+          "anchor": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+          "excerpt": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。"
+        },
+        "resolvedBlock": [
+          "annot",
+          "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+          [
+            [
+              "東風",
+              "春風",
+              "blue"
+            ],
+            [
+              "花千樹",
+              "花燈如千樹繁花",
+              "blue"
+            ],
+            [
+              "星如雨",
+              "煙花如雨；另有燈說",
+              "blue"
+            ],
+            [
+              "寶馬",
+              "名貴駿馬",
+              "blue"
+            ],
+            [
+              "雕車",
+              "裝飾華麗的車",
+              "blue"
+            ],
+            [
+              "鳳簫",
+              "簫的美稱；亦說排簫",
+              "blue"
+            ],
+            [
+              "玉壺",
+              "主解明月；另有燈、漏壺說",
+              "blue"
+            ],
+            [
+              "光轉",
+              "光照位置隨時間轉移",
+              "blue"
+            ],
+            [
+              "魚龍舞",
+              "魚龍形彩燈舞動",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "東風",
+              "meaning": "春風",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "花千樹",
+              "meaning": "花燈如千樹繁花",
+              "spans": [
+                [
+                  4,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "星如雨",
+              "meaning": "煙花如雨；另有燈說",
+              "spans": [
+                [
+                  12,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "寶馬",
+              "meaning": "名貴駿馬",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "雕車",
+              "meaning": "裝飾華麗的車",
+              "spans": [
+                [
+                  18,
+                  20
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "鳳簫",
+              "meaning": "簫的美稱；亦說排簫",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "玉壺",
+              "meaning": "主解明月；另有燈、漏壺說",
+              "spans": [
+                [
+                  29,
+                  31
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "光轉",
+              "meaning": "光照位置隨時間轉移",
+              "spans": [
+                [
+                  31,
+                  33
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "魚龍舞",
+              "meaning": "魚龍形彩燈舞動",
+              "spans": [
+                [
+                  36,
+                  39
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-02-00-90": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 233,
+          "printedPage": 229,
+          "blockPath": "$[15].pages[2].blocks[0]",
+          "anchor": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          "excerpt": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。"
+        },
+        "resolvedBlock": [
+          "annot",
+          "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          [
+            [
+              "蛾兒",
+              "蛾蝶形頭飾",
+              "blue"
+            ],
+            [
+              "雪柳",
+              "柳狀頭飾",
+              "blue"
+            ],
+            [
+              "黃金縷",
+              "金色頭飾",
+              "blue"
+            ],
+            [
+              "盈盈",
+              "儀態輕盈美好",
+              "blue"
+            ],
+            [
+              "暗香",
+              "幽香",
+              "blue"
+            ],
+            [
+              "千百度",
+              "千百次，極言多次",
+              "blue"
+            ],
+            [
+              "驀然",
+              "突然、忽然",
+              "blue"
+            ],
+            [
+              "迴首",
+              "回頭",
+              "blue"
+            ],
+            [
+              "闌珊",
+              "稀疏、暗淡",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "蛾兒",
+              "meaning": "蛾蝶形頭飾",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雪柳",
+              "meaning": "柳狀頭飾",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "黃金縷",
+              "meaning": "金色頭飾",
+              "spans": [
+                [
+                  4,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "盈盈",
+              "meaning": "儀態輕盈美好",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "暗香",
+              "meaning": "幽香",
+              "spans": [
+                [
+                  12,
+                  14
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "千百度",
+              "meaning": "千百次，極言多次",
+              "spans": [
+                [
+                  20,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "驀然",
+              "meaning": "突然、忽然",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "迴首",
+              "meaning": "回頭",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "闌珊",
+              "meaning": "稀疏、暗淡",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-00-01-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 232,
+          "printedPage": 228,
+          "blockPath": "$[15].pages[0].blocks[1]",
+          "anchor": "以元宵繁華熱鬧反襯燈火闌珊處的那人，突出不隨流俗的形象和追尋。",
+          "excerpt": "以元宵繁華熱鬧反襯燈火闌珊處的那人，突出不隨流俗的形象和追尋。"
+        },
+        "resolvedBlock": [
+          "band",
+          "以元宵繁華熱鬧反襯燈火闌珊處的那人，突出不隨流俗的形象和追尋。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-00-03-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 232,
+          "printedPage": 228,
+          "blockPath": "$[15].pages[0].blocks[3]",
+          "anchor": "燈火車馬→音樂魚龍→盛裝女子→千百尋找→驀然得見",
+          "excerpt": "燈火車馬→音樂魚龍→盛裝女子→千百尋找→驀然得見",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "青玉案・元夕",
+              "section": "下片｜原文與語譯",
+              "pdfPage": 235,
+              "printedPage": 231,
+              "blockPath": "$[15].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+              "excerpt": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+              "essayId": "essay-16"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "text",
+          "燈火車馬→音樂魚龍→盛裝女子→千百尋找→驀然得見"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "青玉案・元夕",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          "excerpt": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          "essayId": "essay-16"
+        },
+        "resolvedBlock": [
+          "annot",
+          "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          [
+            [
+              "蛾兒",
+              "蛾蝶形頭飾",
+              "blue"
+            ],
+            [
+              "雪柳",
+              "柳狀頭飾",
+              "blue"
+            ],
+            [
+              "黃金縷",
+              "金色頭飾",
+              "blue"
+            ],
+            [
+              "盈盈",
+              "儀態輕盈美好",
+              "blue"
+            ],
+            [
+              "暗香",
+              "幽香",
+              "blue"
+            ],
+            [
+              "千百度",
+              "千百次，極言多次",
+              "blue"
+            ],
+            [
+              "驀然",
+              "突然、忽然",
+              "blue"
+            ],
+            [
+              "迴首",
+              "回頭",
+              "blue"
+            ],
+            [
+              "闌珊",
+              "稀疏、暗淡",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "蛾兒",
+              "meaning": "蛾蝶形頭飾",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雪柳",
+              "meaning": "柳狀頭飾",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "黃金縷",
+              "meaning": "金色頭飾",
+              "spans": [
+                [
+                  4,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "盈盈",
+              "meaning": "儀態輕盈美好",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "暗香",
+              "meaning": "幽香",
+              "spans": [
+                [
+                  12,
+                  14
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "千百度",
+              "meaning": "千百次，極言多次",
+              "spans": [
+                [
+                  20,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "驀然",
+              "meaning": "突然、忽然",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "迴首",
+              "meaning": "回頭",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "闌珊",
+              "meaning": "稀疏、暗淡",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-00-05-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 232,
+          "printedPage": 228,
+          "blockPath": "$[15].pages[0].blocks[5]",
+          "anchor": "那人的孤高可作寄託解讀；不能直接把尋人敘事改成已證實的生平事件。",
+          "excerpt": "那人的孤高可作寄託解讀；不能直接把尋人敘事改成已證實的生平事件。"
+        },
+        "resolvedBlock": [
+          "text",
+          "那人的孤高可作寄託解讀；不能直接把尋人敘事改成已證實的生平事件。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-00-07-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 232,
+          "printedPage": 228,
+          "blockPath": "$[15].pages[0].blocks[7]",
+          "anchor": "青玉案是詞牌，元夕是元宵夜；星、玉壺有異解，本篇以煙花、明月主線解說。",
+          "excerpt": "青玉案是詞牌，元夕是元宵夜；星、玉壺有異解，本篇以煙花、明月主線解說。"
+        },
+        "resolvedBlock": [
+          "text",
+          "青玉案是詞牌，元夕是元宵夜；星、玉壺有異解，本篇以煙花、明月主線解說。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-01-04-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 234,
+          "printedPage": 230,
+          "blockPath": "$[15].pages[1].blocks[4]",
+          "anchor": "視覺、聽覺和嗅覺共同營造熱鬧；熱鬧寫得充分，才更能反襯最後燈火闌珊處的人。",
+          "excerpt": "視覺、聽覺和嗅覺共同營造熱鬧；熱鬧寫得充分，才更能反襯最後燈火闌珊處的人。"
+        },
+        "resolvedBlock": [
+          "note",
+          "視覺、聽覺和嗅覺共同營造熱鬧；熱鬧寫得充分，才更能反襯最後燈火闌珊處的人。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-02-04-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[2].blocks[4]",
+          "anchor": "千百度極言尋找之多，驀然寫發現的突然。那人不在熱鬧中心，位置上的反差支持其孤高形象。",
+          "excerpt": "千百度極言尋找之多，驀然寫發現的突然。那人不在熱鬧中心，位置上的反差支持其孤高形象。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "青玉案・元夕",
+              "section": "下片｜原文與語譯",
+              "pdfPage": 235,
+              "printedPage": 231,
+              "blockPath": "$[15].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+              "excerpt": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+              "essayId": "essay-16"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "note",
+          "千百度極言尋找之多，驀然寫發現的突然。那人不在熱鬧中心，位置上的反差支持其孤高形象。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "青玉案・元夕",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          "excerpt": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          "essayId": "essay-16"
+        },
+        "resolvedBlock": [
+          "annot",
+          "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          [
+            [
+              "蛾兒",
+              "蛾蝶形頭飾",
+              "blue"
+            ],
+            [
+              "雪柳",
+              "柳狀頭飾",
+              "blue"
+            ],
+            [
+              "黃金縷",
+              "金色頭飾",
+              "blue"
+            ],
+            [
+              "盈盈",
+              "儀態輕盈美好",
+              "blue"
+            ],
+            [
+              "暗香",
+              "幽香",
+              "blue"
+            ],
+            [
+              "千百度",
+              "千百次，極言多次",
+              "blue"
+            ],
+            [
+              "驀然",
+              "突然、忽然",
+              "blue"
+            ],
+            [
+              "迴首",
+              "回頭",
+              "blue"
+            ],
+            [
+              "闌珊",
+              "稀疏、暗淡",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "蛾兒",
+              "meaning": "蛾蝶形頭飾",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雪柳",
+              "meaning": "柳狀頭飾",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "黃金縷",
+              "meaning": "金色頭飾",
+              "spans": [
+                [
+                  4,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "盈盈",
+              "meaning": "儀態輕盈美好",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "暗香",
+              "meaning": "幽香",
+              "spans": [
+                [
+                  12,
+                  14
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "千百度",
+              "meaning": "千百次，極言多次",
+              "spans": [
+                [
+                  20,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "驀然",
+              "meaning": "突然、忽然",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "迴首",
+              "meaning": "回頭",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "闌珊",
+              "meaning": "稀疏、暗淡",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-03-00-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[3].blocks[0][1][1]",
+          "anchor": "青玉案 青玉案 這裏是詞牌名，並非正文所寫器物；「元夕」才點明元宵夜的題材。",
+          "excerpt": "這裏是詞牌名，並非正文所寫器物；「元夕」才點明元宵夜的題材。"
+        },
+        "resolvedBlock": [
+          "青玉案",
+          "青玉案",
+          "這裏是詞牌名，並非正文所寫器物；「元夕」才點明元宵夜的題材。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-03-00-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[3].blocks[0][1][2]",
+          "anchor": "元夕 元夕 農曆正月十五上元節之夜，又稱元夜、元宵；題目寫春天節夜燈市。",
+          "excerpt": "農曆正月十五上元節之夜，又稱元夜、元宵；題目寫春天節夜燈市。"
+        },
+        "resolvedBlock": [
+          "元夕",
+          "元夕",
+          "農曆正月十五上元節之夜，又稱元夜、元宵；題目寫春天節夜燈市。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-03-00-04": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[3].blocks[0][1][4]",
+          "anchor": "花千樹 東風夜放花千樹 花燈繁多如千樹花開，不是實際千棵花樹的數目統計。",
+          "excerpt": "花燈繁多如千樹花開，不是實際千棵花樹的數目統計。"
+        },
+        "resolvedBlock": [
+          "花千樹",
+          "東風夜放花千樹",
+          "花燈繁多如千樹花開，不是實際千棵花樹的數目統計。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-03-00-05": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[3].blocks[0][1][5]",
+          "anchor": "星如雨 更吹落、星如雨 煙花密集落下，如雨點一般，突出燦爛繁盛；也有把「星」理解為花燈的讀法。",
+          "excerpt": "煙花密集落下，如雨點一般，突出燦爛繁盛；也有把「星」理解為花燈的讀法。"
+        },
+        "resolvedBlock": [
+          "星如雨",
+          "更吹落、星如雨",
+          "煙花密集落下，如雨點一般，突出燦爛繁盛；也有把「星」理解為花燈的讀法。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-03-00-08": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 236,
+          "printedPage": 232,
+          "blockPath": "$[15].pages[3].blocks[0][1][8]",
+          "anchor": "香 寶馬雕車香滿路 車中人的衣鬢香氣。帶出富貴遊人，不是只寫馬車的木料香。",
+          "excerpt": "車中人的衣鬢香氣。帶出富貴遊人，不是只寫馬車的木料香。"
+        },
+        "resolvedBlock": [
+          "香",
+          "寶馬雕車香滿路",
+          "車中人的衣鬢香氣。帶出富貴遊人，不是只寫馬車的木料香。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-03-00-10": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 236,
+          "printedPage": 232,
+          "blockPath": "$[15].pages[3].blocks[0][1][10]",
+          "anchor": "聲動 鳳簫聲動 樂聲四處繚繞。",
+          "excerpt": "樂聲四處繚繞。"
+        },
+        "resolvedBlock": [
+          "聲動",
+          "鳳簫聲動",
+          "樂聲四處繚繞。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-03-00-11": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 236,
+          "printedPage": 232,
+          "blockPath": "$[15].pages[3].blocks[0][1][11]",
+          "anchor": "玉壺 玉壺光轉 玉壺可比喻明月，取圓潤晶亮的相似點",
+          "excerpt": "玉壺可比喻明月，取圓潤晶亮的相似點"
+        },
+        "resolvedBlock": [
+          "玉壺",
+          "玉壺光轉",
+          "玉壺可比喻明月，取圓潤晶亮的相似點"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-03-00-12": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 236,
+          "printedPage": 232,
+          "blockPath": "$[15].pages[3].blocks[0][1][12]",
+          "anchor": "光轉 玉壺光轉 光轉寫月照位置改變，帶出時間推移。補充理解：玉壺另有白玉燈、計時漏壺兩說。",
+          "excerpt": "光轉寫月照位置改變，帶出時間推移。補充理解：玉壺另有白玉燈、計時漏壺兩說。"
+        },
+        "resolvedBlock": [
+          "光轉",
+          "玉壺光轉",
+          "光轉寫月照位置改變，帶出時間推移。補充理解：玉壺另有白玉燈、計時漏壺兩說。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-03-00-13": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 236,
+          "printedPage": 232,
+          "blockPath": "$[15].pages[3].blocks[0][1][13]",
+          "anchor": "魚龍舞 一夜魚龍舞 舞動魚形、龍形彩燈。另連彩燈百戲表演、走馬燈動態，屬延伸理解，不作真魚龍活動。",
+          "excerpt": "舞動魚形、龍形彩燈。另連彩燈百戲表演、走馬燈動態，屬延伸理解，不作真魚龍活動。"
+        },
+        "resolvedBlock": [
+          "魚龍舞",
+          "一夜魚龍舞",
+          "舞動魚形、龍形彩燈。另連彩燈百戲表演、走馬燈動態，屬延伸理解，不作真魚龍活動。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-03-00-14": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 236,
+          "printedPage": 232,
+          "blockPath": "$[15].pages[3].blocks[0][1][14]",
+          "anchor": "蛾兒 蛾兒雪柳黃金縷 元宵前後婦女插戴的烏金紙剪成蝶、蛾狀頭飾。",
+          "excerpt": "元宵前後婦女插戴的烏金紙剪成蝶、蛾狀頭飾。"
+        },
+        "resolvedBlock": [
+          "蛾兒",
+          "蛾兒雪柳黃金縷",
+          "元宵前後婦女插戴的烏金紙剪成蝶、蛾狀頭飾。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-03-00-15": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 236,
+          "printedPage": 232,
+          "blockPath": "$[15].pages[3].blocks[0][1][15]",
+          "anchor": "雪柳 蛾兒雪柳黃金縷 宋代婦女立春、元宵所戴，絹或紙製成的頭花，呈柳條形。",
+          "excerpt": "宋代婦女立春、元宵所戴，絹或紙製成的頭花，呈柳條形。"
+        },
+        "resolvedBlock": [
+          "雪柳",
+          "蛾兒雪柳黃金縷",
+          "宋代婦女立春、元宵所戴，絹或紙製成的頭花，呈柳條形。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-03-00-17": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 236,
+          "printedPage": 232,
+          "blockPath": "$[15].pages[3].blocks[0][1][17]",
+          "anchor": "縷 蛾兒雪柳黃金縷 縷泛指線狀物。三種頭飾亦借代盛裝女子。",
+          "excerpt": "縷泛指線狀物。三種頭飾亦借代盛裝女子。"
+        },
+        "resolvedBlock": [
+          "縷",
+          "蛾兒雪柳黃金縷",
+          "縷泛指線狀物。三種頭飾亦借代盛裝女子。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-03-00-18": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 236,
+          "printedPage": 232,
+          "blockPath": "$[15].pages[3].blocks[0][1][18]",
+          "anchor": "盈盈 笑語盈盈暗香去 儀態輕盈美好、微笑含情；連「笑語」兼有聲音與神態。",
+          "excerpt": "儀態輕盈美好、微笑含情；連「笑語」兼有聲音與神態。"
+        },
+        "resolvedBlock": [
+          "盈盈",
+          "笑語盈盈暗香去",
+          "儀態輕盈美好、微笑含情；連「笑語」兼有聲音與神態。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-04-00-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 237,
+          "printedPage": 233,
+          "blockPath": "$[15].pages[4].blocks[0][1][1]",
+          "anchor": "暗香去 笑語盈盈暗香去 女子帶着幽香經過而遠去，聲影氣味隨步伐轉移。",
+          "excerpt": "女子帶着幽香經過而遠去，聲影氣味隨步伐轉移。"
+        },
+        "resolvedBlock": [
+          "暗香去",
+          "笑語盈盈暗香去",
+          "女子帶着幽香經過而遠去，聲影氣味隨步伐轉移。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-04-00-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 237,
+          "printedPage": 233,
+          "blockPath": "$[15].pages[4].blocks[0][1][2]",
+          "anchor": "度 眾裏尋他千百度 次、回",
+          "excerpt": "次、回"
+        },
+        "resolvedBlock": [
+          "度",
+          "眾裏尋他千百度",
+          "次、回"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-04-00-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 237,
+          "printedPage": 233,
+          "blockPath": "$[15].pages[4].blocks[0][1][3]",
+          "anchor": "千百度 眾裏尋他千百度 反覆多次尋找，突出熱切，不是實數。",
+          "excerpt": "反覆多次尋找，突出熱切，不是實數。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "青玉案・元夕",
+              "section": "下片｜原文與語譯",
+              "pdfPage": 235,
+              "printedPage": 231,
+              "blockPath": "$[15].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+              "excerpt": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+              "essayId": "essay-16"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "千百度",
+          "眾裏尋他千百度",
+          "反覆多次尋找，突出熱切，不是實數。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "青玉案・元夕",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          "excerpt": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          "essayId": "essay-16"
+        },
+        "resolvedBlock": [
+          "annot",
+          "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          [
+            [
+              "蛾兒",
+              "蛾蝶形頭飾",
+              "blue"
+            ],
+            [
+              "雪柳",
+              "柳狀頭飾",
+              "blue"
+            ],
+            [
+              "黃金縷",
+              "金色頭飾",
+              "blue"
+            ],
+            [
+              "盈盈",
+              "儀態輕盈美好",
+              "blue"
+            ],
+            [
+              "暗香",
+              "幽香",
+              "blue"
+            ],
+            [
+              "千百度",
+              "千百次，極言多次",
+              "blue"
+            ],
+            [
+              "驀然",
+              "突然、忽然",
+              "blue"
+            ],
+            [
+              "迴首",
+              "回頭",
+              "blue"
+            ],
+            [
+              "闌珊",
+              "稀疏、暗淡",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "蛾兒",
+              "meaning": "蛾蝶形頭飾",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雪柳",
+              "meaning": "柳狀頭飾",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "黃金縷",
+              "meaning": "金色頭飾",
+              "spans": [
+                [
+                  4,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "盈盈",
+              "meaning": "儀態輕盈美好",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "暗香",
+              "meaning": "幽香",
+              "spans": [
+                [
+                  12,
+                  14
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "千百度",
+              "meaning": "千百次，極言多次",
+              "spans": [
+                [
+                  20,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "驀然",
+              "meaning": "突然、忽然",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "迴首",
+              "meaning": "回頭",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "闌珊",
+              "meaning": "稀疏、暗淡",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-04-00-06": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 237,
+          "printedPage": 233,
+          "blockPath": "$[15].pages[4].blocks[0][1][6]",
+          "anchor": "闌珊 那人卻在、燈火闌珊處 暗淡、零落、稀疏；作將盡，落在燈火語境，與繁華燈市相對。",
+          "excerpt": "暗淡、零落、稀疏；作將盡，落在燈火語境，與繁華燈市相對。"
+        },
+        "resolvedBlock": [
+          "闌珊",
+          "那人卻在、燈火闌珊處",
+          "暗淡、零落、稀疏；作將盡，落在燈火語境，與繁華燈市相對。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-04-00-07": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 237,
+          "printedPage": 233,
+          "blockPath": "$[15].pages[4].blocks[0][1][7]",
+          "anchor": "他 眾裏尋他千百度 詞面為作者所尋對象，譯文作她、意中人",
+          "excerpt": "詞面為作者所尋對象，譯文作她、意中人"
+        },
+        "resolvedBlock": [
+          "他",
+          "眾裏尋他千百度",
+          "詞面為作者所尋對象，譯文作她、意中人"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-04-00-08": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 237,
+          "printedPage": 233,
+          "blockPath": "$[15].pages[4].blocks[0][1][8]",
+          "anchor": "那人 那人卻在、燈火闌珊處 作者所尋的人；字面人物與理想人格的寄託解讀分開。",
+          "excerpt": "作者所尋的人；字面人物與理想人格的寄託解讀分開。"
+        },
+        "resolvedBlock": [
+          "那人",
+          "那人卻在、燈火闌珊處",
+          "作者所尋的人；字面人物與理想人格的寄託解讀分開。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-04-01-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 237,
+          "printedPage": 233,
+          "blockPath": "$[15].pages[4].blocks[1]",
+          "anchor": "先按煙花、明月理解上片，畫面便是花燈繁盛、煙花密集、月光流轉。補充理解：「星」也有花燈說，「玉壺」也有燈和漏壺說；採用另一說時，相應的形象分析也要一致。",
+          "excerpt": "先按煙花、明月理解上片，畫面便是花燈繁盛、煙花密集、月光流轉。補充理解：「星」也有花燈說，「玉壺」也有燈和漏壺說；採用另一說時，相應的形象分析也要一致。"
+        },
+        "resolvedBlock": [
+          "text",
+          "先按煙花、明月理解上片，畫面便是花燈繁盛、煙花密集、月光流轉。補充理解：「星」也有花燈說，「玉壺」也有燈和漏壺說；採用另一說時，相應的形象分析也要一致。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-05-00-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 237,
+          "printedPage": 233,
+          "blockPath": "$[15].pages[5].blocks[0][1][1]",
+          "anchor": "上片寫盛景 燈火燦爛、遊人不絕、樂聲飄揚、魚龍燈舞，營造繁華熱鬧。不同感官和動態交錯，使人目不暇給、耳不暇接。",
+          "excerpt": "燈火燦爛、遊人不絕、樂聲飄揚、魚龍燈舞，營造繁華熱鬧。不同感官和動態交錯，使人目不暇給、耳不暇接。"
+        },
+        "resolvedBlock": [
+          "上片寫盛景",
+          "燈火燦爛、遊人不絕、樂聲飄揚、魚龍燈舞，營造繁華熱鬧。不同感官和動態交錯，使人目不暇給、耳不暇接。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-05-00-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 237,
+          "printedPage": 233,
+          "blockPath": "$[15].pages[5].blocks[0][1][2]",
+          "anchor": "下片首兩句寫仕女 頭飾華美，笑語含情，幽香隨人遠去；承接賞燈盛況，過渡由寫景到写人、引出尋覓。",
+          "excerpt": "頭飾華美，笑語含情，幽香隨人遠去；承接賞燈盛況，過渡由寫景到写人、引出尋覓。"
+        },
+        "resolvedBlock": [
+          "下片首兩句寫仕女",
+          "頭飾華美，笑語含情，幽香隨人遠去；承接賞燈盛況，過渡由寫景到写人、引出尋覓。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-05-00-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 237,
+          "printedPage": 233,
+          "blockPath": "$[15].pages[5].blocks[0][1][3]",
+          "anchor": "眾裏尋他 反覆尋覓，熱切焦急，遍尋不見而失落惆悵。",
+          "excerpt": "反覆尋覓，熱切焦急，遍尋不見而失落惆悵。"
+        },
+        "resolvedBlock": [
+          "眾裏尋他",
+          "反覆尋覓，熱切焦急，遍尋不見而失落惆悵。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-05-00-04": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 237,
+          "printedPage": 233,
+          "blockPath": "$[15].pages[5].blocks[0][1][4]",
+          "anchor": "驀然回首 突然得見，喜出望外、愉悅滿足。",
+          "excerpt": "突然得見，喜出望外、愉悅滿足。"
+        },
+        "resolvedBlock": [
+          "驀然回首",
+          "突然得見，喜出望外、愉悅滿足。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-05-00-05": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 237,
+          "printedPage": 233,
+          "blockPath": "$[15].pages[5].blocks[0][1][5]",
+          "anchor": "闌珊處那人 不在爭妍人群而獨處暗淡角落，凸顯淡泊清高；另說驚喜很快又轉孤清，留幽遠意境。",
+          "excerpt": "不在爭妍人群而獨處暗淡角落，凸顯淡泊清高；另說驚喜很快又轉孤清，留幽遠意境。"
+        },
+        "resolvedBlock": [
+          "闌珊處那人",
+          "不在爭妍人群而獨處暗淡角落，凸顯淡泊清高；另說驚喜很快又轉孤清，留幽遠意境。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-05-01-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 237,
+          "printedPage": 233,
+          "blockPath": "$[15].pages[5].blocks[1]",
+          "anchor": "末四句連轉三次：繁華景象之後忽然集中寫尋人；千百次尋覓之後忽然回首得見；以為那人會在熱鬧中心，卻發現在燈火疏落處。視線愈收愈窄，最後全部落在那人的孤高形象上。",
+          "excerpt": "末四句連轉三次：繁華景象之後忽然集中寫尋人；千百次尋覓之後忽然回首得見；以為那人會在熱鬧中心，卻發現在燈火疏落處。視線愈收愈窄，最後全部落在那人的孤高形象上。"
+        },
+        "resolvedBlock": [
+          "text",
+          "末四句連轉三次：繁華景象之後忽然集中寫尋人；千百次尋覓之後忽然回首得見；以為那人會在熱鬧中心，卻發現在燈火疏落處。視線愈收愈窄，最後全部落在那人的孤高形象上。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-06-00-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 238,
+          "printedPage": 234,
+          "blockPath": "$[15].pages[6].blocks[0]",
+          "anchor": "詞面為元夕尋人。常見寄託是以那人不慕繁華、自甘寂寞、孤高耿介，表作者不隨波逐流、不與世俗同流的品格；也可說盼望高潔知己、不滿國家動盪而人們沉醉逸樂苟安。那人與眾女不同：眾女盛裝嫵媚、穿梭擁擠喧鬧人群；她獨站燈火疏落處，不為繁華所動。這是孤高脫俗，不能改成高傲冷漠或若即若離。",
+          "excerpt": "詞面為元夕尋人。常見寄託是以那人不慕繁華、自甘寂寞、孤高耿介，表作者不隨波逐流、不與世俗同流的品格；也可說盼望高潔知己、不滿國家動盪而人們沉醉逸樂苟安。那人與眾女不同：眾女盛裝嫵媚、穿梭擁擠喧鬧人群；她獨站燈火疏落處，不為繁華所動。這是孤高脫俗，不能改成高傲冷漠或若即若離。"
+        },
+        "resolvedBlock": [
+          "text",
+          "詞面為元夕尋人。常見寄託是以那人不慕繁華、自甘寂寞、孤高耿介，表作者不隨波逐流、不與世俗同流的品格；也可說盼望高潔知己、不滿國家動盪而人們沉醉逸樂苟安。那人與眾女不同：眾女盛裝嫵媚、穿梭擁擠喧鬧人群；她獨站燈火疏落處，不為繁華所動。這是孤高脫俗，不能改成高傲冷漠或若即若離。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-06-01-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 238,
+          "printedPage": 234,
+          "blockPath": "$[15].pages[6].blocks[1]",
+          "anchor": "補充理解：尋人也可讀成追求知己或理想。詞人沒有直接宣布寓意，而是讓繁華人群與闌珊處的那人形成反差；因此，解釋孤高自持時，要從這個反差說起。得見的驚喜與末景的幽靜可以並存。",
+          "excerpt": "補充理解：尋人也可讀成追求知己或理想。詞人沒有直接宣布寓意，而是讓繁華人群與闌珊處的那人形成反差；因此，解釋孤高自持時，要從這個反差說起。得見的驚喜與末景的幽靜可以並存。"
+        },
+        "resolvedBlock": [
+          "text",
+          "補充理解：尋人也可讀成追求知己或理想。詞人沒有直接宣布寓意，而是讓繁華人群與闌珊處的那人形成反差；因此，解釋孤高自持時，要從這個反差說起。得見的驚喜與末景的幽靜可以並存。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-07-00-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 238,
+          "printedPage": 234,
+          "blockPath": "$[15].pages[7].blocks[0][1][1]",
+          "anchor": "比喻與想像 春風吹花燈如千樹繁花、又吹落煙花如雨，將東風、燈、煙花扣連，華麗景致變得生動，領起繁盛基調。",
+          "excerpt": "春風吹花燈如千樹繁花、又吹落煙花如雨，將東風、燈、煙花扣連，華麗景致變得生動，領起繁盛基調。"
+        },
+        "resolvedBlock": [
+          "比喻與想像",
+          "春風吹花燈如千樹繁花、又吹落煙花如雨，將東風、燈、煙花扣連，華麗景致變得生動，領起繁盛基調。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-07-00-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 238,
+          "printedPage": 234,
+          "blockPath": "$[15].pages[7].blocks[0][1][2]",
+          "anchor": "玉壺比喻 採明月說，以圓狀、晶亮比明月；採燈或漏壺說時，不沿用月之相似點而不交代。",
+          "excerpt": "採明月說，以圓狀、晶亮比明月；採燈或漏壺說時，不沿用月之相似點而不交代。"
+        },
+        "resolvedBlock": [
+          "玉壺比喻",
+          "採明月說，以圓狀、晶亮比明月；採燈或漏壺說時，不沿用月之相似點而不交代。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-07-00-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 238,
+          "printedPage": 234,
+          "blockPath": "$[15].pages[7].blocks[0][1][3]",
+          "anchor": "魚龍形象 以魚龍形狀寫彩燈舞動，列比喻／百戲，可從形象理解；具體名物首先是魚龍形燈。",
+          "excerpt": "以魚龍形狀寫彩燈舞動，列比喻／百戲，可從形象理解；具體名物首先是魚龍形燈。"
+        },
+        "resolvedBlock": [
+          "魚龍形象",
+          "以魚龍形狀寫彩燈舞動，列比喻／百戲，可從形象理解；具體名物首先是魚龍形燈。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-07-00-04": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 238,
+          "printedPage": 234,
+          "blockPath": "$[15].pages[7].blocks[0][1][4]",
+          "anchor": "誇張 花千樹寫燈多；星如雨寫密集璀璨；香滿路誇寫車中衣鬢幽香遍路；千百度寫尋人之切。",
+          "excerpt": "花千樹寫燈多；星如雨寫密集璀璨；香滿路誇寫車中衣鬢幽香遍路；千百度寫尋人之切。"
+        },
+        "resolvedBlock": [
+          "誇張",
+          "花千樹寫燈多；星如雨寫密集璀璨；香滿路誇寫車中衣鬢幽香遍路；千百度寫尋人之切。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-07-00-05": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 238,
+          "printedPage": 234,
+          "blockPath": "$[15].pages[7].blocks[0][1][5]",
+          "anchor": "借代 寶馬雕車帶出富貴人家出遊賞燈；蛾兒雪柳黃金縷以頭飾代華麗女子。物象所指與作用分別交代。",
+          "excerpt": "寶馬雕車帶出富貴人家出遊賞燈；蛾兒雪柳黃金縷以頭飾代華麗女子。物象所指與作用分別交代。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "青玉案・元夕",
+              "section": "下片｜原文與語譯",
+              "pdfPage": 235,
+              "printedPage": 231,
+              "blockPath": "$[15].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+              "excerpt": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+              "essayId": "essay-16"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "借代",
+          "寶馬雕車帶出富貴人家出遊賞燈；蛾兒雪柳黃金縷以頭飾代華麗女子。物象所指與作用分別交代。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "青玉案・元夕",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          "excerpt": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          "essayId": "essay-16"
+        },
+        "resolvedBlock": [
+          "annot",
+          "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          [
+            [
+              "蛾兒",
+              "蛾蝶形頭飾",
+              "blue"
+            ],
+            [
+              "雪柳",
+              "柳狀頭飾",
+              "blue"
+            ],
+            [
+              "黃金縷",
+              "金色頭飾",
+              "blue"
+            ],
+            [
+              "盈盈",
+              "儀態輕盈美好",
+              "blue"
+            ],
+            [
+              "暗香",
+              "幽香",
+              "blue"
+            ],
+            [
+              "千百度",
+              "千百次，極言多次",
+              "blue"
+            ],
+            [
+              "驀然",
+              "突然、忽然",
+              "blue"
+            ],
+            [
+              "迴首",
+              "回頭",
+              "blue"
+            ],
+            [
+              "闌珊",
+              "稀疏、暗淡",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "蛾兒",
+              "meaning": "蛾蝶形頭飾",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雪柳",
+              "meaning": "柳狀頭飾",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "黃金縷",
+              "meaning": "金色頭飾",
+              "spans": [
+                [
+                  4,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "盈盈",
+              "meaning": "儀態輕盈美好",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "暗香",
+              "meaning": "幽香",
+              "spans": [
+                [
+                  12,
+                  14
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "千百度",
+              "meaning": "千百次，極言多次",
+              "spans": [
+                [
+                  20,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "驀然",
+              "meaning": "突然、忽然",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "迴首",
+              "meaning": "回頭",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "闌珊",
+              "meaning": "稀疏、暗淡",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-07-00-06": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 238,
+          "printedPage": 234,
+          "blockPath": "$[15].pages[7].blocks[0][1][6]",
+          "anchor": "反襯一 盛裝眾女爭妍，反襯那人自甘寂寞、不慕繁華。",
+          "excerpt": "盛裝眾女爭妍，反襯那人自甘寂寞、不慕繁華。"
+        },
+        "resolvedBlock": [
+          "反襯一",
+          "盛裝眾女爭妍，反襯那人自甘寂寞、不慕繁華。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-07-00-07": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 238,
+          "printedPage": 234,
+          "blockPath": "$[15].pages[7].blocks[0][1][7]",
+          "anchor": "反襯二 燈市繁華熱鬧，反襯闌珊處幽暗冷落，突出那人遠離世俗、孤高清潔。",
+          "excerpt": "燈市繁華熱鬧，反襯闌珊處幽暗冷落，突出那人遠離世俗、孤高清潔。"
+        },
+        "resolvedBlock": [
+          "反襯二",
+          "燈市繁華熱鬧，反襯闌珊處幽暗冷落，突出那人遠離世俗、孤高清潔。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-07-00-08": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 238,
+          "printedPage": 234,
+          "blockPath": "$[15].pages[7].blocks[0][1][8]",
+          "anchor": "直接與間接描寫 直接鋪寫節夜場景、車馬仕女活動；大篇幅盛況間接襯出末句那人形象。",
+          "excerpt": "直接鋪寫節夜場景、車馬仕女活動；大篇幅盛況間接襯出末句那人形象。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "青玉案・元夕",
+              "section": "上片｜原文與語譯",
+              "pdfPage": 234,
+              "printedPage": 230,
+              "blockPath": "$[15].pages[1].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+              "excerpt": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+              "essayId": "essay-16"
+            },
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "青玉案・元夕",
+              "section": "下片｜原文與語譯",
+              "pdfPage": 235,
+              "printedPage": 231,
+              "blockPath": "$[15].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+              "excerpt": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+              "essayId": "essay-16"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "直接與間接描寫",
+          "直接鋪寫節夜場景、車馬仕女活動；大篇幅盛況間接襯出末句那人形象。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "青玉案・元夕",
+          "section": "上片｜原文與語譯",
+          "pdfPage": 234,
+          "printedPage": 230,
+          "blockPath": "$[15].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+          "excerpt": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+          "essayId": "essay-16"
+        },
+        "resolvedBlock": [
+          "annot",
+          "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+          [
+            [
+              "東風",
+              "春風",
+              "blue"
+            ],
+            [
+              "花千樹",
+              "花燈如千樹繁花",
+              "blue"
+            ],
+            [
+              "星如雨",
+              "煙花如雨；另有燈說",
+              "blue"
+            ],
+            [
+              "寶馬",
+              "名貴駿馬",
+              "blue"
+            ],
+            [
+              "雕車",
+              "裝飾華麗的車",
+              "blue"
+            ],
+            [
+              "鳳簫",
+              "簫的美稱；亦說排簫",
+              "blue"
+            ],
+            [
+              "玉壺",
+              "主解明月；另有燈、漏壺說",
+              "blue"
+            ],
+            [
+              "光轉",
+              "光照位置隨時間轉移",
+              "blue"
+            ],
+            [
+              "魚龍舞",
+              "魚龍形彩燈舞動",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "東風",
+              "meaning": "春風",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "花千樹",
+              "meaning": "花燈如千樹繁花",
+              "spans": [
+                [
+                  4,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "星如雨",
+              "meaning": "煙花如雨；另有燈說",
+              "spans": [
+                [
+                  12,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "寶馬",
+              "meaning": "名貴駿馬",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "雕車",
+              "meaning": "裝飾華麗的車",
+              "spans": [
+                [
+                  18,
+                  20
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "鳳簫",
+              "meaning": "簫的美稱；亦說排簫",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "玉壺",
+              "meaning": "主解明月；另有燈、漏壺說",
+              "spans": [
+                [
+                  29,
+                  31
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "光轉",
+              "meaning": "光照位置隨時間轉移",
+              "spans": [
+                [
+                  31,
+                  33
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "魚龍舞",
+              "meaning": "魚龍形彩燈舞動",
+              "spans": [
+                [
+                  36,
+                  39
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "青玉案・元夕",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          "excerpt": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          "essayId": "essay-16"
+        },
+        "resolvedBlock": [
+          "annot",
+          "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          [
+            [
+              "蛾兒",
+              "蛾蝶形頭飾",
+              "blue"
+            ],
+            [
+              "雪柳",
+              "柳狀頭飾",
+              "blue"
+            ],
+            [
+              "黃金縷",
+              "金色頭飾",
+              "blue"
+            ],
+            [
+              "盈盈",
+              "儀態輕盈美好",
+              "blue"
+            ],
+            [
+              "暗香",
+              "幽香",
+              "blue"
+            ],
+            [
+              "千百度",
+              "千百次，極言多次",
+              "blue"
+            ],
+            [
+              "驀然",
+              "突然、忽然",
+              "blue"
+            ],
+            [
+              "迴首",
+              "回頭",
+              "blue"
+            ],
+            [
+              "闌珊",
+              "稀疏、暗淡",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "蛾兒",
+              "meaning": "蛾蝶形頭飾",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雪柳",
+              "meaning": "柳狀頭飾",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "黃金縷",
+              "meaning": "金色頭飾",
+              "spans": [
+                [
+                  4,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "盈盈",
+              "meaning": "儀態輕盈美好",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "暗香",
+              "meaning": "幽香",
+              "spans": [
+                [
+                  12,
+                  14
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "千百度",
+              "meaning": "千百次，極言多次",
+              "spans": [
+                [
+                  20,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "驀然",
+              "meaning": "突然、忽然",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "迴首",
+              "meaning": "回頭",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "闌珊",
+              "meaning": "稀疏、暗淡",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-07-00-09": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 238,
+          "printedPage": 234,
+          "blockPath": "$[15].pages[7].blocks[0][1][9]",
+          "anchor": "視覺 花燈、煙花、車馬、月光、魚龍燈、女子頭飾，層層變換。",
+          "excerpt": "花燈、煙花、車馬、月光、魚龍燈、女子頭飾，層層變換。"
+        },
+        "resolvedBlock": [
+          "視覺",
+          "花燈、煙花、車馬、月光、魚龍燈、女子頭飾，層層變換。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-07-00-10": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 238,
+          "printedPage": 234,
+          "blockPath": "$[15].pages[7].blocks[0][1][10]",
+          "anchor": "聽覺 鳳簫聲動、笑語盈盈。",
+          "excerpt": "鳳簫聲動、笑語盈盈。"
+        },
+        "resolvedBlock": [
+          "聽覺",
+          "鳳簫聲動、笑語盈盈。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-07-00-11": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 238,
+          "printedPage": 234,
+          "blockPath": "$[15].pages[7].blocks[0][1][11]",
+          "anchor": "嗅覺 香滿路、暗香去；前者與車馬的視覺合寫，後者隨女子遠去，使動作可感。",
+          "excerpt": "香滿路、暗香去；前者與車馬的視覺合寫，後者隨女子遠去，使動作可感。"
+        },
+        "resolvedBlock": [
+          "嗅覺",
+          "香滿路、暗香去；前者與車馬的視覺合寫，後者隨女子遠去，使動作可感。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-08-00-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 239,
+          "printedPage": 235,
+          "blockPath": "$[15].pages[8].blocks[0][1][1]",
+          "anchor": "動靜對照 夜放、吹落、車行、聲動、光轉、魚龍舞、暗香去、尋他、回首均動；那人獨立為靜。唯一靜態使前面的動景似退去，讀者視線聚焦那人。",
+          "excerpt": "夜放、吹落、車行、聲動、光轉、魚龍舞、暗香去、尋他、回首均動；那人獨立為靜。唯一靜態使前面的動景似退去，讀者視線聚焦那人。"
+        },
+        "resolvedBlock": [
+          "動靜對照",
+          "夜放、吹落、車行、聲動、光轉、魚龍舞、暗香去、尋他、回首均動；那人獨立為靜。唯一靜態使前面的動景似退去，讀者視線聚焦那人。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-08-00-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 239,
+          "printedPage": 235,
+          "blockPath": "$[15].pages[8].blocks[0][1][2]",
+          "anchor": "對偶 「鳳簫聲動，玉壺光轉」聲／光、動／轉相映，節奏整齊。",
+          "excerpt": "「鳳簫聲動，玉壺光轉」聲／光、動／轉相映，節奏整齊。"
+        },
+        "resolvedBlock": [
+          "對偶",
+          "「鳳簫聲動，玉壺光轉」聲／光、動／轉相映，節奏整齊。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-08-00-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 239,
+          "printedPage": 235,
+          "blockPath": "$[15].pages[8].blocks[0][1][3]",
+          "anchor": "疊字 「盈盈」寫女子儀態微笑，增輕柔韻味，與全詞清麗描寫相配。",
+          "excerpt": "「盈盈」寫女子儀態微笑，增輕柔韻味，與全詞清麗描寫相配。"
+        },
+        "resolvedBlock": [
+          "疊字",
+          "「盈盈」寫女子儀態微笑，增輕柔韻味，與全詞清麗描寫相配。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-08-00-04": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 239,
+          "printedPage": 235,
+          "blockPath": "$[15].pages[8].blocks[0][1][4]",
+          "anchor": "象徵、自況 那人可寄理想人格或高潔知己，須透過她與繁華的反差論證。",
+          "excerpt": "那人可寄理想人格或高潔知己，須透過她與繁華的反差論證。"
+        },
+        "resolvedBlock": [
+          "象徵、自況",
+          "那人可寄理想人格或高潔知己，須透過她與繁華的反差論證。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-08-00-05": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 239,
+          "printedPage": 235,
+          "blockPath": "$[15].pages[8].blocks[0][1][5]",
+          "anchor": "清麗詞藻與白描 寶馬雕車、鳳簫、玉壺、蛾兒雪柳黃金縷、盈盈配繁華景致；末四句純用白描，簡筆勾出孤高形象，詞藻與詞意各相配。",
+          "excerpt": "寶馬雕車、鳳簫、玉壺、蛾兒雪柳黃金縷、盈盈配繁華景致；末四句純用白描，簡筆勾出孤高形象，詞藻與詞意各相配。"
+        },
+        "resolvedBlock": [
+          "清麗詞藻與白描",
+          "寶馬雕車、鳳簫、玉壺、蛾兒雪柳黃金縷、盈盈配繁華景致；末四句純用白描，簡筆勾出孤高形象，詞藻與詞意各相配。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-09-01-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 240,
+          "printedPage": 236,
+          "blockPath": "$[15].pages[9].blocks[1][1][1]",
+          "anchor": "共同點 都由尋覓寫內心需要，景物與尋者感受相連。 都由尋覓寫內心需要，景物與尋者感受相連。",
+          "excerpt": "都由尋覓寫內心需要，景物與尋者感受相連。；都由尋覓寫內心需要，景物與尋者感受相連。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "聲聲慢・秋情",
+              "section": "上片｜原文與語譯",
+              "pdfPage": 225,
+              "printedPage": 221,
+              "blockPath": "$[14].pages[1].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+              "excerpt": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+              "essayId": "essay-15"
+            },
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "青玉案・元夕",
+              "section": "下片｜原文與語譯",
+              "pdfPage": 235,
+              "printedPage": 231,
+              "blockPath": "$[15].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+              "excerpt": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+              "essayId": "essay-16"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "共同點",
+          "都由尋覓寫內心需要，景物與尋者感受相連。",
+          "都由尋覓寫內心需要，景物與尋者感受相連。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "聲聲慢・秋情",
+          "section": "上片｜原文與語譯",
+          "pdfPage": 225,
+          "printedPage": 221,
+          "blockPath": "$[14].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+          "excerpt": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+          "essayId": "essay-15"
+        },
+        "resolvedBlock": [
+          "annot",
+          "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+          [
+            [
+              "尋尋覓覓",
+              "反覆尋找、若有所失",
+              "blue"
+            ],
+            [
+              "冷冷清清",
+              "環境寂靜冷落",
+              "blue"
+            ],
+            [
+              "悽悽慘慘戚戚",
+              "內心悽慘悲戚",
+              "blue"
+            ],
+            [
+              "乍煖還寒",
+              "剛暖又寒，冷暖不定",
+              "blue"
+            ],
+            [
+              "將息",
+              "調養休息",
+              "blue"
+            ],
+            [
+              "淡酒",
+              "無力禦寒解愁的酒",
+              "blue"
+            ],
+            [
+              "敵",
+              "抵擋",
+              "blue"
+            ],
+            [
+              "晚來",
+              "傍晚；另本作曉來",
+              "blue"
+            ],
+            [
+              "舊時相識",
+              "熟悉的大雁",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "尋尋覓覓",
+              "meaning": "反覆尋找、若有所失",
+              "spans": [
+                [
+                  0,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "冷冷清清",
+              "meaning": "環境寂靜冷落",
+              "spans": [
+                [
+                  5,
+                  9
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "悽悽慘慘戚戚",
+              "meaning": "內心悽慘悲戚",
+              "spans": [
+                [
+                  10,
+                  16
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "乍煖還寒",
+              "meaning": "剛暖又寒，冷暖不定",
+              "spans": [
+                [
+                  17,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "將息",
+              "meaning": "調養休息",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "淡酒",
+              "meaning": "無力禦寒解愁的酒",
+              "spans": [
+                [
+                  33,
+                  35
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "敵",
+              "meaning": "抵擋",
+              "spans": [
+                [
+                  37,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "晚來",
+              "meaning": "傍晚；另本作曉來",
+              "spans": [
+                [
+                  39,
+                  41
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "舊時相識",
+              "meaning": "熟悉的大雁",
+              "spans": [
+                [
+                  54,
+                  58
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "青玉案・元夕",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          "excerpt": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          "essayId": "essay-16"
+        },
+        "resolvedBlock": [
+          "annot",
+          "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          [
+            [
+              "蛾兒",
+              "蛾蝶形頭飾",
+              "blue"
+            ],
+            [
+              "雪柳",
+              "柳狀頭飾",
+              "blue"
+            ],
+            [
+              "黃金縷",
+              "金色頭飾",
+              "blue"
+            ],
+            [
+              "盈盈",
+              "儀態輕盈美好",
+              "blue"
+            ],
+            [
+              "暗香",
+              "幽香",
+              "blue"
+            ],
+            [
+              "千百度",
+              "千百次，極言多次",
+              "blue"
+            ],
+            [
+              "驀然",
+              "突然、忽然",
+              "blue"
+            ],
+            [
+              "迴首",
+              "回頭",
+              "blue"
+            ],
+            [
+              "闌珊",
+              "稀疏、暗淡",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "蛾兒",
+              "meaning": "蛾蝶形頭飾",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雪柳",
+              "meaning": "柳狀頭飾",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "黃金縷",
+              "meaning": "金色頭飾",
+              "spans": [
+                [
+                  4,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "盈盈",
+              "meaning": "儀態輕盈美好",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "暗香",
+              "meaning": "幽香",
+              "spans": [
+                [
+                  12,
+                  14
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "千百度",
+              "meaning": "千百次，極言多次",
+              "spans": [
+                [
+                  20,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "驀然",
+              "meaning": "突然、忽然",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "迴首",
+              "meaning": "回頭",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "闌珊",
+              "meaning": "稀疏、暗淡",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-09-01-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 240,
+          "printedPage": 236,
+          "blockPath": "$[15].pages[9].blocks[1][1][2]",
+          "anchor": "所尋與依據 「尋尋覓覓」沒有點明具體對象，可理解為尋求安慰和精神寄託。 「眾裏尋他千百度」直接寫在人群中尋找那人。",
+          "excerpt": "「尋尋覓覓」沒有點明具體對象，可理解為尋求安慰和精神寄託。；「眾裏尋他千百度」直接寫在人群中尋找那人。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "聲聲慢・秋情",
+              "section": "上片｜原文與語譯",
+              "pdfPage": 225,
+              "printedPage": 221,
+              "blockPath": "$[14].pages[1].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+              "excerpt": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+              "essayId": "essay-15"
+            },
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "青玉案・元夕",
+              "section": "下片｜原文與語譯",
+              "pdfPage": 235,
+              "printedPage": 231,
+              "blockPath": "$[15].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+              "excerpt": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+              "essayId": "essay-16"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "所尋與依據",
+          "「尋尋覓覓」沒有點明具體對象，可理解為尋求安慰和精神寄託。",
+          "「眾裏尋他千百度」直接寫在人群中尋找那人。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "聲聲慢・秋情",
+          "section": "上片｜原文與語譯",
+          "pdfPage": 225,
+          "printedPage": 221,
+          "blockPath": "$[14].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+          "excerpt": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+          "essayId": "essay-15"
+        },
+        "resolvedBlock": [
+          "annot",
+          "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+          [
+            [
+              "尋尋覓覓",
+              "反覆尋找、若有所失",
+              "blue"
+            ],
+            [
+              "冷冷清清",
+              "環境寂靜冷落",
+              "blue"
+            ],
+            [
+              "悽悽慘慘戚戚",
+              "內心悽慘悲戚",
+              "blue"
+            ],
+            [
+              "乍煖還寒",
+              "剛暖又寒，冷暖不定",
+              "blue"
+            ],
+            [
+              "將息",
+              "調養休息",
+              "blue"
+            ],
+            [
+              "淡酒",
+              "無力禦寒解愁的酒",
+              "blue"
+            ],
+            [
+              "敵",
+              "抵擋",
+              "blue"
+            ],
+            [
+              "晚來",
+              "傍晚；另本作曉來",
+              "blue"
+            ],
+            [
+              "舊時相識",
+              "熟悉的大雁",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "尋尋覓覓",
+              "meaning": "反覆尋找、若有所失",
+              "spans": [
+                [
+                  0,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "冷冷清清",
+              "meaning": "環境寂靜冷落",
+              "spans": [
+                [
+                  5,
+                  9
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "悽悽慘慘戚戚",
+              "meaning": "內心悽慘悲戚",
+              "spans": [
+                [
+                  10,
+                  16
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "乍煖還寒",
+              "meaning": "剛暖又寒，冷暖不定",
+              "spans": [
+                [
+                  17,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "將息",
+              "meaning": "調養休息",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "淡酒",
+              "meaning": "無力禦寒解愁的酒",
+              "spans": [
+                [
+                  33,
+                  35
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "敵",
+              "meaning": "抵擋",
+              "spans": [
+                [
+                  37,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "晚來",
+              "meaning": "傍晚；另本作曉來",
+              "spans": [
+                [
+                  39,
+                  41
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "舊時相識",
+              "meaning": "熟悉的大雁",
+              "spans": [
+                [
+                  54,
+                  58
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "青玉案・元夕",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          "excerpt": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          "essayId": "essay-16"
+        },
+        "resolvedBlock": [
+          "annot",
+          "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          [
+            [
+              "蛾兒",
+              "蛾蝶形頭飾",
+              "blue"
+            ],
+            [
+              "雪柳",
+              "柳狀頭飾",
+              "blue"
+            ],
+            [
+              "黃金縷",
+              "金色頭飾",
+              "blue"
+            ],
+            [
+              "盈盈",
+              "儀態輕盈美好",
+              "blue"
+            ],
+            [
+              "暗香",
+              "幽香",
+              "blue"
+            ],
+            [
+              "千百度",
+              "千百次，極言多次",
+              "blue"
+            ],
+            [
+              "驀然",
+              "突然、忽然",
+              "blue"
+            ],
+            [
+              "迴首",
+              "回頭",
+              "blue"
+            ],
+            [
+              "闌珊",
+              "稀疏、暗淡",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "蛾兒",
+              "meaning": "蛾蝶形頭飾",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雪柳",
+              "meaning": "柳狀頭飾",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "黃金縷",
+              "meaning": "金色頭飾",
+              "spans": [
+                [
+                  4,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "盈盈",
+              "meaning": "儀態輕盈美好",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "暗香",
+              "meaning": "幽香",
+              "spans": [
+                [
+                  12,
+                  14
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "千百度",
+              "meaning": "千百次，極言多次",
+              "spans": [
+                [
+                  20,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "驀然",
+              "meaning": "突然、忽然",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "迴首",
+              "meaning": "回頭",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "闌珊",
+              "meaning": "稀疏、暗淡",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-09-01-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 240,
+          "printedPage": 236,
+          "blockPath": "$[15].pages[9].blocks[1][1][3]",
+          "anchor": "結果與依據 接着是「冷冷清清，悽悽慘慘戚戚」，可見未得慰藉。 「驀然迴首，那人卻在、燈火闌珊處」，終於得見。",
+          "excerpt": "接着是「冷冷清清，悽悽慘慘戚戚」，可見未得慰藉。；「驀然迴首，那人卻在、燈火闌珊處」，終於得見。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+              "version": "2026-09-14",
+              "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "pdfPage": 224,
+              "printedPage": 220,
+              "blockPath": "$[14].pages[1].blocks[0]",
+              "anchor": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+              "excerpt": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+              "essayId": "essay-15",
+              "essayTitle": "聲聲慢・秋情"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "結果與依據",
+          "接着是「冷冷清清，悽悽慘慘戚戚」，可見未得慰藉。",
+          "「驀然迴首，那人卻在、燈火闌珊處」，終於得見。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 224,
+          "printedPage": 220,
+          "blockPath": "$[14].pages[1].blocks[0]",
+          "anchor": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+          "excerpt": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+          "essayId": "essay-15",
+          "essayTitle": "聲聲慢・秋情"
+        },
+        "resolvedBlock": [
+          "annot",
+          "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+          [
+            [
+              "尋尋覓覓",
+              "反覆尋找、若有所失",
+              "blue"
+            ],
+            [
+              "冷冷清清",
+              "環境寂靜冷落",
+              "blue"
+            ],
+            [
+              "悽悽慘慘戚戚",
+              "內心悽慘悲戚",
+              "blue"
+            ],
+            [
+              "乍煖還寒",
+              "剛暖又寒，冷暖不定",
+              "blue"
+            ],
+            [
+              "將息",
+              "調養休息",
+              "blue"
+            ],
+            [
+              "淡酒",
+              "無力禦寒解愁的酒",
+              "blue"
+            ],
+            [
+              "敵",
+              "抵擋",
+              "blue"
+            ],
+            [
+              "晚來",
+              "傍晚；另本作曉來",
+              "blue"
+            ],
+            [
+              "舊時相識",
+              "熟悉的大雁",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "尋尋覓覓",
+              "meaning": "反覆尋找、若有所失",
+              "spans": [
+                [
+                  0,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "冷冷清清",
+              "meaning": "環境寂靜冷落",
+              "spans": [
+                [
+                  5,
+                  9
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "悽悽慘慘戚戚",
+              "meaning": "內心悽慘悲戚",
+              "spans": [
+                [
+                  10,
+                  16
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "乍煖還寒",
+              "meaning": "剛暖又寒，冷暖不定",
+              "spans": [
+                [
+                  17,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "將息",
+              "meaning": "調養休息",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "淡酒",
+              "meaning": "無力禦寒解愁的酒",
+              "spans": [
+                [
+                  33,
+                  35
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "敵",
+              "meaning": "抵擋",
+              "spans": [
+                [
+                  37,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "晚來",
+              "meaning": "傍晚；另本作曉來",
+              "spans": [
+                [
+                  39,
+                  41
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "舊時相識",
+              "meaning": "熟悉的大雁",
+              "spans": [
+                [
+                  54,
+                  58
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-09-01-04": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 240,
+          "printedPage": 236,
+          "blockPath": "$[15].pages[9].blocks[1][1][4]",
+          "anchor": "感受 尋而不得，孤寂與悲愁加深。 反覆尋找後突然得見，形成驚喜；末景又留下幽靜的餘味。",
+          "excerpt": "尋而不得，孤寂與悲愁加深。；反覆尋找後突然得見，形成驚喜；末景又留下幽靜的餘味。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "聲聲慢・秋情",
+              "section": "上片｜原文與語譯",
+              "pdfPage": 225,
+              "printedPage": 221,
+              "blockPath": "$[14].pages[1].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+              "excerpt": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+              "essayId": "essay-15"
+            },
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "聲聲慢・秋情",
+              "section": "下片｜原文與語譯",
+              "pdfPage": 226,
+              "printedPage": 222,
+              "blockPath": "$[14].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "滿地黃花堆積，憔悴損，如今有誰堪摘？守着窗兒，獨自怎生得黑！梧桐更兼細雨，到黃昏、點點滴滴。這次第，怎一箇愁字了得！",
+              "excerpt": "滿地黃花堆積，憔悴損，如今有誰堪摘？守着窗兒，獨自怎生得黑！梧桐更兼細雨，到黃昏、點點滴滴。這次第，怎一箇愁字了得！",
+              "essayId": "essay-15"
+            },
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "青玉案・元夕",
+              "section": "下片｜原文與語譯",
+              "pdfPage": 235,
+              "printedPage": 231,
+              "blockPath": "$[15].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+              "excerpt": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+              "essayId": "essay-16"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "感受",
+          "尋而不得，孤寂與悲愁加深。",
+          "反覆尋找後突然得見，形成驚喜；末景又留下幽靜的餘味。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "聲聲慢・秋情",
+          "section": "上片｜原文與語譯",
+          "pdfPage": 225,
+          "printedPage": 221,
+          "blockPath": "$[14].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+          "excerpt": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+          "essayId": "essay-15"
+        },
+        "resolvedBlock": [
+          "annot",
+          "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+          [
+            [
+              "尋尋覓覓",
+              "反覆尋找、若有所失",
+              "blue"
+            ],
+            [
+              "冷冷清清",
+              "環境寂靜冷落",
+              "blue"
+            ],
+            [
+              "悽悽慘慘戚戚",
+              "內心悽慘悲戚",
+              "blue"
+            ],
+            [
+              "乍煖還寒",
+              "剛暖又寒，冷暖不定",
+              "blue"
+            ],
+            [
+              "將息",
+              "調養休息",
+              "blue"
+            ],
+            [
+              "淡酒",
+              "無力禦寒解愁的酒",
+              "blue"
+            ],
+            [
+              "敵",
+              "抵擋",
+              "blue"
+            ],
+            [
+              "晚來",
+              "傍晚；另本作曉來",
+              "blue"
+            ],
+            [
+              "舊時相識",
+              "熟悉的大雁",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "尋尋覓覓",
+              "meaning": "反覆尋找、若有所失",
+              "spans": [
+                [
+                  0,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "冷冷清清",
+              "meaning": "環境寂靜冷落",
+              "spans": [
+                [
+                  5,
+                  9
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "悽悽慘慘戚戚",
+              "meaning": "內心悽慘悲戚",
+              "spans": [
+                [
+                  10,
+                  16
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "乍煖還寒",
+              "meaning": "剛暖又寒，冷暖不定",
+              "spans": [
+                [
+                  17,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "將息",
+              "meaning": "調養休息",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "淡酒",
+              "meaning": "無力禦寒解愁的酒",
+              "spans": [
+                [
+                  33,
+                  35
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "敵",
+              "meaning": "抵擋",
+              "spans": [
+                [
+                  37,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "晚來",
+              "meaning": "傍晚；另本作曉來",
+              "spans": [
+                [
+                  39,
+                  41
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "舊時相識",
+              "meaning": "熟悉的大雁",
+              "spans": [
+                [
+                  54,
+                  58
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "聲聲慢・秋情",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 226,
+          "printedPage": 222,
+          "blockPath": "$[14].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "滿地黃花堆積，憔悴損，如今有誰堪摘？守着窗兒，獨自怎生得黑！梧桐更兼細雨，到黃昏、點點滴滴。這次第，怎一箇愁字了得！",
+          "excerpt": "滿地黃花堆積，憔悴損，如今有誰堪摘？守着窗兒，獨自怎生得黑！梧桐更兼細雨，到黃昏、點點滴滴。這次第，怎一箇愁字了得！",
+          "essayId": "essay-15"
+        },
+        "resolvedBlock": [
+          "annot",
+          "滿地黃花堆積，憔悴損，如今有誰堪摘？守着窗兒，獨自怎生得黑！梧桐更兼細雨，到黃昏、點點滴滴。這次第，怎一箇愁字了得！",
+          [
+            [
+              "黃花",
+              "菊花",
+              "blue"
+            ],
+            [
+              "憔悴損",
+              "憔悴得厲害；花人兩解",
+              "blue"
+            ],
+            [
+              "堪",
+              "可以",
+              "blue"
+            ],
+            [
+              "怎生",
+              "怎樣",
+              "blue"
+            ],
+            [
+              "得黑",
+              "熬到天黑",
+              "blue"
+            ],
+            [
+              "更兼",
+              "更加上",
+              "blue"
+            ],
+            [
+              "次第",
+              "光景、情形",
+              "blue"
+            ],
+            [
+              "箇",
+              "同個",
+              "blue"
+            ],
+            [
+              "了得",
+              "概括、說盡",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "黃花",
+              "meaning": "菊花",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "憔悴損",
+              "meaning": "憔悴得厲害；花人兩解",
+              "spans": [
+                [
+                  7,
+                  10
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "堪",
+              "meaning": "可以",
+              "spans": [
+                [
+                  15,
+                  16
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "怎生",
+              "meaning": "怎樣",
+              "spans": [
+                [
+                  25,
+                  27
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "得黑",
+              "meaning": "熬到天黑",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "更兼",
+              "meaning": "更加上",
+              "spans": [
+                [
+                  32,
+                  34
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "次第",
+              "meaning": "光景、情形",
+              "spans": [
+                [
+                  47,
+                  49
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "箇",
+              "meaning": "同個",
+              "spans": [
+                [
+                  52,
+                  53
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "了得",
+              "meaning": "概括、說盡",
+              "spans": [
+                [
+                  55,
+                  57
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "青玉案・元夕",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          "excerpt": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          "essayId": "essay-16"
+        },
+        "resolvedBlock": [
+          "annot",
+          "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          [
+            [
+              "蛾兒",
+              "蛾蝶形頭飾",
+              "blue"
+            ],
+            [
+              "雪柳",
+              "柳狀頭飾",
+              "blue"
+            ],
+            [
+              "黃金縷",
+              "金色頭飾",
+              "blue"
+            ],
+            [
+              "盈盈",
+              "儀態輕盈美好",
+              "blue"
+            ],
+            [
+              "暗香",
+              "幽香",
+              "blue"
+            ],
+            [
+              "千百度",
+              "千百次，極言多次",
+              "blue"
+            ],
+            [
+              "驀然",
+              "突然、忽然",
+              "blue"
+            ],
+            [
+              "迴首",
+              "回頭",
+              "blue"
+            ],
+            [
+              "闌珊",
+              "稀疏、暗淡",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "蛾兒",
+              "meaning": "蛾蝶形頭飾",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雪柳",
+              "meaning": "柳狀頭飾",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "黃金縷",
+              "meaning": "金色頭飾",
+              "spans": [
+                [
+                  4,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "盈盈",
+              "meaning": "儀態輕盈美好",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "暗香",
+              "meaning": "幽香",
+              "spans": [
+                [
+                  12,
+                  14
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "千百度",
+              "meaning": "千百次，極言多次",
+              "spans": [
+                [
+                  20,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "驀然",
+              "meaning": "突然、忽然",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "迴首",
+              "meaning": "回頭",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "闌珊",
+              "meaning": "稀疏、暗淡",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-09-03-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 240,
+          "printedPage": 236,
+          "blockPath": "$[15].pages[9].blocks[3][1][1]",
+          "anchor": "《念奴嬌》 蘇軾面對赤壁江山，追想三國周瑜的戰功；觀景者生活於北宋。 今人懷古，再以英雄反照自己的處境，從仰慕走向自傷、自解。",
+          "excerpt": "蘇軾面對赤壁江山，追想三國周瑜的戰功；觀景者生活於北宋。；今人懷古，再以英雄反照自己的處境，從仰慕走向自傷、自解。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "念奴嬌・赤壁懷古",
+              "section": "下片｜原文與語譯",
+              "pdfPage": 215,
+              "printedPage": 211,
+              "blockPath": "$[13].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+              "excerpt": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+              "essayId": "essay-14"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "《念奴嬌》",
+          "蘇軾面對赤壁江山，追想三國周瑜的戰功；觀景者生活於北宋。",
+          "今人懷古，再以英雄反照自己的處境，從仰慕走向自傷、自解。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "念奴嬌・赤壁懷古",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 215,
+          "printedPage": 211,
+          "blockPath": "$[13].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "excerpt": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "essayId": "essay-14"
+        },
+        "resolvedBlock": [
+          "annot",
+          "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          [
+            [
+              "公瑾",
+              "周瑜的字",
+              "blue"
+            ],
+            [
+              "雄姿英發",
+              "雄姿英偉、才華煥發",
+              "blue"
+            ],
+            [
+              "羽扇綸巾",
+              "儒將的扇與頭巾",
+              "blue"
+            ],
+            [
+              "檣櫓",
+              "船具，借代曹軍戰船",
+              "blue"
+            ],
+            [
+              "故國",
+              "赤壁故地、三國古戰場",
+              "blue"
+            ],
+            [
+              "神遊",
+              "在想像中遊歷",
+              "blue"
+            ],
+            [
+              "華髮",
+              "花白頭髮",
+              "blue"
+            ],
+            [
+              "尊",
+              "酒器，亦指一杯酒",
+              "blue"
+            ],
+            [
+              "酹",
+              "灑酒祭奠",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "公瑾",
+              "meaning": "周瑜的字",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雄姿英發",
+              "meaning": "雄姿英偉、才華煥發",
+              "spans": [
+                [
+                  13,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "羽扇綸巾",
+              "meaning": "儒將的扇與頭巾",
+              "spans": [
+                [
+                  18,
+                  22
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "檣櫓",
+              "meaning": "船具，借代曹軍戰船",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "故國",
+              "meaning": "赤壁故地、三國古戰場",
+              "spans": [
+                [
+                  34,
+                  36
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "神遊",
+              "meaning": "在想像中遊歷",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "華髮",
+              "meaning": "花白頭髮",
+              "spans": [
+                [
+                  47,
+                  49
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "尊",
+              "meaning": "酒器，亦指一杯酒",
+              "spans": [
+                [
+                  56,
+                  57
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "酹",
+              "meaning": "灑酒祭奠",
+              "spans": [
+                [
+                  58,
+                  59
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-09-03-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 240,
+          "printedPage": 236,
+          "blockPath": "$[15].pages[9].blocks[3][1][2]",
+          "anchor": "《聲聲慢》 秋日居處，詞人獨自面對酒、雁、黃花、梧桐細雨。 眼前景物逐層牽動舊事，愁緒難以排遣。",
+          "excerpt": "秋日居處，詞人獨自面對酒、雁、黃花、梧桐細雨。；眼前景物逐層牽動舊事，愁緒難以排遣。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+              "version": "2026-09-14",
+              "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "pdfPage": 224,
+              "printedPage": 220,
+              "blockPath": "$[14].pages[1].blocks[0]",
+              "anchor": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+              "excerpt": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+              "essayId": "essay-15",
+              "essayTitle": "聲聲慢・秋情"
+            },
+            {
+              "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+              "version": "2026-09-14",
+              "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "pdfPage": 224,
+              "printedPage": 220,
+              "blockPath": "$[14].pages[2].blocks[0]",
+              "anchor": "滿地黃花堆積，憔悴損，如今有誰堪摘？守着窗兒，獨自怎生得黑！梧桐更兼細雨，到黃昏、點點滴滴。這次第，怎一箇愁字了得！",
+              "excerpt": "滿地黃花堆積，憔悴損，如今有誰堪摘？守着窗兒，獨自怎生得黑！梧桐更兼細雨，到黃昏、點點滴滴。這次第，怎一箇愁字了得！",
+              "essayId": "essay-15",
+              "essayTitle": "聲聲慢・秋情"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "《聲聲慢》",
+          "秋日居處，詞人獨自面對酒、雁、黃花、梧桐細雨。",
+          "眼前景物逐層牽動舊事，愁緒難以排遣。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 224,
+          "printedPage": 220,
+          "blockPath": "$[14].pages[1].blocks[0]",
+          "anchor": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+          "excerpt": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+          "essayId": "essay-15",
+          "essayTitle": "聲聲慢・秋情"
+        },
+        "resolvedBlock": [
+          "annot",
+          "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+          [
+            [
+              "尋尋覓覓",
+              "反覆尋找、若有所失",
+              "blue"
+            ],
+            [
+              "冷冷清清",
+              "環境寂靜冷落",
+              "blue"
+            ],
+            [
+              "悽悽慘慘戚戚",
+              "內心悽慘悲戚",
+              "blue"
+            ],
+            [
+              "乍煖還寒",
+              "剛暖又寒，冷暖不定",
+              "blue"
+            ],
+            [
+              "將息",
+              "調養休息",
+              "blue"
+            ],
+            [
+              "淡酒",
+              "無力禦寒解愁的酒",
+              "blue"
+            ],
+            [
+              "敵",
+              "抵擋",
+              "blue"
+            ],
+            [
+              "晚來",
+              "傍晚；另本作曉來",
+              "blue"
+            ],
+            [
+              "舊時相識",
+              "熟悉的大雁",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "尋尋覓覓",
+              "meaning": "反覆尋找、若有所失",
+              "spans": [
+                [
+                  0,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "冷冷清清",
+              "meaning": "環境寂靜冷落",
+              "spans": [
+                [
+                  5,
+                  9
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "悽悽慘慘戚戚",
+              "meaning": "內心悽慘悲戚",
+              "spans": [
+                [
+                  10,
+                  16
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "乍煖還寒",
+              "meaning": "剛暖又寒，冷暖不定",
+              "spans": [
+                [
+                  17,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "將息",
+              "meaning": "調養休息",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "淡酒",
+              "meaning": "無力禦寒解愁的酒",
+              "spans": [
+                [
+                  33,
+                  35
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "敵",
+              "meaning": "抵擋",
+              "spans": [
+                [
+                  37,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "晚來",
+              "meaning": "傍晚；另本作曉來",
+              "spans": [
+                [
+                  39,
+                  41
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "舊時相識",
+              "meaning": "熟悉的大雁",
+              "spans": [
+                [
+                  54,
+                  58
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 224,
+          "printedPage": 220,
+          "blockPath": "$[14].pages[2].blocks[0]",
+          "anchor": "滿地黃花堆積，憔悴損，如今有誰堪摘？守着窗兒，獨自怎生得黑！梧桐更兼細雨，到黃昏、點點滴滴。這次第，怎一箇愁字了得！",
+          "excerpt": "滿地黃花堆積，憔悴損，如今有誰堪摘？守着窗兒，獨自怎生得黑！梧桐更兼細雨，到黃昏、點點滴滴。這次第，怎一箇愁字了得！",
+          "essayId": "essay-15",
+          "essayTitle": "聲聲慢・秋情"
+        },
+        "resolvedBlock": [
+          "annot",
+          "滿地黃花堆積，憔悴損，如今有誰堪摘？守着窗兒，獨自怎生得黑！梧桐更兼細雨，到黃昏、點點滴滴。這次第，怎一箇愁字了得！",
+          [
+            [
+              "黃花",
+              "菊花",
+              "blue"
+            ],
+            [
+              "憔悴損",
+              "憔悴得厲害；花人兩解",
+              "blue"
+            ],
+            [
+              "堪",
+              "可以",
+              "blue"
+            ],
+            [
+              "怎生",
+              "怎樣",
+              "blue"
+            ],
+            [
+              "得黑",
+              "熬到天黑",
+              "blue"
+            ],
+            [
+              "更兼",
+              "更加上",
+              "blue"
+            ],
+            [
+              "次第",
+              "光景、情形",
+              "blue"
+            ],
+            [
+              "箇",
+              "同個",
+              "blue"
+            ],
+            [
+              "了得",
+              "概括、說盡",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "黃花",
+              "meaning": "菊花",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "憔悴損",
+              "meaning": "憔悴得厲害；花人兩解",
+              "spans": [
+                [
+                  7,
+                  10
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "堪",
+              "meaning": "可以",
+              "spans": [
+                [
+                  15,
+                  16
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "怎生",
+              "meaning": "怎樣",
+              "spans": [
+                [
+                  25,
+                  27
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "得黑",
+              "meaning": "熬到天黑",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "更兼",
+              "meaning": "更加上",
+              "spans": [
+                [
+                  32,
+                  34
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "次第",
+              "meaning": "光景、情形",
+              "spans": [
+                [
+                  47,
+                  49
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "箇",
+              "meaning": "同個",
+              "spans": [
+                [
+                  52,
+                  53
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "了得",
+              "meaning": "概括、說盡",
+              "spans": [
+                [
+                  55,
+                  57
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-09-03-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 240,
+          "printedPage": 236,
+          "blockPath": "$[15].pages[9].blocks[3][1][3]",
+          "anchor": "《青玉案》 春天元夕夜的燈市，賞燈人群中尋覓那人。 繁華熱鬧與闌珊處相對，突出所尋者的不同。",
+          "excerpt": "春天元夕夜的燈市，賞燈人群中尋覓那人。；繁華熱鬧與闌珊處相對，突出所尋者的不同。"
+        },
+        "resolvedBlock": [
+          "《青玉案》",
+          "春天元夕夜的燈市，賞燈人群中尋覓那人。",
+          "繁華熱鬧與闌珊處相對，突出所尋者的不同。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-09-04-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 240,
+          "printedPage": 236,
+          "blockPath": "$[15].pages[9].blocks[4]",
+          "anchor": "共同點是把外在場景變成內心感受的依據；差異在於《念奴嬌》往返古今，《聲聲慢》由眼前觸發往事，《青玉案》沿尋人過程推進。",
+          "excerpt": "共同點是把外在場景變成內心感受的依據；差異在於《念奴嬌》往返古今，《聲聲慢》由眼前觸發往事，《青玉案》沿尋人過程推進。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "念奴嬌・赤壁懷古",
+              "section": "下片｜原文與語譯",
+              "pdfPage": 215,
+              "printedPage": 211,
+              "blockPath": "$[13].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+              "excerpt": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+              "essayId": "essay-14"
+            },
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "聲聲慢・秋情",
+              "section": "上片｜原文與語譯",
+              "pdfPage": 225,
+              "printedPage": 221,
+              "blockPath": "$[14].pages[1].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+              "excerpt": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+              "essayId": "essay-15"
+            },
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "青玉案・元夕",
+              "section": "下片｜原文與語譯",
+              "pdfPage": 235,
+              "printedPage": 231,
+              "blockPath": "$[15].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+              "excerpt": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+              "essayId": "essay-16"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "text",
+          "共同點是把外在場景變成內心感受的依據；差異在於《念奴嬌》往返古今，《聲聲慢》由眼前觸發往事，《青玉案》沿尋人過程推進。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "念奴嬌・赤壁懷古",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 215,
+          "printedPage": 211,
+          "blockPath": "$[13].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "excerpt": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "essayId": "essay-14"
+        },
+        "resolvedBlock": [
+          "annot",
+          "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          [
+            [
+              "公瑾",
+              "周瑜的字",
+              "blue"
+            ],
+            [
+              "雄姿英發",
+              "雄姿英偉、才華煥發",
+              "blue"
+            ],
+            [
+              "羽扇綸巾",
+              "儒將的扇與頭巾",
+              "blue"
+            ],
+            [
+              "檣櫓",
+              "船具，借代曹軍戰船",
+              "blue"
+            ],
+            [
+              "故國",
+              "赤壁故地、三國古戰場",
+              "blue"
+            ],
+            [
+              "神遊",
+              "在想像中遊歷",
+              "blue"
+            ],
+            [
+              "華髮",
+              "花白頭髮",
+              "blue"
+            ],
+            [
+              "尊",
+              "酒器，亦指一杯酒",
+              "blue"
+            ],
+            [
+              "酹",
+              "灑酒祭奠",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "公瑾",
+              "meaning": "周瑜的字",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雄姿英發",
+              "meaning": "雄姿英偉、才華煥發",
+              "spans": [
+                [
+                  13,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "羽扇綸巾",
+              "meaning": "儒將的扇與頭巾",
+              "spans": [
+                [
+                  18,
+                  22
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "檣櫓",
+              "meaning": "船具，借代曹軍戰船",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "故國",
+              "meaning": "赤壁故地、三國古戰場",
+              "spans": [
+                [
+                  34,
+                  36
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "神遊",
+              "meaning": "在想像中遊歷",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "華髮",
+              "meaning": "花白頭髮",
+              "spans": [
+                [
+                  47,
+                  49
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "尊",
+              "meaning": "酒器，亦指一杯酒",
+              "spans": [
+                [
+                  56,
+                  57
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "酹",
+              "meaning": "灑酒祭奠",
+              "spans": [
+                [
+                  58,
+                  59
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "聲聲慢・秋情",
+          "section": "上片｜原文與語譯",
+          "pdfPage": 225,
+          "printedPage": 221,
+          "blockPath": "$[14].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+          "excerpt": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+          "essayId": "essay-15"
+        },
+        "resolvedBlock": [
+          "annot",
+          "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+          [
+            [
+              "尋尋覓覓",
+              "反覆尋找、若有所失",
+              "blue"
+            ],
+            [
+              "冷冷清清",
+              "環境寂靜冷落",
+              "blue"
+            ],
+            [
+              "悽悽慘慘戚戚",
+              "內心悽慘悲戚",
+              "blue"
+            ],
+            [
+              "乍煖還寒",
+              "剛暖又寒，冷暖不定",
+              "blue"
+            ],
+            [
+              "將息",
+              "調養休息",
+              "blue"
+            ],
+            [
+              "淡酒",
+              "無力禦寒解愁的酒",
+              "blue"
+            ],
+            [
+              "敵",
+              "抵擋",
+              "blue"
+            ],
+            [
+              "晚來",
+              "傍晚；另本作曉來",
+              "blue"
+            ],
+            [
+              "舊時相識",
+              "熟悉的大雁",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "尋尋覓覓",
+              "meaning": "反覆尋找、若有所失",
+              "spans": [
+                [
+                  0,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "冷冷清清",
+              "meaning": "環境寂靜冷落",
+              "spans": [
+                [
+                  5,
+                  9
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "悽悽慘慘戚戚",
+              "meaning": "內心悽慘悲戚",
+              "spans": [
+                [
+                  10,
+                  16
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "乍煖還寒",
+              "meaning": "剛暖又寒，冷暖不定",
+              "spans": [
+                [
+                  17,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "將息",
+              "meaning": "調養休息",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "淡酒",
+              "meaning": "無力禦寒解愁的酒",
+              "spans": [
+                [
+                  33,
+                  35
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "敵",
+              "meaning": "抵擋",
+              "spans": [
+                [
+                  37,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "晚來",
+              "meaning": "傍晚；另本作曉來",
+              "spans": [
+                [
+                  39,
+                  41
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "舊時相識",
+              "meaning": "熟悉的大雁",
+              "spans": [
+                [
+                  54,
+                  58
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "青玉案・元夕",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          "excerpt": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          "essayId": "essay-16"
+        },
+        "resolvedBlock": [
+          "annot",
+          "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          [
+            [
+              "蛾兒",
+              "蛾蝶形頭飾",
+              "blue"
+            ],
+            [
+              "雪柳",
+              "柳狀頭飾",
+              "blue"
+            ],
+            [
+              "黃金縷",
+              "金色頭飾",
+              "blue"
+            ],
+            [
+              "盈盈",
+              "儀態輕盈美好",
+              "blue"
+            ],
+            [
+              "暗香",
+              "幽香",
+              "blue"
+            ],
+            [
+              "千百度",
+              "千百次，極言多次",
+              "blue"
+            ],
+            [
+              "驀然",
+              "突然、忽然",
+              "blue"
+            ],
+            [
+              "迴首",
+              "回頭",
+              "blue"
+            ],
+            [
+              "闌珊",
+              "稀疏、暗淡",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "蛾兒",
+              "meaning": "蛾蝶形頭飾",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雪柳",
+              "meaning": "柳狀頭飾",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "黃金縷",
+              "meaning": "金色頭飾",
+              "spans": [
+                [
+                  4,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "盈盈",
+              "meaning": "儀態輕盈美好",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "暗香",
+              "meaning": "幽香",
+              "spans": [
+                [
+                  12,
+                  14
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "千百度",
+              "meaning": "千百次，極言多次",
+              "spans": [
+                [
+                  20,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "驀然",
+              "meaning": "突然、忽然",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "迴首",
+              "meaning": "回頭",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "闌珊",
+              "meaning": "稀疏、暗淡",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-11-00-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 241,
+          "printedPage": 237,
+          "blockPath": "$[15].pages[11].blocks[0]",
+          "anchor": "本篇主線以「星」為煙花、「玉壺」為明月；另有花燈、漏壺等解釋。那人可從愛情尋覓理解，也可寄託不隨俗的高潔理想；後者是寓意解讀，不抹去詞面尋人的故事。",
+          "excerpt": "本篇主線以「星」為煙花、「玉壺」為明月；另有花燈、漏壺等解釋。那人可從愛情尋覓理解，也可寄託不隨俗的高潔理想；後者是寓意解讀，不抹去詞面尋人的故事。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "青玉案・元夕",
+              "section": "上片｜原文與語譯",
+              "pdfPage": 234,
+              "printedPage": 230,
+              "blockPath": "$[15].pages[1].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+              "excerpt": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+              "essayId": "essay-16"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "text",
+          "本篇主線以「星」為煙花、「玉壺」為明月；另有花燈、漏壺等解釋。那人可從愛情尋覓理解，也可寄託不隨俗的高潔理想；後者是寓意解讀，不抹去詞面尋人的故事。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "青玉案・元夕",
+          "section": "上片｜原文與語譯",
+          "pdfPage": 234,
+          "printedPage": 230,
+          "blockPath": "$[15].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+          "excerpt": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+          "essayId": "essay-16"
+        },
+        "resolvedBlock": [
+          "annot",
+          "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+          [
+            [
+              "東風",
+              "春風",
+              "blue"
+            ],
+            [
+              "花千樹",
+              "花燈如千樹繁花",
+              "blue"
+            ],
+            [
+              "星如雨",
+              "煙花如雨；另有燈說",
+              "blue"
+            ],
+            [
+              "寶馬",
+              "名貴駿馬",
+              "blue"
+            ],
+            [
+              "雕車",
+              "裝飾華麗的車",
+              "blue"
+            ],
+            [
+              "鳳簫",
+              "簫的美稱；亦說排簫",
+              "blue"
+            ],
+            [
+              "玉壺",
+              "主解明月；另有燈、漏壺說",
+              "blue"
+            ],
+            [
+              "光轉",
+              "光照位置隨時間轉移",
+              "blue"
+            ],
+            [
+              "魚龍舞",
+              "魚龍形彩燈舞動",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "東風",
+              "meaning": "春風",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "花千樹",
+              "meaning": "花燈如千樹繁花",
+              "spans": [
+                [
+                  4,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "星如雨",
+              "meaning": "煙花如雨；另有燈說",
+              "spans": [
+                [
+                  12,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "寶馬",
+              "meaning": "名貴駿馬",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "雕車",
+              "meaning": "裝飾華麗的車",
+              "spans": [
+                [
+                  18,
+                  20
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "鳳簫",
+              "meaning": "簫的美稱；亦說排簫",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "玉壺",
+              "meaning": "主解明月；另有燈、漏壺說",
+              "spans": [
+                [
+                  29,
+                  31
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "光轉",
+              "meaning": "光照位置隨時間轉移",
+              "spans": [
+                [
+                  31,
+                  33
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "魚龍舞",
+              "meaning": "魚龍形彩燈舞動",
+              "spans": [
+                [
+                  36,
+                  39
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-12-00-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 241,
+          "printedPage": 237,
+          "blockPath": "$[15].pages[12].blocks[0]",
+          "anchor": "前面愈繁華，結尾那人愈突出；全词的重心由滿城燈市逐漸收在一個人身上。",
+          "excerpt": "前面愈繁華，結尾那人愈突出；全词的重心由滿城燈市逐漸收在一個人身上。"
+        },
+        "resolvedBlock": [
+          "band",
+          "前面愈繁華，結尾那人愈突出；全词的重心由滿城燈市逐漸收在一個人身上。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-12-01-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 241,
+          "printedPage": 237,
+          "blockPath": "$[15].pages[12].blocks[1][1][1]",
+          "anchor": "先寫眾 燈、車、樂、舞與盛裝女子，從多感官建立熱鬧世界。",
+          "excerpt": "燈、車、樂、舞與盛裝女子，從多感官建立熱鬧世界。"
+        },
+        "resolvedBlock": [
+          "先寫眾",
+          "燈、車、樂、舞與盛裝女子，從多感官建立熱鬧世界。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-12-01-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 241,
+          "printedPage": 237,
+          "blockPath": "$[15].pages[12].blocks[1][1][2]",
+          "anchor": "再寫尋 千百度寫反覆與熱切，驀然寫發現的突然，形成敘事轉折。",
+          "excerpt": "千百度寫反覆與熱切，驀然寫發現的突然，形成敘事轉折。"
+        },
+        "resolvedBlock": [
+          "再寫尋",
+          "千百度寫反覆與熱切，驀然寫發現的突然，形成敘事轉折。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-12-01-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 241,
+          "printedPage": 237,
+          "blockPath": "$[15].pages[12].blocks[1][1][3]",
+          "anchor": "最後定形象 那人在闌珊處，與人群、亮處成反差；孤高自持的寓意由位置和氛圍支撐。",
+          "excerpt": "那人在闌珊處，與人群、亮處成反差；孤高自持的寓意由位置和氛圍支撐。"
+        },
+        "resolvedBlock": [
+          "最後定形象",
+          "那人在闌珊處，與人群、亮處成反差；孤高自持的寓意由位置和氛圍支撐。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ]
+  },
+  "scope": "來源定位、原文錨點和版本核對；自動檢查不代替內容審題。"
+}

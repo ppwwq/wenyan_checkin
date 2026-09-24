@@ -1,0 +1,60 @@
+{
+  "result": "PASS",
+  "chapterPhaseBankVersion": "2026.09.23.11",
+  "chapterPhaseBankSha256": "1abba7e307f2aea4dae9cb486173470c91958f2e58949f90f959cd159ade160b",
+  "integratedBankVersion": "2026.09.23.11",
+  "integratedBankSha256": "1abba7e307f2aea4dae9cb486173470c91958f2e58949f90f959cd159ade160b",
+  "uiVersion": "2026.09.23.4",
+  "chapterRevision": {
+    "version": "2026.09.23.11",
+    "baselineVersion": "2026.09.23.10",
+    "essayId": "essay-05",
+    "questions": 231,
+    "explanationsRewritten": 231,
+    "optionTextChangedQuestions": 35,
+    "changedOptionTexts": 78,
+    "stemChanged": 4,
+    "highlightChanged": 2,
+    "untouchedQuestions": 1903,
+    "independentReview": "not-run",
+    "studentTrial": "not-run",
+    "scope": "按篇章全題修訂；作者自檢。先前 qualityRevisionSummary 只記舊版階段，不代表本版改寫後仍獲獨立覆核。",
+    "currentReviewMethods": {
+      "source-review-and-author-self-check": 771,
+      "source-aligned-agent-review": 567,
+      "context-vocabulary-distractor-review": 57,
+      "source-review-and-agent-cross-review": 169,
+      "text-grounded-mcq-editorial-review": 499,
+      "source-preserving-mcq-review": 71
+    }
+  },
+  "sourceLocatorsChecked": 355,
+  "freshPdfPagesChecked": 30,
+  "sourceErrors": [],
+  "wholeBankQuestions": 2134,
+  "currentUniqueChapterRevisions": 771,
+  "unchangedFromPreviousVersion": 1903,
+  "identityAnswerMemoryQuoteAndSourcesPreserved": true,
+  "tests": {
+    "chapterProtectionAndSequence": {
+      "passCount": 10,
+      "failCount": 0
+    },
+    "application": {
+      "passCount": 46,
+      "failCount": 0
+    },
+    "fullBankStructureAndSources": "PASS",
+    "rebuildSameSha256": true,
+    "localBuild": "PASS",
+    "builtBankMatchesSource": true
+  },
+  "reportCards": 231,
+  "externalReportResources": [],
+  "reviewMethod": "source-review-and-author-self-check",
+  "teacherValidation": "not-run",
+  "studentTrial": "not-run",
+  "browserVisualValidation": "not-run",
+  "deployment": "not-run",
+  "nextChapter": "essay-06 出師表 181 questions"
+}

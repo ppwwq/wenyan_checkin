@@ -1,4 +1,5 @@
-import {validTraining} from '../domain/training.mjs';
+import {validateBackup,mergeBackupEvents} from './backup.mjs';
+export {validateBackup} from './backup.mjs';
 export class Repository {
  constructor(userId,db){this.userId=userId;this.db=db;}
  static async open(userId){
@@ -13,15 +14,31 @@ export class Repository {
  async merge(events,ackIds=[]){const ack=new Set(ackIds);await new Promise((resolve,reject)=>{const tx=this.db.transaction('events','readwrite'),s=tx.objectStore('events'),r=s.getAll();r.onsuccess=()=>{const map=new Map(r.result.map(e=>[e.id,e]));for(const e of events)map.set(e.id,{...e,pending:false});for(const id of ack){const e=map.get(id);if(e)map.set(id,{...e,pending:false});}for(const e of map.values())s.put(e);};tx.oncomplete=resolve;tx.onerror=()=>reject(tx.error);});}
  async get(key){return this.transaction('meta','readonly',s=>s.get(key));}
  async set(key,value){return this.transaction('meta','readwrite',s=>s.put(value,key));}
+ async importBackup(data){
+  const incoming=validateBackup(data,this.userId);
+  return new Promise((resolve,reject)=>{
+   const tx=this.db.transaction('events','readwrite'),store=tx.objectStore('events'),request=store.getAll();let error,count=0;
+   request.onsuccess=()=>{
+    try{
+     mergeBackupEvents(request.result,incoming);
+     const known=new Set(request.result.map(e=>e.id));
+     for(const e of incoming)if(!known.has(e.id)){store.add({...e,pending:true});count++;}
+    }catch(e){error=e;tx.abort();}
+   };
+   tx.oncomplete=()=>resolve(count);
+   tx.onerror=()=>reject(error||tx.error);
+   tx.onabort=()=>reject(error||tx.error||new Error('備份未寫入，現有記錄保留'));
+  });
+ }
+ async exportBackup(){
+  const events=await this.events(),keys=await this.transaction('meta','readonly',s=>s.getAllKeys());
+  for(const key of keys.filter(key=>typeof key==='string'&&key.startsWith('draft-session/'))){
+   const draft=await this.get(key);if(!draft?.id)continue;
+   const latest=events.filter(e=>e.type==='session'&&e.payload.session.id===draft.id).sort((a,b)=>(b.payload.session.revision||0)-(a.payload.session.revision||0))[0];
+   if(!latest||(draft.revision||0)>(latest.payload.session.revision||0))events.push({id:'backup-draft/'+draft.id+'/'+(draft.revision||0),type:'session',payload:{session:draft},createdAt:latest?.createdAt||draft.startedAt});
+  }
+  return {format:'wenyan-backup-v1',userId:this.userId,exportedAt:new Date().toISOString(),events};
+ }
  close(){this.db.close();}
 }
 export const event=(type,payload,id=crypto.randomUUID())=>({id,type,payload,createdAt:new Date().toISOString()});
-export function validateBackup(data,userId){
- if(data?.format!=='wenyan-backup-v1'||data.userId!==userId||!Array.isArray(data.events))throw new Error('備份格式不符或屬於另一個帳號');
- const types=new Set(['attempt','assessment','favorite','report','browse','session','settings']);
- if(data.events.some(e=>!e.id||!types.has(e.type)||!e.payload||!Number.isFinite(Date.parse(e.createdAt))))throw new Error('備份包含無效記錄');
- if(data.events.some(e=>e.type==='settings'&&e.payload.training!==undefined&&!validTraining(e.payload.training)))throw new Error('備份學習設定無效');
- if(data.events.some(e=>e.type==='settings'&&e.payload.dailyGoal!==undefined&&(!/^\d{4}-\d{2}-\d{2}$/.test(e.payload.dailyGoal?.day)||!Number.isInteger(e.payload.dailyGoal?.count)||e.payload.dailyGoal.count<1||e.payload.dailyGoal.count>100)))throw new Error('備份每日目標無效');
- return [...new Map(data.events.map(e=>[e.id,e])).values()];
-}
-

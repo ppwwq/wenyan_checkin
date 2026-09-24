@@ -1,0 +1,4883 @@
+{
+  "baselineVersion": "2026.09.23.13",
+  "date": "2026-09-23",
+  "author": "Codex chapter author",
+  "reviewMethod": "source-review-and-author-self-check",
+  "records": [
+    {
+      "id": "q-e08-exp-001",
+      "ordinal": 1,
+      "baseQuestionHash": "049f810ab74483010f551e0701da9890b7284d754b3b1437caab9b864c971583",
+      "patch": {
+        "explanation": "惴慄是恐懼不安，寫被貶之後心中常有的憂懼。前文僇人交代受罰身分，恒說這種狀態經常出現；後文即使行止閒緩，也不能倒過來認定內心早已自在。",
+        "summary": "惴慄是恐懼不安，寫被貶之後心中常有的憂懼。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "悲傷懷念",
+            "explanation": "悲傷懷念偏重失落與追憶，未說出惴慄的害怕。"
+          },
+          {
+            "id": "b",
+            "text": "憤怒不平",
+            "explanation": "憤怒是對外不滿，惴慄重自身感到恐懼。"
+          },
+          {
+            "id": "c",
+            "text": "歡欣自得",
+            "explanation": "隨意漫遊是外在姿態，不能用來把開篇的憂懼解成歡欣。"
+          },
+          {
+            "id": "d",
+            "text": "恐懼不安",
+            "explanation": "惴慄是恐懼不安，寫被貶之後心中常有的憂懼。"
+          }
+        ],
+        "misconception": "悲傷懷念偏重失落與追憶，未說出惴慄的害怕；憤怒是對外不滿，惴慄重自身感到恐懼；隨意漫遊是外在姿態，不能用來把開篇的憂懼解成歡欣。"
+      },
+      "objective": "文句中「惴慄」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e08-exp-002",
+      "ordinal": 2,
+      "baseQuestionHash": "7d7a4b766cd9ed834aad7d510738012b6ba5cc2dba9c9849d8759bdf7d2fb516",
+      "patch": {
+        "explanation": "窮是走到盡頭，窮迴溪即沿曲折溪流一直探到盡處。它與上高山、入深林並列，三者都寫遊蹤及探尋動作；窮後面接溪流，並非在交代經濟狀況。",
+        "summary": "窮是走到盡頭，窮迴溪即沿曲折溪流一直探到盡處。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "困在溪邊",
+            "explanation": "上、入、窮連寫探遊進程，窮迴溪指探至盡處，非困住不能走。"
+          },
+          {
+            "id": "b",
+            "text": "追究源流成因",
+            "explanation": "這裏記走到哪裏，不是在研究溪流形成的道理。"
+          },
+          {
+            "id": "c",
+            "text": "走到盡頭",
+            "explanation": "窮是走到盡頭，窮迴溪即沿曲折溪流一直探到盡處。"
+          },
+          {
+            "id": "d",
+            "text": "溪水流盡",
+            "explanation": "窮的主體是出遊者，不能轉成水流枯盡。"
+          }
+        ],
+        "misconception": "上、入、窮連寫探遊進程，窮迴溪指探至盡處，非困住不能走；這裏記走到哪裏，不是在研究溪流形成的道理；窮的主體是出遊者，不能轉成水流枯盡。"
+      },
+      "objective": "文句中「窮」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "q-e08-exp-003",
+      "ordinal": 3,
+      "baseQuestionHash": "32dac1562a3fd07bac072037d3b5b3686ab8ab3a510363d6dcbace10edf9568f",
+      "patch": {
+        "explanation": "緣是沿着，緣染溪就是順着染溪前行。前一句過湘江說渡江，這句續交代沿溪的路線，後面才寫砍木燒草開路；辨義要把連續行程接起來。",
+        "summary": "緣是沿着，緣染溪就是順着染溪前行。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "因為",
+            "explanation": "因為表示原因，染溪在此是沿行的地點而非因由。"
+          },
+          {
+            "id": "b",
+            "text": "沿着",
+            "explanation": "緣是沿着，緣染溪就是順着染溪前行。"
+          },
+          {
+            "id": "c",
+            "text": "憑藉",
+            "explanation": "憑藉重借助的手段，此處交代的是沿溪走的方向。"
+          },
+          {
+            "id": "d",
+            "text": "機緣",
+            "explanation": "機緣是名詞，不能與過、斫等行動並列。"
+          }
+        ],
+        "misconception": "因為表示原因，染溪在此是沿行的地點而非因由；憑藉重借助的手段，此處交代的是沿溪走的方向；機緣是名詞，不能與過、斫等行動並列。"
+      },
+      "objective": "文句中「緣」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e08-exp-004",
+      "ordinal": 4,
+      "baseQuestionHash": "9ce8703f6ccbb5957c9aaa90e9103b30162d6d65823022589eb867f1631b6a87",
+      "patch": {
+        "explanation": "嚮是從前，把吾嚮之未始遊連起來就是我從前未曾真正遊覽。後句遊於是乎始與之對照，分清以前雖常出遊、這次才領悟真趣；嚮所標示的是時間。",
+        "summary": "嚮是從前，把吾嚮之未始遊連起來就是我從前未曾真正遊覽。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "從前",
+            "explanation": "嚮是從前，把吾嚮之未始遊連起來就是我從前未曾真正遊覽。"
+          },
+          {
+            "id": "b",
+            "text": "朝向",
+            "explanation": "朝向說方向，但此處把從前與這次相比。"
+          },
+          {
+            "id": "c",
+            "text": "嚮往",
+            "explanation": "嚮往是心中盼望，不能與未始遊構成此處的時間對照。"
+          },
+          {
+            "id": "d",
+            "text": "回響",
+            "explanation": "回響說聲音，本文是在回顧自己的遊賞體會。"
+          }
+        ],
+        "misconception": "朝向說方向，但此處把從前與這次相比；嚮往是心中盼望，不能與未始遊構成此處的時間對照；回響說聲音，本文是在回顧自己的遊賞體會。"
+      },
+      "objective": "文句中「嚮」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e08-exp-005",
+      "ordinal": 5,
+      "baseQuestionHash": "e0bd7d43b25e26a33006ef5e9613d62ef983a4719193f5b3b9333ca4dd4daaad",
+      "patch": {
+        "explanation": "志是記述，為之文以志即寫文章記下這次宴遊與體悟。為文是做甚麼，以志是為甚麼做，兩部分構成行動與目的，並非立志或默記於心。",
+        "summary": "志是記述，為之文以志即寫文章記下這次宴遊與體悟。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "志向",
+            "explanation": "志向是心中追求，不能解釋此處寫文章的記錄作用。"
+          },
+          {
+            "id": "b",
+            "text": "標示方位",
+            "explanation": "作文記錄宴遊體悟，原文未將志限為標示地點方位。"
+          },
+          {
+            "id": "c",
+            "text": "默記心中",
+            "explanation": "為文已說用文字留下紀錄，不是僅在心中記住。"
+          },
+          {
+            "id": "d",
+            "text": "記述",
+            "explanation": "志是記述，為之文以志即寫文章記下這次宴遊與體悟。"
+          }
+        ],
+        "misconception": "志向是心中追求，不能解釋此處寫文章的記錄作用；作文記錄宴遊體悟，原文未將志限為標示地點方位；為文已說用文字留下紀錄，不是僅在心中記住。"
+      },
+      "objective": "文句中「志」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "q-e08-exp-006",
+      "ordinal": 6,
+      "baseQuestionHash": "66a771588a5f0acf3c0be91ced66fe68a0a243488f2e4bb3dcbcfee2078a5787",
+      "patch": {
+        "explanation": "心凝形釋寫心神安定、彷彿放下形體拘束，進而與自然萬物融通。冥合緊接其後，說明這是忘我體驗；它超出身體休息，也沒有宣告被貶身分已取消。",
+        "summary": "心凝形釋寫心神安定、彷彿放下形體拘束，進而與自然萬物融通。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "登高後由疲乏轉為舒適，藉醉眠補充體力",
+            "explanation": "此處沒有補眠恢復體力的情節，形釋說的是拘束感鬆開。"
+          },
+          {
+            "id": "b",
+            "text": "醉後夢境隨意念而行，暫避被貶的憂懼",
+            "explanation": "夢隨意往屬舊遊，不能代替此時與萬物相融的新所得。"
+          },
+          {
+            "id": "c",
+            "text": "心神安定而忘卻形體拘束，彷彿與萬物融通",
+            "explanation": "心凝形釋寫心神安定、彷彿放下形體拘束，進而與自然萬物融通。"
+          },
+          {
+            "id": "d",
+            "text": "慨歎西山高出眾丘，以清高品格自我勉勵",
+            "explanation": "高潔自況見特立不與培塿為類；本句進一步寫物我融通，層次不同。"
+          }
+        ],
+        "misconception": "此處沒有補眠恢復體力的情節，形釋說的是拘束感鬆開；夢隨意往屬舊遊，不能代替此時與萬物相融的新所得；高潔自況見特立不與培塿為類；本句進一步寫物我融通，層次不同。"
+      },
+      "objective": "「心凝形釋，與萬化冥合」表達哪一種體驗？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e08-exp-007",
+      "ordinal": 7,
+      "baseQuestionHash": "2c81bb7960b982a212f39af999f5c54caa2cd08beb462fe558840b7362d1aa98",
+      "patch": {
+        "explanation": "未始遊否定的是舊遊未得真趣，並非否定曾經出門。開篇無遠不到已證明遊蹤廣，結尾心凝形釋則提出新的衡量標準：真正的遊，要有精神上的領悟與開展。",
+        "summary": "未始遊否定的是舊遊未得真趣，並非否定曾經出門。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "今遊的路途更難，令他否定平日步行的方式",
+            "explanation": "路難顯示探勝熱切，但文中未以交通方式界定真遊。"
+          },
+          {
+            "id": "b",
+            "text": "今遊的精神領悟，令他重估從前出遊的意義",
+            "explanation": "未始遊否定的是舊遊未得真趣，並非否定曾經出門。"
+          },
+          {
+            "id": "c",
+            "text": "今遊可見數州，令他發現從前未曾到過永州山區",
+            "explanation": "作者明言在永州無遠不到，不能倒說以前未進山區。"
+          },
+          {
+            "id": "d",
+            "text": "今遊直到日落，令他以遊覽時間重新判定真遊",
+            "explanation": "天黑不歸表現留戀，遊得久卻不是作者對真遊的定義。"
+          }
+        ],
+        "misconception": "路難顯示探勝熱切，但文中未以交通方式界定真遊；作者明言在永州無遠不到，不能倒說以前未進山區；天黑不歸表現留戀，遊得久卻不是作者對真遊的定義。"
+      },
+      "objective": "作者早已「無遠不到」，為何仍說從前「未始遊」？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e08-exp-008",
+      "ordinal": 8,
+      "baseQuestionHash": "f56ea45cbbbc40f604c40da19ae69e5f34ab6211992b4980142918ce2c1d6e8d",
+      "patch": {
+        "explanation": "把俯視的群山窪地寫得像小土堆與洞穴，便以周圍之低小襯出西山之高。若垤若穴直接寫山下所見，讀者由這種觀看效果推知西山高峻，故兼有比喻與側面反襯。",
+        "summary": "把俯視的群山窪地寫得像小土堆與洞穴，便以周圍之低小襯出西山之高。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "以俯視群山的低小，間接凸顯西山高峻",
+            "explanation": "把俯視的群山窪地寫得像小土堆與洞穴，便以周圍之低小襯出西山之高。"
+          },
+          {
+            "id": "b",
+            "text": "以環視山水的相連，呈現天地渾然一體",
+            "explanation": "天地相連見外與天際、四望如一，不是小土堆與洞穴的比較。"
+          },
+          {
+            "id": "c",
+            "text": "以暮色來臨仍不歸，表達新遊使人留戀",
+            "explanation": "暮色不歸說宴遊後的留戀，並非這句如何呈現高度。"
+          },
+          {
+            "id": "d",
+            "text": "以先前眾山已奇異，襯出西山尤其怪特",
+            "explanation": "眾山已奇再襯西山更奇是另一層正襯，不能與低小反襯高峻混用。"
+          }
+        ],
+        "misconception": "天地相連見外與天際、四望如一，不是小土堆與洞穴的比較；暮色不歸說宴遊後的留戀，並非這句如何呈現高度；眾山已奇再襯西山更奇是另一層正襯，不能與低小反襯高峻混用。"
+      },
+      "objective": "寫山下群山窪地「若垤若穴」，如何突出西山？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-appendix-007",
+      "ordinal": 9,
+      "baseQuestionHash": "6167dc52cb3da0d70bd6b2b359b66d64560d2014adbd61a0990d11803111a607",
+      "patch": {
+        "explanation": "兩組長句結構相應、語意同向伸展，形成舒展的對偶。悠悠乎對洋洋乎，與顥氣俱對與造物者遊，莫得其涯對不知其所窮，共同延展與天地同遊、無邊無盡的感受。",
+        "summary": "兩組長句結構相應、語意同向伸展，形成舒展的對偶。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "短句連續並排，三組動作先後推進",
+            "explanation": "這裏是兩組較長句式，不是過江沿溪那種短句動作串。"
+          },
+          {
+            "id": "b",
+            "text": "長句結構相應，兩組語意同向延伸",
+            "explanation": "兩組長句結構相應、語意同向伸展，形成舒展的對偶。"
+          },
+          {
+            "id": "c",
+            "text": "後句倒轉前句語序，形成往返照應",
+            "explanation": "後句沒有將前句詞序倒轉，而是另換相應詞語延伸同一境界。"
+          },
+          {
+            "id": "d",
+            "text": "前句末詞接後句首詞，串連動作次序",
+            "explanation": "前末涯沒有接到後首洋洋，不能按頂真解釋。"
+          }
+        ],
+        "misconception": "這裏是兩組較長句式，不是過江沿溪那種短句動作串；後句沒有將前句詞序倒轉，而是另換相應詞語延伸同一境界；前末涯沒有接到後首洋洋，不能按頂真解釋。"
+      },
+      "objective": "「悠悠乎與顥氣俱，而莫得其涯；洋洋乎與造物者遊，而不知其所窮」在句式上最明顯的特色是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-01-03-0",
+      "ordinal": 10,
+      "baseQuestionHash": "737890f6cf488b63182b375e919231550c78ba2d4c26d062177a59e53627887f",
+      "patch": {
+        "explanation": "僇人指受刑辱而被貶的人，作者用它自述失意處境。居是州、恒惴慄續寫被貶永州後的生活與憂懼；這個自稱不是說正在獄中，更不是行刑者。",
+        "summary": "僇人指受刑辱而被貶的人，作者用它自述失意處境。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "受刑辱而被貶的人",
+            "explanation": "僇人指受刑辱而被貶的人，作者用它自述失意處境。"
+          },
+          {
+            "id": "b",
+            "text": "定罪後正在牢獄服刑的人",
+            "explanation": "後文能自由登山漫遊，不能擅添仍在牢獄服刑的處境。"
+          },
+          {
+            "id": "c",
+            "text": "負責執行刑罰的人",
+            "explanation": "僇人承受刑辱，並非向別人施刑，須分清施受方向。"
+          },
+          {
+            "id": "d",
+            "text": "尚在候審待判的人",
+            "explanation": "自余為表示已處於受罰身分，不是尚待審判。"
+          }
+        ],
+        "misconception": "後文能自由登山漫遊，不能擅添仍在牢獄服刑的處境；僇人承受刑辱，並非向別人施刑，須分清施受方向；自余為表示已處於受罰身分，不是尚待審判。"
+      },
+      "objective": "文句中「僇人」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-01-03-1",
+      "ordinal": 11,
+      "baseQuestionHash": "db58dd9b9bb65a740bd3c9811893b1a8cc8e78f98bd294a89fcba5aadbd109fa",
+      "patch": {
+        "explanation": "是指這個，居是州就是住在這個州，即永州。居後面需要居住地，是用來限定州；全句不是判斷此州是否正確，也不是用是連接因果。",
+        "summary": "是指這個，居是州就是住在這個州，即永州。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "正確",
+            "explanation": "正確是評價對錯，不能在此限定居住的州。"
+          },
+          {
+            "id": "b",
+            "text": "這個",
+            "explanation": "是指這個，居是州就是住在這個州，即永州。"
+          },
+          {
+            "id": "c",
+            "text": "因此",
+            "explanation": "因此是因果連詞，此處是州合成一個地點短語。"
+          },
+          {
+            "id": "d",
+            "text": "判斷詞「是」",
+            "explanation": "判斷詞需聯繫主語與述語；是州這裏意為這個州。"
+          }
+        ],
+        "misconception": "正確是評價對錯，不能在此限定居住的州；因此是因果連詞，此處是州合成一個地點短語；判斷詞需聯繫主語與述語；是州這裏意為這個州。"
+      },
+      "objective": "文句中「是」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-01-03-2",
+      "ordinal": 12,
+      "baseQuestionHash": "74ee514155aebca5f348a4b893f227286802144b8e5f43c2304dab7ef754102b",
+      "patch": {
+        "explanation": "恒是經常，修飾惴慄，說明被貶後的恐懼反覆存在。它交代心境的持續性，與後文心凝形釋形成前後對照，不能僅憑閒遊便把憂懼看成偶發。",
+        "summary": "恒是經常，修飾惴慄，說明被貶後的恐懼反覆存在。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "偶爾",
+            "explanation": "偶爾降低了出現頻率，與恒相反。"
+          },
+          {
+            "id": "b",
+            "text": "暫且",
+            "explanation": "暫且表示姑且如此，沒有經常發生的意思。"
+          },
+          {
+            "id": "c",
+            "text": "漸漸",
+            "explanation": "漸漸表示變化過程，恒並未說恐懼逐步加深。"
+          },
+          {
+            "id": "d",
+            "text": "經常",
+            "explanation": "恒是經常，修飾惴慄，說明被貶後的恐懼反覆存在。"
+          }
+        ],
+        "misconception": "偶爾降低了出現頻率，與恒相反；暫且表示姑且如此，沒有經常發生的意思；漸漸表示變化過程，恒並未說恐懼逐步加深。"
+      },
+      "objective": "文句中「恒」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-01-03-4",
+      "ordinal": 13,
+      "baseQuestionHash": "78d82b30c59c7b15bcced70fb9143f52d597387028236bc97824af8a98e12625",
+      "patch": {
+        "explanation": "隙在此指空閒時間，本書解作公務之餘。其隙也先交代何時，則施施而行再說那時做甚麼；從時間與行動的搭配，便可排除空間裂縫或人際嫌隙。",
+        "summary": "隙在此指空閒時間，本書解作公務之餘。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "人際嫌隙",
+            "explanation": "句中沒有爭執對象，不能把出遊時機解成人際不和。"
+          },
+          {
+            "id": "b",
+            "text": "山石裂隙",
+            "explanation": "山石裂縫是空間，這裏交代作者何時出遊。"
+          },
+          {
+            "id": "c",
+            "text": "邊境隙地",
+            "explanation": "邊境隙地也是地方，且本文沒有邊防活動。"
+          },
+          {
+            "id": "d",
+            "text": "空閒時間",
+            "explanation": "隙在此指空閒時間，本書解作公務之餘。"
+          }
+        ],
+        "misconception": "句中沒有爭執對象，不能把出遊時機解成人際不和；山石裂縫是空間，這裏交代作者何時出遊；邊境隙地也是地方，且本文沒有邊防活動。"
+      },
+      "objective": "文句中「隙」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-01-03-5",
+      "ordinal": 14,
+      "baseQuestionHash": "4d091aa1307a9d36e3af8c0e271a0dc3cb16df51914a184e6191fd9dfdaed5da",
+      "patch": {
+        "explanation": "施施是緩緩行走的樣子，直接修飾行。這種從容步態與漫漫而遊相應，卻可以和內心惴慄同時存在；外在走得慢，不等於憂懼已消解。",
+        "summary": "施施是緩緩行走的樣子，直接修飾行。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "急於趕路的樣子",
+            "explanation": "施施修飾行，在本句表示緩行而非趕路。"
+          },
+          {
+            "id": "b",
+            "text": "緩緩行走的樣子",
+            "explanation": "施施是緩緩行走的樣子，直接修飾行。"
+          },
+          {
+            "id": "c",
+            "text": "四處張望的樣子",
+            "explanation": "此詞說步態緩慢，不是眼睛觀看的方式。"
+          },
+          {
+            "id": "d",
+            "text": "畏縮不前的樣子",
+            "explanation": "緩行仍在行走，畏縮不前卻添了停步和退縮的心理。"
+          }
+        ],
+        "misconception": "施施修飾行，在本句表示緩行而非趕路；此詞說步態緩慢，不是眼睛觀看的方式；緩行仍在行走，畏縮不前卻添了停步和退縮的心理。"
+      },
+      "objective": "文句中「施施」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-01-03-6",
+      "ordinal": 15,
+      "baseQuestionHash": "0b83ae24a9345ced1bac917abdf11df5f9e22b5e1c5958df22f0940540f97e37",
+      "patch": {
+        "explanation": "漫漫在此說隨意、不受拘束的遊態，與施施而行並列。辨義要看它修飾遊，寫遊覽沒有明確目標，不是量度路程長短；閒散外表也不保證內心愉快。",
+        "summary": "漫漫在此說隨意、不受拘束的遊態，與施施而行並列。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "路途漫長",
+            "explanation": "路途漫長是漫漫的其他常見用法，本句重遊的情態。"
+          },
+          {
+            "id": "b",
+            "text": "隨意不拘",
+            "explanation": "漫漫在此說隨意、不受拘束的遊態，與施施而行並列。"
+          },
+          {
+            "id": "c",
+            "text": "水勢浩大",
+            "explanation": "水勢浩大須有水景作主體，此處主體是出遊的作者。"
+          },
+          {
+            "id": "d",
+            "text": "徘徊不決",
+            "explanation": "隨意不拘是遊態，沒有猶豫是否前行的意思。"
+          }
+        ],
+        "misconception": "路途漫長是漫漫的其他常見用法，本句重遊的情態；水勢浩大須有水景作主體，此處主體是出遊的作者；隨意不拘是遊態，沒有猶豫是否前行的意思。"
+      },
+      "objective": "文句中「漫漫」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-01-03-7",
+      "ordinal": 16,
+      "baseQuestionHash": "3f8c1d51272b9f011c0dc399109bf8ae4db7a18b4a22e43b4943289338b35669",
+      "patch": {
+        "explanation": "徒指同伴，日與其徒說作者每天和同行者遊山。與把相伴的人帶出，後文更相枕也表現同行互相倚靠；本句沒有授課關係，不能因徒常見於門徒便認定是弟子。",
+        "summary": "徒指同伴，日與其徒說作者每天和同行者遊山。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "同伴",
+            "explanation": "徒指同伴，日與其徒說作者每天和同行者遊山。"
+          },
+          {
+            "id": "b",
+            "text": "弟子",
+            "explanation": "弟子須有師生關係，這段只交代共同出遊。"
+          },
+          {
+            "id": "c",
+            "text": "步行",
+            "explanation": "步行是徒的另一用法，但與其徒在此接的是相伴的人。"
+          },
+          {
+            "id": "d",
+            "text": "徒然",
+            "explanation": "徒然表示白費，不能作與所帶出的同行對象。"
+          }
+        ],
+        "misconception": "弟子須有師生關係，這段只交代共同出遊；步行是徒的另一用法，但與其徒在此接的是相伴的人；徒然表示白費，不能作與所帶出的同行對象。"
+      },
+      "objective": "文句中「徒」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-01-03-9",
+      "ordinal": 17,
+      "baseQuestionHash": "df5b45632441a037e401923e0c922f8db6dfa64e439b1375d0814dfefd52ae35",
+      "patch": {
+        "explanation": "迴溪是曲折縈迴的溪流，迴寫溪流形態，窮則寫沿溪探到盡處。分開形態與遊覽動作，便不會把走到盡頭誤當成溪水已乾，也不會解成逆流返回源頭。",
+        "summary": "迴溪是曲折縈迴的溪流，迴寫溪流形態，窮則寫沿溪探到盡處。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "一直流向源頭的溪流",
+            "explanation": "迴說曲折，不保證整段水流方向都是流向源頭。"
+          },
+          {
+            "id": "b",
+            "text": "寬闊平直的河流",
+            "explanation": "平直與迴的彎曲特點相反，也未說溪流寬闊。"
+          },
+          {
+            "id": "c",
+            "text": "曲折縈迴的溪流",
+            "explanation": "迴溪是曲折縈迴的溪流，迴寫溪流形態，窮則寫沿溪探到盡處。"
+          },
+          {
+            "id": "d",
+            "text": "水流已盡的河道",
+            "explanation": "窮指作者走到盡處，並不是水流枯盡。"
+          }
+        ],
+        "misconception": "迴說曲折，不保證整段水流方向都是流向源頭；平直與迴的彎曲特點相反，也未說溪流寬闊；窮指作者走到盡處，並不是水流枯盡。"
+      },
+      "objective": "文句中「迴溪」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-01-03-10",
+      "ordinal": 18,
+      "baseQuestionHash": "898d5b8ab93dcf11fdff5e70223199a70b17a1926138993f0d4c5fafd549071c",
+      "patch": {
+        "explanation": "幽泉是幽僻處的泉水，與怪石並列為遊覽所見。幽表位置隱僻，泉仍是實際泉水；結合高山深林的環境，可排除黃泉或把泉直接當作聲音。",
+        "summary": "幽泉是幽僻處的泉水，與怪石並列為遊覽所見。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "深藏地下的井水",
+            "explanation": "幽說隱僻，泉為自然泉水，不能改成井水。"
+          },
+          {
+            "id": "b",
+            "text": "幽僻的泉水",
+            "explanation": "幽泉是幽僻處的泉水，與怪石並列為遊覽所見。"
+          },
+          {
+            "id": "c",
+            "text": "清淺見底的溪水",
+            "explanation": "幽不表示清淺，泉也不能直接改作整條溪流。"
+          },
+          {
+            "id": "d",
+            "text": "山間幽怨的水聲",
+            "explanation": "原詞命名幽僻泉水，未把聲音寫成幽怨。"
+          }
+        ],
+        "misconception": "幽說隱僻，泉為自然泉水，不能改成井水；幽不表示清淺，泉也不能直接改作整條溪流；原詞命名幽僻泉水，未把聲音寫成幽怨。"
+      },
+      "objective": "文句中「幽泉」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-01-03-11",
+      "ordinal": 19,
+      "baseQuestionHash": "cad9ba84592bc9d8b28a70d4a5d5320329d8777e17ba3d6c898498426c8db9e2",
+      "patch": {
+        "explanation": "披是撥開，披草而坐寫先把草撥開再坐下。草是被處理的對象，坐是緊接的動作；這個連接關係比只記披衣的現代用法更能幫助辨義。",
+        "summary": "披是撥開，披草而坐寫先把草撥開再坐下。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "撥開",
+            "explanation": "披是撥開，披草而坐寫先把草撥開再坐下。"
+          },
+          {
+            "id": "b",
+            "text": "穿上",
+            "explanation": "穿上適用於衣物，這裏撥草是為騰出坐處。"
+          },
+          {
+            "id": "c",
+            "text": "公開",
+            "explanation": "公開常見於披露，原文沒有公開消息的對象。"
+          },
+          {
+            "id": "d",
+            "text": "分散",
+            "explanation": "分散是較泛的狀態，披草在此具體指用手等把草撥開。"
+          }
+        ],
+        "misconception": "穿上適用於衣物，這裏撥草是為騰出坐處；公開常見於披露，原文沒有公開消息的對象；分散是較泛的狀態，披草在此具體指用手等把草撥開。"
+      },
+      "objective": "文句中「披」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-01-03-12",
+      "ordinal": 20,
+      "baseQuestionHash": "6f5c72c14c0e147c7e78f9e80df3aecf5219ecbc3264b9066a97438847894347",
+      "patch": {
+        "explanation": "傾壺是倒盡壺中的酒來喝，傾壺而醉接着交代飲酒至醉。傾寫由壺內往外倒，不能倒轉成向壺內斟滿；也不能把傾倒誤作拒絕飲酒。",
+        "summary": "傾壺是倒盡壺中的酒來喝，傾壺而醉接着交代飲酒至醉。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "把酒斟滿壺內",
+            "explanation": "斟滿壺內與由壺倒出的方向相反。"
+          },
+          {
+            "id": "b",
+            "text": "把餘酒倒掉不飲",
+            "explanation": "而醉說飲酒結果，不是把酒棄去。"
+          },
+          {
+            "id": "c",
+            "text": "倒盡壺中的酒",
+            "explanation": "傾壺是倒盡壺中的酒來喝，傾壺而醉接着交代飲酒至醉。"
+          },
+          {
+            "id": "d",
+            "text": "把酒壺斜放休息",
+            "explanation": "傾壺與而醉相接是倒酒來喝，不只是擺放器具。"
+          }
+        ],
+        "misconception": "斟滿壺內與由壺倒出的方向相反；而醉說飲酒結果，不是把酒棄去；傾壺與而醉相接是倒酒來喝，不只是擺放器具。"
+      },
+      "objective": "文句中「傾壺」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-01-03-13",
+      "ordinal": 21,
+      "baseQuestionHash": "dd5084f9832a4b81d976f7ea281fb82387e05eb49296a65b5465e5b3ce00dca3",
+      "patch": {
+        "explanation": "更是輪流，與相枕連起來說同伴醉後輪流互相枕靠而臥。相表彼此，更補交替方式；這裏沒有比較程度、修改內容或計算夜間更次。",
+        "summary": "更是輪流，與相枕連起來說同伴醉後輪流互相枕靠而臥。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "更加",
+            "explanation": "更加須加深某種程度，此處說枕靠動作交替。"
+          },
+          {
+            "id": "b",
+            "text": "更改",
+            "explanation": "更改須有被修改之事，不能解釋更相枕的相互動作。"
+          },
+          {
+            "id": "c",
+            "text": "更次",
+            "explanation": "更次是夜間計時，原句沒有按更數安排睡眠。"
+          },
+          {
+            "id": "d",
+            "text": "輪流",
+            "explanation": "更是輪流，與相枕連起來說同伴醉後輪流互相枕靠而臥。"
+          }
+        ],
+        "misconception": "更加須加深某種程度，此處說枕靠動作交替；更改須有被修改之事，不能解釋更相枕的相互動作；更次是夜間計時，原句沒有按更數安排睡眠。"
+      },
+      "objective": "文句中「更」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-01-03-14",
+      "ordinal": 22,
+      "baseQuestionHash": "5f3bbe4187383e497d8693b9fa04e5e1fc8f4cad654c2c7cd760f438a1297992",
+      "patch": {
+        "explanation": "相枕是互相枕靠着身體，相標明彼此，枕在此作枕靠的動作。後接以臥，寫同伴醉後就地倚靠躺下的隨意情態；不是在交代枕頭用品如何擺放。",
+        "summary": "相枕是互相枕靠着身體，相標明彼此，枕在此作枕靠的動作。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "各以手臂作枕",
+            "explanation": "各自枕臂沒有相所表的彼此枕靠。"
+          },
+          {
+            "id": "b",
+            "text": "互相枕靠着身體",
+            "explanation": "相枕是互相枕靠着身體，相標明彼此，枕在此作枕靠的動作。"
+          },
+          {
+            "id": "c",
+            "text": "背靠山石休息",
+            "explanation": "原文相枕說同伴互靠，沒有把山石列作所枕對象。"
+          },
+          {
+            "id": "d",
+            "text": "各自枕草入睡",
+            "explanation": "披草而坐不能推出枕草，且各自不合相的彼此關係。"
+          }
+        ],
+        "misconception": "各自枕臂沒有相所表的彼此枕靠；原文相枕說同伴互靠，沒有把山石列作所枕對象；披草而坐不能推出枕草，且各自不合相的彼此關係。"
+      },
+      "objective": "文句中「相枕」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-01-03-15",
+      "ordinal": 23,
+      "baseQuestionHash": "c802b41632032886c0f19f2f624bcec4833344c8cb56158848159469928ca28a",
+      "patch": {
+        "explanation": "極是到達，意有所極說心意到達某處，夢也往同一處去。所極把到達的地方提出，後句同趣與之呼應；這裏不是極力做事或耗盡某物。",
+        "summary": "極是到達，意有所極說心意到達某處，夢也往同一處去。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "到達",
+            "explanation": "極是到達，意有所極說心意到達某處，夢也往同一處去。"
+          },
+          {
+            "id": "b",
+            "text": "極點",
+            "explanation": "極點是端點名詞；本句所極重心意所到之處。"
+          },
+          {
+            "id": "c",
+            "text": "極力",
+            "explanation": "極力是程度修飾語，所極在此卻需要到達的動作。"
+          },
+          {
+            "id": "d",
+            "text": "竭盡",
+            "explanation": "竭盡通常接力量等，後句夢的去向提示這裏是到達。"
+          }
+        ],
+        "misconception": "極點是端點名詞；本句所極重心意所到之處；極力是程度修飾語，所極在此卻需要到達的動作；竭盡通常接力量等，後句夢的去向提示這裏是到達。"
+      },
+      "objective": "文句中「極」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-01-03-16",
+      "ordinal": 24,
+      "baseQuestionHash": "f41fd1e3589de8735164ba18ba26d703afeed8dcc61649e4b1ee0f8694de49c4",
+      "patch": {
+        "explanation": "趣同趨，意思是往、到，夢亦同趣即夢境也往心意所到的地方。亦、同把夢與意連起來，說二者去向相同，並非兩者都覺得好玩。",
+        "summary": "趣同趨，意思是往、到，夢亦同趣即夢境也往心意所到的地方。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "覺得有趣",
+            "explanation": "有趣是趣味評價，不能交代夢隨心意往何處。"
+          },
+          {
+            "id": "b",
+            "text": "催促前行",
+            "explanation": "催促須有被催促者，這裏是夢境自身隨意念而往。"
+          },
+          {
+            "id": "c",
+            "text": "往、到",
+            "explanation": "趣同趨，意思是往、到，夢亦同趣即夢境也往心意所到的地方。"
+          },
+          {
+            "id": "d",
+            "text": "追求相同志趣",
+            "explanation": "志趣談價值追求，本文此句直接寫意念與夢的去向。"
+          }
+        ],
+        "misconception": "有趣是趣味評價，不能交代夢隨心意往何處；催促須有被催促者，這裏是夢境自身隨意念而往；志趣談價值追求，本文此句直接寫意念與夢的去向。"
+      },
+      "objective": "文句中「趣」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-01-03-17",
+      "ordinal": 25,
+      "baseQuestionHash": "beed6e15885fda619e30e2d4d3fd3067e8627bb2cd0e9bc45aecb5818ef1293e",
+      "patch": {
+        "explanation": "覺是睡醒，覺而起、起而歸依次寫醒來、起身、回去。上文醉臥而夢提供睡眠語境，因此不是忽然悟道；這段循環亦與後文天黑仍不欲歸有別。",
+        "summary": "覺是睡醒，覺而起、起而歸依次寫醒來、起身、回去。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "領悟",
+            "explanation": "領悟需有理解內容，此處承接睡夢，接續身體起身。"
+          },
+          {
+            "id": "b",
+            "text": "睡醒",
+            "explanation": "覺是睡醒，覺而起、起而歸依次寫醒來、起身、回去。"
+          },
+          {
+            "id": "c",
+            "text": "發現",
+            "explanation": "發現需說所見所知，本句首先交代醒來。"
+          },
+          {
+            "id": "d",
+            "text": "感覺",
+            "explanation": "感覺是泛稱感受，不如睡醒準確對應臥而夢。"
+          }
+        ],
+        "misconception": "領悟需有理解內容，此處承接睡夢，接續身體起身；發現需說所見所知，本句首先交代醒來；感覺是泛稱感受，不如睡醒準確對應臥而夢。"
+      },
+      "objective": "文句中「覺」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-01-03-18",
+      "ordinal": 26,
+      "baseQuestionHash": "06fb7ff23fb19ac1d2abdceda5f0fb2caec996eb7a591fa2101551273bb6f1e0",
+      "patch": {
+        "explanation": "未始就是未曾，未始知西山之怪特說此前不曾認識西山的奇異。前面自以為眾山皆我有，後面而轉出認識仍有缺口；不是說不願出發，也不是說已去過多次。",
+        "summary": "未始就是未曾，未始知西山之怪特說此前不曾認識西山的奇異。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "未到最初",
+            "explanation": "未到最初將未始拆成到達某個起點，不能與知搭配成此義。"
+          },
+          {
+            "id": "b",
+            "text": "未曾",
+            "explanation": "未始就是未曾，未始知西山之怪特說此前不曾認識西山的奇異。"
+          },
+          {
+            "id": "c",
+            "text": "不願開始",
+            "explanation": "原文否定曾經知道，不是在說願不願開始。"
+          },
+          {
+            "id": "d",
+            "text": "不是第一次",
+            "explanation": "不是第一次會預設曾有同樣經歷，恰與未曾相反。"
+          }
+        ],
+        "misconception": "未到最初將未始拆成到達某個起點，不能與知搭配成此義；原文否定曾經知道，不是在說願不願開始；不是第一次會預設曾有同樣經歷，恰與未曾相反。"
+      },
+      "objective": "文句中「未始」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-01-03-19",
+      "ordinal": 27,
+      "baseQuestionHash": "c58e045010bda5e178e4197bdc8146510e13447f06aff3d63a563e4cf6c86e8c",
+      "patch": {
+        "explanation": "怪特是奇異卓絕，評價西山不同凡常、尤其出眾。下文特立、不與培塿為類再展開這種獨特，故怪不是令人害怕，特也不等於地勢險惡。",
+        "summary": "怪特是奇異卓絕，評價西山不同凡常、尤其出眾。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "古怪可怕",
+            "explanation": "古怪可怕把驚奇轉成恐怖，與作者熱切探遊及讚山不合。"
+          },
+          {
+            "id": "b",
+            "text": "奇異卓絕",
+            "explanation": "怪特是奇異卓絕，評價西山不同凡常、尤其出眾。"
+          },
+          {
+            "id": "c",
+            "text": "特別險惡",
+            "explanation": "險惡突出危險，原詞所重是卓絕出眾。"
+          },
+          {
+            "id": "d",
+            "text": "地勢隱僻",
+            "explanation": "西山可有幽僻特徵，但怪特重奇異卓絕，不能以另一特點代替詞義。"
+          }
+        ],
+        "misconception": "古怪可怕把驚奇轉成恐怖，與作者熱切探遊及讚山不合；險惡突出危險，原詞所重是卓絕出眾；西山可有幽僻特徵，但怪特重奇異卓絕，不能以另一特點代替詞義。"
+      },
+      "objective": "文句中「怪特」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-02-03-0",
+      "ordinal": 28,
+      "baseQuestionHash": "48f62701e235e86323533cdd5653d08192f25d388d56f4d05039cbef2783f63a",
+      "patch": {
+        "explanation": "本書把因解作因為，先說在法華西亭坐着，才有遠望西山並發現其奇異的機緣。這裏交代發現由何而起；下一句遂命僕人才承接發現後的行動，不宜把兩字一律解作於是。",
+        "summary": "本書把因解作因為，先說在法華西亭坐着，才有遠望西山並發現其奇異的機緣。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "沿襲",
+            "explanation": "沿襲須有前例或做法，此處是說當時坐亭的情境。"
+          },
+          {
+            "id": "b",
+            "text": "依靠",
+            "explanation": "依靠須有憑藉對象，本書把坐亭理解為發現的由來。"
+          },
+          {
+            "id": "c",
+            "text": "於是",
+            "explanation": "於是是後續承接，因在本書本句解釋發現的緣由。"
+          },
+          {
+            "id": "d",
+            "text": "因為",
+            "explanation": "本書把因解作因為，先說在法華西亭坐着，才有遠望西山並發現其奇異的機緣。"
+          }
+        ],
+        "stem": "依本書解釋，「因坐法華西亭」的「因」是甚麼意思？",
+        "misconception": "沿襲須有前例或做法，此處是說當時坐亭的情境；依靠須有憑藉對象，本書把坐亭理解為發現的由來；於是是後續承接，因在本書本句解釋發現的緣由。"
+      },
+      "objective": "依本書解釋，「因坐法華西亭」的「因」是甚麼意思？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-02-03-1",
+      "ordinal": 29,
+      "baseQuestionHash": "381fc9c4a3ba088b28542bf0b7443486a54662368cbd7207d0df397bc5a0d30a",
+      "patch": {
+        "explanation": "始在始指異之中是才，表示到這次遠望時才發現西山的奇異。上段未始知寫此前未曾知道，兩處始隨語境不同，不可看到同字就一律譯成開始。",
+        "summary": "始在始指異之中是才，表示到這次遠望時才發現西山的奇異。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "開始",
+            "explanation": "開始適合遊於是乎始，此處始修飾發現與指認，意為才。"
+          },
+          {
+            "id": "b",
+            "text": "起初",
+            "explanation": "起初會把重點變成事情早期，削弱此前不知、如今才知的轉折。"
+          },
+          {
+            "id": "c",
+            "text": "曾經",
+            "explanation": "曾經是未始的辨析所用，此處是這次才指認。"
+          },
+          {
+            "id": "d",
+            "text": "才",
+            "explanation": "始在始指異之中是才，表示到這次遠望時才發現西山的奇異。"
+          }
+        ],
+        "misconception": "開始適合遊於是乎始，此處始修飾發現與指認，意為才；起初會把重點變成事情早期，削弱此前不知、如今才知的轉折；曾經是未始的辨析所用，此處是這次才指認。"
+      },
+      "objective": "文句中「始」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-02-03-2",
+      "ordinal": 30,
+      "baseQuestionHash": "058f31500e58fc1953e7608faf5eb0ff0000af17023751985cd4a13b6280a4d5",
+      "patch": {
+        "explanation": "異在此是認為它奇異，作者遠望西山後對它作出判斷。之代西山作對象，山本身沒有因作者一望而改變形狀；這就是把形容詞用來表達主觀認定的意動用法。",
+        "summary": "異在此是認為它奇異，作者遠望西山後對它作出判斷。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "使它變得奇異",
+            "explanation": "使它奇異是使動，原文只有發現，沒有改造山的行動。"
+          },
+          {
+            "id": "b",
+            "text": "改變它的形狀",
+            "explanation": "改變形狀也把觀看評價誤成實際改造。"
+          },
+          {
+            "id": "c",
+            "text": "認為它奇異",
+            "explanation": "異在此是認為它奇異，作者遠望西山後對它作出判斷。"
+          },
+          {
+            "id": "d",
+            "text": "與它意見不同",
+            "explanation": "意見不同需有可辯論的主張，此處對象是西山景觀。"
+          }
+        ],
+        "misconception": "使它奇異是使動，原文只有發現，沒有改造山的行動；改變形狀也把觀看評價誤成實際改造；意見不同需有可辯論的主張，此處對象是西山景觀。"
+      },
+      "objective": "文句中「異」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-02-03-3",
+      "ordinal": 31,
+      "baseQuestionHash": "da5d29bf1e031428489af7b5cf2db92dd422839d12cb92dbd328c878ad389481",
+      "patch": {
+        "explanation": "之代西山，始指異之即才指着西山，覺得它奇異。前面的望西山提供最近而合義的對象，不能只按人物或地名是否出現便隨意替換指代。",
+        "summary": "之代西山，始指異之即才指着西山，覺得它奇異。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "它，指法華寺",
+            "explanation": "法華寺是觀看的位置，所望所異的對象卻是西山。"
+          },
+          {
+            "id": "b",
+            "text": "我，指柳宗元",
+            "explanation": "作者是作出指認的人，不是被自己指認的西山。"
+          },
+          {
+            "id": "c",
+            "text": "它，指西山",
+            "explanation": "之代西山，始指異之即才指着西山，覺得它奇異。"
+          },
+          {
+            "id": "d",
+            "text": "到，表示前往",
+            "explanation": "到是之的動詞義；此處之接在異後作被認為奇異的對象。"
+          }
+        ],
+        "misconception": "法華寺是觀看的位置，所望所異的對象卻是西山；作者是作出指認的人，不是被自己指認的西山；到是之的動詞義；此處之接在異後作被認為奇異的對象。"
+      },
+      "objective": "文句中「之」的用法或所指，哪項正確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-02-03-4",
+      "ordinal": 32,
+      "baseQuestionHash": "17d6cd0cd8bc86d29fcf5360c13bcee8a8b14557649657f995bb6ed733691a7c",
+      "patch": {
+        "explanation": "遂是於是，接續望見西山後立刻命僕人動身的行動。它把發現奇景和過江沿溪的探尋連起來，呈現見異而往的推進，不表示即使如此的假設。",
+        "summary": "遂是於是，接續望見西山後立刻命僕人動身的行動。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "終於",
+            "explanation": "終於偏重長久等待後達成，本文此處重發現後便採取行動。"
+          },
+          {
+            "id": "b",
+            "text": "仍然",
+            "explanation": "仍然是延續原有狀態，命僕人卻是發現西山後的新行動。"
+          },
+          {
+            "id": "c",
+            "text": "於是",
+            "explanation": "遂是於是，接續望見西山後立刻命僕人動身的行動。"
+          },
+          {
+            "id": "d",
+            "text": "縱使",
+            "explanation": "縱使提出假設讓步，這裏直接敘述實際行程。"
+          }
+        ],
+        "misconception": "終於偏重長久等待後達成，本文此處重發現後便採取行動；仍然是延續原有狀態，命僕人卻是發現西山後的新行動；縱使提出假設讓步，這裏直接敘述實際行程。"
+      },
+      "objective": "文句中「遂」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-02-03-5",
+      "ordinal": 33,
+      "baseQuestionHash": "592f26a71d5227621f2aff00b25ea6d3bcc508692246ac11a66c5a6fa76b20b0",
+      "patch": {
+        "explanation": "過在過湘江中是渡過，湘江是要跨越的水域。與緣染溪的沿溪方向區別，便能讀出路線：先渡江，再沿溪，然後開路上山。",
+        "summary": "過在過湘江中是渡過，湘江是要跨越的水域。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "經過身旁",
+            "explanation": "經過身旁未表達跨到江另一邊，與本書渡江的路線不符。"
+          },
+          {
+            "id": "b",
+            "text": "沿河而行",
+            "explanation": "沿行是緣染溪的路線，過湘江重跨越水域。"
+          },
+          {
+            "id": "c",
+            "text": "溯流而上",
+            "explanation": "原文不說逆水向源頭走，過在此指渡到對岸。"
+          },
+          {
+            "id": "d",
+            "text": "渡過",
+            "explanation": "過在過湘江中是渡過，湘江是要跨越的水域。"
+          }
+        ],
+        "misconception": "經過身旁未表達跨到江另一邊，與本書渡江的路線不符；沿行是緣染溪的路線，過湘江重跨越水域；原文不說逆水向源頭走，過在此指渡到對岸。"
+      },
+      "objective": "文句中「過」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-02-03-7",
+      "ordinal": 34,
+      "baseQuestionHash": "0ee661c5b7ce1982b361db4f3b247544f9f6d1b4333c9c4a7e42bfa027dba2c7",
+      "patch": {
+        "explanation": "斫是砍伐，斫榛莽即砍掉叢雜草木以開路。前面渡江沿溪、後面焚茅茷，把它放在連續登山行動中，可看出是在清除阻礙而非栽種或借樹攀登。",
+        "summary": "斫是砍伐，斫榛莽即砍掉叢雜草木以開路。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "種植",
+            "explanation": "種植會增加草木，與開路除障的行程相反。"
+          },
+          {
+            "id": "b",
+            "text": "攀援",
+            "explanation": "攀援是下一階段借樹石登高，斫在這裏是砍除。"
+          },
+          {
+            "id": "c",
+            "text": "砍伐",
+            "explanation": "斫是砍伐，斫榛莽即砍掉叢雜草木以開路。"
+          },
+          {
+            "id": "d",
+            "text": "捆束",
+            "explanation": "捆束是把物件綁在一起，沒有砍斷草木的意思。"
+          }
+        ],
+        "misconception": "種植會增加草木，與開路除障的行程相反；攀援是下一階段借樹石登高，斫在這裏是砍除；捆束是把物件綁在一起，沒有砍斷草木的意思。"
+      },
+      "objective": "文句中「斫」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-02-03-8",
+      "ordinal": 35,
+      "baseQuestionHash": "a8cc62f3b54a32a3868a0b29edd2b3b90d37da80bc808908c22cf56498f37152",
+      "patch": {
+        "explanation": "榛莽是叢雜的草木，是斫所砍掉的障礙。它與後面的茅茷同屬阻路植被，寫出西山幽僻、需要開路；不能把它解成地形或已整理好的田地。",
+        "summary": "榛莽是叢雜的草木，是斫所砍掉的障礙。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "叢雜的草木",
+            "explanation": "榛莽是叢雜的草木，是斫所砍掉的障礙。"
+          },
+          {
+            "id": "b",
+            "text": "整齊的田畝",
+            "explanation": "整齊田畝沒有叢雜荒生的特徵，也非此處砍除的對象。"
+          },
+          {
+            "id": "c",
+            "text": "高大的山石",
+            "explanation": "山石不是草木，不能與斫、焚兩項清理植被的行動對應。"
+          },
+          {
+            "id": "d",
+            "text": "低窪的水澤",
+            "explanation": "水澤是地形，斫所作用的是叢生植物。"
+          }
+        ],
+        "misconception": "整齊田畝沒有叢雜荒生的特徵，也非此處砍除的對象；山石不是草木，不能與斫、焚兩項清理植被的行動對應；水澤是地形，斫所作用的是叢生植物。"
+      },
+      "objective": "文句中「榛莽」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-02-03-9",
+      "ordinal": 36,
+      "baseQuestionHash": "143653eda6e25d59c807de6437c81c9a41e64d8781249ca748dd265e03ff745b",
+      "patch": {
+        "explanation": "焚是燒去，焚茅茷即燒掉茂密茅草，接續斫榛莽的開路動作。先砍木再燒草，一直到山頂才止，既交代障礙，也顯出熱切探勝。",
+        "summary": "焚是燒去，焚茅茷即燒掉茂密茅草，接續斫榛莽的開路動作。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "燒去",
+            "explanation": "焚是燒去，焚茅茷即燒掉茂密茅草，接續斫榛莽的開路動作。"
+          },
+          {
+            "id": "b",
+            "text": "熄滅",
+            "explanation": "熄滅是使火停止，焚則用火燒草，方向相反。"
+          },
+          {
+            "id": "c",
+            "text": "烘乾",
+            "explanation": "焚是燒去草叢以清障，非只除去水分。"
+          },
+          {
+            "id": "d",
+            "text": "照亮",
+            "explanation": "火光可能照亮，但焚的動作是燃燒草木，不只供照明。"
+          }
+        ],
+        "misconception": "熄滅是使火停止，焚則用火燒草，方向相反；焚是燒去草叢以清障，非只除去水分；火光可能照亮，但焚的動作是燃燒草木，不只供照明。"
+      },
+      "objective": "文句中「焚」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-02-03-10",
+      "ordinal": 37,
+      "baseQuestionHash": "38bc451cdaefdfa0ba0377805f46248a7808a8c6e00afb52695fcf1e513d20ef",
+      "patch": {
+        "explanation": "茅茷是茂密的茅草，是登山路上要燒去的植被。茅指草，茷在此表茂密；須把整個詞和焚、窮山之高的開路語境相連，不能因茅想到房屋、因茷近筏想到舟具。",
+        "summary": "茅茷是茂密的茅草，是登山路上要燒去的植被。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "茂密的茅草",
+            "explanation": "茅茷是茂密的茅草，是登山路上要燒去的植被。"
+          },
+          {
+            "id": "b",
+            "text": "茅草蓋的房屋",
+            "explanation": "原文未寫屋舍，更沒有燒毀民居的情節。"
+          },
+          {
+            "id": "c",
+            "text": "編成束的茅草",
+            "explanation": "茅茷在此是自然茂生的草，不含已編束加工之意。"
+          },
+          {
+            "id": "d",
+            "text": "枯落的枝葉",
+            "explanation": "原詞說茂密茅草，不能換成掉落的枝葉。"
+          }
+        ],
+        "misconception": "原文未寫屋舍，更沒有燒毀民居的情節；茅茷在此是自然茂生的草，不含已編束加工之意；原詞說茂密茅草，不能換成掉落的枝葉。"
+      },
+      "objective": "文句中「茅茷」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-02-03-11",
+      "ordinal": 38,
+      "baseQuestionHash": "d925141fe98d6c56e834c88fb3cafdeb4a26c2efacd91a84b8f4328c38305e12",
+      "patch": {
+        "explanation": "窮山之高是一直到達山的最高處，到頂才止。窮取達到盡處之意，高指出這次所達的是山頂，和窮迴溪同屬探到盡處，卻不是同一地點。",
+        "summary": "窮山之高是一直到達山的最高處，到頂才止。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "走遍沿途岔路",
+            "explanation": "山之高指定最高處，不表示先遍走所有岔路。"
+          },
+          {
+            "id": "b",
+            "text": "到達山的最高處",
+            "explanation": "窮山之高是一直到達山的最高處，到頂才止。"
+          },
+          {
+            "id": "c",
+            "text": "走到體力耗盡",
+            "explanation": "而止的條件是到頂，不是力竭無法再走。"
+          },
+          {
+            "id": "d",
+            "text": "探明山高數值",
+            "explanation": "窮在這裏是親自到達，原文沒有測量山高。"
+          }
+        ],
+        "misconception": "山之高指定最高處，不表示先遍走所有岔路；而止的條件是到頂，不是力竭無法再走；窮在這裏是親自到達，原文沒有測量山高。"
+      },
+      "objective": "文句中「窮」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-02-03-12",
+      "ordinal": 39,
+      "baseQuestionHash": "956f21c88f7ee97bd192064977698ae05494c61727516d1bc8a4d56ee8ad64d5",
+      "patch": {
+        "explanation": "之是的，把山和高連成山的高處，即山頂。全句的行動是窮、結果是而止，之只是連接限定關係；即使整句有到達意思，也不能把之另譯成前往。",
+        "summary": "之是的，把山和高連成山的高處，即山頂。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "它，指西山",
+            "explanation": "它會使山、之、高無法形成山的高處這個短語。"
+          },
+          {
+            "id": "b",
+            "text": "的，結構助詞",
+            "explanation": "之是的，把山和高連成山的高處，即山頂。"
+          },
+          {
+            "id": "c",
+            "text": "我，指作者",
+            "explanation": "我在本句沒有合適指代位置，作者是省略的行動者。"
+          },
+          {
+            "id": "d",
+            "text": "到，表示前往",
+            "explanation": "前往的意思已由窮承擔，之連接山與高處，並不另起行動。"
+          }
+        ],
+        "misconception": "它會使山、之、高無法形成山的高處這個短語；我在本句沒有合適指代位置，作者是省略的行動者；前往的意思已由窮承擔，之連接山與高處，並不另起行動。"
+      },
+      "objective": "文句中「之」的用法或所指，哪項正確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-03-03-0",
+      "ordinal": 40,
+      "baseQuestionHash": "caa98831c43901170cfd043c5b1c5fa8a934e4569a41c800aca91b18508269dc",
+      "patch": {
+        "explanation": "攀援是攀附樹木山石而登，寫登頂時借力向上的動作。而登直接指出目的，後句箕踞而遨才轉為坐定觀景；不能把借物攀登套成借權勢求仕。",
+        "summary": "攀援是攀附樹木山石而登，寫登頂時借力向上的動作。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "攀附樹石而登",
+            "explanation": "攀援是攀附樹木山石而登，寫登頂時借力向上的動作。"
+          },
+          {
+            "id": "b",
+            "text": "攀附權勢求進",
+            "explanation": "攀附權勢是引申的人事情境，原文明寫實際登山。"
+          },
+          {
+            "id": "c",
+            "text": "請求同伴援助",
+            "explanation": "援有援助義，但攀援連用說自身借樹石攀爬，未說向同伴求救。"
+          },
+          {
+            "id": "d",
+            "text": "以繩牽物上山",
+            "explanation": "用繩牽物改成運送物件，原文主體在攀登。"
+          }
+        ],
+        "misconception": "攀附權勢是引申的人事情境，原文明寫實際登山；援有援助義，但攀援連用說自身借樹石攀爬，未說向同伴求救；用繩牽物改成運送物件，原文主體在攀登。"
+      },
+      "objective": "文句中「攀援」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-03-03-1",
+      "ordinal": 41,
+      "baseQuestionHash": "f770f7d870819ffb46a303c5776ebadfea2cac8785d2c7b208bf17928188e362",
+      "patch": {
+        "explanation": "箕踞是伸開兩腿、像簸箕般坐着，寫登頂後舒展隨意的坐姿。箕取簸箕形狀作比，踞說坐，接着遨是坐定遠望；不是跪坐或盤腿。",
+        "summary": "箕踞是伸開兩腿、像簸箕般坐着，寫登頂後舒展隨意的坐姿。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "收緊雙腿，跪坐於地",
+            "explanation": "跪坐收攏雙腿，與向前伸展如箕的形態不同。"
+          },
+          {
+            "id": "b",
+            "text": "俯低身體，以雙手撐地",
+            "explanation": "雙手撐地寫另一種姿態，未交代箕所比擬的腿形。"
+          },
+          {
+            "id": "c",
+            "text": "兩腿交疊，盤坐於地",
+            "explanation": "盤坐把雙腿交疊，也不呈簸箕般伸展。"
+          },
+          {
+            "id": "d",
+            "text": "伸開兩腿，像簸箕般坐着",
+            "explanation": "箕踞是伸開兩腿、像簸箕般坐着，寫登頂後舒展隨意的坐姿。"
+          }
+        ],
+        "misconception": "跪坐收攏雙腿，與向前伸展如箕的形態不同；雙手撐地寫另一種姿態，未交代箕所比擬的腿形；盤坐把雙腿交疊，也不呈簸箕般伸展。"
+      },
+      "objective": "文句中「箕踞」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-03-03-2",
+      "ordinal": 42,
+      "baseQuestionHash": "ec4b8d55fd86cd3a3c30a89d315c4afd18f5596f3e5a90f34a46fcfae781fd6f",
+      "patch": {
+        "explanation": "遨在本書本句解作隨意眺望觀賞，作者已登頂並箕踞坐定。後文數州土地盡在席下是觀看所得，所以此處不是繼續走路，也不是因登高而自大。",
+        "summary": "遨在本書本句解作隨意眺望觀賞，作者已登頂並箕踞坐定。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "沿山路四處行走",
+            "explanation": "遨可聯想到遨遊，但此處坐着觀景，不是在山路行走。"
+          },
+          {
+            "id": "b",
+            "text": "向山上繼續攀登",
+            "explanation": "攀登已在前句完成，不能把而遨再解成登山。"
+          },
+          {
+            "id": "c",
+            "text": "因居高而感到自傲",
+            "explanation": "遨不是傲，句中呈現隨意觀賞，未說自負。"
+          },
+          {
+            "id": "d",
+            "text": "隨意眺望觀賞",
+            "explanation": "遨在本書本句解作隨意眺望觀賞，作者已登頂並箕踞坐定。"
+          }
+        ],
+        "stem": "依本書解釋，「箕踞而遨」的「遨」是甚麼意思？",
+        "misconception": "遨可聯想到遨遊，但此處坐着觀景，不是在山路行走；攀登已在前句完成，不能把而遨再解成登山；遨不是傲，句中呈現隨意觀賞，未說自負。"
+      },
+      "objective": "依本書解釋，「箕踞而遨」的「遨」是甚麼意思？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-03-03-3",
+      "ordinal": 43,
+      "baseQuestionHash": "a67072fa308999ecdba346338eed139a16eac63c596333737b21d008d882f17c",
+      "patch": {
+        "explanation": "土壤在此指土地，數州限定的是廣闊地面範圍。作者從高處俯看數州，不是在近看泥土質地；土地彷彿都在坐席之下，作用是顯出西山高峻。",
+        "summary": "土壤在此指土地，數州限定的是廣闊地面範圍。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "適合耕作的泥土",
+            "explanation": "數州土壤泛指土地，未限定農耕土質或可耕用途。"
+          },
+          {
+            "id": "b",
+            "text": "鄉土風俗",
+            "explanation": "鄉土風俗是人文習俗，不能直接落在坐席之下成為所見地勢。"
+          },
+          {
+            "id": "c",
+            "text": "腳下坐席旁的泥土",
+            "explanation": "數州已把所見擴到遠方，不能縮為坐處附近。"
+          },
+          {
+            "id": "d",
+            "text": "土地",
+            "explanation": "土壤在此指土地，數州限定的是廣闊地面範圍。"
+          }
+        ],
+        "misconception": "數州土壤泛指土地，未限定農耕土質或可耕用途；鄉土風俗是人文習俗，不能直接落在坐席之下成為所見地勢；數州已把所見擴到遠方，不能縮為坐處附近。"
+      },
+      "objective": "文句中「土壤」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-03-03-4",
+      "ordinal": 44,
+      "baseQuestionHash": "112da8f5ba100afccc3693522aaec1b86b7d2ad6afbda7f90f5c8eb5f499d185",
+      "patch": {
+        "explanation": "衽席是坐席，與前文箕踞的坐姿相接。數州土地皆在席下不是土地真的搬到席底，而是極寫登高俯瞰的視覺效果，不能只拆衽為衣襟或把席想成菜肴。",
+        "summary": "衽席是坐席，與前文箕踞的坐姿相接。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "坐席",
+            "explanation": "衽席是坐席，與前文箕踞的坐姿相接。"
+          },
+          {
+            "id": "b",
+            "text": "衣襟",
+            "explanation": "衽單字可聯想到衣襟，但衽席在本書本句作坐席。"
+          },
+          {
+            "id": "c",
+            "text": "宴飲時的席次",
+            "explanation": "箕踞承接坐席實物，這裏不討論座次尊卑。"
+          },
+          {
+            "id": "d",
+            "text": "山上的宴飲場地",
+            "explanation": "衽席在此是作者所坐的席，不是整片宴飲場所。"
+          }
+        ],
+        "misconception": "衽單字可聯想到衣襟，但衽席在本書本句作坐席；箕踞承接坐席實物，這裏不討論座次尊卑；衽席在此是作者所坐的席，不是整片宴飲場所。"
+      },
+      "objective": "文句中「衽席」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-03-03-5",
+      "ordinal": 45,
+      "baseQuestionHash": "cc213bbbebecc4b17a5fb3d27668b36ac2f6dc25e178533e7a7a51978f1e568a",
+      "patch": {
+        "explanation": "勢是地勢，前面的高下限定了高低起伏，後面的若垤若穴又把它形象化。判斷詞義先看修飾語和承接描寫，便知是在說地形而非人的力量或聲望。",
+        "summary": "勢是地勢，前面的高下限定了高低起伏，後面的若垤若穴又把它形象化。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "地勢",
+            "explanation": "勢是地勢，前面的高下限定了高低起伏，後面的若垤若穴又把它形象化。"
+          },
+          {
+            "id": "b",
+            "text": "權勢",
+            "explanation": "權勢屬人事力量，不能用高低山丘窪地來直接描形。"
+          },
+          {
+            "id": "c",
+            "text": "軍勢",
+            "explanation": "軍勢須有軍隊布局，此處只有登高所見。"
+          },
+          {
+            "id": "d",
+            "text": "聲勢",
+            "explanation": "聲勢重聲威影響，後文土堆洞穴描的卻是地形。"
+          }
+        ],
+        "misconception": "權勢屬人事力量，不能用高低山丘窪地來直接描形；軍勢須有軍隊布局，此處只有登高所見；聲勢重聲威影響，後文土堆洞穴描的卻是地形。"
+      },
+      "objective": "文句中「勢」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-03-03-6",
+      "ordinal": 46,
+      "baseQuestionHash": "a5a5005288d3e0ec9fdd0828c079006f0395afad5ac63aaaa7e12154c001823c",
+      "patch": {
+        "explanation": "岈然洼然依本書解作深邃、低窪的樣子，承接高下之勢，寫俯視所見。隨後像垤像穴，把起伏地貌收在高處視野中；這是山下景物的呈現，不是直接形容西山挺拔。",
+        "summary": "岈然洼然依本書解作深邃、低窪的樣子，承接高下之勢，寫俯視所見。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "深邃低窪的樣子",
+            "explanation": "岈然洼然依本書解作深邃、低窪的樣子，承接高下之勢，寫俯視所見。"
+          },
+          {
+            "id": "b",
+            "text": "平坦寬闊的樣子",
+            "explanation": "平坦會抹去深窪與高下起伏。"
+          },
+          {
+            "id": "c",
+            "text": "挺拔聳立的樣子",
+            "explanation": "挺拔聳立較合西山高峻，這裏的主體是俯視的周圍地形。"
+          },
+          {
+            "id": "d",
+            "text": "陡直峻險的樣子",
+            "explanation": "陡直峻險強調險峭，未準確表達本書深邃低窪的詞義。"
+          }
+        ],
+        "stem": "依本書解釋，「岈然洼然」在句中是甚麼意思？",
+        "misconception": "平坦會抹去深窪與高下起伏；挺拔聳立較合西山高峻，這裏的主體是俯視的周圍地形；陡直峻險強調險峭，未準確表達本書深邃低窪的詞義。"
+      },
+      "objective": "依本書解釋，「岈然洼然」在句中是甚麼意思？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-03-03-7",
+      "ordinal": 47,
+      "baseQuestionHash": "a668504b334bbf433298a686f15e8f30dd4022c08855c6ec55b8f72e2d49a2c8",
+      "patch": {
+        "explanation": "垤是蟻穴旁的小土堆，用它比擬俯看時顯得低小的山丘。若表示比喻，並非說所有山真的變成蟻穴；小土堆與西山高峻的尺度落差才是作用所在。",
+        "summary": "垤是蟻穴旁的小土堆，用它比擬俯看時顯得低小的山丘。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "隆起的整座山峰",
+            "explanation": "整座山峰是被比擬的景物，垤則是用來比它的小土堆。"
+          },
+          {
+            "id": "b",
+            "text": "蟻穴旁的小土堆",
+            "explanation": "垤是蟻穴旁的小土堆，用它比擬俯看時顯得低小的山丘。"
+          },
+          {
+            "id": "c",
+            "text": "向下凹陷的小洞穴",
+            "explanation": "洞穴對應後一個穴，垤是隆起的小堆，不是凹處。"
+          },
+          {
+            "id": "d",
+            "text": "連綿延伸的堤岸",
+            "explanation": "堤岸可能使人聯想到近形字，但垤不是防水長堤。"
+          }
+        ],
+        "misconception": "整座山峰是被比擬的景物，垤則是用來比它的小土堆；洞穴對應後一個穴，垤是隆起的小堆，不是凹處；堤岸可能使人聯想到近形字，但垤不是防水長堤。"
+      },
+      "objective": "文句中「垤」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-03-03-8",
+      "ordinal": 48,
+      "baseQuestionHash": "2455cd086d04c2c1fe8fd4d8bd8e1f4121208de47f359a9b12a783079bf64966",
+      "patch": {
+        "explanation": "穴是洞穴，和垤這個小土堆並列為喻體。作者把俯看時的低窪地形比作洞穴，使周景顯得渺小；詞本身不是山峰或土坡。",
+        "summary": "穴是洞穴，和垤這個小土堆並列為喻體。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "洞穴",
+            "explanation": "穴是洞穴，和垤這個小土堆並列為喻體。"
+          },
+          {
+            "id": "b",
+            "text": "小土堆",
+            "explanation": "小土堆是垤，穴則指凹入的洞。"
+          },
+          {
+            "id": "c",
+            "text": "山峰",
+            "explanation": "山峰屬突起地形，與穴的凹入形態不同。"
+          },
+          {
+            "id": "d",
+            "text": "土坡",
+            "explanation": "土坡是傾斜地面，未表達洞穴的形狀。"
+          }
+        ],
+        "misconception": "小土堆是垤，穴則指凹入的洞；山峰屬突起地形，與穴的凹入形態不同；土坡是傾斜地面，未表達洞穴的形狀。"
+      },
+      "objective": "文句中「穴」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-03-03-9",
+      "ordinal": 49,
+      "baseQuestionHash": "8c3647543c56553e5af6f9a4c094b1a63391fd880147a98fffbbeada7eff3646",
+      "patch": {
+        "explanation": "尺寸千里把廣達千里的景物寫成縮在眼前很小的視野範圍，突出登高望遠。這是誇張的觀看感受，不是精密量測，也不保證遠處每個細節都與近處一樣清楚。",
+        "summary": "尺寸千里把廣達千里的景物寫成縮在眼前很小的視野範圍，突出登高望遠。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "千里各地細節，都看得像近處一樣清楚",
+            "explanation": "盡收眼底指視野廣，不能推出每個微小細節同樣清晰。"
+          },
+          {
+            "id": "b",
+            "text": "用眼前的尺幅，逐段測量千里地形",
+            "explanation": "作者沒有拿尺逐段量地，尺寸與千里的落差在強調視覺效果。"
+          },
+          {
+            "id": "c",
+            "text": "千里景物縮在眼前尺寸之間",
+            "explanation": "尺寸千里把廣達千里的景物寫成縮在眼前很小的視野範圍，突出登高望遠。"
+          },
+          {
+            "id": "d",
+            "text": "西山本身看來只剩尺寸大小",
+            "explanation": "縮小的是俯看的遠景，不能反移成所登西山本身縮小。"
+          }
+        ],
+        "misconception": "盡收眼底指視野廣，不能推出每個微小細節同樣清晰；作者沒有拿尺逐段量地，尺寸與千里的落差在強調視覺效果；縮小的是俯看的遠景，不能反移成所登西山本身縮小。"
+      },
+      "objective": "文句中「尺寸千里」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-03-03-10",
+      "ordinal": 50,
+      "baseQuestionHash": "c038f4b646fb215471d5e2686bae2fe1faea4cebd46709719538071b64180e94",
+      "patch": {
+        "explanation": "攢蹙累積是密集簇聚、層層堆疊，說廣闊遠景在俯視中收攏到眼前。承接尺寸千里，可理解為觀看尺度改變後的重疊感；不是群山真的移動堆到一起。",
+        "summary": "攢蹙累積是密集簇聚、層層堆疊，說廣闊遠景在俯視中收攏到眼前。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "彼此遠隔、稀疏分布",
+            "explanation": "遠隔稀疏與攢蹙的密集相反。"
+          },
+          {
+            "id": "b",
+            "text": "高低一致、平鋪開去",
+            "explanation": "高低一致、平鋪會抹去累積所表達的層疊。"
+          },
+          {
+            "id": "c",
+            "text": "密集簇聚、層層堆疊",
+            "explanation": "攢蹙累積是密集簇聚、層層堆疊，說廣闊遠景在俯視中收攏到眼前。"
+          },
+          {
+            "id": "d",
+            "text": "四處奔散、漸次消失",
+            "explanation": "四散消失與後面莫得遯隱的盡現眼前也不合。"
+          }
+        ],
+        "misconception": "遠隔稀疏與攢蹙的密集相反；高低一致、平鋪會抹去累積所表達的層疊；四散消失與後面莫得遯隱的盡現眼前也不合。"
+      },
+      "objective": "文句中「攢蹙累積」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-03-03-11",
+      "ordinal": 51,
+      "baseQuestionHash": "c22355708c32781e15e6cb91ded1407aa2861fafce578d9ea3beb6e8cd89917c",
+      "patch": {
+        "explanation": "遯隱是隱藏，莫得遯隱說眼前景物無處藏起，都收入俯瞰視野。主體接前面的各處地形，並非作者或逃亡的人；遯同遁仍須依語境選隱藏義。",
+        "summary": "遯隱是隱藏，莫得遯隱說眼前景物無處藏起，都收入俯瞰視野。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "隱藏",
+            "explanation": "遯隱是隱藏，莫得遯隱說眼前景物無處藏起，都收入俯瞰視野。"
+          },
+          {
+            "id": "b",
+            "text": "逃國",
+            "explanation": "逃國須有人離開國境，這裏說景物盡現。"
+          },
+          {
+            "id": "c",
+            "text": "退隱",
+            "explanation": "退隱說人退出仕途，不能移給所見群山地勢。"
+          },
+          {
+            "id": "d",
+            "text": "藏匿他人",
+            "explanation": "藏匿他人有施事與受事，本句只是景物不能隱藏。"
+          }
+        ],
+        "misconception": "逃國須有人離開國境，這裏說景物盡現；退隱說人退出仕途，不能移給所見群山地勢；藏匿他人有施事與受事，本句只是景物不能隱藏。"
+      },
+      "objective": "文句中「遯隱」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-04-03-0",
+      "ordinal": 52,
+      "baseQuestionHash": "ed7a27ff3dc67cff3579968ba353824b76a8c3219eebd54fe77563508de4b286",
+      "patch": {
+        "explanation": "縈是纏繞，縈青繚白寫青山白水交纏相連。縈與繚相應，都描山水的分布關係，再接外與天際，把視野推向天地渾成一體的景象。",
+        "summary": "縈是纏繞，縈青繚白寫青山白水交纏相連。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "遠望",
+            "explanation": "遠望是作者觀看的動作，縈卻描述景物纏繞。"
+          },
+          {
+            "id": "b",
+            "text": "纏繞",
+            "explanation": "縈是纏繞，縈青繚白寫青山白水交纏相連。"
+          },
+          {
+            "id": "c",
+            "text": "散開",
+            "explanation": "散開與纏繞聚合方向不同，不能解釋縈青繚白的關係。"
+          },
+          {
+            "id": "d",
+            "text": "相隔",
+            "explanation": "相隔強調分離，這裏則寫山水相互環繞。"
+          }
+        ],
+        "misconception": "遠望是作者觀看的動作，縈卻描述景物纏繞；散開與纏繞聚合方向不同，不能解釋縈青繚白的關係；相隔強調分離，這裏則寫山水相互環繞。"
+      },
+      "objective": "文句中「縈」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-04-03-1",
+      "ordinal": 53,
+      "baseQuestionHash": "fa38532f315e1fed9d93555c1bd95200aa4f82831d240cf9837d3e5e745c264b",
+      "patch": {
+        "explanation": "繚是纏繞，與縈同義相應，繚白承接以白代水的景物描寫。讀縈青與繚白兩組便可知它在說山水環繞，不是在說織布或點火。",
+        "summary": "繚是纏繞，與縈同義相應，繚白承接以白代水的景物描寫。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "纏繞",
+            "explanation": "繚是纏繞，與縈同義相應，繚白承接以白代水的景物描寫。"
+          },
+          {
+            "id": "b",
+            "text": "織造",
+            "explanation": "雖可由纏繞想到絲線，句中白指水，沒有織造活動。"
+          },
+          {
+            "id": "c",
+            "text": "燃燒",
+            "explanation": "燎才可引起燃燒聯想，此處繚與縈相應為纏繞。"
+          },
+          {
+            "id": "d",
+            "text": "散開",
+            "explanation": "散開抹去山水交纏、四望如一的關係。"
+          }
+        ],
+        "misconception": "雖可由纏繞想到絲線，句中白指水，沒有織造活動；燎才可引起燃燒聯想，此處繚與縈相應為纏繞；散開抹去山水交纏、四望如一的關係。"
+      },
+      "objective": "文句中「繚」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-04-03-2",
+      "ordinal": 54,
+      "baseQuestionHash": "0c5da995c0b340a127d0f3944292a3a2101a46ea86e445e7cd9d06e5b001e6c3",
+      "patch": {
+        "explanation": "際是交接、相連，外與天際即遠處景物與天空相接。句子用與引出相接的對象天，際承擔動作；不可把天際整塊套成現代的天邊名詞而漏掉與。",
+        "summary": "際是交接、相連，外與天際即遠處景物與天空相接。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "交往、相處",
+            "explanation": "交往是人物關係，本文說山水與天空相接。"
+          },
+          {
+            "id": "b",
+            "text": "天空的邊緣",
+            "explanation": "天空邊緣是天際連讀的現代詞義，這裏應按與天／際理解。"
+          },
+          {
+            "id": "c",
+            "text": "一定的時刻",
+            "explanation": "時刻是際的時間義，但前後都在描寫空間景象。"
+          },
+          {
+            "id": "d",
+            "text": "交接、相連",
+            "explanation": "際是交接、相連，外與天際即遠處景物與天空相接。"
+          }
+        ],
+        "misconception": "交往是人物關係，本文說山水與天空相接；天空邊緣是天際連讀的現代詞義，這裏應按與天／際理解；時刻是際的時間義，但前後都在描寫空間景象。"
+      },
+      "objective": "文句中「際」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-04-03-3",
+      "ordinal": 55,
+      "baseQuestionHash": "19be3b72fac86ad3b878c9cd9b24b2379c17c5cd43ceba1654c9ccb40da36f42",
+      "patch": {
+        "explanation": "四望如一指向四周看，景物渾然連成一體。青山白水互相縈繞，向外又與天相接，所以一說整體相融，而不是每處景色毫無分別。",
+        "summary": "四望如一指向四周看，景物渾然連成一體。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "四面景物毫無特色",
+            "explanation": "整體相連不等於毫無特色，前文仍分得青山白水。"
+          },
+          {
+            "id": "b",
+            "text": "四周景物渾然一體",
+            "explanation": "四望如一指向四周看，景物渾然連成一體。"
+          },
+          {
+            "id": "c",
+            "text": "四面地形同樣平坦",
+            "explanation": "如一重渾然相連，前文高下之勢仍顯示起伏。"
+          },
+          {
+            "id": "d",
+            "text": "四方山勢同樣高峻",
+            "explanation": "四望說景象整體相連，並未抹去西山與培塿的高低差。"
+          }
+        ],
+        "misconception": "整體相連不等於毫無特色，前文仍分得青山白水；如一重渾然相連，前文高下之勢仍顯示起伏；四望說景象整體相連，並未抹去西山與培塿的高低差。"
+      },
+      "objective": "文句中「四望如一」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-04-03-4",
+      "ordinal": 56,
+      "baseQuestionHash": "8776fa4217f9d159126b3327bd343780964b17d96f1579bed96fcaa5376ab07f",
+      "patch": {
+        "explanation": "特立是卓絕獨立，寫西山出眾、與小丘不屬同類。緊接不與培塿為類，能看到立的形勢與特的超卓；這裏既寫山，也可寄寓作者不隨俗的志向。",
+        "summary": "特立是卓絕獨立，寫西山出眾、與小丘不屬同類。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "卓絕獨立",
+            "explanation": "特立是卓絕獨立，寫西山出眾、與小丘不屬同類。"
+          },
+          {
+            "id": "b",
+            "text": "偏僻難尋",
+            "explanation": "幽僻可從開路聯想，但特立與培塿對照時重卓絕出眾。"
+          },
+          {
+            "id": "c",
+            "text": "突然隆起",
+            "explanation": "西山原本已在，然後知是認識加深，非山剛形成。"
+          },
+          {
+            "id": "d",
+            "text": "比鄰相接",
+            "explanation": "特立寫卓然獨立，不以山與山相鄰為重點。"
+          }
+        ],
+        "misconception": "幽僻可從開路聯想，但特立與培塿對照時重卓絕出眾；西山原本已在，然後知是認識加深，非山剛形成；特立寫卓然獨立，不以山與山相鄰為重點。"
+      },
+      "objective": "文句中「特立」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-04-03-5",
+      "ordinal": 57,
+      "baseQuestionHash": "39cbc1cf472dd8e3d18c6fac8e7999edda48a5b01d4970b07d844a2f3b7e7b75",
+      "patch": {
+        "explanation": "培塿是小山丘，用作西山的對照。西山特立而不與之為類，從高峻與低小的差別，突出西山超卓；若把培塿也解成高山，便失去這個對比。",
+        "summary": "培塿是小山丘，用作西山的對照。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "高山峰",
+            "explanation": "高山峰抹去與西山高峻對照的低小尺度。"
+          },
+          {
+            "id": "b",
+            "text": "小山丘",
+            "explanation": "培塿是小山丘，用作西山的對照。"
+          },
+          {
+            "id": "c",
+            "text": "土城牆",
+            "explanation": "土城牆是人工建築，此處比較的是自然山丘。"
+          },
+          {
+            "id": "d",
+            "text": "深洞穴",
+            "explanation": "深洞穴可聯想到前文穴，但培塿是突起的小丘。"
+          }
+        ],
+        "misconception": "高山峰抹去與西山高峻對照的低小尺度；土城牆是人工建築，此處比較的是自然山丘；深洞穴可聯想到前文穴，但培塿是突起的小丘。"
+      },
+      "objective": "文句中「培塿」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-04-03-6",
+      "ordinal": 58,
+      "baseQuestionHash": "63307e6cdc4f93e0a5c6952af218bd919ad60a1a3690b5aa11d3bc246bfc2c22",
+      "patch": {
+        "explanation": "悠悠在這裏指渺遠無盡，莫得其涯補明感受不到邊際。它寫心神彷彿與廣大的天地元氣同在；雖帶舒展情味，詞義不能只剩慢行或無事可做。",
+        "summary": "悠悠在這裏指渺遠無盡，莫得其涯補明感受不到邊際。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "渺遠無盡",
+            "explanation": "悠悠在這裏指渺遠無盡，莫得其涯補明感受不到邊際。"
+          },
+          {
+            "id": "b",
+            "text": "從容緩慢",
+            "explanation": "從容緩慢偏動作速度，此處莫得其涯指向廣遠無邊。"
+          },
+          {
+            "id": "c",
+            "text": "憂思不安",
+            "explanation": "憂思不安是開篇惴慄，此時正轉向與天地同遊。"
+          },
+          {
+            "id": "d",
+            "text": "悠閒無事",
+            "explanation": "悠閒無事只說生活安排，未涵蓋天地境界的渺遠。"
+          }
+        ],
+        "misconception": "從容緩慢偏動作速度，此處莫得其涯指向廣遠無邊；憂思不安是開篇惴慄，此時正轉向與天地同遊；悠閒無事只說生活安排，未涵蓋天地境界的渺遠。"
+      },
+      "objective": "文句中「悠悠」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-04-03-7",
+      "ordinal": 59,
+      "baseQuestionHash": "e797d756902a5341d630a1823ecc4c5ac19e70d2802dc551aaaf8c39ea58e275",
+      "patch": {
+        "explanation": "顥氣依本書解作天地間的元氣，顥通昊，指廣大的天。與顥氣俱寫心神彷彿融入廣大天地，和後句與造物者遊相應；不是單指山上的一片白霧。",
+        "summary": "顥氣依本書解作天地間的元氣，顥通昊，指廣大的天。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "山間白色霧氣",
+            "explanation": "白霧是局部可見氣象，不能等同此處天地元氣。"
+          },
+          {
+            "id": "b",
+            "text": "天地間的元氣",
+            "explanation": "顥氣依本書解作天地間的元氣，顥通昊，指廣大的天。"
+          },
+          {
+            "id": "c",
+            "text": "清亮的月光",
+            "explanation": "月光不是氣，且這裏尚未交代月出景象。"
+          },
+          {
+            "id": "d",
+            "text": "人呼出的氣息",
+            "explanation": "個人呼吸範圍太小，不能承接莫得其涯的廣大感。"
+          }
+        ],
+        "misconception": "白霧是局部可見氣象，不能等同此處天地元氣；月光不是氣，且這裏尚未交代月出景象；個人呼吸範圍太小，不能承接莫得其涯的廣大感。"
+      },
+      "objective": "文句中「顥氣」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-04-03-8",
+      "ordinal": 60,
+      "baseQuestionHash": "4997f44f73eca50ba308f1e46af45fc79079b6d0cd7647937fb4a4343c6b95b7",
+      "patch": {
+        "explanation": "俱是一同，與顥氣俱即與天地元氣一同存在。與引出相伴對象，俱說共在的關係，表現心神的開展；不能因字形近具或懼便改解成器物或恐懼。",
+        "summary": "俱是一同，與顥氣俱即與天地元氣一同存在。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "各自存在",
+            "explanation": "與顥氣俱強調一同，不能拆成互不相關的各自存在。"
+          },
+          {
+            "id": "b",
+            "text": "一同",
+            "explanation": "俱是一同，與顥氣俱即與天地元氣一同存在。"
+          },
+          {
+            "id": "c",
+            "text": "繼續存在",
+            "explanation": "繼續側重時間延續，俱側重作者與天地元氣共同存在。"
+          },
+          {
+            "id": "d",
+            "text": "暫時相遇",
+            "explanation": "相遇只說碰面，俱在此表同在，並無暫時的限定。"
+          }
+        ],
+        "misconception": "與顥氣俱強調一同，不能拆成互不相關的各自存在；繼續側重時間延續，俱側重作者與天地元氣共同存在；相遇只說碰面，俱在此表同在，並無暫時的限定。"
+      },
+      "objective": "文句中「俱」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-04-03-9",
+      "ordinal": 61,
+      "baseQuestionHash": "acf6457f8ef1fb5dc0ac5708f7c1d6aaae5dc110d6a52c32343c7eb7312577d1",
+      "patch": {
+        "explanation": "涯是邊際，莫得其涯說不能找到這廣大境界的邊界。後句不知其所窮再說不見盡頭，兩者互相解釋；這裏不限定河岸，也不是人生經歷的生涯。",
+        "summary": "涯是邊際，莫得其涯說不能找到這廣大境界的邊界。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "河岸道路",
+            "explanation": "河岸道路太具體，原句所寫是天地境界的無邊。"
+          },
+          {
+            "id": "b",
+            "text": "邊際",
+            "explanation": "涯是邊際，莫得其涯說不能找到這廣大境界的邊界。"
+          },
+          {
+            "id": "c",
+            "text": "山崖石壁",
+            "explanation": "山崖石壁屬崖的常見意象，本句重邊界而非石壁。"
+          },
+          {
+            "id": "d",
+            "text": "生平經歷",
+            "explanation": "生平經歷須用人生敘述理解，此處承接顥氣的廣大。"
+          }
+        ],
+        "misconception": "河岸道路太具體，原句所寫是天地境界的無邊；山崖石壁屬崖的常見意象，本句重邊界而非石壁；生平經歷須用人生敘述理解，此處承接顥氣的廣大。"
+      },
+      "objective": "文句中「涯」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-04-03-10",
+      "ordinal": 62,
+      "baseQuestionHash": "0e9cf3d3a006ec551442398c9cb6bd773203bf0fd75ae6479d12c53fe64f391f",
+      "patch": {
+        "explanation": "洋洋在這裏是廣大無盡，後接與造物者遊、不知其所窮說明這個範圍。它與悠悠相應，延展無邊心境，不是洋洋得意的自滿，也不是單寫海水。",
+        "summary": "洋洋在這裏是廣大無盡，後接與造物者遊、不知其所窮說明這個範圍。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "得意自滿",
+            "explanation": "得意自滿是另一語境中的搭配，本句側重境界廣大。"
+          },
+          {
+            "id": "b",
+            "text": "廣大無盡",
+            "explanation": "洋洋在這裏是廣大無盡，後接與造物者遊、不知其所窮說明這個範圍。"
+          },
+          {
+            "id": "c",
+            "text": "聲音洪亮",
+            "explanation": "洪亮須以聲音為描寫對象，此處沒有聽覺描寫。"
+          },
+          {
+            "id": "d",
+            "text": "海水流動",
+            "explanation": "洋字不必都指海，這裏說與自然同遊的廣闊感。"
+          }
+        ],
+        "misconception": "得意自滿是另一語境中的搭配，本句側重境界廣大；洪亮須以聲音為描寫對象，此處沒有聽覺描寫；洋字不必都指海，這裏說與自然同遊的廣闊感。"
+      },
+      "objective": "文句中「洋洋」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-04-03-11",
+      "ordinal": 63,
+      "baseQuestionHash": "f71f9998230b2f18392db6c03d5b3f2dab7d8e7721e9101aab1e536cf2718be1",
+      "patch": {
+        "explanation": "造物者指大自然，是生成萬物的天地力量。與造物者遊承接與顥氣俱，說心神彷彿與自然同遊；不是有一名具體工匠或君主陪同登山。",
+        "summary": "造物者指大自然，是生成萬物的天地力量。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "製物的工匠",
+            "explanation": "工匠製作器物，範圍較窄，不能代表此處天地萬物的生成。"
+          },
+          {
+            "id": "b",
+            "text": "開國的君主",
+            "explanation": "開國君主屬政治人物，本文沒有帝王同行的情節。"
+          },
+          {
+            "id": "c",
+            "text": "大自然",
+            "explanation": "造物者指大自然，是生成萬物的天地力量。"
+          },
+          {
+            "id": "d",
+            "text": "造寺的僧人",
+            "explanation": "法華寺只交代先前觀看地點，不能據此補出造寺僧人同行。"
+          }
+        ],
+        "misconception": "工匠製作器物，範圍較窄，不能代表此處天地萬物的生成；開國君主屬政治人物，本文沒有帝王同行的情節；法華寺只交代先前觀看地點，不能據此補出造寺僧人同行。"
+      },
+      "objective": "文句中「造物者」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-04-03-12",
+      "ordinal": 64,
+      "baseQuestionHash": "d96fc817bad465c04c36aad6bf6c35010983fd22324f8387d68199eaf534f95f",
+      "patch": {
+        "explanation": "所窮指盡頭、盡期，不知其所窮就是感受不到這種同遊境界的終點。它與前句莫得其涯相對，兩句都寫無窮；不是問自己在哪裏陷入貧困。",
+        "summary": "所窮指盡頭、盡期，不知其所窮就是感受不到這種同遊境界的終點。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "貧困的處所",
+            "explanation": "貧困處所把窮套成經濟狀況，與天地同遊的語境不合。"
+          },
+          {
+            "id": "b",
+            "text": "盡頭、盡期",
+            "explanation": "所窮指盡頭、盡期，不知其所窮就是感受不到這種同遊境界的終點。"
+          },
+          {
+            "id": "c",
+            "text": "財物的消耗",
+            "explanation": "財物消耗須有花費對象，本段只寫景與心神。"
+          },
+          {
+            "id": "d",
+            "text": "探究的方法",
+            "explanation": "探究方法回答如何研究，所窮在此回答到何處終止。"
+          }
+        ],
+        "misconception": "貧困處所把窮套成經濟狀況，與天地同遊的語境不合；財物消耗須有花費對象，本段只寫景與心神；探究方法回答如何研究，所窮在此回答到何處終止。"
+      },
+      "objective": "文句中「所窮」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-05-03-0",
+      "ordinal": 65,
+      "baseQuestionHash": "6fc55454de30aaa6dc4a324d86d417b8b0b7023ff0f9e93cf1ac1cb450d803f5",
+      "patch": {
+        "explanation": "引是舉起，引觴即舉起酒杯。觴作動作對象，後面滿酌說斟滿酒，整組是宴飲動作；引並非在帶路、引文或延長某段時間。",
+        "summary": "引是舉起，引觴即舉起酒杯。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "舉起",
+            "explanation": "引是舉起，引觴即舉起酒杯。"
+          },
+          {
+            "id": "b",
+            "text": "引導",
+            "explanation": "引導須有被帶領的人或方向，此處對象是酒杯。"
+          },
+          {
+            "id": "c",
+            "text": "引用",
+            "explanation": "引用須有文字言論，觴不是可引用的語句。"
+          },
+          {
+            "id": "d",
+            "text": "延長",
+            "explanation": "延長通常作用於時間長度，舉杯宴飲的搭配不取此義。"
+          }
+        ],
+        "misconception": "引導須有被帶領的人或方向，此處對象是酒杯；引用須有文字言論，觴不是可引用的語句；延長通常作用於時間長度，舉杯宴飲的搭配不取此義。"
+      },
+      "objective": "文句中「引」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-05-03-1",
+      "ordinal": 66,
+      "baseQuestionHash": "5aa6b2ae36017ef18a02310c27ffff03f348f0a6a0aa0242ebca94555f23f491",
+      "patch": {
+        "explanation": "觴是酒杯，引觴寫舉杯，滿酌寫把酒斟滿。與首段傾壺相比，壺是盛酒器，觴是飲酒杯；同在飲酒場面仍須分清器具功能。",
+        "summary": "觴是酒杯，引觴寫舉杯，滿酌寫把酒斟滿。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "酒壺",
+            "explanation": "酒壺在首段由壺字表達，此處觴指杯，不能混同盛酒與飲酒器。"
+          },
+          {
+            "id": "b",
+            "text": "酒杯",
+            "explanation": "觴是酒杯，引觴寫舉杯，滿酌寫把酒斟滿。"
+          },
+          {
+            "id": "c",
+            "text": "酒席",
+            "explanation": "酒席是整個宴飲場合，不是引所舉起的器物。"
+          },
+          {
+            "id": "d",
+            "text": "酒令",
+            "explanation": "酒令是宴飲遊戲規則，不能舉起並斟滿。"
+          }
+        ],
+        "misconception": "酒壺在首段由壺字表達，此處觴指杯，不能混同盛酒與飲酒器；酒席是整個宴飲場合，不是引所舉起的器物；酒令是宴飲遊戲規則，不能舉起並斟滿。"
+      },
+      "objective": "文句中「觴」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-05-03-2",
+      "ordinal": 67,
+      "baseQuestionHash": "e8491721619b3c670c390bcbf34bd7ad5299c5705905959d2844fefcd5e65076",
+      "patch": {
+        "explanation": "酌是斟酒，滿酌即斟滿杯中之酒。滿說斟入的程度，與引觴相配；喝酒是之後的行為，不應把酌在這個搭配中直接換成啜飲或考慮事情。",
+        "summary": "酌是斟酒，滿酌即斟滿杯中之酒。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "啜飲",
+            "explanation": "啜飲指喝下，滿酌則說把杯斟滿，動作方向不同。"
+          },
+          {
+            "id": "b",
+            "text": "敬酒",
+            "explanation": "敬酒需有向誰致敬的關係，本句沒有交代這個目的。"
+          },
+          {
+            "id": "c",
+            "text": "斟酒",
+            "explanation": "酌是斟酒，滿酌即斟滿杯中之酒。"
+          },
+          {
+            "id": "d",
+            "text": "斟酌",
+            "explanation": "斟酌的考慮義不合酒杯與就醉的宴飲語境。"
+          }
+        ],
+        "misconception": "啜飲指喝下，滿酌則說把杯斟滿，動作方向不同；敬酒需有向誰致敬的關係，本句沒有交代這個目的；斟酌的考慮義不合酒杯與就醉的宴飲語境。"
+      },
+      "objective": "文句中「酌」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-05-03-3",
+      "ordinal": 68,
+      "baseQuestionHash": "8d1750028336b4418bdfbc3f56759bd46feaee04ecf12aef651f914db782495f",
+      "patch": {
+        "explanation": "頹然寫酒意中身體歪倒的樣子，本句以滿酌、就醉限定它的狀態。它不是現代常說的精神頹喪；作者正沉浸宴遊，接下來還寫不知日落、天黑也不願離去。",
+        "summary": "頹然寫酒意中身體歪倒的樣子，本句以滿酌、就醉限定它的狀態。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "失意後精神沮喪的樣子",
+            "explanation": "不能因作者曾失意便把每個頹字都作沮喪，這裏直接承接飲酒。"
+          },
+          {
+            "id": "b",
+            "text": "攀登前十分疲乏的樣子",
+            "explanation": "此時已登頂宴飲，並非攀登前疲乏。"
+          },
+          {
+            "id": "c",
+            "text": "天晚後焦急不安的樣子",
+            "explanation": "不知日入與不欲歸表現沉浸，沒有天晚焦急的反應。"
+          },
+          {
+            "id": "d",
+            "text": "酒意中身體歪倒的樣子",
+            "explanation": "頹然寫酒意中身體歪倒的樣子，本句以滿酌、就醉限定它的狀態。"
+          }
+        ],
+        "misconception": "不能因作者曾失意便把每個頹字都作沮喪，這裏直接承接飲酒；此時已登頂宴飲，並非攀登前疲乏；不知日入與不欲歸表現沉浸，沒有天晚焦急的反應。"
+      },
+      "objective": "文句中「頹然」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-05-03-4",
+      "ordinal": 69,
+      "baseQuestionHash": "c255dc5afdb03c623fd97220ad5175a913a30e839f5565e2ac5e2398779ee0fc",
+      "patch": {
+        "explanation": "就是接近，就醉即漸近醉境，本書譯作將要醉了。頹然補寫酒意中的歪倒姿態，並非完成一件工作；也不能把就解成讓步連詞即使。",
+        "summary": "就是接近，就醉即漸近醉境，本書譯作將要醉了。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "立即",
+            "explanation": "立即強調時間緊接，就在本書此句解作趨近醉境。"
+          },
+          {
+            "id": "b",
+            "text": "已經",
+            "explanation": "已經將狀態說成已達，本書此處以接近、將要解就。"
+          },
+          {
+            "id": "c",
+            "text": "即使",
+            "explanation": "這裏直接記述酒意，沒有假設讓步的即使結構。"
+          },
+          {
+            "id": "d",
+            "text": "接近",
+            "explanation": "就是接近，就醉即漸近醉境，本書譯作將要醉了。"
+          }
+        ],
+        "stem": "依本書解釋，「頹然就醉」的「就」是甚麼意思？",
+        "misconception": "立即強調時間緊接，就在本書此句解作趨近醉境；已經將狀態說成已達，本書此處以接近、將要解就；這裏直接記述酒意，沒有假設讓步的即使結構。"
+      },
+      "objective": "依本書解釋，「頹然就醉」的「就」是甚麼意思？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-05-03-5",
+      "ordinal": 70,
+      "baseQuestionHash": "5edcd0769c60a4ba62902332433c8a5c5761041307e63861437c1eea36d7e5ae",
+      "patch": {
+        "explanation": "入指落下，日之入就是太陽落山。日是這個小句的主語，入說太陽的運動，不是作者走進某處；不知又突出沉浸宴遊而未察覺時間流逝。",
+        "summary": "入指落下，日之入就是太陽落山。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "進山",
+            "explanation": "進山的主體應是人，這裏是日落。"
+          },
+          {
+            "id": "b",
+            "text": "進屋",
+            "explanation": "原文未到屋內，日之入也不是人進屋。"
+          },
+          {
+            "id": "c",
+            "text": "落下",
+            "explanation": "入指落下，日之入就是太陽落山。"
+          },
+          {
+            "id": "d",
+            "text": "接受",
+            "explanation": "接受需要承受對象，本句說太陽落下。"
+          }
+        ],
+        "misconception": "進山的主體應是人，這裏是日落；原文未到屋內，日之入也不是人進屋；接受需要承受對象，本句說太陽落下。"
+      },
+      "objective": "文句中「入」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-05-03-6",
+      "ordinal": 71,
+      "baseQuestionHash": "1a1a7f6111080b375d33447c371d9cd9260af830a46374b2b55608cec2f6fe15",
+      "patch": {
+        "explanation": "蒼然形容暮色深沉蒼茫，緊接的暮色已指出描寫對象。自遠而至、至無所見把天色漸暗的過程展開，與仍不欲歸相連，反映沉浸與留戀。",
+        "summary": "蒼然形容暮色深沉蒼茫，緊接的暮色已指出描寫對象。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "草木青翠茂盛",
+            "explanation": "草木青翠雖可用蒼形容，此處主體明確是暮色。"
+          },
+          {
+            "id": "b",
+            "text": "臉色蒼白無光",
+            "explanation": "臉色蒼白需寫人的面色，文中沒有這個對象。"
+          },
+          {
+            "id": "c",
+            "text": "頭髮灰白稀疏",
+            "explanation": "頭髮灰白也是另一搭配，不能移到暮色上。"
+          },
+          {
+            "id": "d",
+            "text": "暮色深沉蒼茫",
+            "explanation": "蒼然形容暮色深沉蒼茫，緊接的暮色已指出描寫對象。"
+          }
+        ],
+        "misconception": "草木青翠雖可用蒼形容，此處主體明確是暮色；臉色蒼白需寫人的面色，文中沒有這個對象；頭髮灰白也是另一搭配，不能移到暮色上。"
+      },
+      "objective": "文句中「蒼然」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-05-03-7",
+      "ordinal": 72,
+      "baseQuestionHash": "1c6e31c815b1d4a827a71cd1810a20098c4316e92cb8d5289c298b4f16cb5455",
+      "patch": {
+        "explanation": "猶是還、仍然，天黑到看不見，作者仍不想回去。而、猶合力標出與一般預期相反的反應：天晚應歸，卻因宴遊所得而留戀，並非正在猶豫怎樣決定。",
+        "summary": "猶是還、仍然，天黑到看不見，作者仍不想回去。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "還、仍然",
+            "explanation": "猶是還、仍然，天黑到看不見，作者仍不想回去。"
+          },
+          {
+            "id": "b",
+            "text": "好像、彷彿",
+            "explanation": "好像是比擬語氣，原文明說實際仍不願歸。"
+          },
+          {
+            "id": "c",
+            "text": "特別、尤其",
+            "explanation": "尤其表示程度突出，猶這裏標出狀態持續。"
+          },
+          {
+            "id": "d",
+            "text": "猶豫、未能決定",
+            "explanation": "不欲歸已明確表達意願，不能改成未決定。"
+          }
+        ],
+        "misconception": "好像是比擬語氣，原文明說實際仍不願歸；尤其表示程度突出，猶這裏標出狀態持續；不欲歸已明確表達意願，不能改成未決定。"
+      },
+      "objective": "文句中「猶」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-05-03-8",
+      "ordinal": 73,
+      "baseQuestionHash": "d5bb99f17c90d5a67873abc3e1d0b59de5de59a002d1a17b7fce0b57b6c594cd",
+      "patch": {
+        "explanation": "心凝是心神凝聚安定，與形釋、冥合共同寫精神自在的體驗。凝有集中意，不是僵化；若讀成憂鬱凝結，便與開篇惴慄到結尾忘我的轉變相反。",
+        "summary": "心凝是心神凝聚安定，與形釋、冥合共同寫精神自在的體驗。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "心神僵化麻木",
+            "explanation": "僵化麻木會失去感通，與萬化冥合的融通不合。"
+          },
+          {
+            "id": "b",
+            "text": "心神凝聚安定",
+            "explanation": "心凝是心神凝聚安定，與形釋、冥合共同寫精神自在的體驗。"
+          },
+          {
+            "id": "c",
+            "text": "憂懼鬱結不散",
+            "explanation": "憂懼不散仍停留在舊遊起點，未表現本次新得。"
+          },
+          {
+            "id": "d",
+            "text": "思想完全停止",
+            "explanation": "心神專注不等於思想停止，作者其後更能反思遊的意義。"
+          }
+        ],
+        "misconception": "僵化麻木會失去感通，與萬化冥合的融通不合；憂懼不散仍停留在舊遊起點，未表現本次新得；心神專注不等於思想停止，作者其後更能反思遊的意義。"
+      },
+      "objective": "文句中「心凝」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-05-03-9",
+      "ordinal": 74,
+      "baseQuestionHash": "7f966eb6d1307725458a25a11503b1847e2412082caa1d0563ca36eaa00dd234",
+      "patch": {
+        "explanation": "形釋是形體的束縛彷彿解開，說精神體驗中的自在忘我。它與心凝、萬化冥合相連，超出肌肉放鬆或睡眠解乏，也未涉及官府撤回貶令。",
+        "summary": "形釋是形體的束縛彷彿解開，說精神體驗中的自在忘我。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "被貶的身分已獲解除",
+            "explanation": "解除被貶是政治身分改變，文中只有心境轉變。"
+          },
+          {
+            "id": "b",
+            "text": "形體的束縛彷彿解開",
+            "explanation": "形釋是形體的束縛彷彿解開，說精神體驗中的自在忘我。"
+          },
+          {
+            "id": "c",
+            "text": "疲倦的身體已得睡眠",
+            "explanation": "末段沒有醉眠睡醒的情節，不能以補眠代替忘我。"
+          },
+          {
+            "id": "d",
+            "text": "僵硬的姿勢開始放鬆",
+            "explanation": "姿勢放鬆只是身體動作，不能涵蓋與自然融通的精神層次。"
+          }
+        ],
+        "misconception": "解除被貶是政治身分改變，文中只有心境轉變；末段沒有醉眠睡醒的情節，不能以補眠代替忘我；姿勢放鬆只是身體動作，不能涵蓋與自然融通的精神層次。"
+      },
+      "objective": "文句中「形釋」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-05-03-10",
+      "ordinal": 75,
+      "baseQuestionHash": "42a0e048824ba78ca0fc72f219517ad24944eab6730cabecd208515b9ceae41a",
+      "patch": {
+        "explanation": "萬化指自然萬物及其變化，是作者感到與之冥合的廣大世界。它延續顥氣、造物者所指的自然境界，萬不是精確數量，化也不是單指政治教化。",
+        "summary": "萬化指自然萬物及其變化，是作者感到與之冥合的廣大世界。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "萬民受到的教化",
+            "explanation": "萬民教化需有人施教，本句說與自然相融。"
+          },
+          {
+            "id": "b",
+            "text": "仕途中的各種變化",
+            "explanation": "仕途變化仍困於個人榮辱，範圍小於此處天地萬物。"
+          },
+          {
+            "id": "c",
+            "text": "作者心中的所有計劃",
+            "explanation": "心中計劃是個人的意圖，萬化指向自身以外的自然變化。"
+          },
+          {
+            "id": "d",
+            "text": "自然萬物及其變化",
+            "explanation": "萬化指自然萬物及其變化，是作者感到與之冥合的廣大世界。"
+          }
+        ],
+        "misconception": "萬民教化需有人施教，本句說與自然相融；仕途變化仍困於個人榮辱，範圍小於此處天地萬物；心中計劃是個人的意圖，萬化指向自身以外的自然變化。"
+      },
+      "objective": "文句中「萬化」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-05-03-11",
+      "ordinal": 76,
+      "baseQuestionHash": "dfacb5e0abe9d2712e8d9ccbfd3e1a47e2ee250b275fdb5e2bc934ba9d8ed7cf",
+      "patch": {
+        "explanation": "冥合是暗合、融為一體，說心神不覺與自然萬物相通。心凝形釋先寫自身狀態，與萬化再交代融合對象；不是隔絕外物，更不是沒有知覺。",
+        "summary": "冥合是暗合、融為一體，說心神不覺與自然萬物相通。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "醉得昏沉而失去知覺",
+            "explanation": "昏迷失覺不足以說明與萬物相通及其後的領悟。"
+          },
+          {
+            "id": "b",
+            "text": "暫時忘掉世事，回避與外物接觸",
+            "explanation": "回避接觸把融通改成隔離，與合的方向相反。"
+          },
+          {
+            "id": "c",
+            "text": "勉強附和外物的變化",
+            "explanation": "勉強附和含被迫迎合，原文重自然、忘我的契合。"
+          },
+          {
+            "id": "d",
+            "text": "暗合、融為一體",
+            "explanation": "冥合是暗合、融為一體，說心神不覺與自然萬物相通。"
+          }
+        ],
+        "misconception": "昏迷失覺不足以說明與萬物相通及其後的領悟；回避接觸把融通改成隔離，與合的方向相反；勉強附和含被迫迎合，原文重自然、忘我的契合。"
+      },
+      "objective": "文句中「冥合」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-05-03-13",
+      "ordinal": 77,
+      "baseQuestionHash": "e9de74a82bb5c9175beb59d8f7c85257050a7f8eb89d9e86af4ea886f2980afa",
+      "patch": {
+        "explanation": "未始是未曾，吾嚮之未始遊即反省從前未曾真正領略遊賞。詞義是否定先前經驗，全文則補明否定的是精神所得，不是出遊次數；不能把語譯擴成從未踏足山水。",
+        "summary": "未始是未曾，吾嚮之未始遊即反省從前未曾真正領略遊賞。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "未曾",
+            "explanation": "未始是未曾，吾嚮之未始遊即反省從前未曾真正領略遊賞。"
+          },
+          {
+            "id": "b",
+            "text": "未到最初",
+            "explanation": "未到最初不是未始的整體用法，這裏否定的是曾經真遊。"
+          },
+          {
+            "id": "c",
+            "text": "不願開始",
+            "explanation": "不願開始涉及意願，原文回顧已發生的舊遊。"
+          },
+          {
+            "id": "d",
+            "text": "不是第一次",
+            "explanation": "不是第一次反而表示此前有同樣經驗，與未曾相反。"
+          }
+        ],
+        "stem": "「吾嚮之未始遊」中的「未始」是甚麼意思？",
+        "misconception": "未到最初不是未始的整體用法，這裏否定的是曾經真遊；不願開始涉及意願，原文回顧已發生的舊遊；不是第一次反而表示此前有同樣經驗，與未曾相反。"
+      },
+      "objective": "「吾嚮之未始遊」中的「未始」是甚麼意思？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-05-03-14",
+      "ordinal": 78,
+      "baseQuestionHash": "42c08cd6c647b96c12619b7c5def9f9284d2a0e8b2b22dcdcf5ea094205d0776",
+      "patch": {
+        "explanation": "於是是從這次，是回指眼前這次西山宴遊，於表起點。前面吾嚮之未始遊寫過往不足，後面始寫真遊開始，合成從前與今次的對照，不是現代於是便的承接連詞。",
+        "summary": "於是是從這次，是回指眼前這次西山宴遊，於表起點。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "從這次",
+            "explanation": "於是是從這次，是回指眼前這次西山宴遊，於表起點。"
+          },
+          {
+            "id": "b",
+            "text": "因此便",
+            "explanation": "因此便只表前後承接，未譯出從這次起的起點關係。"
+          },
+          {
+            "id": "c",
+            "text": "在此州",
+            "explanation": "在此州改成地點範圍，忽略以前已在此州遊過、今次才悟的對照。"
+          },
+          {
+            "id": "d",
+            "text": "對這件事",
+            "explanation": "對這件事表示針對的對象，不能與始組成遊的開始時點。"
+          }
+        ],
+        "misconception": "因此便只表前後承接，未譯出從這次起的起點關係；在此州改成地點範圍，忽略以前已在此州遊過、今次才悟的對照；對這件事表示針對的對象，不能與始組成遊的開始時點。"
+      },
+      "objective": "文句中「於是」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-05-03-15",
+      "ordinal": 79,
+      "baseQuestionHash": "4852f272403f9abfe21763d81c6ad16710f71a227291c0800ae5d579e2feb2bb",
+      "patch": {
+        "explanation": "始在遊於是乎始中是開始，真正的遊賞從這次才開始。於是已指出起點，始作句子的述語；與始指異之的才、未始的未曾，須按句中位置分辨。",
+        "summary": "始在遊於是乎始中是開始，真正的遊賞從這次才開始。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "才",
+            "explanation": "才可在整句翻譯中補出語氣，但此字本身在句尾作開始解。"
+          },
+          {
+            "id": "b",
+            "text": "起初",
+            "explanation": "起初說一段時間的初期，這裏說真遊由此發端。"
+          },
+          {
+            "id": "c",
+            "text": "曾經",
+            "explanation": "曾經用於未始的辨義，此句明說新的開始。"
+          },
+          {
+            "id": "d",
+            "text": "開始",
+            "explanation": "始在遊於是乎始中是開始，真正的遊賞從這次才開始。"
+          }
+        ],
+        "misconception": "才可在整句翻譯中補出語氣，但此字本身在句尾作開始解；起初說一段時間的初期，這裏說真遊由此發端；曾經用於未始的辨義，此句明說新的開始。"
+      },
+      "objective": "文句中「始」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-01-00-b",
+      "ordinal": 80,
+      "baseQuestionHash": "2ab0a35303b45d898fc7a3a5718f0f96e9ba6de384ae6353a325dada8c205490",
+      "patch": {
+        "explanation": "舊遊雖廣卻未解憂懼，為西山之遊的精神突破提供比較基礎。首段寫恒惴慄、漫遊、醉夢醒歸，後段才有心凝形釋；因此舊遊不是閒筆，也不能把兩次飲酒便視作同一所得。",
+        "summary": "舊遊雖廣卻未解憂懼，為西山之遊的精神突破提供比較基礎。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "舊遊雖廣而憂懼未解，為新遊的精神突破作對照",
+            "explanation": "舊遊雖廣卻未解憂懼，為西山之遊的精神突破提供比較基礎。"
+          },
+          {
+            "id": "b",
+            "text": "舊遊已見天地渾一，為西山的同一體驗再作印證",
+            "explanation": "天地渾一與冥合是西山新得，舊遊沒有先到同一境界。"
+          },
+          {
+            "id": "c",
+            "text": "舊遊未曾飲酒入夢，為新遊醉臥的獨特性作對照",
+            "explanation": "首段明寫傾壺而醉、臥而夢，不能否定舊遊飲酒入夢。"
+          },
+          {
+            "id": "d",
+            "text": "舊遊皆由同伴主導，為作者首次自行探訪作對照",
+            "explanation": "日與其徒只說同行，未說由同伴主導，對比軸不在誰帶路。"
+          }
+        ],
+        "misconception": "天地渾一與冥合是西山新得，舊遊沒有先到同一境界；首段明寫傾壺而醉、臥而夢，不能否定舊遊飲酒入夢；日與其徒只說同行，未說由同伴主導，對比軸不在誰帶路。"
+      },
+      "objective": "首段詳寫往日遊山飲酒，對下文有何作用？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-02-00-b",
+      "ordinal": 81,
+      "baseQuestionHash": "01ee66246aa4e702cb4d79e5c386e60f6601cd26a02883b05b86da5f9cbc73b5",
+      "patch": {
+        "explanation": "連續行動寫作者克服阻礙，務求到最高處才止，顯出探勝熱切。過、緣交代路線，斫、焚顯示需開路，窮而止說目標明確；和舊遊施施漫漫的隨意不同。",
+        "summary": "連續行動寫作者克服阻礙，務求到最高處才止，顯出探勝熱切。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "為趕在酒醒以前返家，一路加快步伐，顯出急迫",
+            "explanation": "原文先開路登山，醉飲在後，不能把登山動作解作趕歸。"
+          },
+          {
+            "id": "b",
+            "text": "按日常習慣逐處漫遊，沒有特定終點，顯出隨意",
+            "explanation": "窮山之高而止明定終點，與漫無目的的舊遊有別。"
+          },
+          {
+            "id": "c",
+            "text": "克服行程阻礙，直到最高處才停，顯出熱切",
+            "explanation": "連續行動寫作者克服阻礙，務求到最高處才止，顯出探勝熱切。"
+          },
+          {
+            "id": "d",
+            "text": "因害怕山林阻礙，反覆嘗試後仍未登頂，顯出退縮",
+            "explanation": "砍木燒草後到最高處才止，行動結果是克服而非退縮。"
+          }
+        ],
+        "misconception": "原文先開路登山，醉飲在後，不能把登山動作解作趕歸；窮山之高而止明定終點，與漫無目的的舊遊有別；砍木燒草後到最高處才止，行動結果是克服而非退縮。"
+      },
+      "objective": "發現西山後，作者連寫渡江、沿溪、斫木、焚草，顯示甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-03-00-b",
+      "ordinal": 82,
+      "baseQuestionHash": "3c7b75f2b018ccf3534fc6f7c59471dbfb657fb6d6d443390b6c121d2d3d8b0f",
+      "patch": {
+        "explanation": "兩句共同呈現視點高而遠，廣大地景相對縮小並收入眼前。數州在席下定出俯視角度，尺寸千里極寫廣景收攏；可推西山高峻，卻不能據此作精確高度或最高山的判定。",
+        "summary": "兩句共同呈現視點高而遠，廣大地景相對縮小並收入眼前。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "視點近而低，眼前小景使人聯想到千里",
+            "explanation": "低近視點不能解釋數州土地皆在席下的俯瞰。"
+          },
+          {
+            "id": "b",
+            "text": "山水彼此交纏，主要突出色彩相互映襯",
+            "explanation": "色彩交纏屬縈青繚白，題中兩句重尺度與高度。"
+          },
+          {
+            "id": "c",
+            "text": "視點高而遠，廣大景物在眼前相對縮小",
+            "explanation": "兩句共同呈現視點高而遠，廣大地景相對縮小並收入眼前。"
+          },
+          {
+            "id": "d",
+            "text": "暮色逐漸籠罩，主要突出景物失去分界",
+            "explanation": "暮色尚在後段出現，不能以看不清解釋此時盡收眼底。"
+          }
+        ],
+        "misconception": "低近視點不能解釋數州土地皆在席下的俯瞰；色彩交纏屬縈青繚白，題中兩句重尺度與高度；暮色尚在後段出現，不能以看不清解釋此時盡收眼底。"
+      },
+      "objective": "「凡數州之土壤，皆在衽席之下」與「尺寸千里」合看，最能推知甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-04-00-b",
+      "ordinal": 83,
+      "baseQuestionHash": "9fcb1897d5fbf225eea3798b07f0a1190f338ac9edd06489779eb0f7b8486ce2",
+      "patch": {
+        "explanation": "先認識西山卓絕，再感到心神與天地同遊，從觀景的認識深入精神體驗。特立不與培塿為類是對山的判斷，與造物者遊則把自身融入廣大的自然，二者有推進而非只換景。",
+        "summary": "先認識西山卓絕，再感到心神與天地同遊，從觀景的認識深入精神體驗。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "由舊遊的悠閒狀態，深化同樣的醉臥夢境",
+            "explanation": "醉臥夢境屬舊遊，此處深化的是新遊感受。"
+          },
+          {
+            "id": "b",
+            "text": "由前往西山的動作，轉入渡江沿溪的行程",
+            "explanation": "渡江沿溪早在登頂前，選項把行程倒轉。"
+          },
+          {
+            "id": "c",
+            "text": "由不知日入的忘返，轉入對先前遊覽的否定",
+            "explanation": "日入忘返及回顧舊遊在後段，此處尚在由山景轉心境。"
+          },
+          {
+            "id": "d",
+            "text": "由西山卓絕的認識，深入精神與天地同遊",
+            "explanation": "先認識西山卓絕，再感到心神與天地同遊，從觀景的認識深入精神體驗。"
+          }
+        ],
+        "misconception": "醉臥夢境屬舊遊，此處深化的是新遊感受；渡江沿溪早在登頂前，選項把行程倒轉；日入忘返及回顧舊遊在後段，此處尚在由山景轉心境。"
+      },
+      "objective": "由「知是山之特立」寫到「與造物者遊」，主要有何深化？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-05-00-b",
+      "ordinal": 84,
+      "baseQuestionHash": "03f2068e5aa1ffe483e4b93d3d9bc4ec827886d114158ee2e7956131e1f8e6a8",
+      "patch": {
+        "explanation": "始以新得的物我相融重新界定遊賞意義，回應題目始得。作者不是第一次出門，而是這次才真正放下拘束、領略真趣；所以結語回收全文前後對比。",
+        "summary": "始以新得的物我相融重新界定遊賞意義，回應題目始得。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "以登山所經的路線，界定游記應從何處開始",
+            "explanation": "路線是行程資料，未能解釋為何既常出遊又說此時才始。"
+          },
+          {
+            "id": "b",
+            "text": "以元和四年的記年，界定作者開始被貶的時間",
+            "explanation": "記年交代這次作文時點，並非被貶起始年。"
+          },
+          {
+            "id": "c",
+            "text": "以飲酒入夢的經驗，表明他首次藉酒忘憂",
+            "explanation": "舊遊已飲酒做夢，今次的新意不在首次借酒忘憂。"
+          },
+          {
+            "id": "d",
+            "text": "以物我相融的領悟，賦予今次宴遊新的意義",
+            "explanation": "始以新得的物我相融重新界定遊賞意義，回應題目始得。"
+          }
+        ],
+        "misconception": "路線是行程資料，未能解釋為何既常出遊又說此時才始；記年交代這次作文時點，並非被貶起始年；舊遊已飲酒做夢，今次的新意不在首次借酒忘憂。"
+      },
+      "objective": "「遊於是乎始」中的「始」，為何成為全篇結語的重點？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-07-02-1",
+      "ordinal": 85,
+      "baseQuestionHash": "5dc1c39c6e1334f01bebe6ee53d7f4c9147bac861b393792336a74553a9ded71",
+      "patch": {
+        "explanation": "砍雜木、燒茅草表示路上植被叢雜，需要清除阻礙才能上山。從行動反推環境，是有文本根據的間接描寫；可見幽僻難行，卻不能推成歷來所有人都未曾登臨。",
+        "summary": "砍雜木、燒茅草表示路上植被叢雜，需要清除阻礙才能上山。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "草木叢雜，須清理阻礙才能前進",
+            "explanation": "砍雜木、燒茅草表示路上植被叢雜，需要清除阻礙才能上山。"
+          },
+          {
+            "id": "b",
+            "text": "山頂廣闊，可容同行者宴飲眺望",
+            "explanation": "山頂可宴飲不是斫焚直接證明的事，兩動詞說途中植被。"
+          },
+          {
+            "id": "c",
+            "text": "群山低小，從登高處可一覽無遺",
+            "explanation": "群山低小來自登高俯視，不能從燒草推得。"
+          },
+          {
+            "id": "d",
+            "text": "日暮蒼茫，沿途景物已難辨認",
+            "explanation": "暮色是後來天黑，開路兩句沒有夜行信息。"
+          }
+        ],
+        "misconception": "山頂可宴飲不是斫焚直接證明的事，兩動詞說途中植被；群山低小來自登高俯視，不能從燒草推得；暮色是後來天黑，開路兩句沒有夜行信息。"
+      },
+      "objective": "「斫榛莽，焚茅茷」對西山原有環境提供甚麼線索？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-07-02-2",
+      "ordinal": 86,
+      "baseQuestionHash": "20cdd9e6d9b234028d2fdacf28c6b617c9132f19bf8594c727619c058d795a04",
+      "patch": {
+        "explanation": "窮山之高而止強調未到山頂不停，表現積極而有目標的探訪。止不是畏難中止，而是到達目標才停；與隨意舊遊比較，能看出見西山奇異後的熱切。",
+        "summary": "窮山之高而止強調未到山頂不停，表現積極而有目標的探訪。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "隨意行止、不拘路程的閒散遊覽",
+            "explanation": "隨意行止不要求必達某處，與山之高而止的目標不合。"
+          },
+          {
+            "id": "b",
+            "text": "酒醒便起、起身便歸的例行出遊",
+            "explanation": "醉醒便歸是舊遊的結束方式，不是這裏登高的態度。"
+          },
+          {
+            "id": "c",
+            "text": "務求到最高處才停止的積極探訪",
+            "explanation": "窮山之高而止強調未到山頂不停，表現積極而有目標的探訪。"
+          },
+          {
+            "id": "d",
+            "text": "暮色已至、仍不欲歸的忘情留戀",
+            "explanation": "暮色不歸是宴遊留戀，所處階段在登頂之後。"
+          }
+        ],
+        "misconception": "隨意行止不要求必達某處，與山之高而止的目標不合；醉醒便歸是舊遊的結束方式，不是這裏登高的態度；暮色不歸是宴遊留戀，所處階段在登頂之後。"
+      },
+      "objective": "「窮山之高而止」最能表現作者此時哪種態度？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-07-02-3",
+      "ordinal": 87,
+      "baseQuestionHash": "b68cc84ba3a6cd3a784a6962b9fea07030ef792015d7ad07417a417e0e6d44ad",
+      "patch": {
+        "explanation": "短句各帶一個動作，接連推進，令登山過程明快而熱切。過江、緣溪、斫木、焚草依次展開，讀者從節奏感到探勝急切；不是只貼短句標籤便完成分析。",
+        "summary": "短句各帶一個動作，接連推進，令登山過程明快而熱切。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "兩組長句相應，舒展延伸，呈現天地的無窮",
+            "explanation": "兩組長句舒展對應悠悠、洋洋段，與這裏短動作句不同。"
+          },
+          {
+            "id": "b",
+            "text": "句末詞接下一句，循序串起醉、臥、夢的過程",
+            "explanation": "過、緣等沒有前末後首同詞承接，非醉臥夢的頂真。"
+          },
+          {
+            "id": "c",
+            "text": "重複疊詞描摹慢行，呈現平日隨意出遊的節奏",
+            "explanation": "本句沒有施施漫漫式疊詞，且節奏較積極緊湊。"
+          },
+          {
+            "id": "d",
+            "text": "每句一個動作，接連推進，呈現登山的熱切",
+            "explanation": "短句各帶一個動作，接連推進，令登山過程明快而熱切。"
+          }
+        ],
+        "misconception": "兩組長句舒展對應悠悠、洋洋段，與這裏短動作句不同；過、緣等沒有前末後首同詞承接，非醉臥夢的頂真；本句沒有施施漫漫式疊詞，且節奏較積極緊湊。"
+      },
+      "objective": "「過湘江，緣染溪，斫榛莽，焚茅茷」多用動詞和短句，有何效果？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-10-02-1",
+      "ordinal": 88,
+      "baseQuestionHash": "fd4faf37aacb856f35cc9553035ce72a8fde0050beb711446eb2b449d8422f0e",
+      "patch": {
+        "explanation": "未始知承接自以為眾山都遊過，轉出仍未認識的西山，引向下文新發現。這一轉折同時收束舊遊、開啟新遊；若刪去，前面的自信與後面的驚異便少了關聯。",
+        "summary": "未始知承接自以為眾山都遊過，轉出仍未認識的西山，引向下文新發現。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "承接自以為遍遊，轉出尚待認識的西山",
+            "explanation": "未始知承接自以為眾山都遊過，轉出仍未認識的西山，引向下文新發現。"
+          },
+          {
+            "id": "b",
+            "text": "承接登頂所見，轉出與造物者同遊的體驗",
+            "explanation": "登頂所見在下段，首段末尚未登西山。"
+          },
+          {
+            "id": "c",
+            "text": "承接心凝形釋，轉出對從前出遊的反思",
+            "explanation": "心凝形釋在結尾，不能倒作首段承接的既有經驗。"
+          },
+          {
+            "id": "d",
+            "text": "承接舊日飲酒，轉出暮色已至而仍不欲歸",
+            "explanation": "暮色不歸是新遊所得的表現，並非這句直接引出的當下場景。"
+          }
+        ],
+        "misconception": "登頂所見在下段，首段末尚未登西山；心凝形釋在結尾，不能倒作首段承接的既有經驗；暮色不歸是新遊所得的表現，並非這句直接引出的當下場景。"
+      },
+      "objective": "首段末說「未始知西山之怪特」，怎樣連接下文？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-10-02-2",
+      "ordinal": 89,
+      "baseQuestionHash": "bf98d572b14badea8a34e0c2e5995a2964a0d0978c82c5efb12c7c9ab2a07473",
+      "patch": {
+        "explanation": "這段把尚未認識西山推進到親自登頂，為之後遠眺與精神所得創造條件。望見奇異引起行動，開路到頂才有高處視野，結構作用在新遊的展開。",
+        "summary": "這段把尚未認識西山推進到親自登頂，為之後遠眺與精神所得創造條件。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "由未識西山到親自登臨，為遠眺所得作準備",
+            "explanation": "這段把尚未認識西山推進到親自登頂，為之後遠眺與精神所得創造條件。"
+          },
+          {
+            "id": "b",
+            "text": "由遠眺山水到精神冥合，為重估舊遊作準備",
+            "explanation": "物我冥合是後來所得，此段尚在交代如何到達觀景位置。"
+          },
+          {
+            "id": "c",
+            "text": "由貶謫不安到隨意出遊，為醉臥夢境作準備",
+            "explanation": "貶後隨意出遊與醉夢是首段，並非西山開路段的功能。"
+          },
+          {
+            "id": "d",
+            "text": "由山水相連到暮色籠罩，為醉後不歸作準備",
+            "explanation": "山水相連與暮色屬登頂後，不是本段起訖。"
+          }
+        ],
+        "misconception": "物我冥合是後來所得，此段尚在交代如何到達觀景位置；貶後隨意出遊與醉夢是首段，並非西山開路段的功能；山水相連與暮色屬登頂後，不是本段起訖。"
+      },
+      "objective": "發現西山並開路登頂一段，在全文進程中有何作用？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-10-02-3",
+      "ordinal": 90,
+      "baseQuestionHash": "b3e494edd136b8ec3e01041f7a76fac45ce32b3e1c0aed37afdd455414f3e215",
+      "patch": {
+        "explanation": "先寫登高看見的遼闊景象，再寫心神與天地同遊，景物引出精神感受。群山低小、山水天際相連使視野開展，與顥氣俱則把這種開展推向物我關係，不能把兩段當成無關記事。",
+        "summary": "先寫登高看見的遼闊景象，再寫心神與天地同遊，景物引出精神感受。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "先寫醉後夢境，再用眼前景物證明夢境可信",
+            "explanation": "這些是登頂所見，並非先做夢再驗夢。"
+          },
+          {
+            "id": "b",
+            "text": "先寫風景之奇，再記同行者對西山的評價",
+            "explanation": "感受的主體仍是作者，原文未插入同行者評語。"
+          },
+          {
+            "id": "c",
+            "text": "先寫遊程次序，再以記年解釋作者被貶的緣由",
+            "explanation": "這裏不是記年，也未靠年份說明貶謫原因。"
+          },
+          {
+            "id": "d",
+            "text": "先寫登高所見，再轉入與天地同遊的感受",
+            "explanation": "先寫登高看見的遼闊景象，再寫心神與天地同遊，景物引出精神感受。"
+          }
+        ],
+        "misconception": "這些是登頂所見，並非先做夢再驗夢；感受的主體仍是作者，原文未插入同行者評語；這裏不是記年，也未靠年份說明貶謫原因。"
+      },
+      "objective": "寫登頂景象後緊接「與顥氣俱」「與造物者遊」，說明兩部分有何關係？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-10-02-4",
+      "ordinal": 91,
+      "baseQuestionHash": "ab815785bd90d7910e7ceafd20f069d7e2ebd4591ca0ad4722d621de1ce9714c",
+      "patch": {
+        "explanation": "今遊的精神領悟促使作者作文記錄，將體驗與寫作目的連起來。心凝形釋之後才知舊遊未得真趣，故字承接這個發現，以志說留下記述；始得不只是一條新路線。",
+        "summary": "今遊的精神領悟促使作者作文記錄，將體驗與寫作目的連起來。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "今遊只是發現新路線，作者因而記下進山的方法",
+            "explanation": "文章結尾重心凝形釋及真遊體悟，不是只因新路線作文。"
+          },
+          {
+            "id": "b",
+            "text": "今遊帶來新的精神領悟，成為作文記錄的緣由",
+            "explanation": "今遊的精神領悟促使作者作文記錄，將體驗與寫作目的連起來。"
+          },
+          {
+            "id": "c",
+            "text": "今遊終於解除被貶身分，成為追述舊遊的原因",
+            "explanation": "形釋不等於撤銷貶令，沒有身分已恢復的敘事。"
+          },
+          {
+            "id": "d",
+            "text": "今遊證實舊遊已得同一境界，作者因而重記舊夢",
+            "explanation": "未始遊重估舊遊的不足，不能說已得相同境界。"
+          }
+        ],
+        "misconception": "文章結尾重心凝形釋及真遊體悟，不是只因新路線作文；形釋不等於撤銷貶令，沒有身分已恢復的敘事；未始遊重估舊遊的不足，不能說已得相同境界。"
+      },
+      "objective": "末段「心凝形釋」與「故為之文以志」相接，有何作用？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-10-04-1",
+      "ordinal": 92,
+      "baseQuestionHash": "e8f7e119bf33d47559d30d44738849dfb2cc9030ac29b300c48ad2fb6d13d6f9",
+      "patch": {
+        "explanation": "舊遊是隨意閒行，西山之遊則為明確目標積極開路。施施漫漫寫步態和遊態，斫焚寫主動排除障礙，後接窮山之高而止，更把熱切探尋落實為行動。",
+        "summary": "舊遊是隨意閒行，西山之遊則為明確目標積極開路。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "舊遊隨意閒行；今遊為探西山積極開路",
+            "explanation": "舊遊是隨意閒行，西山之遊則為明確目標積極開路。"
+          },
+          {
+            "id": "b",
+            "text": "舊遊無遠不到；今遊因畏難而縮短路程",
+            "explanation": "原文到最高處才止，與畏難縮短路程相反。"
+          },
+          {
+            "id": "c",
+            "text": "舊遊眺望數州；今遊專注幽泉怪石",
+            "explanation": "眺望數州屬西山新遊，幽泉怪石反在舊遊，選項倒置。"
+          },
+          {
+            "id": "d",
+            "text": "舊遊暮色不歸；今遊醉醒即回",
+            "explanation": "暮色不歸屬今遊，醉醒即回屬舊遊，選項同樣倒置。"
+          }
+        ],
+        "misconception": "原文到最高處才止，與畏難縮短路程相反；眺望數州屬西山新遊，幽泉怪石反在舊遊，選項倒置；暮色不歸屬今遊，醉醒即回屬舊遊，選項同樣倒置。"
+      },
+      "objective": "舊遊「施施而行，漫漫而遊」與西山之遊「斫榛莽，焚茅茷」相比，態度有何變化？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-10-04-2",
+      "ordinal": 93,
+      "baseQuestionHash": "7d3e98d076a6673af2db529d4c5b3c1806b427bb391cf4c63aefe53a6d07f751",
+      "patch": {
+        "explanation": "舊遊酒醒便收束，今遊即使天黑也不願離去，顯示新體驗令人沉浸留戀。關鍵在不欲而非不能：原文說主觀不想歸，不能擅改為道路不通、被迫留山。",
+        "summary": "舊遊酒醒便收束，今遊即使天黑也不願離去，顯示新體驗令人沉浸留戀。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "舊遊醉醒便結束行程，今遊因新體驗而沉浸忘返",
+            "explanation": "舊遊酒醒便收束，今遊即使天黑也不願離去，顯示新體驗令人沉浸留戀。"
+          },
+          {
+            "id": "b",
+            "text": "舊遊醉後已與萬化冥合，今遊只把同樣境界延長",
+            "explanation": "冥合是西山新得，不能先安在舊遊而只比較停留長短。"
+          },
+          {
+            "id": "c",
+            "text": "舊遊隨性遊覽較為自由，今遊刻意登頂反而更受拘束",
+            "explanation": "開路有目標不等於精神受拘束，今遊反達心凝形釋。"
+          },
+          {
+            "id": "d",
+            "text": "舊遊以夢境暫離眼前山水，今遊因暮色阻歸而被迫停留",
+            "explanation": "暮色是留戀的背景，原文不欲說意願，沒有阻歸的情節。"
+          }
+        ],
+        "misconception": "冥合是西山新得，不能先安在舊遊而只比較停留長短；開路有目標不等於精神受拘束，今遊反達心凝形釋；暮色是留戀的背景，原文不欲說意願，沒有阻歸的情節。"
+      },
+      "objective": "舊遊「覺而起，起而歸」與西山暮色已至仍「不欲歸」相比，說明甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-10-04-3",
+      "ordinal": 94,
+      "baseQuestionHash": "e567865432c6515d6a0822c2f7a3873fd53bfa2113454f00e4f9ba136b8225e0",
+      "patch": {
+        "explanation": "從恒常恐懼到心神安定、忘卻拘束，寫山水體驗帶來的精神轉變。兩端都是內在狀態，不能添加辭官或赦免作原因，也不能把這次釋懷推成此後永無憂苦。",
+        "summary": "從恒常恐懼到心神安定、忘卻拘束，寫山水體驗帶來的精神轉變。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "舊遊已物我冥合；今遊因山特立而轉為自傷",
+            "explanation": "舊遊尚惴慄，新遊才冥合，且此處沒有由清高轉自傷的結局。"
+          },
+          {
+            "id": "b",
+            "text": "舊遊以聞達為念；今遊因放棄官職而安定",
+            "explanation": "文中沒有辭去官職；安定來自宴遊體悟，非政治行動。"
+          },
+          {
+            "id": "c",
+            "text": "舊遊未解惴慄；今遊在山水中得心神安定",
+            "explanation": "從恒常恐懼到心神安定、忘卻拘束，寫山水體驗帶來的精神轉變。"
+          },
+          {
+            "id": "d",
+            "text": "舊遊因同伴而開懷；今遊因獨處而惴慄",
+            "explanation": "同伴與獨處不是這兩句的比較軸，也未說今遊憂懼加深。"
+          }
+        ],
+        "misconception": "舊遊尚惴慄，新遊才冥合，且此處沒有由清高轉自傷的結局；文中沒有辭去官職；安定來自宴遊體悟，非政治行動；同伴與獨處不是這兩句的比較軸，也未說今遊憂懼加深。"
+      },
+      "objective": "「恒惴慄」與「心凝形釋」相對，最準確的心境變化是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-11-00-1",
+      "ordinal": 95,
+      "baseQuestionHash": "914a9ce5553d61bc238f4892fe8dcce46ca24226cb3b16159dd4363b394ffe6b",
+      "patch": {
+        "explanation": "而把自以為遍知本州山水與實際未識西山對照，引出意料之外的新遊。皆我有也先概括舊經驗，未始知揭開尚有不足，令西山的發現更顯可貴。",
+        "summary": "而把自以為遍知本州山水與實際未識西山對照，引出意料之外的新遊。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "先概括西山登頂所得，再以未始知否定登山的價值",
+            "explanation": "前半尚在說舊遊，未概括西山登頂，更非否定它。"
+          },
+          {
+            "id": "b",
+            "text": "先誇耀熟悉本州山水，再以西山為例印證已無遺漏",
+            "explanation": "未始知明說有遺漏，不能讀成印證無遺漏。"
+          },
+          {
+            "id": "c",
+            "text": "先總結自以為遍知，再轉出未識西山以引起新遊",
+            "explanation": "而把自以為遍知本州山水與實際未識西山對照，引出意料之外的新遊。"
+          },
+          {
+            "id": "d",
+            "text": "先承認不了解本州，再以平日遊歷補足西山的認識",
+            "explanation": "先前自以為了解本州而非承認不懂，西山也非已由平日遊歷補足。"
+          }
+        ],
+        "misconception": "前半尚在說舊遊，未概括西山登頂，更非否定它；未始知明說有遺漏，不能讀成印證無遺漏；先前自以為了解本州而非承認不懂，西山也非已由平日遊歷補足。"
+      },
+      "objective": "「皆我有也，而未始知西山之怪特」中的轉折，最重要的作用是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-11-00-2",
+      "ordinal": 96,
+      "baseQuestionHash": "26c64ab9ce1c475ccd76b3a62cdbf46443f9ea038adb5bafd15f04f6f213332b",
+      "patch": {
+        "explanation": "登頂後見數州盡在席下、山水遠接天空，作者才深入認識西山特立。始指異之是遠望時初覺奇異，然後知則經實地觀景證實其卓絕，兩個認識階段須分清。",
+        "summary": "登頂後見數州盡在席下、山水遠接天空，作者才深入認識西山特立。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "剛發現西山，見要渡江斫木才能到達時",
+            "explanation": "渡江斫木顯示幽僻難行，但還未提供登頂視野。"
+          },
+          {
+            "id": "b",
+            "text": "登高見數州盡在席下，山水向外與天相接時",
+            "explanation": "登頂後見數州盡在席下、山水遠接天空，作者才深入認識西山特立。"
+          },
+          {
+            "id": "c",
+            "text": "平日已遊遍高山深林，覺得本州山水盡知時",
+            "explanation": "平日自以為遊遍正是尚未識西山的舊認識。"
+          },
+          {
+            "id": "d",
+            "text": "醉後相枕入夢，夢境與意念一同遠往時",
+            "explanation": "相枕入夢屬舊遊，不能作認識西山的直接根據。"
+          }
+        ],
+        "misconception": "渡江斫木顯示幽僻難行，但還未提供登頂視野；平日自以為遊遍正是尚未識西山的舊認識；相枕入夢屬舊遊，不能作認識西山的直接根據。"
+      },
+      "objective": "作者到何種情況才說「然後知是山之特立」？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-11-00-3",
+      "ordinal": 97,
+      "baseQuestionHash": "32745d4dfd2aa70b4d5ac8c8d57093e6e405be0435cd2aee7afa86208cd8a210",
+      "patch": {
+        "explanation": "第一次知認識西山卓絕，第二次知進而領悟真正遊賞的精神意義。前者依登高所見作山的判斷，後者在冥合體驗後重估舊遊，從認識景物深入認識自己與遊的關係。",
+        "summary": "第一次知認識西山卓絕，第二次知進而領悟真正遊賞的精神意義。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "先知西山的卓絕，後知真遊的精神意義",
+            "explanation": "第一次知認識西山卓絕，第二次知進而領悟真正遊賞的精神意義。"
+          },
+          {
+            "id": "b",
+            "text": "先知西山的卓絕，後知登得愈高便愈算真遊",
+            "explanation": "後知重冥合的精神體悟，沒有以海拔高低給遊賞分級。"
+          },
+          {
+            "id": "c",
+            "text": "先知西山幽僻，後知自己的貶謫身分已改",
+            "explanation": "前者重特立，後者重真遊；形釋也沒有改變被貶身分。"
+          },
+          {
+            "id": "d",
+            "text": "先知西山的方位，後知其他山水已不值得遊覽",
+            "explanation": "第一次知不只得方位，第二次知重估過去所得，也未否定其他山水的未來價值。"
+          }
+        ],
+        "misconception": "後知重冥合的精神體悟，沒有以海拔高低給遊賞分級；前者重特立，後者重真遊；形釋也沒有改變被貶身分；第一次知不只得方位，第二次知重估過去所得，也未否定其他山水的未來價值。"
+      },
+      "objective": "先說「知是山之特立」，後說「知吾嚮之未始遊」，兩次「知」有何差別？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-12-00-1",
+      "ordinal": 98,
+      "baseQuestionHash": "f7397e6e7f72ff34a807d98c78142463e5c286f00503a7358bfc0cf9c515e95a",
+      "patch": {
+        "explanation": "疊詞配合兩組相應句式，寫出閒緩隨意的外在遊態，仍與內心惴慄並存。施施重慢行，漫漫重不拘，句式節奏與之相合；讀這句須回扣開篇，不能以表面的悠閒取代內在心境。",
+        "summary": "疊詞配合兩組相應句式，寫出閒緩隨意的外在遊態，仍與內心惴慄並存。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "疊詞及相應句式寫熱切行動，與登山開路相配",
+            "explanation": "熱切開路對應斫焚等短句，不是施施漫漫。"
+          },
+          {
+            "id": "b",
+            "text": "疊詞及相應句式寫閒緩行止，與內在惴慄並存",
+            "explanation": "疊詞配合兩組相應句式，寫出閒緩隨意的外在遊態，仍與內心惴慄並存。"
+          },
+          {
+            "id": "c",
+            "text": "疊詞及相應句式寫天地無窮，與物我相融相配",
+            "explanation": "天地無窮由悠悠、洋洋寫出，不能把兩組疊詞混同。"
+          },
+          {
+            "id": "d",
+            "text": "疊詞及相應句式寫暮色漸深，與流連忘返相配",
+            "explanation": "暮色與忘返在新遊結尾，與舊遊兩句所處情境不同。"
+          }
+        ],
+        "misconception": "熱切開路對應斫焚等短句，不是施施漫漫；天地無窮由悠悠、洋洋寫出，不能把兩組疊詞混同；暮色與忘返在新遊結尾，與舊遊兩句所處情境不同。"
+      },
+      "objective": "「施施而行，漫漫而遊」的疊詞和相應句式如何寫舊遊？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-12-00-2",
+      "ordinal": 99,
+      "baseQuestionHash": "a9f0c562389fea2f0fb9cd66c84b18edd971d72dfe9d2e998c325e2b0df2552f",
+      "patch": {
+        "explanation": "三組動賓短語接連排開，構成排比，鋪展足跡所至的不同環境。上對高山、入對深林、窮對迴溪，句法平行而內容展開；沒有文本尺度可說景物價值逐級提高。",
+        "summary": "三組動賓短語接連排開，構成排比，鋪展足跡所至的不同環境。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "對偶，以兩組相稱語句對應",
+            "explanation": "此處連列三組相近動賓短語，題目就整組辨析應作排比。"
+          },
+          {
+            "id": "b",
+            "text": "頂真，前句末詞緊接下一句首",
+            "explanation": "前末山沒有接後首入，不符合頂真的首尾承接。"
+          },
+          {
+            "id": "c",
+            "text": "層遞，景物按價值高低逐層排列",
+            "explanation": "山、林、溪是不同環境，原文未按價值高低排次。"
+          },
+          {
+            "id": "d",
+            "text": "排比，三組相近動賓短語連用",
+            "explanation": "三組動賓短語接連排開，構成排比，鋪展足跡所至的不同環境。"
+          }
+        ],
+        "stem": "「上高山，入深林，窮迴溪」主要運用了哪種修辭？",
+        "misconception": "此處連列三組相近動賓短語，題目就整組辨析應作排比；前末山沒有接後首入，不符合頂真的首尾承接；山、林、溪是不同環境，原文未按價值高低排次。"
+      },
+      "objective": "「上高山，入深林，窮迴溪」主要運用了哪種修辭？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-12-00-3",
+      "ordinal": 100,
+      "baseQuestionHash": "e595531f40f415961c085dc73fdb3936bebadb5e2fd3d1cbcdfb4f1e35d5ff80",
+      "patch": {
+        "explanation": "醉和臥在前句末、後句首接續出現，以頂真把動作連成一串。先醉，醉後臥，臥後夢，語言銜接對應經歷推進；聯繫後面的覺起歸，見出日常舊遊的循環。",
+        "summary": "醉和臥在前句末、後句首接續出現，以頂真把動作連成一串。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "三個不同動詞各領短語並列，擴展遊覽範圍",
+            "explanation": "動詞確實不同，但本題銜接特徵在同字首尾承接，非並列擴大遊覽範圍。"
+          },
+          {
+            "id": "b",
+            "text": "兩組長句在結構及語意相應，舒展無窮境界",
+            "explanation": "本句並非悠悠、洋洋那種兩組長句對偶。"
+          },
+          {
+            "id": "c",
+            "text": "「醉」「臥」在前句末和後句首重現，串連行動",
+            "explanation": "醉和臥在前句末、後句首接續出現，以頂真把動作連成一串。"
+          },
+          {
+            "id": "d",
+            "text": "反覆同一動詞，把三次飲酒並列寫出",
+            "explanation": "醉、臥、夢是不同階段，前末後首承接，並非三次同類飲酒並列。"
+          }
+        ],
+        "misconception": "動詞確實不同，但本題銜接特徵在同字首尾承接，非並列擴大遊覽範圍；本句並非悠悠、洋洋那種兩組長句對偶；醉、臥、夢是不同階段，前末後首承接，並非三次同類飲酒並列。"
+      },
+      "objective": "「傾壺而醉。醉則更相枕以臥，臥而夢」如何銜接動作？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-12-00-4",
+      "ordinal": 101,
+      "baseQuestionHash": "48a79302d02d32e4ef01f937881889201a39818d6aa5a5809a2e7a7702593567",
+      "patch": {
+        "explanation": "若垤若穴把俯視下的山丘窪地比作小土堆與洞穴，描出縮小後的形態。其高下之勢交代本體，若引出喻體；這是高處觀看的感受，不能推成各山實際本來就低小。",
+        "summary": "若垤若穴把俯視下的山丘窪地比作小土堆與洞穴，描出縮小後的形態。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "用小土堆與洞穴，比擬作者登山途中所踏石級",
+            "explanation": "原文已登頂坐定，所比是遠望地形，不是正在踏的石級。"
+          },
+          {
+            "id": "b",
+            "text": "用小土堆與洞穴，象徵作者避居永州的處所",
+            "explanation": "此句描地形，並未以土堆洞穴象徵作者住處。"
+          },
+          {
+            "id": "c",
+            "text": "用小土堆與洞穴，指出群山本來就沒有高峰",
+            "explanation": "比喻說看來如何，不是對群山原有高度的測量結論。"
+          },
+          {
+            "id": "d",
+            "text": "用小土堆與洞穴，比擬俯視下群山窪地的形態",
+            "explanation": "若垤若穴把俯視下的山丘窪地比作小土堆與洞穴，描出縮小後的形態。"
+          }
+        ],
+        "misconception": "原文已登頂坐定，所比是遠望地形，不是正在踏的石級；此句描地形，並未以土堆洞穴象徵作者住處；比喻說看來如何，不是對群山原有高度的測量結論。"
+      },
+      "objective": "「若垤若穴」把山川形勢比作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-12-00-5",
+      "ordinal": 102,
+      "baseQuestionHash": "1d094dd8aa249b63c1cc8415453736c63624d6b94673738b0d94c0ea84d9564e",
+      "patch": {
+        "explanation": "尺寸與千里形成巨大的尺度落差，誇張地寫廣大遠景收在眼前。它重登高望遠的視覺效果，不能拿作山高或地圖比例的實測數值；手法與高遠視野的作用須一起說明。",
+        "summary": "尺寸與千里形成巨大的尺度落差，誇張地寫廣大遠景收在眼前。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "把廣大遠景寫得縮在眼前，以誇飾突出高遠視野",
+            "explanation": "尺寸與千里形成巨大的尺度落差，誇張地寫廣大遠景收在眼前。"
+          },
+          {
+            "id": "b",
+            "text": "把低小近景寫得伸展千里，以誇飾突出行程漫長",
+            "explanation": "不是小景向外伸長，而是廣景在眼前相對縮小，也不在量行程。"
+          },
+          {
+            "id": "c",
+            "text": "把小山丘比作高山巨谷，以比喻突出西山怪特",
+            "explanation": "若垤若穴才以小物作比，此處不是把小丘比成巨谷。"
+          },
+          {
+            "id": "d",
+            "text": "用尺寸記行路里數，以列數突出登山耗時",
+            "explanation": "句子描登頂俯視的尺度，沒有交代走了幾里或花了多久。"
+          }
+        ],
+        "stem": "如何理解「尺寸千里」的手法及作用？",
+        "misconception": "不是小景向外伸長，而是廣景在眼前相對縮小，也不在量行程；若垤若穴才以小物作比，此處不是把小丘比成巨谷；句子描登頂俯視的尺度，沒有交代走了幾里或花了多久。"
+      },
+      "objective": "如何理解「尺寸千里」的手法及作用？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-12-00-6",
+      "ordinal": 103,
+      "baseQuestionHash": "d7fa3fc2eb67a87fea95867758f7424b2d92defccf7925e19e68e3ac89988aca",
+      "patch": {
+        "explanation": "青代青山、白代白水，是以景物的色彩特徵代稱景物的借代。縈、繚再寫兩者交纏，形成凝練而相連的山水圖景；不是找另一件相似事物作比。",
+        "summary": "青代青山、白代白水，是以景物的色彩特徵代稱景物的借代。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "借喻，以青白兩色作喻體，比擬山水的形態。",
+            "explanation": "借喻需要本體喻體的相似關係，這裏青白是山水本身的色彩特徵。"
+          },
+          {
+            "id": "b",
+            "text": "對比，以青白色彩相映，強調兩景的差異。",
+            "explanation": "青白雖有色差，本句重交纏相連，不是以對立差異作主效。"
+          },
+          {
+            "id": "c",
+            "text": "象徵，以青白代表品格，表達清白自持之志。",
+            "explanation": "清白品格不是這兩字直接寄託的意思，不宜由顏色任意附會。"
+          },
+          {
+            "id": "d",
+            "text": "借代，以青白代稱山水，凝練呈現交纏之態。",
+            "explanation": "青代青山、白代白水，是以景物的色彩特徵代稱景物的借代。"
+          }
+        ],
+        "misconception": "借喻需要本體喻體的相似關係，這裏青白是山水本身的色彩特徵；青白雖有色差，本句重交纏相連，不是以對立差異作主效；清白品格不是這兩字直接寄託的意思，不宜由顏色任意附會。"
+      },
+      "objective": "「縈青繚白」以「青」「白」寫景，主要如何運用修辭？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-12-00-7",
+      "ordinal": 104,
+      "baseQuestionHash": "14217c31578872cdc2c260662683eed1fc0d8d86b095301296871dbb1d726089",
+      "patch": {
+        "explanation": "從數州土地彷彿在席下的俯視效果，間接使人感到西山高峻。句子直接描寫周圍所見，讀者再由視點推知主山之高，這就是側面描寫，不必提供實際高度數字。",
+        "summary": "從數州土地彷彿在席下的俯視效果，間接使人感到西山高峻。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "從西山不與培塿同類的判斷，直接稱許品格獨立",
+            "explanation": "不與培塿為類是後面的直接判斷，本題問席下景象的間接作用。"
+          },
+          {
+            "id": "b",
+            "text": "從數州土地似在席下的視覺效果，間接突出山高",
+            "explanation": "從數州土地彷彿在席下的俯視效果，間接使人感到西山高峻。"
+          },
+          {
+            "id": "c",
+            "text": "從幽泉怪石無遠不到的經歷，反映舊遊範圍廣",
+            "explanation": "幽泉怪石屬舊遊經歷，不能解釋此處俯視的高度效果。"
+          },
+          {
+            "id": "d",
+            "text": "從悠悠洋洋莫得其涯的感受，表現精神的無窮",
+            "explanation": "悠悠洋洋重精神無窮，席下首先提供的是觀景視點。"
+          }
+        ],
+        "misconception": "不與培塿為類是後面的直接判斷，本題問席下景象的間接作用；幽泉怪石屬舊遊經歷，不能解釋此處俯視的高度效果；悠悠洋洋重精神無窮，席下首先提供的是觀景視點。"
+      },
+      "objective": "「皆在衽席之下」不直接報出西山高度，有甚麼好處？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-12-00-8",
+      "ordinal": 105,
+      "baseQuestionHash": "4f7dfb6f176956ce03b6eaaa3126c3bb42a7c4ba1e50c0aa40a4bc4623821dfa",
+      "patch": {
+        "explanation": "天色漸暗到無法再看，作者仍不想離去，突出對宴遊體驗的留戀。暮色給出通常應收束行程的背景，猶不欲歸則寫超出常態的意願，景與情因這個反差相扣。",
+        "summary": "天色漸暗到無法再看，作者仍不想離去，突出對宴遊體驗的留戀。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "暮色使山的奇異難再辨認，作者因而失去遊興",
+            "explanation": "看不見仍不欲歸恰顯未失留戀，不能解成興味已盡。"
+          },
+          {
+            "id": "b",
+            "text": "暮色使被貶處境重回心中，作者因而愁悶難遣",
+            "explanation": "接下來寫心凝形釋，並無由暮色重新陷入惴慄的轉折。"
+          },
+          {
+            "id": "c",
+            "text": "暮色遮斷下山道路，作者因無法歸去而焦急",
+            "explanation": "不欲是主觀不想回，不是不能回；原文也未說道路阻斷。"
+          },
+          {
+            "id": "d",
+            "text": "暮色使一般行程應止，作者仍不願歸，見其留戀",
+            "explanation": "天色漸暗到無法再看，作者仍不想離去，突出對宴遊體驗的留戀。"
+          }
+        ],
+        "misconception": "看不見仍不欲歸恰顯未失留戀，不能解成興味已盡；接下來寫心凝形釋，並無由暮色重新陷入惴慄的轉折；不欲是主觀不想回，不是不能回；原文也未說道路阻斷。"
+      },
+      "objective": "「蒼然暮色，自遠而至」後接「猶不欲歸」，表現甚麼感情？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-12-00-9",
+      "ordinal": 106,
+      "baseQuestionHash": "62e43aaeb97a89ba9bd5d5c019d2183ffd33bdab239afedd04e1e0a8e95bdb83",
+      "patch": {
+        "explanation": "西山卓然獨立、不與低小山丘同類，可寄託作者高潔自持、不隨俗的期許。由山的特點聯想到人的品格，是托物言志或自況的解讀；不是把每一處風景都任意對應成某段仕途。",
+        "summary": "西山卓然獨立、不與低小山丘同類，可寄託作者高潔自持、不隨俗的期許。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "借西山卓然不同於小丘，寄託高潔自持",
+            "explanation": "西山卓然獨立、不與低小山丘同類，可寄託作者高潔自持、不隨俗的期許。"
+          },
+          {
+            "id": "b",
+            "text": "借山勢高出小丘，表明自己應憑官位高低論人",
+            "explanation": "高潔自持屬人格期許，不是按官位尊卑衡量人。"
+          },
+          {
+            "id": "c",
+            "text": "借西山不與小丘同類，表示應斷絕與人交往",
+            "explanation": "不隨俗不等於拒絕所有交往，原文亦有同遊者。"
+          },
+          {
+            "id": "d",
+            "text": "借山勢卓絕獨立，表示受貶已證明自己德行有失",
+            "explanation": "作者借山自況高潔，並非以被貶推定自身失德。"
+          }
+        ],
+        "misconception": "高潔自持屬人格期許，不是按官位尊卑衡量人；不隨俗不等於拒絕所有交往，原文亦有同遊者；作者借山自況高潔，並非以被貶推定自身失德。"
+      },
+      "objective": "「是山之特立，不與培塿為類」除寫山勢外，如何寄寓作者自我期許？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-14-01-1",
+      "ordinal": 107,
+      "baseQuestionHash": "c3586738589f1571ae06939892a50dcb9d62bf94631d1a14f12947eac94e6269",
+      "patch": {
+        "explanation": "舊遊已見許多奇異山水，仍對西山驚異，便以眾山之奇正襯西山更奇。這個比較以同類特點互襯，突出始得的驚喜，與周景低小反襯西山高峻不是同一層。",
+        "summary": "舊遊已見許多奇異山水，仍對西山驚異，便以眾山之奇正襯西山更奇。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "以山下景物低小如垤穴，襯出西山居高臨下",
+            "explanation": "低小反襯高大確在文中，但不是此題眾山異態與西山怪特的關係。"
+          },
+          {
+            "id": "b",
+            "text": "以暮色來臨仍然不願歸，襯出西山令人留戀",
+            "explanation": "暮色不歸以行動見留戀，未用舊遊的奇景作比較。"
+          },
+          {
+            "id": "c",
+            "text": "以已遍見奇山仍驚異西山，襯出西山更加卓絕",
+            "explanation": "舊遊已見許多奇異山水，仍對西山驚異，便以眾山之奇正襯西山更奇。"
+          },
+          {
+            "id": "d",
+            "text": "以舊遊醉醒便起身歸家，襯出新遊有精神所得",
+            "explanation": "醉醒即歸與新得比較的是遊賞結果，非本題山景之奇。"
+          }
+        ],
+        "misconception": "低小反襯高大確在文中，但不是此題眾山異態與西山怪特的關係；暮色不歸以行動見留戀，未用舊遊的奇景作比較；醉醒即歸與新得比較的是遊賞結果，非本題山景之奇。"
+      },
+      "objective": "先寫舊遊已見眾山「異態」，再寫西山「怪特」，如何突出西山？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-14-01-2",
+      "ordinal": 108,
+      "baseQuestionHash": "d4628a019ac3aa007081c713b91cc39db0dca6ba1fa8baea6333939a05a2eb06",
+      "patch": {
+        "explanation": "周圍地勢低小，反襯所登西山高峻，以相反的尺度突出主體。若垤若穴在語言形式上是明喻，在周景與西山的關係上則是反襯，兩個角度可以同時成立。",
+        "summary": "周圍地勢低小，反襯所登西山高峻，以相反的尺度突出主體。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "以舊遊之奇正襯西山更奇",
+            "explanation": "舊遊奇山與西山更奇是正襯，但題中沒有比較那段舊遊。"
+          },
+          {
+            "id": "b",
+            "text": "以四周低小反襯西山高峻",
+            "explanation": "周圍地勢低小，反襯所登西山高峻，以相反的尺度突出主體。"
+          },
+          {
+            "id": "c",
+            "text": "以兩次醉後不同反應對比所得",
+            "explanation": "兩次飲酒反應比較精神所得，此處只問地勢高低。"
+          },
+          {
+            "id": "d",
+            "text": "以首尾心境不同突出精神轉變",
+            "explanation": "首尾心境比較惴慄與安定，不能代替周景和主山的關係。"
+          }
+        ],
+        "misconception": "舊遊奇山與西山更奇是正襯，但題中沒有比較那段舊遊；兩次飲酒反應比較精神所得，此處只問地勢高低；首尾心境比較惴慄與安定，不能代替周景和主山的關係。"
+      },
+      "objective": "周圍地勢寫得「若垤若穴」，與西山形成哪一種襯托關係？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-14-04-1",
+      "ordinal": 109,
+      "baseQuestionHash": "4943810040f89a3313031a1d35e3aa9a8bafab9ff051a6c033728b1e31dd6f86",
+      "patch": {
+        "explanation": "若弱化每個短句的停頓與逐項推進，最可能減弱接連行動的節奏和熱切感。原句一動一景，從過江沿溪到斫木焚草，把積極登臨落實為連續動作；不是所有長句都差，而是此處形式配合內容。",
+        "summary": "若弱化每個短句的停頓與逐項推進，最可能減弱接連行動的節奏和熱切感。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "舒緩低迴的動作節奏及漫無目的感",
+            "explanation": "各句動作連接、務求登頂，並非拖緩且無目的。"
+          },
+          {
+            "id": "b",
+            "text": "逐句推進的動作節奏及登臨熱切感",
+            "explanation": "若弱化每個短句的停頓與逐項推進，最可能減弱接連行動的節奏和熱切感。"
+          },
+          {
+            "id": "c",
+            "text": "醉醒交替的循環節奏及例行返家感",
+            "explanation": "這裏沒有醉醒歸家的循環，說的是開路登山。"
+          },
+          {
+            "id": "d",
+            "text": "山水靜止的並置節奏及遠眺安定感",
+            "explanation": "各句重行動推進，靜觀的遠眺在登頂之後。"
+          }
+        ],
+        "stem": "若把登山一段的短句改為較長的連續敘述、減少停頓，原句哪種效果較可能減弱？",
+        "misconception": "各句動作連接、務求登頂，並非拖緩且無目的；這裏沒有醉醒歸家的循環，說的是開路登山；各句重行動推進，靜觀的遠眺在登頂之後。"
+      },
+      "objective": "若把登山一段的短句改為較長的連續敘述、減少停頓，原句哪種效果較可能減弱？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-14-04-2",
+      "ordinal": 110,
+      "baseQuestionHash": "556897a0b3e3a01cbf9f4e7fdd9f7a10966bfb4aef5ef183325efd9f09f10ecb",
+      "patch": {
+        "explanation": "較長的相應句式配合悠悠、洋洋的疊詞，延展與天地同遊的廣大無盡感。莫得其涯、不知其所窮把內容也推向無邊，故節奏和意思相互配合，不是單為押韻。",
+        "summary": "較長的相應句式配合悠悠、洋洋的疊詞，延展與天地同遊的廣大無盡感。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "長句延續趕路速度，寫登高後仍急於尋路",
+            "explanation": "長句此處舒展無邊感，沒有繼續尋路的動作。"
+          },
+          {
+            "id": "b",
+            "text": "疊詞反覆同一困局，寫作者仍困於惴慄",
+            "explanation": "悠悠洋洋表渺遠廣大，與同遊天地相配，非憂懼循環。"
+          },
+          {
+            "id": "c",
+            "text": "對偶比較天地大小，寫作者評定孰優孰劣",
+            "explanation": "兩句同向寫無涯無窮，沒有比較天地孰優。"
+          },
+          {
+            "id": "d",
+            "text": "長句及疊詞舒展，配合與天地同遊的廣大無盡",
+            "explanation": "較長的相應句式配合悠悠、洋洋的疊詞，延展與天地同遊的廣大無盡感。"
+          }
+        ],
+        "misconception": "長句此處舒展無邊感，沒有繼續尋路的動作；悠悠洋洋表渺遠廣大，與同遊天地相配，非憂懼循環；兩句同向寫無涯無窮，沒有比較天地孰優。"
+      },
+      "objective": "「悠悠乎……洋洋乎……」較登山短句舒展，最配合哪種內容？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-16-00-1",
+      "ordinal": 111,
+      "baseQuestionHash": "cc48a21b130ee654d17ed804b779e2d9d9b81fab446b797b92bdcd7b4b688c3d",
+      "patch": {
+        "explanation": "這兩句先從俯視擴大觀看尺度，使廣闊地景收在眼前，為後文精神開展鋪路。超越眼前得失是聯繫全文作出的景情理解，不是兩句字面已直接說出冥合；答題要分開所見與後續所悟。",
+        "summary": "這兩句先從俯視擴大觀看尺度，使廣闊地景收在眼前，為後文精神開展鋪路。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "俯視使觀看尺度擴大，為超越眼前得失作準備",
+            "explanation": "這兩句先從俯視擴大觀看尺度，使廣闊地景收在眼前，為後文精神開展鋪路。"
+          },
+          {
+            "id": "b",
+            "text": "環視使山水天地渾一，直接寫出景物相連",
+            "explanation": "天地相連見外與天際，這裏首先突出高處俯視的尺度。"
+          },
+          {
+            "id": "c",
+            "text": "凝神使形體束縛放下，直接點出物我冥合",
+            "explanation": "心凝形釋才直接寫放下拘束，不能提早移入這兩句。"
+          },
+          {
+            "id": "d",
+            "text": "醉醒使舊遊暫告完成，呈現隨意而行的生活",
+            "explanation": "醉醒收程屬舊遊，這裏已是西山登頂所見。"
+          }
+        ],
+        "misconception": "天地相連見外與天際，這裏首先突出高處俯視的尺度；心凝形釋才直接寫放下拘束，不能提早移入這兩句；醉醒收程屬舊遊，這裏已是西山登頂所見。"
+      },
+      "objective": "「若垤若穴，尺寸千里」在景情推進中，最直接屬於哪一層？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-16-00-2",
+      "ordinal": 112,
+      "baseQuestionHash": "5d0ad73a9d92b0622e281428d5ce86dba3cb4e87ac87b21e8a7a248159a800d3",
+      "patch": {
+        "explanation": "山水交纏、遠與天接、四望渾一的景象，銜接自身與自然融通的感受。景中界限相連，心中也感到物我相通；這是相應的景情關係，不只是兩處恰好都提到自然。",
+        "summary": "山水交纏、遠與天接、四望渾一的景象，銜接自身與自然融通的感受。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "西山高出群丘的差異，銜接精神上的高潔自持",
+            "explanation": "高出群丘連到高潔自況是另一條解讀，本句重山水天地相連。"
+          },
+          {
+            "id": "b",
+            "text": "山水天地在視野中相連，銜接精神上的物我融通",
+            "explanation": "山水交纏、遠與天接、四望渾一的景象，銜接自身與自然融通的感受。"
+          },
+          {
+            "id": "c",
+            "text": "舊遊醒後即歸的規律，銜接精神上的不安未解",
+            "explanation": "舊遊醒歸並非所引環視景象的內容。"
+          },
+          {
+            "id": "d",
+            "text": "日落仍不歸的行動，銜接精神上的留戀新得",
+            "explanation": "日落不歸在後面表現留戀，此處先由所見的相連引出融通。"
+          }
+        ],
+        "misconception": "高出群丘連到高潔自況是另一條解讀，本句重山水天地相連；舊遊醒歸並非所引環視景象的內容；日落不歸在後面表現留戀，此處先由所見的相連引出融通。"
+      },
+      "objective": "「縈青繚白，外與天際，四望如一」最直接怎樣銜接後文精神體驗？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-16-00-3",
+      "ordinal": 113,
+      "baseQuestionHash": "3f0fa5a52860d267c4d23110ef8a927a8da56fd563a8529d4eb8621f16beae6b",
+      "patch": {
+        "explanation": "三處描寫從與天地同在同遊，深化到與萬物融為一體的體驗。俱、遊、冥合使物我關係逐步深入，但這是內容推進的概括，不能因此把不同段落三句一律判成層遞修辭。",
+        "summary": "三處描寫從與天地同在同遊，深化到與萬物融為一體的體驗。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "由遊遍高山深林，深入到尚未見過的西山",
+            "explanation": "首次到西山是行程發展，三句說的已是精神感受。"
+          },
+          {
+            "id": "b",
+            "text": "由與天地同在同遊，深入與萬物融合的境界",
+            "explanation": "三處描寫從與天地同在同遊，深化到與萬物融為一體的體驗。"
+          },
+          {
+            "id": "c",
+            "text": "由俯視群山低小，深入到辨認數州的地界",
+            "explanation": "辨行政地界是實用資訊，與無涯、無窮及冥合的境界不合。"
+          },
+          {
+            "id": "d",
+            "text": "由貶後經常惴慄，深入到對昔日仕途的追憶",
+            "explanation": "原文沒有在這三句追述仕途事件，重點是從當下山水所得的融通。"
+          }
+        ],
+        "misconception": "首次到西山是行程發展，三句說的已是精神感受；辨行政地界是實用資訊，與無涯、無窮及冥合的境界不合；原文沒有在這三句追述仕途事件，重點是從當下山水所得的融通。"
+      },
+      "objective": "「與顥氣俱」「與造物者遊」「與萬化冥合」連起來，最適合怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-18-01-1",
+      "ordinal": 114,
+      "baseQuestionHash": "b63338562181fc686cc5f896ba0a36461259249fd5b27808165231f1e4469d87",
+      "patch": {
+        "explanation": "柳宗元藉自然達到物我融通，范仲淹則把憂樂放到君民天下，兩者都超越只計個人得失。西山以冥合為據，岳陽以進退皆憂君民為據；同在超越己悲，出路卻各有重心。",
+        "summary": "柳宗元藉自然達到物我融通，范仲淹則把憂樂放到君民天下，兩者都超越只計個人得失。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "柳以國家百姓為念；范以忘卻物我界限解憂。",
+            "explanation": "把兩篇重心互換：君民是岳陽，物我融通是西山。"
+          },
+          {
+            "id": "b",
+            "text": "柳借山水取得精神舒展；范在退隱後才轉而憂民。",
+            "explanation": "進亦憂、退亦憂表示不受進退限制，不能說退隱後才開始關心。"
+          },
+          {
+            "id": "c",
+            "text": "柳借自然達到物我融通；范以君民憂樂超越己悲。",
+            "explanation": "柳宗元藉自然達到物我融通，范仲淹則把憂樂放到君民天下，兩者都超越只計個人得失。"
+          },
+          {
+            "id": "d",
+            "text": "柳借醉酒暫時回避愁苦；范以壓下悲喜避免煩擾。",
+            "explanation": "柳不止借醉暫避，范也不是壓掉所有悲喜，而是轉向天下的憂樂。"
+          }
+        ],
+        "misconception": "把兩篇重心互換：君民是岳陽，物我融通是西山；進亦憂、退亦憂表示不受進退限制，不能說退隱後才開始關心；柳不止借醉暫避，范也不是壓掉所有悲喜，而是轉向天下的憂樂。"
+      },
+      "objective": "比較《西山宴遊記》與《岳陽樓記》，哪項兼顧兩者超越個人得失的不同方式？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-18-01-2",
+      "ordinal": 115,
+      "baseQuestionHash": "d164ea189e0196369142f54c0408d284181268e0130ffbed0ae51d1774dfc523",
+      "patch": {
+        "explanation": "柳由宴遊改變自身觀照、達到物我相融，莊則重看無用的價值，使大樹免於斧斤摧折。兩者都鬆開既有尺度，但一方寫親身體驗，一方以寓言重新衡量用途；不能只以物大便判有價值。",
+        "summary": "柳由宴遊改變自身觀照、達到物我相融，莊則重看無用的價值，使大樹免於斧斤摧折。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "柳由宴遊達物我相融；莊重看無用，使大樹得保全。",
+            "explanation": "柳由宴遊改變自身觀照、達到物我相融，莊則重看無用的價值，使大樹免於斧斤摧折。"
+          },
+          {
+            "id": "b",
+            "text": "柳以西山高大證明價值；莊以大樹巨大證明有用。",
+            "explanation": "斄牛雖大不能執鼠已說明大小不等於各種用途皆具，柳也不只論山的體量。"
+          },
+          {
+            "id": "c",
+            "text": "柳由宴遊達物我相融；莊主張大樹應改成可用木材。",
+            "explanation": "莊以不夭斤斧說保全，並未要求加工大樹迎合木材用途。"
+          },
+          {
+            "id": "d",
+            "text": "柳以宴遊延續原有憂懼；莊重看無用，使大樹得保全。",
+            "explanation": "柳由惴慄轉心凝形釋，並非把原有憂懼延續到相同結局。"
+          }
+        ],
+        "misconception": "斄牛雖大不能執鼠已說明大小不等於各種用途皆具，柳也不只論山的體量；莊以不夭斤斧說保全，並未要求加工大樹迎合木材用途；柳由惴慄轉心凝形釋，並非把原有憂懼延續到相同結局。"
+      },
+      "objective": "比較《西山宴遊記》與《逍遙遊》所示的精神出路，哪項最準確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-18-01-3",
+      "ordinal": 116,
+      "baseQuestionHash": "9861229503568a385fe04fb1c6be01e5cd760dd8b1e98eeca79b859084f1e370",
+      "patch": {
+        "explanation": "柳以宴遊走向物我冥合，蘇則由懷想周瑜、自傷華髮，轉向酹月寄懷。兩篇都在失意中尋求安頓，卻須沿各自文字交代轉變；酹月不等於柳的醉境，如夢也不證明從此放棄功業。",
+        "summary": "柳以宴遊走向物我冥合，蘇則由懷想周瑜、自傷華髮，轉向酹月寄懷。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "柳以山水忘形；蘇同以不知日入的醉境暫忘失意。",
+            "explanation": "不知日入是西山的表達，不能搬作蘇詞的同一醉境。"
+          },
+          {
+            "id": "b",
+            "text": "柳以宴遊達到物我冥合；蘇由懷古自傷轉向酹月寄懷。",
+            "explanation": "柳以宴遊走向物我冥合，蘇則由懷想周瑜、自傷華髮，轉向酹月寄懷。"
+          },
+          {
+            "id": "c",
+            "text": "柳因懷古英雄而感到自傷；蘇亦以周瑜反照自己的遭遇。",
+            "explanation": "柳沒有以懷古英雄引起自傷，前半把蘇詞進程移給柳。"
+          },
+          {
+            "id": "d",
+            "text": "柳以形釋表示貶謫已終；蘇以如夢表示已放下功業之念。",
+            "explanation": "形釋不取消貶謫，如夢也不足以證實永久放下功業，兩項都推得過遠。"
+          }
+        ],
+        "misconception": "不知日入是西山的表達，不能搬作蘇詞的同一醉境；柳沒有以懷古英雄引起自傷，前半把蘇詞進程移給柳；形釋不取消貶謫，如夢也不足以證實永久放下功業，兩項都推得過遠。"
+      },
+      "objective": "比較《西山宴遊記》與《念奴嬌·赤壁懷古》面對失意的表達，哪項最準確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-20-00-1",
+      "ordinal": 117,
+      "baseQuestionHash": "bdc8ec7e83cf02bc2d936cec8f37d448ec143b011feb394074a34615353dc02c",
+      "patch": {
+        "explanation": "始在未始這個組合中表曾經，未始知就是未曾知道。全句回顧此前對西山的認識，沒有說尚未出發；和始指異之的才、遊於是乎始的開始要按搭配分辨。",
+        "summary": "始在未始這個組合中表曾經，未始知就是未曾知道。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "開始；未始即尚未出發",
+            "explanation": "未始知否定的是曾經知道，不是遊程尚未出發。"
+          },
+          {
+            "id": "b",
+            "text": "起初；未始即並非首次",
+            "explanation": "並非首次會預設先前已知，與未曾知的意思相反。"
+          },
+          {
+            "id": "c",
+            "text": "才；未始即剛才未能",
+            "explanation": "剛才未能把長時間的此前不知縮成剛才一次失敗，原句無此限定。"
+          },
+          {
+            "id": "d",
+            "text": "曾經；未始即未曾",
+            "explanation": "始在未始這個組合中表曾經，未始知就是未曾知道。"
+          }
+        ],
+        "misconception": "未始知否定的是曾經知道，不是遊程尚未出發；並非首次會預設先前已知，與未曾知的意思相反；剛才未能把長時間的此前不知縮成剛才一次失敗，原句無此限定。"
+      },
+      "objective": "文句中「始」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-20-00-4",
+      "ordinal": 118,
+      "baseQuestionHash": "d538c757c4144bb660b1574bbac12646d9f4426ad73a88a53acecaadaf293160",
+      "patch": {
+        "explanation": "兩個窮都指沿所探景物走到盡處，迴溪限定溪流盡頭，山之高限定山頂。共同的是探到盡處的動作，差別在目的地；不能因窮常表貧困就把兩次行程改成用盡財物。",
+        "summary": "兩個窮都指沿所探景物走到盡處，迴溪限定溪流盡頭，山之高限定山頂。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "都指走至所探景物的盡處，只是地點不同",
+            "explanation": "兩個窮都指沿所探景物走到盡處，迴溪限定溪流盡頭，山之高限定山頂。"
+          },
+          {
+            "id": "b",
+            "text": "都指走到體力盡頭，只是疲倦程度不同",
+            "explanation": "盡處指所探景物的盡頭，不是以體力耗盡作停點。"
+          },
+          {
+            "id": "c",
+            "text": "都指遍走所有支路，只是岔路數量不同",
+            "explanation": "到溪盡處或山頂，不等於逐條走遍每一岔路。"
+          },
+          {
+            "id": "d",
+            "text": "都指查清景物成因，只是研究對象不同",
+            "explanation": "這兩處是實際探遊動作，未進行地理成因研究。"
+          }
+        ],
+        "misconception": "盡處指所探景物的盡頭，不是以體力耗盡作停點；到溪盡處或山頂，不等於逐條走遍每一岔路；這兩處是實際探遊動作，未進行地理成因研究。"
+      },
+      "objective": "比較「窮迴溪」與「窮山之高而止」，兩個「窮」有何共同點？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-20-00-5",
+      "ordinal": 119,
+      "baseQuestionHash": "f234a023d01749b2d67297cd4f46a5c91de4b8940859dd54f0ea7257a5b7df1f",
+      "patch": {
+        "explanation": "前一窮寫到達山頂的動作，後一所窮寫心神同遊境界的盡頭、盡期。前句而止指出實際行程有終點，後句不知則強調感受不到界限；不能把兩者都套成體力耗盡。",
+        "summary": "前一窮寫到達山頂的動作，後一所窮寫心神同遊境界的盡頭、盡期。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "前者是測定山頂的高度，後者是量出的高度數值",
+            "explanation": "兩句都沒有實測數值；前者登到最高處，後者感天地境界無窮。"
+          },
+          {
+            "id": "b",
+            "text": "前者是到達盡處的動作，後者是所指的盡頭盡期",
+            "explanation": "前一窮寫到達山頂的動作，後一所窮寫心神同遊境界的盡頭、盡期。"
+          },
+          {
+            "id": "c",
+            "text": "前者是走至體力的盡頭，後者是耗盡後的疲乏",
+            "explanation": "到頂才止不是力竭，後句更說與自然同遊而非疲乏。"
+          },
+          {
+            "id": "d",
+            "text": "前者是追問山的形成，後者是查得的形成原因",
+            "explanation": "前者記登山行動，後者說境界盡頭，兩者都非查問成因。"
+          }
+        ],
+        "misconception": "兩句都沒有實測數值；前者登到最高處，後者感天地境界無窮；到頂才止不是力竭，後句更說與自然同遊而非疲乏；前者記登山行動，後者說境界盡頭，兩者都非查問成因。"
+      },
+      "objective": "「窮山之高而止」與「不知其所窮」中的「窮」，何者最能說明差別？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-20-00-6",
+      "ordinal": 120,
+      "baseQuestionHash": "3977448a1d91e2822a5d561161bacc96a982edfc23c42057c28b565804144980",
+      "patch": {
+        "explanation": "窮在其所窮中指盡頭、盡期，不知其所窮說與自然同遊的感受沒有可知終點。它與莫得其涯相應，先看兩句同向的無邊意思，便不會把窮解成貧困或財物。",
+        "summary": "窮在其所窮中指盡頭、盡期，不知其所窮說與自然同遊的感受沒有可知終點。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "窮困的原因",
+            "explanation": "原文沒有查問貧困原因，而是在寫天地境界。"
+          },
+          {
+            "id": "b",
+            "text": "盡頭、盡期",
+            "explanation": "窮在其所窮中指盡頭、盡期，不知其所窮說與自然同遊的感受沒有可知終點。"
+          },
+          {
+            "id": "c",
+            "text": "探尋的動作",
+            "explanation": "探尋動作可用於窮迴溪，但所窮在此指向盡頭。"
+          },
+          {
+            "id": "d",
+            "text": "耗盡的資財",
+            "explanation": "資財須有財物對象，本文這裏沒有支用或耗盡。"
+          }
+        ],
+        "misconception": "原文沒有查問貧困原因，而是在寫天地境界；探尋動作可用於窮迴溪，但所窮在此指向盡頭；資財須有財物對象，本文這裏沒有支用或耗盡。"
+      },
+      "objective": "文句中「窮」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-20-00-7",
+      "ordinal": 121,
+      "baseQuestionHash": "a90b35ababcd94623d753b900e7ad96284552aefac9e8698d32277445ecd52de",
+      "patch": {
+        "explanation": "有異態者的異形容山的形態奇特，始指異之的異則說作者認為西山奇特。後者帶之作對象，表達觀看後的主觀判斷；不是作者把山改造得奇特，須分清形容、意動與使動。",
+        "summary": "有異態者的異形容山的形態奇特，始指異之的異則說作者認為西山奇特。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "前者是認為山奇特，後者只形容山形奇特",
+            "explanation": "把兩處用法倒轉；異態先形容狀態，異之後表示認為它奇異。"
+          },
+          {
+            "id": "b",
+            "text": "前者說山形奇特，後者是使西山變得奇特",
+            "explanation": "前半正確，後半卻將意動誤作使動，原文沒有改造西山。"
+          },
+          {
+            "id": "c",
+            "text": "前者說山形奇特，後者是認為西山奇特",
+            "explanation": "有異態者的異形容山的形態奇特，始指異之的異則說作者認為西山奇特。"
+          },
+          {
+            "id": "d",
+            "text": "前者與後者都只是形容山形奇特",
+            "explanation": "後句不只直接形容山，還寫作者認定它奇異的動作。"
+          }
+        ],
+        "misconception": "把兩處用法倒轉；異態先形容狀態，異之後表示認為它奇異；前半正確，後半卻將意動誤作使動，原文沒有改造西山；後句不只直接形容山，還寫作者認定它奇異的動作。"
+      },
+      "objective": "「有異態者」與後文「始指異之」的「異」，用法有何不同？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-20-00-9",
+      "ordinal": 122,
+      "baseQuestionHash": "18ab12a996eb9088368592d591bc2e4b536ea95d32da851ced325dbe1e2f5567",
+      "patch": {
+        "explanation": "之是的，連接西山與怪特，整組意為西山的奇異卓絕。未始知所不知道的是這種特點，之沒有獨立指代某人，也沒有另起前往的動作。",
+        "summary": "之是的，連接西山與怪特，整組意為西山的奇異卓絕。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "它，指西山",
+            "explanation": "西山已是限定成分，之在兩者之間連接，非再代它。"
+          },
+          {
+            "id": "b",
+            "text": "我，指作者",
+            "explanation": "句中沒有以之代作者的根據，作者是知的主體。"
+          },
+          {
+            "id": "c",
+            "text": "到，表示前往",
+            "explanation": "若譯前往會把名詞性短語改成行程，破壞未始知後的意思。"
+          },
+          {
+            "id": "d",
+            "text": "的，結構助詞",
+            "explanation": "之是的，連接西山與怪特，整組意為西山的奇異卓絕。"
+          }
+        ],
+        "misconception": "西山已是限定成分，之在兩者之間連接，非再代它；句中沒有以之代作者的根據，作者是知的主體；若譯前往會把名詞性短語改成行程，破壞未始知後的意思。"
+      },
+      "objective": "文句中「之」的用法或所指，哪項正確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-20-00-11",
+      "ordinal": 123,
+      "baseQuestionHash": "bb1e321c74ec88dc1da036a0cf9995de486f16d30383e1c8fada9731c8ad3680",
+      "patch": {
+        "explanation": "日是每天，在這裏用時間名詞修飾整個與同伴遊覽的行動。它表示反覆的日常習慣，與舊遊醉夢醒歸的循環相合；不是一次某日，也不是以太陽作同行者。",
+        "summary": "日是每天，在這裏用時間名詞修飾整個與同伴遊覽的行動。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "白天",
+            "explanation": "白天只限定一日內時段，日於此重每天反覆。"
+          },
+          {
+            "id": "b",
+            "text": "太陽",
+            "explanation": "太陽在日之入才作主體，此處日修飾作者出遊。"
+          },
+          {
+            "id": "c",
+            "text": "某日",
+            "explanation": "某日指一次時點，不能表現平日的反覆活動。"
+          },
+          {
+            "id": "d",
+            "text": "每天",
+            "explanation": "日是每天，在這裏用時間名詞修飾整個與同伴遊覽的行動。"
+          }
+        ],
+        "misconception": "白天只限定一日內時段，日於此重每天反覆；太陽在日之入才作主體，此處日修飾作者出遊；某日指一次時點，不能表現平日的反覆活動。"
+      },
+      "objective": "文句中「日」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-20-00-12",
+      "ordinal": 124,
+      "baseQuestionHash": "0a70f7c28f0b5a277f944cfd9aa670cace66d042cb3d1caa751024783e787a8f",
+      "patch": {
+        "explanation": "箕是像簸箕般，修飾踞的坐姿，屬名詞作狀語。把兩腿伸開的形態比作簸箕，不表示現場真的拿着或坐進簸箕；與而遨連讀，見作者坐定觀景的隨意。",
+        "summary": "箕是像簸箕般，修飾踞的坐姿，屬名詞作狀語。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "像簸箕般",
+            "explanation": "箕是像簸箕般，修飾踞的坐姿，屬名詞作狀語。"
+          },
+          {
+            "id": "b",
+            "text": "屈膝成簸箕狀",
+            "explanation": "箕踞須伸開兩腿，屈膝收攏不能準確呈現此坐姿。"
+          },
+          {
+            "id": "c",
+            "text": "把簸箕作坐具",
+            "explanation": "箕只用來比形，句中沒有把器具帶上山作席。"
+          },
+          {
+            "id": "d",
+            "text": "模仿簸穀的動作",
+            "explanation": "箕修飾踞坐的姿勢，非手上簸穀的動作。"
+          }
+        ],
+        "misconception": "箕踞須伸開兩腿，屈膝收攏不能準確呈現此坐姿；箕只用來比形，句中沒有把器具帶上山作席；箕修飾踞坐的姿勢，非手上簸穀的動作。"
+      },
+      "objective": "文句中「箕」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-20-00-13",
+      "ordinal": 125,
+      "baseQuestionHash": "b0e1a88f5bb536b1d16aead2733c2f625e3aa584c9d9f19d4c994e20ba2172c7",
+      "patch": {
+        "explanation": "臥而夢的夢是做夢的動作，夢亦同趣的夢則是作去向主體的夢境。前者接續臥，後者與意有所極相應；同一字因句法位置不同，動詞和名詞不可混用。",
+        "summary": "臥而夢的夢是做夢的動作，夢亦同趣的夢則是作去向主體的夢境。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "前者是夢境，後者是做夢",
+            "explanation": "前句在敘連續動作，後句以夢作主語，選項把兩者倒置。"
+          },
+          {
+            "id": "b",
+            "text": "兩者均指睡眠的動作",
+            "explanation": "做夢不等於睡眠的全部，後句更是在說夢境去向。"
+          },
+          {
+            "id": "c",
+            "text": "前者是做夢，後者是夢境",
+            "explanation": "臥而夢的夢是做夢的動作，夢亦同趣的夢則是作去向主體的夢境。"
+          },
+          {
+            "id": "d",
+            "text": "兩者均指未實現的願望",
+            "explanation": "未實現願望是夢的引申義，此處先有醉臥睡夢的直接語境。"
+          }
+        ],
+        "misconception": "前句在敘連續動作，後句以夢作主語，選項把兩者倒置；做夢不等於睡眠的全部，後句更是在說夢境去向；未實現願望是夢的引申義，此處先有醉臥睡夢的直接語境。"
+      },
+      "objective": "「臥而夢」與「夢亦同趣」兩個「夢」，詞義有何不同？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-21-01-3",
+      "ordinal": 126,
+      "baseQuestionHash": "2f6eaa4eee92baf2629711edd669d174b685a8d0411111fecbe7c39f4d3abb8c",
+      "patch": {
+        "explanation": "嚮是從前，指出作者正在回顧以往的遊歷。吾嚮之未始遊與遊於是乎始相接，前者從前、後者從這次，時間對照揭出真遊認識的改變。",
+        "summary": "嚮是從前，指出作者正在回顧以往的遊歷。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "朝向",
+            "explanation": "朝向需有方向或對象，此處放在未始遊前標示過往。"
+          },
+          {
+            "id": "b",
+            "text": "嚮往",
+            "explanation": "嚮往說願望，與回顧此前經驗不同。"
+          },
+          {
+            "id": "c",
+            "text": "從前",
+            "explanation": "嚮是從前，指出作者正在回顧以往的遊歷。"
+          },
+          {
+            "id": "d",
+            "text": "回響",
+            "explanation": "回響說聲音，不能用來修飾從前是否遊過。"
+          }
+        ],
+        "misconception": "朝向需有方向或對象，此處放在未始遊前標示過往；嚮往說願望，與回顧此前經驗不同；回響說聲音，不能用來修飾從前是否遊過。"
+      },
+      "objective": "文句中「嚮」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-21-01-4",
+      "ordinal": 127,
+      "baseQuestionHash": "b77df1aa01411c30802de3af33a322a6b74ad2cbbd9e64b9bd5bba94f4be2317",
+      "patch": {
+        "explanation": "志是把這次新體悟記錄下來，故把前面的領悟連到作文的緣由。作者認為今次才得真遊，才值得為文記述；不是因不識方向而畫路線，也不是規劃一次尚未發生的遊覽。",
+        "summary": "志是把這次新體悟記錄下來，故把前面的領悟連到作文的緣由。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "因不知西山方位，所以作文標示登山路線",
+            "explanation": "前文已親自登頂，沒有不知西山方位的問題。"
+          },
+          {
+            "id": "b",
+            "text": "因憂懼仍未稍減，所以作文向朝廷申訴",
+            "explanation": "心凝形釋顯示新得安定，文中亦未把此文寫成向朝廷申訴。"
+          },
+          {
+            "id": "c",
+            "text": "因今遊有新體悟，所以作文記錄這次經歷",
+            "explanation": "志是把這次新體悟記錄下來，故把前面的領悟連到作文的緣由。"
+          },
+          {
+            "id": "d",
+            "text": "因從前從未出遊，所以作文計劃下一次行程",
+            "explanation": "未始遊不等於從未出門，志在記已發生的經歷，非計劃下次。"
+          }
+        ],
+        "misconception": "前文已親自登頂，沒有不知西山方位的問題；心凝形釋顯示新得安定，文中亦未把此文寫成向朝廷申訴；未始遊不等於從未出門，志在記已發生的經歷，非計劃下次。"
+      },
+      "objective": "「故為之文以志」的「志」與上文有何關係？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-21-01-5",
+      "ordinal": 128,
+      "baseQuestionHash": "01ef5968f4c89ffb0ba2dfd55b2747ada58e58612139a463ce24ba19d440e63e",
+      "patch": {
+        "explanation": "皆我有也在全句中是說這些奇異山水我都曾遊覽，帶自以為盡得山水的口氣。它承接無遠不到，後面卻轉出未識西山；有在此須按遊賞語境理解，不作土地所有權的宣告。",
+        "summary": "皆我有也在全句中是說這些奇異山水我都曾遊覽，帶自以為盡得山水的口氣。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "擁有土地",
+            "explanation": "前文列遊蹤而非田產，沒有取得土地所有權。"
+          },
+          {
+            "id": "b",
+            "text": "命名景物",
+            "explanation": "命名景物需有命名行動，原文只說遊歷已廣。"
+          },
+          {
+            "id": "c",
+            "text": "開墾山林",
+            "explanation": "開墾是改變土地用途，本文首段說登山入林遊賞。"
+          },
+          {
+            "id": "d",
+            "text": "曾經遊覽過",
+            "explanation": "皆我有也在全句中是說這些奇異山水我都曾遊覽，帶自以為盡得山水的口氣。"
+          }
+        ],
+        "stem": "「皆我有也」在本句遊覽語境中，「有」應怎樣理解？",
+        "misconception": "前文列遊蹤而非田產，沒有取得土地所有權；命名景物需有命名行動，原文只說遊歷已廣；開墾是改變土地用途，本文首段說登山入林遊賞。"
+      },
+      "objective": "「皆我有也」在本句遊覽語境中，「有」應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-21-03-1",
+      "ordinal": 129,
+      "baseQuestionHash": "4e359a8853b23600878c77250a60270725f1c87006996d34b899d808e5e3a87a",
+      "patch": {
+        "explanation": "僇在此同戮，指受刑辱，作者藉僇人自述受罰被貶的身分。字形相通不代表把戮的所有義都搬進來；後文仍居州出遊，故不能解作作者已遭殺害。",
+        "summary": "僇在此同戮，指受刑辱，作者藉僇人自述受罰被貶的身分。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "遭殺害",
+            "explanation": "已遭殺害與作者後文生活行動矛盾，刑辱不等於處死。"
+          },
+          {
+            "id": "b",
+            "text": "行刑罰",
+            "explanation": "行刑罰把承受者換成執行者，與作者自稱受罰不合。"
+          },
+          {
+            "id": "c",
+            "text": "受刑辱",
+            "explanation": "僇在此同戮，指受刑辱，作者藉僇人自述受罰被貶的身分。"
+          },
+          {
+            "id": "d",
+            "text": "判死罪",
+            "explanation": "被貶不等於判死罪，原文沒有死刑判決。"
+          }
+        ],
+        "misconception": "已遭殺害與作者後文生活行動矛盾，刑辱不等於處死；行刑罰把承受者換成執行者，與作者自稱受罰不合；被貶不等於判死罪，原文沒有死刑判決。"
+      },
+      "objective": "文句中「僇」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-21-03-2",
+      "ordinal": 130,
+      "baseQuestionHash": "5f8fd043bf358014dfdcc6dc740e8811d9acbf1aa1bbba87f316a61e22759f26",
+      "patch": {
+        "explanation": "趣同趨，是往、到，夢亦同趣說夢也跟着心意到同一地方。前句意有所極提供同的參照，極與趣都連到去向；趣味或興味的意思不能代替這個動作。",
+        "summary": "趣同趨，是往、到，夢亦同趣說夢也跟着心意到同一地方。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "趣味",
+            "explanation": "趣味是有趣程度，原句沒有在評夢好不好玩。"
+          },
+          {
+            "id": "b",
+            "text": "催促",
+            "explanation": "催促須另有受催者，這裏只說夢隨意往。"
+          },
+          {
+            "id": "c",
+            "text": "往、到",
+            "explanation": "趣同趨，是往、到，夢亦同趣說夢也跟着心意到同一地方。"
+          },
+          {
+            "id": "d",
+            "text": "歸回原處",
+            "explanation": "同趣說夢隨意念所到，未限定回到原來地方。"
+          }
+        ],
+        "misconception": "趣味是有趣程度，原句沒有在評夢好不好玩；催促須另有受催者，這裏只說夢隨意往；同趣說夢隨意念所到，未限定回到原來地方。"
+      },
+      "objective": "文句中「趣」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-21-03-3",
+      "ordinal": 131,
+      "baseQuestionHash": "d08262192a40aba02db1bafad8de9b8a01e544b1eb0485947580ab06bb57ca99",
+      "patch": {
+        "explanation": "遯同遁，在莫得遯隱中指隱藏，說所見地景全在眼前，無從藏起。前文主體是山川地勢，不能因遁常與隱居相連，便把作者的被貶經歷當成此字所指。",
+        "summary": "遯同遁，在莫得遯隱中指隱藏，說所見地景全在眼前，無從藏起。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "退隱",
+            "explanation": "退隱是人的選擇，這裏被描寫的是景物可見程度。"
+          },
+          {
+            "id": "b",
+            "text": "逃國",
+            "explanation": "逃國也是人的行動，沒有離境情節。"
+          },
+          {
+            "id": "c",
+            "text": "隱藏",
+            "explanation": "遯同遁，在莫得遯隱中指隱藏，說所見地景全在眼前，無從藏起。"
+          },
+          {
+            "id": "d",
+            "text": "躲避同伴",
+            "explanation": "躲避同伴改換了主體與對象，原文說景物不能藏。"
+          }
+        ],
+        "misconception": "退隱是人的選擇，這裏被描寫的是景物可見程度；逃國也是人的行動，沒有離境情節；躲避同伴改換了主體與對象，原文說景物不能藏。"
+      },
+      "objective": "文句中「遯」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-21-03-4",
+      "ordinal": 132,
+      "baseQuestionHash": "7235336dcf6f64e361756e5bab29321f6050429b4ec0a147769ebbf529d81b48",
+      "patch": {
+        "explanation": "顥在本書按通昊解作廣大的天，顥氣因而指天地元氣。與顥氣俱說心神彷彿與此廣大境界同在；不是見到顥含白的形旁，便固定解成白霧。",
+        "summary": "顥在本書按通昊解作廣大的天，顥氣因而指天地元氣。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "廣大的天",
+            "explanation": "顥在本書按通昊解作廣大的天，顥氣因而指天地元氣。"
+          },
+          {
+            "id": "b",
+            "text": "白色的霧",
+            "explanation": "白霧只是局部景象，不合本書通昊及天地元氣之解。"
+          },
+          {
+            "id": "c",
+            "text": "清澈的水",
+            "explanation": "清水可與前面白水混淆，但此處顥氣指向天地。"
+          },
+          {
+            "id": "d",
+            "text": "明亮的月",
+            "explanation": "月光在本句沒有出現，也不能替代氣的廣大自然境界。"
+          }
+        ],
+        "stem": "依本書的通假解釋，「與顥氣俱」的「顥」是甚麼意思？",
+        "misconception": "白霧只是局部景象，不合本書通昊及天地元氣之解；清水可與前面白水混淆，但此處顥氣指向天地；月光在本句沒有出現，也不能替代氣的廣大自然境界。"
+      },
+      "objective": "依本書的通假解釋，「與顥氣俱」的「顥」是甚麼意思？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-22-01-1",
+      "ordinal": 133,
+      "baseQuestionHash": "7f91e1240f77709190fe1231596b8f1521a41bf3e3f420f459cf8a350926603c",
+      "patch": {
+        "explanation": "西山之怪特是西山的奇異卓絕，之把山與其特點連起來。前面的知以整組作認識對象，未始知說從前不知道這種卓絕，並未描述前往或山形改變。",
+        "summary": "西山之怪特是西山的奇異卓絕，之把山與其特點連起來。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "西山的奇異卓絕",
+            "explanation": "西山之怪特是西山的奇異卓絕，之把山與其特點連起來。"
+          },
+          {
+            "id": "b",
+            "text": "前往形態奇異的西山",
+            "explanation": "把之譯前往便錯成行動短語，與此處結構助詞用法不合。"
+          },
+          {
+            "id": "c",
+            "text": "認為西山十分奇異",
+            "explanation": "認為奇異是異之的意動表達，此處只是特點短語。"
+          },
+          {
+            "id": "d",
+            "text": "西山開始變得奇異",
+            "explanation": "沒有開始或變化的字眼，不能添出山剛變奇異。"
+          }
+        ],
+        "misconception": "把之譯前往便錯成行動短語，與此處結構助詞用法不合；認為奇異是異之的意動表達，此處只是特點短語；沒有開始或變化的字眼，不能添出山剛變奇異。"
+      },
+      "objective": "文句中「西山之怪特」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-22-01-2",
+      "ordinal": 134,
+      "baseQuestionHash": "f387a59e16234b574e496ed061c2c7d8057428aba2a8d4cbf3ece6aae28ad2b4",
+      "patch": {
+        "explanation": "始指異之就是才指着它，認為它奇異，之回指西山。始限定這次才發現，異表主觀評價；逐字譯出後，須保持觀看發現的情節，不能添成改造山形。",
+        "summary": "始指異之就是才指着它，認為它奇異，之回指西山。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "才指着它，使它顯出奇異",
+            "explanation": "使它奇異是使動，原文異之為認為它奇異的意動。"
+          },
+          {
+            "id": "b",
+            "text": "從前指着它，認為它奇異",
+            "explanation": "始在此是才，不是從前；上段正說此前未識西山之奇。"
+          },
+          {
+            "id": "c",
+            "text": "才指着它，認為它奇異",
+            "explanation": "始指異之就是才指着它，認為它奇異，之回指西山。"
+          },
+          {
+            "id": "d",
+            "text": "開始指向它，認定它不值得遊",
+            "explanation": "後文立即開路探訪，不能把驚異改成否定遊賞價值。"
+          }
+        ],
+        "misconception": "使它奇異是使動，原文異之為認為它奇異的意動；始在此是才，不是從前；上段正說此前未識西山之奇；後文立即開路探訪，不能把驚異改成否定遊賞價值。"
+      },
+      "objective": "文句中「始指異之」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-22-01-3",
+      "ordinal": 135,
+      "baseQuestionHash": "d1bc1d93618abf93610c2888dd22e009ea488b4d34df5f4c20ed34320234a86b",
+      "patch": {
+        "explanation": "不知日之入是沒有察覺太陽已落山，日為主語，入說落下，之置於主謂之間可不譯。滿酌就醉、沉浸宴遊導致未察覺日落；原文沒有補上一段睡醒的情節。",
+        "summary": "不知日之入是沒有察覺太陽已落山，日為主語，入說落下，之置於主謂之間可不譯。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "不知道太陽何時升起",
+            "explanation": "日入是日落而非日出，方向讀反。"
+          },
+          {
+            "id": "b",
+            "text": "睡醒後才知太陽落山",
+            "explanation": "睡醒後才知把舊遊覺而起搬到新遊，原句沒有這一步。"
+          },
+          {
+            "id": "c",
+            "text": "不知道太陽已落山",
+            "explanation": "不知日之入是沒有察覺太陽已落山，日為主語，入說落下，之置於主謂之間可不譯。"
+          },
+          {
+            "id": "d",
+            "text": "不知自己何時進入山中",
+            "explanation": "入的主體是日，不能換成作者入山。"
+          }
+        ],
+        "misconception": "日入是日落而非日出，方向讀反；睡醒後才知把舊遊覺而起搬到新遊，原句沒有這一步；入的主體是日，不能換成作者入山。"
+      },
+      "objective": "文句中「不知日之入」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-22-01-4",
+      "ordinal": 136,
+      "baseQuestionHash": "d68e7cdfcbc42cb22be3a53ee6ef3654b873c5edc7205a3c55935f524361948a",
+      "patch": {
+        "explanation": "這句說這才明白從前未曾真正領略遊的深意，回顧標準因今次冥合體驗而改變。嚮指從前，未始指未曾，而全文無遠不到排除了從未出遊的直譯；補真正有上下文根據，不是另添情節。",
+        "summary": "這句說這才明白從前未曾真正領略遊的深意，回顧標準因今次冥合體驗而改變。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "這才明白從前未曾真正領略遊的深意",
+            "explanation": "這句說這才明白從前未曾真正領略遊的深意，回顧標準因今次冥合體驗而改變。"
+          },
+          {
+            "id": "b",
+            "text": "這才明白從前未曾到過西山的最高處",
+            "explanation": "未到西山頂只是行程差別，未能譯出對舊遊意義的重新評價。"
+          },
+          {
+            "id": "c",
+            "text": "後來知道從前所遊的山都不及西山高",
+            "explanation": "山高的認識見前一次知，這次知轉向遊賞精神所得。"
+          },
+          {
+            "id": "d",
+            "text": "後來知道自己將以這次作為作文的起點",
+            "explanation": "為文以志在後面說寫作目的，本句先反省遊，不是在界定作文起點。"
+          }
+        ],
+        "misconception": "未到西山頂只是行程差別，未能譯出對舊遊意義的重新評價；山高的認識見前一次知，這次知轉向遊賞精神所得；為文以志在後面說寫作目的，本句先反省遊，不是在界定作文起點。"
+      },
+      "objective": "「然後知吾嚮之未始遊」應怎樣翻譯才兼顧全文？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-22-03-1",
+      "ordinal": 137,
+      "baseQuestionHash": "f50205943563d55b1c8830811d0bbc6347e499c9a5f8f1faa9dd1bf4edeb65e3",
+      "patch": {
+        "explanation": "省略的行動主體是作者，承接前文自余為僇人、居是州。其隙也先交代作者有空時，則施施而行再續說我緩緩走；後句日與其徒才補出相伴的人，不能倒置主從。",
+        "summary": "省略的行動主體是作者，承接前文自余為僇人、居是州。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "作者的同伴",
+            "explanation": "同伴在下一句以與其徒出現，不能取代此前一直敘述的余。"
+          },
+          {
+            "id": "b",
+            "text": "作者的僕人",
+            "explanation": "僕人到發現西山後才奉命同行，非本句省略主語。"
+          },
+          {
+            "id": "c",
+            "text": "法華西亭的僧人",
+            "explanation": "原文未交代僧人參與舊遊，不能從後面的寺亭地名補人。"
+          },
+          {
+            "id": "d",
+            "text": "作者",
+            "explanation": "省略的行動主體是作者，承接前文自余為僇人、居是州。"
+          }
+        ],
+        "misconception": "同伴在下一句以與其徒出現，不能取代此前一直敘述的余；僕人到發現西山後才奉命同行，非本句省略主語；原文未交代僧人參與舊遊，不能從後面的寺亭地名補人。"
+      },
+      "objective": "「其隙也，則施施而行」後半句省略的行動主體是誰？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-22-03-2",
+      "ordinal": 138,
+      "baseQuestionHash": "49848502be813cf0ca5d2adf3ff95be8f1059599378b091d4ae5612e7fa261d9",
+      "patch": {
+        "explanation": "於是表示從這次西山之遊，標出作者所理解的真遊起點。與吾嚮之未始遊前後相對，重點在今次帶來的新體悟；若只譯成一個地點或承接連詞，便漏去這層起點關係。",
+        "summary": "於是表示從這次西山之遊，標出作者所理解的真遊起點。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "在西山這一個地點",
+            "explanation": "西山是地點，但此處按全文所指是這次有精神所得的宴遊經驗。"
+          },
+          {
+            "id": "b",
+            "text": "於是便開始下一程",
+            "explanation": "於是便是現代連詞用法，下一程也非原文所說的始。"
+          },
+          {
+            "id": "c",
+            "text": "因這件事開始作文",
+            "explanation": "因這事作文屬後面故為文，本句的主體仍是遊。"
+          },
+          {
+            "id": "d",
+            "text": "從這次西山之遊",
+            "explanation": "於是表示從這次西山之遊，標出作者所理解的真遊起點。"
+          }
+        ],
+        "misconception": "西山是地點，但此處按全文所指是這次有精神所得的宴遊經驗；於是便是現代連詞用法，下一程也非原文所說的始；因這事作文屬後面故為文，本句的主體仍是遊。"
+      },
+      "objective": "「遊於是乎始」的「於是」，在句中表示甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-22-03-3",
+      "ordinal": 139,
+      "baseQuestionHash": "4af52969db12b617453ade91a5de725e0d9fd58e2296dbb72657cf17eb5ed4ef",
+      "patch": {
+        "explanation": "凡和是須分開，凡表所有，是指這個州，有異態者再限定山的範圍。全組即這州所有形態奇異的山，不是所有州，也沒有斷言這州每座山都奇異。",
+        "summary": "凡和是須分開，凡表所有，是指這個州，有異態者再限定山的範圍。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "凡是／州之山有異態者，指各州的山只要形態奇異",
+            "explanation": "把凡是連讀為條件詞，又把這州擴成各州，兩處都錯。"
+          },
+          {
+            "id": "b",
+            "text": "凡／是州之山有異態者，指這州所有形態奇異的山",
+            "explanation": "凡和是須分開，凡表所有，是指這個州，有異態者再限定山的範圍。"
+          },
+          {
+            "id": "c",
+            "text": "凡／是州之山／有異態者，指這州所有山都有異態",
+            "explanation": "把有異態者讀成所有山的共同斷言，漏掉它篩選所指山類的作用。"
+          },
+          {
+            "id": "d",
+            "text": "凡是／州之山／有異態者，指任何州的山都有異態",
+            "explanation": "既把是州擴成任何州，又把部分奇山推為所有山皆奇異，範圍更大。"
+          }
+        ],
+        "misconception": "把凡是連讀為條件詞，又把這州擴成各州，兩處都錯；把有異態者讀成所有山的共同斷言，漏掉它篩選所指山類的作用；既把是州擴成任何州，又把部分奇山推為所有山皆奇異，範圍更大。"
+      },
+      "objective": "「凡是州之山有異態者」的語意應如何分節？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    }
+  ]
+}

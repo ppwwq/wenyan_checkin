@@ -34,7 +34,7 @@ export function project(input, today = hkDay(), corrections = []) {
     const p=e.payload;
     if(e.type==='favorite') favorites[p.questionId]=p;
     if(e.type==='session'&&(!sessions[p.session.id]||(p.session.revision||0)>=(sessions[p.session.id].revision||0))) sessions[p.session.id]=p.session;
-    if(e.type==='settings') {settings={...settings,...p};if(p.dailyGoal&&!dailyGoals[p.dailyGoal.day])dailyGoals[p.dailyGoal.day]=p.dailyGoal.count;}
+    if(e.type==='settings') {settings={...settings,...p};if(p.dailyGoal&&(!dailyGoals[p.dailyGoal.day]||p.training))dailyGoals[p.dailyGoal.day]=p.dailyGoal.count;}
     if(e.type==='report') reports.push({...p,id:e.id,status:'pending'});
     if(e.type==='browse') browsed[p.questionId]=e.createdAt;
   }
@@ -50,4 +50,17 @@ export function project(input, today = hkDay(), corrections = []) {
 }
 export function isDue(memory,today=hkDay(),now=Date.now()) { return !!memory && ((!!memory.due && memory.due<=today) || (!!memory.againAt && memory.againAt<=now)); }
 export const isWeak = memory => !!memory && (memory.correct===false||memory.hasFailure===true);
+
+export function effectiveAttempts(state){
+ const corrections=new Map([...(state.corrections||[])].sort((a,b)=>Date.parse(a.createdAt)-Date.parse(b.createdAt)).map(c=>[c.attemptId,c.correct]));
+ return [...(state.attempts||[])].sort((a,b)=>Date.parse(a.payload.submittedAt)-Date.parse(b.payload.submittedAt)||a.id.localeCompare(b.id)).map(e=>({...e.payload,id:e.id,day:hkDay(e.payload.submittedAt),correct:corrections.has(e.id)?corrections.get(e.id):e.payload.mode==='typing'?(state.assessments.get(e.id)??null):e.payload.correct}));
+}
+export function questionMistakes(state){
+ const wrong=new Map();
+ for(const a of effectiveAttempts(state)){
+  if(a.correct===false)wrong.set(a.questionId,a);
+  else if(a.correct===true&&wrong.get(a.questionId)?.day<a.day)wrong.delete(a.questionId);
+ }
+ return wrong;
+}
 

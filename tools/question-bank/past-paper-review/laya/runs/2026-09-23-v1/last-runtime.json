@@ -1,0 +1,11 @@
+{
+  "model_present": true,
+  "loaded": true,
+  "offline": true,
+  "device": "cuda",
+  "selected_device": "cuda",
+  "device_preference": "auto",
+  "cuda_available": true,
+  "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "revision": "052592a15d198d9ad47da779604259b10b47b7aa"
+}

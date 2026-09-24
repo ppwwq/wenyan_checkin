@@ -4,6 +4,7 @@ import {project,hkDay} from '../src/domain/review.mjs';
 import {validTraining,dailyProgress,dailyQuestions,retryQuestions,questionMistakes} from '../src/domain/training.mjs';
 import {trainingView,dailyHomeView} from '../src/features/training.mjs';
 import {validateBackup} from '../src/storage/repository.mjs';
+import * as trainingDomain from '../src/domain/training.mjs';
 const plan={version:1,chapters:{a:['vocabulary'],b:['theme']},dailyCount:3,appendix:false,retry:true};
 const setting=(value=plan,time='2026-09-24T00:00:00Z')=>({id:time,type:'settings',createdAt:time,payload:{training:value}});
 const q=(id,essays=['a'],ability='vocabulary')=>({id,memoryId:id,essayIds:essays,ability,status:'reviewed',active:true,choices:[]});
@@ -15,6 +16,43 @@ test('per-chapter types restrict all cross-essay participants and never mutate s
  const s=state(),before=structuredClone(s.settings.training);
  const ids=dailyQuestions(questions,s,'2026-09-24').map(q=>q.id);
  assert.ok(ids.includes('b1'));assert.ok(!ids.includes('b2'));assert.ok(!ids.includes('cross'));assert.deepEqual(s.settings.training,before);
+});
+
+test('saving a new training scope replaces pending daily questions while preserving submitted answers and drafts',()=>{
+ const submitted=attempt('saved-a1',true,'2026-09-24T01:00:00Z',{sessionId:'daily'});
+ const s=state([submitted,setting({...plan,chapters:{b:['theme']}},'2026-09-24T02:00:00Z')]);
+ const session={id:'daily',kind:'daily',questions:questions.slice(0,3),answers:{a1:'saved-a1'},drafts:{a2:'unfinished answer'},index:1,completed:false,essayIds:['a'],trainingSnapshot:plan};
+ const before=structuredClone({session,attempts:s.attempts});
+ const updated=trainingDomain.refreshTrainingSession(questions,s,session,'2026-09-24');
+ assert.deepEqual(updated.questions.map(q=>q.id),['a1','b1']);
+ assert.equal(updated.index,1);assert.equal(updated.completed,false);
+ assert.deepEqual(updated.answers,{a1:'saved-a1'});assert.equal(updated.drafts.a2,'unfinished answer');
+ assert.deepEqual({session,attempts:s.attempts},before);
+});
+
+test('enabling and disabling standalone techniques refreshes unfinished work without removing answered appendix history',()=>{
+ const appendix={...q('appendix',[],'technique'),tags:['appendix']},pool=[q('a1'),q('a2'),appendix];
+ const off={...plan,chapters:{a:['vocabulary']}},on={...off,appendix:true};
+ const original={id:'daily',kind:'daily',questions:pool.slice(0,2),answers:{},drafts:{a1:'draft-a'},index:0,completed:false,essayIds:['a'],trainingSnapshot:off};
+ const enabled=trainingDomain.refreshTrainingSession(pool,state([setting(on,'2026-09-24T02:00:00Z')]),original,'2026-09-24');
+ assert.deepEqual(enabled.questions.map(q=>q.id),['a1','a2','appendix']);assert.equal(enabled.drafts.a1,'draft-a');
+ enabled.index=2;enabled.drafts.appendix='draft-technique';
+ const disabled=trainingDomain.refreshTrainingSession(pool,state([setting(off,'2026-09-24T03:00:00Z')]),enabled,'2026-09-24');
+ assert.ok(disabled.questions.every(q=>!q.tags?.includes('appendix')));assert.equal(disabled.drafts.appendix,'draft-technique');
+ const answered=attempt('saved-technique',true,'2026-09-24T01:00:00Z',{questionId:'appendix',memoryId:'appendix',sessionId:'daily'});
+ const retained=trainingDomain.refreshTrainingSession(pool,state([answered,setting(off,'2026-09-24T03:00:00Z')]),enabled,'2026-09-24');
+ assert.equal(retained.questions[0].id,'appendix');assert.equal(retained.answers.appendix,'saved-technique');assert.equal(retained.index,1);
+});
+
+test('empty scope and disabling retries close pending work while keeping submitted snapshots and unfinished self-assessment',()=>{
+ const original={id:'retry',kind:'retry',questions:[questions[0]],answers:{},drafts:{a1:'draft'},index:0,completed:false};
+ for(const change of [{retry:false},{chapters:{}}]){
+  const updated=trainingDomain.refreshTrainingSession(questions,state([attempt('wrong',false),setting({...plan,...change},'2026-09-24T02:00:00Z')]),original,'2026-09-24');
+  assert.equal(updated.completed,true);assert.deepEqual(updated.questions,[]);assert.equal(updated.drafts.a1,'draft');
+ }
+ const pending=attempt('typing',null,'2026-09-24T01:00:00Z',{mode:'typing',sessionId:'daily'});
+ const updated=trainingDomain.refreshTrainingSession(questions,state([pending,setting({...plan,chapters:{}},'2026-09-24T02:00:00Z')]),{...original,id:'daily',kind:'daily'},'2026-09-24');
+ assert.equal(updated.completed,false);assert.equal(updated.index,0);assert.equal(updated.questions[0].id,'a1');
 });
 test('daily target counts distinct knowledge points, including wrong and pending submissions',()=>{
  const s=state([attempt('wrong',false),attempt('retry',true,'2026-09-24T01:01:00Z',{practiceKind:'retry'}),attempt('pending',null,'2026-09-24T01:02:00Z',{mode:'typing',memoryId:'a2',questionId:'a2'})]);
@@ -53,9 +91,17 @@ test('Hong Kong midnight creates a new daily count and due task, not a leftover 
  assert.equal(dailyProgress(s,'2026-09-25').done,0);assert.equal(retryQuestions(questions,s,'2026-09-25').length,0);assert.ok(dailyQuestions(questions,s,'2026-09-25').some(q=>q.id==='a1'));
  assert.equal(hkDay('2026-09-24T16:00:00Z'),'2026-09-25');
 });
-test('daily goal is frozen once, later settings apply on the next date',()=>{
+test('legacy setting events without an explicit daily goal keep their original frozen target',()=>{
  const freeze={id:'freeze',type:'settings',createdAt:'2026-09-24T00:10:00Z',payload:{dailyGoal:{day:'2026-09-24',count:3}}};
  const s=state([freeze,setting({...plan,dailyCount:30},'2026-09-24T01:00:00Z')]);assert.equal(dailyProgress(s,'2026-09-24').goal,3);assert.equal(dailyProgress(s,'2026-09-25').goal,30);
+});
+
+test('explicit training saves update today target without resetting progress, and later startup cannot restore the old target',()=>{
+ const freeze={id:'freeze',type:'settings',createdAt:'2026-09-24T00:10:00Z',payload:{dailyGoal:{day:'2026-09-24',count:3}}};
+ const save=setting({...plan,dailyCount:5},'2026-09-24T02:00:00Z');save.payload.dailyGoal={day:'2026-09-24',count:5};
+ const stale={...freeze,id:'late-start',createdAt:'2026-09-24T03:00:00Z'};
+ const s=state([freeze,attempt('answered',true),save,stale]);
+ assert.equal(dailyProgress(s,'2026-09-24').goal,5);assert.equal(dailyProgress(s,'2026-09-24').done,1);assert.equal(dailyProgress(s,'2026-09-24').remaining,4);
 });
 test('blank scope is explicit, unavailable pool is not padded, and completed goal stops new daily groups',()=>{
  assert.equal(dailyQuestions(questions,state([setting({...plan,chapters:{}},'2026-09-24T01:00:00Z')]),'2026-09-24').length,0);
@@ -80,4 +126,15 @@ test('setting shortcuts and cancel actions are non-submit buttons',()=>{
  assert.match(html,/<button type="button"[^>]*data-action="daily-count"/);
  assert.match(html,/<button type="button"[^>]*data-action="nav"/);
  assert.match(html,/<button class="btn" type="submit">/);
+});
+
+test('first setup starts with an explicit empty choice, while legacy and saved selections survive',()=>{
+ const fresh=project([]),options={essayIds:['a','b'],count:20};
+ const html=trainingView(bank,fresh,options);
+ assert.doesNotMatch(html,/data-training-essay="[ab]" checked/);
+ assert.doesNotMatch(html,/沿用原有/);
+ const legacy=trainingView(bank,fresh,{...options,hasPreviousSelection:true});
+ assert.match(legacy,/data-training-essay="a" checked/);
+ assert.match(legacy,/沿用原有/);
+ assert.match(trainingView(bank,state(),options),/data-training-essay="b" checked/);
 });

@@ -1,0 +1,14 @@
+{
+  "result": "PASS",
+  "checks": [
+    "Registration and independent device login with scrypt passwords",
+    "Origin validation and student/admin permissions",
+    "Cross-device sync, replay idempotency and account isolation",
+    "SQLite transaction rolls back the entire conflicting sync batch",
+    "Admin correction changes the effective result while preserving the original answer",
+    "Revision version checked against the deployed asset bank",
+    "Recovery invalidates every previous session",
+    "PDF byte range and private-file isolation"
+  ],
+  "questionCount": 2131
+}

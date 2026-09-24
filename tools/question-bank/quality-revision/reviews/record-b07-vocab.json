@@ -1,0 +1,143 @@
+{
+  "reviewer": "record_e02_vocab_author",
+  "method": "independent-source-and-four-option-review",
+  "packSha256": "dcca1a0b59223bdaaece55a74f2c829543d9fc0d346b8d7f612e3de3119f1a7f",
+  "source": "revision-book.pdf physical pages 118-122 and 131-132, rendered and visually checked",
+  "scope": "逐題核原文、詞注、唯一答案、三錯項、解析與題組互提示；代理交叉審稿，非教師審定或學生試做。",
+  "reviewHistory": {
+    "initialDraftSha256": "0f09a9c5241f63155376e86269bffe9b6bbf49c3fb045a1c7b4fe12eeec45577",
+    "returnedForRevision": [
+      "full-b-07-02-03-1",
+      "full-b-07-03-03-4",
+      "full-b-07-03-03-6"
+    ],
+    "groupHintFix": [
+      "full-b-07-03-03-3",
+      "full-b-07-04-03-0",
+      "full-b-07-05-03-0"
+    ],
+    "followUp": "三題錯項重複或有明顯形式提示，退修後逐項覆核；三道同考恥字的題共用 practiceGroup，避免新題組互提示。"
+  },
+  "records": [
+    {
+      "id": "full-b-07-01-03-1",
+      "verdict": "approve",
+      "notes": "PDF118、131 所以在師者所以傳道受業解惑也作「用來……的」，d 合題。a 原因義屬同詞他用，b 結果連詞無前因，c 把三項職責當所以本身的內容；主解析和四項均回到定義句。",
+      "issues": []
+    },
+    {
+      "id": "full-b-07-01-03-3",
+      "verdict": "approve",
+      "notes": "PDF118 孰=誰，孰能無惑反問的是哪個人可無疑惑，c 唯一合題。a 怎樣、b 何時、d 何處同屬疑問詞，但本句無方法、時間、地點條件；逐項解說具體。",
+      "issues": []
+    },
+    {
+      "id": "full-b-07-01-03-4",
+      "verdict": "approve",
+      "notes": "PDF118、131 惑是疑惑疑難，後接終不解，a 合題。b 將自己有惑變作迷惑他人，c 捏造從師後更糊塗，d 把不從師行為誤作惑字義；角色與因果可由原句排除。",
+      "issues": []
+    },
+    {
+      "id": "full-b-07-02-03-0",
+      "verdict": "approve",
+      "notes": "PDF119 固注本來，PDF131 並容當然語氣；a 本來是唯一相符選項，沒有把另解列成錯項。b 堅固、c 固執屬旁義，d 一定要把陳述改命令；其聞道先乎吾可裁決。",
+      "issues": []
+    },
+    {
+      "id": "full-b-07-02-03-1",
+      "verdict": "approve",
+      "notes": "退修後核 PDF119、131：從而師之的之指先聞道者，c 以他為師。a 讓吾自己任教，b 把師生關係降作一起學習，d 套師的軍隊義；a、b 現為不同角色誤讀，選項與 optionAudit 已同步。",
+      "issues": []
+    },
+    {
+      "id": "full-b-07-02-03-2",
+      "verdict": "approve",
+      "notes": "PDF119、131 吾師道也的師作學習，b 合題；道是受詞，與上句師之以人為對象不同。a 移用師之，c 倒置為任教，d 軍隊義與道不搭配，逐項理由有文本界線。",
+      "issues": []
+    },
+    {
+      "id": "full-b-07-02-03-3",
+      "verdict": "approve",
+      "notes": "PDF119、131 庸為何必、哪用，問既學道何必知其年，b 合題。a 套平庸義，c 把生於吾的年齡關係誤作問時刻，d 把已知其人誤作問誰；反問作用清楚。",
+      "issues": []
+    },
+    {
+      "id": "full-b-07-02-03-4",
+      "verdict": "approve",
+      "notes": "PDF119、131 無貴無賤、無長無少的無是不分、不論，a 合題；道之所存師之所存支援不以身分年齡劃界。b 當作世間不存在，c 禁止從師，d 停止某事，均失去條件對舉。",
+      "issues": []
+    },
+    {
+      "id": "full-b-07-03-03-0",
+      "verdict": "approve",
+      "notes": "PDF120 師道詞注為從師學習的風尚，PDF131 擴列從師道理、態度、傳統；d 保留風尚這一成立義。a 教師品德、b 老師所講的義理、c 教學技術均把論題從願否從師移走，並未把來源另解設成錯項。",
+      "issues": []
+    },
+    {
+      "id": "full-b-07-03-03-1",
+      "verdict": "approve",
+      "notes": "PDF120、132 出人也遠的出是超越，c 合題。a 出生、b 外出、d 派出都無法與學問德行高於常人且仍從師的對照相接；解析回到比較而非只重述正解。",
+      "issues": []
+    },
+    {
+      "id": "full-b-07-03-03-2",
+      "verdict": "approve",
+      "notes": "PDF120、132 下聖人也遠的下為不及，b 合題，與上句出人也遠成對照。a 下命令、c 向下移動、d 主動退讓均錯把比較高下讀作動作；原文可排除。",
+      "issues": []
+    },
+    {
+      "id": "full-b-07-03-03-3",
+      "verdict": "approve",
+      "notes": "PDF120 恥學於師的恥為以從師為恥，b 合題。a 令老師羞恥、c 受老師羞辱、d 不知羞恥分別改施受或否定詞義。與後兩道同義恥題共設 practiceGroup=b07-shishuo-chi，新題組互提示已有分組約束。",
+      "issues": []
+    },
+    {
+      "id": "full-b-07-03-03-4",
+      "verdict": "approve",
+      "notes": "退修後核 PDF120、132：聖益聖、愚益愚平行，益作更加、越發，c 合題。a 作受益，b 把同類程度加深錯作人數增加，d 把愚益愚倒作彌補缺點；三個錯因現已分開。",
+      "issues": []
+    },
+    {
+      "id": "full-b-07-03-03-5",
+      "verdict": "approve",
+      "notes": "PDF120 所以在聖人之所以為聖是形成原因，d 合題；PDF131 明列與首段師者所以用來義的差別。a 移首段義，b 把原因倒成結果，c 改處所，都與其皆出於此乎不合。",
+      "issues": []
+    },
+    {
+      "id": "full-b-07-03-03-6",
+      "verdict": "approve",
+      "notes": "退修後核 PDF120、132：其皆出於此乎的其是大概、表推測，a 合題。b 將前文兩類人作代詞所指，c 指聖愚差別，d 作其中且指兩種情況；不再靠三個未出現的人名排除，句法與乎的語氣可裁決。",
+      "issues": []
+    },
+    {
+      "id": "full-b-07-04-03-0",
+      "verdict": "approve",
+      "notes": "PDF121 愛其子擇師、於其身恥師作對照，恥為自己以拜師為羞恥，d 合題。a 倒轉羞恥施受，b 改受辱，c 不知羞恥非詞義；與其他同義恥題共設 practiceGroup，避免同組重複提示。",
+      "issues": []
+    },
+    {
+      "id": "full-b-07-04-03-2",
+      "verdict": "approve",
+      "notes": "PDF121、132 句讀為文句停頓與斷句，d 合題；童子之師習句讀與傳道解惑區分。a 將停頓換意思，b 只取讀字發音，c 改文句次序，均非定位停頓。",
+      "issues": []
+    },
+    {
+      "id": "full-b-07-04-03-3",
+      "verdict": "approve",
+      "notes": "PDF121、132 或師焉或不焉承接句讀與惑，是有的方面求師、有的方面不求師，d 合題。a 分成兩群人、b 分成兩個時刻、c 改成不確定推測；小學而大遺支持同一人重小棄大。",
+      "issues": []
+    },
+    {
+      "id": "full-b-07-04-03-5",
+      "verdict": "approve",
+      "notes": "PDF121、132 大遺為大方面放棄，對應解惑不求師，c 合題。a 套遺留後人義，b 將小學大遺倒置，d 誇成全部忘記；仍學句讀可排除 d。",
+      "issues": []
+    },
+    {
+      "id": "full-b-07-05-03-0",
+      "verdict": "approve",
+      "notes": "PDF122 不恥相師指不以互相求教為羞恥，a 恥本義正確，與不字合讀。b/c 倒置使動或被動受辱，d 把不恥誤作全無羞恥心；與前兩道恥題共設 practiceGroup，避免同題組互提示。",
+      "issues": []
+    }
+  ]
+}

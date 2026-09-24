@@ -1,0 +1,254 @@
+{
+  "result": "PASS",
+  "verifiedAt": "2026-09-24T04:31:53.531Z",
+  "origin": "https://chinese-a-study.philipwwq.workers.dev",
+  "uiVersion": "2026.09.24.6",
+  "version": "2026.09.23.22",
+  "questions": 2134,
+  "builtAt": "2026-09-24T04:29:29.478Z",
+  "assets": [
+    {
+      "path": "/assets/apple-touch-icon.png",
+      "status": 200,
+      "sha256": "1e87e34b362f51f36afb5affb74eddec9a0cfeb461741875f4ec3f13e45b28d0",
+      "bytes": 3354
+    },
+    {
+      "path": "/assets/icon-192.png",
+      "status": 200,
+      "sha256": "5d416eb84c6ba7edad020178a6a8f188b8d1b0af61b38e10fffa30f2c7702bb3",
+      "bytes": 3500
+    },
+    {
+      "path": "/assets/icon-512.png",
+      "status": 200,
+      "sha256": "eb811b46c37cfb71494350962341048e6157088003c9d3eb46588ff6ede61e46",
+      "bytes": 10419
+    },
+    {
+      "path": "/assets/icon-maskable.png",
+      "status": 200,
+      "sha256": "8fed324179ea6eedd476115a360c58a877f2d410e6a4ecca43e88645ef27dbe8",
+      "bytes": 9346
+    },
+    {
+      "path": "/assets/icon.svg",
+      "status": 200,
+      "sha256": "76a5f609f0353d84fb8d1ea84d18c6b8a1725dcab10e660b5b995aa54b4c7df7",
+      "bytes": 755
+    },
+    {
+      "path": "/build-info.json",
+      "status": 200,
+      "sha256": "e6b05533ef3dffa9319ce67fc9601fc33af2f9413ab49e0e72d02e25200d8cf4",
+      "bytes": 125
+    },
+    {
+      "path": "/content/bank.json",
+      "status": 200,
+      "sha256": "4f3885fc61c78430eb790f4a2eb035d676c88296582cd5adc5947bfaec5feac5",
+      "bytes": 7853488
+    },
+    {
+      "path": "/content/coverage-report.json",
+      "status": 200,
+      "sha256": "a337f6b9b51bb7ade99d4caed59106e91cb1fec8086509f2f1dd140c57e7cc34",
+      "bytes": 63816
+    },
+    {
+      "path": "/content/expansion-appendix.json",
+      "status": 200,
+      "sha256": "3e7e2ae83423af4ae59c70f0adcc9d3f6f9ab717e31d20dc46be6a928724f810",
+      "bytes": 31224
+    },
+    {
+      "path": "/content/expansion-comparison.json",
+      "status": 200,
+      "sha256": "75e9e69026b88fd0cd55eec8df36f37eb226755c72d44cde0fab1e5bbe0c4c29",
+      "bytes": 8458
+    },
+    {
+      "path": "/content/expansion-draft.json",
+      "status": 200,
+      "sha256": "167c9f0362ccea1fb19be9de1106b177f42a4b557c943200a325215447f94f2a",
+      "bytes": 306605
+    },
+    {
+      "path": "/content/quality-report.json",
+      "status": 200,
+      "sha256": "4212c6e7eb5fa05f64010afdf19fee3b09e0e3471235ba1f3999a0d47afe743d",
+      "bytes": 4986
+    },
+    {
+      "path": "/content/source-coverage.json",
+      "status": 200,
+      "sha256": "ccbb243de759b5e0bde07e2ed67ad97e64a5ac071a3066ad07212ce7daca35d2",
+      "bytes": 785245
+    },
+    {
+      "path": "/content/sources/appendix-content.json",
+      "status": 200,
+      "sha256": "8421c9fd6ec9443d1c1d8fc0fe161ff8d9c92470ad231eaed5e3d7384474b9f3",
+      "bytes": 41427
+    },
+    {
+      "path": "/content/sources/manifest.json",
+      "status": 200,
+      "sha256": "7e2b675459a0aefba93c2b85af3f67eb579a90d587c7db2fb74b79832497e99b",
+      "bytes": 357
+    },
+    {
+      "path": "/content/sources/revision-book.pdf",
+      "status": 200,
+      "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+      "bytes": 3635907
+    },
+    {
+      "path": "/content/sources/student-content.json",
+      "status": 200,
+      "sha256": "cefaae3260a7185997dfa0dc9ba40d76fe1e1bc70b69f962d0bb75a724681f62",
+      "bytes": 955562
+    },
+    {
+      "path": "/",
+      "status": 200,
+      "sha256": "c8a3998083ad274f00e7d508a6f9ddb3676c0c202b9d691488b478d943961ddc",
+      "bytes": 895
+    },
+    {
+      "path": "/manifest.webmanifest",
+      "status": 200,
+      "sha256": "eaac1cad5536a7b8df34e042b8c49c3d83c16a43f26f7ee22c4a22c3826b790f",
+      "bytes": 739
+    },
+    {
+      "path": "/src/app.mjs",
+      "status": 200,
+      "sha256": "c3b928ee452fae4a1261ee56b2cec57c9af2f289e206b4a0746d936d69f75e5d",
+      "bytes": 37898
+    },
+    {
+      "path": "/src/domain/queue.mjs",
+      "status": 200,
+      "sha256": "45a7e9e600399c01c89f295d6ba1b1627e5cb409c1b965e94e3cc241fad6e9e7",
+      "bytes": 4546
+    },
+    {
+      "path": "/src/domain/review.mjs",
+      "status": 200,
+      "sha256": "7387c17e69647f99f47b5fa41ef3d225d24b24bf137c0d5ee45153f50429674b",
+      "bytes": 4495
+    },
+    {
+      "path": "/src/domain/training.mjs",
+      "status": 200,
+      "sha256": "2494c5e2a50a893ca5f4467060af1fd4655ab2c794e3432d1d91b42c320f912b",
+      "bytes": 5298
+    },
+    {
+      "path": "/src/features/library.mjs",
+      "status": 200,
+      "sha256": "a2ef2d28976d10cb4e0703253e73d34c8aca40a95e83c30fa8d5b301c4a7c339",
+      "bytes": 4879
+    },
+    {
+      "path": "/src/features/practice.mjs",
+      "status": 200,
+      "sha256": "c34448bff02408f7dec68fcda3bdccdcadb6e5a620f8f9eb34b8099b40e8da5a",
+      "bytes": 12885
+    },
+    {
+      "path": "/src/features/preferences.mjs",
+      "status": 200,
+      "sha256": "1edb6e85f5bfc32a64ee23b426ecdfe74ba3ac244777ba3058076bc24ddc2e3a",
+      "bytes": 456
+    },
+    {
+      "path": "/src/features/records.mjs",
+      "status": 200,
+      "sha256": "44f0287ec697b00c841a519452c7e1d94092898c32d2f5cbbe4074b6f339c3f3",
+      "bytes": 9167
+    },
+    {
+      "path": "/src/features/shared.mjs",
+      "status": 200,
+      "sha256": "b78adabf51540a90d5bbe25d00e0b0a0483d92d3bb81e397f94f053657735253",
+      "bytes": 2602
+    },
+    {
+      "path": "/src/features/training.mjs",
+      "status": 200,
+      "sha256": "67489dcf9d3f924e65aa4e2d6381c4d8870f9df415d656193c195c55b9185a3a",
+      "bytes": 7603
+    },
+    {
+      "path": "/src/storage/backup.mjs",
+      "status": 200,
+      "sha256": "9374e6c0171721bc1406bb93f7c47d90a9fcbde51a883789290f62ec3bb8ba9c",
+      "bytes": 6017
+    },
+    {
+      "path": "/src/storage/repository.mjs",
+      "status": 200,
+      "sha256": "b079dea1e95a77abd82879e7d28eacecea6541fcdace71850327d1c1ada51f99",
+      "bytes": 3707
+    },
+    {
+      "path": "/src/storage/save-queue.mjs",
+      "status": 200,
+      "sha256": "f96aede99962a3976c334e240091f1d4c4f2137b98f5ae05551db63b52a9c96b",
+      "bytes": 451
+    },
+    {
+      "path": "/src/sync/client.mjs",
+      "status": 200,
+      "sha256": "a0886a37cd7709f9d4a711a61cf3af85801d71a7bb3b315d2e082ffa44efd9ab",
+      "bytes": 2537
+    },
+    {
+      "path": "/src/sync/scheduler.mjs",
+      "status": 200,
+      "sha256": "8f2fadefdb24f53a27de3ae668a4284216d671deef42d8b7eabbe6dc10fa9cd1",
+      "bytes": 1487
+    },
+    {
+      "path": "/styles.css",
+      "status": 200,
+      "sha256": "bdfa99423458c939ec21f5f5c15c87d4a76354ba8a541c72138fc22725fca1f8",
+      "bytes": 46571
+    },
+    {
+      "path": "/sw.js",
+      "status": 200,
+      "sha256": "4faaaf2a5d76412f8ac9d05efbc7d15302505db595fdca6040c01c9259f1cedf",
+      "bytes": 1702
+    }
+  ],
+  "checks": [
+    {
+      "path": "/api/health",
+      "status": 200
+    },
+    {
+      "path": "/api/me",
+      "status": 401
+    },
+    {
+      "path": "/backend/data/study.sqlite",
+      "status": 404
+    },
+    {
+      "path": "/.dev.vars",
+      "status": 404
+    },
+    {
+      "path": "/api/internal/import",
+      "status": 404
+    },
+    {
+      "path": "source PDF Range",
+      "status": 206
+    }
+  ],
+  "scope": "Read-only published file hashes, health, protected paths and PDF byte range. No production account writes."
+}

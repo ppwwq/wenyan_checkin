@@ -1,0 +1,18 @@
+{
+  "status": "deployed",
+  "verifiedAt": "2026-09-24T02:57:11.241Z",
+  "origin": "https://chinese-a-study.philipwwq.workers.dev",
+  "workerVersion": "4d6e3bec-58dd-442e-9c29-bd570762eb5c",
+  "uiVersion": "2026.09.24.3",
+  "bankVersion": "2026.09.23.22",
+  "matchingPublicAssets": 33,
+  "publicChecks": 7,
+  "localTests": 61,
+  "localBrowserChecks": 9,
+  "visualChecks": [
+    "768px and 390px restored countdown screenshots inspected"
+  ],
+  "gitCommit": "4cd0a03c9d7163ac8f194dacb8840bf4c1d25465",
+  "gitStatus": "Local commit saved; push rejected by automatic approval review; explicit destination approval requested and pending.",
+  "database": "Existing StudyDatabase and study-v1 preserved; no migration or production account writes."
+}

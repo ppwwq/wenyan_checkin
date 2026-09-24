@@ -1,9 +1,14 @@
-import {isDue,isWeak,hkDay} from './review.mjs';
+import {isDue,isWeak,hkDay,questionMistakes} from './review.mjs';
 export function available(questions,options={}) {
  const {essayIds=[],ability,questionIds,appendix=false,essayTypes}=options;
  return questions.filter(q=>q.status==='reviewed'&&q.active!==false&&q.essayIds.every(id=>essayIds.includes(id)&&(!essayTypes||essayTypes[id]?.includes(q.ability)))&&(!ability||q.ability===ability)&&(!questionIds||questionIds.includes(q.id))&&(!q.tags?.includes('appendix')||appendix));
 }
 const unique=list=>[...new Map(list.map(q=>[q.memoryId,q])).values()];
+export function practicePool(questions,options,state){
+ const excluded=new Set(options.excludeMemoryIds||[]);
+ const wrong=options.scope==='wrong'?questionMistakes(state):null;
+ return available(questions,options).filter(q=>!excluded.has(q.memoryId)&&(!wrong||wrong.has(q.id)));
+}
 export function shuffledQuestion(q,random=Math.random){
  if(q.choices?.length!==4)return q;
  // Logical option IDs stay stable; only their displayed positions change.
@@ -14,10 +19,9 @@ export function shuffledQuestion(q,random=Math.random){
  return {...q,choices:choices.map((c,i)=>({...c,displayLabel:String.fromCharCode(65+i)}))};
 }
 export function queue(questions,options,state,today=hkDay(),random=Math.random) {
- const {essayIds=[],count=10,scope='all',rotation=0,strategy='balanced'}=options;
+ const {essayIds=[],count=10,rotation=0,strategy='balanced'}=options;
  if(!Number.isInteger(Number(count))||count<1||count>100) throw new Error('請輸入 1–100 的整數');
- const excluded=new Set(options.excludeMemoryIds||[]);
- const list=available(questions,options).filter(q=>!excluded.has(q.memoryId)&&(scope!=='wrong'||isWeak(state.memories[q.memoryId])));
+ const list=practicePool(questions,options,state);
  const priority=q=>isDue(state.memories[q.memoryId],today)?0:options.priorityMode!=='daily'&&isWeak(state.memories[q.memoryId])?1:!state.memories[q.memoryId]?2:3;
  let order=[...essayIds.slice(rotation%Math.max(1,essayIds.length)),...essayIds.slice(0,rotation%Math.max(1,essayIds.length))];
  if(strategy==='weak') order.sort((a,b)=>list.filter(q=>q.essayIds.includes(b)&&isWeak(state.memories[q.memoryId])).length-list.filter(q=>q.essayIds.includes(a)&&isWeak(state.memories[q.memoryId])).length);

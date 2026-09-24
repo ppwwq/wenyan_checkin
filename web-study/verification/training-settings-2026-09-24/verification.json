@@ -1,0 +1,25 @@
+{
+  "status": "local-complete-not-deployed",
+  "verifiedAt": "2026-09-24T03:15:29.630Z",
+  "uiVersion": "2026.09.24.4",
+  "lastVerifiedProductionUi": "2026.09.24.3",
+  "tests": 65,
+  "browserChecks": 17,
+  "bankSha256": "4f3885fc61c78430eb790f4a2eb035d676c88296582cd5adc5947bfaec5feac5",
+  "files": {
+    "src/app.mjs": "15eb1cc7994b9571f63cd6562041f0d42d8be652bb01a6ad0a3fedf6483d43cc",
+    "src/domain/training.mjs": "2494c5e2a50a893ca5f4467060af1fd4655ab2c794e3432d1d91b42c320f912b",
+    "src/domain/review.mjs": "7387c17e69647f99f47b5fa41ef3d225d24b24bf137c0d5ee45153f50429674b",
+    "src/features/training.mjs": "e15372c840f56c44b46959d5936faad0927d81a15e0129b51c957d2074ad858d",
+    "tests/training.test.mjs": "036ef5b7409f765dbf92653e4caf59e7117f42217e5a2fc9c9f5d2fd05cc7b80",
+    "scripts/browser-training-settings.mjs": "c03ff02711bda52a4a49984bcb4b556900c5a2cf4fca200604700bdb9cd1fae7",
+    "scripts/browser-daily-training.mjs": "6bb957b5b366773939e73efd85e3b65d7c5716e6fce46eb439bae53198fa898c",
+    "scripts/build.mjs": "168fe75d6bfa5254ba111c359a1ee00bf35d4134475464fa1b7fab4b539cc712",
+    "sw.js": "f0a7f93ca629a8cc492cb4050a1a524bf70e0c0f32835f94a08b0e97a2823396"
+  },
+  "push": false,
+  "deployment": false,
+  "publicationInstruction": "User explicitly requested no push and no deployment for now.",
+  "scope": "Daily training and retry settings update pending questions immediately; submitted answers, snapshots and drafts preserved; independent custom practice retains its own scope.",
+  "manualAcceptance": "Local Chromium mobile screenshot inspected; physical iPad and production account writes not performed."
+}

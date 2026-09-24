@@ -1,0 +1,17 @@
+{
+  "staticResult": "PASS",
+  "cards": 2134,
+  "reviewed": 60,
+  "filters": [
+    "reviewed",
+    "pending",
+    "all",
+    "revise-options",
+    "revise-material",
+    "hold-source"
+  ],
+  "externalResources": 0,
+  "browserVisualValidation": "not-run",
+  "browserReason": "Auto-review denied browser connector access to private local question-bank report; no workaround attempted",
+  "liveBankUnchanged": true
+}

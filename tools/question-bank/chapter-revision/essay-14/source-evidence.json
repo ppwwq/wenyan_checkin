@@ -1,0 +1,7102 @@
+{
+  "pdfSha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+  "sourceJsonSha256": "cefaae3260a7185997dfa0dc9ba40d76fe1e1bc70b69f962d0bb75a724681f62",
+  "freshPdfPages": [
+    140,
+    148,
+    196,
+    197,
+    202,
+    206,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    225,
+    235,
+    240
+  ],
+  "errors": [],
+  "questions": {
+    "q-e14-exp-001": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "念奴嬌・赤壁懷古",
+          "section": "上片｜原文與語譯",
+          "pdfPage": 214,
+          "printedPage": 210,
+          "blockPath": "$[13].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "千古風流人物"
+        },
+        "resolvedBlock": [
+          "annot",
+          "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+          [
+            [
+              "大江",
+              "長江",
+              "blue"
+            ],
+            [
+              "淘盡",
+              "淘洗淨盡",
+              "blue"
+            ],
+            [
+              "千古",
+              "久遠年代",
+              "blue"
+            ],
+            [
+              "風流人物",
+              "有功業的傑出英雄",
+              "blue"
+            ],
+            [
+              "故壘",
+              "舊營壘",
+              "blue"
+            ],
+            [
+              "人道是",
+              "人們說是",
+              "blue"
+            ],
+            [
+              "周郎",
+              "周瑜",
+              "blue"
+            ],
+            [
+              "亂石",
+              "陡峭不平的石壁",
+              "blue"
+            ],
+            [
+              "穿空",
+              "高插天空",
+              "blue"
+            ],
+            [
+              "驚濤",
+              "洶湧波浪",
+              "blue"
+            ],
+            [
+              "雪",
+              "喻白色浪花",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "大江",
+              "meaning": "長江",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "淘盡",
+              "meaning": "淘洗淨盡",
+              "spans": [
+                [
+                  6,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "千古",
+              "meaning": "久遠年代",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "風流人物",
+              "meaning": "有功業的傑出英雄",
+              "spans": [
+                [
+                  11,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "故壘",
+              "meaning": "舊營壘",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "人道是",
+              "meaning": "人們說是",
+              "spans": [
+                [
+                  21,
+                  24
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "周郎",
+              "meaning": "周瑜",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "亂石",
+              "meaning": "陡峭不平的石壁",
+              "spans": [
+                [
+                  32,
+                  34
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "穿空",
+              "meaning": "高插天空",
+              "spans": [
+                [
+                  34,
+                  36
+                ]
+              ]
+            },
+            {
+              "number": 10,
+              "word": "驚濤",
+              "meaning": "洶湧波浪",
+              "spans": [
+                [
+                  37,
+                  39
+                ]
+              ]
+            },
+            {
+              "number": 11,
+              "word": "雪",
+              "meaning": "喻白色浪花",
+              "spans": [
+                [
+                  46,
+                  47
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e14-exp-002": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "念奴嬌・赤壁懷古",
+          "section": "上片｜原文與語譯",
+          "pdfPage": 214,
+          "printedPage": 210,
+          "blockPath": "$[13].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "故壘西邊"
+        },
+        "resolvedBlock": [
+          "annot",
+          "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+          [
+            [
+              "大江",
+              "長江",
+              "blue"
+            ],
+            [
+              "淘盡",
+              "淘洗淨盡",
+              "blue"
+            ],
+            [
+              "千古",
+              "久遠年代",
+              "blue"
+            ],
+            [
+              "風流人物",
+              "有功業的傑出英雄",
+              "blue"
+            ],
+            [
+              "故壘",
+              "舊營壘",
+              "blue"
+            ],
+            [
+              "人道是",
+              "人們說是",
+              "blue"
+            ],
+            [
+              "周郎",
+              "周瑜",
+              "blue"
+            ],
+            [
+              "亂石",
+              "陡峭不平的石壁",
+              "blue"
+            ],
+            [
+              "穿空",
+              "高插天空",
+              "blue"
+            ],
+            [
+              "驚濤",
+              "洶湧波浪",
+              "blue"
+            ],
+            [
+              "雪",
+              "喻白色浪花",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "大江",
+              "meaning": "長江",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "淘盡",
+              "meaning": "淘洗淨盡",
+              "spans": [
+                [
+                  6,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "千古",
+              "meaning": "久遠年代",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "風流人物",
+              "meaning": "有功業的傑出英雄",
+              "spans": [
+                [
+                  11,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "故壘",
+              "meaning": "舊營壘",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "人道是",
+              "meaning": "人們說是",
+              "spans": [
+                [
+                  21,
+                  24
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "周郎",
+              "meaning": "周瑜",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "亂石",
+              "meaning": "陡峭不平的石壁",
+              "spans": [
+                [
+                  32,
+                  34
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "穿空",
+              "meaning": "高插天空",
+              "spans": [
+                [
+                  34,
+                  36
+                ]
+              ]
+            },
+            {
+              "number": 10,
+              "word": "驚濤",
+              "meaning": "洶湧波浪",
+              "spans": [
+                [
+                  37,
+                  39
+                ]
+              ]
+            },
+            {
+              "number": 11,
+              "word": "雪",
+              "meaning": "喻白色浪花",
+              "spans": [
+                [
+                  46,
+                  47
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e14-exp-003": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "念奴嬌・赤壁懷古",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 215,
+          "printedPage": 211,
+          "blockPath": "$[13].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "故國神遊"
+        },
+        "resolvedBlock": [
+          "annot",
+          "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          [
+            [
+              "公瑾",
+              "周瑜的字",
+              "blue"
+            ],
+            [
+              "雄姿英發",
+              "雄姿英偉、才華煥發",
+              "blue"
+            ],
+            [
+              "羽扇綸巾",
+              "儒將的扇與頭巾",
+              "blue"
+            ],
+            [
+              "檣櫓",
+              "船具，借代曹軍戰船",
+              "blue"
+            ],
+            [
+              "故國",
+              "赤壁故地、三國古戰場",
+              "blue"
+            ],
+            [
+              "神遊",
+              "在想像中遊歷",
+              "blue"
+            ],
+            [
+              "華髮",
+              "花白頭髮",
+              "blue"
+            ],
+            [
+              "尊",
+              "酒器，亦指一杯酒",
+              "blue"
+            ],
+            [
+              "酹",
+              "灑酒祭奠",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "公瑾",
+              "meaning": "周瑜的字",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雄姿英發",
+              "meaning": "雄姿英偉、才華煥發",
+              "spans": [
+                [
+                  13,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "羽扇綸巾",
+              "meaning": "儒將的扇與頭巾",
+              "spans": [
+                [
+                  18,
+                  22
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "檣櫓",
+              "meaning": "船具，借代曹軍戰船",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "故國",
+              "meaning": "赤壁故地、三國古戰場",
+              "spans": [
+                [
+                  34,
+                  36
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "神遊",
+              "meaning": "在想像中遊歷",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "華髮",
+              "meaning": "花白頭髮",
+              "spans": [
+                [
+                  47,
+                  49
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "尊",
+              "meaning": "酒器，亦指一杯酒",
+              "spans": [
+                [
+                  56,
+                  57
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "酹",
+              "meaning": "灑酒祭奠",
+              "spans": [
+                [
+                  58,
+                  59
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e14-exp-004": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "念奴嬌・赤壁懷古",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 215,
+          "printedPage": 211,
+          "blockPath": "$[13].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "早生華髮"
+        },
+        "resolvedBlock": [
+          "annot",
+          "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          [
+            [
+              "公瑾",
+              "周瑜的字",
+              "blue"
+            ],
+            [
+              "雄姿英發",
+              "雄姿英偉、才華煥發",
+              "blue"
+            ],
+            [
+              "羽扇綸巾",
+              "儒將的扇與頭巾",
+              "blue"
+            ],
+            [
+              "檣櫓",
+              "船具，借代曹軍戰船",
+              "blue"
+            ],
+            [
+              "故國",
+              "赤壁故地、三國古戰場",
+              "blue"
+            ],
+            [
+              "神遊",
+              "在想像中遊歷",
+              "blue"
+            ],
+            [
+              "華髮",
+              "花白頭髮",
+              "blue"
+            ],
+            [
+              "尊",
+              "酒器，亦指一杯酒",
+              "blue"
+            ],
+            [
+              "酹",
+              "灑酒祭奠",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "公瑾",
+              "meaning": "周瑜的字",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雄姿英發",
+              "meaning": "雄姿英偉、才華煥發",
+              "spans": [
+                [
+                  13,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "羽扇綸巾",
+              "meaning": "儒將的扇與頭巾",
+              "spans": [
+                [
+                  18,
+                  22
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "檣櫓",
+              "meaning": "船具，借代曹軍戰船",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "故國",
+              "meaning": "赤壁故地、三國古戰場",
+              "spans": [
+                [
+                  34,
+                  36
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "神遊",
+              "meaning": "在想像中遊歷",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "華髮",
+              "meaning": "花白頭髮",
+              "spans": [
+                [
+                  47,
+                  49
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "尊",
+              "meaning": "酒器，亦指一杯酒",
+              "spans": [
+                [
+                  56,
+                  57
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "酹",
+              "meaning": "灑酒祭奠",
+              "spans": [
+                [
+                  58,
+                  59
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e14-exp-005": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "念奴嬌・赤壁懷古",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 215,
+          "printedPage": 211,
+          "blockPath": "$[13].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "一尊還酹江月"
+        },
+        "resolvedBlock": [
+          "annot",
+          "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          [
+            [
+              "公瑾",
+              "周瑜的字",
+              "blue"
+            ],
+            [
+              "雄姿英發",
+              "雄姿英偉、才華煥發",
+              "blue"
+            ],
+            [
+              "羽扇綸巾",
+              "儒將的扇與頭巾",
+              "blue"
+            ],
+            [
+              "檣櫓",
+              "船具，借代曹軍戰船",
+              "blue"
+            ],
+            [
+              "故國",
+              "赤壁故地、三國古戰場",
+              "blue"
+            ],
+            [
+              "神遊",
+              "在想像中遊歷",
+              "blue"
+            ],
+            [
+              "華髮",
+              "花白頭髮",
+              "blue"
+            ],
+            [
+              "尊",
+              "酒器，亦指一杯酒",
+              "blue"
+            ],
+            [
+              "酹",
+              "灑酒祭奠",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "公瑾",
+              "meaning": "周瑜的字",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雄姿英發",
+              "meaning": "雄姿英偉、才華煥發",
+              "spans": [
+                [
+                  13,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "羽扇綸巾",
+              "meaning": "儒將的扇與頭巾",
+              "spans": [
+                [
+                  18,
+                  22
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "檣櫓",
+              "meaning": "船具，借代曹軍戰船",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "故國",
+              "meaning": "赤壁故地、三國古戰場",
+              "spans": [
+                [
+                  34,
+                  36
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "神遊",
+              "meaning": "在想像中遊歷",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "華髮",
+              "meaning": "花白頭髮",
+              "spans": [
+                [
+                  47,
+                  49
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "尊",
+              "meaning": "酒器，亦指一杯酒",
+              "spans": [
+                [
+                  56,
+                  57
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "酹",
+              "meaning": "灑酒祭奠",
+              "spans": [
+                [
+                  58,
+                  59
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e14-exp-006": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "念奴嬌・赤壁懷古",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 215,
+          "printedPage": 211,
+          "blockPath": "$[13].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "談笑間、檣櫓灰飛煙滅"
+        },
+        "resolvedBlock": [
+          "annot",
+          "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          [
+            [
+              "公瑾",
+              "周瑜的字",
+              "blue"
+            ],
+            [
+              "雄姿英發",
+              "雄姿英偉、才華煥發",
+              "blue"
+            ],
+            [
+              "羽扇綸巾",
+              "儒將的扇與頭巾",
+              "blue"
+            ],
+            [
+              "檣櫓",
+              "船具，借代曹軍戰船",
+              "blue"
+            ],
+            [
+              "故國",
+              "赤壁故地、三國古戰場",
+              "blue"
+            ],
+            [
+              "神遊",
+              "在想像中遊歷",
+              "blue"
+            ],
+            [
+              "華髮",
+              "花白頭髮",
+              "blue"
+            ],
+            [
+              "尊",
+              "酒器，亦指一杯酒",
+              "blue"
+            ],
+            [
+              "酹",
+              "灑酒祭奠",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "公瑾",
+              "meaning": "周瑜的字",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雄姿英發",
+              "meaning": "雄姿英偉、才華煥發",
+              "spans": [
+                [
+                  13,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "羽扇綸巾",
+              "meaning": "儒將的扇與頭巾",
+              "spans": [
+                [
+                  18,
+                  22
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "檣櫓",
+              "meaning": "船具，借代曹軍戰船",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "故國",
+              "meaning": "赤壁故地、三國古戰場",
+              "spans": [
+                [
+                  34,
+                  36
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "神遊",
+              "meaning": "在想像中遊歷",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "華髮",
+              "meaning": "花白頭髮",
+              "spans": [
+                [
+                  47,
+                  49
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "尊",
+              "meaning": "酒器，亦指一杯酒",
+              "spans": [
+                [
+                  56,
+                  57
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "酹",
+              "meaning": "灑酒祭奠",
+              "spans": [
+                [
+                  58,
+                  59
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e14-exp-007": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "念奴嬌・赤壁懷古",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 215,
+          "printedPage": 211,
+          "blockPath": "$[13].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "多情應笑我，早生華髮"
+        },
+        "resolvedBlock": [
+          "annot",
+          "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          [
+            [
+              "公瑾",
+              "周瑜的字",
+              "blue"
+            ],
+            [
+              "雄姿英發",
+              "雄姿英偉、才華煥發",
+              "blue"
+            ],
+            [
+              "羽扇綸巾",
+              "儒將的扇與頭巾",
+              "blue"
+            ],
+            [
+              "檣櫓",
+              "船具，借代曹軍戰船",
+              "blue"
+            ],
+            [
+              "故國",
+              "赤壁故地、三國古戰場",
+              "blue"
+            ],
+            [
+              "神遊",
+              "在想像中遊歷",
+              "blue"
+            ],
+            [
+              "華髮",
+              "花白頭髮",
+              "blue"
+            ],
+            [
+              "尊",
+              "酒器，亦指一杯酒",
+              "blue"
+            ],
+            [
+              "酹",
+              "灑酒祭奠",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "公瑾",
+              "meaning": "周瑜的字",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雄姿英發",
+              "meaning": "雄姿英偉、才華煥發",
+              "spans": [
+                [
+                  13,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "羽扇綸巾",
+              "meaning": "儒將的扇與頭巾",
+              "spans": [
+                [
+                  18,
+                  22
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "檣櫓",
+              "meaning": "船具，借代曹軍戰船",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "故國",
+              "meaning": "赤壁故地、三國古戰場",
+              "spans": [
+                [
+                  34,
+                  36
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "神遊",
+              "meaning": "在想像中遊歷",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "華髮",
+              "meaning": "花白頭髮",
+              "spans": [
+                [
+                  47,
+                  49
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "尊",
+              "meaning": "酒器，亦指一杯酒",
+              "spans": [
+                [
+                  56,
+                  57
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "酹",
+              "meaning": "灑酒祭奠",
+              "spans": [
+                [
+                  58,
+                  59
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "q-e14-exp-008": [
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "念奴嬌・赤壁懷古",
+          "section": "上片｜原文與語譯",
+          "pdfPage": 214,
+          "printedPage": 210,
+          "blockPath": "$[13].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "捲起千堆雪"
+        },
+        "resolvedBlock": [
+          "annot",
+          "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+          [
+            [
+              "大江",
+              "長江",
+              "blue"
+            ],
+            [
+              "淘盡",
+              "淘洗淨盡",
+              "blue"
+            ],
+            [
+              "千古",
+              "久遠年代",
+              "blue"
+            ],
+            [
+              "風流人物",
+              "有功業的傑出英雄",
+              "blue"
+            ],
+            [
+              "故壘",
+              "舊營壘",
+              "blue"
+            ],
+            [
+              "人道是",
+              "人們說是",
+              "blue"
+            ],
+            [
+              "周郎",
+              "周瑜",
+              "blue"
+            ],
+            [
+              "亂石",
+              "陡峭不平的石壁",
+              "blue"
+            ],
+            [
+              "穿空",
+              "高插天空",
+              "blue"
+            ],
+            [
+              "驚濤",
+              "洶湧波浪",
+              "blue"
+            ],
+            [
+              "雪",
+              "喻白色浪花",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "大江",
+              "meaning": "長江",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "淘盡",
+              "meaning": "淘洗淨盡",
+              "spans": [
+                [
+                  6,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "千古",
+              "meaning": "久遠年代",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "風流人物",
+              "meaning": "有功業的傑出英雄",
+              "spans": [
+                [
+                  11,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "故壘",
+              "meaning": "舊營壘",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "人道是",
+              "meaning": "人們說是",
+              "spans": [
+                [
+                  21,
+                  24
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "周郎",
+              "meaning": "周瑜",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "亂石",
+              "meaning": "陡峭不平的石壁",
+              "spans": [
+                [
+                  32,
+                  34
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "穿空",
+              "meaning": "高插天空",
+              "spans": [
+                [
+                  34,
+                  36
+                ]
+              ]
+            },
+            {
+              "number": 10,
+              "word": "驚濤",
+              "meaning": "洶湧波浪",
+              "spans": [
+                [
+                  37,
+                  39
+                ]
+              ]
+            },
+            {
+              "number": 11,
+              "word": "雪",
+              "meaning": "喻白色浪花",
+              "spans": [
+                [
+                  46,
+                  47
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-b-08-18-01-3": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 148,
+          "printedPage": 144,
+          "blockPath": "$[7].pages[18].blocks[1][1][3]",
+          "anchor": "念奴嬌西山悠悠乎與顥氣俱而莫得其涯念奴嬌人間如夢一尊還酹江月共同在失意中尋求安頓柳宗元走向物我冥合蘇軾經懷古自傷再以酹月寄懷",
+          "excerpt": "念奴嬌；西山：「悠悠乎與顥氣俱，而莫得其涯」。\n念奴嬌：「人間如夢，一尊還酹江月」。；共同在失意中尋求安頓；柳宗元走向物我冥合，蘇軾經懷古、自傷，再以酹月寄懷。",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "relatedSources": [
+            {
+              "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+              "version": "2026-09-14",
+              "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+              "pdfPage": 140,
+              "printedPage": 136,
+              "blockPath": "$[7].pages[4].blocks[0]",
+              "anchor": "悠悠乎與顥氣俱而莫得其涯",
+              "excerpt": "悠悠乎與顥氣俱，而莫得其涯",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "essayId": "essay-08",
+              "quote": "悠悠乎與顥氣俱，而莫得其涯"
+            },
+            {
+              "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+              "version": "2026-09-14",
+              "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+              "pdfPage": 213,
+              "printedPage": 209,
+              "blockPath": "$[13].pages[2].blocks[0]",
+              "anchor": "人間如夢一尊還酹江月",
+              "excerpt": "人間如夢，一尊還酹江月。",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "essayId": "essay-14",
+              "quote": "人間如夢，一尊還酹江月。"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "念奴嬌",
+          "西山：「悠悠乎與顥氣俱，而莫得其涯」。\n念奴嬌：「人間如夢，一尊還酹江月」。",
+          "共同在失意中尋求安頓；柳宗元走向物我冥合，蘇軾經懷古、自傷，再以酹月寄懷。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 140,
+          "printedPage": 136,
+          "blockPath": "$[7].pages[4].blocks[0]",
+          "anchor": "悠悠乎與顥氣俱而莫得其涯",
+          "excerpt": "悠悠乎與顥氣俱，而莫得其涯",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "essayId": "essay-08",
+          "quote": "悠悠乎與顥氣俱，而莫得其涯"
+        },
+        "resolvedBlock": [
+          "annot",
+          "縈青繚白，外與天際，四望如一。然後知是山之特立，不與培塿為類。悠悠乎與顥氣俱，而莫得其涯；洋洋乎與造物者遊，而不知其所窮。",
+          [
+            [
+              "縈",
+              "纏繞",
+              "blue"
+            ],
+            [
+              "繚",
+              "纏繞",
+              "blue"
+            ],
+            [
+              "際",
+              "交接、相連",
+              "blue"
+            ],
+            [
+              "四望如一",
+              "四周景物渾然一體",
+              "blue"
+            ],
+            [
+              "特立",
+              "卓絕獨立",
+              "blue"
+            ],
+            [
+              "培塿",
+              "小山丘",
+              "blue"
+            ],
+            [
+              "悠悠",
+              "渺遠無盡",
+              "blue"
+            ],
+            [
+              "顥氣",
+              "天地元氣；顥通昊",
+              "blue"
+            ],
+            [
+              "俱",
+              "一同存在",
+              "blue"
+            ],
+            [
+              "涯",
+              "邊際",
+              "blue"
+            ],
+            [
+              "洋洋",
+              "廣大無盡",
+              "blue"
+            ],
+            [
+              "造物者",
+              "大自然",
+              "blue"
+            ],
+            [
+              "所窮",
+              "盡頭、盡期",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "縈",
+              "meaning": "纏繞",
+              "spans": [
+                [
+                  0,
+                  1
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "繚",
+              "meaning": "纏繞",
+              "spans": [
+                [
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "際",
+              "meaning": "交接、相連",
+              "spans": [
+                [
+                  8,
+                  9
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "四望如一",
+              "meaning": "四周景物渾然一體",
+              "spans": [
+                [
+                  10,
+                  14
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "特立",
+              "meaning": "卓絕獨立",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "培塿",
+              "meaning": "小山丘",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "悠悠",
+              "meaning": "渺遠無盡",
+              "spans": [
+                [
+                  31,
+                  33
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "顥氣",
+              "meaning": "天地元氣；顥通昊",
+              "spans": [
+                [
+                  35,
+                  37
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "俱",
+              "meaning": "一同存在",
+              "spans": [
+                [
+                  37,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 10,
+              "word": "涯",
+              "meaning": "邊際",
+              "spans": [
+                [
+                  43,
+                  44
+                ]
+              ]
+            },
+            {
+              "number": 11,
+              "word": "洋洋",
+              "meaning": "廣大無盡",
+              "spans": [
+                [
+                  45,
+                  47
+                ]
+              ]
+            },
+            {
+              "number": 12,
+              "word": "造物者",
+              "meaning": "大自然",
+              "spans": [
+                [
+                  49,
+                  52
+                ]
+              ]
+            },
+            {
+              "number": 13,
+              "word": "所窮",
+              "meaning": "盡頭、盡期",
+              "spans": [
+                [
+                  58,
+                  60
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfPage": 213,
+          "printedPage": 209,
+          "blockPath": "$[13].pages[2].blocks[0]",
+          "anchor": "人間如夢一尊還酹江月",
+          "excerpt": "人間如夢，一尊還酹江月。",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "essayId": "essay-14",
+          "quote": "人間如夢，一尊還酹江月。"
+        },
+        "resolvedBlock": [
+          "annot",
+          "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          [
+            [
+              "公瑾",
+              "周瑜的字",
+              "blue"
+            ],
+            [
+              "雄姿英發",
+              "雄姿英偉、才華煥發",
+              "blue"
+            ],
+            [
+              "羽扇綸巾",
+              "儒將的扇與頭巾",
+              "blue"
+            ],
+            [
+              "檣櫓",
+              "船具，借代曹軍戰船",
+              "blue"
+            ],
+            [
+              "故國",
+              "赤壁故地、三國古戰場",
+              "blue"
+            ],
+            [
+              "神遊",
+              "在想像中遊歷",
+              "blue"
+            ],
+            [
+              "華髮",
+              "花白頭髮",
+              "blue"
+            ],
+            [
+              "尊",
+              "酒器，亦指一杯酒",
+              "blue"
+            ],
+            [
+              "酹",
+              "灑酒祭奠",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "公瑾",
+              "meaning": "周瑜的字",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雄姿英發",
+              "meaning": "雄姿英偉、才華煥發",
+              "spans": [
+                [
+                  13,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "羽扇綸巾",
+              "meaning": "儒將的扇與頭巾",
+              "spans": [
+                [
+                  18,
+                  22
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "檣櫓",
+              "meaning": "船具，借代曹軍戰船",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "故國",
+              "meaning": "赤壁故地、三國古戰場",
+              "spans": [
+                [
+                  34,
+                  36
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "神遊",
+              "meaning": "在想像中遊歷",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "華髮",
+              "meaning": "花白頭髮",
+              "spans": [
+                [
+                  47,
+                  49
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "尊",
+              "meaning": "酒器，亦指一杯酒",
+              "spans": [
+                [
+                  56,
+                  57
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "酹",
+              "meaning": "灑酒祭奠",
+              "spans": [
+                [
+                  58,
+                  59
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-01-03-00": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 214,
+          "printedPage": 210,
+          "blockPath": "$[13].pages[1].blocks[3][1][0]",
+          "anchor": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+          "excerpt": "大江：長江"
+        },
+        "resolvedBlock": [
+          "大江",
+          "長江",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-01-03-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 214,
+          "printedPage": 210,
+          "blockPath": "$[13].pages[1].blocks[3][1][1]",
+          "anchor": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+          "excerpt": "淘盡：淘洗淨盡"
+        },
+        "resolvedBlock": [
+          "淘盡",
+          "淘洗淨盡",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-01-03-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 214,
+          "printedPage": 210,
+          "blockPath": "$[13].pages[1].blocks[3][1][2]",
+          "anchor": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+          "excerpt": "千古：久遠年代"
+        },
+        "resolvedBlock": [
+          "千古",
+          "久遠年代",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-01-03-05": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 214,
+          "printedPage": 210,
+          "blockPath": "$[13].pages[1].blocks[3][1][5]",
+          "anchor": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+          "excerpt": "人道是：人們說是"
+        },
+        "resolvedBlock": [
+          "人道是",
+          "人們說是",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-01-03-06": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 214,
+          "printedPage": 210,
+          "blockPath": "$[13].pages[1].blocks[3][1][6]",
+          "anchor": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+          "excerpt": "周郎：周瑜"
+        },
+        "resolvedBlock": [
+          "周郎",
+          "周瑜",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-01-03-07": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 214,
+          "printedPage": 210,
+          "blockPath": "$[13].pages[1].blocks[3][1][7]",
+          "anchor": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+          "excerpt": "亂石：陡峭不平的石壁"
+        },
+        "resolvedBlock": [
+          "亂石",
+          "陡峭不平的石壁",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-01-03-08": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 214,
+          "printedPage": 210,
+          "blockPath": "$[13].pages[1].blocks[3][1][8]",
+          "anchor": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+          "excerpt": "穿空：高插天空"
+        },
+        "resolvedBlock": [
+          "穿空",
+          "高插天空",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-01-03-09": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 214,
+          "printedPage": 210,
+          "blockPath": "$[13].pages[1].blocks[3][1][9]",
+          "anchor": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+          "excerpt": "驚濤：洶湧波浪"
+        },
+        "resolvedBlock": [
+          "驚濤",
+          "洶湧波浪",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-01-03-10": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 214,
+          "printedPage": 210,
+          "blockPath": "$[13].pages[1].blocks[3][1][10]",
+          "anchor": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+          "excerpt": "雪：喻白色浪花"
+        },
+        "resolvedBlock": [
+          "雪",
+          "喻白色浪花",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-02-03-00": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 215,
+          "printedPage": 211,
+          "blockPath": "$[13].pages[2].blocks[3][1][0]",
+          "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "excerpt": "公瑾：周瑜的字"
+        },
+        "resolvedBlock": [
+          "公瑾",
+          "周瑜的字",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-02-03-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 215,
+          "printedPage": 211,
+          "blockPath": "$[13].pages[2].blocks[3][1][1]",
+          "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "excerpt": "雄姿英發：雄姿英偉、才華煥發"
+        },
+        "resolvedBlock": [
+          "雄姿英發",
+          "雄姿英偉、才華煥發",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-02-03-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 215,
+          "printedPage": 211,
+          "blockPath": "$[13].pages[2].blocks[3][1][2]",
+          "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "excerpt": "羽扇綸巾：儒將的扇與頭巾"
+        },
+        "resolvedBlock": [
+          "羽扇綸巾",
+          "儒將的扇與頭巾",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-02-03-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 215,
+          "printedPage": 211,
+          "blockPath": "$[13].pages[2].blocks[3][1][3]",
+          "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "excerpt": "檣櫓：船具，借代曹軍戰船"
+        },
+        "resolvedBlock": [
+          "檣櫓",
+          "船具，借代曹軍戰船",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-02-03-05": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 215,
+          "printedPage": 211,
+          "blockPath": "$[13].pages[2].blocks[3][1][5]",
+          "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "excerpt": "神遊：在想像中遊歷"
+        },
+        "resolvedBlock": [
+          "神遊",
+          "在想像中遊歷",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-02-03-07": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 215,
+          "printedPage": 211,
+          "blockPath": "$[13].pages[2].blocks[3][1][7]",
+          "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "excerpt": "尊：酒器，亦指一杯酒"
+        },
+        "resolvedBlock": [
+          "尊",
+          "酒器，亦指一杯酒",
+          "blue"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-01-00-90": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 213,
+          "printedPage": 209,
+          "blockPath": "$[13].pages[1].blocks[0]",
+          "anchor": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+          "excerpt": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！"
+        },
+        "resolvedBlock": [
+          "annot",
+          "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+          [
+            [
+              "大江",
+              "長江",
+              "blue"
+            ],
+            [
+              "淘盡",
+              "淘洗淨盡",
+              "blue"
+            ],
+            [
+              "千古",
+              "久遠年代",
+              "blue"
+            ],
+            [
+              "風流人物",
+              "有功業的傑出英雄",
+              "blue"
+            ],
+            [
+              "故壘",
+              "舊營壘",
+              "blue"
+            ],
+            [
+              "人道是",
+              "人們說是",
+              "blue"
+            ],
+            [
+              "周郎",
+              "周瑜",
+              "blue"
+            ],
+            [
+              "亂石",
+              "陡峭不平的石壁",
+              "blue"
+            ],
+            [
+              "穿空",
+              "高插天空",
+              "blue"
+            ],
+            [
+              "驚濤",
+              "洶湧波浪",
+              "blue"
+            ],
+            [
+              "雪",
+              "喻白色浪花",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "大江",
+              "meaning": "長江",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "淘盡",
+              "meaning": "淘洗淨盡",
+              "spans": [
+                [
+                  6,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "千古",
+              "meaning": "久遠年代",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "風流人物",
+              "meaning": "有功業的傑出英雄",
+              "spans": [
+                [
+                  11,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "故壘",
+              "meaning": "舊營壘",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "人道是",
+              "meaning": "人們說是",
+              "spans": [
+                [
+                  21,
+                  24
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "周郎",
+              "meaning": "周瑜",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "亂石",
+              "meaning": "陡峭不平的石壁",
+              "spans": [
+                [
+                  32,
+                  34
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "穿空",
+              "meaning": "高插天空",
+              "spans": [
+                [
+                  34,
+                  36
+                ]
+              ]
+            },
+            {
+              "number": 10,
+              "word": "驚濤",
+              "meaning": "洶湧波浪",
+              "spans": [
+                [
+                  37,
+                  39
+                ]
+              ]
+            },
+            {
+              "number": 11,
+              "word": "雪",
+              "meaning": "喻白色浪花",
+              "spans": [
+                [
+                  46,
+                  47
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-02-00-90": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 213,
+          "printedPage": 209,
+          "blockPath": "$[13].pages[2].blocks[0]",
+          "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "excerpt": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。"
+        },
+        "resolvedBlock": [
+          "annot",
+          "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          [
+            [
+              "公瑾",
+              "周瑜的字",
+              "blue"
+            ],
+            [
+              "雄姿英發",
+              "雄姿英偉、才華煥發",
+              "blue"
+            ],
+            [
+              "羽扇綸巾",
+              "儒將的扇與頭巾",
+              "blue"
+            ],
+            [
+              "檣櫓",
+              "船具，借代曹軍戰船",
+              "blue"
+            ],
+            [
+              "故國",
+              "赤壁故地、三國古戰場",
+              "blue"
+            ],
+            [
+              "神遊",
+              "在想像中遊歷",
+              "blue"
+            ],
+            [
+              "華髮",
+              "花白頭髮",
+              "blue"
+            ],
+            [
+              "尊",
+              "酒器，亦指一杯酒",
+              "blue"
+            ],
+            [
+              "酹",
+              "灑酒祭奠",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "公瑾",
+              "meaning": "周瑜的字",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雄姿英發",
+              "meaning": "雄姿英偉、才華煥發",
+              "spans": [
+                [
+                  13,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "羽扇綸巾",
+              "meaning": "儒將的扇與頭巾",
+              "spans": [
+                [
+                  18,
+                  22
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "檣櫓",
+              "meaning": "船具，借代曹軍戰船",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "故國",
+              "meaning": "赤壁故地、三國古戰場",
+              "spans": [
+                [
+                  34,
+                  36
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "神遊",
+              "meaning": "在想像中遊歷",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "華髮",
+              "meaning": "花白頭髮",
+              "spans": [
+                [
+                  47,
+                  49
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "尊",
+              "meaning": "酒器，亦指一杯酒",
+              "spans": [
+                [
+                  56,
+                  57
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "酹",
+              "meaning": "灑酒祭奠",
+              "spans": [
+                [
+                  58,
+                  59
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-12-10-01-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 202,
+          "printedPage": 198,
+          "blockPath": "$[11].pages[10].blocks[1]",
+          "anchor": "與《念奴嬌・赤壁懷古》：可比较失意处境、月等自然意象、飲酒及精神自解；須分李白邀月影的想像交遊與蘇軾懷古、自傷、酹江月的過程。與《聲聲慢・秋情》：可比較尋求慰藉的方式與結果；李白主動想像同伴、心情反覆，李清照尋覓寄託而不得，酒、雁等又增愁。詳細各篇證據另見相應篇章及考卷卡，不以「都借酒消愁」抹平差異。",
+          "excerpt": "與《念奴嬌・赤壁懷古》：可比较失意处境、月等自然意象、飲酒及精神自解；須分李白邀月影的想像交遊與蘇軾懷古、自傷、酹江月的過程。與《聲聲慢・秋情》：可比較尋求慰藉的方式與結果；李白主動想像同伴、心情反覆，李清照尋覓寄託而不得，酒、雁等又增愁。詳細各篇證據另見相應篇章及考卷卡，不以「都借酒消愁」抹平差異。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "月下獨酌",
+              "section": "原文第1組｜原文與語譯",
+              "pdfPage": 196,
+              "printedPage": 192,
+              "blockPath": "$[11].pages[1].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+              "excerpt": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+              "essayId": "essay-12"
+            },
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "月下獨酌",
+              "section": "原文第2組｜原文與語譯",
+              "pdfPage": 197,
+              "printedPage": 193,
+              "blockPath": "$[11].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+              "excerpt": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+              "essayId": "essay-12"
+            },
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "聲聲慢・秋情",
+              "section": "上片｜原文與語譯",
+              "pdfPage": 225,
+              "printedPage": 221,
+              "blockPath": "$[14].pages[1].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+              "excerpt": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+              "essayId": "essay-15"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "text",
+          "<b>與《念奴嬌・赤壁懷古》</b>：可比较失意处境、月等自然意象、飲酒及精神自解；須分李白邀月影的想像交遊與蘇軾懷古、自傷、酹江月的過程。<b>與《聲聲慢・秋情》</b>：可比較尋求慰藉的方式與結果；李白主動想像同伴、心情反覆，李清照尋覓寄託而不得，酒、雁等又增愁。詳細各篇證據另見相應篇章及考卷卡，不以「都借酒消愁」抹平差異。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第1組｜原文與語譯",
+          "pdfPage": 196,
+          "printedPage": 192,
+          "blockPath": "$[11].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          "excerpt": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          "essayId": "essay-12"
+        },
+        "resolvedBlock": [
+          "annot",
+          "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+          [
+            [
+              "酌",
+              "飲酒",
+              "blue"
+            ],
+            [
+              "相親",
+              "親近的友伴",
+              "blue"
+            ],
+            [
+              "邀",
+              "邀請",
+              "blue"
+            ],
+            [
+              "三人",
+              "我、明月、影子",
+              "blue"
+            ],
+            [
+              "解",
+              "懂得",
+              "blue"
+            ],
+            [
+              "徒",
+              "只、僅；含徒然意",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "酌",
+              "meaning": "飲酒",
+              "spans": [
+                [
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "相親",
+              "meaning": "親近的友伴",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "邀",
+              "meaning": "邀請",
+              "spans": [
+                [
+                  14,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "三人",
+              "meaning": "我、明月、影子",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "解",
+              "meaning": "懂得",
+              "spans": [
+                [
+                  27,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "徒",
+              "meaning": "只、僅；含徒然意",
+              "spans": [
+                [
+                  31,
+                  32
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "月下獨酌",
+          "section": "原文第2組｜原文與語譯",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "blockPath": "$[11].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          "excerpt": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          "essayId": "essay-12"
+        },
+        "resolvedBlock": [
+          "annot",
+          "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+          [
+            [
+              "暫",
+              "姑且、暫時",
+              "blue"
+            ],
+            [
+              "將",
+              "和",
+              "blue"
+            ],
+            [
+              "及",
+              "趁着",
+              "blue"
+            ],
+            [
+              "徘徊",
+              "往返流連",
+              "blue"
+            ],
+            [
+              "零亂",
+              "零散紛亂",
+              "blue"
+            ],
+            [
+              "交歡",
+              "共同歡樂",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "暫",
+              "meaning": "姑且、暫時",
+              "spans": [
+                [
+                  0,
+                  1
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "將",
+              "meaning": "和",
+              "spans": [
+                [
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "及",
+              "meaning": "趁着",
+              "spans": [
+                [
+                  9,
+                  10
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "徘徊",
+              "meaning": "往返流連",
+              "spans": [
+                [
+                  15,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "零亂",
+              "meaning": "零散紛亂",
+              "spans": [
+                [
+                  21,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "交歡",
+              "meaning": "共同歡樂",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "聲聲慢・秋情",
+          "section": "上片｜原文與語譯",
+          "pdfPage": 225,
+          "printedPage": 221,
+          "blockPath": "$[14].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+          "excerpt": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+          "essayId": "essay-15"
+        },
+        "resolvedBlock": [
+          "annot",
+          "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+          [
+            [
+              "尋尋覓覓",
+              "反覆尋找、若有所失",
+              "blue"
+            ],
+            [
+              "冷冷清清",
+              "環境寂靜冷落",
+              "blue"
+            ],
+            [
+              "悽悽慘慘戚戚",
+              "內心悽慘悲戚",
+              "blue"
+            ],
+            [
+              "乍煖還寒",
+              "剛暖又寒，冷暖不定",
+              "blue"
+            ],
+            [
+              "將息",
+              "調養休息",
+              "blue"
+            ],
+            [
+              "淡酒",
+              "無力禦寒解愁的酒",
+              "blue"
+            ],
+            [
+              "敵",
+              "抵擋",
+              "blue"
+            ],
+            [
+              "晚來",
+              "傍晚；另本作曉來",
+              "blue"
+            ],
+            [
+              "舊時相識",
+              "熟悉的大雁",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "尋尋覓覓",
+              "meaning": "反覆尋找、若有所失",
+              "spans": [
+                [
+                  0,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "冷冷清清",
+              "meaning": "環境寂靜冷落",
+              "spans": [
+                [
+                  5,
+                  9
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "悽悽慘慘戚戚",
+              "meaning": "內心悽慘悲戚",
+              "spans": [
+                [
+                  10,
+                  16
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "乍煖還寒",
+              "meaning": "剛暖又寒，冷暖不定",
+              "spans": [
+                [
+                  17,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "將息",
+              "meaning": "調養休息",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "淡酒",
+              "meaning": "無力禦寒解愁的酒",
+              "spans": [
+                [
+                  33,
+                  35
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "敵",
+              "meaning": "抵擋",
+              "spans": [
+                [
+                  37,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "晚來",
+              "meaning": "傍晚；另本作曉來",
+              "spans": [
+                [
+                  39,
+                  41
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "舊時相識",
+              "meaning": "熟悉的大雁",
+              "spans": [
+                [
+                  54,
+                  58
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-00-01-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 212,
+          "printedPage": 208,
+          "blockPath": "$[13].pages[0].blocks[1]",
+          "anchor": "由壯闊江山追想周瑜功業，對照自身早生華髮，再以酹江月寄託人生感慨。",
+          "excerpt": "由壯闊江山追想周瑜功業，對照自身早生華髮，再以酹江月寄託人生感慨。"
+        },
+        "resolvedBlock": [
+          "band",
+          "由壯闊江山追想周瑜功業，對照自身早生華髮，再以酹江月寄託人生感慨。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-00-03-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 212,
+          "printedPage": 208,
+          "blockPath": "$[13].pages[0].blocks[3]",
+          "anchor": "江流千古→赤壁景物→周瑜英姿→自我對照→如夢與江月",
+          "excerpt": "江流千古→赤壁景物→周瑜英姿→自我對照→如夢與江月"
+        },
+        "resolvedBlock": [
+          "text",
+          "江流千古→赤壁景物→周瑜英姿→自我對照→如夢與江月"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-00-05-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 212,
+          "printedPage": 208,
+          "blockPath": "$[13].pages[0].blocks[5]",
+          "anchor": "「談笑」是周瑜的從容；「應笑我」轉向詞人自身，不能混成同一笑者。",
+          "excerpt": "「談笑」是周瑜的從容；「應笑我」轉向詞人自身，不能混成同一笑者。"
+        },
+        "resolvedBlock": [
+          "text",
+          "「談笑」是周瑜的從容；「應笑我」轉向詞人自身，不能混成同一笑者。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-00-07-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 212,
+          "printedPage": 208,
+          "blockPath": "$[13].pages[0].blocks[7]",
+          "anchor": "念奴嬌是詞牌，赤壁懷古是題目；本篇原文沿用人間、檣櫓的底本。",
+          "excerpt": "念奴嬌是詞牌，赤壁懷古是題目；本篇原文沿用人間、檣櫓的底本。"
+        },
+        "resolvedBlock": [
+          "text",
+          "念奴嬌是詞牌，赤壁懷古是題目；本篇原文沿用人間、檣櫓的底本。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-01-04-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 214,
+          "printedPage": 210,
+          "blockPath": "$[13].pages[1].blocks[4]",
+          "anchor": "石的高峻、浪的強勁與浪花的白，合成雄奇景象。「人道是」保留相傳語氣，不是地點考證定論。",
+          "excerpt": "石的高峻、浪的強勁與浪花的白，合成雄奇景象。「人道是」保留相傳語氣，不是地點考證定論。"
+        },
+        "resolvedBlock": [
+          "note",
+          "石的高峻、浪的強勁與浪花的白，合成雄奇景象。「人道是」保留相傳語氣，不是地點考證定論。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-02-04-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 215,
+          "printedPage": 211,
+          "blockPath": "$[13].pages[2].blocks[4]",
+          "anchor": "寫小喬初嫁與雄姿英發，是集中塑造春風得意的周瑜。詞中回想有藝術安排，不必把婚年和戰年當同一年。",
+          "excerpt": "寫小喬初嫁與雄姿英發，是集中塑造春風得意的周瑜。詞中回想有藝術安排，不必把婚年和戰年當同一年。"
+        },
+        "resolvedBlock": [
+          "note",
+          "寫小喬初嫁與雄姿英發，是集中塑造春風得意的周瑜。詞中回想有藝術安排，不必把婚年和戰年當同一年。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-03-00-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 215,
+          "printedPage": 211,
+          "blockPath": "$[13].pages[3].blocks[0][1][2]",
+          "anchor": "東去 大江東去 向東流去。江流不返，引出時間與歷史。",
+          "excerpt": "向東流去。江流不返，引出時間與歷史。"
+        },
+        "resolvedBlock": [
+          "東去",
+          "大江東去",
+          "向東流去。江流不返，引出時間與歷史。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-03-00-07": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 216,
+          "printedPage": 212,
+          "blockPath": "$[13].pages[3].blocks[0][1][7]",
+          "anchor": "人道是 人道是、三國周郎赤壁 人們說是，保留相傳語氣，不當成作者考證結論。",
+          "excerpt": "人們說是，保留相傳語氣，不當成作者考證結論。"
+        },
+        "resolvedBlock": [
+          "人道是",
+          "人道是、三國周郎赤壁",
+          "人們說是，保留相傳語氣，不當成作者考證結論。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-03-00-13": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 216,
+          "printedPage": 212,
+          "blockPath": "$[13].pages[3].blocks[0][1][13]",
+          "anchor": "拍岸 驚濤拍岸 拍擊江岸",
+          "excerpt": "拍擊江岸"
+        },
+        "resolvedBlock": [
+          "拍岸",
+          "驚濤拍岸",
+          "拍擊江岸"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-03-00-14": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 216,
+          "printedPage": 212,
+          "blockPath": "$[13].pages[3].blocks[0][1][14]",
+          "anchor": "捲 捲起千堆雪 浪花被激起、翻捲。",
+          "excerpt": "浪花被激起、翻捲。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "念奴嬌・赤壁懷古",
+              "section": "上片｜原文與語譯",
+              "pdfPage": 214,
+              "printedPage": 210,
+              "blockPath": "$[13].pages[1].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+              "excerpt": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+              "essayId": "essay-14"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "捲",
+          "捲起千堆雪",
+          "浪花被激起、翻捲。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "念奴嬌・赤壁懷古",
+          "section": "上片｜原文與語譯",
+          "pdfPage": 214,
+          "printedPage": 210,
+          "blockPath": "$[13].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+          "excerpt": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+          "essayId": "essay-14"
+        },
+        "resolvedBlock": [
+          "annot",
+          "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+          [
+            [
+              "大江",
+              "長江",
+              "blue"
+            ],
+            [
+              "淘盡",
+              "淘洗淨盡",
+              "blue"
+            ],
+            [
+              "千古",
+              "久遠年代",
+              "blue"
+            ],
+            [
+              "風流人物",
+              "有功業的傑出英雄",
+              "blue"
+            ],
+            [
+              "故壘",
+              "舊營壘",
+              "blue"
+            ],
+            [
+              "人道是",
+              "人們說是",
+              "blue"
+            ],
+            [
+              "周郎",
+              "周瑜",
+              "blue"
+            ],
+            [
+              "亂石",
+              "陡峭不平的石壁",
+              "blue"
+            ],
+            [
+              "穿空",
+              "高插天空",
+              "blue"
+            ],
+            [
+              "驚濤",
+              "洶湧波浪",
+              "blue"
+            ],
+            [
+              "雪",
+              "喻白色浪花",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "大江",
+              "meaning": "長江",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "淘盡",
+              "meaning": "淘洗淨盡",
+              "spans": [
+                [
+                  6,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "千古",
+              "meaning": "久遠年代",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "風流人物",
+              "meaning": "有功業的傑出英雄",
+              "spans": [
+                [
+                  11,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "故壘",
+              "meaning": "舊營壘",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "人道是",
+              "meaning": "人們說是",
+              "spans": [
+                [
+                  21,
+                  24
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "周郎",
+              "meaning": "周瑜",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "亂石",
+              "meaning": "陡峭不平的石壁",
+              "spans": [
+                [
+                  32,
+                  34
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "穿空",
+              "meaning": "高插天空",
+              "spans": [
+                [
+                  34,
+                  36
+                ]
+              ]
+            },
+            {
+              "number": 10,
+              "word": "驚濤",
+              "meaning": "洶湧波浪",
+              "spans": [
+                [
+                  37,
+                  39
+                ]
+              ]
+            },
+            {
+              "number": 11,
+              "word": "雪",
+              "meaning": "喻白色浪花",
+              "spans": [
+                [
+                  46,
+                  47
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-03-00-17": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 216,
+          "printedPage": 212,
+          "blockPath": "$[13].pages[3].blocks[0][1][17]",
+          "anchor": "羽扇綸巾 羽扇綸巾 羽毛扇和絲製頭巾；說白羽扇、絲帶頭巾，語譯為青絲頭巾。屬儒將服飾，顯儒雅。",
+          "excerpt": "羽毛扇和絲製頭巾；說白羽扇、絲帶頭巾，語譯為青絲頭巾。屬儒將服飾，顯儒雅。"
+        },
+        "resolvedBlock": [
+          "羽扇綸巾",
+          "羽扇綸巾",
+          "羽毛扇和絲製頭巾；說白羽扇、絲帶頭巾，語譯為青絲頭巾。屬儒將服飾，顯儒雅。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-03-00-18": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 216,
+          "printedPage": 212,
+          "blockPath": "$[13].pages[3].blocks[0][1][18]",
+          "anchor": "檣櫓 談笑間、檣櫓灰飛煙滅 檣為桅杆、櫓為船槳一類推船器具，以船具代戰船，指曹軍船隊。與以相似點構成的比喻不同。",
+          "excerpt": "檣為桅杆、櫓為船槳一類推船器具，以船具代戰船，指曹軍船隊。與以相似點構成的比喻不同。"
+        },
+        "resolvedBlock": [
+          "檣櫓",
+          "談笑間、檣櫓灰飛煙滅",
+          "檣為桅杆、櫓為船槳一類推船器具，以船具代戰船，指曹軍船隊。與以相似點構成的比喻不同。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-03-00-19": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 216,
+          "printedPage": 212,
+          "blockPath": "$[13].pages[3].blocks[0][1][19]",
+          "anchor": "灰飛煙滅 談笑間、檣櫓灰飛煙滅 化灰、化煙般消失，寫曹軍敗亡；亦有誇飾戰果的效果。",
+          "excerpt": "化灰、化煙般消失，寫曹軍敗亡；亦有誇飾戰果的效果。"
+        },
+        "resolvedBlock": [
+          "灰飛煙滅",
+          "談笑間、檣櫓灰飛煙滅",
+          "化灰、化煙般消失，寫曹軍敗亡；亦有誇飾戰果的效果。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-03-00-21": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 217,
+          "printedPage": 213,
+          "blockPath": "$[13].pages[3].blocks[0][1][21]",
+          "anchor": "神遊 故國神遊 在精神、想像中遊歷。故國不是現代「祖國」的固定意思。",
+          "excerpt": "在精神、想像中遊歷。故國不是現代「祖國」的固定意思。"
+        },
+        "resolvedBlock": [
+          "神遊",
+          "故國神遊",
+          "在精神、想像中遊歷。故國不是現代「祖國」的固定意思。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-03-00-22": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 217,
+          "printedPage": 213,
+          "blockPath": "$[13].pages[3].blocks[0][1][22]",
+          "anchor": "多情 多情應笑我 多情善感",
+          "excerpt": "多情善感"
+        },
+        "resolvedBlock": [
+          "多情",
+          "多情應笑我",
+          "多情善感"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-03-00-23": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 217,
+          "printedPage": 213,
+          "blockPath": "$[13].pages[3].blocks[0][1][23]",
+          "anchor": "華髮 早生華髮 花白、半白的頭髮。「華」的詞解須連頭髮語境。",
+          "excerpt": "花白、半白的頭髮。「華」的詞解須連頭髮語境。"
+        },
+        "resolvedBlock": [
+          "華髮",
+          "早生華髮",
+          "花白、半白的頭髮。「華」的詞解須連頭髮語境。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-04-00-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 217,
+          "printedPage": 213,
+          "blockPath": "$[13].pages[4].blocks[0][1][2]",
+          "anchor": "酹 一尊還酹江月 酹：灑酒祭奠。「酹江月」以灑酒寄託情懷，不能只譯作喝酒。",
+          "excerpt": "酹：灑酒祭奠。「酹江月」以灑酒寄託情懷，不能只譯作喝酒。"
+        },
+        "resolvedBlock": [
+          "酹",
+          "一尊還酹江月",
+          "酹：灑酒祭奠。「酹江月」以灑酒寄託情懷，不能只譯作喝酒。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-04-00-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 217,
+          "printedPage": 213,
+          "blockPath": "$[13].pages[4].blocks[0][1][3]",
+          "anchor": "人間如夢 人間如夢 人生短促虛幻如夢，含對功業、得失的省思。",
+          "excerpt": "人生短促虛幻如夢，含對功業、得失的省思。"
+        },
+        "resolvedBlock": [
+          "人間如夢",
+          "人間如夢",
+          "人生短促虛幻如夢，含對功業、得失的省思。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-05-00-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 218,
+          "printedPage": 214,
+          "blockPath": "$[13].pages[5].blocks[0][1][1]",
+          "anchor": "上片開首：大江與千古 江水滾滾東去，空間雄闊；「浪淘盡」把江流與歷史人物相聯，時間悠久而人事消逝，奠定懷古感慨。",
+          "excerpt": "江水滾滾東去，空間雄闊；「浪淘盡」把江流與歷史人物相聯，時間悠久而人事消逝，奠定懷古感慨。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "念奴嬌・赤壁懷古",
+              "section": "上片｜原文與語譯",
+              "pdfPage": 214,
+              "printedPage": 210,
+              "blockPath": "$[13].pages[1].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+              "excerpt": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+              "essayId": "essay-14"
+            },
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "念奴嬌・赤壁懷古",
+              "section": "下片｜原文與語譯",
+              "pdfPage": 215,
+              "printedPage": 211,
+              "blockPath": "$[13].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+              "excerpt": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+              "essayId": "essay-14"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "上片開首：大江與千古",
+          "江水滾滾東去，空間雄闊；「浪淘盡」把江流與歷史人物相聯，時間悠久而人事消逝，奠定懷古感慨。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "念奴嬌・赤壁懷古",
+          "section": "上片｜原文與語譯",
+          "pdfPage": 214,
+          "printedPage": 210,
+          "blockPath": "$[13].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+          "excerpt": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+          "essayId": "essay-14"
+        },
+        "resolvedBlock": [
+          "annot",
+          "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+          [
+            [
+              "大江",
+              "長江",
+              "blue"
+            ],
+            [
+              "淘盡",
+              "淘洗淨盡",
+              "blue"
+            ],
+            [
+              "千古",
+              "久遠年代",
+              "blue"
+            ],
+            [
+              "風流人物",
+              "有功業的傑出英雄",
+              "blue"
+            ],
+            [
+              "故壘",
+              "舊營壘",
+              "blue"
+            ],
+            [
+              "人道是",
+              "人們說是",
+              "blue"
+            ],
+            [
+              "周郎",
+              "周瑜",
+              "blue"
+            ],
+            [
+              "亂石",
+              "陡峭不平的石壁",
+              "blue"
+            ],
+            [
+              "穿空",
+              "高插天空",
+              "blue"
+            ],
+            [
+              "驚濤",
+              "洶湧波浪",
+              "blue"
+            ],
+            [
+              "雪",
+              "喻白色浪花",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "大江",
+              "meaning": "長江",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "淘盡",
+              "meaning": "淘洗淨盡",
+              "spans": [
+                [
+                  6,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "千古",
+              "meaning": "久遠年代",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "風流人物",
+              "meaning": "有功業的傑出英雄",
+              "spans": [
+                [
+                  11,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "故壘",
+              "meaning": "舊營壘",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "人道是",
+              "meaning": "人們說是",
+              "spans": [
+                [
+                  21,
+                  24
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "周郎",
+              "meaning": "周瑜",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "亂石",
+              "meaning": "陡峭不平的石壁",
+              "spans": [
+                [
+                  32,
+                  34
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "穿空",
+              "meaning": "高插天空",
+              "spans": [
+                [
+                  34,
+                  36
+                ]
+              ]
+            },
+            {
+              "number": 10,
+              "word": "驚濤",
+              "meaning": "洶湧波浪",
+              "spans": [
+                [
+                  37,
+                  39
+                ]
+              ]
+            },
+            {
+              "number": 11,
+              "word": "雪",
+              "meaning": "喻白色浪花",
+              "spans": [
+                [
+                  46,
+                  47
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "念奴嬌・赤壁懷古",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 215,
+          "printedPage": 211,
+          "blockPath": "$[13].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "excerpt": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "essayId": "essay-14"
+        },
+        "resolvedBlock": [
+          "annot",
+          "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          [
+            [
+              "公瑾",
+              "周瑜的字",
+              "blue"
+            ],
+            [
+              "雄姿英發",
+              "雄姿英偉、才華煥發",
+              "blue"
+            ],
+            [
+              "羽扇綸巾",
+              "儒將的扇與頭巾",
+              "blue"
+            ],
+            [
+              "檣櫓",
+              "船具，借代曹軍戰船",
+              "blue"
+            ],
+            [
+              "故國",
+              "赤壁故地、三國古戰場",
+              "blue"
+            ],
+            [
+              "神遊",
+              "在想像中遊歷",
+              "blue"
+            ],
+            [
+              "華髮",
+              "花白頭髮",
+              "blue"
+            ],
+            [
+              "尊",
+              "酒器，亦指一杯酒",
+              "blue"
+            ],
+            [
+              "酹",
+              "灑酒祭奠",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "公瑾",
+              "meaning": "周瑜的字",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雄姿英發",
+              "meaning": "雄姿英偉、才華煥發",
+              "spans": [
+                [
+                  13,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "羽扇綸巾",
+              "meaning": "儒將的扇與頭巾",
+              "spans": [
+                [
+                  18,
+                  22
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "檣櫓",
+              "meaning": "船具，借代曹軍戰船",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "故國",
+              "meaning": "赤壁故地、三國古戰場",
+              "spans": [
+                [
+                  34,
+                  36
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "神遊",
+              "meaning": "在想像中遊歷",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "華髮",
+              "meaning": "花白頭髮",
+              "spans": [
+                [
+                  47,
+                  49
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "尊",
+              "meaning": "酒器，亦指一杯酒",
+              "spans": [
+                [
+                  56,
+                  57
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "酹",
+              "meaning": "灑酒祭奠",
+              "spans": [
+                [
+                  58,
+                  59
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-05-00-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 218,
+          "printedPage": 214,
+          "blockPath": "$[13].pages[5].blocks[0][1][2]",
+          "anchor": "上片中段：故壘、石壁、江濤 從赤壁傳說寫到石壁穿空、波濤拍岸、浪花如雪，景色雄奇壯麗、氣勢磅礡。",
+          "excerpt": "從赤壁傳說寫到石壁穿空、波濤拍岸、浪花如雪，景色雄奇壯麗、氣勢磅礡。"
+        },
+        "resolvedBlock": [
+          "上片中段：故壘、石壁、江濤",
+          "從赤壁傳說寫到石壁穿空、波濤拍岸、浪花如雪，景色雄奇壯麗、氣勢磅礡。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-05-00-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 218,
+          "printedPage": 214,
+          "blockPath": "$[13].pages[5].blocks[0][1][3]",
+          "anchor": "上下片過渡 「江山如畫，一時多少豪傑」前半總括上片美景，後半引出下片英雄人物，由寫景過渡寫人、懷古抒情。",
+          "excerpt": "「江山如畫，一時多少豪傑」前半總括上片美景，後半引出下片英雄人物，由寫景過渡寫人、懷古抒情。"
+        },
+        "resolvedBlock": [
+          "上下片過渡",
+          "「江山如畫，一時多少豪傑」前半總括上片美景，後半引出下片英雄人物，由寫景過渡寫人、懷古抒情。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-05-00-04": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 218,
+          "printedPage": 214,
+          "blockPath": "$[13].pages[5].blocks[0][1][4]",
+          "anchor": "下片前段：懷周瑜 想像周瑜年少得意、婚姻美滿、風度儒雅、指揮從容，大破曹軍而建功，表仰慕。",
+          "excerpt": "想像周瑜年少得意、婚姻美滿、風度儒雅、指揮從容，大破曹軍而建功，表仰慕。"
+        },
+        "resolvedBlock": [
+          "下片前段：懷周瑜",
+          "想像周瑜年少得意、婚姻美滿、風度儒雅、指揮從容，大破曹軍而建功，表仰慕。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-05-00-05": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 218,
+          "printedPage": 214,
+          "blockPath": "$[13].pages[5].blocks[0][1][5]",
+          "anchor": "下片中段：反照自己 「故國神遊」後從懷古返現實；周瑜年輕有為對照自己早生華髮、被貶、虛度光陰、功業未成，自覺多情可笑。",
+          "excerpt": "「故國神遊」後從懷古返現實；周瑜年輕有為對照自己早生華髮、被貶、虛度光陰、功業未成，自覺多情可笑。"
+        },
+        "resolvedBlock": [
+          "下片中段：反照自己",
+          "「故國神遊」後從懷古返現實；周瑜年輕有為對照自己早生華髮、被貶、虛度光陰、功業未成，自覺多情可笑。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-05-00-06": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 218,
+          "printedPage": 214,
+          "blockPath": "$[13].pages[5].blocks[0][1][6]",
+          "anchor": "結尾：酹江月自解 悟英雄亦隨時間消逝、人生如夢，不必執着功名得失，借酒寄懷、寄情自然、隨緣自適，表曠達。",
+          "excerpt": "悟英雄亦隨時間消逝、人生如夢，不必執着功名得失，借酒寄懷、寄情自然、隨緣自適，表曠達。"
+        },
+        "resolvedBlock": [
+          "結尾：酹江月自解",
+          "悟英雄亦隨時間消逝、人生如夢，不必執着功名得失，借酒寄懷、寄情自然、隨緣自適，表曠達。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-05-01-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 218,
+          "printedPage": 214,
+          "blockPath": "$[13].pages[5].blocks[1]",
+          "anchor": "全詞融合寫景、懷古、詠史、抒情；由眼前江山到遙想三國，再回自身。懷古不是孤立介紹周瑜事蹟，而是以其風采功業反照自身抱負。上片歷久長存的山川，對照下片短促虛幻的人事；傷感與曠達有推進轉折，不能只剩一種情绪。",
+          "excerpt": "全詞融合寫景、懷古、詠史、抒情；由眼前江山到遙想三國，再回自身。懷古不是孤立介紹周瑜事蹟，而是以其風采功業反照自身抱負。上片歷久長存的山川，對照下片短促虛幻的人事；傷感與曠達有推進轉折，不能只剩一種情绪。"
+        },
+        "resolvedBlock": [
+          "text",
+          "全詞融合寫景、懷古、詠史、抒情；由眼前江山到遙想三國，再回自身。懷古不是孤立介紹周瑜事蹟，而是以其風采功業反照自身抱負。上片歷久長存的山川，對照下片短促虛幻的人事；傷感與曠達有推進轉折，不能只剩一種情绪。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-06-00-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 219,
+          "printedPage": 215,
+          "blockPath": "$[13].pages[6].blocks[0]",
+          "anchor": "詞人先用周瑜的年輕、英偉和功業建立理想形象，再用兩個「笑」把英雄與自己接起來。",
+          "excerpt": "詞人先用周瑜的年輕、英偉和功業建立理想形象，再用兩個「笑」把英雄與自己接起來。"
+        },
+        "resolvedBlock": [
+          "text",
+          "詞人先用周瑜的年輕、英偉和功業建立理想形象，再用兩個「笑」把英雄與自己接起來。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-06-01-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 219,
+          "printedPage": 215,
+          "blockPath": "$[13].pages[6].blocks[1][1][1]",
+          "anchor": "「小喬初嫁了」「雄姿英發」 以婚姻美滿和英偉姿態集中寫年少得意。 小喬從側面烘托周瑜的風采。",
+          "excerpt": "以婚姻美滿和英偉姿態集中寫年少得意。；小喬從側面烘托周瑜的風采。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "念奴嬌・赤壁懷古",
+              "section": "下片｜原文與語譯",
+              "pdfPage": 215,
+              "printedPage": 211,
+              "blockPath": "$[13].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+              "excerpt": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+              "essayId": "essay-14"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "「小喬初嫁了」「雄姿英發」",
+          "以婚姻美滿和英偉姿態集中寫年少得意。",
+          "小喬從側面烘托周瑜的風采。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "念奴嬌・赤壁懷古",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 215,
+          "printedPage": 211,
+          "blockPath": "$[13].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "excerpt": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "essayId": "essay-14"
+        },
+        "resolvedBlock": [
+          "annot",
+          "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          [
+            [
+              "公瑾",
+              "周瑜的字",
+              "blue"
+            ],
+            [
+              "雄姿英發",
+              "雄姿英偉、才華煥發",
+              "blue"
+            ],
+            [
+              "羽扇綸巾",
+              "儒將的扇與頭巾",
+              "blue"
+            ],
+            [
+              "檣櫓",
+              "船具，借代曹軍戰船",
+              "blue"
+            ],
+            [
+              "故國",
+              "赤壁故地、三國古戰場",
+              "blue"
+            ],
+            [
+              "神遊",
+              "在想像中遊歷",
+              "blue"
+            ],
+            [
+              "華髮",
+              "花白頭髮",
+              "blue"
+            ],
+            [
+              "尊",
+              "酒器，亦指一杯酒",
+              "blue"
+            ],
+            [
+              "酹",
+              "灑酒祭奠",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "公瑾",
+              "meaning": "周瑜的字",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雄姿英發",
+              "meaning": "雄姿英偉、才華煥發",
+              "spans": [
+                [
+                  13,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "羽扇綸巾",
+              "meaning": "儒將的扇與頭巾",
+              "spans": [
+                [
+                  18,
+                  22
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "檣櫓",
+              "meaning": "船具，借代曹軍戰船",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "故國",
+              "meaning": "赤壁故地、三國古戰場",
+              "spans": [
+                [
+                  34,
+                  36
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "神遊",
+              "meaning": "在想像中遊歷",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "華髮",
+              "meaning": "花白頭髮",
+              "spans": [
+                [
+                  47,
+                  49
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "尊",
+              "meaning": "酒器，亦指一杯酒",
+              "spans": [
+                [
+                  56,
+                  57
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "酹",
+              "meaning": "灑酒祭奠",
+              "spans": [
+                [
+                  58,
+                  59
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-06-01-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 219,
+          "printedPage": 215,
+          "blockPath": "$[13].pages[6].blocks[1][1][2]",
+          "anchor": "「羽扇綸巾」「談笑間、檣櫓灰飛煙滅」 儒雅裝束、從容談笑，與曹軍迅速敗亡相對。 「談笑」寫周瑜指揮若定；詩人對他有讚賞與仰慕。",
+          "excerpt": "儒雅裝束、從容談笑，與曹軍迅速敗亡相對。；「談笑」寫周瑜指揮若定；詩人對他有讚賞與仰慕。"
+        },
+        "resolvedBlock": [
+          "「羽扇綸巾」「談笑間、檣櫓灰飛煙滅」",
+          "儒雅裝束、從容談笑，與曹軍迅速敗亡相對。",
+          "「談笑」寫周瑜指揮若定；詩人對他有讚賞與仰慕。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-06-01-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 219,
+          "printedPage": 215,
+          "blockPath": "$[13].pages[6].blocks[1][1][3]",
+          "anchor": "「多情應笑我，早生華髮」 由想像古人轉回自身，笑自己多情，卻已早生白髮。 「笑我」可按自嘲理解：年華漸老而功業未成，仰慕轉成自傷。",
+          "excerpt": "由想像古人轉回自身，笑自己多情，卻已早生白髮。；「笑我」可按自嘲理解：年華漸老而功業未成，仰慕轉成自傷。"
+        },
+        "resolvedBlock": [
+          "「多情應笑我，早生華髮」",
+          "由想像古人轉回自身，笑自己多情，卻已早生白髮。",
+          "「笑我」可按自嘲理解：年華漸老而功業未成，仰慕轉成自傷。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-06-02-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 219,
+          "printedPage": 215,
+          "blockPath": "$[13].pages[6].blocks[2]",
+          "anchor": "兩個「笑」把年少功成與華髮未酬對照起來。第一個笑顯出英雄有把握，第二個笑顯出詞人對自身處境的感慨，讓懷古成為抒發抱負的途徑。",
+          "excerpt": "兩個「笑」把年少功成與華髮未酬對照起來。第一個笑顯出英雄有把握，第二個笑顯出詞人對自身處境的感慨，讓懷古成為抒發抱負的途徑。"
+        },
+        "resolvedBlock": [
+          "text",
+          "兩個「笑」把年少功成與華髮未酬對照起來。第一個笑顯出英雄有把握，第二個笑顯出詞人對自身處境的感慨，讓懷古成為抒發抱負的途徑。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-06-03-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 219,
+          "printedPage": 215,
+          "blockPath": "$[13].pages[6].blocks[3]",
+          "anchor": "補充理解：「應笑我」也可讀成想像周瑜笑自己多情；這仍是詞人的想像，並非古人實際說話。兩種讀法都把情感焦點轉回蘇軾。",
+          "excerpt": "補充理解：「應笑我」也可讀成想像周瑜笑自己多情；這仍是詞人的想像，並非古人實際說話。兩種讀法都把情感焦點轉回蘇軾。"
+        },
+        "resolvedBlock": [
+          "text",
+          "補充理解：「應笑我」也可讀成想像周瑜笑自己多情；這仍是詞人的想像，並非古人實際說話。兩種讀法都把情感焦點轉回蘇軾。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-07-00-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 220,
+          "printedPage": 216,
+          "blockPath": "$[13].pages[7].blocks[0][1][1]",
+          "anchor": "託物起興、借景抒情 「大江東去」以眼前江流引時間流逝；「浪淘盡、千古風流人物」由景生人生短暫之感。",
+          "excerpt": "「大江東去」以眼前江流引時間流逝；「浪淘盡、千古風流人物」由景生人生短暫之感。"
+        },
+        "resolvedBlock": [
+          "託物起興、借景抒情",
+          "「大江東去」以眼前江流引時間流逝；「浪淘盡、千古風流人物」由景生人生短暫之感。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-07-00-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 220,
+          "printedPage": 216,
+          "blockPath": "$[13].pages[7].blocks[0][1][2]",
+          "anchor": "借事抒情、以古襯今 周瑜大破曹軍、愛情事業兩得意，對照蘇軾屢遭貶謫、年老未酬，抒懷才不遇。",
+          "excerpt": "周瑜大破曹軍、愛情事業兩得意，對照蘇軾屢遭貶謫、年老未酬，抒懷才不遇。"
+        },
+        "resolvedBlock": [
+          "借事抒情、以古襯今",
+          "周瑜大破曹軍、愛情事業兩得意，對照蘇軾屢遭貶謫、年老未酬，抒懷才不遇。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-07-00-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 220,
+          "printedPage": 216,
+          "blockPath": "$[13].pages[7].blocks[0][1][3]",
+          "anchor": "直接抒情、自嘲 「多情應笑我，早生華髮」「人間如夢」直接流露自傷與人生省思。",
+          "excerpt": "「多情應笑我，早生華髮」「人間如夢」直接流露自傷與人生省思。"
+        },
+        "resolvedBlock": [
+          "直接抒情、自嘲",
+          "「多情應笑我，早生華髮」「人間如夢」直接流露自傷與人生省思。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-07-00-04": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 220,
+          "printedPage": 216,
+          "blockPath": "$[13].pages[7].blocks[0][1][4]",
+          "anchor": "對比 江水奔流不息而英雄消逝；江水明月長存而人生如夢；周瑜青春功成而蘇軾華髮未酬。比較對象及作用各不相同。",
+          "excerpt": "江水奔流不息而英雄消逝；江水明月長存而人生如夢；周瑜青春功成而蘇軾華髮未酬。比較對象及作用各不相同。"
+        },
+        "resolvedBlock": [
+          "對比",
+          "江水奔流不息而英雄消逝；江水明月長存而人生如夢；周瑜青春功成而蘇軾華髮未酬。比較對象及作用各不相同。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-07-00-05": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 220,
+          "printedPage": 216,
+          "blockPath": "$[13].pages[7].blocks[0][1][5]",
+          "anchor": "明喻 「江山如畫」以圖畫比江山，美景形象化；「人間如夢」以夢比人生，寫短促虛幻。",
+          "excerpt": "「江山如畫」以圖畫比江山，美景形象化；「人間如夢」以夢比人生，寫短促虛幻。"
+        },
+        "resolvedBlock": [
+          "明喻",
+          "「江山如畫」以圖畫比江山，美景形象化；「人間如夢」以夢比人生，寫短促虛幻。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-07-00-06": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 220,
+          "printedPage": 216,
+          "blockPath": "$[13].pages[7].blocks[0][1][6]",
+          "anchor": "借喻 「大江」「浪」可比歷史、時間及其力量；「雪」借喻白色浪花，寫浪花四濺如雪堆的形態。",
+          "excerpt": "「大江」「浪」可比歷史、時間及其力量；「雪」借喻白色浪花，寫浪花四濺如雪堆的形態。"
+        },
+        "resolvedBlock": [
+          "借喻",
+          "「大江」「浪」可比歷史、時間及其力量；「雪」借喻白色浪花，寫浪花四濺如雪堆的形態。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-07-00-07": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 220,
+          "printedPage": 216,
+          "blockPath": "$[13].pages[7].blocks[0][1][7]",
+          "anchor": "借代 「檣櫓」以船具代戰船，簡潔呈曹軍覆滅。",
+          "excerpt": "「檣櫓」以船具代戰船，簡潔呈曹軍覆滅。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "念奴嬌・赤壁懷古",
+              "section": "下片｜原文與語譯",
+              "pdfPage": 215,
+              "printedPage": 211,
+              "blockPath": "$[13].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+              "excerpt": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+              "essayId": "essay-14"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "借代",
+          "「檣櫓」以船具代戰船，簡潔呈曹軍覆滅。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "念奴嬌・赤壁懷古",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 215,
+          "printedPage": 211,
+          "blockPath": "$[13].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "excerpt": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "essayId": "essay-14"
+        },
+        "resolvedBlock": [
+          "annot",
+          "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          [
+            [
+              "公瑾",
+              "周瑜的字",
+              "blue"
+            ],
+            [
+              "雄姿英發",
+              "雄姿英偉、才華煥發",
+              "blue"
+            ],
+            [
+              "羽扇綸巾",
+              "儒將的扇與頭巾",
+              "blue"
+            ],
+            [
+              "檣櫓",
+              "船具，借代曹軍戰船",
+              "blue"
+            ],
+            [
+              "故國",
+              "赤壁故地、三國古戰場",
+              "blue"
+            ],
+            [
+              "神遊",
+              "在想像中遊歷",
+              "blue"
+            ],
+            [
+              "華髮",
+              "花白頭髮",
+              "blue"
+            ],
+            [
+              "尊",
+              "酒器，亦指一杯酒",
+              "blue"
+            ],
+            [
+              "酹",
+              "灑酒祭奠",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "公瑾",
+              "meaning": "周瑜的字",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雄姿英發",
+              "meaning": "雄姿英偉、才華煥發",
+              "spans": [
+                [
+                  13,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "羽扇綸巾",
+              "meaning": "儒將的扇與頭巾",
+              "spans": [
+                [
+                  18,
+                  22
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "檣櫓",
+              "meaning": "船具，借代曹軍戰船",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "故國",
+              "meaning": "赤壁故地、三國古戰場",
+              "spans": [
+                [
+                  34,
+                  36
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "神遊",
+              "meaning": "在想像中遊歷",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "華髮",
+              "meaning": "花白頭髮",
+              "spans": [
+                [
+                  47,
+                  49
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "尊",
+              "meaning": "酒器，亦指一杯酒",
+              "spans": [
+                [
+                  56,
+                  57
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "酹",
+              "meaning": "灑酒祭奠",
+              "spans": [
+                [
+                  58,
+                  59
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-07-00-08": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 220,
+          "printedPage": 216,
+          "blockPath": "$[13].pages[7].blocks[0][1][8]",
+          "anchor": "誇張 「亂石穿空」誇飾石壁高峻，突出高、尖、陡；「千堆」誇大浪花數量聲勢；「談笑間、檣櫓灰飛煙滅」誇飾敗軍覆滅之速及周瑜才能。",
+          "excerpt": "「亂石穿空」誇飾石壁高峻，突出高、尖、陡；「千堆」誇大浪花數量聲勢；「談笑間、檣櫓灰飛煙滅」誇飾敗軍覆滅之速及周瑜才能。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+              "version": "2026-09-14",
+              "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "pdfPage": 213,
+              "printedPage": 209,
+              "blockPath": "$[13].pages[1].blocks[0]",
+              "anchor": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+              "excerpt": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+              "essayId": "essay-14",
+              "essayTitle": "念奴嬌・赤壁懷古"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "誇張",
+          "「亂石穿空」誇飾石壁高峻，突出高、尖、陡；「千堆」誇大浪花數量聲勢；「談笑間、檣櫓灰飛煙滅」誇飾敗軍覆滅之速及周瑜才能。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 213,
+          "printedPage": 209,
+          "blockPath": "$[13].pages[1].blocks[0]",
+          "anchor": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+          "excerpt": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+          "essayId": "essay-14",
+          "essayTitle": "念奴嬌・赤壁懷古"
+        },
+        "resolvedBlock": [
+          "annot",
+          "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+          [
+            [
+              "大江",
+              "長江",
+              "blue"
+            ],
+            [
+              "淘盡",
+              "淘洗淨盡",
+              "blue"
+            ],
+            [
+              "千古",
+              "久遠年代",
+              "blue"
+            ],
+            [
+              "風流人物",
+              "有功業的傑出英雄",
+              "blue"
+            ],
+            [
+              "故壘",
+              "舊營壘",
+              "blue"
+            ],
+            [
+              "人道是",
+              "人們說是",
+              "blue"
+            ],
+            [
+              "周郎",
+              "周瑜",
+              "blue"
+            ],
+            [
+              "亂石",
+              "陡峭不平的石壁",
+              "blue"
+            ],
+            [
+              "穿空",
+              "高插天空",
+              "blue"
+            ],
+            [
+              "驚濤",
+              "洶湧波浪",
+              "blue"
+            ],
+            [
+              "雪",
+              "喻白色浪花",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "大江",
+              "meaning": "長江",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "淘盡",
+              "meaning": "淘洗淨盡",
+              "spans": [
+                [
+                  6,
+                  8
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "千古",
+              "meaning": "久遠年代",
+              "spans": [
+                [
+                  9,
+                  11
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "風流人物",
+              "meaning": "有功業的傑出英雄",
+              "spans": [
+                [
+                  11,
+                  15
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "故壘",
+              "meaning": "舊營壘",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "人道是",
+              "meaning": "人們說是",
+              "spans": [
+                [
+                  21,
+                  24
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "周郎",
+              "meaning": "周瑜",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "亂石",
+              "meaning": "陡峭不平的石壁",
+              "spans": [
+                [
+                  32,
+                  34
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "穿空",
+              "meaning": "高插天空",
+              "spans": [
+                [
+                  34,
+                  36
+                ]
+              ]
+            },
+            {
+              "number": 10,
+              "word": "驚濤",
+              "meaning": "洶湧波浪",
+              "spans": [
+                [
+                  37,
+                  39
+                ]
+              ]
+            },
+            {
+              "number": 11,
+              "word": "雪",
+              "meaning": "喻白色浪花",
+              "spans": [
+                [
+                  46,
+                  47
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-07-00-09": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 220,
+          "printedPage": 216,
+          "blockPath": "$[13].pages[7].blocks[0][1][9]",
+          "anchor": "肖像、服飾、神態、側面烘托 雄姿、羽扇綸巾、談笑、小喬、曹軍敗況，分別見上節，不能用一個「人物描寫」刪掉具體例子。",
+          "excerpt": "雄姿、羽扇綸巾、談笑、小喬、曹軍敗況，分別見上節，不能用一個「人物描寫」刪掉具體例子。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "念奴嬌・赤壁懷古",
+              "section": "下片｜原文與語譯",
+              "pdfPage": 215,
+              "printedPage": 211,
+              "blockPath": "$[13].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+              "excerpt": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+              "essayId": "essay-14"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "肖像、服飾、神態、側面烘托",
+          "雄姿、羽扇綸巾、談笑、小喬、曹軍敗況，分別見上節，不能用一個「人物描寫」刪掉具體例子。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "念奴嬌・赤壁懷古",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 215,
+          "printedPage": 211,
+          "blockPath": "$[13].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "excerpt": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "essayId": "essay-14"
+        },
+        "resolvedBlock": [
+          "annot",
+          "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          [
+            [
+              "公瑾",
+              "周瑜的字",
+              "blue"
+            ],
+            [
+              "雄姿英發",
+              "雄姿英偉、才華煥發",
+              "blue"
+            ],
+            [
+              "羽扇綸巾",
+              "儒將的扇與頭巾",
+              "blue"
+            ],
+            [
+              "檣櫓",
+              "船具，借代曹軍戰船",
+              "blue"
+            ],
+            [
+              "故國",
+              "赤壁故地、三國古戰場",
+              "blue"
+            ],
+            [
+              "神遊",
+              "在想像中遊歷",
+              "blue"
+            ],
+            [
+              "華髮",
+              "花白頭髮",
+              "blue"
+            ],
+            [
+              "尊",
+              "酒器，亦指一杯酒",
+              "blue"
+            ],
+            [
+              "酹",
+              "灑酒祭奠",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "公瑾",
+              "meaning": "周瑜的字",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雄姿英發",
+              "meaning": "雄姿英偉、才華煥發",
+              "spans": [
+                [
+                  13,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "羽扇綸巾",
+              "meaning": "儒將的扇與頭巾",
+              "spans": [
+                [
+                  18,
+                  22
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "檣櫓",
+              "meaning": "船具，借代曹軍戰船",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "故國",
+              "meaning": "赤壁故地、三國古戰場",
+              "spans": [
+                [
+                  34,
+                  36
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "神遊",
+              "meaning": "在想像中遊歷",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "華髮",
+              "meaning": "花白頭髮",
+              "spans": [
+                [
+                  47,
+                  49
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "尊",
+              "meaning": "酒器，亦指一杯酒",
+              "spans": [
+                [
+                  56,
+                  57
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "酹",
+              "meaning": "灑酒祭奠",
+              "spans": [
+                [
+                  58,
+                  59
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-07-00-10": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 220,
+          "printedPage": 216,
+          "blockPath": "$[13].pages[7].blocks[0][1][10]",
+          "anchor": "過渡 「江山如畫，一時多少豪傑」承上寫景、啟下懷古；「故國神遊」由古返今，轉入自抒身世。",
+          "excerpt": "「江山如畫，一時多少豪傑」承上寫景、啟下懷古；「故國神遊」由古返今，轉入自抒身世。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+              "version": "2026-09-14",
+              "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "pdfPage": 213,
+              "printedPage": 209,
+              "blockPath": "$[13].pages[2].blocks[0]",
+              "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+              "excerpt": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+              "essayId": "essay-14",
+              "essayTitle": "念奴嬌・赤壁懷古"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "過渡",
+          "「江山如畫，一時多少豪傑」承上寫景、啟下懷古；「故國神遊」由古返今，轉入自抒身世。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 213,
+          "printedPage": 209,
+          "blockPath": "$[13].pages[2].blocks[0]",
+          "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "excerpt": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "essayId": "essay-14",
+          "essayTitle": "念奴嬌・赤壁懷古"
+        },
+        "resolvedBlock": [
+          "annot",
+          "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          [
+            [
+              "公瑾",
+              "周瑜的字",
+              "blue"
+            ],
+            [
+              "雄姿英發",
+              "雄姿英偉、才華煥發",
+              "blue"
+            ],
+            [
+              "羽扇綸巾",
+              "儒將的扇與頭巾",
+              "blue"
+            ],
+            [
+              "檣櫓",
+              "船具，借代曹軍戰船",
+              "blue"
+            ],
+            [
+              "故國",
+              "赤壁故地、三國古戰場",
+              "blue"
+            ],
+            [
+              "神遊",
+              "在想像中遊歷",
+              "blue"
+            ],
+            [
+              "華髮",
+              "花白頭髮",
+              "blue"
+            ],
+            [
+              "尊",
+              "酒器，亦指一杯酒",
+              "blue"
+            ],
+            [
+              "酹",
+              "灑酒祭奠",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "公瑾",
+              "meaning": "周瑜的字",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雄姿英發",
+              "meaning": "雄姿英偉、才華煥發",
+              "spans": [
+                [
+                  13,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "羽扇綸巾",
+              "meaning": "儒將的扇與頭巾",
+              "spans": [
+                [
+                  18,
+                  22
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "檣櫓",
+              "meaning": "船具，借代曹軍戰船",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "故國",
+              "meaning": "赤壁故地、三國古戰場",
+              "spans": [
+                [
+                  34,
+                  36
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "神遊",
+              "meaning": "在想像中遊歷",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "華髮",
+              "meaning": "花白頭髮",
+              "spans": [
+                [
+                  47,
+                  49
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "尊",
+              "meaning": "酒器，亦指一杯酒",
+              "spans": [
+                [
+                  56,
+                  57
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "酹",
+              "meaning": "灑酒祭奠",
+              "spans": [
+                [
+                  58,
+                  59
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-07-00-11": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 220,
+          "printedPage": 216,
+          "blockPath": "$[13].pages[7].blocks[0][1][11]",
+          "anchor": "豪邁雄奇的語言 大江、亂石、驚濤等壯闊景象，配「淘盡、穿、拍、捲」等有力動詞，把江山與歷史相連，讚英雄、抒抱負並感生命短促。風格與具體景象、情感相配，不只背「豪放」。",
+          "excerpt": "大江、亂石、驚濤等壯闊景象，配「淘盡、穿、拍、捲」等有力動詞，把江山與歷史相連，讚英雄、抒抱負並感生命短促。風格與具體景象、情感相配，不只背「豪放」。"
+        },
+        "resolvedBlock": [
+          "豪邁雄奇的語言",
+          "大江、亂石、驚濤等壯闊景象，配「淘盡、穿、拍、捲」等有力動詞，把江山與歷史相連，讚英雄、抒抱負並感生命短促。風格與具體景象、情感相配，不只背「豪放」。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-08-00-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 221,
+          "printedPage": 217,
+          "blockPath": "$[13].pages[8].blocks[0][1][1]",
+          "anchor": "「大江東去，浪淘盡、千古風流人物」 東流不返的江水使人想到時間不停流逝；連英雄也會被歷史淘洗。 由雄闊江山感到個體生命短暫、功業難以長存。",
+          "excerpt": "東流不返的江水使人想到時間不停流逝；連英雄也會被歷史淘洗。；由雄闊江山感到個體生命短暫、功業難以長存。"
+        },
+        "resolvedBlock": [
+          "「大江東去，浪淘盡、千古風流人物」",
+          "東流不返的江水使人想到時間不停流逝；連英雄也會被歷史淘洗。",
+          "由雄闊江山感到個體生命短暫、功業難以長存。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-08-00-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 221,
+          "printedPage": 217,
+          "blockPath": "$[13].pages[8].blocks[0][1][2]",
+          "anchor": "「早生華髮」「人間如夢」 歷史人物的消逝連回自己年華漸老、抱負未酬的處境。 傷感不只在白髮，更在看見人生與功名如夢般短促。",
+          "excerpt": "歷史人物的消逝連回自己年華漸老、抱負未酬的處境。；傷感不只在白髮，更在看見人生與功名如夢般短促。"
+        },
+        "resolvedBlock": [
+          "「早生華髮」「人間如夢」",
+          "歷史人物的消逝連回自己年華漸老、抱負未酬的處境。",
+          "傷感不只在白髮，更在看見人生與功名如夢般短促。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-08-00-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 221,
+          "printedPage": 217,
+          "blockPath": "$[13].pages[8].blocks[0][1][3]",
+          "anchor": "「一尊還酹江月」 把酒灑向江月，將目光由個人得失轉向可寄情的自然。 試着放下過分執着，在江月之美中自我開解，轉向曠達。",
+          "excerpt": "把酒灑向江月，將目光由個人得失轉向可寄情的自然。；試着放下過分執着，在江月之美中自我開解，轉向曠達。"
+        },
+        "resolvedBlock": [
+          "「一尊還酹江月」",
+          "把酒灑向江月，將目光由個人得失轉向可寄情的自然。",
+          "試着放下過分執着，在江月之美中自我開解，轉向曠達。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-08-01-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 221,
+          "printedPage": 217,
+          "blockPath": "$[13].pages[8].blocks[1]",
+          "anchor": "全詞的連接是：江水引出流逝之感，周瑜使人想到功業，華髮把比較落回自己，如夢的省思再引向酹月寄懷。結尾的開解承接前面的傷感，並不是突然換成歡樂。",
+          "excerpt": "全詞的連接是：江水引出流逝之感，周瑜使人想到功業，華髮把比較落回自己，如夢的省思再引向酹月寄懷。結尾的開解承接前面的傷感，並不是突然換成歡樂。"
+        },
+        "resolvedBlock": [
+          "text",
+          "全詞的連接是：江水引出流逝之感，周瑜使人想到功業，華髮把比較落回自己，如夢的省思再引向酹月寄懷。結尾的開解承接前面的傷感，並不是突然換成歡樂。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-08-03-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 221,
+          "printedPage": 217,
+          "blockPath": "$[13].pages[8].blocks[3]",
+          "anchor": "月色長在，可使人想到自然比個人生命悠久；月有圓缺又不斷循環，可使人想到得失變化是常態。這些聯想的作用，是幫助人減輕對一時成敗的執着。分析時先說月的特點，再說如何紓解人生短促之感。",
+          "excerpt": "月色長在，可使人想到自然比個人生命悠久；月有圓缺又不斷循環，可使人想到得失變化是常態。這些聯想的作用，是幫助人減輕對一時成敗的執着。分析時先說月的特點，再說如何紓解人生短促之感。"
+        },
+        "resolvedBlock": [
+          "text",
+          "月色長在，可使人想到自然比個人生命悠久；月有圓缺又不斷循環，可使人想到得失變化是常態。這些聯想的作用，是幫助人減輕對一時成敗的執着。分析時先說月的特點，再說如何紓解人生短促之感。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-09-00-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 221,
+          "printedPage": 217,
+          "blockPath": "$[13].pages[9].blocks[0]",
+          "anchor": "與《登樓》：均借歷史人物抒抱負；杜甫借後主諷今、借未遇諸葛自況，蘇軾以周瑜年少功成反襯自己失意華髮。兩者所借人物、對照重點及收束情緒各異。",
+          "excerpt": "與《登樓》：均借歷史人物抒抱負；杜甫借後主諷今、借未遇諸葛自況，蘇軾以周瑜年少功成反襯自己失意華髮。兩者所借人物、對照重點及收束情緒各異。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "登樓",
+              "section": "原文第2組｜原文與語譯",
+              "pdfPage": 206,
+              "printedPage": 202,
+              "blockPath": "$[12].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+              "excerpt": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+              "essayId": "essay-13"
+            },
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "念奴嬌・赤壁懷古",
+              "section": "下片｜原文與語譯",
+              "pdfPage": 215,
+              "printedPage": 211,
+              "blockPath": "$[13].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+              "excerpt": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+              "essayId": "essay-14"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "text",
+          "<b>與《登樓》</b>：均借歷史人物抒抱負；杜甫借後主諷今、借未遇諸葛自況，蘇軾以周瑜年少功成反襯自己失意華髮。兩者所借人物、對照重點及收束情緒各異。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "登樓",
+          "section": "原文第2組｜原文與語譯",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "blockPath": "$[12].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          "excerpt": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          "essayId": "essay-13"
+        },
+        "resolvedBlock": [
+          "annot",
+          "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+          [
+            [
+              "北極",
+              "北極星，喻朝廷",
+              "blue"
+            ],
+            [
+              "終",
+              "終究、始終",
+              "blue"
+            ],
+            [
+              "寇盜",
+              "指吐蕃侵略者",
+              "blue"
+            ],
+            [
+              "莫",
+              "不要",
+              "blue"
+            ],
+            [
+              "可憐",
+              "可嘆",
+              "blue"
+            ],
+            [
+              "後主",
+              "蜀漢後主劉禪",
+              "blue"
+            ],
+            [
+              "還",
+              "仍然、竟然還",
+              "blue"
+            ],
+            [
+              "日暮",
+              "傍晚",
+              "blue"
+            ],
+            [
+              "聊",
+              "姑且",
+              "blue"
+            ],
+            [
+              "梁甫吟",
+              "樂府篇名，聯繫諸葛亮",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "北極",
+              "meaning": "北極星，喻朝廷",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "終",
+              "meaning": "終究、始終",
+              "spans": [
+                [
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "寇盜",
+              "meaning": "指吐蕃侵略者",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "莫",
+              "meaning": "不要",
+              "spans": [
+                [
+                  12,
+                  13
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "可憐",
+              "meaning": "可嘆",
+              "spans": [
+                [
+                  16,
+                  18
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "後主",
+              "meaning": "蜀漢後主劉禪",
+              "spans": [
+                [
+                  18,
+                  20
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "還",
+              "meaning": "仍然、竟然還",
+              "spans": [
+                [
+                  20,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "日暮",
+              "meaning": "傍晚",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "聊",
+              "meaning": "姑且",
+              "spans": [
+                [
+                  26,
+                  27
+                ]
+              ]
+            },
+            {
+              "number": 10,
+              "word": "梁甫吟",
+              "meaning": "樂府篇名，聯繫諸葛亮",
+              "spans": [
+                [
+                  28,
+                  31
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "念奴嬌・赤壁懷古",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 215,
+          "printedPage": 211,
+          "blockPath": "$[13].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "excerpt": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "essayId": "essay-14"
+        },
+        "resolvedBlock": [
+          "annot",
+          "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          [
+            [
+              "公瑾",
+              "周瑜的字",
+              "blue"
+            ],
+            [
+              "雄姿英發",
+              "雄姿英偉、才華煥發",
+              "blue"
+            ],
+            [
+              "羽扇綸巾",
+              "儒將的扇與頭巾",
+              "blue"
+            ],
+            [
+              "檣櫓",
+              "船具，借代曹軍戰船",
+              "blue"
+            ],
+            [
+              "故國",
+              "赤壁故地、三國古戰場",
+              "blue"
+            ],
+            [
+              "神遊",
+              "在想像中遊歷",
+              "blue"
+            ],
+            [
+              "華髮",
+              "花白頭髮",
+              "blue"
+            ],
+            [
+              "尊",
+              "酒器，亦指一杯酒",
+              "blue"
+            ],
+            [
+              "酹",
+              "灑酒祭奠",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "公瑾",
+              "meaning": "周瑜的字",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雄姿英發",
+              "meaning": "雄姿英偉、才華煥發",
+              "spans": [
+                [
+                  13,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "羽扇綸巾",
+              "meaning": "儒將的扇與頭巾",
+              "spans": [
+                [
+                  18,
+                  22
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "檣櫓",
+              "meaning": "船具，借代曹軍戰船",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "故國",
+              "meaning": "赤壁故地、三國古戰場",
+              "spans": [
+                [
+                  34,
+                  36
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "神遊",
+              "meaning": "在想像中遊歷",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "華髮",
+              "meaning": "花白頭髮",
+              "spans": [
+                [
+                  47,
+                  49
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "尊",
+              "meaning": "酒器，亦指一杯酒",
+              "spans": [
+                [
+                  56,
+                  57
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "酹",
+              "meaning": "灑酒祭奠",
+              "spans": [
+                [
+                  58,
+                  59
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-11-00-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 221,
+          "printedPage": 217,
+          "blockPath": "$[13].pages[11].blocks[0]",
+          "anchor": "原文沿用「人間」「檣櫓」，另本作「人生」「強虜」；詞義和修辭須跟所引版本一致。「多情應笑我」有詞人自笑、想像周瑜笑己等解讀；不可把後者說成周瑜真實說話。",
+          "excerpt": "原文沿用「人間」「檣櫓」，另本作「人生」「強虜」；詞義和修辭須跟所引版本一致。「多情應笑我」有詞人自笑、想像周瑜笑己等解讀；不可把後者說成周瑜真實說話。"
+        },
+        "resolvedBlock": [
+          "text",
+          "原文沿用「人間」「檣櫓」，另本作「人生」「強虜」；詞義和修辭須跟所引版本一致。「多情應笑我」有詞人自笑、想像周瑜笑己等解讀；不可把後者說成周瑜真實說話。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-12-00-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 222,
+          "printedPage": 218,
+          "blockPath": "$[13].pages[12].blocks[0]",
+          "anchor": "江山、周瑜與自身不是三個孤立題目，而是從歷史感走向人生省思的連續過程。",
+          "excerpt": "江山、周瑜與自身不是三個孤立題目，而是從歷史感走向人生省思的連續過程。"
+        },
+        "resolvedBlock": [
+          "band",
+          "江山、周瑜與自身不是三個孤立題目，而是從歷史感走向人生省思的連續過程。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-12-01-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 222,
+          "printedPage": 218,
+          "blockPath": "$[13].pages[12].blocks[1][1][1]",
+          "anchor": "景引懷古 東去、淘盡引流逝；穿、拍、捲塑雄奇江山；多少豪傑把景轉向人。",
+          "excerpt": "東去、淘盡引流逝；穿、拍、捲塑雄奇江山；多少豪傑把景轉向人。"
+        },
+        "resolvedBlock": [
+          "景引懷古",
+          "東去、淘盡引流逝；穿、拍、捲塑雄奇江山；多少豪傑把景轉向人。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-12-01-02": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 222,
+          "printedPage": 218,
+          "blockPath": "$[13].pages[12].blocks[1][1][2]",
+          "anchor": "古人照今人 周瑜談笑功成，對照詞人笑己華髮；仰慕使失意更深。",
+          "excerpt": "周瑜談笑功成，對照詞人笑己華髮；仰慕使失意更深。"
+        },
+        "resolvedBlock": [
+          "古人照今人",
+          "周瑜談笑功成，對照詞人笑己華髮；仰慕使失意更深。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-12-01-03": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 222,
+          "printedPage": 218,
+          "blockPath": "$[13].pages[12].blocks[1][1][3]",
+          "anchor": "感慨到開解 人生如夢把失意放入更廣的時間觀；酹月寄懷，再由自然尋求安頓。",
+          "excerpt": "人生如夢把失意放入更廣的時間觀；酹月寄懷，再由自然尋求安頓。"
+        },
+        "resolvedBlock": [
+          "感慨到開解",
+          "人生如夢把失意放入更廣的時間觀；酹月寄懷，再由自然尋求安頓。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-12-01-04": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 222,
+          "printedPage": 218,
+          "blockPath": "$[13].pages[12].blocks[1][1][4]",
+          "anchor": "兩個笑相接 周瑜的談笑是功業中的從容，詞人的笑我是比較後的自傷；英雄愈得意，今人的落差愈鮮明。",
+          "excerpt": "周瑜的談笑是功業中的從容，詞人的笑我是比較後的自傷；英雄愈得意，今人的落差愈鮮明。"
+        },
+        "resolvedBlock": [
+          "兩個笑相接",
+          "周瑜的談笑是功業中的從容，詞人的笑我是比較後的自傷；英雄愈得意，今人的落差愈鮮明。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-14-12-01-05": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 222,
+          "printedPage": 218,
+          "blockPath": "$[13].pages[12].blocks[1][1][5]",
+          "anchor": "首尾自然相接 開首江水讓人感到時間無情，結尾江月讓人尋求安頓；自然既觸發感慨，也成為寄懷的對象。",
+          "excerpt": "開首江水讓人感到時間無情，結尾江月讓人尋求安頓；自然既觸發感慨，也成為寄懷的對象。"
+        },
+        "resolvedBlock": [
+          "首尾自然相接",
+          "開首江水讓人感到時間無情，結尾江月讓人尋求安頓；自然既觸發感慨，也成為寄懷的對象。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-09-03-01": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 240,
+          "printedPage": 236,
+          "blockPath": "$[15].pages[9].blocks[3][1][1]",
+          "anchor": "《念奴嬌》 蘇軾面對赤壁江山，追想三國周瑜的戰功；觀景者生活於北宋。 今人懷古，再以英雄反照自己的處境，從仰慕走向自傷、自解。",
+          "excerpt": "蘇軾面對赤壁江山，追想三國周瑜的戰功；觀景者生活於北宋。；今人懷古，再以英雄反照自己的處境，從仰慕走向自傷、自解。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "念奴嬌・赤壁懷古",
+              "section": "下片｜原文與語譯",
+              "pdfPage": 215,
+              "printedPage": 211,
+              "blockPath": "$[13].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+              "excerpt": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+              "essayId": "essay-14"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "《念奴嬌》",
+          "蘇軾面對赤壁江山，追想三國周瑜的戰功；觀景者生活於北宋。",
+          "今人懷古，再以英雄反照自己的處境，從仰慕走向自傷、自解。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "念奴嬌・赤壁懷古",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 215,
+          "printedPage": 211,
+          "blockPath": "$[13].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "excerpt": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "essayId": "essay-14"
+        },
+        "resolvedBlock": [
+          "annot",
+          "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          [
+            [
+              "公瑾",
+              "周瑜的字",
+              "blue"
+            ],
+            [
+              "雄姿英發",
+              "雄姿英偉、才華煥發",
+              "blue"
+            ],
+            [
+              "羽扇綸巾",
+              "儒將的扇與頭巾",
+              "blue"
+            ],
+            [
+              "檣櫓",
+              "船具，借代曹軍戰船",
+              "blue"
+            ],
+            [
+              "故國",
+              "赤壁故地、三國古戰場",
+              "blue"
+            ],
+            [
+              "神遊",
+              "在想像中遊歷",
+              "blue"
+            ],
+            [
+              "華髮",
+              "花白頭髮",
+              "blue"
+            ],
+            [
+              "尊",
+              "酒器，亦指一杯酒",
+              "blue"
+            ],
+            [
+              "酹",
+              "灑酒祭奠",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "公瑾",
+              "meaning": "周瑜的字",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雄姿英發",
+              "meaning": "雄姿英偉、才華煥發",
+              "spans": [
+                [
+                  13,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "羽扇綸巾",
+              "meaning": "儒將的扇與頭巾",
+              "spans": [
+                [
+                  18,
+                  22
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "檣櫓",
+              "meaning": "船具，借代曹軍戰船",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "故國",
+              "meaning": "赤壁故地、三國古戰場",
+              "spans": [
+                [
+                  34,
+                  36
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "神遊",
+              "meaning": "在想像中遊歷",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "華髮",
+              "meaning": "花白頭髮",
+              "spans": [
+                [
+                  47,
+                  49
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "尊",
+              "meaning": "酒器，亦指一杯酒",
+              "spans": [
+                [
+                  56,
+                  57
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "酹",
+              "meaning": "灑酒祭奠",
+              "spans": [
+                [
+                  58,
+                  59
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ],
+    "full-c-16-09-04-80": [
+      {
+        "source": {
+          "title": "文言詩詞_十六篇復習書_附修辭與寫作手法.pdf",
+          "version": "2026-09-14",
+          "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "pdfPage": 240,
+          "printedPage": 236,
+          "blockPath": "$[15].pages[9].blocks[4]",
+          "anchor": "共同點是把外在場景變成內心感受的依據；差異在於《念奴嬌》往返古今，《聲聲慢》由眼前觸發往事，《青玉案》沿尋人過程推進。",
+          "excerpt": "共同點是把外在場景變成內心感受的依據；差異在於《念奴嬌》往返古今，《聲聲慢》由眼前觸發往事，《青玉案》沿尋人過程推進。",
+          "relatedSources": [
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "念奴嬌・赤壁懷古",
+              "section": "下片｜原文與語譯",
+              "pdfPage": 215,
+              "printedPage": 211,
+              "blockPath": "$[13].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+              "excerpt": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+              "essayId": "essay-14"
+            },
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "聲聲慢・秋情",
+              "section": "上片｜原文與語譯",
+              "pdfPage": 225,
+              "printedPage": 221,
+              "blockPath": "$[14].pages[1].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+              "excerpt": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+              "essayId": "essay-15"
+            },
+            {
+              "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+              "essayTitle": "青玉案・元夕",
+              "section": "下片｜原文與語譯",
+              "pdfPage": 235,
+              "printedPage": 231,
+              "blockPath": "$[15].pages[2].blocks[0]",
+              "version": "2026-09-14",
+              "pdfUrl": "/content/sources/revision-book.pdf",
+              "anchor": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+              "excerpt": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+              "essayId": "essay-16"
+            }
+          ]
+        },
+        "resolvedBlock": [
+          "text",
+          "共同點是把外在場景變成內心感受的依據；差異在於《念奴嬌》往返古今，《聲聲慢》由眼前觸發往事，《青玉案》沿尋人過程推進。"
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "念奴嬌・赤壁懷古",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 215,
+          "printedPage": 211,
+          "blockPath": "$[13].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "excerpt": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          "essayId": "essay-14"
+        },
+        "resolvedBlock": [
+          "annot",
+          "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+          [
+            [
+              "公瑾",
+              "周瑜的字",
+              "blue"
+            ],
+            [
+              "雄姿英發",
+              "雄姿英偉、才華煥發",
+              "blue"
+            ],
+            [
+              "羽扇綸巾",
+              "儒將的扇與頭巾",
+              "blue"
+            ],
+            [
+              "檣櫓",
+              "船具，借代曹軍戰船",
+              "blue"
+            ],
+            [
+              "故國",
+              "赤壁故地、三國古戰場",
+              "blue"
+            ],
+            [
+              "神遊",
+              "在想像中遊歷",
+              "blue"
+            ],
+            [
+              "華髮",
+              "花白頭髮",
+              "blue"
+            ],
+            [
+              "尊",
+              "酒器，亦指一杯酒",
+              "blue"
+            ],
+            [
+              "酹",
+              "灑酒祭奠",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "公瑾",
+              "meaning": "周瑜的字",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雄姿英發",
+              "meaning": "雄姿英偉、才華煥發",
+              "spans": [
+                [
+                  13,
+                  17
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "羽扇綸巾",
+              "meaning": "儒將的扇與頭巾",
+              "spans": [
+                [
+                  18,
+                  22
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "檣櫓",
+              "meaning": "船具，借代曹軍戰船",
+              "spans": [
+                [
+                  27,
+                  29
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "故國",
+              "meaning": "赤壁故地、三國古戰場",
+              "spans": [
+                [
+                  34,
+                  36
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "神遊",
+              "meaning": "在想像中遊歷",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "華髮",
+              "meaning": "花白頭髮",
+              "spans": [
+                [
+                  47,
+                  49
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "尊",
+              "meaning": "酒器，亦指一杯酒",
+              "spans": [
+                [
+                  56,
+                  57
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "酹",
+              "meaning": "灑酒祭奠",
+              "spans": [
+                [
+                  58,
+                  59
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "聲聲慢・秋情",
+          "section": "上片｜原文與語譯",
+          "pdfPage": 225,
+          "printedPage": 221,
+          "blockPath": "$[14].pages[1].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+          "excerpt": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+          "essayId": "essay-15"
+        },
+        "resolvedBlock": [
+          "annot",
+          "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+          [
+            [
+              "尋尋覓覓",
+              "反覆尋找、若有所失",
+              "blue"
+            ],
+            [
+              "冷冷清清",
+              "環境寂靜冷落",
+              "blue"
+            ],
+            [
+              "悽悽慘慘戚戚",
+              "內心悽慘悲戚",
+              "blue"
+            ],
+            [
+              "乍煖還寒",
+              "剛暖又寒，冷暖不定",
+              "blue"
+            ],
+            [
+              "將息",
+              "調養休息",
+              "blue"
+            ],
+            [
+              "淡酒",
+              "無力禦寒解愁的酒",
+              "blue"
+            ],
+            [
+              "敵",
+              "抵擋",
+              "blue"
+            ],
+            [
+              "晚來",
+              "傍晚；另本作曉來",
+              "blue"
+            ],
+            [
+              "舊時相識",
+              "熟悉的大雁",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "尋尋覓覓",
+              "meaning": "反覆尋找、若有所失",
+              "spans": [
+                [
+                  0,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "冷冷清清",
+              "meaning": "環境寂靜冷落",
+              "spans": [
+                [
+                  5,
+                  9
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "悽悽慘慘戚戚",
+              "meaning": "內心悽慘悲戚",
+              "spans": [
+                [
+                  10,
+                  16
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "乍煖還寒",
+              "meaning": "剛暖又寒，冷暖不定",
+              "spans": [
+                [
+                  17,
+                  21
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "將息",
+              "meaning": "調養休息",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "淡酒",
+              "meaning": "無力禦寒解愁的酒",
+              "spans": [
+                [
+                  33,
+                  35
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "敵",
+              "meaning": "抵擋",
+              "spans": [
+                [
+                  37,
+                  38
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "晚來",
+              "meaning": "傍晚；另本作曉來",
+              "spans": [
+                [
+                  39,
+                  41
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "舊時相識",
+              "meaning": "熟悉的大雁",
+              "spans": [
+                [
+                  54,
+                  58
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      },
+      {
+        "source": {
+          "title": "文言詩詞・十六篇復習書（附修辭與寫作手法）",
+          "essayTitle": "青玉案・元夕",
+          "section": "下片｜原文與語譯",
+          "pdfPage": 235,
+          "printedPage": 231,
+          "blockPath": "$[15].pages[2].blocks[0]",
+          "version": "2026-09-14",
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "anchor": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          "excerpt": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          "essayId": "essay-16"
+        },
+        "resolvedBlock": [
+          "annot",
+          "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+          [
+            [
+              "蛾兒",
+              "蛾蝶形頭飾",
+              "blue"
+            ],
+            [
+              "雪柳",
+              "柳狀頭飾",
+              "blue"
+            ],
+            [
+              "黃金縷",
+              "金色頭飾",
+              "blue"
+            ],
+            [
+              "盈盈",
+              "儀態輕盈美好",
+              "blue"
+            ],
+            [
+              "暗香",
+              "幽香",
+              "blue"
+            ],
+            [
+              "千百度",
+              "千百次，極言多次",
+              "blue"
+            ],
+            [
+              "驀然",
+              "突然、忽然",
+              "blue"
+            ],
+            [
+              "迴首",
+              "回頭",
+              "blue"
+            ],
+            [
+              "闌珊",
+              "稀疏、暗淡",
+              "blue"
+            ]
+          ],
+          [
+            {
+              "number": 1,
+              "word": "蛾兒",
+              "meaning": "蛾蝶形頭飾",
+              "spans": [
+                [
+                  0,
+                  2
+                ]
+              ]
+            },
+            {
+              "number": 2,
+              "word": "雪柳",
+              "meaning": "柳狀頭飾",
+              "spans": [
+                [
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "number": 3,
+              "word": "黃金縷",
+              "meaning": "金色頭飾",
+              "spans": [
+                [
+                  4,
+                  7
+                ]
+              ]
+            },
+            {
+              "number": 4,
+              "word": "盈盈",
+              "meaning": "儀態輕盈美好",
+              "spans": [
+                [
+                  10,
+                  12
+                ]
+              ]
+            },
+            {
+              "number": 5,
+              "word": "暗香",
+              "meaning": "幽香",
+              "spans": [
+                [
+                  12,
+                  14
+                ]
+              ]
+            },
+            {
+              "number": 6,
+              "word": "千百度",
+              "meaning": "千百次，極言多次",
+              "spans": [
+                [
+                  20,
+                  23
+                ]
+              ]
+            },
+            {
+              "number": 7,
+              "word": "驀然",
+              "meaning": "突然、忽然",
+              "spans": [
+                [
+                  24,
+                  26
+                ]
+              ]
+            },
+            {
+              "number": 8,
+              "word": "迴首",
+              "meaning": "回頭",
+              "spans": [
+                [
+                  26,
+                  28
+                ]
+              ]
+            },
+            {
+              "number": 9,
+              "word": "闌珊",
+              "meaning": "稀疏、暗淡",
+              "spans": [
+                [
+                  36,
+                  38
+                ]
+              ]
+            }
+          ]
+        ],
+        "anchorInFreshPdf": true,
+        "sourceHashMatches": true,
+        "printedPageMatches": true
+      }
+    ]
+  },
+  "scope": "來源定位、原文錨點和版本核對；自動檢查不代替內容審題。"
+}

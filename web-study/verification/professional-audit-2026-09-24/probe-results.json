@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-24",
+  "scope": "Local isolated audit; no production requests",
+  "checks": {
+    "saveChain": {
+      "appendRequests": 2,
+      "actualRepositoryCalls": 1,
+      "recoveredAfterTransientFailure": false
+    },
+    "backupValidation": {
+      "malformedAttemptAccepted": true,
+      "projectionError": "Invalid time value"
+    },
+    "realAuditSync": {
+      "status": 200,
+      "responseBytes": 458068,
+      "eventCount": 13,
+      "attemptCount": 2,
+      "sessionEventCount": 8,
+      "sessionPayloadBytes": 448582,
+      "questionSnapshotCounts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        1,
+        1,
+        1
+      ],
+      "uniqueSessions": 2,
+      "serverSessionHeads": [
+        {
+          "kind": "daily",
+          "completed": false,
+          "revision": 5,
+          "questionCount": 20
+        },
+        {
+          "kind": "retry",
+          "completed": false,
+          "revision": 3,
+          "questionCount": 1
+        }
+      ]
+    },
+    "bank": {
+      "version": "2026.09.23.22",
+      "questions": 2134,
+      "active": 2133,
+      "bankFileBytes": 7853488,
+      "singleChoiceCount": 1943,
+      "questionSnapshotMedianBytes": 2702
+    }
+  },
+  "existingTests": {
+    "command": "node --test web-study/tests/*.test.mjs web-study/backend/*.test.mjs web-study/cloudflare/*.test.mjs",
+    "executedThisAudit": true,
+    "passed": 66,
+    "failed": 0
+  }
+}

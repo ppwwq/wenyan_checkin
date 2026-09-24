@@ -1,0 +1,4071 @@
+{
+  "baselineVersion": "2026.09.23.12",
+  "date": "2026-09-23",
+  "author": "Codex chapter author",
+  "reviewMethod": "source-review-and-author-self-check",
+  "records": [
+    {
+      "id": "q-e07-exp-001",
+      "ordinal": 1,
+      "baseQuestionHash": "ced779701e826cee51944fe71839c920241eda4069bf8c9eb9966ae0d3a8b159",
+      "patch": {
+        "explanation": "學者在這裏是求學的人，學表示求學，者把這類人提出。必有師說他們需要老師，接着從人人有疑惑解釋原因；詞義不以已成名、有研究成就為前提，也不是正在教人的教師。",
+        "summary": "學者在這裏是求學的人，學表示求學，者把這類人提出。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "求學的人",
+            "explanation": "學者在這裏是求學的人，學表示求學，者把這類人提出。"
+          },
+          {
+            "id": "b",
+            "text": "研究有成的名家",
+            "explanation": "研究名家是現代常用義，會把一般求學者不當地排除。"
+          },
+          {
+            "id": "c",
+            "text": "教導學生的人",
+            "explanation": "教導學生的是師，不能與需要從師的學者互換。"
+          },
+          {
+            "id": "d",
+            "text": "管理學校的人",
+            "explanation": "管理學校是行政職責，學者沒有這個職位限定。"
+          }
+        ],
+        "misconception": "研究名家是現代常用義，會把一般求學者不當地排除；教導學生的是師，不能與需要從師的學者互換；管理學校是行政職責，學者沒有這個職位限定。"
+      },
+      "objective": "文句中「學者」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e07-exp-002",
+      "ordinal": 2,
+      "baseQuestionHash": "145d00e70bc6febcb1081f35a1a1ae711d0ec8478b59bbcfdc86fe26f8c31ff3",
+      "patch": {
+        "explanation": "受通授，是老師把課業傳授給學生，須先看清全句主語師者。傳道、授業、解惑並列三項教師職責，傳授方向都由老師協助學生，不能只認出通假字便把師生角色倒置。",
+        "summary": "受通授，是老師把課業傳授給學生，須先看清全句主語師者。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "按「受」的本義，指老師接受別人教授的學業",
+            "explanation": "雖按字面可想到接受，但本文受通授且說教師職責，非老師領受課業。"
+          },
+          {
+            "id": "b",
+            "text": "「受」通「授」，指學生向老師領受學業",
+            "explanation": "認出通授仍把方向寫成學生領受，與主語老師不相配。"
+          },
+          {
+            "id": "c",
+            "text": "「受」通「授」，指老師授予學生官職",
+            "explanation": "業指經書課業等學問，不是教師可授予的官職。"
+          },
+          {
+            "id": "d",
+            "text": "「受」通「授」，指老師把學業教給學生",
+            "explanation": "受通授，是老師把課業傳授給學生，須先看清全句主語師者。"
+          }
+        ],
+        "misconception": "雖按字面可想到接受，但本文受通授且說教師職責，非老師領受課業；認出通授仍把方向寫成學生領受，與主語老師不相配；業指經書課業等學問，不是教師可授予的官職。"
+      },
+      "objective": "句中以「師者」為主語，「受」應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e07-exp-003",
+      "ordinal": 3,
+      "baseQuestionHash": "15c5cfba4ae6515d7c98d4733ebe026424add95e4c8e61f772ef33bb67bdc8f6",
+      "patch": {
+        "explanation": "小學指在較小的方面從師學習，這裏承接為孩子學句讀。與大遺對照，成人重視孩子的基本文句知識，卻放棄自己求道解惑；批評在輕重取捨，不是說小學校或年紀小。",
+        "summary": "小學指在較小的方面從師學習，這裏承接為孩子學句讀。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "兒童初等學校",
+            "explanation": "現代初等學校是學制名稱，本文小與大比較學習內容的輕重。"
+          },
+          {
+            "id": "b",
+            "text": "年紀小時求學",
+            "explanation": "不是早年與晚年的時間對照，而是句讀與求道兩方面的取捨。"
+          },
+          {
+            "id": "c",
+            "text": "小的方面學習",
+            "explanation": "小學指在較小的方面從師學習，這裏承接為孩子學句讀。"
+          },
+          {
+            "id": "d",
+            "text": "學到的知識很少",
+            "explanation": "知識數量少不等於內容層次較小，原文並未計算學了多少。"
+          }
+        ],
+        "misconception": "現代初等學校是學制名稱，本文小與大比較學習內容的輕重；不是早年與晚年的時間對照，而是句讀與求道兩方面的取捨；知識數量少不等於內容層次較小，原文並未計算學了多少。"
+      },
+      "objective": "文句中「小學」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e07-exp-004",
+      "ordinal": 4,
+      "baseQuestionHash": "25b9b2a0cae9e7301cf7949337c0e687ac3b16c043db55363dc30128ca0b165b",
+      "patch": {
+        "explanation": "不必是未必、不一定，弟子不必不如師就是學生未必比不上老師。後文以聞道先後、各有專長作解釋，打破全面固定高下，卻沒有斷言每個學生必定勝過老師。",
+        "summary": "不必是未必、不一定，弟子不必不如師就是學生未必比不上老師。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "不需要",
+            "explanation": "不需要是是否有必要，本句判斷的是高下是否必然。"
+          },
+          {
+            "id": "b",
+            "text": "不一定",
+            "explanation": "不必是未必、不一定，弟子不必不如師就是學生未必比不上老師。"
+          },
+          {
+            "id": "c",
+            "text": "不允許",
+            "explanation": "不允許是禁令，作者沒有禁止學生不如老師。"
+          },
+          {
+            "id": "d",
+            "text": "不可能",
+            "explanation": "不可能把未必加強成絕不可能，會錯推出學生一定不比老師差。"
+          }
+        ],
+        "misconception": "不需要是是否有必要，本句判斷的是高下是否必然；不允許是禁令，作者沒有禁止學生不如老師；不可能把未必加強成絕不可能，會錯推出學生一定不比老師差。"
+      },
+      "objective": "文句中「不必」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e07-exp-005",
+      "ordinal": 5,
+      "baseQuestionHash": "80c49e04b7c6995ff0ecfc38584ff57902225360148bc443e755ea0751141a57",
+      "patch": {
+        "explanation": "貽是贈送，作師說以貽之就是寫文章送給李蟠。以交代寫作目的，之指出受贈者；這份贈文承接對李蟠肯從師的嘉許，不是遺失、延誤或自己留存。",
+        "summary": "貽是贈送，作師說以貽之就是寫文章送給李蟠。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "贈送",
+            "explanation": "貽是贈送，作師說以貽之就是寫文章送給李蟠。"
+          },
+          {
+            "id": "b",
+            "text": "託付保存",
+            "explanation": "貽之表示把成文送給李蟠，未要求他代作者保管。"
+          },
+          {
+            "id": "c",
+            "text": "傳給後世",
+            "explanation": "之明確代當下受贈的李蟠，不能泛改成後世。"
+          },
+          {
+            "id": "d",
+            "text": "留作自用",
+            "explanation": "有受贈者，方向是交予他而非作者留用。"
+          }
+        ],
+        "misconception": "貽之表示把成文送給李蟠，未要求他代作者保管；之明確代當下受贈的李蟠，不能泛改成後世；有受贈者，方向是交予他而非作者留用。"
+      },
+      "objective": "文句中「貽」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "q-e07-exp-006",
+      "ordinal": 6,
+      "baseQuestionHash": "416aa758d6dec9f50918217990fbb49410350aff59917d0f3a84dfa88b7ff9e9",
+      "patch": {
+        "explanation": "無常師是不把求學固定在唯一一位老師身上，孔子向數人請教正是實例。各人的整體賢能雖不及孔子，仍有可學專長；所以擇師看能學甚麼，不按官位，也不要求一人包辦全部學問。",
+        "summary": "無常師是不把求學固定在唯一一位老師身上，孔子向數人請教正是實例。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "找到聞道最早的人後，固定由他教授各種學問",
+            "explanation": "找到一人便固定學全部，與列出多位老師及術業專攻的理由不合。"
+          },
+          {
+            "id": "b",
+            "text": "先後更換老師，按彼此官位的升降決定人選",
+            "explanation": "不同師承不等於按官位升降換人，全文反對以身分決定。"
+          },
+          {
+            "id": "c",
+            "text": "只向學問全面超過自己的人學習，毋須問專長",
+            "explanation": "其賢不及孔子已反駁全面勝己的門檻，局部專長仍可學。"
+          },
+          {
+            "id": "d",
+            "text": "向不同的人學其所長，不固定於一位老師",
+            "explanation": "無常師是不把求學固定在唯一一位老師身上，孔子向數人請教正是實例。"
+          }
+        ],
+        "misconception": "找到一人便固定學全部，與列出多位老師及術業專攻的理由不合；不同師承不等於按官位升降換人，全文反對以身分決定；其賢不及孔子已反駁全面勝己的門檻，局部專長仍可學。"
+      },
+      "objective": "從孔子師郯子等人的例子看，「聖人無常師」怎樣落實？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e07-exp-007",
+      "ordinal": 7,
+      "baseQuestionHash": "f715598630be50d7eabb6fc49e5388b358fcf2a8f516a3ce74f180ff9b51341d",
+      "patch": {
+        "explanation": "出生較晚的人若先領會道理，也可作我的老師。前後兩種年齡情況都以聞道先於吾為關鍵，吾師道也再說學的是道，故年齡、官位和全面勝己都不能擅加成條件。",
+        "summary": "出生較晚的人若先領會道理，也可作我的老師。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "出生較晚也可從師，但須先證明他官位較高",
+            "explanation": "無貴無賤已排除官位高的限制，不能另外補這個門檻。"
+          },
+          {
+            "id": "b",
+            "text": "出生較晚只可交流，須年齡相若才可正式從師",
+            "explanation": "原句直接說師之，未把年少者限為交流對象。"
+          },
+          {
+            "id": "c",
+            "text": "出生較晚也可從師，因為對方聞道先於自己",
+            "explanation": "出生較晚的人若先領會道理，也可作我的老師。"
+          },
+          {
+            "id": "d",
+            "text": "出生較晚應先學古文，全面勝過自己才可從師",
+            "explanation": "好古文是末段李蟠的特點，非所有老師的前置資格；也不須全面勝己。"
+          }
+        ],
+        "misconception": "無貴無賤已排除官位高的限制，不能另外補這個門檻；原句直接說師之，未把年少者限為交流對象；好古文是末段李蟠的特點，非所有老師的前置資格；也不須全面勝己。"
+      },
+      "objective": "「生乎吾後，其聞道也亦先乎吾」與「吾從而師之」相連，說明哪項擇師原則？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e07-exp-008",
+      "ordinal": 8,
+      "baseQuestionHash": "afd038656b549cabbbd2c2de432af42b988d4db0d313dd248029e91eea2f96c5",
+      "patch": {
+        "explanation": "古聖原本高明仍肯從師，今眾原本不及卻以從師為恥，不同態度再拉大已有差距。猶且與而把反差突出，後文聖益聖、愚益愚寫其結果，重點不只是古今人物名稱不同。",
+        "summary": "古聖原本高明仍肯從師，今眾原本不及卻以從師為恥，不同態度再拉大已有差距。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "才智愈高才愈應有師，才智較低者可以暫不從學",
+            "explanation": "今眾較低卻恥師正受批評，才智不足不構成免學理由。"
+          },
+          {
+            "id": "b",
+            "text": "學問已有差距，從師與恥師又使差距擴大",
+            "explanation": "古聖原本高明仍肯從師，今眾原本不及卻以從師為恥，不同態度再拉大已有差距。"
+          },
+          {
+            "id": "c",
+            "text": "古聖已沒有疑惑，從師只是表示禮節上的尊重",
+            "explanation": "猶且從師而問說明真有問學，未說已無惑而只行禮。"
+          },
+          {
+            "id": "d",
+            "text": "今眾因找不到更高明的人，才不得不停止求學",
+            "explanation": "原文明指恥學於師，不能把態度選擇改成無師可求。"
+          }
+        ],
+        "misconception": "今眾較低卻恥師正受批評，才智不足不構成免學理由；猶且從師而問說明真有問學，未說已無惑而只行禮；原文明指恥學於師，不能把態度選擇改成無師可求。"
+      },
+      "objective": "古聖人「猶且從師」、今眾人「恥學於師」相對，最直接揭示甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-07-01-03-1",
+      "ordinal": 9,
+      "baseQuestionHash": "2f67d0b129120b01fa4bc63e3651850a42a7eae311c5a5d71d707224c58d8cc0",
+      "patch": {
+        "explanation": "所以在師者所以傳道等句中表示用來的，整句界定老師有甚麼職責。傳道、授業、解惑是作用內容，並非先列一個原因再以所以推出結果；不可直接套今天因此的連詞用法。",
+        "summary": "所以在師者所以傳道等句中表示用來的，整句界定老師有甚麼職責。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "……的原因",
+            "explanation": "原因義見聖人之所以為聖，此處重在界定教師作用。"
+          },
+          {
+            "id": "b",
+            "text": "因而的結果",
+            "explanation": "因而需要前因後果，這裏是師者與其職責的說明。"
+          },
+          {
+            "id": "c",
+            "text": "教師傳授的內容",
+            "explanation": "所傳內容是道與業，所以本身不是內容的名稱。"
+          },
+          {
+            "id": "d",
+            "text": "用來……的",
+            "explanation": "所以在師者所以傳道等句中表示用來的，整句界定老師有甚麼職責。"
+          }
+        ],
+        "misconception": "原因義見聖人之所以為聖，此處重在界定教師作用；因而需要前因後果，這裏是師者與其職責的說明；所傳內容是道與業，所以本身不是內容的名稱。"
+      },
+      "objective": "文句中「所以」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-01-03-3",
+      "ordinal": 10,
+      "baseQuestionHash": "622c412ff2253396298f910340898ed010e151e879581d9d9a1c37acd76a5925",
+      "patch": {
+        "explanation": "孰是誰，孰能無惑以問人的形式反問誰能沒有疑惑。前句先否定生來全知，所以問句實際肯定人人有惑，接着才能推進到從師解惑的必要。",
+        "summary": "孰是誰，孰能無惑以問人的形式反問誰能沒有疑惑。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "怎樣",
+            "explanation": "怎樣問方法，這句所問的是能無惑的人。"
+          },
+          {
+            "id": "b",
+            "text": "何時",
+            "explanation": "何時問時間，原句沒有尋找無惑的某個時刻。"
+          },
+          {
+            "id": "c",
+            "text": "誰",
+            "explanation": "孰是誰，孰能無惑以問人的形式反問誰能沒有疑惑。"
+          },
+          {
+            "id": "d",
+            "text": "何處",
+            "explanation": "何處問地點，與人非生知所談的人不同。"
+          }
+        ],
+        "misconception": "怎樣問方法，這句所問的是能無惑的人；何時問時間，原句沒有尋找無惑的某個時刻；何處問地點，與人非生知所談的人不同。"
+      },
+      "objective": "文句中「孰」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-01-03-4",
+      "ordinal": 11,
+      "baseQuestionHash": "50deb33adc2cd0dd730254f6a4953fd72bd1b73aba9355381929dd50e9cfe9e4",
+      "patch": {
+        "explanation": "惑而不從師的惑指有疑惑，先提出尚未解決的問題。其為惑也終不解再說不從師的結果，故惑不是欺騙別人，也不能把有疑問與故意拒絕求學混為一事。",
+        "summary": "惑而不從師的惑指有疑惑，先提出尚未解決的問題。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "疑惑",
+            "explanation": "惑而不從師的惑指有疑惑，先提出尚未解決的問題。"
+          },
+          {
+            "id": "b",
+            "text": "迷惑他人",
+            "explanation": "迷惑他人有施加對象，原句說求學者自己有疑問。"
+          },
+          {
+            "id": "c",
+            "text": "因講解而更糊塗",
+            "explanation": "此句尚未從師，不能說疑惑是老師講解造成。"
+          },
+          {
+            "id": "d",
+            "text": "故意不肯從師",
+            "explanation": "不肯從師由後面的不從師表達，惑本身只說有疑難。"
+          }
+        ],
+        "misconception": "迷惑他人有施加對象，原句說求學者自己有疑問；此句尚未從師，不能說疑惑是老師講解造成；不肯從師由後面的不從師表達，惑本身只說有疑難。"
+      },
+      "objective": "文句中「惑」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-02-03-0",
+      "ordinal": 12,
+      "baseQuestionHash": "7162d4c2e7b21bd38987514d8dd8424a3e64f436a9d29c3117501de4585daca1",
+      "patch": {
+        "explanation": "固在固先乎吾中是本來，資料也列當然的語氣說明，所修飾的是聞道先於我。這不是把年長必然有道定成通則；下文年少而先聞道也可為師，仍要實際看聞道先後。",
+        "summary": "固在固先乎吾中是本來，資料也列當然的語氣說明，所修飾的是聞道先於我。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "本來",
+            "explanation": "固在固先乎吾中是本來，資料也列當然的語氣說明，所修飾的是聞道先於我。"
+          },
+          {
+            "id": "b",
+            "text": "堅固",
+            "explanation": "堅固形容牢靠，不能修飾這裏領會道理的時間。"
+          },
+          {
+            "id": "c",
+            "text": "固執",
+            "explanation": "固執說不肯改變態度，原句未評對方性格。"
+          },
+          {
+            "id": "d",
+            "text": "一定要",
+            "explanation": "一定要是命令或要求，這裏描述的是對方聞道在先。"
+          }
+        ],
+        "misconception": "堅固形容牢靠，不能修飾這裏領會道理的時間；固執說不肯改變態度，原句未評對方性格；一定要是命令或要求，這裏描述的是對方聞道在先。"
+      },
+      "objective": "文句中「固」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-02-03-1",
+      "ordinal": 13,
+      "baseQuestionHash": "75c40da2d6d7b99891db6b13d1731e5495fa2e0502ba13542fa671b1dc836c3c",
+      "patch": {
+        "explanation": "師之是以他為師，師由老師的名詞義轉為對某人的從學行動。之指那位先聞道的人，吾是跟從求學者；因此不是我去當老師教他，也不只是同輩互相陪讀。",
+        "summary": "師之是以他為師，師由老師的名詞義轉為對某人的從學行動。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "擔任老師",
+            "explanation": "擔任老師會把吾換成教導者，與從之學的方向相反。"
+          },
+          {
+            "id": "b",
+            "text": "與他一同學習",
+            "explanation": "一同學習未必把對方視為可請教的老師，少了師之的關係。"
+          },
+          {
+            "id": "c",
+            "text": "以他為師",
+            "explanation": "師之是以他為師，師由老師的名詞義轉為對某人的從學行動。"
+          },
+          {
+            "id": "d",
+            "text": "統率軍隊",
+            "explanation": "師雖可指軍隊，本句聞道與從學已限定為教學關係。"
+          }
+        ],
+        "misconception": "擔任老師會把吾換成教導者，與從之學的方向相反；一同學習未必把對方視為可請教的老師，少了師之的關係；師雖可指軍隊，本句聞道與從學已限定為教學關係。"
+      },
+      "objective": "文句中「師」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-02-03-2",
+      "ordinal": 14,
+      "baseQuestionHash": "f44ba4fa09fb913d12119ea444a16ec0f27e09f99122f548f6fd1aacb8600c99",
+      "patch": {
+        "explanation": "吾師道也是說我學習道理，師在這句作學習的動詞，道是學習內容。它解釋何必計較對方年歲：求的是道，不是年齡或名位；與師之以某人為師的搭配不同。",
+        "summary": "吾師道也是說我學習道理，師在這句作學習的動詞，道是學習內容。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "以他為師",
+            "explanation": "以他為師須以人為對象，這句後接的是道這項學習內容。"
+          },
+          {
+            "id": "b",
+            "text": "學習",
+            "explanation": "吾師道也是說我學習道理，師在這句作學習的動詞，道是學習內容。"
+          },
+          {
+            "id": "c",
+            "text": "擔任老師",
+            "explanation": "擔任老師未表明自己求道的目的，也不合後接道的搭配。"
+          },
+          {
+            "id": "d",
+            "text": "統率軍隊",
+            "explanation": "統率軍隊與領會道理、選擇老師的語境無關。"
+          }
+        ],
+        "misconception": "以他為師須以人為對象，這句後接的是道這項學習內容；擔任老師未表明自己求道的目的，也不合後接道的搭配；統率軍隊與領會道理、選擇老師的語境無關。"
+      },
+      "objective": "文句中「師」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-02-03-3",
+      "ordinal": 15,
+      "baseQuestionHash": "db98b5e338c9331ccdbbbc1c0f592fbe61ae411839eb297817b587c54fa80047",
+      "patch": {
+        "explanation": "庸是何必、哪用，以反問否定計較出生先後的必要。吾師道也先交代求學目的，後句才反問年齡有何必問；不是在問幾時查年齡或由誰查。",
+        "summary": "庸是何必、哪用，以反問否定計較出生先後的必要。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "庸常地",
+            "explanation": "庸常是普通之意，不能與知其年組成這裏的反問。"
+          },
+          {
+            "id": "b",
+            "text": "何必",
+            "explanation": "庸是何必、哪用，以反問否定計較出生先後的必要。"
+          },
+          {
+            "id": "c",
+            "text": "何時",
+            "explanation": "何時問時間，本文則否定把年齡當擇師準則的必要。"
+          },
+          {
+            "id": "d",
+            "text": "由誰",
+            "explanation": "由誰問執行者，並非質疑為何需要計較。"
+          }
+        ],
+        "misconception": "庸常是普通之意，不能與知其年組成這裏的反問；何時問時間，本文則否定把年齡當擇師準則的必要；由誰問執行者，並非質疑為何需要計較。"
+      },
+      "objective": "文句中「庸」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-02-03-4",
+      "ordinal": 16,
+      "baseQuestionHash": "2819800901f75bb2c7fb19811857f76326adb526d58a107489bcb742da086d47",
+      "patch": {
+        "explanation": "無在這裏是無論、不分，兩組無貴賤、無長少把身分和年齡排除於擇師門檻之外。道之所存才是實際標準，不是宣稱社會上從此沒有貴賤或年齡差異。",
+        "summary": "無在這裏是無論、不分，兩組無貴賤、無長少把身分和年齡排除於擇師門檻之外。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "無論、不分",
+            "explanation": "無在這裏是無論、不分，兩組無貴賤、無長少把身分和年齡排除於擇師門檻之外。"
+          },
+          {
+            "id": "b",
+            "text": "沒有、不存在",
+            "explanation": "客觀差異仍存在，只是不拿它作拒師理由。"
+          },
+          {
+            "id": "c",
+            "text": "不准、禁止",
+            "explanation": "不准表示禁止，原句並非禁止某種身分或年歲存在。"
+          },
+          {
+            "id": "d",
+            "text": "不再、停止",
+            "explanation": "停止表示先前有行動現在不做，這裏則說涵蓋範圍不分彼此。"
+          }
+        ],
+        "misconception": "客觀差異仍存在，只是不拿它作拒師理由；不准表示禁止，原句並非禁止某種身分或年歲存在；停止表示先前有行動現在不做，這裏則說涵蓋範圍不分彼此。"
+      },
+      "objective": "文句中「無」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-03-03-0",
+      "ordinal": 17,
+      "baseQuestionHash": "dccd885326111e938be9568625b10a787e546d2c72eb09978d177b92e91dccaa",
+      "patch": {
+        "explanation": "師道在這裏指從師學習的風尚、道理與正確態度。下文以從師與恥師對照，解釋這種風尚為何不傳；不能把師道只縮成老師的職業品德或教學技術。",
+        "summary": "師道在這裏指從師學習的風尚、道理與正確態度。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "教師的品德操守",
+            "explanation": "品德操守只評教者，原段批評的是學者恥於求師。"
+          },
+          {
+            "id": "b",
+            "text": "教師所講的義理",
+            "explanation": "義理是老師所傳的內容，師道不傳在此指從師傳統衰落。"
+          },
+          {
+            "id": "c",
+            "text": "從事教學的方法",
+            "explanation": "教法是如何授課，原文並未把問題歸於授課方法失傳。"
+          },
+          {
+            "id": "d",
+            "text": "從師學習的風尚",
+            "explanation": "師道在這裏指從師學習的風尚、道理與正確態度。"
+          }
+        ],
+        "misconception": "品德操守只評教者，原段批評的是學者恥於求師；義理是老師所傳的內容，師道不傳在此指從師傳統衰落；教法是如何授課，原文並未把問題歸於授課方法失傳。"
+      },
+      "objective": "文句中「師道」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-03-03-1",
+      "ordinal": 18,
+      "baseQuestionHash": "bd69dd94661bd4993abaae8bbfba38d6c0769816a7a5fb5d735cb2f8b045cec6",
+      "patch": {
+        "explanation": "出是超越，出人說古聖人的才智學問超過一般人，遠再寫差距很大。已高明而猶且問師形成反襯，所以出不是生於某年代或走出某地。",
+        "summary": "出是超越，出人說古聖人的才智學問超過一般人，遠再寫差距很大。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "出生",
+            "explanation": "出生是生的意思，出人描述的是才智高下，非出生日期。"
+          },
+          {
+            "id": "b",
+            "text": "外出",
+            "explanation": "外出是空間移動，不能與今眾下聖人的比較相對。"
+          },
+          {
+            "id": "c",
+            "text": "超越",
+            "explanation": "出是超越，出人說古聖人的才智學問超過一般人，遠再寫差距很大。"
+          },
+          {
+            "id": "d",
+            "text": "派出",
+            "explanation": "派出須有被派者與任務，這裏沒有派遣行動。"
+          }
+        ],
+        "misconception": "出生是生的意思，出人描述的是才智高下，非出生日期；外出是空間移動，不能與今眾下聖人的比較相對；派出須有被派者與任務，這裏沒有派遣行動。"
+      },
+      "objective": "文句中「出」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-03-03-2",
+      "ordinal": 19,
+      "baseQuestionHash": "b50a1ed4073a4a3bd0aaa530796d1797c58eadfc5171daaf888b814e938873f1",
+      "patch": {
+        "explanation": "下是不及，今眾下聖人說才智學問遠遜古聖。它與上句出人相對，先建立能力差距，再批評今人本更應求學卻恥師，並不是動作上往下走。",
+        "summary": "下是不及，今眾下聖人說才智學問遠遜古聖。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "命令",
+            "explanation": "命令是發令行動，原句下後接聖人作比較對象。"
+          },
+          {
+            "id": "b",
+            "text": "不及",
+            "explanation": "下是不及，今眾下聖人說才智學問遠遜古聖。"
+          },
+          {
+            "id": "c",
+            "text": "向下",
+            "explanation": "向下指方向，這裏是抽象才智高下。"
+          },
+          {
+            "id": "d",
+            "text": "退讓",
+            "explanation": "退讓是有意讓步，不及則是比較所得差距，兩者不同。"
+          }
+        ],
+        "misconception": "命令是發令行動，原句下後接聖人作比較對象；向下指方向，這裏是抽象才智高下；退讓是有意讓步，不及則是比較所得差距，兩者不同。"
+      },
+      "objective": "文句中「下」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-03-03-3",
+      "ordinal": 20,
+      "baseQuestionHash": "d2660de425842e829b1381c6013b3ca826bea4247245f6509d4c2a7bb8823b41",
+      "patch": {
+        "explanation": "恥學於師是把向老師學習看作可恥，是今眾自身的錯誤態度。學於師是被認為羞恥的事情，老師不是被羞辱或施加羞辱的人；先分清誰評價甚麼，才不會倒置關係。",
+        "summary": "恥學於師是把向老師學習看作可恥，是今眾自身的錯誤態度。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "使老師羞恥",
+            "explanation": "主體在心中以從學為羞，不是讓老師感到羞恥。"
+          },
+          {
+            "id": "b",
+            "text": "以此為羞恥",
+            "explanation": "恥學於師是把向老師學習看作可恥，是今眾自身的錯誤態度。"
+          },
+          {
+            "id": "c",
+            "text": "受到老師羞辱",
+            "explanation": "原句未說老師侮辱學生，不能把主動態度讀成受辱遭遇。"
+          },
+          {
+            "id": "d",
+            "text": "不知羞恥",
+            "explanation": "不知羞恥是否定羞恥感，原文則是把不該羞的求學錯當羞恥。"
+          }
+        ],
+        "misconception": "主體在心中以從學為羞，不是讓老師感到羞恥；原句未說老師侮辱學生，不能把主動態度讀成受辱遭遇；不知羞恥是否定羞恥感，原文則是把不該羞的求學錯當羞恥。"
+      },
+      "objective": "文句中「恥」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-03-03-4",
+      "ordinal": 21,
+      "baseQuestionHash": "556530d2c61b0d292787fb326b4f589aae0675a145ef1f6f5da6b785cb918da4",
+      "patch": {
+        "explanation": "益是更加，兩次分別修飾聖明與愚昧的程度。聖益聖、愚益愚寫不同求學態度使差距擴大，並非計算聖人愚人的數目增加，也不是只說學習有益。",
+        "summary": "益是更加，兩次分別修飾聖明與愚昧的程度。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "有益",
+            "explanation": "有益是在評價利好，愚益愚卻是愚昧加深，不能一律解有好處。"
+          },
+          {
+            "id": "b",
+            "text": "人數增多",
+            "explanation": "原句比較程度，不提供人數增長的資料。"
+          },
+          {
+            "id": "c",
+            "text": "更加",
+            "explanation": "益是更加，兩次分別修飾聖明與愚昧的程度。"
+          },
+          {
+            "id": "d",
+            "text": "彌補不足",
+            "explanation": "彌補不足應令愚昧減少，與愚益愚的方向不合。"
+          }
+        ],
+        "misconception": "有益是在評價利好，愚益愚卻是愚昧加深，不能一律解有好處；原句比較程度，不提供人數增長的資料；彌補不足應令愚昧減少，與愚益愚的方向不合。"
+      },
+      "objective": "文句中「益」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-03-03-5",
+      "ordinal": 22,
+      "baseQuestionHash": "fa4941c23d30f6245ae7b0792c842a4ee1fb5730caaa33ef8cae02b3772fc45d",
+      "patch": {
+        "explanation": "所以在之所以為聖、之所以為愚中引出成為聖愚的原因。前文對照是否肯從師，後面的出於此回指這種態度差異；不像師者所以傳道那樣界定用途職責。",
+        "summary": "所以在之所以為聖、之所以為愚中引出成為聖愚的原因。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "用來……的",
+            "explanation": "用來的適合前文說教師功能，這裏追問形成差異的原因。"
+          },
+          {
+            "id": "b",
+            "text": "因而的結果",
+            "explanation": "因而引結果，之所以為聖是在提出何以成聖的問題。"
+          },
+          {
+            "id": "c",
+            "text": "所處的地方",
+            "explanation": "所處地方是空間，本句說學習態度與才智結果的關係。"
+          },
+          {
+            "id": "d",
+            "text": "……的原因",
+            "explanation": "所以在之所以為聖、之所以為愚中引出成為聖愚的原因。"
+          }
+        ],
+        "misconception": "用來的適合前文說教師功能，這裏追問形成差異的原因；因而引結果，之所以為聖是在提出何以成聖的問題；所處地方是空間，本句說學習態度與才智結果的關係。"
+      },
+      "objective": "文句中「所以」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-03-03-6",
+      "ordinal": 23,
+      "baseQuestionHash": "6c159cbce3addce5a88762a2c48ed90aa0beae471c8500f0d86096c16b2c20d8",
+      "patch": {
+        "explanation": "其在其皆出於此乎中是大概，與乎一起形成推斷語氣。作者依前面的從師態度推想聖愚差異原因，這個其不代某一群人；皆已承接前述情況，不必把其硬譯成他們。",
+        "summary": "其在其皆出於此乎中是大概，與乎一起形成推斷語氣。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "大概，表推測",
+            "explanation": "其在其皆出於此乎中是大概，與乎一起形成推斷語氣。"
+          },
+          {
+            "id": "b",
+            "text": "他們，指聖人與愚人",
+            "explanation": "他們是代人用法，但此處其位於推斷句首、配乎表語氣。"
+          },
+          {
+            "id": "c",
+            "text": "這些，指聖愚差別",
+            "explanation": "這些是指示代詞，會漏掉本句大概如此的推論語氣。"
+          },
+          {
+            "id": "d",
+            "text": "其中，指從師與否兩種情況",
+            "explanation": "其中表局部範圍，與皆出於此的原因推斷不同。"
+          }
+        ],
+        "misconception": "他們是代人用法，但此處其位於推斷句首、配乎表語氣；這些是指示代詞，會漏掉本句大概如此的推論語氣；其中表局部範圍，與皆出於此的原因推斷不同。"
+      },
+      "objective": "文句中「其」的用法或所指，哪項正確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-04-03-0",
+      "ordinal": 24,
+      "baseQuestionHash": "b8881d12ebb7572029cb1a2befbfb61e33af10d5a0d8110c9c4475eb4ce15d95",
+      "patch": {
+        "explanation": "恥師指成人把自己從師看作可恥，師在此是從師求學的行為。前面卻願為孩子選老師，兩種取捨互相矛盾；作者批評成人的態度，不是說成人或孩子被老師羞辱。",
+        "summary": "恥師指成人把自己從師看作可恥，師在此是從師求學的行為。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "使老師羞恥",
+            "explanation": "讓老師蒙羞是使對方受辱，原句是成人如何看待自己從師。"
+          },
+          {
+            "id": "b",
+            "text": "受到老師羞辱",
+            "explanation": "受到老師羞辱需要受辱情節，文中並沒有。"
+          },
+          {
+            "id": "c",
+            "text": "不知羞恥",
+            "explanation": "不知羞恥與以求學為恥不同，前者會漏掉本文批評的錯誤羞恥對象。"
+          },
+          {
+            "id": "d",
+            "text": "以此為羞恥",
+            "explanation": "恥師指成人把自己從師看作可恥，師在此是從師求學的行為。"
+          }
+        ],
+        "misconception": "讓老師蒙羞是使對方受辱，原句是成人如何看待自己從師；受到老師羞辱需要受辱情節，文中並沒有；不知羞恥與以求學為恥不同，前者會漏掉本文批評的錯誤羞恥對象。"
+      },
+      "objective": "文句中「恥」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-04-03-1",
+      "ordinal": 25,
+      "baseQuestionHash": "7f7724e9f4c63afb52da38a14c977d339cdf70240fdd58cff119c96f8d280b0d",
+      "patch": {
+        "explanation": "惑矣是說這種做法糊塗、不明智，是韓愈對成人取捨的評語。替孩子擇師卻對自己恥師，前後標準矛盾；這個惑與未解之惑不同，不能只譯成還有一個學習疑問。",
+        "summary": "惑矣是說這種做法糊塗、不明智，是韓愈對成人取捨的評語。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "糊塗、不明智",
+            "explanation": "惑矣是說這種做法糊塗、不明智，是韓愈對成人取捨的評語。"
+          },
+          {
+            "id": "b",
+            "text": "未解的疑問",
+            "explanation": "未解疑問是惑之不解的惑，此處矣收束的是對行為的批評。"
+          },
+          {
+            "id": "c",
+            "text": "令人感到迷惑",
+            "explanation": "令人迷惑把重點轉到旁觀者感受，原句直接評成人不明智。"
+          },
+          {
+            "id": "d",
+            "text": "受流言欺騙",
+            "explanation": "作者指出其自相矛盾，並未交代受流言欺騙。"
+          }
+        ],
+        "misconception": "未解疑問是惑之不解的惑，此處矣收束的是對行為的批評；令人迷惑把重點轉到旁觀者感受，原句直接評成人不明智；作者指出其自相矛盾，並未交代受流言欺騙。"
+      },
+      "objective": "文句中「惑」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-04-03-2",
+      "ordinal": 26,
+      "baseQuestionHash": "02813535719002de87564423c427bb2273c4443809d60e17e8ce664bd1aefb4b",
+      "patch": {
+        "explanation": "句讀指文句的斷句與停頓，是童子學習的基本文字知識。此處與傳道解惑分層比較，說明只教讀通字句未涵蓋完整師職；詞義題不能直接把句讀擴成所有經文義理。",
+        "summary": "句讀指文句的斷句與停頓，是童子學習的基本文字知識。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "文句的意思",
+            "explanation": "文意需要理解內容，不能與如何斷句停頓完全等同。"
+          },
+          {
+            "id": "b",
+            "text": "文字的讀音",
+            "explanation": "讀音是字怎樣發聲，句讀重句內句間在哪裏停頓。"
+          },
+          {
+            "id": "c",
+            "text": "文句的次序",
+            "explanation": "次序是先後排列，句讀則是既有語句的斷續界線。"
+          },
+          {
+            "id": "d",
+            "text": "文句的停頓",
+            "explanation": "句讀指文句的斷句與停頓，是童子學習的基本文字知識。"
+          }
+        ],
+        "misconception": "文意需要理解內容，不能與如何斷句停頓完全等同；讀音是字怎樣發聲，句讀重句內句間在哪裏停頓；次序是先後排列，句讀則是既有語句的斷續界線。"
+      },
+      "objective": "文句中「句讀」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-04-03-3",
+      "ordinal": 27,
+      "baseQuestionHash": "dd2b31603bb3c8bc56640c7a9c914c8f166c3f0e0380bd083006b21efdf2f840",
+      "patch": {
+        "explanation": "或在這裏指有的方面，兩個或分別承接句讀與求道解惑。前者願從師，後者不從師，才能得出小學大遺的批評；不是把人分成兩批，也不是同一人偶爾想學、偶爾不學。",
+        "summary": "或在這裏指有的方面，兩個或分別承接句讀與求道解惑。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "有的人",
+            "explanation": "本書此句按學習方面作對照，重同一成人的兩種取捨，非另分兩類人。"
+          },
+          {
+            "id": "b",
+            "text": "偶爾有時",
+            "explanation": "偶爾表示時間頻率，句中對比的是內容輕重。"
+          },
+          {
+            "id": "c",
+            "text": "也許可能",
+            "explanation": "也許表示不確定，原文已列從與不從兩種實際態度。"
+          },
+          {
+            "id": "d",
+            "text": "有的方面",
+            "explanation": "或在這裏指有的方面，兩個或分別承接句讀與求道解惑。"
+          }
+        ],
+        "stem": "依本書對「句讀之不知，惑之不解，或師焉，或不焉」的解釋，「或」指甚麼？",
+        "misconception": "本書此句按學習方面作對照，重同一成人的兩種取捨，非另分兩類人；偶爾表示時間頻率，句中對比的是內容輕重；也許表示不確定，原文已列從與不從兩種實際態度。"
+      },
+      "objective": "依本書對「句讀之不知，惑之不解，或師焉，或不焉」的解釋，「或」指甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-04-03-5",
+      "ordinal": 28,
+      "baseQuestionHash": "8944421773609972243e97efe675c22ec9b364ddf75864c6c5b0842b5812d89e",
+      "patch": {
+        "explanation": "大遺是把較重要的方面放棄，這裏具體指成人放棄求道、解惑。與小學對照，批評的是輕重倒置；遺取遺棄義，不是把重要知識遺贈後人，也不是突然忘掉全部所學。",
+        "summary": "大遺是把較重要的方面放棄，這裏具體指成人放棄求道、解惑。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "把重要知識留給後人",
+            "explanation": "留給後人是傳遞，與當下忽略自己求道的遺棄不同。"
+          },
+          {
+            "id": "b",
+            "text": "把細小知識忽略了",
+            "explanation": "被放棄的是大的方面，不是已願學習的句讀小事。"
+          },
+          {
+            "id": "c",
+            "text": "大的方面放棄",
+            "explanation": "大遺是把較重要的方面放棄，這裏具體指成人放棄求道、解惑。"
+          },
+          {
+            "id": "d",
+            "text": "完全忘掉所學",
+            "explanation": "原文不是記憶遺失，且並非所有學問都已放棄。"
+          }
+        ],
+        "misconception": "留給後人是傳遞，與當下忽略自己求道的遺棄不同；被放棄的是大的方面，不是已願學習的句讀小事；原文不是記憶遺失，且並非所有學問都已放棄。"
+      },
+      "objective": "文句中「大遺」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-05-03-0",
+      "ordinal": 29,
+      "baseQuestionHash": "68258aaae5a3ea553109ee8aea4b85ab0c4994b44743eea55ada6aa88cf08f81",
+      "patch": {
+        "explanation": "恥是以某事為羞恥，不恥相師加上不才表示不覺得彼此從學可羞。題目問單字，不應把不字的作用塞進恥的詞義；百工態度正與士大夫恥師相對。",
+        "summary": "恥是以某事為羞恥，不恥相師加上不才表示不覺得彼此從學可羞。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "以此為羞恥",
+            "explanation": "恥是以某事為羞恥，不恥相師加上不才表示不覺得彼此從學可羞。"
+          },
+          {
+            "id": "b",
+            "text": "使他人羞恥",
+            "explanation": "使人羞恥是把羞辱加給別人，非評價自己從師。"
+          },
+          {
+            "id": "c",
+            "text": "受到他人羞辱",
+            "explanation": "受羞辱是遭遇，原句寫對互相請教的看法。"
+          },
+          {
+            "id": "d",
+            "text": "不知羞恥",
+            "explanation": "不知羞恥自帶否定且是貶義，不能代替原字再與不相接。"
+          }
+        ],
+        "misconception": "使人羞恥是把羞辱加給別人，非評價自己從師；受羞辱是遭遇，原句寫對互相請教的看法；不知羞恥自帶否定且是貶義，不能代替原字再與不相接。"
+      },
+      "objective": "文句中「恥」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-05-03-1",
+      "ordinal": 30,
+      "baseQuestionHash": "0cb501bfed4207a53836dc51c14413a4e17206ab4966b3e37f67897f6d38a6de",
+      "patch": {
+        "explanation": "族指一類，士大夫之族就是士大夫這一群體。下文集體譏笑從師者，與巫醫樂師百工這類人對照，是社會群體的分類，不是說他們同宗、同民族或都是一家長輩。",
+        "summary": "族指一類，士大夫之族就是士大夫這一群體。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "血緣宗族",
+            "explanation": "血緣宗族需要親屬關係，本文按身分態度分群。"
+          },
+          {
+            "id": "b",
+            "text": "家中長輩",
+            "explanation": "家中長輩是家內輩分，與士大夫作社會階層的範圍不同。"
+          },
+          {
+            "id": "c",
+            "text": "不同民族",
+            "explanation": "民族是另一分類，不能由官僚讀書人身分推出。"
+          },
+          {
+            "id": "d",
+            "text": "類、類別",
+            "explanation": "族指一類，士大夫之族就是士大夫這一群體。"
+          }
+        ],
+        "misconception": "血緣宗族需要親屬關係，本文按身分態度分群；家中長輩是家內輩分，與士大夫作社會階層的範圍不同；民族是另一分類，不能由官僚讀書人身分推出。"
+      },
+      "objective": "文句中「族」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-05-03-2",
+      "ordinal": 31,
+      "baseQuestionHash": "f3e0f2b992eaa5808d54e227a76f2c4a23c36bdc605475e9b6332adc615bce04",
+      "patch": {
+        "explanation": "相若是相近、差不多，前面的年限定它比較兩人的年齡。這是士大夫譏笑從師者的話，不是韓愈認同只有年齡相差大才可從學；懂字義後仍須分清說話者立場。",
+        "summary": "相若是相近、差不多，前面的年限定它比較兩人的年齡。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "相近",
+            "explanation": "相若是相近、差不多，前面的年限定它比較兩人的年齡。"
+          },
+          {
+            "id": "b",
+            "text": "完全相同",
+            "explanation": "相若是差不多，並未斷定年齡一模一樣。"
+          },
+          {
+            "id": "c",
+            "text": "同樣早聞道",
+            "explanation": "年限定比較年歲，道相似在下一句另說，不能混成聞道時間。"
+          },
+          {
+            "id": "d",
+            "text": "互相尊敬",
+            "explanation": "相若比較接近程度，不表示對彼此的尊敬態度。"
+          }
+        ],
+        "misconception": "相若是差不多，並未斷定年齡一模一樣；年限定比較年歲，道相似在下一句另說，不能混成聞道時間；相若比較接近程度，不表示對彼此的尊敬態度。"
+      },
+      "objective": "文句中「相若」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-07-05-03-3",
+      "ordinal": 32,
+      "baseQuestionHash": "9f934f51eb559b1d7424fe1dcddf37fe66317ed54c6e864c18e16054990a5b50",
+      "patch": {
+        "explanation": "諛是諂媚討好，士大夫說向高官從學便近乎奉承。近字保留被他們視作近似的意思，並未證明所有求教高官的人都真在諂媚；作者正把這種判斷作拒師藉口批評。",
+        "summary": "諛是諂媚討好，士大夫說向高官從學便近乎奉承。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "善意勸諫",
+            "explanation": "勸諫要提出可能逆耳的意見，與迎合討好不同。"
+          },
+          {
+            "id": "b",
+            "text": "譏諷嘲笑",
+            "explanation": "譏諷是對人嘲弄，原句則怕被看作向高位者討好。"
+          },
+          {
+            "id": "c",
+            "text": "誇耀自己",
+            "explanation": "誇耀重抬高自己，諛重奉承對方以迎合。"
+          },
+          {
+            "id": "d",
+            "text": "諂媚討好",
+            "explanation": "諛是諂媚討好，士大夫說向高官從學便近乎奉承。"
+          }
+        ],
+        "misconception": "勸諫要提出可能逆耳的意見，與迎合討好不同；譏諷是對人嘲弄，原句則怕被看作向高位者討好；誇耀重抬高自己，諛重奉承對方以迎合。"
+      },
+      "objective": "文句中「諛」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-05-03-4",
+      "ordinal": 33,
+      "baseQuestionHash": "f820992461746ea3989559e3e98ecfa54cac8cd2803411ab1e57cf975188a6c7",
+      "patch": {
+        "explanation": "師道指從師求學的風尚與正確態度，不復說這種傳統難以恢復。前文位卑嫌羞、官盛嫌諛，無論對方身分高低都拒學，正是師道難復的根據，不是在評論教師授課技巧。",
+        "summary": "師道指從師求學的風尚與正確態度，不復說這種傳統難以恢復。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "教師的品德操守",
+            "explanation": "教師操守是教者的道德，此處問題卻在士大夫不肯學。"
+          },
+          {
+            "id": "b",
+            "text": "教師所講的義理",
+            "explanation": "義理是所學內容，風尚不復不等於道理本身已消失。"
+          },
+          {
+            "id": "c",
+            "text": "從師學習的風尚",
+            "explanation": "師道指從師求學的風尚與正確態度，不復說這種傳統難以恢復。"
+          },
+          {
+            "id": "d",
+            "text": "從事教學的方法",
+            "explanation": "教學方法未在這段被評好壞，拒師藉口才是所論問題。"
+          }
+        ],
+        "misconception": "教師操守是教者的道德，此處問題卻在士大夫不肯學；義理是所學內容，風尚不復不等於道理本身已消失；教學方法未在這段被評好壞，拒師藉口才是所論問題。"
+      },
+      "objective": "文句中「師道」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-05-03-5",
+      "ordinal": 34,
+      "baseQuestionHash": "3ec1d723dcef500ed453517f23b6a24ad45c83dc281565cd8e0bcab96360e666",
+      "patch": {
+        "explanation": "不齒是不屑與對方並列，寫士大夫輕視巫醫百工的身分。接着卻說他們的才智反不及肯互學的百工，形成自視甚高而實際不及的諷刺，不齒不是不問年齡。",
+        "summary": "不齒是不屑與對方並列，寫士大夫輕視巫醫百工的身分。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "不計較其年齡",
+            "explanation": "齒雖可聯想到年齡，此句君子對百工的態度是輕視，不是取消年齡限制。"
+          },
+          {
+            "id": "b",
+            "text": "不屑與之並列",
+            "explanation": "不齒是不屑與對方並列，寫士大夫輕視巫醫百工的身分。"
+          },
+          {
+            "id": "c",
+            "text": "不願與之辯論",
+            "explanation": "不辯論只是某種行為，未說明不願與之等列的身分鄙視。"
+          },
+          {
+            "id": "d",
+            "text": "不記錄其言行",
+            "explanation": "不記錄是書寫取捨，原句未談記載言行。"
+          }
+        ],
+        "misconception": "齒雖可聯想到年齡，此句君子對百工的態度是輕視，不是取消年齡限制；不辯論只是某種行為，未說明不願與之等列的身分鄙視；不記錄是書寫取捨，原句未談記載言行。"
+      },
+      "objective": "文句中「不齒」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-05-03-6",
+      "ordinal": 35,
+      "baseQuestionHash": "3cac3cbce02fa1ae3d307e5b46704fc78aeb186d79b608ffb3494c8d98a158c8",
+      "patch": {
+        "explanation": "乃在此是竟然，與反連用，突出士大夫才智反不及自己輕視的人。它把身分自負與求學結果的落差寫成出人意料的諷刺，不能只譯成中性的時間先後或判斷就是。",
+        "summary": "乃在此是竟然，與反連用，突出士大夫才智反不及自己輕視的人。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "竟然",
+            "explanation": "乃在此是竟然，與反連用，突出士大夫才智反不及自己輕視的人。"
+          },
+          {
+            "id": "b",
+            "text": "於是",
+            "explanation": "於是會著重接續或因果，漏掉反乎自負的驚詫意味。"
+          },
+          {
+            "id": "c",
+            "text": "才剛",
+            "explanation": "才剛說剛發生，原句未以時間新近為重點。"
+          },
+          {
+            "id": "d",
+            "text": "就是",
+            "explanation": "就是作直接判斷，不能表現乃反的意外反差。"
+          }
+        ],
+        "misconception": "於是會著重接續或因果，漏掉反乎自負的驚詫意味；才剛說剛發生，原句未以時間新近為重點；就是作直接判斷，不能表現乃反的意外反差。"
+      },
+      "objective": "文句中「乃」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-06-03-0",
+      "ordinal": 36,
+      "baseQuestionHash": "dee6341810df7c7be33d50504ce18e46fc53e7d6909cd01f2d7f2b5f4a368abe",
+      "patch": {
+        "explanation": "常師是固定不變的老師，無常師否定的是只固定一師，而非完全沒有老師。後面列孔子向數人學習，正具體解釋無常如何落實；老師是否平庸、教了多少年，都不是常的意思。",
+        "summary": "常師是固定不變的老師，無常師否定的是只固定一師，而非完全沒有老師。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "平庸的老師",
+            "explanation": "平庸的常與固定的常不同，原句不是說聖人拒絕普通人。"
+          },
+          {
+            "id": "b",
+            "text": "固定的老師",
+            "explanation": "常師是固定不變的老師，無常師否定的是只固定一師，而非完全沒有老師。"
+          },
+          {
+            "id": "c",
+            "text": "長期教書的人",
+            "explanation": "長期教書說教師任教資歷，原句說求學者師承不固定。"
+          },
+          {
+            "id": "d",
+            "text": "一般的教學方法",
+            "explanation": "教學方法並非師這個人的身分，不能把老師換作方法。"
+          }
+        ],
+        "misconception": "平庸的常與固定的常不同，原句不是說聖人拒絕普通人；長期教書說教師任教資歷，原句說求學者師承不固定；教學方法並非師這個人的身分，不能把老師換作方法。"
+      },
+      "objective": "文句中「常師」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-06-03-1",
+      "ordinal": 37,
+      "baseQuestionHash": "4f5b144f7dea3e9e1c3868aa695c3253a305400f5573a64d41302b0d55327025",
+      "patch": {
+        "explanation": "徒在郯子之徒中指郯子這一類、這幾個人，承接前列孔子所學的數人。它不是郯子的學生；主語指對了，才能理解為何整體賢能不及孔子的人仍可教他所長。",
+        "summary": "徒在郯子之徒中指郯子這一類、這幾個人，承接前列孔子所學的數人。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "跟從的學生",
+            "explanation": "若解郯子的學生，便把剛列出的孔子之師誤換成另一批人。"
+          },
+          {
+            "id": "b",
+            "text": "步行的路人",
+            "explanation": "步行之徒屬別義，前文師承列名並無行路情境。"
+          },
+          {
+            "id": "c",
+            "text": "這一類人",
+            "explanation": "徒在郯子之徒中指郯子這一類、這幾個人，承接前列孔子所學的數人。"
+          },
+          {
+            "id": "d",
+            "text": "服刑的囚徒",
+            "explanation": "囚徒需要服刑背景，原文只列有可學之長的人。"
+          }
+        ],
+        "misconception": "若解郯子的學生，便把剛列出的孔子之師誤換成另一批人；步行之徒屬別義，前文師承列名並無行路情境；囚徒需要服刑背景，原文只列有可學之長的人。"
+      },
+      "objective": "文句中「徒」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-06-03-3",
+      "ordinal": 38,
+      "baseQuestionHash": "ebc1c4ce68dad8ea5d826caf39c81551dbcf19c1b9f6dd80c750dc6aa93a1ea4",
+      "patch": {
+        "explanation": "專攻是在某項學問或技藝上專門鑽研，強調各人可以有不同專長。它與聞道先後一起解釋師生不必全面分高下，並不表示有人在全部領域都精通，更不是作戰進攻。",
+        "summary": "專攻是在某項學問或技藝上專門鑽研，強調各人可以有不同專長。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "專門傳授",
+            "explanation": "專攻重本人鑽研形成專長，不是是否正在向人授課。"
+          },
+          {
+            "id": "b",
+            "text": "獨自學習",
+            "explanation": "專說鑽研領域，並不排除向人請教或共同學習。"
+          },
+          {
+            "id": "c",
+            "text": "專門鑽研",
+            "explanation": "專攻是在某項學問或技藝上專門鑽研，強調各人可以有不同專長。"
+          },
+          {
+            "id": "d",
+            "text": "全面精通",
+            "explanation": "全面精通抹去了專的限定，也破壞各有所長的理由。"
+          }
+        ],
+        "misconception": "專攻重本人鑽研形成專長，不是是否正在向人授課；專說鑽研領域，並不排除向人請教或共同學習；全面精通抹去了專的限定，也破壞各有所長的理由。"
+      },
+      "objective": "文句中「專攻」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-07-07-03-0",
+      "ordinal": 39,
+      "baseQuestionHash": "10e2f9bc9cd127706485ae9c042d3ddaea4cf410fce8fb31c23d52163f918461",
+      "patch": {
+        "explanation": "經傳指經文及解說經文的傳文、注疏，與六藝合指所學的六經及其解說。傳在這裏不是人物傳記，六藝也不取禮樂射御書數的技能義，須按經書語境理解。",
+        "summary": "經傳指經文及解說經文的傳文、注疏，與六藝合指所學的六經及其解說。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "口傳的歷史故事",
+            "explanation": "口述故事不等於儒家經文與傳注，所學材料類型不同。"
+          },
+          {
+            "id": "b",
+            "text": "經文與注疏",
+            "explanation": "經傳指經文及解說經文的傳文、注疏，與六藝合指所學的六經及其解說。"
+          },
+          {
+            "id": "c",
+            "text": "六種技藝的規則",
+            "explanation": "六種技藝是六藝的另一用法，後接經傳已限定此處為六經。"
+          },
+          {
+            "id": "d",
+            "text": "經書作者的傳記",
+            "explanation": "傳注解釋經文，並非專寫經書作者生平。"
+          }
+        ],
+        "misconception": "口述故事不等於儒家經文與傳注，所學材料類型不同；六種技藝是六藝的另一用法，後接經傳已限定此處為六經；傳注解釋經文，並非專寫經書作者生平。"
+      },
+      "objective": "文句中「經傳」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-07-03-1",
+      "ordinal": 40,
+      "baseQuestionHash": "6aa1e73a648ecfcec6c6c92dbb9d0aa76c684a90363134a6d0192e01e1dc7a70",
+      "patch": {
+        "explanation": "通習是全都學習，通與皆突出六藝經傳的學習範圍廣。這句讚李蟠好學，卻不能單憑通就推成每部書已完全精通；他仍向韓愈求學也與有學未必全知相合。",
+        "summary": "通習是全都學習，通與皆突出六藝經傳的學習範圍廣。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "已全部精通",
+            "explanation": "全學過是範圍，全部精通是掌握程度，原句不能直接互換。"
+          },
+          {
+            "id": "b",
+            "text": "只學其中要義",
+            "explanation": "只取其中要義縮小皆通習所列範圍，未合本書解釋。"
+          },
+          {
+            "id": "c",
+            "text": "與同伴一起溫習",
+            "explanation": "與同伴一起是把通誤作共同，句中沒有同伴。"
+          },
+          {
+            "id": "d",
+            "text": "全都學習",
+            "explanation": "通習是全都學習，通與皆突出六藝經傳的學習範圍廣。"
+          }
+        ],
+        "misconception": "全學過是範圍，全部精通是掌握程度，原句不能直接互換；只取其中要義縮小皆通習所列範圍，未合本書解釋；與同伴一起是把通誤作共同，句中沒有同伴。"
+      },
+      "objective": "文句中「通習」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-07-03-2",
+      "ordinal": 41,
+      "baseQuestionHash": "da6b677d6639b23ba57dd3617487e69f39d7285d41f842f5f3d5242810c159d6",
+      "patch": {
+        "explanation": "拘是拘束、限制，不拘於時說李蟠不受當時恥師風俗束縛。於時引出這種外在拘束，學於余則寫他實際從師；不是因不守小節被逮捕，也不是老師挽留他。",
+        "summary": "拘是拘束、限制，不拘於時說李蟠不受當時恥師風俗束縛。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "拘束",
+            "explanation": "拘是拘束、限制，不拘於時說李蟠不受當時恥師風俗束縛。"
+          },
+          {
+            "id": "b",
+            "text": "逮捕",
+            "explanation": "逮捕屬拘的執法義，原句沒有犯罪拘捕情節。"
+          },
+          {
+            "id": "c",
+            "text": "挽留",
+            "explanation": "挽留是請人留下，當時風俗在此限制的是從學態度。"
+          },
+          {
+            "id": "d",
+            "text": "拘泥禮節",
+            "explanation": "禮節不是時在本篇所指，不能把不拘時俗縮為不拘小節。"
+          }
+        ],
+        "misconception": "逮捕屬拘的執法義，原句沒有犯罪拘捕情節；挽留是請人留下，當時風俗在此限制的是從學態度；禮節不是時在本篇所指，不能把不拘時俗縮為不拘小節。"
+      },
+      "objective": "文句中「拘」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-07-03-3",
+      "ordinal": 42,
+      "baseQuestionHash": "d07ed8d46745cc97a1cfdec42d22ac389f20b2f6fba21df8421d8a447a3c10f6",
+      "patch": {
+        "explanation": "時指當時恥於從師的時俗，與前文士大夫群笑從師的風氣相連。李蟠不被這風氣限制而向韓愈學，正落實全文主張；不是隨時都能上課、忽略季節或不等良機。",
+        "summary": "時指當時恥於從師的時俗，與前文士大夫群笑從師的風氣相連。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "季節的變化",
+            "explanation": "季節變化沒有與恥師風氣相連，並非受稱許的原因。"
+          },
+          {
+            "id": "b",
+            "text": "目前的時刻",
+            "explanation": "目前時刻是時間點，不能表出對社會風俗的抵抗。"
+          },
+          {
+            "id": "c",
+            "text": "當時的風俗",
+            "explanation": "時指當時恥於從師的時俗，與前文士大夫群笑從師的風氣相連。"
+          },
+          {
+            "id": "d",
+            "text": "合適的時機",
+            "explanation": "合適時機說何時求學，原文說是否被恥師觀念束縛。"
+          }
+        ],
+        "misconception": "季節變化沒有與恥師風氣相連，並非受稱許的原因；目前時刻是時間點，不能表出對社會風俗的抵抗；合適時機說何時求學，原文說是否被恥師觀念束縛。"
+      },
+      "objective": "文句中「時」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-07-03-4",
+      "ordinal": 43,
+      "baseQuestionHash": "32587571888dbe4a5168b7904e8773dfc99b7eb531ee312c7e6ed815a7a18fd1",
+      "patch": {
+        "explanation": "嘉是讚許，韓愈所讚的是李蟠能行古人從師之道。寫文贈他是表達嘉許與勉勵的方式，不是慶祝某次勝利、可憐他的處境，更沒有授予官位。",
+        "summary": "嘉是讚許，韓愈所讚的是李蟠能行古人從師之道。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "讚許",
+            "explanation": "嘉是讚許，韓愈所讚的是李蟠能行古人從師之道。"
+          },
+          {
+            "id": "b",
+            "text": "慶賀",
+            "explanation": "慶賀多指祝賀喜事，本句重對其好學態度的肯定。"
+          },
+          {
+            "id": "c",
+            "text": "同情",
+            "explanation": "同情着重對困境的憐惜，本文讚他主動不從俗。"
+          },
+          {
+            "id": "d",
+            "text": "賞賜官位",
+            "explanation": "文中賞的是一篇贈文，嘉字本身不包含授官。"
+          }
+        ],
+        "misconception": "慶賀多指祝賀喜事，本句重對其好學態度的肯定；同情着重對困境的憐惜，本文讚他主動不從俗；文中賞的是一篇贈文，嘉字本身不包含授官。"
+      },
+      "objective": "文句中「嘉」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-01-00-b",
+      "ordinal": 44,
+      "baseQuestionHash": "ed521c4c2c0b965dfd8ef57bcd70791228d1377206833f000864f5dd7987e641",
+      "patch": {
+        "explanation": "人不是生來全知，所以人人會有疑惑；有惑而不從師，疑惑便難解，因而說明教師解惑的必要。這段由人的學習需要推到從師理由，並沒有先要求精通所有經書才許求教。",
+        "summary": "人不是生來全知，所以人人會有疑惑；有惑而不從師，疑惑便難解，因而說明教師解惑的必要。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "由人難免有惑，推到任何一位老師都能解盡全部疑惑",
+            "explanation": "有惑說明需要從師，不代表每一老師都能包辦全部學問。"
+          },
+          {
+            "id": "b",
+            "text": "由古人有老師，推到今人只需模仿拜師禮便可知之",
+            "explanation": "原文連到傳道解惑的實質學習，非只行拜師禮。"
+          },
+          {
+            "id": "c",
+            "text": "由人皆有惑，推到不從師則惑終難解",
+            "explanation": "人不是生來全知，所以人人會有疑惑；有惑而不從師，疑惑便難解，因而說明教師解惑的必要。"
+          },
+          {
+            "id": "d",
+            "text": "由人生來不全知，推到無論是否從師都不能解惑",
+            "explanation": "不從師才是終不解的條件，不能把它刪掉而否定從師作用。"
+          }
+        ],
+        "misconception": "有惑說明需要從師，不代表每一老師都能包辦全部學問；原文連到傳道解惑的實質學習，非只行拜師禮；不從師才是終不解的條件，不能把它刪掉而否定從師作用。"
+      },
+      "objective": "「人非生而知之者」如何推進作者關於教師的論述？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-07-02-00-b",
+      "ordinal": 45,
+      "baseQuestionHash": "0dac5eac38af90c1ab9af51988b3aa9f05cc9fe8b393dc54d5dd2d517181e756",
+      "patch": {
+        "explanation": "老師可生於我前或我後，但兩種情況都以聞道先於我為從學理由。兩個吾從而師之用相同行動回應，刻意分開出生次序與聞道次序，否定只憑年齡擇師。",
+        "summary": "老師可生於我前或我後，但兩種情況都以聞道先於我為從學理由。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "出生有先後，能否為師仍取決於聞道先後",
+            "explanation": "老師可生於我前或我後，但兩種情況都以聞道先於我為從學理由。"
+          },
+          {
+            "id": "b",
+            "text": "聞道有先後，出生較晚的人應先向長者求證",
+            "explanation": "年少而先聞道已足以從學，原文沒有再由長者核准的程序。"
+          },
+          {
+            "id": "c",
+            "text": "年齡不必相同，官位相近才適合相互從師",
+            "explanation": "官位相近仍是身分限制，與無貴無賤不合。"
+          },
+          {
+            "id": "d",
+            "text": "專長各有不同，聞道先後便不再影響擇師",
+            "explanation": "各有專長不會取消聞道先後的作用，兩者都可說明何以有可學者。"
+          }
+        ],
+        "misconception": "年少而先聞道已足以從學，原文沒有再由長者核准的程序；官位相近仍是身分限制，與無貴無賤不合；各有專長不會取消聞道先後的作用，兩者都可說明何以有可學者。"
+      },
+      "objective": "作者先後假設老師「生乎吾前」及「生乎吾後」，意在說明甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-03-00-b",
+      "ordinal": 46,
+      "baseQuestionHash": "1b95bcb1db7c3ea45b5d03d39814346ec4412f01586adf0d611278d0a5fb6856",
+      "patch": {
+        "explanation": "古聖已高明仍從師，今眾本不及卻恥師，態度差異使原有差距繼續擴大。益寫更進一步的結果，不能把這段說成天資出身已決定一切，或只按老師與專長數目計算成就。",
+        "summary": "古聖已高明仍從師，今眾本不及卻恥師，態度差異使原有差距繼續擴大。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "古聖本性不可改，今眾本性不可改，差距只由天生決定",
+            "explanation": "猶且從師與恥師的對照強調後續選擇，不是說學習不起作用。"
+          },
+          {
+            "id": "b",
+            "text": "古聖身分受尊重，今眾身分不受尊重，名望造成學問差距",
+            "explanation": "出人下聖人論才智，原文未以社會名望作差距成因。"
+          },
+          {
+            "id": "c",
+            "text": "古聖跟過的老師數目多，今眾數目少，數量決定成就",
+            "explanation": "原文未統計師數，肯求教與恥於求教的態度才是論據。"
+          },
+          {
+            "id": "d",
+            "text": "古聖仍從師，今眾反恥師，兩種取向拉大差距",
+            "explanation": "古聖已高明仍從師，今眾本不及卻恥師，態度差異使原有差距繼續擴大。"
+          }
+        ],
+        "misconception": "猶且從師與恥師的對照強調後續選擇，不是說學習不起作用；出人下聖人論才智，原文未以社會名望作差距成因；原文未統計師數，肯求教與恥於求教的態度才是論據。"
+      },
+      "objective": "「聖益聖，愚益愚」把差距擴大主要歸於甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-07-04-00-b",
+      "ordinal": 47,
+      "baseQuestionHash": "9cb62d4686f5e7b0b1d6235e86d06219a4c3b950fc52b7a1cfe0bf2b4cf017e0",
+      "patch": {
+        "explanation": "批評的是同一成人願為孩子聘師學句讀，卻因恥師放棄自己求道解惑。小學大遺指出取捨倒置，不是否定童子啟蒙的價值，也不是指孩子本人選錯學習內容。",
+        "summary": "批評的是同一成人願為孩子聘師學句讀，卻因恥師放棄自己求道解惑。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "批評童子之師教句讀，視啟蒙教育為師道不傳的主因",
+            "explanation": "教句讀本身未被否定，主因在成人自己恥師、放棄求道。"
+          },
+          {
+            "id": "b",
+            "text": "批評成人替子學句讀，卻輕忽自己求道解惑",
+            "explanation": "批評的是同一成人願為孩子聘師學句讀，卻因恥師放棄自己求道解惑。"
+          },
+          {
+            "id": "c",
+            "text": "批評成人先為子擇師，要求先解盡自己的疑惑才可教子",
+            "explanation": "批評不是誰先學的程序，而是成人對己拒學的取捨。"
+          },
+          {
+            "id": "d",
+            "text": "批評孩子只學句讀，把成人恥師歸因於童蒙不足",
+            "explanation": "受批評的決策者是成人，文中未建立童蒙不足導致成人恥師的因果。"
+          }
+        ],
+        "misconception": "教句讀本身未被否定，主因在成人自己恥師、放棄求道；批評不是誰先學的程序，而是成人對己拒學的取捨；受批評的決策者是成人，文中未建立童蒙不足導致成人恥師的因果。"
+      },
+      "objective": "「小學而大遺」的批評對象和重點，哪項配對最準確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-07-05-00-b",
+      "ordinal": 48,
+      "baseQuestionHash": "ab7e841f59a0f4da259448fd2092ef10642e98db0c1af1486423c746dec4a090",
+      "patch": {
+        "explanation": "位低嫌可羞、官高又怕近諛，士大夫把兩種身分都轉成拒絕從師的理由。這恰好避開對方是否有道可學，與無貴無賤的準則相反；韓愈是在揭穿藉口，不是接受這套標準。",
+        "summary": "位低嫌可羞、官高又怕近諛，士大夫把兩種身分都轉成拒絕從師的理由。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "把年齡相若視為從師條件，忽略老師的傳道責任",
+            "explanation": "年齡藉口見前一句，但題中兩句直接說官位高低。"
+          },
+          {
+            "id": "b",
+            "text": "把官位高低轉成拒師藉口，避開以道擇師的準則",
+            "explanation": "位低嫌可羞、官高又怕近諛，士大夫把兩種身分都轉成拒絕從師的理由。"
+          },
+          {
+            "id": "c",
+            "text": "把百工專長視為從師條件，忽略士大夫也有所長",
+            "explanation": "士大夫不是以百工專長為必要條件，而是輕視其身分不願從學。"
+          },
+          {
+            "id": "d",
+            "text": "把古人的做法視為唯一標準，忽略今人的求學需要",
+            "explanation": "他們的藉口依當時身分觀念，並非堅持古人從師之道。"
+          }
+        ],
+        "misconception": "年齡藉口見前一句，但題中兩句直接說官位高低；士大夫不是以百工專長為必要條件，而是輕視其身分不願從學；他們的藉口依當時身分觀念，並非堅持古人從師之道。"
+      },
+      "objective": "為何士大夫的「位卑則足羞，官盛則近諛」不足以成立？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-06-00-b",
+      "ordinal": 49,
+      "baseQuestionHash": "6a7df130c1a6bd823892233f58d77507604ef0ef880c64d787600f972a78404d",
+      "patch": {
+        "explanation": "孔子整體賢能更高，仍可向各有專長的人學，說明老師不必全面勝過學生。不必是否定必然，不是顛倒成老師一定較差；可否從學應看某處聞道先後或專長差別。",
+        "summary": "孔子整體賢能更高，仍可向各有專長的人學，說明老師不必全面勝過學生。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "老師不一定年長於學生，但各方面學問仍須優於學生",
+            "explanation": "全面勝過的要求正被其賢不及孔子而仍為師的例子否定。"
+          },
+          {
+            "id": "b",
+            "text": "老師不一定全面優於學生，聞道先後與術業各有差別",
+            "explanation": "孔子整體賢能更高，仍可向各有專長的人學，說明老師不必全面勝過學生。"
+          },
+          {
+            "id": "c",
+            "text": "學生可在技藝上勝過老師，但道理只能由長者傳授",
+            "explanation": "年少也可先聞道，道理傳授未限定長者。"
+          },
+          {
+            "id": "d",
+            "text": "學生已有一項專長，就不須再向老師學其他方面",
+            "explanation": "已有一長不表示其他方面無惑，不能因此取消再學的需要。"
+          }
+        ],
+        "misconception": "全面勝過的要求正被其賢不及孔子而仍為師的例子否定；年少也可先聞道，道理傳授未限定長者；已有一長不表示其他方面無惑，不能因此取消再學的需要。"
+      },
+      "objective": "由孔子向數人學習，推出「師不必賢於弟子」，應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-07-00-b",
+      "ordinal": 50,
+      "baseQuestionHash": "22b87cb6ca66acb1b7c5b02fd144459e55fedef250336a9ec00cc9a4d534e018",
+      "patch": {
+        "explanation": "李蟠不受恥師時俗束縛而向韓愈求學，把作者推崇的從師古道落在當代人物身上。篇末既說明贈文緣由，也讓讀者看到風氣雖壞仍有人可實踐主張，不是年少或名師身分本身便值得誇耀。",
+        "summary": "李蟠不受恥師時俗束縛而向韓愈求學，把作者推崇的從師古道落在當代人物身上。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "李蟠年少而已通習六經，證明少年必比長者聞道早",
+            "explanation": "一個少年的好學事例不能推出所有少年必較長者早聞道。"
+          },
+          {
+            "id": "b",
+            "text": "李蟠不受恥師時俗限制，實踐作者提倡的從師古道",
+            "explanation": "李蟠不受恥師時俗束縛而向韓愈求學，把作者推崇的從師古道落在當代人物身上。"
+          },
+          {
+            "id": "c",
+            "text": "李蟠喜歡古文，證明教師應以文辭風格代替傳道",
+            "explanation": "好古文與求道相連，不是以文辭風格取代傳道解惑。"
+          },
+          {
+            "id": "d",
+            "text": "李蟠從韓愈學習，證明向名望高者求學不會近諛",
+            "explanation": "作者以有道可學為準，並非僅因韓愈有名便免除近諛之嫌。"
+          }
+        ],
+        "misconception": "一個少年的好學事例不能推出所有少年必較長者早聞道；好古文與求道相連，不是以文辭風格取代傳道解惑；作者以有道可學為準，並非僅因韓愈有名便免除近諛之嫌。"
+      },
+      "objective": "篇末寫李蟠「不拘於時，學於余」，與全文主張有何關係？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-10-00-1",
+      "ordinal": 51,
+      "baseQuestionHash": "3b2d7e03600ca2823c2ae8ba3b969308523be4d8e7c66961d00790bd20f686e5",
+      "patch": {
+        "explanation": "首段列完整師職，童子段再區分教句讀與傳道解惑，讓小學大遺的輕重對照有根據。成人願處理孩子的基本學習，卻忽略自身較大疑惑，才是批評核心；並非推翻教句讀的價值。",
+        "summary": "首段列完整師職，童子段再區分教句讀與傳道解惑，讓小學大遺的輕重對照有根據。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "先定從師先後程序，要求成人補學句讀後才可求道",
+            "explanation": "原文未設成人須重讀句讀才可求道的學習程序。"
+          },
+          {
+            "id": "b",
+            "text": "以童子之師為反例，否定教句讀也是教師的工作",
+            "explanation": "教句讀仍是工作，只是未涵蓋作者在此強調的完整師職。"
+          },
+          {
+            "id": "c",
+            "text": "限定本文重在求道解惑，指出成人對大小之學取捨失當",
+            "explanation": "首段列完整師職，童子段再區分教句讀與傳道解惑，讓小學大遺的輕重對照有根據。"
+          },
+          {
+            "id": "d",
+            "text": "以童子授書的職責為標準，改寫首段教師的主要任務",
+            "explanation": "後文用首段的界定批評取捨，沒有把主要師職縮改成只授書。"
+          }
+        ],
+        "misconception": "原文未設成人須重讀句讀才可求道的學習程序；教句讀仍是工作，只是未涵蓋作者在此強調的完整師職；後文用首段的界定批評取捨，沒有把主要師職縮改成只授書。"
+      },
+      "objective": "「彼童子之師……非吾所謂傳其道、解其惑者也」呼應首段教師職責，有何作用？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-10-00-2",
+      "ordinal": 52,
+      "baseQuestionHash": "c0d10cb492387b892d0735dfa2242afa8cd9aec147939981fbab27b3a9a05efa",
+      "patch": {
+        "explanation": "百工與士大夫的主要差別在社會身分，故最直接呼應無貴無賤。地位被看低的人仍懂相師，地位高的人反恥師，說明身分不能保證明智，也不能作求學的限制。",
+        "summary": "百工與士大夫的主要差別在社會身分，故最直接呼應無貴無賤。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "無貴無賤",
+            "explanation": "百工與士大夫的主要差別在社會身分，故最直接呼應無貴無賤。"
+          },
+          {
+            "id": "b",
+            "text": "無長無少",
+            "explanation": "這組不是以年紀長幼區分，無長無少不是最直接的對應。"
+          },
+          {
+            "id": "c",
+            "text": "術業有專攻",
+            "explanation": "百工可有專長，但題目這組階層與態度對比重點在貴賤。"
+          },
+          {
+            "id": "d",
+            "text": "人非生而知之者",
+            "explanation": "人人有惑支持從師必要，卻未直接針對身分高低的分界。"
+          }
+        ],
+        "misconception": "這組不是以年紀長幼區分，無長無少不是最直接的對應；百工可有專長，但題目這組階層與態度對比重點在貴賤；人人有惑支持從師必要，卻未直接針對身分高低的分界。"
+      },
+      "objective": "百工能相師、士大夫反而恥師，最能呼應前文哪句？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-10-00-3",
+      "ordinal": 53,
+      "baseQuestionHash": "0728514a4fcce046005da7b4b9d6a69dcbd9955db20718efe3a0c53790011dd0",
+      "patch": {
+        "explanation": "若依道與可學之長擇師，能求教的人便不只一位，孔子向數人學習正好證明這點。兩句共同把注意放在學習內容，而非固定某人或身分；也沒有由孔子個案推出老師永遠比學生差。",
+        "summary": "若依道與可學之長擇師，能求教的人便不只一位，孔子向數人學習正好證明這點。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "孔子之師都不及孔子，所以老師總不及學生",
+            "explanation": "不必賢不等於總不及，不能把一組例子推成所有師生的固定關係。"
+          },
+          {
+            "id": "b",
+            "text": "孔子選老師不論年代，所以不必重視聞道先後",
+            "explanation": "不計出生年代不表示不看聞道先後，這兩種先後須分清。"
+          },
+          {
+            "id": "c",
+            "text": "孔子並不固定一師，依不同人的所知求教",
+            "explanation": "若依道與可學之長擇師，能求教的人便不只一位，孔子向數人學習正好證明這點。"
+          },
+          {
+            "id": "d",
+            "text": "孔子曾向不及自己的人學，因而不再向更高明者求教",
+            "explanation": "可向不及者學不等於排除更高明者，只要有可學之長仍可求教。"
+          }
+        ],
+        "misconception": "不必賢不等於總不及，不能把一組例子推成所有師生的固定關係；不計出生年代不表示不看聞道先後，這兩種先後須分清；可向不及者學不等於排除更高明者，只要有可學之長仍可求教。"
+      },
+      "objective": "「聖人無常師」為何能支持「道之所存，師之所存也」？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-07-10-00-4",
+      "ordinal": 54,
+      "baseQuestionHash": "273e291c5ccb7db6124025be295baef16c1eb7f1c82e34e78a921f9f0f5ef892",
+      "patch": {
+        "explanation": "出生先後與領會道理先後可以不同，擇師要看後者而非只看年齡。第二段年少先聞道的假設，到孔子段以聞道有先後概括，前後共同反對用年歲固定誰只能教、誰只能學。",
+        "summary": "出生先後與領會道理先後可以不同，擇師要看後者而非只看年齡。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "出生先後可不同，求師看聞道是否先於自己",
+            "explanation": "出生先後與領會道理先後可以不同，擇師要看後者而非只看年齡。"
+          },
+          {
+            "id": "b",
+            "text": "年長者擅長傳道，年少者只宜教授具體技藝",
+            "explanation": "作者未按長幼分配道與技藝，年少也可先懂道理。"
+          },
+          {
+            "id": "c",
+            "text": "出生較早者先聞道，出生較晚者應從其學習",
+            "explanation": "生於我後仍可聞道在先，已直接否定出生次序必等於聞道次序。"
+          },
+          {
+            "id": "d",
+            "text": "一旦先聞道便固定為師，後學者不能反過來成為老師",
+            "explanation": "術業各有所長，師生可互學，不能一次先聞道就永久固定關係。"
+          }
+        ],
+        "misconception": "作者未按長幼分配道與技藝，年少也可先懂道理；生於我後仍可聞道在先，已直接否定出生次序必等於聞道次序；術業各有所長，師生可互學，不能一次先聞道就永久固定關係。"
+      },
+      "objective": "「聞道有先後」補充「生乎吾前／後」的論述，重點是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-11-00-1",
+      "ordinal": 55,
+      "baseQuestionHash": "6f464299d3d93dc4a3b260dc68c067126fde33dcae890cfd059f93b2f39cca79",
+      "patch": {
+        "explanation": "古聖已遠勝一般人還肯從師，能反襯今眾更應問學卻偏恥師的失當。刪掉這一端，仍可批評今人，卻少了高明者尚且如此、一般人更應如此的說服力量。",
+        "summary": "古聖已遠勝一般人還肯從師，能反襯今眾更應問學卻偏恥師的失當。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "少了把才智差距完全歸於先天、排除學習作用的結論",
+            "explanation": "古聖仍從師正說學習態度重要，並非排除後天作用。"
+          },
+          {
+            "id": "b",
+            "text": "少了古聖早已無惑、問師只為表示禮敬的證據",
+            "explanation": "從師而問是問學行動，未交代已無惑或只有禮敬目的。"
+          },
+          {
+            "id": "c",
+            "text": "少了比今眾高明者尚肯從師的反襯",
+            "explanation": "古聖已遠勝一般人還肯從師，能反襯今眾更應問學卻偏恥師的失當。"
+          },
+          {
+            "id": "d",
+            "text": "少了用拜師次數多少衡量古今學問的量化尺度",
+            "explanation": "句中沒有拜師次數或評分尺度，力量來自高明者尚肯學的反襯。"
+          }
+        ],
+        "misconception": "古聖仍從師正說學習態度重要，並非排除後天作用；從師而問是問學行動，未交代已無惑或只有禮敬目的；句中沒有拜師次數或評分尺度，力量來自高明者尚肯學的反襯。"
+      },
+      "objective": "假如刪去古聖人「其出人也遠矣，猶且從師」，只保留今眾恥師，說服力會減弱在哪方面？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-07-11-00-2",
+      "ordinal": 56,
+      "baseQuestionHash": "e6ec6b63eabe18810c1372e4c68fae0b81bd12862230bc852d53d4a2494a48bd",
+      "patch": {
+        "explanation": "比較的是同一成人對孩子與對自己的從師態度：為子擇師，對己卻恥師。其子、其身讓兩端歸到同一決策者，揭出標準矛盾，不是老師對不同學生的教法，也不是孩子長大後的變化。",
+        "summary": "比較的是同一成人對孩子與對自己的從師態度：為子擇師，對己卻恥師。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "同一成人對孩子與對自己的從師態度。",
+            "explanation": "比較的是同一成人對孩子與對自己的從師態度：為子擇師，對己卻恥師。"
+          },
+          {
+            "id": "b",
+            "text": "不同成人為孩子選老師的準則。",
+            "explanation": "原句未列兩名成人比較選師準則，而是同一人的兩種取捨。"
+          },
+          {
+            "id": "c",
+            "text": "同一老師對童子與成人的教學內容。",
+            "explanation": "主體是替子選師的成人，不是授課老師。"
+          },
+          {
+            "id": "d",
+            "text": "同一孩子年少與成年後的求學態度。",
+            "explanation": "其身指成人本人，不能接成同一孩子後來成年。"
+          }
+        ],
+        "misconception": "原句未列兩名成人比較選師準則，而是同一人的兩種取捨；主體是替子選師的成人，不是授課老師；其身指成人本人，不能接成同一孩子後來成年。"
+      },
+      "objective": "「愛其子，擇師而教之；於其身也，則恥師焉」是比較哪兩者？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-11-00-3",
+      "ordinal": 57,
+      "baseQuestionHash": "acff07685dd8dfda5800f178402fdfac696a504c600b7cd15f963e70eee031d0",
+      "patch": {
+        "explanation": "士大夫先在身分上看不起百工，卻在懂得相師求學這方面反不及百工，落差構成諷刺。不齒與不能及說的是不同評價面向，不能把地位高就必定智高的偏見當成作者結論。",
+        "summary": "士大夫先在身分上看不起百工，卻在懂得相師求學這方面反不及百工，落差構成諷刺。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "士大夫的社會地位低於百工，才智卻高於百工",
+            "explanation": "士大夫自居身分較高，選項把兩端地位與才智都倒轉。"
+          },
+          {
+            "id": "b",
+            "text": "百工雖有技藝，卻不如士大夫懂得選擇老師",
+            "explanation": "不恥相師正是百工較明智處，並非不如士大夫會擇師。"
+          },
+          {
+            "id": "c",
+            "text": "士大夫輕視百工身分，才智卻不及肯相師的百工",
+            "explanation": "士大夫先在身分上看不起百工，卻在懂得相師求學這方面反不及百工，落差構成諷刺。"
+          },
+          {
+            "id": "d",
+            "text": "士大夫與百工年齡相若，才智便應該相同",
+            "explanation": "這組比較未以年齡相若為前提，年齡也不保證才智相同。"
+          }
+        ],
+        "misconception": "士大夫自居身分較高，選項把兩端地位與才智都倒轉；不恥相師正是百工較明智處，並非不如士大夫會擇師；這組比較未以年齡相若為前提，年齡也不保證才智相同。"
+      },
+      "objective": "「君子不齒」與「今其智乃反不能及」相連，具體構成哪一種反差？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-12-03-1",
+      "ordinal": 58,
+      "baseQuestionHash": "2d0888e324f610131e70574d1775d28da91329a3bc894b30caf46783c659ee20",
+      "patch": {
+        "explanation": "嗟乎發出感嘆，久矣、難矣肯定師道久衰及人難解惑的現狀，合成憂慮不滿的慨歎。要根據所嘆的內容辨情緒，不能把後段百工反差或末段嘉李蟠的情感搬到這裏。",
+        "summary": "嗟乎發出感嘆，久矣、難矣肯定師道久衰及人難解惑的現狀，合成憂慮不滿的慨歎。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "對師道久衰和解惑之難的慨歎",
+            "explanation": "嗟乎發出感嘆，久矣、難矣肯定師道久衰及人難解惑的現狀，合成憂慮不滿的慨歎。"
+          },
+          {
+            "id": "b",
+            "text": "對成人重小遺大的婉轉否定",
+            "explanation": "成人小學大遺尚在下段，這裏慨嘆整體師道與解惑困境。"
+          },
+          {
+            "id": "c",
+            "text": "對士大夫才智不及百工的驚詫諷刺",
+            "explanation": "百工比較帶驚詫諷刺，但這一開句未提出那種反差。"
+          },
+          {
+            "id": "d",
+            "text": "對李蟠不拘時俗從師的欣賞",
+            "explanation": "李蟠是末段正面人物，此句則對現狀感嘆不滿。"
+          }
+        ],
+        "misconception": "成人小學大遺尚在下段，這裏慨嘆整體師道與解惑困境；百工比較帶驚詫諷刺，但這一開句未提出那種反差；李蟠是末段正面人物，此句則對現狀感嘆不滿。"
+      },
+      "objective": "「嗟乎！師道之不傳也久矣！欲人之無惑也難矣！」的主要語氣是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-12-03-2",
+      "ordinal": 59,
+      "baseQuestionHash": "409189c74107c7d6c352a14c2eb706e76058b27ea40c46c9df6fd59f4b5f631f",
+      "patch": {
+        "explanation": "其帶大概的推斷，乎使句子帶思量語氣，依從師與恥師的對照推究聖愚差異。它不是否認從師有用，也不把態度因素改成天資決定一切；有推斷分寸仍有前文明確依據。",
+        "summary": "其帶大概的推斷，乎使句子帶思量語氣，依從師與恥師的對照推究聖愚差異。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "確定聖愚的差別完全由天資決定",
+            "explanation": "原文依求學態度作推論，未把全部差別鎖定為天資。"
+          },
+          {
+            "id": "b",
+            "text": "反問以否定從師與聖愚有關",
+            "explanation": "出於此肯定態度與結果的關聯，並非反問否定。"
+          },
+          {
+            "id": "c",
+            "text": "推測聖愚的差別與從師態度有關",
+            "explanation": "其帶大概的推斷，乎使句子帶思量語氣，依從師與恥師的對照推究聖愚差異。"
+          },
+          {
+            "id": "d",
+            "text": "感歎當世從師風氣已經無法恢復",
+            "explanation": "本句正追究聖愚成因，師道不復的感嘆是後段另一句。"
+          }
+        ],
+        "misconception": "原文依求學態度作推論，未把全部差別鎖定為天資；出於此肯定態度與結果的關聯，並非反問否定；本句正追究聖愚成因，師道不復的感嘆是後段另一句。"
+      },
+      "objective": "「其皆出於此乎」的「其」「乎」使語氣有何特點？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-12-03-3",
+      "ordinal": 60,
+      "baseQuestionHash": "cfe8a8dc7d7d4f1b596f9e1500a40591818cdea18a8e1d0ee7c71459147ce154",
+      "patch": {
+        "explanation": "士大夫對地位高低都設拒師理由，作者才說由此可知師道難復。嗚呼表慨歎，可知矣表有根據的判斷；這個結論是在批評阻力，不是同意拒師合理或放棄從師主張。",
+        "summary": "士大夫對地位高低都設拒師理由，作者才說由此可知師道難復。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "從士大夫的拒師藉口推知師道難復，語含慨歎",
+            "explanation": "士大夫對地位高低都設拒師理由，作者才說由此可知師道難復。"
+          },
+          {
+            "id": "b",
+            "text": "從士大夫詳說理由判定拒師合理，語含體諒",
+            "explanation": "列出藉口是供反駁，不能把作者的批評讀成體諒認同。"
+          },
+          {
+            "id": "c",
+            "text": "從百工仍肯相師判定師道已復，語含欣慰",
+            "explanation": "百工相師是正面對照，未足證整體恥師風氣已消失。"
+          },
+          {
+            "id": "d",
+            "text": "從士大夫拒師推知從師無益，語含無奈",
+            "explanation": "風氣難復不等於從師無益，全文正主張有惑應學。"
+          }
+        ],
+        "misconception": "列出藉口是供反駁，不能把作者的批評讀成體諒認同；百工相師是正面對照，未足證整體恥師風氣已消失；風氣難復不等於從師無益，全文正主張有惑應學。"
+      },
+      "objective": "「嗚呼！師道之不復，可知矣」與前述士大夫拒師的話有何關係？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-12-03-4",
+      "ordinal": 61,
+      "baseQuestionHash": "2a0c21f33a1121d70a0fb503c581bcd0a0baba993bd1bcdb2c016331ea2c6236",
+      "patch": {
+        "explanation": "乃反突出士大夫自認身分較高、才智卻不及肯相師的百工，帶驚詫與諷刺。其智的其指士大夫，不能及的對象是百工；先把雙方對準，才可說清這個反差何在。",
+        "summary": "乃反突出士大夫自認身分較高、才智卻不及肯相師的百工，帶驚詫與諷刺。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "士大夫自視較高卻智不及百工，令人驚詫而可諷",
+            "explanation": "乃反突出士大夫自認身分較高、才智卻不及肯相師的百工，帶驚詫與諷刺。"
+          },
+          {
+            "id": "b",
+            "text": "士大夫自視較高卻願向百工求教，令人意外而可喜",
+            "explanation": "原文寫其恥師群笑，並未寫改而向百工求學。"
+          },
+          {
+            "id": "c",
+            "text": "百工身分較低卻恥向士大夫學習，令人不滿而可責",
+            "explanation": "不恥相師的是百工，拒學態度不能反移給他們。"
+          },
+          {
+            "id": "d",
+            "text": "士大夫不及百工便失去原有官位，令人惋惜而可歎",
+            "explanation": "才智不及不等於已被撤官，原句諷刺而非哀歎失位。"
+          }
+        ],
+        "misconception": "原文寫其恥師群笑，並未寫改而向百工求學；不恥相師的是百工，拒學態度不能反移給他們；才智不及不等於已被撤官，原句諷刺而非哀歎失位。"
+      },
+      "objective": "「今其智乃反不能及，其可怪也歟」中「乃反」有何作用？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-07-13-00-1",
+      "ordinal": 62,
+      "baseQuestionHash": "ba6f0ba3114f1bc0b6cbe336456b5ccdb6ecb49ddbbb285c9141fe887651e0d2",
+      "patch": {
+        "explanation": "孰能無惑反問誰能沒有疑惑，實際意思是人人難免有惑。它接在人非生而知之之後，以問句加強肯定，再引向不從師則惑難解；改陳述句須保留人人有惑這層，不可另加學習範圍限制。",
+        "summary": "孰能無惑反問誰能沒有疑惑，實際意思是人人難免有惑。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "古今人的疑惑不同，所以須向不同朝代的人學習",
+            "explanation": "不同朝代不是這句推論的條件，原文也未要求跨朝代求教。"
+          },
+          {
+            "id": "b",
+            "text": "沒有人天生全知，所以人人難免有惑",
+            "explanation": "孰能無惑反問誰能沒有疑惑，實際意思是人人難免有惑。"
+          },
+          {
+            "id": "c",
+            "text": "從師的人仍可能有惑，所以教師只須教句讀",
+            "explanation": "仍有惑不能推出只教句讀，教師還有傳道解惑職責。"
+          },
+          {
+            "id": "d",
+            "text": "人所學各有專攻，所以不必處理專長外的疑惑",
+            "explanation": "專攻在後段，不能用它取消處理其他疑惑的需要。"
+          }
+        ],
+        "misconception": "不同朝代不是這句推論的條件，原文也未要求跨朝代求教；仍有惑不能推出只教句讀，教師還有傳道解惑職責；專攻在後段，不能用它取消處理其他疑惑的需要。"
+      },
+      "objective": "「人非生而知之者，孰能無惑？」若改成陳述句，哪項保留原意？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-13-00-2",
+      "ordinal": 63,
+      "baseQuestionHash": "4ae769c703e73327496c07b4c94333075882fb84f1c82a3f7e67453bcee0f0c5",
+      "patch": {
+        "explanation": "反問何必知道對方比自己早生或晚生，強調擇師不必計較年齡。前句吾師道也已說目的在學道，故取消的是年歲門檻，留下的仍是有道可學的標準，並非所有標準都不要。",
+        "summary": "反問何必知道對方比自己早生或晚生，強調擇師不必計較年齡。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "把焦點從聞道移向專長，主張聞道先後也不重要",
+            "explanation": "聞道先後仍是前文反覆的準則，不因不計年齡而失效。"
+          },
+          {
+            "id": "b",
+            "text": "把焦點從學生移向老師，要求教師先了解學生年齡",
+            "explanation": "主體是求學者選師，沒有要求教師先查學生年齡。"
+          },
+          {
+            "id": "c",
+            "text": "把焦點從官位移向年齡，主張只須排除身分限制",
+            "explanation": "無長無少明確排除年齡限制，不能只留下身分不計而仍計年歲。"
+          },
+          {
+            "id": "d",
+            "text": "把焦點從年齡移向聞道，強調不必計較出生先後",
+            "explanation": "反問何必知道對方比自己早生或晚生，強調擇師不必計較年齡。"
+          }
+        ],
+        "misconception": "聞道先後仍是前文反覆的準則，不因不計年齡而失效；主體是求學者選師，沒有要求教師先查學生年齡；無長無少明確排除年齡限制，不能只留下身分不計而仍計年歲。"
+      },
+      "objective": "「夫庸知其年之先後生於吾乎」用問句表達甚麼立場？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-13-00-3",
+      "ordinal": 64,
+      "baseQuestionHash": "3975f19d313a27b6c30179a5802a33929c1356a036302929c1944a3e94b1567b",
+      "patch": {
+        "explanation": "兩句形式相稱，內容分呈更聖明與更愚昧的相反發展。益把原有程度向不同方向推進，與前文從師、恥師兩種態度相接，令結果更鮮明，不只是用古今時間排隊。",
+        "summary": "兩句形式相稱，內容分呈更聖明與更愚昧的相反發展。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "兩句形式相應，內容把所有人的學問寫成同樣進步",
+            "explanation": "聖益聖與愚益愚方向相反，不能都解成向好進步。"
+          },
+          {
+            "id": "b",
+            "text": "兩句形式相應，內容把聖人愚人的身分寫成不能變動",
+            "explanation": "益寫程度繼續變化，並將變化連到求學態度，非固定不變。"
+          },
+          {
+            "id": "c",
+            "text": "兩句形式相應，內容顯示問師愈多便愈多疑惑",
+            "explanation": "肯從師者更聖明，愚益愚對應恥師，不能把愚歸因於問師。"
+          },
+          {
+            "id": "d",
+            "text": "兩句形式相應，內容以賢愚發展的相反結果對照",
+            "explanation": "兩句形式相稱，內容分呈更聖明與更愚昧的相反發展。"
+          }
+        ],
+        "misconception": "聖益聖與愚益愚方向相反，不能都解成向好進步；益寫程度繼續變化，並將變化連到求學態度，非固定不變；肯從師者更聖明，愚益愚對應恥師，不能把愚歸因於問師。"
+      },
+      "objective": "「聖益聖，愚益愚」兩句結構相應，其內容關係是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-07-13-00-4",
+      "ordinal": 65,
+      "baseQuestionHash": "05cae9011bd39c655eb1e47bf0fcbbfd9ae4d9ebf4b14c34b1feefe90fe48711",
+      "patch": {
+        "explanation": "兩句把求教對象地位低與官位高各配一種藉口，讓無論高低都不肯學的矛盾一目了然。對偶除了整齊有力，還把批評內容成雙呈現，不能只說形式美而不交代拒師邏輯。",
+        "summary": "兩句把求教對象地位低與官位高各配一種藉口，讓無論高低都不肯學的矛盾一目了然。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "把身分高低排除之後，限定只向官位相同者學習",
+            "explanation": "兩句揭露拒師藉口，未提出官位相同即可學的正面規則。"
+          },
+          {
+            "id": "b",
+            "text": "把對方地位高與低都說成難以從師的理由",
+            "explanation": "兩句把求教對象地位低與官位高各配一種藉口，讓無論高低都不肯學的矛盾一目了然。"
+          },
+          {
+            "id": "c",
+            "text": "把高官學問較高、低位者學問較低作客觀結論",
+            "explanation": "所列是羞與近諛的身分評價，沒有證明學問必隨官位而變。"
+          },
+          {
+            "id": "d",
+            "text": "把不向高官求學寫成避免諂媚的合理措施",
+            "explanation": "近諛是士大夫藉口，作者並未認可拒絕求教是合理防範。"
+          }
+        ],
+        "misconception": "兩句揭露拒師藉口，未提出官位相同即可學的正面規則；所列是羞與近諛的身分評價，沒有證明學問必隨官位而變；近諛是士大夫藉口，作者並未認可拒絕求教是合理防範。"
+      },
+      "objective": "「位卑則足羞，官盛則近諛」兩項藉口並列，有何效果？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-07-13-00-5",
+      "ordinal": 66,
+      "baseQuestionHash": "284020c2da918663d11f391c6674ce8ff607a0bd5737b4fa023609676ca7b198",
+      "patch": {
+        "explanation": "前句以師收尾，後句以師起頭，是頂真。內容也由求學必有老師順接到老師負何職責，所以詞語銜接同時推進論述，不是單純重說同一答案。",
+        "summary": "前句以師收尾，後句以師起頭，是頂真。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "排比",
+            "explanation": "兩句不是三句以上同式並列；此處特徵是前末後首接同詞。"
+          },
+          {
+            "id": "b",
+            "text": "回環",
+            "explanation": "後句沒有把前句詞語倒序重組，而是承接末詞再說明師職。"
+          },
+          {
+            "id": "c",
+            "text": "頂真",
+            "explanation": "前句以師收尾，後句以師起頭，是頂真。"
+          },
+          {
+            "id": "d",
+            "text": "對偶",
+            "explanation": "兩句字數結構並不相稱，主要特徵是師字首尾承接。"
+          }
+        ],
+        "misconception": "兩句不是三句以上同式並列；此處特徵是前末後首接同詞；後句沒有把前句詞語倒序重組，而是承接末詞再說明師職；兩句字數結構並不相稱，主要特徵是師字首尾承接。"
+      },
+      "objective": "「古之學者必有師。師者……」以「師」銜接兩句，屬哪種修辭？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-07-13-00-6",
+      "ordinal": 67,
+      "baseQuestionHash": "c260439dc8c0c3b4c3d9dd8b93d5069e3569482232f383cab6a731dde3e2f818",
+      "patch": {
+        "explanation": "上一句用反問確立人人有惑，下一句立刻承接惑說不從師便不能解的後果。頂真把需要與解決途徑連緊，讓從師必要的推理順着同一問題展開，沒有另換成地位或年齡議題。",
+        "summary": "上一句用反問確立人人有惑，下一句立刻承接惑說不從師便不能解的後果。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "由人人有惑轉成教師製造疑惑，藉此批評教師",
+            "explanation": "後句說不從師便不解，不是把疑惑成因推給老師。"
+          },
+          {
+            "id": "b",
+            "text": "由人人有惑轉成疑惑無法解決，取消從師的必要",
+            "explanation": "終不解有不從師的條件，不能刪掉條件而說所有疑惑都無法解。"
+          },
+          {
+            "id": "c",
+            "text": "由人人有惑轉成只有今眾有惑，縮小求學對象",
+            "explanation": "前句人人有惑的範圍未被收窄，後句仍泛說有惑卻不學的人。"
+          },
+          {
+            "id": "d",
+            "text": "由人人有惑緊接到不從師的後果，推理連貫",
+            "explanation": "上一句用反問確立人人有惑，下一句立刻承接惑說不從師便不能解的後果。"
+          }
+        ],
+        "misconception": "後句說不從師便不解，不是把疑惑成因推給老師；終不解有不從師的條件，不能刪掉條件而說所有疑惑都無法解；前句人人有惑的範圍未被收窄，後句仍泛說有惑卻不學的人。"
+      },
+      "objective": "「孰能無惑？惑而不從師……」重複「惑」如何幫助論述？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-07-13-00-7",
+      "ordinal": 68,
+      "baseQuestionHash": "e105d67656c2b62f75f14af8012a5602047bb4215dff60b0c43fbf667de505d1",
+      "patch": {
+        "explanation": "不能推出的是學生各方面必勝老師，不必不如只否定學生必然較差。原句以聞道先後、專長不同保留相互學習的可能；若反定學生永遠較高，就只是換了方向重建作者反對的固定高下。",
+        "summary": "不能推出的是學生各方面必勝老師，不必不如只否定學生必然較差。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "學生各方面必定勝過老師",
+            "explanation": "不能推出的是學生各方面必勝老師，不必不如只否定學生必然較差。"
+          },
+          {
+            "id": "b",
+            "text": "學生可能在某項專長勝過老師",
+            "explanation": "某項專長可能勝過正合各有所長，是原文容許的情況。"
+          },
+          {
+            "id": "c",
+            "text": "老師不必在所有學問上超過學生",
+            "explanation": "老師不必全面勝學生正是原句主張，不能選作不可推出。"
+          },
+          {
+            "id": "d",
+            "text": "師生可以因聞道先後而各有可學之處",
+            "explanation": "聞道先後有別而可互學與後文理由相合，並非固定全面高下。"
+          }
+        ],
+        "stem": "根據「弟子不必不如師，師不必賢於弟子」，下列哪項推論不成立？",
+        "misconception": "某項專長可能勝過正合各有所長，是原文容許的情況；老師不必全面勝學生正是原句主張，不能選作不可推出；聞道先後有別而可互學與後文理由相合，並非固定全面高下。"
+      },
+      "objective": "根據「弟子不必不如師，師不必賢於弟子」，下列哪項推論不成立？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-13-00-8",
+      "ordinal": 69,
+      "baseQuestionHash": "4b6ca47d2a5dcb2e4a1f1ef9600044c139ffc48137d215192cdc937d01f4b6c3",
+      "patch": {
+        "explanation": "引語說同行者中有可學之處，配合孔子多方問學，支持不同的人可能各有所長。三不是固定師生編組的規定，師也不限有正式職稱者；重點在從對方學到甚麼。",
+        "summary": "引語說同行者中有可學之處，配合孔子多方問學，支持不同的人可能各有所長。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "只向各方面都勝過自己的人學習",
+            "explanation": "郯子等整體不及孔子仍可為師，否定全面勝己門檻。"
+          },
+          {
+            "id": "b",
+            "text": "不同的人都可能在某方面值得學習",
+            "explanation": "引語說同行者中有可學之處，配合孔子多方問學，支持不同的人可能各有所長。"
+          },
+          {
+            "id": "c",
+            "text": "只選有正式師職的人作老師",
+            "explanation": "只准正式教師會縮窄有可學之處者的範圍，原文無此限定。"
+          },
+          {
+            "id": "d",
+            "text": "同行三人中必有固定一人可終身為師",
+            "explanation": "無常師正反對固定一師，不能把三人行讀成終身師承名額。"
+          }
+        ],
+        "misconception": "郯子等整體不及孔子仍可為師，否定全面勝己門檻；只准正式教師會縮窄有可學之處者的範圍，原文無此限定；無常師正反對固定一師，不能把三人行讀成終身師承名額。"
+      },
+      "objective": "引孔子「三人行，則必有我師」，最直接支持哪一擇師原則？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-13-00-9",
+      "ordinal": 70,
+      "baseQuestionHash": "0a2821db64ca2637c8438e6fe3a82d5067ebfeafdedf5e2094c15f1c2e50543d",
+      "patch": {
+        "explanation": "列孔子向誰學是行動事例，引三人行是其擇師言論，言與行一起支持有可學之長即可從師。兩種材料相互印證，既有具體實踐也有明確道理，非只是重複稱孔子博學。",
+        "summary": "列孔子向誰學是行動事例，引三人行是其擇師言論，言與行一起支持有可學之長即可從師。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "先寫孔子師承，後以言論否定早年的從師選擇",
+            "explanation": "三人行支持多方問學，與前列師承相符而非相反。"
+          },
+          {
+            "id": "b",
+            "text": "先列師承人數，後以言論限定最多只可從三人學",
+            "explanation": "三人行不是師承數量上限，不能用來限制前列人選。"
+          },
+          {
+            "id": "c",
+            "text": "從師事例與擇師言論相互印證",
+            "explanation": "列孔子向誰學是行動事例，引三人行是其擇師言論，言與行一起支持有可學之長即可從師。"
+          },
+          {
+            "id": "d",
+            "text": "先以孔子身分作保證，後以言論免除核對老師所長",
+            "explanation": "孔子例仍連到術業專攻，名言不使擇師免看有何可學。"
+          }
+        ],
+        "misconception": "三人行支持多方問學，與前列師承相符而非相反；三人行不是師承數量上限，不能用來限制前列人選；孔子例仍連到術業專攻，名言不使擇師免看有何可學。"
+      },
+      "objective": "列「孔子師郯子、萇弘、師襄、老聃」，與後面引用孔子說話的安排有何好處？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-07-13-00-10",
+      "ordinal": 71,
+      "baseQuestionHash": "877e7967e3e1d0f1d1143aa513354cc5baca6b4def7b582c6d35db7f57247008",
+      "patch": {
+        "explanation": "古聖才智高仍肯問學，反襯今眾本更需學習卻以從師為恥。借古諷今的力量在求學態度的對比，不是因古代天然較好，也不是說今人缺官位、年歲或找不到老師。",
+        "summary": "古聖才智高仍肯問學，反襯今眾本更需學習卻以從師為恥。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "以古聖多專長，反襯今眾只懂句讀",
+            "explanation": "原文未把古聖今眾的差別列為專長多與只會句讀。"
+          },
+          {
+            "id": "b",
+            "text": "以古聖肯問學，反襯今眾恥從師",
+            "explanation": "古聖才智高仍肯問學，反襯今眾本更需學習卻以從師為恥。"
+          },
+          {
+            "id": "c",
+            "text": "以古聖官位高，反襯今眾難得良師",
+            "explanation": "沒有因官位低而求師受阻的敘述，恥師是態度選擇。"
+          },
+          {
+            "id": "d",
+            "text": "以古聖年紀長，反襯今眾不重經傳",
+            "explanation": "年齡長短及經傳範圍不是本組對比的證據。"
+          }
+        ],
+        "misconception": "原文未把古聖今眾的差別列為專長多與只會句讀；沒有因官位低而求師受阻的敘述，恥師是態度選擇；年齡長短及經傳範圍不是本組對比的證據。"
+      },
+      "objective": "借古聖人從師來批評今眾恥師，主要運用了甚麼思路？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-14-00-1",
+      "ordinal": 72,
+      "baseQuestionHash": "b45a0bd39ea53d738553609abb39c64878fa400bb5120b1eb7da1a37f268ff79",
+      "patch": {
+        "explanation": "句讀字面是文句停頓，在小學大遺的論述中借指基本文字學習，與較重要的求道解惑相對。字詞解釋與借代所及範圍是兩個層次，不能因此把基本識讀當成教師全部任務。",
+        "summary": "句讀字面是文句停頓，在小學大遺的論述中借指基本文字學習，與較重要的求道解惑相對。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "以經文傳注指經典的全部內容，相對百工技藝",
+            "explanation": "句讀未涵蓋經典全部義理，所比較的也不是百工技藝。"
+          },
+          {
+            "id": "b",
+            "text": "以文句停頓指文字層面的學習，相對求道解惑",
+            "explanation": "句讀字面是文句停頓，在小學大遺的論述中借指基本文字學習，與較重要的求道解惑相對。"
+          },
+          {
+            "id": "c",
+            "text": "以老師授書指教師的全部職責，相對學生自學",
+            "explanation": "授書識讀只是部分師職，非全部；本段也不是教師與自學的對照。"
+          },
+          {
+            "id": "d",
+            "text": "以讀書次序指先後求學的年齡，相對身分高低",
+            "explanation": "句讀不指求學年齡，不能借代出生先後。"
+          }
+        ],
+        "misconception": "句讀未涵蓋經典全部義理，所比較的也不是百工技藝；授書識讀只是部分師職，非全部；本段也不是教師與自學的對照；句讀不指求學年齡，不能借代出生先後。"
+      },
+      "objective": "「句讀」在「小學而大遺」的批評中，不只指停頓，還代表哪一類學習？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-14-00-2",
+      "ordinal": 73,
+      "baseQuestionHash": "0b15534c0070ddb57cace68b87376a067b1f92f22121dce90a1e05d546c3718e",
+      "patch": {
+        "explanation": "三組先看古今態度造成差距，再看同一成人對子對己矛盾，最後看自恃身分者反不及百工。批評逐步貼近士大夫自身的選擇與生活，從多個角度支持恥師不明智，並非在編教育史或人才等級表。",
+        "summary": "三組先看古今態度造成差距，再看同一成人對子對己矛盾，最後看自恃身分者反不及百工。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "古今態度、自身取捨、階層反差，從多面揭示恥師",
+            "explanation": "三組先看古今態度造成差距，再看同一成人對子對己矛盾，最後看自恃身分者反不及百工。"
+          },
+          {
+            "id": "b",
+            "text": "古代制度、童蒙課程、百工技藝，按年代說明教育演變",
+            "explanation": "三組依論證角度組織，未按朝代記教育制度演變。"
+          },
+          {
+            "id": "c",
+            "text": "聖人學問、父親學問、百工學問，按高低排出人才等第",
+            "explanation": "主要比較是否肯學，沒有把各方所有學問排成完整等第。"
+          },
+          {
+            "id": "d",
+            "text": "聖人職責、父親職責、士大夫職責，逐層分配傳道任務",
+            "explanation": "作者揭露拒學問題，不是在替不同群體分派傳道工作。"
+          }
+        ],
+        "misconception": "三組依論證角度組織，未按朝代記教育制度演變；主要比較是否肯學，沒有把各方所有學問排成完整等第；作者揭露拒學問題，不是在替不同群體分派傳道工作。"
+      },
+      "objective": "古聖今眾、對子對己、百工士大夫三組比較，合起來怎樣加強批評？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-14-00-3",
+      "ordinal": 74,
+      "baseQuestionHash": "b9400a2ab17f5cb2357ade3ba5c7fb2be57cf6afcca58986935e2ddb72e855bc",
+      "patch": {
+        "explanation": "羣聚而笑把恥師風氣寫成可見動作，答話再讓身分與年齡藉口如在耳邊，使批評有具體對象。這種示現效果不保證逐字記錄過某次集會，更不表示韓愈同意被寫出的話。",
+        "summary": "羣聚而笑把恥師風氣寫成可見動作，答話再讓身分與年齡藉口如在耳邊，使批評有具體對象。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "用對話證明作者逐字記錄了一次真實的士大夫集會",
+            "explanation": "形象化場面不等於史料逐字實錄，不能從有對話推成曾完整記錄。"
+          },
+          {
+            "id": "b",
+            "text": "借士大夫親口說出的理由，肯定年齡身分作為擇師準則",
+            "explanation": "話語屬士大夫的偏見，是被批評的材料，非作者擇師標準。"
+          },
+          {
+            "id": "c",
+            "text": "把抽象恥師風氣化為嘲笑動作與拒師言辭",
+            "explanation": "羣聚而笑把恥師風氣寫成可見動作，答話再讓身分與年齡藉口如在耳邊，使批評有具體對象。"
+          },
+          {
+            "id": "d",
+            "text": "讓作者與百工當面駁倒士大夫，展示雙方辯論過程",
+            "explanation": "文中未演出百工加入當面辯論，不能補造雙方交鋒。"
+          }
+        ],
+        "misconception": "形象化場面不等於史料逐字實錄，不能從有對話推成曾完整記錄；話語屬士大夫的偏見，是被批評的材料，非作者擇師標準；文中未演出百工加入當面辯論，不能補造雙方交鋒。"
+      },
+      "objective": "寫士大夫「羣聚而笑之」，再模擬其答話，有何作用？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-14-00-4",
+      "ordinal": 75,
+      "baseQuestionHash": "6aad55290a1bb7716ca446389d6f70151c200dd3510bc84136670c413ab6d3ce",
+      "patch": {
+        "explanation": "前句對從師風尚久衰、解惑困難發慨歎；後句針對士大夫不及所輕視的百工，帶驚詫諷刺。同有感嘆詞卻各有所指，分析情感須連上前文事實，而非只認出乎、歟便說完全相同。",
+        "summary": "前句對從師風尚久衰、解惑困難發慨歎；後句針對士大夫不及所輕視的百工，帶驚詫諷刺。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "前者諷地位與才智的反差，後者歎師道久衰",
+            "explanation": "這項把兩句各自的內容對調，首句尚未談百工反差。"
+          },
+          {
+            "id": "b",
+            "text": "前者歎師道久衰，後者諷地位與才智的反差",
+            "explanation": "前句對從師風尚久衰、解惑困難發慨歎；後句針對士大夫不及所輕視的百工，帶驚詫諷刺。"
+          },
+          {
+            "id": "c",
+            "text": "前者讚師道已復，後者歎士大夫失去官位",
+            "explanation": "前句明說不傳久矣，後句也沒有撤官情節。"
+          },
+          {
+            "id": "d",
+            "text": "前者歎古聖不肯問學，後者讚士大夫已能相師",
+            "explanation": "古聖肯學、士大夫恥學，兩項均把對象的態度讀反。"
+          }
+        ],
+        "misconception": "這項把兩句各自的內容對調，首句尚未談百工反差；前句明說不傳久矣，後句也沒有撤官情節；古聖肯學、士大夫恥學，兩項均把對象的態度讀反。"
+      },
+      "objective": "比較「嗟乎……欲人之無惑也難矣」和「其可怪也歟」，語氣重點有何不同？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-07-15-00-1",
+      "ordinal": 76,
+      "baseQuestionHash": "d141c58d888aae4a4e1266e08988fc58b332765d9f8dfd5a9eea395f21b75b7f",
+      "patch": {
+        "explanation": "學者先指求學者，並不須先成名、著書才符合這個身分。必有師隨即說求學須從師，後面的普遍有惑提供理由；若用現代專家的窄義，會錯縮全文主張的適用對象。",
+        "summary": "學者先指求學者，並不須先成名、著書才符合這個身分。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "正在求學的人，未以已有學術成就為條件",
+            "explanation": "學者先指求學者，並不須先成名、著書才符合這個身分。"
+          },
+          {
+            "id": "b",
+            "text": "已成一門學問的名家，須先有著述才算",
+            "explanation": "已有著述是另加資格，原句未設學術成就門檻。"
+          },
+          {
+            "id": "c",
+            "text": "向學生傳授經書的人，主要身分是教師",
+            "explanation": "教人的身分是老師，這句先說需要老師的求學者。"
+          },
+          {
+            "id": "d",
+            "text": "自學而不需請教的人，以獨立治學為要",
+            "explanation": "不需請教直接牴觸必有師，不能當學者的定義。"
+          }
+        ],
+        "misconception": "已有著述是另加資格，原句未設學術成就門檻；教人的身分是老師，這句先說需要老師的求學者；不需請教直接牴觸必有師，不能當學者的定義。"
+      },
+      "objective": "「古之學者必有師」的「學者」在句中是哪一類身分？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-15-00-2",
+      "ordinal": 77,
+      "baseQuestionHash": "37065dd6d9eab3b09560bf00705ecc6d1831417a597cc4a61073d42935cc53ed",
+      "patch": {
+        "explanation": "必有師中的師是老師，作有的對象，是名詞。下一句師者再界定其職責，這兩句均以人為中心；與後文師之、師道中的動詞用法要按句法區分。",
+        "summary": "必有師中的師是老師，作有的對象，是名詞。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "以人為師",
+            "explanation": "以人為師是師之的動作用法，這裏說有一位老師。"
+          },
+          {
+            "id": "b",
+            "text": "從師學習",
+            "explanation": "從師學習是一種行為，不是有後面所指的人。"
+          },
+          {
+            "id": "c",
+            "text": "教導別人",
+            "explanation": "教導別人是教師可能做的事，不能代替本句的身分名詞。"
+          },
+          {
+            "id": "d",
+            "text": "老師",
+            "explanation": "必有師中的師是老師，作有的對象，是名詞。"
+          }
+        ],
+        "misconception": "以人為師是師之的動作用法，這裏說有一位老師；從師學習是一種行為，不是有後面所指的人；教導別人是教師可能做的事，不能代替本句的身分名詞。"
+      },
+      "objective": "文句中「師」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-15-00-3",
+      "ordinal": 78,
+      "baseQuestionHash": "9278d1155dc309c725451ab64132b11041e915517ed0d9597dcdab0d7dea8b17",
+      "patch": {
+        "explanation": "吾從而師之是我跟從他，並把他當作老師；之代先聞道的人。師生方向由吾從已可看出，並非我擔任他的老師，更不是勸他去收別人為徒。",
+        "summary": "吾從而師之是我跟從他，並把他當作老師；之代先聞道的人。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "把他當作老師",
+            "explanation": "吾從而師之是我跟從他，並把他當作老師；之代先聞道的人。"
+          },
+          {
+            "id": "b",
+            "text": "擔任他的老師",
+            "explanation": "我當他的老師會顛倒從學方向。"
+          },
+          {
+            "id": "c",
+            "text": "把他當作學生",
+            "explanation": "把他當學生也將可請教的對方降成受教者。"
+          },
+          {
+            "id": "d",
+            "text": "勸他收別人為徒",
+            "explanation": "原句只有我與他這層從學，沒有另收第三人的任務。"
+          }
+        ],
+        "misconception": "我當他的老師會顛倒從學方向；把他當學生也將可請教的對方降成受教者；原句只有我與他這層從學，沒有另收第三人的任務。"
+      },
+      "objective": "文句中「師之」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-15-00-6",
+      "ordinal": 79,
+      "baseQuestionHash": "6211cf56f84b4bfd241463640a986de879475a13d44ee2bc2cf7ceb7327b9a14",
+      "patch": {
+        "explanation": "受業的受通授，以師者為主語，就是老師將課業教給學生。傳道、授業、解惑三項並列，由教師履行；不能因受常解接受，就把學生接受的意思塞回老師作主語的句子。",
+        "summary": "受業的受通授，以師者為主語，就是老師將課業教給學生。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "老師把學業傳授給學生",
+            "explanation": "受業的受通授，以師者為主語，就是老師將課業教給學生。"
+          },
+          {
+            "id": "b",
+            "text": "老師從學生接受學業",
+            "explanation": "老師向學生接受課業是相反方向，也不合三項教師職責並列。"
+          },
+          {
+            "id": "c",
+            "text": "學生從老師接受學業",
+            "explanation": "學生領受雖是傳授的另一面，但本句主語是老師，題目要求動作方向一致。"
+          },
+          {
+            "id": "d",
+            "text": "學生把學業傳給其他學生",
+            "explanation": "第三方學生互授並非本句所界定的師者職責。"
+          }
+        ],
+        "misconception": "老師向學生接受課業是相反方向，也不合三項教師職責並列；學生領受雖是傳授的另一面，但本句主語是老師，題目要求動作方向一致；第三方學生互授並非本句所界定的師者職責。"
+      },
+      "objective": "以句中「師者」為主語，「受業」表示誰作甚麼動作？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-15-00-10",
+      "ordinal": 80,
+      "baseQuestionHash": "537158da2965831d80121d64e9f15d156858723cb229e6887193452c895bfc5f",
+      "patch": {
+        "explanation": "聞道是領會、懂得道理，在本篇連着儒家道理與相關學問。聞不只等於聲音入耳，更不是把自己的學問講出去；聞道先後所比較的是理解有先有後。",
+        "summary": "聞道是領會、懂得道理，在本篇連着儒家道理與相關學問。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "只聽過道理的字句",
+            "explanation": "聞道重領會道理，僅聲音入耳而不理解不足以合本義。"
+          },
+          {
+            "id": "b",
+            "text": "服從別人的主張",
+            "explanation": "服從是按對方意旨做，未必真正領會道理，不能混同。"
+          },
+          {
+            "id": "c",
+            "text": "宣講自己的學問",
+            "explanation": "宣講是向外傳授，聞道則描述自己領會的狀態。"
+          },
+          {
+            "id": "d",
+            "text": "領會道理",
+            "explanation": "聞道是領會、懂得道理，在本篇連着儒家道理與相關學問。"
+          }
+        ],
+        "misconception": "聞道重領會道理，僅聲音入耳而不理解不足以合本義；服從是按對方意旨做，未必真正領會道理，不能混同；宣講是向外傳授，聞道則描述自己領會的狀態。"
+      },
+      "objective": "文句中「聞道」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-07-15-00-13",
+      "ordinal": 81,
+      "baseQuestionHash": "e6252e508ad6682894b732c536c857373a09fb3ca37e2edca9d85889dd073014",
+      "patch": {
+        "explanation": "是故是因此，用來把前面唯道是學、不必計年齡的理由接到後面的擇師原則。它是推論的連接，不是指某件過往事故，也不表示刻意如此做。",
+        "summary": "是故是因此，用來把前面唯道是學、不必計年齡的理由接到後面的擇師原則。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "原是如此",
+            "explanation": "原是如此偏向回認狀態，未表出從理由推出結論。"
+          },
+          {
+            "id": "b",
+            "text": "這件舊事",
+            "explanation": "故在這裏不指往事，是故合用作因果承接。"
+          },
+          {
+            "id": "c",
+            "text": "因此",
+            "explanation": "是故是因此，用來把前面唯道是學、不必計年齡的理由接到後面的擇師原則。"
+          },
+          {
+            "id": "d",
+            "text": "故意這樣",
+            "explanation": "故意說行為意圖，原句沒有刻意做某事的意思。"
+          }
+        ],
+        "misconception": "原是如此偏向回認狀態，未表出從理由推出結論；故在這裏不指往事，是故合用作因果承接；故意說行為意圖，原句沒有刻意做某事的意思。"
+      },
+      "objective": "文句中「是故」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-15-00-14",
+      "ordinal": 82,
+      "baseQuestionHash": "5d7fbfeb24c94de27fdea37d6495f84a252844bf687253fa132bceef3ec7f214",
+      "patch": {
+        "explanation": "整句說從師不分地位貴賤，也不分年紀大小。無連用把兩端都包含進來，下一句再指出以道為準；取消的是身分年歲限制，並未取消學習標準或請教需要。",
+        "summary": "整句說從師不分地位貴賤，也不分年紀大小。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "沒有尊貴的人，也沒有年長的人",
+            "explanation": "無是無論，不是說世界上不存在高位或年長者。"
+          },
+          {
+            "id": "b",
+            "text": "不要使人尊貴，也不要使人年長",
+            "explanation": "原句不在禁止使人成為某種身分，也不可能禁止人變老。"
+          },
+          {
+            "id": "c",
+            "text": "不分地位高低，也不分年長年少",
+            "explanation": "整句說從師不分地位貴賤，也不分年紀大小。"
+          },
+          {
+            "id": "d",
+            "text": "無論學問多少，都不必向人請教",
+            "explanation": "有道可學仍應請教，不能把不分身分改成不必從師。"
+          }
+        ],
+        "misconception": "無是無論，不是說世界上不存在高位或年長者；原句不在禁止使人成為某種身分，也不可能禁止人變老；有道可學仍應請教，不能把不分身分改成不必從師。"
+      },
+      "objective": "「無貴無賤，無長無少」在擇師語境應怎樣翻譯？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-16-00-1",
+      "ordinal": 83,
+      "baseQuestionHash": "d3b04e5896fee9ff442c9ab4653303fa7dfd99dafd26cb247018d71e389ad0b5",
+      "patch": {
+        "explanation": "出人是才智學問超越一般人，遠形容超越程度大。古聖已有這種優勢卻仍問師，更凸顯虛心；若把出解成出身或出生，就把知識比較誤換成門第年齡。",
+        "summary": "出人是才智學問超越一般人，遠形容超越程度大。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "出身比一般人高貴",
+            "explanation": "出身高貴是社會身分，原段比較的是聖明才智。"
+          },
+          {
+            "id": "b",
+            "text": "出生比一般人早",
+            "explanation": "出生早只是年代，不能解釋與下聖人相對的學問差距。"
+          },
+          {
+            "id": "c",
+            "text": "才智學問超越一般人",
+            "explanation": "出人是才智學問超越一般人，遠形容超越程度大。"
+          },
+          {
+            "id": "d",
+            "text": "離開一般人居住之處",
+            "explanation": "離開居住地是空間行動，文中沒有搬遷語境。"
+          }
+        ],
+        "misconception": "出身高貴是社會身分，原段比較的是聖明才智；出生早只是年代，不能解釋與下聖人相對的學問差距；離開居住地是空間行動，文中沒有搬遷語境。"
+      },
+      "objective": "文句中「出人」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-16-00-2",
+      "ordinal": 84,
+      "baseQuestionHash": "1e5e42ab0af2210fda0bc7f651535c8946f767dafbe2517ed8a8d34b7b6ba63f",
+      "patch": {
+        "explanation": "下聖人是才智學問不及聖人，與古聖出人正反相對。其下也亦遠先說今眾差距大，後面卻恥學於師才構成批評；下不是下令，亦不是受聖人教導。",
+        "summary": "下聖人是才智學問不及聖人，與古聖出人正反相對。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "出生時間晚於聖人",
+            "explanation": "今古年代不同只是背景，下在此比較能力高低。"
+          },
+          {
+            "id": "b",
+            "text": "向聖人發出命令",
+            "explanation": "向聖人下令需要發號施令情節，句中並無。"
+          },
+          {
+            "id": "c",
+            "text": "才智學問不及聖人",
+            "explanation": "下聖人是才智學問不及聖人，與古聖出人正反相對。"
+          },
+          {
+            "id": "d",
+            "text": "獲得聖人親自指導",
+            "explanation": "受指導是求學經歷，不能表達不及聖人的程度。"
+          }
+        ],
+        "misconception": "今古年代不同只是背景，下在此比較能力高低；向聖人下令需要發號施令情節，句中並無；受指導是求學經歷，不能表達不及聖人的程度。"
+      },
+      "objective": "文句中「下聖人」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-16-00-4",
+      "ordinal": 85,
+      "baseQuestionHash": "b23cd102d4e952cfcb81e9ff96ab91948123dc528a22a20391932666c65cdea1",
+      "patch": {
+        "explanation": "其聞道也的其是他，指前面出生於我前或後、聞道先於我的人。吾隨後才從而師之，主體彼此分明：對方先懂，我向他學；其不代我自己，也不代所學的道。",
+        "summary": "其聞道也的其是他，指前面出生於我前或後、聞道先於我的人。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "我，指正在選擇老師的作者",
+            "explanation": "吾才指作者，不能把其聞道的對方改作我。"
+          },
+          {
+            "id": "b",
+            "text": "他，指該位聞道先於我的人",
+            "explanation": "其聞道也的其是他，指前面出生於我前或後、聞道先於我的人。"
+          },
+          {
+            "id": "c",
+            "text": "他，指正在向我求教的學生",
+            "explanation": "對方是我求教的人，不是在向我求教的學生。"
+          },
+          {
+            "id": "d",
+            "text": "那個道理，指我應當學習的內容",
+            "explanation": "聞道是人的領會行為，其代領會者，非道理本身。"
+          }
+        ],
+        "misconception": "吾才指作者，不能把其聞道的對方改作我；對方是我求教的人，不是在向我求教的學生；聞道是人的領會行為，其代領會者，非道理本身。"
+      },
+      "objective": "文句中「其」的用法或所指，哪項正確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-16-00-5",
+      "ordinal": 86,
+      "baseQuestionHash": "05c94991378a7ec47e2262a3ef7c5bc01e751023117f5a0919a2e09d4fe1013f",
+      "patch": {
+        "explanation": "於其身的其指替孩子擇師的成人自己，與前面的其子相對。這一指代把對子與對己的相反選擇綁回同一人，才可說其做法矛盾；不是突然改談孩子或老師的態度。",
+        "summary": "於其身的其指替孩子擇師的成人自己，與前面的其子相對。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "他，指被選擇的老師",
+            "explanation": "被選老師是教孩子的人，並非為子擇師又對己恥師的主體。"
+          },
+          {
+            "id": "b",
+            "text": "他，指接受教育的孩子",
+            "explanation": "其子才是孩子，於其身轉回成人本人。"
+          },
+          {
+            "id": "c",
+            "text": "自己，指替孩子擇師的成人",
+            "explanation": "於其身的其指替孩子擇師的成人自己，與前面的其子相對。"
+          },
+          {
+            "id": "d",
+            "text": "我，指正在批評時俗的韓愈",
+            "explanation": "韓愈是批評者，沒有自述自己也恥師。"
+          }
+        ],
+        "stem": "「於其身也則恥師焉」中「其」的所指，哪項正確？",
+        "misconception": "被選老師是教孩子的人，並非為子擇師又對己恥師的主體；其子才是孩子，於其身轉回成人本人；韓愈是批評者，沒有自述自己也恥師。"
+      },
+      "objective": "「於其身也則恥師焉」中「其」的所指，哪項正確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-16-00-7",
+      "ordinal": 87,
+      "baseQuestionHash": "9e220b1a9e29dcc63ef6e4798865050fc4f1b48e1bbeb56e69d6a667f1e4fa49",
+      "patch": {
+        "explanation": "擇師而教之的之指孩子，承接愛其子，意思是選老師來教孩子。孩子是受教對象，成人作選擇，老師負教導；不能把被教者誤作老師或經書。",
+        "summary": "擇師而教之的之指孩子，承接愛其子，意思是選老師來教孩子。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "他，指老師",
+            "explanation": "老師是施教者，不是成人為子選師後要教的對象。"
+          },
+          {
+            "id": "b",
+            "text": "它，指經書",
+            "explanation": "經書可以是教學內容，但此句之承接的是孩子。"
+          },
+          {
+            "id": "c",
+            "text": "他，指孩子",
+            "explanation": "擇師而教之的之指孩子，承接愛其子，意思是選老師來教孩子。"
+          },
+          {
+            "id": "d",
+            "text": "我，指韓愈",
+            "explanation": "段落批評成人對子對己的選擇，沒有以韓愈作受教人。"
+          }
+        ],
+        "misconception": "老師是施教者，不是成人為子選師後要教的對象；經書可以是教學內容，但此句之承接的是孩子；段落批評成人對子對己的選擇，沒有以韓愈作受教人。"
+      },
+      "objective": "文句中「之」的用法或所指，哪項正確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-16-00-8",
+      "ordinal": 88,
+      "baseQuestionHash": "976ac6c2e75fd258c46a28397cd351c3f9040061aab1bd77f47758503b6a950b",
+      "patch": {
+        "explanation": "貽之的之指李蟠，是師說一文的受贈者。上文余嘉其能行古道已交代作者賞識他肯從師，所以寫文相贈；師說是所贈物，之不是代經書或另一位古人。",
+        "summary": "貽之的之指李蟠，是師說一文的受贈者。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "他，指李蟠",
+            "explanation": "貽之的之指李蟠，是師說一文的受贈者。"
+          },
+          {
+            "id": "b",
+            "text": "他，指孔子",
+            "explanation": "孔子作前段論據，不是篇末贈文的當代對象。"
+          },
+          {
+            "id": "c",
+            "text": "他，指童子之師",
+            "explanation": "童子之師在另一段受職責界定，此處李蟠才是受讚許者。"
+          },
+          {
+            "id": "d",
+            "text": "它，指六藝經傳",
+            "explanation": "六藝經傳是李蟠所學內容，不能充當接收文章的人。"
+          }
+        ],
+        "misconception": "孔子作前段論據，不是篇末贈文的當代對象；童子之師在另一段受職責界定，此處李蟠才是受讚許者；六藝經傳是李蟠所學內容，不能充當接收文章的人。"
+      },
+      "objective": "文句中「之」的用法或所指，哪項正確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-16-00-10",
+      "ordinal": 89,
+      "baseQuestionHash": "8ca35d821358315e3ad19d58bbe98078878785087f491d0143de3e54aa60855e",
+      "patch": {
+        "explanation": "句讀之不知、惑之不解，還原為不知句讀、不解惑，兩處都保留否定。句讀與惑放在前面，分別突出兩種待解問題，接着才比較哪方面從師、哪方面放棄，不能把它們當成同一件事。",
+        "summary": "句讀之不知、惑之不解，還原為不知句讀、不解惑，兩處都保留否定。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "已懂句讀，尚有疑惑",
+            "explanation": "第一個不知仍是否定，不能譯成已懂句讀。"
+          },
+          {
+            "id": "b",
+            "text": "不懂句讀，但已解惑",
+            "explanation": "第二個不解明說疑惑未解，不能加成已解惑。"
+          },
+          {
+            "id": "c",
+            "text": "不懂句讀，疑惑未解",
+            "explanation": "句讀之不知、惑之不解，還原為不知句讀、不解惑，兩處都保留否定。"
+          },
+          {
+            "id": "d",
+            "text": "懂得句讀，也懂解惑",
+            "explanation": "兩個否定都被刪去，與原句待解問題完全相反。"
+          }
+        ],
+        "misconception": "第一個不知仍是否定，不能譯成已懂句讀；第二個不解明說疑惑未解，不能加成已解惑；兩個否定都被刪去，與原句待解問題完全相反。"
+      },
+      "objective": "「句讀之不知，惑之不解」的意思是哪一項？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-16-00-11",
+      "ordinal": 90,
+      "baseQuestionHash": "be11316632b08489c0db733f3cd06184b07eb6b98726bfca5a73b6f61ee8984a",
+      "patch": {
+        "explanation": "或師對應句讀不知而替子從師，或不對應自身有惑卻不肯求道解惑。兩端相配才能推出小學大遺，批評的是成人的取捨，不是孩子和成人各因有知無知自然作不同選擇。",
+        "summary": "或師對應句讀不知而替子從師，或不對應自身有惑卻不肯求道解惑。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "求道有惑便從師，句讀不知卻不從師",
+            "explanation": "從與不從的對象被倒轉，原文小的肯學、大的卻棄。"
+          },
+          {
+            "id": "b",
+            "text": "古人求道會從師，今人句讀一概不從師",
+            "explanation": "這裏是對子對己的比較，不是古今；今人也會為子求句讀之師。"
+          },
+          {
+            "id": "c",
+            "text": "孩子有惑便求師，成人已有學問便不求師",
+            "explanation": "成人不是已無疑惑，恰因惑未解卻不求師才受批評。"
+          },
+          {
+            "id": "d",
+            "text": "句讀不知便從師，求道有惑卻不從師",
+            "explanation": "或師對應句讀不知而替子從師，或不對應自身有惑卻不肯求道解惑。"
+          }
+        ],
+        "misconception": "從與不從的對象被倒轉，原文小的肯學、大的卻棄；這裏是對子對己的比較，不是古今；今人也會為子求句讀之師；成人不是已無疑惑，恰因惑未解卻不求師才受批評。"
+      },
+      "objective": "「或師焉，或不焉」承接「句讀之不知，惑之不解」，哪項配對正確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-16-00-12",
+      "ordinal": 91,
+      "baseQuestionHash": "047b5b3daab8152387f29eff3c03deb0a3bd6f2afdb2adafd8628964306ba177",
+      "patch": {
+        "explanation": "小學大遺是小的方面肯學、大的方面反而放棄，具體指句讀與求道解惑。小與大評事情的輕重，不是兒童與成人的年齡；遺是取捨中遺棄，不是書本遺失或記憶忘卻。",
+        "summary": "小學大遺是小的方面肯學、大的方面反而放棄，具體指句讀與求道解惑。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "小時努力學習，長大便忘記以前所學",
+            "explanation": "原段同時比較成人對子與對己，並非追述一人從小到大的記憶變化。"
+          },
+          {
+            "id": "b",
+            "text": "學句讀等小處，卻忽略求道解惑的大處",
+            "explanation": "小學大遺是小的方面肯學、大的方面反而放棄，具體指句讀與求道解惑。"
+          },
+          {
+            "id": "c",
+            "text": "只要繼續學句讀，求道疑惑便會隨年歲自行消失",
+            "explanation": "成人正因不從師而惑不解，原文未保證年歲可自動解惑。"
+          },
+          {
+            "id": "d",
+            "text": "先學完句讀再暫緩求道，以免同時兼學太多",
+            "explanation": "原文批評大遺，不是在安排先後程序或避免學習負擔。"
+          }
+        ],
+        "misconception": "原段同時比較成人對子與對己，並非追述一人從小到大的記憶變化；成人正因不從師而惑不解，原文未保證年歲可自動解惑；原文批評大遺，不是在安排先後程序或避免學習負擔。"
+      },
+      "objective": "文句中「小學而大遺」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-07-16-00-13",
+      "ordinal": 92,
+      "baseQuestionHash": "d62ad9457d079282a6bb3f22f0f4d9fcdb9755b42bd5233a52884c9dd332f35d",
+      "patch": {
+        "explanation": "吾未見其明也是看不出這種做法明智，以較含蓄的否定批評本末倒置。前文已具體列成人為子從師、對己恥師的矛盾，所以不是作者資訊不足而暫不判斷。",
+        "summary": "吾未見其明也是看不出這種做法明智，以較含蓄的否定批評本末倒置。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "自謙尚未了解成人的求學程度",
+            "explanation": "原文已說惑矣並分析大小取捨，非自謙尚不了解對方程度。"
+          },
+          {
+            "id": "b",
+            "text": "婉轉否定其重小遺大的取捨",
+            "explanation": "吾未見其明也是看不出這種做法明智，以較含蓄的否定批評本末倒置。"
+          },
+          {
+            "id": "c",
+            "text": "暫緩判斷童子之師是否能傳道",
+            "explanation": "此句批評成人的取捨，不是暫緩鑑定老師資格。"
+          },
+          {
+            "id": "d",
+            "text": "質疑李蟠是否真正精通六經",
+            "explanation": "李蟠尚未出場，也不在這一句的評價對象內。"
+          }
+        ],
+        "misconception": "原文已說惑矣並分析大小取捨，非自謙尚不了解對方程度；此句批評成人的取捨，不是暫緩鑑定老師資格；李蟠尚未出場，也不在這一句的評價對象內。"
+      },
+      "objective": "「吾未見其明也」如何表達作者對「小學大遺」的態度？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-17-00-2",
+      "ordinal": 93,
+      "baseQuestionHash": "821484685da5f71eeeb430376e96f8ccb404f6bc80b78491d1984e639ad9ba0f",
+      "patch": {
+        "explanation": "羞指羞恥、恥辱，是士大夫認為向低位者學習會損害身分的感受。作者轉述這話以揭露錯誤擇師標準，並非真的說向低位者求教可羞；羞也不等於一般害羞拘謹。",
+        "summary": "羞指羞恥、恥辱，是士大夫認為向低位者學習會損害身分的感受。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "害羞、拘謹",
+            "explanation": "害羞是性情上的拘謹，這裏則評從師為身分上的恥辱。"
+          },
+          {
+            "id": "b",
+            "text": "羞辱別人的行為",
+            "explanation": "原句是自己覺得羞恥，並非去羞辱別人的行為。"
+          },
+          {
+            "id": "c",
+            "text": "羞恥、恥辱",
+            "explanation": "羞指羞恥、恥辱，是士大夫認為向低位者學習會損害身分的感受。"
+          },
+          {
+            "id": "d",
+            "text": "使人難堪的責罰",
+            "explanation": "沒有誰施加責罰，問題在士大夫自己的評價。"
+          }
+        ],
+        "misconception": "害羞是性情上的拘謹，這裏則評從師為身分上的恥辱；原句是自己覺得羞恥，並非去羞辱別人的行為；沒有誰施加責罰，問題在士大夫自己的評價。"
+      },
+      "objective": "文句中「羞」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-17-00-4",
+      "ordinal": 94,
+      "baseQuestionHash": "c025d122abbab0b5979aa5a139619802d8df917fbfaeeacc2cdb2d1d24ce5205",
+      "patch": {
+        "explanation": "不齒是不屑與之並列，君子在這段指自負身分的士大夫。其輕視百工與下句才智不及百工相連，諷刺地位自負不能帶來學習上的明智，並非作者同意應輕視百工。",
+        "summary": "不齒是不屑與之並列，君子在這段指自負身分的士大夫。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "不屑與之並列",
+            "explanation": "不齒是不屑與之並列，君子在這段指自負身分的士大夫。"
+          },
+          {
+            "id": "b",
+            "text": "不計較其年齡",
+            "explanation": "不計年齡是無長無少的準則，不齒在此卻帶身分上的鄙視。"
+          },
+          {
+            "id": "c",
+            "text": "不願與之辯論",
+            "explanation": "沒有辯論不等於不屑並列，這項漏掉輕視態度。"
+          },
+          {
+            "id": "d",
+            "text": "不記錄其言行",
+            "explanation": "不記錄言行是書寫活動，本句沒有記錄取捨。"
+          }
+        ],
+        "misconception": "不計年齡是無長無少的準則，不齒在此卻帶身分上的鄙視；沒有辯論不等於不屑並列，這項漏掉輕視態度；不記錄言行是書寫活動，本句沒有記錄取捨。"
+      },
+      "objective": "文句中「不齒」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-17-00-5",
+      "ordinal": 95,
+      "baseQuestionHash": "005857e3acb3d41f77e2b04d78d688abd806f2361eeeb38771e7b6e1194243fc",
+      "patch": {
+        "explanation": "其可怪也歟感嘆這種反差真奇怪，語帶對士大夫的諷刺。前文已說他們恥師、百工相師，作者有成因分析，故不是不知原因向讀者真誠發問，也不是單純讚百工技藝稀有。",
+        "summary": "其可怪也歟感嘆這種反差真奇怪，語帶對士大夫的諷刺。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "這事原因尚未明白，請讀者替作者解答",
+            "explanation": "作者已列態度差異，問句重驚詫諷刺而非等待讀者填答案。"
+          },
+          {
+            "id": "b",
+            "text": "士大夫這樣自重身分，確有值得肯定之處",
+            "explanation": "自重身分而拒師正是批評所在，不能把諷刺倒讀成讚許。"
+          },
+          {
+            "id": "c",
+            "text": "百工的技藝這樣罕見，值得驚嘆讚美",
+            "explanation": "所怪在看不起人卻反不及人，不在百工某項技藝罕見。"
+          },
+          {
+            "id": "d",
+            "text": "真是令人奇怪啊，語帶對士大夫的諷刺",
+            "explanation": "其可怪也歟感嘆這種反差真奇怪，語帶對士大夫的諷刺。"
+          }
+        ],
+        "misconception": "作者已列態度差異，問句重驚詫諷刺而非等待讀者填答案；自重身分而拒師正是批評所在，不能把諷刺倒讀成讚許；所怪在看不起人卻反不及人，不在百工某項技藝罕見。"
+      },
+      "objective": "文句中「其可怪也歟」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-17-00-7",
+      "ordinal": 96,
+      "baseQuestionHash": "ce6660ff58dfa811a7d5e0099f3e28fa89b927afd09e428e33a29cdb2f0e027f",
+      "patch": {
+        "explanation": "不必是不一定，與後面的不如相接，表示弟子未必比老師差。它取消全面固定高下，讓聞道先後及各自專長決定可學之處；不是宣布弟子不准或不可能遜於老師。",
+        "summary": "不必是不一定，與後面的不如相接，表示弟子未必比老師差。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "不一定",
+            "explanation": "不必是不一定，與後面的不如相接，表示弟子未必比老師差。"
+          },
+          {
+            "id": "b",
+            "text": "不需要",
+            "explanation": "不需要說有無必要，原句則在判斷是否必然不如。"
+          },
+          {
+            "id": "c",
+            "text": "不允許",
+            "explanation": "不允許是規範禁令，作者沒有制定師生競勝規定。"
+          },
+          {
+            "id": "d",
+            "text": "不可能",
+            "explanation": "不可能過於絕對，會把未必較差變成必定不差。"
+          }
+        ],
+        "misconception": "不需要說有無必要，原句則在判斷是否必然不如；不允許是規範禁令，作者沒有制定師生競勝規定；不可能過於絕對，會把未必較差變成必定不差。"
+      },
+      "objective": "文句中「不必」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-17-00-8",
+      "ordinal": 97,
+      "baseQuestionHash": "d3c0e972b3eb1b7fa6018d7168404fa4f0ee0144ffa96c059b0b65157f2ca7f1",
+      "patch": {
+        "explanation": "專攻是專門鑽研某項學問技藝，術業限定攻不是軍事攻擊。各人研究方向與所長不同，即使總體賢能較低也可有值得請教之處，因而支持師生不必全面固定優劣。",
+        "summary": "專攻是專門鑽研某項學問技藝，術業限定攻不是軍事攻擊。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "專門傳授",
+            "explanation": "攻在此說鑽研學問，不要求一定正在授課。"
+          },
+          {
+            "id": "b",
+            "text": "獨自學習",
+            "explanation": "專指研究方向，不能推成必須獨學、不向人求教。"
+          },
+          {
+            "id": "c",
+            "text": "專門鑽研",
+            "explanation": "專攻是專門鑽研某項學問技藝，術業限定攻不是軍事攻擊。"
+          },
+          {
+            "id": "d",
+            "text": "全面精通",
+            "explanation": "全面精通反而抹去專門領域的分別，不能說明互學理由。"
+          }
+        ],
+        "misconception": "攻在此說鑽研學問，不要求一定正在授課；專指研究方向，不能推成必須獨學、不向人求教；全面精通反而抹去專門領域的分別，不能說明互學理由。"
+      },
+      "objective": "文句中「專攻」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-07-17-00-9",
+      "ordinal": 98,
+      "baseQuestionHash": "104c9f3a57cdb511218b4102bf8b5a11c674b227a0359557b842db6af9faaf8f",
+      "patch": {
+        "explanation": "如是而已是不過如此罷了，是回指聞道有先後、術業有專攻的解釋。這個收束把師生可互學的原因說得清楚直接，並不是要求停止學習，或保證關係從此永遠不變。",
+        "summary": "如是而已是不過如此罷了，是回指聞道有先後、術業有專攻的解釋。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "若能如此便不必再學",
+            "explanation": "而已只收束前述解釋，未許可從此停止求學。"
+          },
+          {
+            "id": "b",
+            "text": "不過如此罷了",
+            "explanation": "如是而已是不過如此罷了，是回指聞道有先後、術業有專攻的解釋。"
+          },
+          {
+            "id": "c",
+            "text": "自此師生地位便固定",
+            "explanation": "前文正說不必固定高下，不能以收束語推成永久固定。"
+          },
+          {
+            "id": "d",
+            "text": "其中只須二者同時具備",
+            "explanation": "如是概括聞道先後與專攻，沒有說兩條必須同時具備才可為師。"
+          }
+        ],
+        "misconception": "而已只收束前述解釋，未許可從此停止求學；前文正說不必固定高下，不能以收束語推成永久固定；如是概括聞道先後與專攻，沒有說兩條必須同時具備才可為師。"
+      },
+      "objective": "文句中「如是而已」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-07-17-00-10",
+      "ordinal": 99,
+      "baseQuestionHash": "83f1ea5a786491544ad3424885a0c578dd9b061de34d3b71405257ff7ffcedcf",
+      "patch": {
+        "explanation": "好讀喜好之義，是喜愛古文，主語是李蟠。它先寫學習興趣，皆通習之再寫學習行動；喜愛不能直接等同已擅長、已精通，更不是評文章寫得好。",
+        "summary": "好讀喜好之義，是喜愛古文，主語是李蟠。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "良好",
+            "explanation": "良好是品質形容，這裏好後接古文作喜愛對象。"
+          },
+          {
+            "id": "b",
+            "text": "友好",
+            "explanation": "友好說相處關係，古文不是與李蟠交友的人。"
+          },
+          {
+            "id": "c",
+            "text": "擅長",
+            "explanation": "擅長是能力程度，原詞先說愛好，不單憑它判定成就。"
+          },
+          {
+            "id": "d",
+            "text": "喜愛",
+            "explanation": "好讀喜好之義，是喜愛古文，主語是李蟠。"
+          }
+        ],
+        "misconception": "良好是品質形容，這裏好後接古文作喜愛對象；友好說相處關係，古文不是與李蟠交友的人；擅長是能力程度，原詞先說愛好，不單憑它判定成就。"
+      },
+      "objective": "文句中「好」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-17-00-11",
+      "ordinal": 100,
+      "baseQuestionHash": "2f8ac1ef29ef0f7e10b07912cda911c283d22e6d076cc839ff6c6c826cb4fa76",
+      "patch": {
+        "explanation": "六藝在六藝經傳中指詩、書、禮、樂、易、春秋六部經典，經傳這個搭配是辨義線索。同一詞也有六種技藝的用法，但本句敘讀經學文，不能換用另一義；注疏則屬傳的一層。",
+        "summary": "六藝在六藝經傳中指詩、書、禮、樂、易、春秋六部經典，經傳這個搭配是辨義線索。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "禮、樂、射、御、書、數的技藝",
+            "explanation": "禮樂射御書數是另一六藝義，與此處經傳的讀經語境不符。"
+          },
+          {
+            "id": "b",
+            "text": "六類教師各自精擅的技術",
+            "explanation": "原文未按六名教師分技術，而是在列經典範圍。"
+          },
+          {
+            "id": "c",
+            "text": "《詩》《書》等六部經典的注解",
+            "explanation": "只說注解漏掉六經本身，六藝與其傳注不能混為一層。"
+          },
+          {
+            "id": "d",
+            "text": "《詩》《書》《禮》《樂》《易》《春秋》",
+            "explanation": "六藝在六藝經傳中指詩、書、禮、樂、易、春秋六部經典，經傳這個搭配是辨義線索。"
+          }
+        ],
+        "misconception": "禮樂射御書數是另一六藝義，與此處經傳的讀經語境不符；原文未按六名教師分技術，而是在列經典範圍；只說注解漏掉六經本身，六藝與其傳注不能混為一層。"
+      },
+      "objective": "文句中「六藝」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-17-00-12",
+      "ordinal": 101,
+      "baseQuestionHash": "735a5068718d1e3b7add45dc562f7a25d0a32a42db55b3a8213b947f31295d1b",
+      "patch": {
+        "explanation": "經傳是經文與解說經文的傳注，傳不是傳記或傳聞。前面的六藝把它放在六經學習範圍內，既有原典也有解說；不能只解成技術規則或口傳歷史。",
+        "summary": "經傳是經文與解說經文的傳注，傳不是傳記或傳聞。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "口傳的歷史故事",
+            "explanation": "口傳故事未必是經典，也漏掉注疏這部分。"
+          },
+          {
+            "id": "b",
+            "text": "六種技藝的規則",
+            "explanation": "本句六藝是六經，不是六種技能，經傳也不是技藝規則。"
+          },
+          {
+            "id": "c",
+            "text": "經文與注疏",
+            "explanation": "經傳是經文與解說經文的傳注，傳不是傳記或傳聞。"
+          },
+          {
+            "id": "d",
+            "text": "經書作者的傳記",
+            "explanation": "經書作者生平是人物傳記，並非本句解釋經文的傳注。"
+          }
+        ],
+        "misconception": "口傳故事未必是經典，也漏掉注疏這部分；本句六藝是六經，不是六種技能，經傳也不是技藝規則；經書作者生平是人物傳記，並非本句解釋經文的傳注。"
+      },
+      "objective": "文句中「經傳」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-18-00-2",
+      "ordinal": 102,
+      "baseQuestionHash": "8d3a6ed95a6e5b5166a6368a945e881d71b2159c287ee36832086fecfe512889",
+      "patch": {
+        "explanation": "余是我，指文章作者韓愈；學於余便是李蟠向韓愈學習。前文以李蟠為敘述對象，後句余嘉再由作者表態，主客須分清，不能把余當作其餘學生的餘。",
+        "summary": "余是我，指文章作者韓愈；學於余便是李蟠向韓愈學習。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "他，指李蟠",
+            "explanation": "李蟠是向余求學的人，並不是余所指作者。"
+          },
+          {
+            "id": "b",
+            "text": "他們，指百工",
+            "explanation": "百工在前段作對照，不是李蟠本句的受教對象。"
+          },
+          {
+            "id": "c",
+            "text": "我，韓愈自稱",
+            "explanation": "余是我，指文章作者韓愈；學於余便是李蟠向韓愈學習。"
+          },
+          {
+            "id": "d",
+            "text": "其餘的學生",
+            "explanation": "余在文言中作自稱，這裏未在區分剩餘的學生。"
+          }
+        ],
+        "misconception": "李蟠是向余求學的人，並不是余所指作者；百工在前段作對照，不是李蟠本句的受教對象；余在文言中作自稱，這裏未在區分剩餘的學生。"
+      },
+      "objective": "文句中「余」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-18-00-3",
+      "ordinal": 103,
+      "baseQuestionHash": "909d0464feb841658a70858337d8c13b02057658de46fa6ec26864e14d1f434d",
+      "patch": {
+        "explanation": "以貽之交代寫師說的目的在送給李蟠，原因則是韓愈讚許他肯行古道。先辨作何事，再看以後為何而作，便可分清寫作原因、目的與已發生的從學，不把次序倒轉。",
+        "summary": "以貽之交代寫師說的目的在送給李蟠，原因則是韓愈讚許他肯行古道。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "作文的原因在李蟠贈書，文章用作回贈",
+            "explanation": "原文原因是嘉其能行古道，沒有李蟠先贈書的情節。"
+          },
+          {
+            "id": "b",
+            "text": "作文的內容在逐條講授李蟠所學六經",
+            "explanation": "贈文討論從師，不是逐一講完六經；以貽之也在說目的。"
+          },
+          {
+            "id": "c",
+            "text": "作文的目的在贈給李蟠",
+            "explanation": "以貽之交代寫師說的目的在送給李蟠，原因則是韓愈讚許他肯行古道。"
+          },
+          {
+            "id": "d",
+            "text": "作文的結果在使李蟠初次從師",
+            "explanation": "不拘於時、學於余在贈文前已交代，不能說收文才初次從師。"
+          }
+        ],
+        "misconception": "原文原因是嘉其能行古道，沒有李蟠先贈書的情節；贈文討論從師，不是逐一講完六經；以貽之也在說目的；不拘於時、學於余在贈文前已交代，不能說收文才初次從師。"
+      },
+      "objective": "「作《師說》以貽之」的「以貽之」交代哪種關係？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-07-18-00-4",
+      "ordinal": 104,
+      "baseQuestionHash": "967bb7507fe9dbb6cd17c200ec9dffee284f1a9f64dabce1a8ba97beb4f6f144",
+      "patch": {
+        "explanation": "從在不從師中是跟從老師學習，主體是有疑惑的求學者，師是跟從對象。不字否定這個行動，後面才說疑惑難解；從不是自某時起的介詞，也不是要求老師聽自己。",
+        "summary": "從在不從師中是跟從老師學習，主體是有疑惑的求學者，師是跟從對象。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "使老師聽從自己的安排",
+            "explanation": "使老師服從會顛倒師生行動方向，原句學者才是跟從者。"
+          },
+          {
+            "id": "b",
+            "text": "自某個時刻開始",
+            "explanation": "起點義須接時間或位置，此句從後接老師這個學習對象。"
+          },
+          {
+            "id": "c",
+            "text": "依從當時的從師風氣",
+            "explanation": "時俗在全文是應反對的恥師風氣，從師不等於依從時俗。"
+          },
+          {
+            "id": "d",
+            "text": "跟從老師學習",
+            "explanation": "從在不從師中是跟從老師學習，主體是有疑惑的求學者，師是跟從對象。"
+          }
+        ],
+        "misconception": "使老師服從會顛倒師生行動方向，原句學者才是跟從者；起點義須接時間或位置，此句從後接老師這個學習對象；時俗在全文是應反對的恥師風氣，從師不等於依從時俗。"
+      },
+      "objective": "文句中「從」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-19-01-1",
+      "ordinal": 105,
+      "baseQuestionHash": "f1d72a53e50ee4babc64733499f7c1c4aa4ef41c074923676a6d72f5ca569c86",
+      "patch": {
+        "explanation": "者提出師這個論題，也在句末作判斷，整體界定教師用來傳道、授業、解惑。它回答老師是負何責任的人，不是在比較師生誰較高，也不因有受字就成被動受教句。",
+        "summary": "者提出師這個論題，也在句末作判斷，整體界定教師用來傳道、授業、解惑。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "被動句，指出老師受教的內容",
+            "explanation": "受通授是傳授，整句主動說教師職責，並非老師被教。"
+          },
+          {
+            "id": "b",
+            "text": "比較句，區分老師與學生的專長",
+            "explanation": "這句未列弟子與老師比較高下，而是作身分職責界定。"
+          },
+          {
+            "id": "c",
+            "text": "判斷句，界定老師的職責",
+            "explanation": "者提出師這個論題，也在句末作判斷，整體界定教師用來傳道、授業、解惑。"
+          },
+          {
+            "id": "d",
+            "text": "省略句，省去被教的童子姓名",
+            "explanation": "沒有童子姓名並非此句核心，不能因此以省略概括者也判斷作用。"
+          }
+        ],
+        "misconception": "受通授是傳授，整句主動說教師職責，並非老師被教；這句未列弟子與老師比較高下，而是作身分職責界定；沒有童子姓名並非此句核心，不能因此以省略概括者也判斷作用。"
+      },
+      "objective": "「師者，所以傳道、受業、解惑也」的「者……也」有何句式作用？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-19-01-2",
+      "ordinal": 106,
+      "baseQuestionHash": "779343a8451ba780aa5c63816be2755fe05f363c988c792c7e0d189b1a9518bc",
+      "patch": {
+        "explanation": "聖人之所以為聖追問成為聖人的原因；師者所以傳道則說老師用來做甚麼，界定作用。兩處都不是現代單用所以接結果，須連前後成分判斷，不能只背同字一義。",
+        "summary": "聖人之所以為聖追問成為聖人的原因；師者所以傳道則說老師用來做甚麼，界定作用。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "成為聖人的原因；用來傳道的",
+            "explanation": "聖人之所以為聖追問成為聖人的原因；師者所以傳道則說老師用來做甚麼，界定作用。"
+          },
+          {
+            "id": "b",
+            "text": "用來成為聖人的；傳道的原因",
+            "explanation": "這項把原因與用途兩種作用對調。"
+          },
+          {
+            "id": "c",
+            "text": "成為聖人的結果；傳道的原因",
+            "explanation": "前處追成因而非寫結果，後處又把教師作用讀成傳道成因。"
+          },
+          {
+            "id": "d",
+            "text": "成為聖人的原因；因而傳道的結果",
+            "explanation": "前處雖對，後處因而仍套現代結果連詞，漏掉職責界定。"
+          }
+        ],
+        "misconception": "這項把原因與用途兩種作用對調；前處追成因而非寫結果，後處又把教師作用讀成傳道成因；前處雖對，後處因而仍套現代結果連詞，漏掉職責界定。"
+      },
+      "objective": "「聖人之所以為聖」與「師者，所以傳道……」兩處「所以」分別表示甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-19-01-3",
+      "ordinal": 107,
+      "baseQuestionHash": "05c98c0985d999833a497d92de19e5af849ba7d6253e8ab3766e86a1fa0fa8fc",
+      "patch": {
+        "explanation": "句讀是不知的對象，惑是不解的對象，兩者都作賓語並前置。還原為不知句讀、不解惑即可核對：誰不知不解另由語境補出，不能把句首出現的名詞一概當主語。",
+        "summary": "句讀是不知的對象，惑是不解的對象，兩者都作賓語並前置。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "「句讀」作主語；「惑」作賓語",
+            "explanation": "句讀雖放前面，仍是被認識的內容，不是執行知的主體。"
+          },
+          {
+            "id": "b",
+            "text": "「句讀」作賓語；「惑」作主語",
+            "explanation": "惑是待解決的對象，並非自己進行解的主體。"
+          },
+          {
+            "id": "c",
+            "text": "「句讀」和「惑」都作主語",
+            "explanation": "位置在前不等於主語，還原動詞後兩者均為賓語。"
+          },
+          {
+            "id": "d",
+            "text": "「句讀」和「惑」都作賓語",
+            "explanation": "句讀是不知的對象，惑是不解的對象，兩者都作賓語並前置。"
+          }
+        ],
+        "misconception": "句讀雖放前面，仍是被認識的內容，不是執行知的主體；惑是待解決的對象，並非自己進行解的主體；位置在前不等於主語，還原動詞後兩者均為賓語。"
+      },
+      "objective": "「句讀之不知，惑之不解」中，「句讀」和「惑」分別充當哪一種句子成分？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-19-01-4",
+      "ordinal": 108,
+      "baseQuestionHash": "8de2fd834bc7970e6cc3b8e297a1fad4b6bac934c131914e31d375c54679ff23",
+      "patch": {
+        "explanation": "不拘於時說不被時俗拘束，前於引施加束縛的時俗；學於余說向韓愈學，後於引求學對象。兩個於相鄰卻關係不同，要分別配拘與學，不可只因都接於就一律當被動。",
+        "summary": "不拘於時說不被時俗拘束，前於引施加束縛的時俗；學於余說向韓愈學，後於引求學對象。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "前者引出拘束他的時俗；後者引出他求學的對象。",
+            "explanation": "不拘於時說不被時俗拘束，前於引施加束縛的時俗；學於余說向韓愈學，後於引求學對象。"
+          },
+          {
+            "id": "b",
+            "text": "前者引出他超越的比較對象；後者引出他求學的對象。",
+            "explanation": "前句沒有拿李蟠與時俗比高下，而是說免受拘束。"
+          },
+          {
+            "id": "c",
+            "text": "前者引出拘束他的時俗；後者以被動句引出教他的施動者。",
+            "explanation": "後句李蟠主動向韓愈求學，於余不是將學改成被動受教句。"
+          },
+          {
+            "id": "d",
+            "text": "前者引出學習發生的時段；後者引出他求學的對象。",
+            "explanation": "時是恥師風俗，不是上課發生的時段。"
+          }
+        ],
+        "misconception": "前句沒有拿李蟠與時俗比高下，而是說免受拘束；後句李蟠主動向韓愈求學，於余不是將學改成被動受教句；時是恥師風俗，不是上課發生的時段。"
+      },
+      "objective": "「不拘於時，學於余」兩個「於」的用法，哪項正確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-19-03-1",
+      "ordinal": 109,
+      "baseQuestionHash": "4afe197987d8cac34427fcc0326cbba55342488493c7b6b41a20671d9c079912",
+      "patch": {
+        "explanation": "其聞道的其與師之的之同指那位聞道先於我的人，前者是領會者，後者是我從學的對象。句法位置不同不代表換了人，兩個年齡情況也各自維持同一指代鏈。",
+        "summary": "其聞道的其與師之的之同指那位聞道先於我的人，前者是領會者，後者是我從學的對象。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "同指正在自述擇師準則的作者",
+            "explanation": "作者由吾自稱，不能把對方的其與之都改為作者。"
+          },
+          {
+            "id": "b",
+            "text": "同指聞道先於我的那個人",
+            "explanation": "其聞道的其與師之的之同指那位聞道先於我的人，前者是領會者，後者是我從學的對象。"
+          },
+          {
+            "id": "c",
+            "text": "前者指年長者，後者固定指年幼者",
+            "explanation": "後一代詞不會因位置較後就固定換成年幼者，每一組都指同一人。"
+          },
+          {
+            "id": "d",
+            "text": "前者指古聖人，後者固定指作者",
+            "explanation": "句中提出的是假設的先聞道人，未固定指古聖或把之換成作者。"
+          }
+        ],
+        "misconception": "作者由吾自稱，不能把對方的其與之都改為作者；後一代詞不會因位置較後就固定換成年幼者，每一組都指同一人；句中提出的是假設的先聞道人，未固定指古聖或把之換成作者。"
+      },
+      "objective": "「其聞道也固先乎吾，吾從而師之」的「其」「之」是否指同一人？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-19-03-2",
+      "ordinal": 110,
+      "baseQuestionHash": "a034243fff36cf26b6c1e440cc71c4e92815d66df0fc6c09e4b14369d81b43c7",
+      "patch": {
+        "explanation": "兩個之都指孩子：教之是教他，授之書是把經書授予他。後一句的書已另列教學內容，所以之不是書；先把施教者、受教者與教材分開，便能維持同一指代。",
+        "summary": "兩個之都指孩子：教之是教他，授之書是把經書授予他。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "兩者都指成人的孩子",
+            "explanation": "兩個之都指孩子：教之是教他，授之書是把經書授予他。"
+          },
+          {
+            "id": "b",
+            "text": "兩者都指替孩子選的老師",
+            "explanation": "老師負教與授，並非兩處接受教導的孩子。"
+          },
+          {
+            "id": "c",
+            "text": "前者指孩子，後者指授給孩子的書",
+            "explanation": "授之書中的書已是內容，之仍是受教的孩子。"
+          },
+          {
+            "id": "d",
+            "text": "前者指老師，後者指接受教育的孩子",
+            "explanation": "前句成人為子選師，所要教的是孩子，不能改指老師。"
+          }
+        ],
+        "misconception": "老師負教與授，並非兩處接受教導的孩子；授之書中的書已是內容，之仍是受教的孩子；前句成人為子選師，所要教的是孩子，不能改指老師。"
+      },
+      "objective": "「擇師而教之」與「授之書」中的「之」，分別指甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-19-03-3",
+      "ordinal": 111,
+      "baseQuestionHash": "ff619fafb34ab8ba14f167939ccd6727e8a94fa93aac5bf162f699324cba8393",
+      "patch": {
+        "explanation": "於其身是對於成人自己，承接同一人先為孩子選師的行動。於引出論及的對象，其身把焦點轉回本人，與對子形成矛盾；不是位置在老師身邊，也不直接表示受身分束縛。",
+        "summary": "於其身是對於成人自己，承接同一人先為孩子選師的行動。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "對於成人的孩子",
+            "explanation": "孩子已由其子指出，於其身改說做選擇的成人本人。"
+          },
+          {
+            "id": "b",
+            "text": "對於成人自己",
+            "explanation": "於其身是對於成人自己，承接同一人先為孩子選師的行動。"
+          },
+          {
+            "id": "c",
+            "text": "在老師的身邊",
+            "explanation": "身在這裏是自身，於並非交代站在誰身旁的地點。"
+          },
+          {
+            "id": "d",
+            "text": "因身分而受限制",
+            "explanation": "身分限制是其他段落的藉口，本短語本身只轉換論及對象。"
+          }
+        ],
+        "misconception": "孩子已由其子指出，於其身改說做選擇的成人本人；身在這裏是自身，於並非交代站在誰身旁的地點；身分限制是其他段落的藉口，本短語本身只轉換論及對象。"
+      },
+      "objective": "文句中「於其身」的用法或所指，哪項正確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-19-03-4",
+      "ordinal": 112,
+      "baseQuestionHash": "814feec0a0f7dbed14156234d827babcc5ff45fa88e077287923a5d5a5c63eff",
+      "patch": {
+        "explanation": "其智的其指士大夫，不能及省略的對象是前列巫醫樂師百工。這樣補足才與君子不齒構成看不起對方卻反不及的諷刺，不能把別組古今或父子的比較搬入。",
+        "summary": "其智的其指士大夫，不能及省略的對象是前列巫醫樂師百工。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "百工的才智反不及士大夫",
+            "explanation": "這項倒轉比較主客，原文不及者是自負的士大夫。"
+          },
+          {
+            "id": "b",
+            "text": "今眾的才智反不及古聖",
+            "explanation": "今眾古聖是第一組比較，此句緊接的是君子與百工。"
+          },
+          {
+            "id": "c",
+            "text": "成人的才智反不及其子",
+            "explanation": "對子對己一段並未在此比較父子才智，主體對象都不符。"
+          },
+          {
+            "id": "d",
+            "text": "士大夫的才智反不及百工",
+            "explanation": "其智的其指士大夫，不能及省略的對象是前列巫醫樂師百工。"
+          }
+        ],
+        "misconception": "這項倒轉比較主客，原文不及者是自負的士大夫；今眾古聖是第一組比較，此句緊接的是君子與百工；對子對己一段並未在此比較父子才智，主體對象都不符。"
+      },
+      "objective": "「今其智乃反不能及」省略了比較對象。哪項補足正確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-19-03-5",
+      "ordinal": 113,
+      "baseQuestionHash": "06295b4930d374a53dc2bb2ed8fe4bb05e8f6e6112a3994964b4fa8021099775",
+      "patch": {
+        "explanation": "皆通習之的之回指緊接在前的六藝經傳，是李蟠全都學習的內容。這與後面貽之代人不同：習後接所學物，貽後接受贈人，不能因同段同字便固定同一指代。",
+        "summary": "皆通習之的之回指緊接在前的六藝經傳，是李蟠全都學習的內容。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "六種技藝",
+            "explanation": "本句六藝是六經，不是禮樂射御書數六種技能。"
+          },
+          {
+            "id": "b",
+            "text": "童子的句讀",
+            "explanation": "句讀屬前段童子學習，此處明列六藝經傳，範圍不同。"
+          },
+          {
+            "id": "c",
+            "text": "所作的《師說》",
+            "explanation": "師說在後面才因嘉許而作，不能倒成此時已學完的內容。"
+          },
+          {
+            "id": "d",
+            "text": "六藝經傳",
+            "explanation": "皆通習之的之回指緊接在前的六藝經傳，是李蟠全都學習的內容。"
+          }
+        ],
+        "misconception": "本句六藝是六經，不是禮樂射御書數六種技能；句讀屬前段童子學習，此處明列六藝經傳，範圍不同；師說在後面才因嘉許而作，不能倒成此時已學完的內容。"
+      },
+      "objective": "「六藝經傳，皆通習之」的「之」指甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-07-19-03-6",
+      "ordinal": 114,
+      "baseQuestionHash": "64a2f0030027559a308cc618d0eea6065e3c777b1fa1dbf71fa27ba535e3d2e2",
+      "patch": {
+        "explanation": "貽之的之指李蟠，文章為讚許他不拘時俗、肯從師而作。沿着李氏子蟠、學於余、余嘉其的敘述鏈讀，受贈者一直是同一少年，不是前段泛論的今眾或孔子之師。",
+        "summary": "貽之的之指李蟠，文章為讚許他不拘時俗、肯從師而作。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "童子的父親",
+            "explanation": "童子父親在批評段出現，非末段被點名嘉許的人。"
+          },
+          {
+            "id": "b",
+            "text": "求師的今眾",
+            "explanation": "恥師的今眾是泛論群體，本句贈文有特定對象李蟠。"
+          },
+          {
+            "id": "c",
+            "text": "李蟠",
+            "explanation": "貽之的之指李蟠，文章為讚許他不拘時俗、肯從師而作。"
+          },
+          {
+            "id": "d",
+            "text": "孔子之徒",
+            "explanation": "孔子之徒指另一組古人，不能作韓愈此次贈文的當代對象。"
+          }
+        ],
+        "misconception": "童子父親在批評段出現，非末段被點名嘉許的人；恥師的今眾是泛論群體，本句贈文有特定對象李蟠；孔子之徒指另一組古人，不能作韓愈此次贈文的當代對象。"
+      },
+      "objective": "「作《師說》以貽之」的「之」指誰？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-01-22-02-02",
+      "ordinal": 115,
+      "baseQuestionHash": "523d5de892f3f00410c2318d05eb0f0b4b43bc611993f516899ee51e9cf1a4ef",
+      "patch": {
+        "explanation": "甲說子女婉勸後，看見父母沒有聽從勸告；乙說有惑的學者不肯跟老師學習。甲的從是父母採納意見，乙的從是學者跟從求學，必須把兩句省略的行動者補準，不能只見孝便認定都是子女服從。",
+        "summary": "甲說子女婉勸後，看見父母沒有聽從勸告；乙說有惑的學者不肯跟老師學習。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲指子女聽從父母；乙指學者跟師學習",
+            "explanation": "甲不從的是受勸的父母，不是子女不肯聽父母；乙部分正確。"
+          },
+          {
+            "id": "b",
+            "text": "甲指父母聽取勸告；乙指老師接納學者",
+            "explanation": "乙主體是有惑的學者，並非老師是否接納學生。"
+          },
+          {
+            "id": "c",
+            "text": "甲指子女跟隨父母；乙指學者聽任疑惑",
+            "explanation": "甲非子女隨行，乙也非聽任疑惑，兩處都改錯行動內容。"
+          },
+          {
+            "id": "d",
+            "text": "甲指父母聽取勸告；乙指學者跟師學習",
+            "explanation": "甲說子女婉勸後，看見父母沒有聽從勸告；乙說有惑的學者不肯跟老師學習。"
+          }
+        ],
+        "misconception": "甲不從的是受勸的父母，不是子女不肯聽父母；乙部分正確；乙主體是有惑的學者，並非老師是否接納學生；甲非子女隨行，乙也非聽任疑惑，兩處都改錯行動內容。"
+      },
+      "objective": "甲「見志不從」與乙「惑而不從師」的「從」，哪項準確指出兩句的行動者與意思？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-01-23-02-01",
+      "ordinal": 116,
+      "baseQuestionHash": "3977700938bdcd633d1f62dd1bb4dd41b55c71fd66e583b21926e4b602af93d1",
+      "patch": {
+        "explanation": "兩處於都引出請教的對象，可譯向：孟孫向孔子問孝，李蟠向韓愈學習。我與余都是說話者自稱，不能把所接人物當作處所或比較標準；學於余也不同於同句前面的被動不拘於時。",
+        "summary": "兩處於都引出請教的對象，可譯向：孟孫向孔子問孝，李蟠向韓愈學習。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "引出行動處所，相當於在",
+            "explanation": "我與余在此是受請教的人，不是事情發生的場所。"
+          },
+          {
+            "id": "b",
+            "text": "引出比較標準，相當於比",
+            "explanation": "兩句均未比較誰較賢能，不是比的用法。"
+          },
+          {
+            "id": "c",
+            "text": "引出被動施事，相當於被",
+            "explanation": "問與學均由求教者主動進行，不能沿用不拘於時的被動解法。"
+          },
+          {
+            "id": "d",
+            "text": "引出請教對象，相當於向",
+            "explanation": "兩處於都引出請教的對象，可譯向：孟孫向孔子問孝，李蟠向韓愈學習。"
+          }
+        ],
+        "misconception": "我與余在此是受請教的人，不是事情發生的場所；兩句均未比較誰較賢能，不是比的用法；問與學均由求教者主動進行，不能沿用不拘於時的被動解法。"
+      },
+      "objective": "「問孝於我」和《師說》「學於余」的「於」，共同用法是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    }
+  ]
+}

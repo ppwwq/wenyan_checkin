@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "checks": [
+    "real browser account switch isolates records, favorites and drafts",
+    "recovery UI issues replacement one-time code",
+    "original account restores historical answers from server",
+    "correction notice arrives without rewriting original answer",
+    "in-progress snapshot survives withdrawal",
+    "withdrawn content excluded from new queue after authenticated refresh"
+  ],
+  "errors": []
+}

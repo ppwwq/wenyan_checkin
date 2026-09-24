@@ -1,0 +1,21 @@
+{
+  "origin": "http://127.0.0.1:8799",
+  "questions": [
+    {
+      "id": "pilot-01-01-03",
+      "stem": "原句中「約」在這裏最準確的意思是甚麼？",
+      "answer": "窮困、困苦"
+    },
+    {
+      "id": "concept-09-05",
+      "stem": "「不以物喜，不以己悲」與「進亦憂，退亦憂」能否並存？",
+      "answer": "能：前者超越外物與私己得失，後者關心君民"
+    },
+    {
+      "id": "full-d-00-00",
+      "stem": "判斷一種表達是否構成比喻，最應核對哪一項？",
+      "answer": "是否以本體與喻體的相似點，讓所寫事物或道理更具體可感"
+    }
+  ],
+  "scope": "Local in-memory database with synthetic accounts only."
+}

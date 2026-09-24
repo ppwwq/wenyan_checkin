@@ -29,7 +29,9 @@ for q in bank['questions']:
     ids.add(q['id'])
     # Curated variants deliberately share a stable memory unit.
     memory.add(q['memoryId'])
-    check(q['status']=='reviewed' and q['active'] is True,f"unreviewed release {q['id']}")
+    review=q.get('review',{})
+    held=q.get('active') is False and review.get('method')=='source-review-and-agent-cross-review' and review.get('disposition')=='hold' and bool(review.get('evidence')) and bool(q.get('revisionReason'))
+    check(q['status']=='reviewed' and (q['active'] is True or held),f"unreviewed release {q['id']}")
     check(len(q['choices'])==4 and len({c['text'] for c in q['choices']})==4,f"duplicate choices {q['id']}")
     check(sum(c['id']==q['answerId'] for c in q['choices'])==1,f"no unique answer {q['id']}")
     check(all(c.get('explanation') for c in q['choices']),f"missing option rationale {q['id']}")

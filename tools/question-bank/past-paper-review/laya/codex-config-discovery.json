@@ -1,0 +1,22 @@
+[
+  {
+    "project": "D:\\DSE中文甲部知识库",
+    "server": "laya_local",
+    "enabled": true,
+    "command": "C:\\Users\\philip\\Documents\\Codex\\2026-09-23\\jev-laya-codex-thread-01a0c99c-53c8\\work\\laya-venv\\Scripts\\python.exe",
+    "args": [
+      "C:\\Users\\philip\\Documents\\Codex\\2026-09-23\\jev-laya-codex-thread-01a0c99c-53c8\\outputs\\laya-deployment\\server.py"
+    ],
+    "nativeTaskInvocation": "not-refreshed-in-current-task"
+  },
+  {
+    "project": "D:\\wenyan_checkin",
+    "server": "laya_local",
+    "enabled": true,
+    "command": "C:\\Users\\philip\\Documents\\Codex\\2026-09-23\\jev-laya-codex-thread-01a0c99c-53c8\\work\\laya-venv\\Scripts\\python.exe",
+    "args": [
+      "C:\\Users\\philip\\Documents\\Codex\\2026-09-23\\jev-laya-codex-thread-01a0c99c-53c8\\outputs\\laya-deployment\\server.py"
+    ],
+    "nativeTaskInvocation": "not-refreshed-in-current-task"
+  }
+]

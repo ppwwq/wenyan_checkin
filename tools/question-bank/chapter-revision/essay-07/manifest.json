@@ -1,0 +1,10 @@
+{
+  "version": "2026.09.23.13",
+  "essayId": "essay-07",
+  "baselineSha256": "93a54428ed635520a3706200f1adffc4a7c293c66df7800bda3d72561717cc68",
+  "pack": "revisions.json",
+  "packSha256": "a590f51c44025f36b4e161b403f8946975a95cafe3d56f6f45bbe203cc321ba3",
+  "evidence": "source-evidence.json",
+  "evidenceSha256": "a939170f3ccdd4cf41e754d08a22b1ed84205f7e0a3a2680c43d60c1684c471a",
+  "evidenceReferenceBase": "chapter-revision/essay-07"
+}

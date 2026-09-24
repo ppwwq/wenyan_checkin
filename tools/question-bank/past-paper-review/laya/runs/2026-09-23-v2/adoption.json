@@ -1,0 +1,19 @@
+{
+  "fullBankEnabled": false,
+  "rubricHash": "ef45c0014bdd07351793cc501d2fb1f3062d8b5903547b9222af04584b142232",
+  "evaluationSha256": "c00f492df0b57e790d08c73ade94c57efdb0ba4a47b33bc1aa166f7fd1ed5ae3",
+  "decision": "Do not adopt for semantic filtering or release decisions",
+  "reasons": [
+    "held-out wrong-option attraction agreement 51/120, below training-majority baseline 60/120",
+    "held-out option-set strength agreement 25/40, equal to majority baseline",
+    "held-out operation agreement 14/40, insufficient for reliable routing"
+  ],
+  "allowedUse": "local fixed-sample experiments and raw advisory observations only",
+  "unvalidated": [
+    "correctness",
+    "uniqueness",
+    "learning suitability",
+    "whole-bank value"
+  ],
+  "referenceLimit": "source-read author reference, not teacher gold; no student outcomes"
+}

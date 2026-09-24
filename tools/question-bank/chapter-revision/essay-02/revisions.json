@@ -1,0 +1,2600 @@
+{
+  "baselineVersion": "2026.09.23.7",
+  "date": "2026-09-23",
+  "author": "Codex chapter author",
+  "reviewMethod": "source-review-and-author-self-check",
+  "records": [
+    {
+      "id": "q-e02-exp-001",
+      "ordinal": 1,
+      "baseQuestionHash": "3b26ff83098959466483f3b35690384a557558388746c68adcb47f6c6342b7cd",
+      "patch": {
+        "explanation": "兼是同時得到，二者不可得兼表示不能把魚和熊掌一起取得，才需要作取捨。兩樣本來都想要，捨魚不是因為討厭魚，而是衝突時選較重的一方。這個條件隨後移到生與義，不能漏掉同時二字而把捨生當成日常要求。",
+        "summary": "兼是同時得到，二者不可得兼表示不能把魚和熊掌一起取得，才需要作取捨。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "先後得到",
+            "explanation": "先後得到仍可能兩樣都有，不能表達同時兼有的限制。"
+          },
+          {
+            "id": "b",
+            "text": "同時得到",
+            "explanation": "兼是同時得到，二者不可得兼表示不能把魚和熊掌一起取得，才需要作取捨。"
+          },
+          {
+            "id": "c",
+            "text": "加倍取得",
+            "explanation": "兼說兩者同得，不是把其中一樣的數量加倍。"
+          },
+          {
+            "id": "d",
+            "text": "一併放棄",
+            "explanation": "兼本身是兼有，不是放棄；不可得兼之後才引出捨取。"
+          }
+        ],
+        "misconception": "先後得到仍可能兩樣都有，不能表達同時兼有的限制；兼說兩者同得，不是把其中一樣的數量加倍；兼本身是兼有，不是放棄；不可得兼之後才引出捨取。"
+      },
+      "objective": "按上下文理解，這裏「兼」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e02-exp-002",
+      "ordinal": 2,
+      "baseQuestionHash": "435f92b329d2c72dfffd74486f38d9cd8545af523fbdcf15b3b2c0b4fc548519",
+      "patch": {
+        "explanation": "辟通避，是躲避；患有所不辟說有些禍患寧可不避，因為逃避的代價會是失義。原句的有所限定部分情況，不能讀成孟子反對避開任何危險。先解辟，再把不與有所加回，才能保留完整取捨條件。",
+        "summary": "辟通避，是躲避；患有所不辟說有些禍患寧可不避，因為逃避的代價會是失義。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "躲避禍患",
+            "explanation": "辟通避，是躲避；患有所不辟說有些禍患寧可不避，因為逃避的代價會是失義。"
+          },
+          {
+            "id": "b",
+            "text": "預防禍患",
+            "explanation": "預防着重事前防止發生，辟指躲避所面對的禍患，兩者時機不同。"
+          },
+          {
+            "id": "c",
+            "text": "消除禍患",
+            "explanation": "消除是使禍患不再存在，躲避則是讓自己免受，不能混同。"
+          },
+          {
+            "id": "d",
+            "text": "承受禍患",
+            "explanation": "承受是選擇不避後可能的結果，並非辟本身的詞義。"
+          }
+        ],
+        "misconception": "預防着重事前防止發生，辟指躲避所面對的禍患，兩者時機不同；消除是使禍患不再存在，躲避則是讓自己免受，不能混同；承受是選擇不避後可能的結果，並非辟本身的詞義。"
+      },
+      "objective": "按上下文理解，這裏「辟」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e02-exp-003",
+      "ordinal": 3,
+      "baseQuestionHash": "14fd7c71fb816542ee581cfcdc9d202abd1d5acfab11251e4a288f5617d0c840",
+      "patch": {
+        "explanation": "豆在一豆羹中是盛食物的器皿，羹才是其中的食物。它與一簞食並列，兩組都以容器說一份少量飯食。不能見到現代豆字就解作豆類，也不能只因前有一，便把容器本身說成抽象的度量單位。",
+        "summary": "豆在一豆羹中是盛食物的器皿，羹才是其中的食物。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "烹煮食物的鍋",
+            "explanation": "此處是盛羹供人食用的器皿，未在描述烹煮的鍋。"
+          },
+          {
+            "id": "b",
+            "text": "量食物的單位",
+            "explanation": "一豆可用容器計一份食物，但豆的本義仍是實物器皿，不是單位名稱。"
+          },
+          {
+            "id": "c",
+            "text": "供食用的豆類",
+            "explanation": "句中豆是盛羹的器具，不是被煮來食用的豆類。"
+          },
+          {
+            "id": "d",
+            "text": "盛食物的器皿",
+            "explanation": "豆在一豆羹中是盛食物的器皿，羹才是其中的食物。"
+          }
+        ],
+        "misconception": "此處是盛羹供人食用的器皿，未在描述烹煮的鍋；一豆可用容器計一份食物，但豆的本義仍是實物器皿，不是單位名稱；句中豆是盛羹的器具，不是被煮來食用的豆類。"
+      },
+      "objective": "按上下文理解，這裏「豆」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e02-exp-004",
+      "ordinal": 4,
+      "baseQuestionHash": "c605777591310edd6f0b94ea109e70b3705d53b4f73610d7b9bda578c751c392",
+      "patch": {
+        "explanation": "得通德，在得我中是感激我。所識窮乏者是產生感激的人，我是被感激的對象，整句列出受祿者所貪求的人情回報。感激是一種態度，不等於已實際報答；也不能把我當成要取得的物品。",
+        "summary": "得通德，在得我中是感激我。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "得到",
+            "explanation": "我在此是被感激的人，不是得到某件東西的得。"
+          },
+          {
+            "id": "b",
+            "text": "認得",
+            "explanation": "所識已交代彼此認識，得我另說希望對方感恩，不是再次認得。"
+          },
+          {
+            "id": "c",
+            "text": "感激",
+            "explanation": "得通德，在得我中是感激我。"
+          },
+          {
+            "id": "d",
+            "text": "報答",
+            "explanation": "報答須有回報行動，感激本身未保證對方已付諸報答。"
+          }
+        ],
+        "misconception": "我在此是被感激的人，不是得到某件東西的得；所識已交代彼此認識，得我另說希望對方感恩，不是再次認得；報答須有回報行動，感激本身未保證對方已付諸報答。"
+      },
+      "objective": "按上下文理解，這裏「得」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e02-exp-005",
+      "ordinal": 5,
+      "baseQuestionHash": "ddf36425caba1f759c08dbefe396b68d454bb97bd866bd5fdf5028e7ddcee436",
+      "patch": {
+        "explanation": "已是停止，所要停止的是為享受或感激而不辨禮義受祿的做法。不可以已乎用反問催促改正，並不是說這件事已經完成。解字後還要追問停止甚麼，才能避免把孟子的要求誤讀成停止一切受祿或幫助窮人。",
+        "summary": "已是停止，所要停止的是為享受或感激而不辨禮義受祿的做法。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "已經完成",
+            "explanation": "已在可以之後說能做甚麼，不能以已經完成代替應停止的行動。"
+          },
+          {
+            "id": "b",
+            "text": "停止",
+            "explanation": "已是停止，所要停止的是為享受或感激而不辨禮義受祿的做法。"
+          },
+          {
+            "id": "c",
+            "text": "由自己決定",
+            "explanation": "己與已不是同一字義，原句已指停止，不是把選擇留待本人決定。"
+          },
+          {
+            "id": "d",
+            "text": "暫且如此",
+            "explanation": "反問催促停止失義，並非讓目前做法暫時維持。"
+          }
+        ],
+        "misconception": "已在可以之後說能做甚麼，不能以已經完成代替應停止的行動；己與已不是同一字義，原句已指停止，不是把選擇留待本人決定；反問催促停止失義，並非讓目前做法暫時維持。"
+      },
+      "objective": "按上下文理解，這裏「已」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "q-e02-exp-006",
+      "ordinal": 6,
+      "baseQuestionHash": "c51c9a8c4c8d8f502b6cf300ba237ec941d0642940b24bbebb58f30cf17d8ee0",
+      "patch": {
+        "explanation": "人皆有之說本心原本人人都有，賢者能勿喪則把分別放在能否保持。因此由守義變成見利忘義，是原有本心後來失守，不是從來沒有良心。這也表示有本心不等於每次選擇都合義，仍要在物欲面前持續守住。",
+        "summary": "人皆有之說本心原本人人都有，賢者能勿喪則把分別放在能否保持。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "原有重義本心，後來未能保持",
+            "explanation": "人皆有之說本心原本人人都有，賢者能勿喪則把分別放在能否保持。"
+          },
+          {
+            "id": "b",
+            "text": "原本欠缺本心，後來顯露本性",
+            "explanation": "人皆有之否定原本欠缺的說法，失守不能倒推出生來沒有。"
+          },
+          {
+            "id": "c",
+            "text": "原有求生欲望，後來開始重義",
+            "explanation": "題目問由守義變失義，這項卻寫由求生開始重義，轉變方向相反。"
+          },
+          {
+            "id": "d",
+            "text": "原本受人教導，後來才有本心",
+            "explanation": "本句把本心說成人皆有，沒有以受教才首次取得本心為條件。"
+          }
+        ],
+        "misconception": "人皆有之否定原本欠缺的說法，失守不能倒推出生來沒有；題目問由守義變失義，這項卻寫由求生開始重義，轉變方向相反；本句把本心說成人皆有，沒有以受教才首次取得本心為條件。"
+      },
+      "objective": "依這句話，一個人由守義變為見利忘義，應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e02-exp-007",
+      "ordinal": 7,
+      "baseQuestionHash": "9ce83dcf7865102848b0215904050f0d97b85c5a2e9a7fbf9336dc4502cee1ba",
+      "patch": {
+        "explanation": "孟子先承認生與義都是我所欲，再用不可得兼限定必須取捨的情況。正解既保留珍惜生命，也指出真正衝突時義更重要。遇到危難不等於兩者必然不能兼顧；若仍能守義求生，原句沒有要求主動赴死。",
+        "summary": "孟子先承認生與義都是我所欲，再用不可得兼限定必須取捨的情況。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "生與義皆為所欲，應先保生再逐步求義",
+            "explanation": "先保命後求義可能已在衝突時犧牲義，與舍生取義的優先次序相反。"
+          },
+          {
+            "id": "b",
+            "text": "生與義皆為所欲，兩者價值相等可任擇",
+            "explanation": "同為所欲不等於價值相等，下句已明確選取義。"
+          },
+          {
+            "id": "c",
+            "text": "生與義皆為所欲，遇到危難便應放棄求生",
+            "explanation": "危難不一定迫使人失義，不能省去不可兼得便要求放棄求生。"
+          },
+          {
+            "id": "d",
+            "text": "生與義皆為所欲，確不能兼得時以義為先",
+            "explanation": "孟子先承認生與義都是我所欲，再用不可得兼限定必須取捨的情況。"
+          }
+        ],
+        "misconception": "先保命後求義可能已在衝突時犧牲義，與舍生取義的優先次序相反；同為所欲不等於價值相等，下句已明確選取義；危難不一定迫使人失義，不能省去不可兼得便要求放棄求生。"
+      },
+      "objective": "四項對「舍生取義」的說明中，哪項保留了原句所設的判斷條件？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e02-exp-008",
+      "ordinal": 8,
+      "baseQuestionHash": "e541d9863b92e198bd17c1e08984d51db6789a64a8b71ab8290659e0c20a67c2",
+      "patch": {
+        "explanation": "鄉是從前，今是現在，兩句對照的重點是守義準則如何改變：昔日寧死不接受，今日卻為享受而接受。依本書主解，昔日指拒絕受辱之食；另有連萬鍾的讀法，兩解都突出由重義到失義，不能只概括成生活變富裕。",
+        "summary": "鄉是從前，今是現在，兩句對照的重點是守義準則如何改變：昔日寧死不接受，今日卻為享受而接受。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "從生活貧困，變為得到豐厚俸祿",
+            "explanation": "貧富變化不是批評核心；問題是取得利益時是否仍辨禮義。"
+          },
+          {
+            "id": "b",
+            "text": "從拒絕施捨，變為主動救濟窮人",
+            "explanation": "原文未否定救濟本身，也非只記由拒施捨變為助人的角色轉換。"
+          },
+          {
+            "id": "c",
+            "text": "從寧死守義，變為因物欲而失義",
+            "explanation": "鄉是從前，今是現在，兩句對照的重點是守義準則如何改變：昔日寧死不接受，今日卻為享受而接受。"
+          },
+          {
+            "id": "d",
+            "text": "從重視聲譽，變為追求內心安定",
+            "explanation": "今日所貪是宮室之美等利益，沒有由求聲譽轉為心安的描寫。"
+          }
+        ],
+        "misconception": "貧富變化不是批評核心；問題是取得利益時是否仍辨禮義；原文未否定救濟本身，也非只記由拒施捨變為助人的角色轉換；今日所貪是宮室之美等利益，沒有由求聲譽轉為心安的描寫。"
+      },
+      "objective": "「鄉」與「今」的對照，着重揭示哪一種變化？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "q-comparison-001",
+      "ordinal": 9,
+      "baseQuestionHash": "d4012db41b789633cf49966bc450442d4cfc3be5d704c92707d7ff923f144a24",
+      "patch": {
+        "explanation": "兩句都把道德原則放在生命之上，但取捨發生在保命與守仁義不能兩全時。成仁和取義各有用語重點，共同之處是不可用失德作苟且保命的代價。這不等於視生命無價值，也不等於每逢危難都要犧牲。",
+        "summary": "兩句都把道德原則放在生命之上，但取捨發生在保命與守仁義不能兩全時。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "不能兩全時，先保全生命再補做仁義之事",
+            "explanation": "原則雖被提及，先保命再補行仁義仍倒轉了衝突時的優先次序。"
+          },
+          {
+            "id": "b",
+            "text": "面對生死時，待安全有保障才須堅守原則",
+            "explanation": "兩句承認守原則可能付出生命代價，不能把安全列為守義的前提。"
+          },
+          {
+            "id": "c",
+            "text": "生命既然可貴，仁義便須隨保命需要調整",
+            "explanation": "珍惜生命不等於它永遠優先；不可兩全時兩句均選道德。"
+          },
+          {
+            "id": "d",
+            "text": "不能兩全時，寧守仁義而不苟且保命",
+            "explanation": "兩句都把道德原則放在生命之上，但取捨發生在保命與守仁義不能兩全時。"
+          }
+        ],
+        "misconception": "原則雖被提及，先保命再補行仁義仍倒轉了衝突時的優先次序；兩句承認守原則可能付出生命代價，不能把安全列為守義的前提；珍惜生命不等於它永遠優先；不可兩全時兩句均選道德。"
+      },
+      "objective": "「有殺身以成仁」與「舍生而取義」，只就衝突時的價值取捨比較，有何共同點？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e02-p01-b00-v00",
+      "ordinal": 10,
+      "baseQuestionHash": "b8d1557dae0f41323b0837d833bc0a4a4883439cbcba1be251bcfc1ea2258c36",
+      "patch": {
+        "explanation": "欲是想要、希望得到，所欲把這個動作轉成想要的事物，魚和熊掌都在其中。句中沒有將來時間的意思，也不是說只有維生必需的東西才可欲。先承認兩樣皆欲，才能理解下文為何要在不能兼得時比較輕重。",
+        "summary": "欲是想要、希望得到，所欲把這個動作轉成想要的事物，魚和熊掌都在其中。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "希望得到",
+            "explanation": "欲是想要、希望得到，所欲把這個動作轉成想要的事物，魚和熊掌都在其中。"
+          },
+          {
+            "id": "b",
+            "text": "將要發生",
+            "explanation": "將要是時間副詞，不能解釋魚是我所欲這個對象關係。"
+          },
+          {
+            "id": "c",
+            "text": "需要具備",
+            "explanation": "需要具備着重必要條件，本句只說想要，未說魚熊掌都是必需品。"
+          },
+          {
+            "id": "d",
+            "text": "使人願意",
+            "explanation": "欲描述我自己的願望，並非使另一個人願意的使動。"
+          }
+        ],
+        "misconception": "將要是時間副詞，不能解釋魚是我所欲這個對象關係；需要具備着重必要條件，本句只說想要，未說魚熊掌都是必需品；欲描述我自己的願望，並非使另一個人願意的使動。"
+      },
+      "objective": "按上下文理解，這裏「欲」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p01-b00-v02",
+      "ordinal": 11,
+      "baseQuestionHash": "9ca4df8aff0fb4bd4b208554f3691662885bac6dc3ad40eb8f8e6d4255d7202a",
+      "patch": {
+        "explanation": "舍通捨，是放棄，與後面的取構成相反動作。因魚與熊掌不能兼得，才捨魚而選熊掌，並不是魚本來毫無價值。看清舍的賓語是魚，也能避免把它誤解成房舍、安置或送禮的行動。",
+        "summary": "舍通捨，是放棄，與後面的取構成相反動作。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "暫且不吃魚",
+            "explanation": "不吃仍可能保有，舍魚在取捨中是放棄，未說稍後可以取回。"
+          },
+          {
+            "id": "b",
+            "text": "把魚送給別人",
+            "explanation": "捨棄未必涉及受贈者，不能增加送人的情節。"
+          },
+          {
+            "id": "c",
+            "text": "把魚存放起來",
+            "explanation": "存放表示仍保有，與不能兼得而放棄魚的取捨不同。"
+          },
+          {
+            "id": "d",
+            "text": "放棄魚",
+            "explanation": "舍通捨，是放棄，與後面的取構成相反動作。"
+          }
+        ],
+        "misconception": "不吃仍可能保有，舍魚在取捨中是放棄，未說稍後可以取回；捨棄未必涉及受贈者，不能增加送人的情節；存放表示仍保有，與不能兼得而放棄魚的取捨不同。"
+      },
+      "objective": "按上下文理解，這裏「舍」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e02-p01-b00-v03",
+      "ordinal": 12,
+      "baseQuestionHash": "fd722d39f148ee55f743002a5eb2ae5a1ef648d54ab7c13353e0ae1ca59b65a3",
+      "patch": {
+        "explanation": "甚是超過，後接於生或於死，構成比較：有比生命更想要的，也有比死亡更厭惡的。這兩個高於生死的尺度，才解釋為何不苟且求生、不盡避禍患。不是把義和生命說成等量，也不是數量單純增加。",
+        "summary": "甚是超過，後接於生或於死，構成比較：有比生命更想要的，也有比死亡更厭惡的。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "等同",
+            "explanation": "若只等同，就不能表達有比生死更高的價值次序。"
+          },
+          {
+            "id": "b",
+            "text": "到達",
+            "explanation": "到達是抵達某處或程度，不是甚於的超過比較。"
+          },
+          {
+            "id": "c",
+            "text": "超過",
+            "explanation": "甚是超過，後接於生或於死，構成比較：有比生命更想要的，也有比死亡更厭惡的。"
+          },
+          {
+            "id": "d",
+            "text": "增添",
+            "explanation": "增添是增加內容，原句在比較欲惡的輕重，不是多添一物。"
+          }
+        ],
+        "misconception": "若只等同，就不能表達有比生死更高的價值次序；到達是抵達某處或程度，不是甚於的超過比較；增添是增加內容，原句在比較欲惡的輕重，不是多添一物。"
+      },
+      "objective": "按上下文理解，這裏「甚」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p01-b00-v04",
+      "ordinal": 13,
+      "baseQuestionHash": "26091c4ad1e7b992593bc1c2a201215c790c95780b05761ef560aa553e35734b",
+      "patch": {
+        "explanation": "苟得在此是苟且求生，即為活命而不顧道義。前面先說有比生更想要的義，所以故不為苟得有清楚因果。它不是否定所有求生方法，而是否定犧牲道義的手段；也不應因後文談萬鍾就把這處得讀成獲利。",
+        "summary": "苟得在此是苟且求生，即為活命而不顧道義。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "暫時取得所需財物",
+            "explanation": "此段以生為對象，沒有轉到暂時取得財物。"
+          },
+          {
+            "id": "b",
+            "text": "不顧道義以求活命",
+            "explanation": "苟得在此是苟且求生，即為活命而不顧道義。"
+          },
+          {
+            "id": "c",
+            "text": "僥倖獲得官位俸祿",
+            "explanation": "官位俸祿屬後段利益情境，不能代替此處求生的對象。"
+          },
+          {
+            "id": "d",
+            "text": "設法救回他人性命",
+            "explanation": "原句談本人怎樣求生，不是救別人的命，且不能漏掉苟且的限制。"
+          }
+        ],
+        "misconception": "此段以生為對象，沒有轉到暂時取得財物；官位俸祿屬後段利益情境，不能代替此處求生的對象；原句談本人怎樣求生，不是救別人的命，且不能漏掉苟且的限制。"
+      },
+      "objective": "按上下文理解，這裏「苟得」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p01-b00-v05",
+      "ordinal": 14,
+      "baseQuestionHash": "343b0f15862e7252b6cb25e192d588b0d9723e38eb255fc9a6005588d9227285",
+      "patch": {
+        "explanation": "惡在死亦我所惡中是厭惡，與前面的欲相對，一欲一惡說人對生死的態度。死亡是被厭惡的對象，不是孟子把死判成邪惡。所惡有甚於死再指出不義更可厭惡，因此厭死也不能成為放棄原則的理由。",
+        "summary": "惡在死亦我所惡中是厭惡，與前面的欲相對，一欲一惡說人對生死的態度。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "厭惡",
+            "explanation": "惡在死亦我所惡中是厭惡，與前面的欲相對，一欲一惡說人對生死的態度。"
+          },
+          {
+            "id": "b",
+            "text": "邪惡",
+            "explanation": "邪惡是對事情性質的評價，這裏所惡表示自己厭惡的對象。"
+          },
+          {
+            "id": "c",
+            "text": "醜陋",
+            "explanation": "醜陋是外觀描述，沒有說明欲生惡死的心理關係。"
+          },
+          {
+            "id": "d",
+            "text": "怎麼",
+            "explanation": "怎麼常用於疑問，這句是陳述對死亡的厭惡，並非發問。"
+          }
+        ],
+        "misconception": "邪惡是對事情性質的評價，這裏所惡表示自己厭惡的對象；醜陋是外觀描述，沒有說明欲生惡死的心理關係；怎麼常用於疑問，這句是陳述對死亡的厭惡，並非發問。"
+      },
+      "objective": "按上下文理解，這裏「惡」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p01-b00-v06",
+      "ordinal": 15,
+      "baseQuestionHash": "5f8f96ce7f94df4fdc46930c7ef9c22080bbc452222fc21188008060617134a3",
+      "patch": {
+        "explanation": "患是禍患，作辟的對象，患有所不辟就是有些禍患不去躲避。它在此是名詞，不是正在擔憂或患病的動作。結合前文，原因在於有比死亡更可厭惡的失義，不能單憑一個患字便把句子改成心理焦慮。",
+        "summary": "患是禍患，作辟的對象，患有所不辟就是有些禍患不去躲避。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "對死亡的憂慮",
+            "explanation": "患是被辟的禍患，不是人內心憂慮這種反應。"
+          },
+          {
+            "id": "b",
+            "text": "道義本身的缺陷",
+            "explanation": "原文說可能遭遇的禍害，沒有把義本身評為缺陷。"
+          },
+          {
+            "id": "c",
+            "text": "不願求生的態度",
+            "explanation": "患指處境中的禍害，不是主觀態度，且孟子仍承認生命可欲。"
+          },
+          {
+            "id": "d",
+            "text": "禍患",
+            "explanation": "患是禍患，作辟的對象，患有所不辟就是有些禍患不去躲避。"
+          }
+        ],
+        "misconception": "患是被辟的禍患，不是人內心憂慮這種反應；原文說可能遭遇的禍害，沒有把義本身評為缺陷；患指處境中的禍害，不是主觀態度，且孟子仍承認生命可欲。"
+      },
+      "objective": "按上下文理解，這裏「患」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e02-p02-b00-v00",
+      "ordinal": 16,
+      "baseQuestionHash": "09956c15713c34b7276752a7cdae112a94e4f1db61e3901bddf197eda3440af9",
+      "patch": {
+        "explanation": "如使是假如，引出一個待檢驗的假設：若人沒有比生命更想要的事物，就應使用一切求生手段。下文卻指出有人不用，從而否定生命至上的假設。不能把開頭假設直接當作孟子的最後主張，也不能讀成已確立的原因。",
+        "summary": "如使是假如，引出一個待檢驗的假設：若人沒有比生命更想要的事物，就應使用一切求生手段。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "即使",
+            "explanation": "即使常表示讓步，此處是假設條件成立便推出結果的如使……則。"
+          },
+          {
+            "id": "b",
+            "text": "因為",
+            "explanation": "因為把條件當成已知事實，會誤以為孟子已肯定生命高於一切。"
+          },
+          {
+            "id": "c",
+            "text": "假如",
+            "explanation": "如使是假如，引出一個待檢驗的假設：若人沒有比生命更想要的事物，就應使用一切求生手段。"
+          },
+          {
+            "id": "d",
+            "text": "不如",
+            "explanation": "不如是在比較選擇，本句則以假如展開反設推論。"
+          }
+        ],
+        "misconception": "即使常表示讓步，此處是假設條件成立便推出結果的如使……則；因為把條件當成已知事實，會誤以為孟子已肯定生命高於一切；不如是在比較選擇，本句則以假如展開反設推論。"
+      },
+      "objective": "按上下文理解，這裏「如使」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p02-b00-v02",
+      "ordinal": 17,
+      "baseQuestionHash": "f9013ba4037c7cd2558c439e8f20e6b333a67798be206e58fc753d2e809c7332",
+      "patch": {
+        "explanation": "莫是沒有、沒有甚麼，莫甚於生就是沒有任何所欲超過生命。它在假設中設下生命最高的前提，才推出求生手段應無不用。這裏不是命令人不要重視生命，也不是只說到現在為止還沒有，須分清否定範圍與語氣。",
+        "summary": "莫是沒有、沒有甚麼，莫甚於生就是沒有任何所欲超過生命。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "不要",
+            "explanation": "不要是勸止語氣，原句在假設事實關係，並未下禁令。"
+          },
+          {
+            "id": "b",
+            "text": "沒有",
+            "explanation": "莫是沒有、沒有甚麼，莫甚於生就是沒有任何所欲超過生命。"
+          },
+          {
+            "id": "c",
+            "text": "或許",
+            "explanation": "或許是推測，不能保留莫的否定意思。"
+          },
+          {
+            "id": "d",
+            "text": "尚未",
+            "explanation": "尚未增加了時間限制，原假設說沒有更高所欲，不是暫時未有。"
+          }
+        ],
+        "misconception": "不要是勸止語氣，原句在假設事實關係，並未下禁令；或許是推測，不能保留莫的否定意思；尚未增加了時間限制，原假設說沒有更高所欲，不是暫時未有。"
+      },
+      "objective": "按上下文理解，這裏「莫」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p02-b00-v07",
+      "ordinal": 18,
+      "baseQuestionHash": "871f1fc98948bbcc75211ad9c819e0eb21296179ab78f00dd6939fde5782b77f",
+      "patch": {
+        "explanation": "由是是依循這些方法，是承前面能求生、避患的手段。後面的而有不用、而有不為才說即使方法有效，仍有人拒用。若把由是讀成因此，便容易漏掉被採用或棄用的具體對象，也看不出反設與實際的對照。",
+        "summary": "由是是依循這些方法，是承前面能求生、避患的手段。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "依循這些方法",
+            "explanation": "由是是依循這些方法，是承前面能求生、避患的手段。"
+          },
+          {
+            "id": "b",
+            "text": "由此以後",
+            "explanation": "由此以後引出時間，這裏則生、可以辟患說採取方法的效果。"
+          },
+          {
+            "id": "c",
+            "text": "因為這個原因",
+            "explanation": "因為這個原因不是此處的承接；由是指依循前述方法，因果總結另用是故。"
+          },
+          {
+            "id": "d",
+            "text": "從這個地方",
+            "explanation": "原文沒有出發地點，是指方法，不是某處。"
+          }
+        ],
+        "misconception": "由此以後引出時間，這裏則生、可以辟患說採取方法的效果；因為這個原因不是此處的承接；由是指依循前述方法，因果總結另用是故；原文沒有出發地點，是指方法，不是某處。"
+      },
+      "objective": "按上下文理解，這裏「由是」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p02-b00-v08",
+      "ordinal": 19,
+      "baseQuestionHash": "5244edf85393e7f03843e6b1f1f71a97083ae5f087a379fded4a8f7959d8bcb1",
+      "patch": {
+        "explanation": "非獨是不僅，否定的是只有賢者才有本心的限制，並沒有否定賢者有本心。下句人皆有之把範圍擴至所有人，最後再說賢者能保持。分清否定獨有和否定擁有，才能讀懂誰有本心、誰能守住這兩層。",
+        "summary": "非獨是不僅，否定的是只有賢者才有本心的限制，並沒有否定賢者有本心。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "唯獨",
+            "explanation": "唯獨恰與非獨相反，會將下文人人都有排除。"
+          },
+          {
+            "id": "b",
+            "text": "並非",
+            "explanation": "若只譯並非賢者有，會變成否定賢者擁有，漏掉獨所限定的唯一性。"
+          },
+          {
+            "id": "c",
+            "text": "未必",
+            "explanation": "未必只是保留可能，原文則明確說不只賢者，而且人人都有。"
+          },
+          {
+            "id": "d",
+            "text": "不僅",
+            "explanation": "非獨是不僅，否定的是只有賢者才有本心的限制，並沒有否定賢者有本心。"
+          }
+        ],
+        "misconception": "唯獨恰與非獨相反，會將下文人人都有排除；若只譯並非賢者有，會變成否定賢者擁有，漏掉獨所限定的唯一性；未必只是保留可能，原文則明確說不只賢者，而且人人都有。"
+      },
+      "objective": "按上下文理解，這裏「非獨」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p02-b00-v09",
+      "ordinal": 20,
+      "baseQuestionHash": "ef8292e83698986e392871a4bd403ff96c5d9a3d0986d2b7ecb02e901530090e",
+      "patch": {
+        "explanation": "是心指前文把義看得比生更重、把失義看得比死更可惡的本心。是向前承接整組價值判斷，不是只接最近提到的欲生或惡死。人皆有之再說這種重義之心人人都有，但仍可能因後來的誘惑而失守。",
+        "summary": "是心指前文把義看得比生更重、把失義看得比死更可惡的本心。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "求生的願望",
+            "explanation": "求生願望只是人人可有的欲，前文強調還有高於求生的義。"
+          },
+          {
+            "id": "b",
+            "text": "厭死的心情",
+            "explanation": "厭死仍屬一般欲惡，重點是比死亡更不能接受的不義。"
+          },
+          {
+            "id": "c",
+            "text": "重義的本心",
+            "explanation": "是心指前文把義看得比生更重、把失義看得比死更可惡的本心。"
+          },
+          {
+            "id": "d",
+            "text": "受祿的欲望",
+            "explanation": "受祿欲望是後段可能蒙蔽本心的誘惑，不能拿它當本心本身。"
+          }
+        ],
+        "misconception": "求生願望只是人人可有的欲，前文強調還有高於求生的義；厭死仍屬一般欲惡，重點是比死亡更不能接受的不義；受祿欲望是後段可能蒙蔽本心的誘惑，不能拿它當本心本身。"
+      },
+      "objective": "按上下文理解，這裏「是心」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p02-b00-v10",
+      "ordinal": 21,
+      "baseQuestionHash": "4e753092bfc9b3a532ee9d1ca6af8d8fc4fc6c98da881643b3ad6568ee3c5b7d",
+      "patch": {
+        "explanation": "勿喪是不喪失，省略的對象是上文的重義本心。孟子先說人人都有，再說賢者能保持，因此分別不在有無，而在面對生死和利益時能否守住。喪在這裏不是喪禮，也不是離開某地的逃亡動作。",
+        "summary": "勿喪是不喪失，省略的對象是上文的重義本心。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "未曾遭遇禍患",
+            "explanation": "勿喪的對象是本心，不是說賢者從未面對危險。"
+          },
+          {
+            "id": "b",
+            "text": "不喪失",
+            "explanation": "勿喪是不喪失，省略的對象是上文的重義本心。"
+          },
+          {
+            "id": "c",
+            "text": "不必再作取捨",
+            "explanation": "保存本心恰須在取捨中守義，並非從此不用選擇。"
+          },
+          {
+            "id": "d",
+            "text": "不能失去生命",
+            "explanation": "所保存的是重義之心，不能換成保命，否則與舍生取義衝突。"
+          }
+        ],
+        "misconception": "勿喪的對象是本心，不是說賢者從未面對危險；保存本心恰須在取捨中守義，並非從此不用選擇；所保存的是重義之心，不能換成保命，否則與舍生取義衝突。"
+      },
+      "objective": "按上下文理解，這裏「勿喪」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e02-p02-b00-v11",
+      "ordinal": 22,
+      "baseQuestionHash": "cacc789d739ef1d14aafa415a841e78b609c6cf5d7b28983457cab45117b9881",
+      "patch": {
+        "explanation": "耳在句末相當於而已，將賢者與常人的差別收在能保持本心這一點上。它不是提出新問題，也沒有另加轉折或原因。連着前文看，語氣在限制差別：本心不是賢者獨有，賢者只是能不失去它。",
+        "summary": "耳在句末相當於而已，將賢者與常人的差別收在能保持本心這一點上。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "而已",
+            "explanation": "耳在句末相當於而已，將賢者與常人的差別收在能保持本心這一點上。"
+          },
+          {
+            "id": "b",
+            "text": "罷了嗎",
+            "explanation": "罷了嗎把陳述改成疑問，原句並未等人回答。"
+          },
+          {
+            "id": "c",
+            "text": "然而",
+            "explanation": "然而引轉折新內容，耳則收束前面的陳述。"
+          },
+          {
+            "id": "d",
+            "text": "因而",
+            "explanation": "因而引出後果，此處已在句末，不負責連接另一個結果。"
+          }
+        ],
+        "misconception": "罷了嗎把陳述改成疑問，原句並未等人回答；然而引轉折新內容，耳則收束前面的陳述；因而引出後果，此處已在句末，不負責連接另一個結果。"
+      },
+      "objective": "按上下文理解，這裏「耳」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p03-b00-v00",
+      "ordinal": 23,
+      "baseQuestionHash": "45883e4f37381894340458510b71011a518344e001bb5eee541b676c1cab7f96",
+      "patch": {
+        "explanation": "簞是竹製盛飯器，一簞食與一豆羹並列，說一小份可以維生的飯食。簞是容器、食是內容，兩者角色要分開。孟子藉食物雖少卻關乎生死，突出人仍可因受辱而拒絕，並非在比較烹飪工具優劣。",
+        "summary": "簞是竹製盛飯器，一簞食與一豆羹並列，說一小份可以維生的飯食。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "烹食的鼎器",
+            "explanation": "鼎器用於烹煮，簞在本書解為竹製盛飯器。"
+          },
+          {
+            "id": "b",
+            "text": "盛酒的壺器",
+            "explanation": "句中所盛是食，不是酒，容器用途不符。"
+          },
+          {
+            "id": "c",
+            "text": "舀水的瓢器",
+            "explanation": "瓢用於舀取，簞則是盛飯容器，不能因同為器物便混用。"
+          },
+          {
+            "id": "d",
+            "text": "盛飯的竹器",
+            "explanation": "簞是竹製盛飯器，一簞食與一豆羹並列，說一小份可以維生的飯食。"
+          }
+        ],
+        "misconception": "鼎器用於烹煮，簞在本書解為竹製盛飯器；句中所盛是食，不是酒，容器用途不符；瓢用於舀取，簞則是盛飯容器，不能因同為器物便混用。"
+      },
+      "objective": "按上下文理解，這裏「簞」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p03-b00-v02",
+      "ordinal": 24,
+      "baseQuestionHash": "85c1db8e0d37f72f80eb0e415d1533e400c146454edcfbd5a4350e0eaa200769",
+      "patch": {
+        "explanation": "羹是帶汁的食物、湯羹，前面的豆是盛它的器皿。和簞食並列時，一項是飯食，一項是羹湯，兩者都屬可以救命的食物。若把羹讀成容器或單位，便把內容與盛載方式倒轉，也無法解釋得之則生的之。",
+        "summary": "羹是帶汁的食物、湯羹，前面的豆是盛它的器皿。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "盛食物的器皿",
+            "explanation": "容器是豆，羹才是其中的食物，兩個名詞不可互換。"
+          },
+          {
+            "id": "b",
+            "text": "量糧食的單位",
+            "explanation": "計量的是一豆這種容器份量，羹不是量糧單位。"
+          },
+          {
+            "id": "c",
+            "text": "帶汁的食物",
+            "explanation": "羹是帶汁的食物、湯羹，前面的豆是盛它的器皿。"
+          },
+          {
+            "id": "d",
+            "text": "煮熟的穀粒",
+            "explanation": "煮熟穀粒較接近飯食，羹在此特指帶汁的食物。"
+          }
+        ],
+        "misconception": "容器是豆，羹才是其中的食物，兩個名詞不可互換；計量的是一豆這種容器份量，羹不是量糧單位；煮熟穀粒較接近飯食，羹在此特指帶汁的食物。"
+      },
+      "objective": "按上下文理解，這裏「羹」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p03-b00-v03",
+      "ordinal": 25,
+      "baseQuestionHash": "132179fc69833303ef763dbfbbc755b2c2dfc9bec4e22ccfcd8710e0dd00ba51",
+      "patch": {
+        "explanation": "弗是不，弗得則死就是得不到食物便會死，和得之則生形成對照。弗受也以同一否定義說不接受，並不是因能力不足而無法接受。解字須先保留單純否定，再依後接得或受確定否定哪個動作。",
+        "summary": "弗是不，弗得則死就是得不到食物便會死，和得之則生形成對照。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "未曾",
+            "explanation": "未曾增加過去時態，原句說一般條件關係，不是在回憶是否曾得。"
+          },
+          {
+            "id": "b",
+            "text": "不",
+            "explanation": "弗是不，弗得則死就是得不到食物便會死，和得之則生形成對照。"
+          },
+          {
+            "id": "c",
+            "text": "不要",
+            "explanation": "不要是對人發出勸止，這裏是陳述得不到或不接受的情況。"
+          },
+          {
+            "id": "d",
+            "text": "不能",
+            "explanation": "不能增加能力限制；拒食是有所不受，並非必定無力接受。"
+          }
+        ],
+        "misconception": "未曾增加過去時態，原句說一般條件關係，不是在回憶是否曾得；不要是對人發出勸止，這裏是陳述得不到或不接受的情況；不能增加能力限制；拒食是有所不受，並非必定無力接受。"
+      },
+      "objective": "按上下文理解，這裏「弗」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p03-b00-v04",
+      "ordinal": 26,
+      "baseQuestionHash": "026d562fd11f0b70a09e164f6c22efddc7eeab15296ff7052462e0dee8661a0a",
+      "patch": {
+        "explanation": "嘑同呼，在嘑爾而與之中指呼喝，寫給食者帶侮辱的態度。下文路人弗受正回應這種不被尊重的施予，所以不能只解成中性的招呼。食物能救命仍被拒絕，才顯出受食者把尊嚴與義看得比利益重。",
+        "summary": "嘑同呼，在嘑爾而與之中指呼喝，寫給食者帶侮辱的態度。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "呼喝",
+            "explanation": "嘑同呼，在嘑爾而與之中指呼喝，寫給食者帶侮辱的態度。"
+          },
+          {
+            "id": "b",
+            "text": "召喚",
+            "explanation": "召喚只表示叫人過來，未保留使路人拒受的呼喝侮辱。"
+          },
+          {
+            "id": "c",
+            "text": "呼救",
+            "explanation": "呼救是向人求援，這裏是給食者呼喝受食者，方向不同。"
+          },
+          {
+            "id": "d",
+            "text": "呼應",
+            "explanation": "呼應是彼此回應，本句未寫雙方一呼一應。"
+          }
+        ],
+        "misconception": "召喚只表示叫人過來，未保留使路人拒受的呼喝侮辱；呼救是向人求援，這裏是給食者呼喝受食者，方向不同；呼應是彼此回應，本句未寫雙方一呼一應。"
+      },
+      "objective": "按上下文理解，這裏「嘑」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p03-b00-v05",
+      "ordinal": 27,
+      "baseQuestionHash": "4fb9e89bde62eb153d972ac307ea842990f595febe2b2d3f07ec7e5d13e6f9ab",
+      "patch": {
+        "explanation": "爾接在嘑、蹴之後，標示動作的狀態，可連句譯作呼喝着、踐踏着。它不是你的人稱代詞，也不代食物；與之才交代給予的動作及對象。看清爾附着於前面的動詞，便能理解作者怎樣突出施食方式的侮辱。",
+        "summary": "爾接在嘑、蹴之後，標示動作的狀態，可連句譯作呼喝着、踐踏着。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "指稱接受食物者",
+            "explanation": "受食者的對象由後文交代，爾在此不是指稱那個人的代詞。"
+          },
+          {
+            "id": "b",
+            "text": "指稱給出的食物",
+            "explanation": "食物並非爾的所指，爾只附於動詞表狀態。"
+          },
+          {
+            "id": "c",
+            "text": "表示動作的先後",
+            "explanation": "先後關係由整句安排表達，爾本身不表示先做嘑再做另一事的時間。"
+          },
+          {
+            "id": "d",
+            "text": "表示動作的狀態",
+            "explanation": "爾接在嘑、蹴之後，標示動作的狀態，可連句譯作呼喝着、踐踏着。"
+          }
+        ],
+        "misconception": "受食者的對象由後文交代，爾在此不是指稱那個人的代詞；食物並非爾的所指，爾只附於動詞表狀態；先後關係由整句安排表達，爾本身不表示先做嘑再做另一事的時間。"
+      },
+      "objective": "按上下文理解，這裏「爾」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p03-b00-v06",
+      "ordinal": 28,
+      "baseQuestionHash": "97e17ce24d4924bae48c349c168cef1dc5ae5a3350e57fb74199147423c99955",
+      "patch": {
+        "explanation": "與在與之中是給予，施食者把食物給路人或乞人，後面的之是接受者。它有實際施予動作，和篇末得我與的語氣詞不同。同字要按位置判義，不能因都寫與就解成參與或句末發問。",
+        "summary": "與在與之中是給予，施食者把食物給路人或乞人，後面的之是接受者。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "讓受食者參與施食",
+            "explanation": "與之說給予受食者，沒有讓受食者加入施食工作的意思。"
+          },
+          {
+            "id": "b",
+            "text": "贊成對方接受食物",
+            "explanation": "給予是實際施予動作，贊成只是意見，不能替代與的句中義。"
+          },
+          {
+            "id": "c",
+            "text": "給予",
+            "explanation": "與在與之中是給予，施食者把食物給路人或乞人，後面的之是接受者。"
+          },
+          {
+            "id": "d",
+            "text": "和受食者一起進食",
+            "explanation": "句子未說施者與受者同吃，不能把動詞與解成表示一起的介詞。"
+          }
+        ],
+        "misconception": "與之說給予受食者，沒有讓受食者加入施食工作的意思；給予是實際施予動作，贊成只是意見，不能替代與的句中義；句子未說施者與受者同吃，不能把動詞與解成表示一起的介詞。"
+      },
+      "objective": "按上下文理解，這裏「與」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e02-p03-b00-v07",
+      "ordinal": 29,
+      "baseQuestionHash": "cf3df43777f84f06b7c576d91f6cfcef850d8a5fad3d0e52f82df51dfffaf287",
+      "patch": {
+        "explanation": "蹴是用腳踐踏，與前面的嘑爾呼喝同樣寫施食者的侮辱。乞人即使缺食仍不屑接受，說明他不是只按食物能否救命決定。解字時要把動作與後果連起來，不能只想成快速走近或普通的遞送。",
+        "summary": "蹴是用腳踐踏，與前面的嘑爾呼喝同樣寫施食者的侮辱。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "用手投擲",
+            "explanation": "投擲可帶輕慢，但蹴明確是腳部動作，不能換成手擲。"
+          },
+          {
+            "id": "b",
+            "text": "用腳踐踏",
+            "explanation": "蹴是用腳踐踏，與前面的嘑爾呼喝同樣寫施食者的侮辱。"
+          },
+          {
+            "id": "c",
+            "text": "屈膝跪下",
+            "explanation": "屈膝可能表示恭敬，與此處踐踏食物的侮辱不同。"
+          },
+          {
+            "id": "d",
+            "text": "快步走近",
+            "explanation": "快步走近沒有保留腳踐的意思，也不足以說明乞人拒受的原因。"
+          }
+        ],
+        "misconception": "投擲可帶輕慢，但蹴明確是腳部動作，不能換成手擲；屈膝可能表示恭敬，與此處踐踏食物的侮辱不同；快步走近沒有保留腳踐的意思，也不足以說明乞人拒受的原因。"
+      },
+      "objective": "按上下文理解，這裏「蹴」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p03-b00-v08",
+      "ordinal": 30,
+      "baseQuestionHash": "adbf67b3ca270210b3e4300af8feed00be4d205a0d82af5e007ba8801f7a7fe0",
+      "patch": {
+        "explanation": "不屑是認為不值得接受，重點在接受侮辱之食會損及道義和尊嚴。前文已明言得之則生，可見食物並非不能維生；乞人仍拒絕，是價值取捨而非取得能力不足。不能將不願接受改成拿不到或不夠吃。",
+        "summary": "不屑是認為不值得接受，重點在接受侮辱之食會損及道義和尊嚴。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "認為不值得接受",
+            "explanation": "不屑是認為不值得接受，重點在接受侮辱之食會損及道義和尊嚴。"
+          },
+          {
+            "id": "b",
+            "text": "認為無法取得食物",
+            "explanation": "無法取得是能力或機會問題，原文給食已在眼前，乞人是拒受。"
+          },
+          {
+            "id": "c",
+            "text": "認為不必分辨禮義",
+            "explanation": "乞人正以道義為界拒辱，並不是不必辨義。"
+          },
+          {
+            "id": "d",
+            "text": "認為食物不足維生",
+            "explanation": "得之則生已說食物能救命，拒絕原因不是份量不夠。"
+          }
+        ],
+        "misconception": "無法取得是能力或機會問題，原文給食已在眼前，乞人是拒受；乞人正以道義為界拒辱，並不是不必辨義；得之則生已說食物能救命，拒絕原因不是份量不夠。"
+      },
+      "objective": "按上下文理解，這裏「不屑」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p03-b00-v09",
+      "ordinal": 31,
+      "baseQuestionHash": "3822a11feb891007245348e58f8870fa6d4a547e592df6fb2bda9be10931134b",
+      "patch": {
+        "explanation": "萬鍾指豐厚俸祿，鍾本是容量單位，這裏用大量糧祿說利益的豐厚。它與少量卻能救命的簞食豆羹相對，突出受取時是否辨禮義的矛盾。萬不是在此計鐘鼎，也不能由厚祿本身推成所有受祿都有罪。",
+        "summary": "萬鍾指豐厚俸祿，鍾本是容量單位，這裏用大量糧祿說利益的豐厚。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "用來救命的少量食物",
+            "explanation": "少量救命飯食由簞食豆羹表達，萬鍾則是後面對照的厚祿。"
+          },
+          {
+            "id": "b",
+            "text": "價值萬金的饋贈禮器",
+            "explanation": "鍾在此涉及糧食容量和俸祿，並非價值萬金的鐘鼎器物。"
+          },
+          {
+            "id": "c",
+            "text": "接濟窮人後所得的報酬",
+            "explanation": "窮人感激是受祿者所求的回報之一，但萬鍾本身不是窮人付給他的報酬。"
+          },
+          {
+            "id": "d",
+            "text": "豐厚的俸祿",
+            "explanation": "萬鍾指豐厚俸祿，鍾本是容量單位，這裏用大量糧祿說利益的豐厚。"
+          }
+        ],
+        "misconception": "少量救命飯食由簞食豆羹表達，萬鍾則是後面對照的厚祿；鍾在此涉及糧食容量和俸祿，並非價值萬金的鐘鼎器物；窮人感激是受祿者所求的回報之一，但萬鍾本身不是窮人付給他的報酬。"
+      },
+      "objective": "按上下文理解，這裏「萬鍾」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e02-p03-b00-v10",
+      "ordinal": 32,
+      "baseQuestionHash": "735cfe9e367a668d1086b327f79836f159c90b94579f3f33cd6e4ebf43c7666a",
+      "patch": {
+        "explanation": "辯通辨，是分辨；不辯禮義而受之批評先不判斷合不合義就接受利益。這不要求受祿者先與人辯論，也不是替既有選擇找理由。應把詞義接回行動順序：先有禮義判斷，才談利益可否接受。",
+        "summary": "辯通辨，是分辨；不辯禮義而受之批評先不判斷合不合義就接受利益。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "討論禮義",
+            "explanation": "討論可能有助辨別，卻不是辯在此所指的判斷本身。"
+          },
+          {
+            "id": "b",
+            "text": "申明理由",
+            "explanation": "申明理由是向人說明，不等於判別所受之祿是否合義。"
+          },
+          {
+            "id": "c",
+            "text": "辨別禮義",
+            "explanation": "辯通辨，是分辨；不辯禮義而受之批評先不判斷合不合義就接受利益。"
+          },
+          {
+            "id": "d",
+            "text": "辯護受祿",
+            "explanation": "辯護可能是在受取後合理化，原文批評的恰是未辨禮義便受。"
+          }
+        ],
+        "misconception": "討論可能有助辨別，卻不是辯在此所指的判斷本身；申明理由是向人說明，不等於判別所受之祿是否合義；辯護可能是在受取後合理化，原文批評的恰是未辨禮義便受。"
+      },
+      "objective": "按上下文理解，這裏「辯」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p03-b00-v11",
+      "ordinal": 33,
+      "baseQuestionHash": "2efc6457018647a22032c275400287d12ca793d319c639fda26f75dbf7a9a767",
+      "patch": {
+        "explanation": "加在何加焉中是增益、好處，孟子追問失義受取萬鍾究竟對自己有何價值。這不是問俸祿數量增加多少，而是質疑外在享受是否值得用本心交換。下文列宮室、妻妾和感激，正讓讀者檢查所謂好處的實質。",
+        "summary": "加在何加焉中是增益、好處，孟子追問失義受取萬鍾究竟對自己有何價值。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "增加俸祿",
+            "explanation": "萬鍾已說厚祿，何加着眼它有甚麼益處，不是問再加多少錢糧。"
+          },
+          {
+            "id": "b",
+            "text": "所添好處",
+            "explanation": "加在何加焉中是增益、好處，孟子追問失義受取萬鍾究竟對自己有何價值。"
+          },
+          {
+            "id": "c",
+            "text": "加諸責罰",
+            "explanation": "句中没有施罰者或罪名，加並非加諸責罰。"
+          },
+          {
+            "id": "d",
+            "text": "勝過他人",
+            "explanation": "於我問對自己有何益處，未與別人的地位或收入競爭。"
+          }
+        ],
+        "misconception": "萬鍾已說厚祿，何加着眼它有甚麼益處，不是問再加多少錢糧；句中没有施罰者或罪名，加並非加諸責罰；於我問對自己有何益處，未與別人的地位或收入競爭。"
+      },
+      "objective": "按上下文理解，這裏「加」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p03-b00-v14",
+      "ordinal": 34,
+      "baseQuestionHash": "a8407a797f8d5a74635d26f14e4fb0c776f90e429e62d47d4fb5e902ac390061",
+      "patch": {
+        "explanation": "這個與在句末通歟，是發問語氣，不再表示給予。句子列出宮室之美、妻妾之奉及他人感激三種受祿動機，最後用與追問是否為此。與後沒有接受者或事物作賓語，位置正是判斷它與嘑爾而與之不同的線索。",
+        "summary": "這個與在句末通歟，是發問語氣，不再表示給予。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "句末發問",
+            "explanation": "這個與在句末通歟，是發問語氣，不再表示給予。"
+          },
+          {
+            "id": "b",
+            "text": "把物給人",
+            "explanation": "給予的與通常接施予對象，這裏已在句末，不再引出受贈者。"
+          },
+          {
+            "id": "c",
+            "text": "與人一同",
+            "explanation": "與人一同須連接同行者或共同行動，原句不是這種結構。"
+          },
+          {
+            "id": "d",
+            "text": "參與其事",
+            "explanation": "參與須有參加的事情，此處與只收束問句。"
+          }
+        ],
+        "misconception": "給予的與通常接施予對象，這裏已在句末，不再引出受贈者；與人一同須連接同行者或共同行動，原句不是這種結構；參與須有參加的事情，此處與只收束問句。"
+      },
+      "objective": "按上下文理解，這裏「與」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p04-b00-v00",
+      "ordinal": 35,
+      "baseQuestionHash": "bc5af609d0294f32488ec7373b97c6cd97d83d942b6b705537e24b330642aaef",
+      "patch": {
+        "explanation": "鄉通向，是從前，與下半句的今形成時間對照。昔日寧死不受，今日為利益而受，批評的是前後守義準則改變。若把鄉解成家鄉，就會把價值的今昔變化誤讀成搬遷，讀不到本心失守的結論。",
+        "summary": "鄉通向，是從前，與下半句的今形成時間對照。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "往日住處",
+            "explanation": "住處是地點，原句鄉今成對標示時間，並未敘寫遷居。"
+          },
+          {
+            "id": "b",
+            "text": "朝向一方",
+            "explanation": "朝向需要方向對象，此處鄉在句首與今相對，表示昔日。"
+          },
+          {
+            "id": "c",
+            "text": "鄉里的人",
+            "explanation": "鄉里的人會改動主語，原句仍在比較同一人的前後選擇。"
+          },
+          {
+            "id": "d",
+            "text": "從前時候",
+            "explanation": "鄉通向，是從前，與下半句的今形成時間對照。"
+          }
+        ],
+        "misconception": "住處是地點，原句鄉今成對標示時間，並未敘寫遷居；朝向需要方向對象，此處鄉在句首與今相對，表示昔日；鄉里的人會改動主語，原句仍在比較同一人的前後選擇。"
+      },
+      "objective": "按上下文理解，這裏「鄉」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p04-b00-v04",
+      "ordinal": 36,
+      "baseQuestionHash": "c3d2eb7ef8d04c666577222b65bccf0697726659b6f09928c185e7374114afdc",
+      "patch": {
+        "explanation": "本心是原有的重義良心，承前面人皆有之、賢者能勿喪。失本心不是失去求生願望或全部思想，而是在利益面前放棄本來所守的禮義判準。從原有到失去的說法，也表明本心並非先受教才首次出現的知識。",
+        "summary": "本心是原有的重義良心，承前面人皆有之、賢者能勿喪。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "原有的求生願望",
+            "explanation": "求生願望一直被承認，但本心說的是比求生更重的義，不是同一層。"
+          },
+          {
+            "id": "b",
+            "text": "內心全部的念頭",
+            "explanation": "失本心不等於腦中所有念頭消失，只指道德持守失落。"
+          },
+          {
+            "id": "c",
+            "text": "原有的重義良心",
+            "explanation": "本心是原有的重義良心，承前面人皆有之、賢者能勿喪。"
+          },
+          {
+            "id": "d",
+            "text": "受教後的學識",
+            "explanation": "學識可由教育增長，本文本心則說人皆有，不能限為受教後所得。"
+          }
+        ],
+        "misconception": "求生願望一直被承認，但本心說的是比求生更重的義，不是同一層；失本心不等於腦中所有念頭消失，只指道德持守失落；學識可由教育增長，本文本心則說人皆有，不能限為受教後所得。"
+      },
+      "objective": "按上下文理解，這裏「本心」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p01-b00-translation",
+      "ordinal": 37,
+      "baseQuestionHash": "363cb2d926af5d8fbc61658094d2edac8343aa096be5c784df731e06b0b808a8",
+      "patch": {
+        "explanation": "魚與熊掌都可欲，不能兼得便選較看重的熊掌；同樣，生與義都可欲，不能兼得便取義。類比要對準共同關係：兩者皆欲、不能兼有、取較重者。不是以難易或市場價格直接衡量道義，更不是因厭惡魚才捨魚。",
+        "summary": "魚與熊掌都可欲，不能兼得便選較看重的熊掌；同樣，生與義都可欲，不能兼得便取義。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "兩者皆想要，先取得容易得到者",
+            "explanation": "容易取得不是例子的選擇標準，原文以所欲的輕重作取捨。"
+          },
+          {
+            "id": "b",
+            "text": "兩者有好惡，捨棄原本厭惡之物",
+            "explanation": "魚也明說我所欲，並非原本厭惡的東西。"
+          },
+          {
+            "id": "c",
+            "text": "兩者有貴賤，依市場價值決定取捨",
+            "explanation": "飲食取捨用來說明價值排序，不是證明道義可用市場價格計算。"
+          },
+          {
+            "id": "d",
+            "text": "兩者皆想要，不能兼得時取更重者",
+            "explanation": "魚與熊掌都可欲，不能兼得便選較看重的熊掌；同樣，生與義都可欲，不能兼得便取義。"
+          }
+        ],
+        "misconception": "容易取得不是例子的選擇標準，原文以所欲的輕重作取捨；魚也明說我所欲，並非原本厭惡的東西；飲食取捨用來說明價值排序，不是證明道義可用市場價格計算。"
+      },
+      "objective": "由魚與熊掌的取捨推至生與義，兩組關係應怎樣對應？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p02-b00-translation",
+      "ordinal": 38,
+      "baseQuestionHash": "942afca0219db4b61964a56ef3d5aaeedcb76d4889d96500dbb8d765790d4a51",
+      "patch": {
+        "explanation": "關鍵在方法明明能求生避患，卻仍有人不用。若保命避死就是最高標準，有效方法便應全用；拒用的實際情況因此顯出還有更高的道德界線。不是方法無效或難以實行，而是不能為保命付出失義的代價。",
+        "summary": "關鍵在方法明明能求生避患，卻仍有人不用。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "人難以辨別求生避患的有效方法",
+            "explanation": "文中已說由是則生、可以辟患，不是人不知道哪些方法有效。"
+          },
+          {
+            "id": "b",
+            "text": "人對生與死的好惡會完全顛倒",
+            "explanation": "人仍欲生惡死，出現更高原則不等於對生死好惡完全倒轉。"
+          },
+          {
+            "id": "c",
+            "text": "人有比生死更看重的道德原則",
+            "explanation": "關鍵在方法明明能求生避患，卻仍有人不用。"
+          },
+          {
+            "id": "d",
+            "text": "人只有在安全環境中才能守義",
+            "explanation": "拒用發生在生死考驗中，並非只在安全環境才能守義。"
+          }
+        ],
+        "misconception": "文中已說由是則生、可以辟患，不是人不知道哪些方法有效；人仍欲生惡死，出現更高原則不等於對生死好惡完全倒轉；拒用發生在生死考驗中，並非只在安全環境才能守義。"
+      },
+      "objective": "有些求生避患的方法被人棄用，孟子由此推出甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p03-b00-translation",
+      "ordinal": 39,
+      "baseQuestionHash": "41265c7f9fb6ad6f342029d2eddcec4b33763389d2aa3c542169e8ebde35e032",
+      "patch": {
+        "explanation": "少量飯食可救命卻因侮辱被拒，萬鍾十分豐厚卻不辨禮義便受，對照的是同一判準有沒有被守住。利益多寡使反差更鮮明，但不是最後標準。不能因金額大、身分高或施者富有，就略過接受方式是否合義。",
+        "summary": "少量飯食可救命卻因侮辱被拒，萬鍾十分豐厚卻不辨禮義便受，對照的是同一判準有沒有被守住。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "所獲利益的多少，是否足以維持生命",
+            "explanation": "能否維生是比較的重要背景，卻不能取代接受時辨義的核心。"
+          },
+          {
+            "id": "b",
+            "text": "接受利益時，是否仍以禮義為準則",
+            "explanation": "少量飯食可救命卻因侮辱被拒，萬鍾十分豐厚卻不辨禮義便受，對照的是同一判準有沒有被守住。"
+          },
+          {
+            "id": "c",
+            "text": "受施者的身分，是否配得豐厚待遇",
+            "explanation": "乞人也能守義，文章正反對以受者身分判道德高低。"
+          },
+          {
+            "id": "d",
+            "text": "贈物者的財力，是否容許持續施捨",
+            "explanation": "贈者能否持續供應沒有被討論，原文關注受者如何取捨。"
+          }
+        ],
+        "misconception": "能否維生是比較的重要背景，卻不能取代接受時辨義的核心；乞人也能守義，文章正反對以受者身分判道德高低；贈者能否持續供應沒有被討論，原文關注受者如何取捨。"
+      },
+      "objective": "少量食物與「萬鍾」的並列，主要要讀者辨別甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p04-b00-translation",
+      "ordinal": 40,
+      "baseQuestionHash": "f3d191acf1106f47914d9b76cf86370afc08cf9c12f9e55cc6e706c46359bcda",
+      "patch": {
+        "explanation": "鄉不受與今為之放在一起，顯示同一人原來肯為守義拒絕利益，後來卻為享受放棄判準。失字因此有前後對照的依據，不是生來沒有本心。妻妾之奉和昔日所拒之物可有不同解讀，仍不改變由守義到為利失義的共同方向。",
+        "summary": "鄉不受與今為之放在一起，顯示同一人原來肯為守義拒絕利益，後來卻為享受放棄判準。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "同一人曾以義拒辱，後因享受改變準則",
+            "explanation": "鄉不受與今為之放在一起，顯示同一人原來肯為守義拒絕利益，後來卻為享受放棄判準。"
+          },
+          {
+            "id": "b",
+            "text": "同一人曾珍惜生命，後來承認享受也有價值",
+            "explanation": "文章本就承認有所欲，失本心的問題是取利時放棄禮義，而非新增一種欲望。"
+          },
+          {
+            "id": "c",
+            "text": "同一人曾收入不多，後來生活條件有所改善",
+            "explanation": "改善生活不是失心的充分證據，還须指出不辨禮義的取利。"
+          },
+          {
+            "id": "d",
+            "text": "同一人曾自行判斷，後來願意顧及家人需要",
+            "explanation": "顧及家人未必失義，不能以此取代鄉今間守義準則的變化。"
+          }
+        ],
+        "misconception": "文章本就承認有所欲，失本心的問題是取利時放棄禮義，而非新增一種欲望；改善生活不是失心的充分證據，還须指出不辨禮義的取利；顧及家人未必失義，不能以此取代鄉今間守義準則的變化。"
+      },
+      "objective": "孟子稱這種轉變為「失其本心」，依據是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e02-p06-b00-c01",
+      "ordinal": 41,
+      "baseQuestionHash": "a46ddd276c9b9b67fdc98280016830832937b595d4ed3cd64054293644506e1b",
+      "patch": {
+        "explanation": "食物取捨較具體熟悉，孟子先用兩樣都想要而須取較重者的情境，再轉到生與義，讓讀者理解抽象的道德排序。起作用的是兩組關係相似，不是食物的營養或價格。引譬是說理入口，仍須接下文辨明不能兼得的条件。",
+        "summary": "食物取捨較具體熟悉，孟子先用兩樣都想要而須取較重者的情境，再轉到生與義，讓讀者理解抽象的道德排序。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "以熟悉的價值取捨，引導理解較抽象的道德選擇",
+            "explanation": "食物取捨較具體熟悉，孟子先用兩樣都想要而須取較重者的情境，再轉到生與義，讓讀者理解抽象的道德排序。"
+          },
+          {
+            "id": "b",
+            "text": "以食物的營養差別，證明保存生命有實際好處",
+            "explanation": "營養差別不是原文據以選熊掌的論據，也不能推出義重於生。"
+          },
+          {
+            "id": "c",
+            "text": "以個人的飲食喜好，證明道義因人而有不同標準",
+            "explanation": "類比借取捨關係說道義優先，未主張是非隨飲食喜好而變。"
+          },
+          {
+            "id": "d",
+            "text": "以難得的食物作例，勸人先追求較難取得的利益",
+            "explanation": "難得程度不是文章的取捨準則，不能把更重要換成更難取得。"
+          }
+        ],
+        "misconception": "營養差別不是原文據以選熊掌的論據，也不能推出義重於生；類比借取捨關係說道義優先，未主張是非隨飲食喜好而變；難得程度不是文章的取捨準則，不能把更重要換成更難取得。"
+      },
+      "objective": "開篇先談食物取捨，對說明「舍生取義」有何作用？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p06-b00-c02",
+      "ordinal": 42,
+      "baseQuestionHash": "7ff607ca46ff2c5728587b8644d11c1012df36a578cf26523205af00e068d384",
+      "patch": {
+        "explanation": "所欲有甚於生是說義更值得追求，所以不以失義求生；所惡有甚於死是說不義更令人厭惡，所以有些禍患寧可不避。兩條因果分別從欲與惡支持相同排序。不能只配對相近字眼，必須檢查原因是否真能推出後果。",
+        "summary": "所欲有甚於生是說義更值得追求，所以不以失義求生；所惡有甚於死是說不義更令人厭惡，所以有些禍患寧可不避。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "重義超過求生→可以不再珍惜生命；厭惡不義超過死亡→應尋求所有禍患",
+            "explanation": "原文仍欲生惡死，有所不避也不等於主動尋求一切禍患，兩項都過度擴張。"
+          },
+          {
+            "id": "b",
+            "text": "重義超過求生→待安全後才守義；厭惡不義超過死亡→先保命再辨是非",
+            "explanation": "守義不是等安全有保障才開始，兩項都把求生置於道義之前。"
+          },
+          {
+            "id": "c",
+            "text": "求生超過重義→仍不苟生；厭惡死亡超過不義→仍不盡避患",
+            "explanation": "原因將價值次序倒轉，便不能推出後面有所不為的結果。"
+          },
+          {
+            "id": "d",
+            "text": "重義超過求生→不苟生；厭惡不義超過死亡→不盡避患",
+            "explanation": "所欲有甚於生是說義更值得追求，所以不以失義求生；所惡有甚於死是說不義更令人厭惡，所以有些禍患寧可不避。"
+          }
+        ],
+        "misconception": "原文仍欲生惡死，有所不避也不等於主動尋求一切禍患，兩項都過度擴張；守義不是等安全有保障才開始，兩項都把求生置於道義之前；原因將價值次序倒轉，便不能推出後面有所不為的結果。"
+      },
+      "objective": "兩句的因果關係應如何配對？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e02-p06-b00-c03",
+      "ordinal": 43,
+      "baseQuestionHash": "c6ef9d8079398b7748ccee8f9a877dc3d48dbc9c78e276915ef210eb86b70772",
+      "patch": {
+        "explanation": "假設生命是最高所欲，便應使用所有有效求生手段；下文偏有能求生而不用的情況，才構成反證。有效卻拒用是關鍵，因為無效或做不到都不能反駁原假設。依全文，讓人拒用的更高尺度就是道義。",
+        "summary": "假設生命是最高所欲，便應使用所有有效求生手段；下文偏有能求生而不用的情況，才構成反證。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "有方法可以求生，人便因利誘而採用",
+            "explanation": "能求生便採用與假設相容，未提供推翻它的反例。"
+          },
+          {
+            "id": "b",
+            "text": "有方法未能求生，人因而另找途徑",
+            "explanation": "方法不能求生才棄用不奇怪，不能證明有比生命更高的原則。"
+          },
+          {
+            "id": "c",
+            "text": "有方法可以求生，人卻因道義而不用",
+            "explanation": "假設生命是最高所欲，便應使用所有有效求生手段；下文偏有能求生而不用的情況，才構成反證。"
+          },
+          {
+            "id": "d",
+            "text": "有方法難以實行，人只得停止嘗試",
+            "explanation": "難以實行屬能力限制，不是因道義拒用有效手段的價值選擇。"
+          }
+        ],
+        "misconception": "能求生便採用與假設相容，未提供推翻它的反例；方法不能求生才棄用不奇怪，不能證明有比生命更高的原則；難以實行屬能力限制，不是因道義拒用有效手段的價值選擇。"
+      },
+      "objective": "這個假設須與下文哪種情況相對照，才能完成推論？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p06-b00-c04",
+      "ordinal": 44,
+      "baseQuestionHash": "9459e9b5c61fe7a117f725566684d92f5405f62ae029ac73ca151e2cce41669a",
+      "patch": {
+        "explanation": "路人和乞人身分平凡，卻都拒絕帶侮辱的利益，所以可支持本心並非賢者或高位者獨有。例子只顯示這一次可以守義，不能保證此人以後永不失守。也沒有比較越窮是否越有德，或兩種侮辱哪一種更難忍受。",
+        "summary": "路人和乞人身分平凡，卻都拒絕帶侮辱的利益，所以可支持本心並非賢者或高位者獨有。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "處境愈貧困者本心愈堅定，較能抵受日後厚祿誘惑",
+            "explanation": "本文說普通人也能守義，未證明貧困程度與本心強弱成正比。"
+          },
+          {
+            "id": "b",
+            "text": "身分平凡者也有重義本心，能在受辱時拒絕利益",
+            "explanation": "路人和乞人身分平凡，卻都拒絕帶侮辱的利益，所以可支持本心並非賢者或高位者獨有。"
+          },
+          {
+            "id": "c",
+            "text": "人遭呼喝比遭踐踏更覺受辱，因而拒食的決心更強",
+            "explanation": "兩人面對不同施食方式，原文没有量度呼喝與踐踏的侮辱強度。"
+          },
+          {
+            "id": "d",
+            "text": "只要拒絕救命之食，便足證此人已能長久保持本心",
+            "explanation": "一次拒受只能證明當下取捨，不能直接保證往後長久不失本心。"
+          }
+        ],
+        "misconception": "本文說普通人也能守義，未證明貧困程度與本心強弱成正比；兩人面對不同施食方式，原文没有量度呼喝與踐踏的侮辱強度；一次拒受只能證明當下取捨，不能直接保證往後長久不失本心。"
+      },
+      "objective": "以路人與乞人拒食為證，哪項推論不超出例子所能支持的範圍？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p06-b00-c05",
+      "ordinal": 45,
+      "baseQuestionHash": "578f618af7a4a7efb01b8b53e54b6862681f59888a2e008ddecd0847e44e3ee8",
+      "patch": {
+        "explanation": "失本心的失表示原有而後喪失：人本有重義準則，卻為宮室、妻妾或他人感激而不辨禮義受取厚祿。批評的是利益壓過原則，不是欲望一出現便必有罪。即使生命無危險，日常取利仍需要道德判斷。",
+        "summary": "失本心的失表示原有而後喪失：人本有重義準則，卻為宮室、妻妾或他人感激而不辨禮義受取厚祿。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "物質與人情利益凌駕原有的守義準則",
+            "explanation": "失本心的失表示原有而後喪失：人本有重義準則，卻為宮室、妻妾或他人感激而不辨禮義受取厚祿。"
+          },
+          {
+            "id": "b",
+            "text": "生命已無危險所以不再需要道德抉擇",
+            "explanation": "道德不只用於生死危機，非救命的厚祿正是本段考驗。"
+          },
+          {
+            "id": "c",
+            "text": "別人的感激使人首次形成道德判斷",
+            "explanation": "感激是被追求的回報，不是首次產生本心的來源。"
+          },
+          {
+            "id": "d",
+            "text": "貧困生活使人原本就沒有道義觀念",
+            "explanation": "人皆有之已說人人有本心，貧困不能被當成生來無義的證據。"
+          }
+        ],
+        "misconception": "道德不只用於生死危機，非救命的厚祿正是本段考驗；感激是被追求的回報，不是首次產生本心的來源；人皆有之已說人人有本心，貧困不能被當成生來無義的證據。"
+      },
+      "objective": "下列哪項最能解釋文中受「萬鍾」者何以「失」本心？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p07-b01-c01",
+      "ordinal": 46,
+      "baseQuestionHash": "b767d72b2655c0f929480b99374b183e2da51648d16e66e6f627fc1714a2302d",
+      "patch": {
+        "explanation": "簞食豆羹雖少卻能救命，仍有人因受辱拒絕；萬鍾雖多，列出的目的卻是享受和感激，反而有人不辨義就受。這把生存所需和額外誘惑放在一起，顯出更迫切時尚能守義，較不迫切時卻失守的矛盾。",
+        "summary": "簞食豆羹雖少卻能救命，仍有人因受辱拒絕；萬鍾雖多，列出的目的卻是享受和感激，反而有人不辨義就受。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "救命之食難以持續供應，厚祿能長久保命所以可以接受",
+            "explanation": "原文沒有以長期供應解釋受祿，且仍不能用利益代替禮義判斷。"
+          },
+          {
+            "id": "b",
+            "text": "救命之食出自陌生人，厚祿出自熟人所以可以接受",
+            "explanation": "原文没有這種來源配對，所識窮人也不是厚祿提供者，陌生或相識不是取利判準。"
+          },
+          {
+            "id": "c",
+            "text": "救命之食較少，厚祿較多，所以拒前受後只是同一價值尺度",
+            "explanation": "份量多少雖有對照，核心却是救命尚守義、求享受反失義，不能抹去道德矛盾。"
+          },
+          {
+            "id": "d",
+            "text": "救命之食尚能因辱拒絕，非救命厚祿反失義接受",
+            "explanation": "簞食豆羹雖少卻能救命，仍有人因受辱拒絕；萬鍾雖多，列出的目的卻是享受和感激，反而有人不辨義就受。"
+          }
+        ],
+        "misconception": "原文沒有以長期供應解釋受祿，且仍不能用利益代替禮義判斷；原文没有這種來源配對，所識窮人也不是厚祿提供者，陌生或相識不是取利判準；份量多少雖有對照，核心却是救命尚守義、求享受反失義，不能抹去道德矛盾。"
+      },
+      "objective": "把食物的迫切性納入比較，哪項最能指出受祿者的矛盾？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e02-p07-b01-c02",
+      "ordinal": 47,
+      "baseQuestionHash": "c427e932b20ef52e6928faa34db4318387ec1e54fe15cd5853e47820f475826d",
+      "patch": {
+        "explanation": "乞人雖身分卑微仍拒絕侮辱，受厚祿者卻可能不辨禮義，這組例子直接拆開地位與道德。若要質疑以官位判能否守義，應選含人物處境差異的證據。生義或魚熊掌的取捨能說價值原則，卻不如人物對照直接回應地位判斷。",
+        "summary": "乞人雖身分卑微仍拒絕侮辱，受厚祿者卻可能不辨禮義，這組例子直接拆開地位與道德。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "生與義皆所欲，不能兼得時須取其重",
+            "explanation": "這句確立義重於生，未直接比較不同身分者的表現。"
+          },
+          {
+            "id": "b",
+            "text": "魚與熊掌皆所欲，不能兼得時取熊掌",
+            "explanation": "食物類比没有人物官位資料，不能單憑它檢验以地位判德的方法。"
+          },
+          {
+            "id": "c",
+            "text": "乞人可拒辱，受厚祿者卻會不辨禮義",
+            "explanation": "乞人雖身分卑微仍拒絕侮辱，受厚祿者卻可能不辨禮義，這組例子直接拆開地位與道德。"
+          },
+          {
+            "id": "d",
+            "text": "生不可苟得，禍患亦有所不避",
+            "explanation": "不苟生不盡避患說行為界線，但未像乞人與受祿者般直接呈現身分反差。"
+          }
+        ],
+        "misconception": "這句確立義重於生，未直接比較不同身分者的表現；食物類比没有人物官位資料，不能單憑它檢验以地位判德的方法；不苟生不盡避患說行為界線，但未像乞人與受祿者般直接呈現身分反差。"
+      },
+      "objective": "有人以官位高低判斷能否守義。本文哪組內容最能直接質疑此法？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p07-b03-c01",
+      "ordinal": 48,
+      "baseQuestionHash": "339ad7fea8d3b5793ce05c2caa5424a02d70da58fa8ef13a20e23ce83dad3993",
+      "patch": {
+        "explanation": "三個相近句式並列宮室、妻妾與他人感激，將失義受祿的誘惑逐項揭出，形成排比的累積語勢。列三項不等於記錄三次升官，也沒有把後一項評為比前一項更正當。即使動機涉及幫人，仍須追問所取之利是否合義。",
+        "summary": "三個相近句式並列宮室、妻妾與他人感激，將失義受祿的誘惑逐項揭出，形成排比的累積語勢。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "依時間交代三次受祿，呈現仕途逐步上升",
+            "explanation": "原句列不同動機，不是按時間記三次受祿或仕途升遷。"
+          },
+          {
+            "id": "b",
+            "text": "集中列出受祿誘惑，逐項揭露失義的動機",
+            "explanation": "三個相近句式並列宮室、妻妾與他人感激，將失義受祿的誘惑逐項揭出，形成排比的累積語勢。"
+          },
+          {
+            "id": "c",
+            "text": "由物質到人情逐級肯定，說明受祿越來越合理",
+            "explanation": "三項都受失本心的批評，未逐級肯定其合理性。"
+          },
+          {
+            "id": "d",
+            "text": "分述三類人的遭遇，證明他們接受不同的俸祿",
+            "explanation": "鄉今比較的是前後取捨，三項不是三類人物各自的傳記。"
+          }
+        ],
+        "misconception": "原句列不同動機，不是按時間記三次受祿或仕途升遷；三項都受失本心的批評，未逐級肯定其合理性；鄉今比較的是前後取捨，三項不是三類人物各自的傳記。"
+      },
+      "objective": "三個「今為……為之」並列，有何表達效果？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p07-b03-c02",
+      "ordinal": 49,
+      "baseQuestionHash": "46f8da3738c9dbcb4c5f743264bdad50ffa6ef70c5915292f6713e0772d05434",
+      "patch": {
+        "explanation": "反覆提鄉為身死而不受，每次都把昔日守義的高標準帶回，再與今日為利益接受相撞。作用在使前後矛盾反覆顯現，加強警醒，而非只強調生活辛苦。昔日寧死不受也不是主動求死，而是不肯以受辱失義換取生存。",
+        "summary": "反覆提鄉為身死而不受，每次都把昔日守義的高標準帶回，再與今日為利益接受相撞。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "反覆以昔日守義為標準，凸顯今日轉變的可責",
+            "explanation": "反覆提鄉為身死而不受，每次都把昔日守義的高標準帶回，再與今日為利益接受相撞。"
+          },
+          {
+            "id": "b",
+            "text": "反覆交代昔日生活之苦，解釋今日受祿的必要",
+            "explanation": "昔日之苦用來顯守義仍可做到，不能拿來合理化今日不辨義受祿。"
+          },
+          {
+            "id": "c",
+            "text": "反覆標示事件發生時間，證明三次受祿先後有序",
+            "explanation": "重複鄉今強化比較，沒有提供三次受祿的時間次序。"
+          },
+          {
+            "id": "d",
+            "text": "反覆強調昔日求死心態，讚許今日珍惜生命",
+            "explanation": "昔日拒受為守義，不是迷戀死亡；今日受祿也未被讚許為珍生。"
+          }
+        ],
+        "misconception": "昔日之苦用來顯守義仍可做到，不能拿來合理化今日不辨義受祿；重複鄉今強化比較，沒有提供三次受祿的時間次序；昔日拒受為守義，不是迷戀死亡；今日受祿也未被讚許為珍生。"
+      },
+      "objective": "每次說「今為」之前重複「鄉為身死而不受」，主要加強哪一效果？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p07-b03-c03",
+      "ordinal": 50,
+      "baseQuestionHash": "0c43f734586bbae6b999bd3e137d687e979cff49c077fc2ec413092da8a7f17e",
+      "patch": {
+        "explanation": "兩個亦把生和義並列成同樣想要的事物，先排除因討厭生命才捨生的誤解。下文不可兼得才使取捨成立，再以取義標示高低。同為所欲只是共同點，不代表價值相等，更不能直接推出生義任何時候都互相衝突。",
+        "summary": "兩個亦把生和義並列成同樣想要的事物，先排除因討厭生命才捨生的誤解。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "生與義本是對立，抉擇源於厭惡其中一方",
+            "explanation": "生本是所欲，不是因厭惡生命才放棄，原文也未說兩者總是對立。"
+          },
+          {
+            "id": "b",
+            "text": "生與義先後出現，抉擇源於時間上的限制",
+            "explanation": "亦表並列，不表示生與義按時間先後出現。"
+          },
+          {
+            "id": "c",
+            "text": "生與義價值相等，抉擇源於偶然的個人喜好",
+            "explanation": "兩者都想要仍可有輕重，下文取義已否定任意選擇的理解。"
+          },
+          {
+            "id": "d",
+            "text": "生與義同為所欲，抉擇源於兩者不能兼得",
+            "explanation": "兩個亦把生和義並列成同樣想要的事物，先排除因討厭生命才捨生的誤解。"
+          }
+        ],
+        "misconception": "生本是所欲，不是因厭惡生命才放棄，原文也未說兩者總是對立；亦表並列，不表示生與義按時間先後出現；兩者都想要仍可有輕重，下文取義已否定任意選擇的理解。"
+      },
+      "objective": "若刪去兩個「亦」所呼應的並列關係，原句哪層意思會較不突出？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p07-b03-c04",
+      "ordinal": 51,
+      "baseQuestionHash": "d3824e6bf9f5f5a21aec1c23d3290d729b919bb8e667a5b1d84787ea78037294",
+      "patch": {
+        "explanation": "何加焉追問不辨禮義接受萬鍾究竟有何增益，質疑的是用豐厚利益抵銷失義的想法。下文列出的享受和感激，正供讀者衡量是否值得失去本心。反問不是否認錢糧有任何生活用途，而是否定這些用途足以合理化失義。",
+        "summary": "何加焉追問不辨禮義接受萬鍾究竟有何增益，質疑的是用豐厚利益抵銷失義的想法。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "只有少量食物能讓人保命，厚祿完全沒有生活用途",
+            "explanation": "反問未否定厚祿所有用途，而是質疑它能否補償失義的代價。"
+          },
+          {
+            "id": "b",
+            "text": "只要對厚祿心存感激，便已完成了禮義判斷",
+            "explanation": "原文的感激是受祿者想從窮人得到的回報，不是受祿者自己的禮義審查。"
+          },
+          {
+            "id": "c",
+            "text": "俸祿豐厚便足以抵銷失義的代價",
+            "explanation": "何加焉追問不辨禮義接受萬鍾究竟有何增益，質疑的是用豐厚利益抵銷失義的想法。"
+          },
+          {
+            "id": "d",
+            "text": "只要拒絕過受辱之食，往後接受任何厚祿都不必再辨義",
+            "explanation": "本心仍須保存，昔日守義不會免去今日判斷；這正是鄉今對比要警醒的問題。"
+          }
+        ],
+        "misconception": "反問未否定厚祿所有用途，而是質疑它能否補償失義的代價；原文的感激是受祿者想從窮人得到的回報，不是受祿者自己的禮義審查；本心仍須保存，昔日守義不會免去今日判斷；這正是鄉今對比要警醒的問題。"
+      },
+      "objective": "這個反問針對哪一種想法提出質疑？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e02-p08-b00-concept",
+      "ordinal": 52,
+      "baseQuestionHash": "c8e6a0ef50422de659283b93ad71e20b8cd5ee1301067f6c755ad44bb667de67",
+      "patch": {
+        "explanation": "生亦我所欲、義亦我所欲兩句短而整齊，先讓讀者看清兩者並列；後面再接不可兼得和舍生取義，把條件與選擇說完整。句式由對稱走向展開，使節奏有變化又服務說理。不能只數字數而說每句等長，或憑語氣杜撰死亡迫近的場景。",
+        "summary": "生亦我所欲、義亦我所欲兩句短而整齊，先讓讀者看清兩者並列；後面再接不可兼得和舍生取義，把條件與選擇說完整。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "先用長句羅列事例，再用兩句短句總結歷史教訓",
+            "explanation": "開頭没有羅列歷史事例，而是並列兩項所欲，後文才說取捨。"
+          },
+          {
+            "id": "b",
+            "text": "先用整齊短句並列所欲，再用較長句交代取捨條件",
+            "explanation": "生亦我所欲、義亦我所欲兩句短而整齊，先讓讀者看清兩者並列；後面再接不可兼得和舍生取義，把條件與選擇說完整。"
+          },
+          {
+            "id": "c",
+            "text": "各句字數與句式相等，以均一節奏表現選擇毫無困難",
+            "explanation": "各句長短及結構並不全同，並列也不意味選擇毫無代價。"
+          },
+          {
+            "id": "d",
+            "text": "各句逐次縮短，藉急促節奏表現死亡威脅迫近",
+            "explanation": "句子不是逐次縮短，原文亦未描寫死亡正在逼近的情節。"
+          }
+        ],
+        "misconception": "開頭没有羅列歷史事例，而是並列兩項所欲，後文才說取捨；各句長短及結構並不全同，並列也不意味選擇毫無代價；句子不是逐次縮短，原文亦未描寫死亡正在逼近的情節。"
+      },
+      "objective": "就這組句子的節奏與說理安排，哪項分析較貼切？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p09-b01-g01",
+      "ordinal": 53,
+      "baseQuestionHash": "7aaee51d5520d9f9155944a145c3cae8ba89e772108ad8ec07d4ce9bc57d8de2",
+      "patch": {
+        "explanation": "為在何不為也中是做、實行，省略的對象是前面的避患之事。假設沒有比死亡更可惡的事，便會問有甚麼避患手段不去做。它是實際行動的動詞，不是為了某個目的的介詞，也沒有被誰施加行為的被動關係。",
+        "summary": "為在何不為也中是做、實行，省略的對象是前面的避患之事。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "為了",
+            "explanation": "為了須引出目的，這裏何不為問的是甚麼事不去做。"
+          },
+          {
+            "id": "b",
+            "text": "實行",
+            "explanation": "為在何不為也中是做、實行，省略的對象是前面的避患之事。"
+          },
+          {
+            "id": "c",
+            "text": "因為",
+            "explanation": "因為引原因，但本句為位於不之後，表示被否定的行動。"
+          },
+          {
+            "id": "d",
+            "text": "被動",
+            "explanation": "沒有被動施事者，主體是在考慮自己是否實行避患方法。"
+          }
+        ],
+        "misconception": "為了須引出目的，這裏何不為問的是甚麼事不去做；因為引原因，但本句為位於不之後，表示被否定的行動；沒有被動施事者，主體是在考慮自己是否實行避患方法。"
+      },
+      "objective": "按上下文理解，這裏「為」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p09-b01-g03",
+      "ordinal": 54,
+      "baseQuestionHash": "70380275adce1c94885d0aac65e4de08b30b3e441adc359c5f027c4bbac5ca2b",
+      "patch": {
+        "explanation": "第一個為引出宮室之美這個目的，意思是為了得到華美居所；後一個為之才說做這件事，即接受不合禮義的厚祿。分清目的與行動，才能看出孟子批評人為享受而改變準則，而非單純說房屋已經建成。",
+        "summary": "第一個為引出宮室之美這個目的，意思是為了得到華美居所；後一個為之才說做這件事，即接受不合禮義的厚祿。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "為了",
+            "explanation": "第一個為引出宮室之美這個目的，意思是為了得到華美居所；後一個為之才說做這件事，即接受不合禮義的厚祿。"
+          },
+          {
+            "id": "b",
+            "text": "做成",
+            "explanation": "做、實行是後一個為的作用，第一個為是在引出目的。"
+          },
+          {
+            "id": "c",
+            "text": "因為",
+            "explanation": "此處宮室之美是想求得的好處，不是已發生的事件原因；依本題來源以為了解。"
+          },
+          {
+            "id": "d",
+            "text": "被",
+            "explanation": "原句是人主動為利益接受，不是被房屋施加行動的被動句。"
+          }
+        ],
+        "misconception": "做、實行是後一個為的作用，第一個為是在引出目的；此處宮室之美是想求得的好處，不是已發生的事件原因；依本題來源以為了解；原句是人主動為利益接受，不是被房屋施加行動的被動句。"
+      },
+      "objective": "「今為宮室之美為之」的第一個「為」，意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p09-b01-g04",
+      "ordinal": 55,
+      "baseQuestionHash": "de41343eee33482874c50c55e88ea36aff249a86be6c2ebf4b7035393336bcdf",
+      "patch": {
+        "explanation": "「今為宮室之美為之」後一個為是實行，為之在這裏指接受不合禮義的厚祿。前一個為引出想求的享受，後一個為說因此做了甚麼。題目雖把鄉句一併列出，所考仍是今句末的為，不能按整段第一個同字套義。",
+        "summary": "「今為宮室之美為之」後一個為是實行，為之在這裏指接受不合禮義的厚祿。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "為求美宅",
+            "explanation": "為求美宅解釋的是今句前一個為所引的目的，未解後面的動詞。"
+          },
+          {
+            "id": "b",
+            "text": "變成美宅",
+            "explanation": "宮室之美是動機，不是人變成房屋的結果，為並非成為。"
+          },
+          {
+            "id": "c",
+            "text": "替人行事",
+            "explanation": "替人辦事需要代誰行事的對象，為之在此說本人接受厚祿。"
+          },
+          {
+            "id": "d",
+            "text": "實行此事",
+            "explanation": "「今為宮室之美為之」後一個為是實行，為之在這裏指接受不合禮義的厚祿。"
+          }
+        ],
+        "targetStart": 14,
+        "misconception": "為求美宅解釋的是今句前一個為所引的目的，未解後面的動詞；宮室之美是動機，不是人變成房屋的結果，為並非成為；替人辦事需要代誰行事的對象，為之在此說本人接受厚祿。"
+      },
+      "objective": "「今為宮室之美為之」的第二個「為」，意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p09-b01-g07",
+      "ordinal": 56,
+      "baseQuestionHash": "5ea53896430d56869f8b4f8f70d49ab57587864ebca4a53acfed13a8e15c72fb",
+      "patch": {
+        "explanation": "之代前面的重義本心，非獨賢者有是心、人皆有之兩句前後相接，對象相同而範圍擴大。人人都有不等於人人都能保有，所以後面還須補賢者能勿喪。找指代要回看是心，不是把之任意換成文章出現過的利益或方法。",
+        "summary": "之代前面的重義本心，非獨賢者有是心、人皆有之兩句前後相接，對象相同而範圍擴大。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "賢者獨有的道德身分",
+            "explanation": "人皆有之明確擴大範圍，不能仍解成只有賢者才有的身分。"
+          },
+          {
+            "id": "b",
+            "text": "維持生存的基本欲望",
+            "explanation": "欲生是人一般欲望，但之就近承是心，指高於求生的重義本心。"
+          },
+          {
+            "id": "c",
+            "text": "重義的本心",
+            "explanation": "之代前面的重義本心，非獨賢者有是心、人皆有之兩句前後相接，對象相同而範圍擴大。"
+          },
+          {
+            "id": "d",
+            "text": "面對誘惑仍永不失守的能力",
+            "explanation": "人人有本心不等於人人永不失守，後句另提出能否保持的差別。"
+          }
+        ],
+        "misconception": "人皆有之明確擴大範圍，不能仍解成只有賢者才有的身分；欲生是人一般欲望，但之就近承是心，指高於求生的重義本心；人人有本心不等於人人永不失守，後句另提出能否保持的差別。"
+      },
+      "objective": "按上下文理解，這裏「之」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e02-p09-b01-g08",
+      "ordinal": 57,
+      "baseQuestionHash": "751fbc6e614d32f5dd333eef0756e0f721f471539a02f3bf6de16cb11d22b9a2",
+      "patch": {
+        "explanation": "此之謂是這就叫作，整句把前面為利而失義的轉變定名為失其本心。之在這個結構中不是再代一個它，不能把此、之都當人物代詞。先把整個句式讀通，再問此概括了甚麼，才能接回前文鄉今選擇的矛盾。",
+        "summary": "此之謂是這就叫作，整句把前面為利而失義的轉變定名為失其本心。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "這個人說過",
+            "explanation": "此指前述失義做法，不是某位說話者，謂在此為命名判斷。"
+          },
+          {
+            "id": "b",
+            "text": "這就叫作",
+            "explanation": "此之謂是這就叫作，整句把前面為利而失義的轉變定名為失其本心。"
+          },
+          {
+            "id": "c",
+            "text": "這件事前往",
+            "explanation": "之在此之謂中不是前往，整句是在把做法歸結為失本心。"
+          },
+          {
+            "id": "d",
+            "text": "這樣便值得稱許",
+            "explanation": "失其本心帶批評意味，謂是叫作，不是稱讚對方。"
+          }
+        ],
+        "misconception": "此指前述失義做法，不是某位說話者，謂在此為命名判斷；之在此之謂中不是前往，整句是在把做法歸結為失本心；失其本心帶批評意味，謂是叫作，不是稱讚對方。"
+      },
+      "objective": "按上下文理解，這裏「此之謂」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e02-p09-b01-g09",
+      "ordinal": 58,
+      "baseQuestionHash": "59b48f380e812cb668ed57ca001deaaf1d273538b7a08a9127fe062ae2770814",
+      "patch": {
+        "explanation": "於在甚於生中引出比較對象，相當於比，所欲有甚於生者就是有比生命更想要的東西。甚與於配合建立高低，才支撐後文不苟且求生。若讀成在或被，就無法保留義和生命的價值比較。",
+        "summary": "於在甚於生中引出比較對象，相當於比，所欲有甚於生者就是有比生命更想要的東西。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "比",
+            "explanation": "於在甚於生中引出比較對象，相當於比，所欲有甚於生者就是有比生命更想要的東西。"
+          },
+          {
+            "id": "b",
+            "text": "在",
+            "explanation": "生在此是比較標準，不是事情發生的地點或時間。"
+          },
+          {
+            "id": "c",
+            "text": "對於",
+            "explanation": "對於只標關涉對象，未表達甚於所需的超過比較。"
+          },
+          {
+            "id": "d",
+            "text": "被",
+            "explanation": "原句沒有被動行為，於不是引出施事者。"
+          }
+        ],
+        "misconception": "生在此是比較標準，不是事情發生的地點或時間；對於只標關涉對象，未表達甚於所需的超過比較；原句沒有被動行為，於不是引出施事者。"
+      },
+      "objective": "按上下文理解，這裏「於」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p09-b01-g10",
+      "ordinal": 59,
+      "baseQuestionHash": "0443916be6472b365c5506cbaf60eae3b449a36905948d4b80c1cfa302dfca78",
+      "patch": {
+        "explanation": "於我表示對於我，將萬鍾帶來的增益放在我這個受益者身上檢視。何加焉問有甚麼好處，不是問厚祿比我多多少，也不是因我而產生厚祿。相同於字須連同動詞關係判斷，不能一律套用甚於生的比字義。",
+        "summary": "於我表示對於我，將萬鍾帶來的增益放在我這個受益者身上檢視。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "比",
+            "explanation": "此句沒有將萬鍾與我比較高低，於我是在指出益處所及的人。"
+          },
+          {
+            "id": "b",
+            "text": "由於",
+            "explanation": "我不是厚祿發生的原因，於也不在此引出因果。"
+          },
+          {
+            "id": "c",
+            "text": "被",
+            "explanation": "句子並非被我增加俸祿，沒有這項被動施受關係。"
+          },
+          {
+            "id": "d",
+            "text": "對於",
+            "explanation": "於我表示對於我，將萬鍾帶來的增益放在我這個受益者身上檢視。"
+          }
+        ],
+        "misconception": "此句沒有將萬鍾與我比較高低，於我是在指出益處所及的人；我不是厚祿發生的原因，於也不在此引出因果；句子並非被我增加俸祿，沒有這項被動施受關係。"
+      },
+      "objective": "按上下文理解，這裏「於」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p09-b02-g01",
+      "ordinal": 60,
+      "baseQuestionHash": "50f2f78147a3919e01695ee5115a517b40c8cc0d5ff043580b68b66fea8cc86e",
+      "patch": {
+        "explanation": "所欲是所加動詞形成的名詞性結構，指想要的事物，魚正是其中一項。所不是這句中的地點名詞，欲也沒有被改成時間或方式。把整組換成我想要的東西，便可看清魚與所欲之間的判斷關係。",
+        "summary": "所欲是所加動詞形成的名詞性結構，指想要的事物，魚正是其中一項。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "想要的處所",
+            "explanation": "所可在別處說處所，但所欲整體指欲的對象，不是地方。"
+          },
+          {
+            "id": "b",
+            "text": "想要的方式",
+            "explanation": "方式回答怎樣想要，原句要回答想要甚麼，兩者不同。"
+          },
+          {
+            "id": "c",
+            "text": "想要的事物",
+            "explanation": "所欲是所加動詞形成的名詞性結構，指想要的事物，魚正是其中一項。"
+          },
+          {
+            "id": "d",
+            "text": "想要的時間",
+            "explanation": "原句沒有何時想要的時間關係，所欲是事物的名詞性表達。"
+          }
+        ],
+        "misconception": "所可在別處說處所，但所欲整體指欲的對象，不是地方；方式回答怎樣想要，原句要回答想要甚麼，兩者不同；原句沒有何時想要的時間關係，所欲是事物的名詞性表達。"
+      },
+      "objective": "按上下文理解，這裏「所欲」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p09-b02-g11",
+      "ordinal": 61,
+      "baseQuestionHash": "e2985bec286a9911eb6e1a9bea2910d4368db460ded3ff22d6db0e16f6fd04d2",
+      "patch": {
+        "explanation": "得生是獲得生存，承接人欲生的假設，指透過某些方法保全自己的生命。生不是新生嬰兒，得也不是天生已有；方法是否能使人活下來才是後面用不用的判斷起點。句子再藉有人拒用，說明求生仍受道義限制。",
+        "summary": "得生是獲得生存，承接人欲生的假設，指透過某些方法保全自己的生命。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "取得生來已有的本心",
+            "explanation": "得生談獲得生存，本心則是後文進一步提出的道德概念，不能調換。"
+          },
+          {
+            "id": "b",
+            "text": "獲得生存",
+            "explanation": "得生是獲得生存，承接人欲生的假設，指透過某些方法保全自己的生命。"
+          },
+          {
+            "id": "c",
+            "text": "取得維生以外的享受",
+            "explanation": "本段得生直接指活命，未轉入下段宮室之美等額外利益。"
+          },
+          {
+            "id": "d",
+            "text": "只使別人免於死亡",
+            "explanation": "原文討論自己所欲與採取的求生方法，沒有把對象限為別人。"
+          }
+        ],
+        "misconception": "得生談獲得生存，本心則是後文進一步提出的道德概念，不能調換；本段得生直接指活命，未轉入下段宮室之美等額外利益；原文討論自己所欲與採取的求生方法，沒有把對象限為別人。"
+      },
+      "objective": "按上下文理解，這裏「得生」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e02-p09-b02-g12",
+      "ordinal": 62,
+      "baseQuestionHash": "566acca989e52bb7e09ce01b7ce02b3ac92fdd5d51acae9bd0003a5c40419f6c",
+      "patch": {
+        "explanation": "用是採用，省略的對象是凡可以得生者，即能使人活下來的方法。何不用的反問在假設生命最高時推出所有有效手段都會採用，並非孟子最後鼓勵不擇手段。讀短句要補回前文對象，才能辨任用人才等其他用法。",
+        "summary": "用是採用，省略的對象是凡可以得生者，即能使人活下來的方法。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "採用求生方法",
+            "explanation": "用是採用，省略的對象是凡可以得生者，即能使人活下來的方法。"
+          },
+          {
+            "id": "b",
+            "text": "使用已取得的俸祿",
+            "explanation": "前文得生限定求生方法，萬鍾尚未是此句所承對象。"
+          },
+          {
+            "id": "c",
+            "text": "採用別人的道德評價",
+            "explanation": "原句假設下問能活命的方法何不用，沒有以他人評價作直接賓語。"
+          },
+          {
+            "id": "d",
+            "text": "享用救濟窮人的回報",
+            "explanation": "感激回報屬後段的動機分析，不能移來充作何不用的對象。"
+          }
+        ],
+        "stem": "「則凡可以得生者，何不用也」中的「用」應怎樣理解？",
+        "misconception": "前文得生限定求生方法，萬鍾尚未是此句所承對象；原句假設下問能活命的方法何不用，沒有以他人評價作直接賓語；感激回報屬後段的動機分析，不能移來充作何不用的對象。"
+      },
+      "objective": "「則凡可以得生者，何不用也」中的「用」應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e02-p09-b02-g15",
+      "ordinal": 63,
+      "baseQuestionHash": "aa9f246ae367194b15ca4f9cdd425448c98af6c3cfdac3322e2cfa611da49c32",
+      "patch": {
+        "explanation": "是故是因此，承接有效方法仍有人不用、不為的情況，推出人有比生死更重的原則。它標明從證據走向結論的因果關係，不是開啟時間或讓步。也要和由是分開：由是指依循那些方法，是故才負責總結推論。",
+        "summary": "是故是因此，承接有效方法仍有人不用、不為的情況，推出人有比生死更重的原則。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "在此以後",
+            "explanation": "後面是推論結論，不是交代其後發生甚麼的時間。"
+          },
+          {
+            "id": "b",
+            "text": "即使如此",
+            "explanation": "即使引讓步，原句則由前文證據推出結論，應作因此。"
+          },
+          {
+            "id": "c",
+            "text": "依循此法",
+            "explanation": "依循方法是由是的用法，是故在此則是因果總結，兩個詞組不可互換。"
+          },
+          {
+            "id": "d",
+            "text": "因此",
+            "explanation": "是故是因此，承接有效方法仍有人不用、不為的情況，推出人有比生死更重的原則。"
+          }
+        ],
+        "misconception": "後面是推論結論，不是交代其後發生甚麼的時間；即使引讓步，原句則由前文證據推出結論，應作因此；依循方法是由是的用法，是故在此則是因果總結，兩個詞組不可互換。"
+      },
+      "objective": "按上下文理解，這裏「是故」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-a-e02-p09-b02-g22",
+      "ordinal": 64,
+      "baseQuestionHash": "819ba8ca610d2140ec7e726057abf76253b302c76f9613ca5bfaebbec8263b60",
+      "patch": {
+        "explanation": "食在一簞食中是飯食，前面的簞是盛載它的容器，因此這裏作名詞。它不是吃或餵這兩個動作，也不是後面的萬鍾俸祿。詞義要看搭配：一簞修飾多少食物，並不表示吃一次或餵某個人。",
+        "summary": "食在一簞食中是飯食，前面的簞是盛載它的容器，因此這裏作名詞。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "吃飯",
+            "explanation": "吃飯作動詞，與一簞這個容器份量的修飾關係不合。"
+          },
+          {
+            "id": "b",
+            "text": "餵食",
+            "explanation": "餵食需要被餵的對象，本句只列出飯食，沒有餵的動作。"
+          },
+          {
+            "id": "c",
+            "text": "飯食",
+            "explanation": "食在一簞食中是飯食，前面的簞是盛載它的容器，因此這裏作名詞。"
+          },
+          {
+            "id": "d",
+            "text": "俸祿",
+            "explanation": "俸祿是後段萬鍾所指，這裏是一小份能救命的食物。"
+          }
+        ],
+        "misconception": "吃飯作動詞，與一簞這個容器份量的修飾關係不合；餵食需要被餵的對象，本句只列出飯食，沒有餵的動作；俸祿是後段萬鍾所指，這裏是一小份能救命的食物。"
+      },
+      "objective": "按上下文理解，這裏「食」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p09-b02-g29",
+      "ordinal": 65,
+      "baseQuestionHash": "1930c3a855dc7ebe159e96ec5def96323749810e4b5ffa13900dfc1a87181bbb",
+      "patch": {
+        "explanation": "行道之人是走在路上的人，即路人；行是行走，道是道路。雖然路人拒食表現重義，也不能把這項行為評價直接塞回稱呼，解成奉行道義的人。文章正藉普通人也能守義，說明本心不只屬於賢者。",
+        "summary": "行道之人是走在路上的人，即路人；行是行走，道是道路。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "奉行道義的人",
+            "explanation": "路人可表現守義，但行道的道在此是道路，不是道義，須分詞義和人物評價。"
+          },
+          {
+            "id": "b",
+            "text": "走在路上的人",
+            "explanation": "行道之人是走在路上的人，即路人；行是行走，道是道路。"
+          },
+          {
+            "id": "c",
+            "text": "修築道路的人",
+            "explanation": "修路不是行走，原文没有道路工程或修築工作。"
+          },
+          {
+            "id": "d",
+            "text": "傳授道理的人",
+            "explanation": "傳授道理是教學，這裏沒有師生或講授的情境。"
+          }
+        ],
+        "misconception": "路人可表現守義，但行道的道在此是道路，不是道義，須分詞義和人物評價；修路不是行走，原文没有道路工程或修築工作；傳授道理是教學，這裏沒有師生或講授的情境。"
+      },
+      "objective": "按上下文理解，這裏「行道之人」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p09-b02-g31",
+      "ordinal": 66,
+      "baseQuestionHash": "4fa699b0b8cd61bd74128a65f3abe39f9e6d7b2935a36cbdd6f8e3e24409cb34",
+      "patch": {
+        "explanation": "屑是認為值得，所以不屑連起來才是認為不值得接受。題目問單獨的屑，不能把前面的不重複算進詞義。乞人拒受表現的是價值判斷，不是食物成了碎屑；依上下文，他不能接受的是施食中的侮辱。",
+        "summary": "屑是認為值得，所以不屑連起來才是認為不值得接受。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "認為值得",
+            "explanation": "屑是認為值得，所以不屑連起來才是認為不值得接受。"
+          },
+          {
+            "id": "b",
+            "text": "碎小之物",
+            "explanation": "碎小之物是名詞義，不能解釋乞人不屑所作的接受判斷。"
+          },
+          {
+            "id": "c",
+            "text": "使人受辱",
+            "explanation": "使人受辱是施食者的行為，屑則說乞人怎樣看待接受此物。"
+          },
+          {
+            "id": "d",
+            "text": "分取食物",
+            "explanation": "分取食物是實際動作，原句寫拒受，並未描寫分食。"
+          }
+        ],
+        "misconception": "碎小之物是名詞義，不能解釋乞人不屑所作的接受判斷；使人受辱是施食者的行為，屑則說乞人怎樣看待接受此物；分取食物是實際動作，原句寫拒受，並未描寫分食。"
+      },
+      "objective": "按上下文理解，這裏「屑」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p10-b00-g03",
+      "ordinal": 67,
+      "baseQuestionHash": "682470f14ae6f6ef840cb8b5dbab037b73fbef26fdc741f7e3b9c636814f95d1",
+      "patch": {
+        "explanation": "禮義在此是合宜的道德準則，不辯禮義而受之批評接受厚祿時放棄了正當判斷。它不只指表面客氣或送禮程序，也不是俸祿制度本身。即使禮貌周全、金額合規，仍須問受取的事情是否正當，才切合本文的義利取捨。",
+        "summary": "禮義在此是合宜的道德準則，不辯禮義而受之批評接受厚祿時放棄了正當判斷。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "交往的儀式程序",
+            "explanation": "儀式程序只是外在形式，不能涵蓋此處是否合乎道義的判準。"
+          },
+          {
+            "id": "b",
+            "text": "受贈的禮物數量",
+            "explanation": "禮義不是禮物數量，不能因禮字便把道德關係換成物品多少。"
+          },
+          {
+            "id": "c",
+            "text": "官府的俸祿制度",
+            "explanation": "俸祿制度可規定待遇，卻不等於對每一次受取作道義判斷。"
+          },
+          {
+            "id": "d",
+            "text": "合宜的道德準則",
+            "explanation": "禮義在此是合宜的道德準則，不辯禮義而受之批評接受厚祿時放棄了正當判斷。"
+          }
+        ],
+        "misconception": "儀式程序只是外在形式，不能涵蓋此處是否合乎道義的判準；禮義不是禮物數量，不能因禮字便把道德關係換成物品多少；俸祿制度可規定待遇，卻不等於對每一次受取作道義判斷。"
+      },
+      "objective": "按上下文理解，這裏「禮義」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p10-b00-g06",
+      "ordinal": 68,
+      "baseQuestionHash": "aefa986c3ea102def58a396f0478e75ecfe906cc649dfe9e4f12a6a5675f42e5",
+      "patch": {
+        "explanation": "宮室在這裏泛指居所、房屋，宮室之美說希望享有華美住宅。受祿者是被批評的取利者，原文未將他限定為皇帝，所以不能只解成皇宮。這個詞與妻妾之奉、他人感激並列，共同交代受祿所求的利益。",
+        "summary": "宮室在這裏泛指居所、房屋，宮室之美說希望享有華美住宅。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "宗廟、祠堂",
+            "explanation": "宗廟祠堂是祭祀建築，原文說的是私人居住享受。"
+          },
+          {
+            "id": "b",
+            "text": "皇宮、朝廷",
+            "explanation": "宮可在別處指皇宮，但此處宮室泛指住宅，不能無據限於帝王。"
+          },
+          {
+            "id": "c",
+            "text": "居所、房屋",
+            "explanation": "宮室在這裏泛指居所、房屋，宮室之美說希望享有華美住宅。"
+          },
+          {
+            "id": "d",
+            "text": "官署、衙門",
+            "explanation": "官署是辦公場所，本段未說為改善行政地方而受取厚祿。"
+          }
+        ],
+        "misconception": "宗廟祠堂是祭祀建築，原文說的是私人居住享受；宮可在別處指皇宮，但此處宮室泛指住宅，不能無據限於帝王；官署是辦公場所，本段未說為改善行政地方而受取厚祿。"
+      },
+      "objective": "按上下文理解，這裏「宮室」應解作甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p00-b05-x000",
+      "ordinal": 69,
+      "baseQuestionHash": "261fe396497e31f7991bef820d7cd1a5eb5fddd077f03084ad2872c3f60c20a0",
+      "patch": {
+        "explanation": "生亦我所欲先承認生命值得珍惜，義亦我所欲再說道義也值得追求。不可得兼才是捨取條件，而舍生取義表明衝突時義更重要。把這三步保留下來，便能修正不重視生命的過度概括，而不抹去文章真正的價值優先次序。",
+        "summary": "生亦我所欲先承認生命值得珍惜，義亦我所欲再說道義也值得追求。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "生命本來可欲，但表明重義便應主動放棄生命",
+            "explanation": "要表明重義不必主動找死，原句先要求兩者確實不能兼得。"
+          },
+          {
+            "id": "b",
+            "text": "生命與道義都可欲，所以衝突時應把兩者並列而不取捨",
+            "explanation": "並列皆欲不代表無法排序，下句已明確取義。"
+          },
+          {
+            "id": "c",
+            "text": "生命與道義都可欲，所以先保生命再另求道義",
+            "explanation": "先保生後另求義可能當下已失義，並非原句在衝突時的選擇。"
+          },
+          {
+            "id": "d",
+            "text": "生命與道義都可欲，不能兼得時仍以道義為先",
+            "explanation": "生亦我所欲先承認生命值得珍惜，義亦我所欲再說道義也值得追求。"
+          }
+        ],
+        "misconception": "要表明重義不必主動找死，原句先要求兩者確實不能兼得；並列皆欲不代表無法排序，下句已明確取義；先保生後另求義可能當下已失義，並非原句在衝突時的選擇。"
+      },
+      "objective": "有人把「舍生取義」概括為「君子不重視生命」。哪項能依原文修正這個說法？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p05-b02-x001",
+      "ordinal": 70,
+      "baseQuestionHash": "cc293761461b0f496fd033fecbb874c83e0556fadcd08b83ae8da46ba7825d35",
+      "patch": {
+        "explanation": "得我說希望受助的窮人感激自己，問題要接回上句不辯禮義而受之：為求這種回報而失義取利。幫人本身未被判錯，善的用途也不會自動使取得手段正當。分析時須把受利手段、助人行為和求感激動機分開，才不會一概否定救濟。",
+        "summary": "得我說希望受助的窮人感激自己，問題要接回上句不辯禮義而受之：為求這種回報而失義取利。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "它批評窮人接受幫助，認為饑餓時仍應拒絕食物",
+            "explanation": "窮人不是此處受祿失義的批評對象，拒食例也未要求一切受助皆拒。"
+          },
+          {
+            "id": "b",
+            "text": "它肯定所有助人行為，認為受祿手段不影響善行",
+            "explanation": "即使所用於助人，取得厚祿時仍須辨禮義，善的用途不能洗去不當手段。"
+          },
+          {
+            "id": "c",
+            "text": "它批評為求感激而失義受祿，未把助人本身判為錯",
+            "explanation": "得我說希望受助的窮人感激自己，問題要接回上句不辯禮義而受之：為求這種回報而失義取利。"
+          },
+          {
+            "id": "d",
+            "text": "它區分熟人與陌生人，認為只可幫助不認識的人",
+            "explanation": "所識只是指出認識的人，原文沒有只可幫陌生人的限制。"
+          }
+        ],
+        "misconception": "窮人不是此處受祿失義的批評對象，拒食例也未要求一切受助皆拒；即使所用於助人，取得厚祿時仍須辨禮義，善的用途不能洗去不當手段；所識只是指出認識的人，原文沒有只可幫陌生人的限制。"
+      },
+      "objective": "有人認為這句否定幫助窮人。結合上文，哪項回應最有根據？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-a-e02-p06-b01-x002",
+      "ordinal": 71,
+      "baseQuestionHash": "132b3e13ee77c1390df248b34b70a3ad7116bc4b8cba3852da1326fe3731cef4",
+      "patch": {
+        "explanation": "前文由求生避患推到有更高道德界線，這句總結重義本心人人皆有，再指出能否保存的差別。接着用路人、乞人拒辱，把普通人有本心具體呈現；後文受祿者失守又回應勿喪。因此既承接原則，也帶出實例與保存本心的考驗。",
+        "summary": "前文由求生避患推到有更高道德界線，這句總結重義本心人人皆有，再指出能否保存的差別。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "總結人人曾經守義，因而推定每人以後都能守義",
+            "explanation": "人皆有本心不等於每次都守住，更不能由曾經守義保證日後不失。"
+          },
+          {
+            "id": "b",
+            "text": "總結本心為人人所有，再以普通人的拒辱作具體印證",
+            "explanation": "前文由求生避患推到有更高道德界線，這句總結重義本心人人皆有，再指出能否保存的差別。"
+          },
+          {
+            "id": "c",
+            "text": "把本心是否存在交由身分決定，再以乞人與賢者作高低比較",
+            "explanation": "非獨、人皆明確否定本心按身分分配，乞人不是用來證明賢者天生更有本心。"
+          },
+          {
+            "id": "d",
+            "text": "先總結本心人人皆有，再以此免除受厚祿者的失義責任",
+            "explanation": "有本心更須保存，後文受祿失守仍受批評，不能把普遍擁有當成免責。"
+          }
+        ],
+        "misconception": "人皆有本心不等於每次都守住，更不能由曾經守義保證日後不失；非獨、人皆明確否定本心按身分分配，乞人不是用來證明賢者天生更有本心；有本心更須保存，後文受祿失守仍受批評，不能把普遍擁有當成免責。"
+      },
+      "objective": "這句放在求生避患的推論之後、路人乞人例子之前，有何銜接作用？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-c-01-04-08-80",
+      "ordinal": 72,
+      "baseQuestionHash": "2ef91581640fcbac45fffbe8e1a55156e3bf22b964805be3bd865d6a1ebcaf48",
+      "patch": {
+        "explanation": "兩文相通處在不能保命又守原則時，寧可承擔生命代價，也不犧牲道德。論語以成仁說成全仁德，孟子以取義說選取道義，表述各有重點。比較不能只看都有犧牲便把死當目的，也不能由取捨相通推成仁義毫無概念差別。",
+        "summary": "兩文相通處在不能保命又守原則時，寧可承擔生命代價，也不犧牲道德。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "都談道德與生命的取捨；前者以保全生命成仁，後者捨生命取義",
+            "explanation": "前者明言殺身成仁，並非以保全生命成仁，生命取捨的方向被倒轉。"
+          },
+          {
+            "id": "b",
+            "text": "都在不能兩全時守道德；前者說成全仁德，後者說選取道義",
+            "explanation": "兩文相通處在不能保命又守原則時，寧可承擔生命代價，也不犧牲道德。"
+          },
+          {
+            "id": "c",
+            "text": "都以犧牲生命為最終目的；前者用仁命名，後者用義命名",
+            "explanation": "所追求的是仁德與道義，死亡只是不能兩全時可能承擔的代價。"
+          },
+          {
+            "id": "d",
+            "text": "都在衝突時守道德；因此仁與義在兩文中可視為毫無分別的同義詞",
+            "explanation": "相同抉擇不等於詞義在每處都一樣，仍應保留仁與義的着眼點。"
+          }
+        ],
+        "misconception": "前者明言殺身成仁，並非以保全生命成仁，生命取捨的方向被倒轉；所追求的是仁德與道義，死亡只是不能兩全時可能承擔的代價；相同抉擇不等於詞義在每處都一樣，仍應保留仁與義的着眼點。"
+      },
+      "objective": "比較「殺身成仁」與《魚我所欲也》的「舍生取義」，哪項兼顧同與異？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-01-23-02-03",
+      "ordinal": 73,
+      "baseQuestionHash": "ee76fdadeaf527f1c951a7398dafd7cf0f1b8a71a5ae33f7b43e381bab101297",
+      "patch": {
+        "explanation": "何加焉是在問萬鍾對我有何增益，於我因此指出評估益處所涉及的人。它不表示厚祿存放的位置、提供者或增加數量的施事者。讀時先抓何加問甚麼，再把於我放回受益關係，就不會將同一介詞的其他義混入。",
+        "summary": "何加焉是在問萬鍾對我有何增益，於我因此指出評估益處所涉及的人。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "在我這裏，指出厚祿所在的位置",
+            "explanation": "在我這裏把受益關係改成所在位置，沒有回應何加所問的好處。"
+          },
+          {
+            "id": "b",
+            "text": "由我給出，指出厚祿的提供者",
+            "explanation": "我在此是評估利益的對象，並非厚祿由我提供。"
+          },
+          {
+            "id": "c",
+            "text": "被我增加，指出厚祿數量的變化",
+            "explanation": "句子没有被我增加數量的動作，何加不是被動句。"
+          },
+          {
+            "id": "d",
+            "text": "對於我，指出評估益處所涉及的人",
+            "explanation": "何加焉是在問萬鍾對我有何增益，於我因此指出評估益處所涉及的人。"
+          }
+        ],
+        "misconception": "在我這裏把受益關係改成所在位置，沒有回應何加所問的好處；我在此是評估利益的對象，並非厚祿由我提供；句子没有被我增加數量的動作，何加不是被動句。"
+      },
+      "objective": "「萬鍾於我何加焉」的「於我」，與哪一解讀相符？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-01-28-01-80",
+      "ordinal": 74,
+      "baseQuestionHash": "8285915c4714eed541d3a16ceb552f05675fc9e57006d225b0250e1d13a5c023",
+      "patch": {
+        "explanation": "題示兩句都說道德與生命不能兩全時仍守道德，這是共同取捨方向；成仁和取義則保留各自所守價值的名稱與着眼點。孟子明言生可欲，論語也只否定求生害仁，故不能說其中一方完全不珍惜生命。共同點和差別須一起有原文支持。",
+        "summary": "題示兩句都說道德與生命不能兩全時仍守道德，這是共同取捨方向；成仁和取義則保留各自所守價值的名稱與着眼點。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "兩者在不能兩全時守道德，分別以成仁與取義表述",
+            "explanation": "題示兩句都說道德與生命不能兩全時仍守道德，這是共同取捨方向；成仁和取義則保留各自所守價值的名稱與着眼點。"
+          },
+          {
+            "id": "b",
+            "text": "兩者都以犧牲生命作目的，仁與義只是同一目的的名稱",
+            "explanation": "兩文目的都在道德持守，不是以犧牲本身為目的。"
+          },
+          {
+            "id": "c",
+            "text": "前者重道德而不承認生命可欲，後者承認生命可欲所以先保命",
+            "explanation": "前者未否定生命可欲，後者更明言舍生取義，不是衝突時先保命。"
+          },
+          {
+            "id": "d",
+            "text": "兩者在衝突時守道德，因此仁與義在所有語境中意思相同",
+            "explanation": "特定價值排序相通，不足以證明仁義在所有語境都同義。"
+          }
+        ],
+        "misconception": "兩文目的都在道德持守，不是以犧牲本身為目的；前者未否定生命可欲，後者更明言舍生取義，不是衝突時先保命；特定價值排序相通，不足以證明仁義在所有語境都同義。"
+      },
+      "objective": "就題示「殺身以成仁」與「舍生而取義」比較，哪項兼顧兩文的共同點和用語差別？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    }
+  ]
+}

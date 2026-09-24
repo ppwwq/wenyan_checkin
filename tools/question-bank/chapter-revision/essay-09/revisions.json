@@ -1,0 +1,5679 @@
+{
+  "baselineVersion": "2026.09.23.14",
+  "date": "2026-09-23",
+  "author": "Codex chapter author",
+  "reviewMethod": "source-review-and-author-self-check",
+  "records": [
+    {
+      "id": "pilot-09-01-01",
+      "ordinal": 1,
+      "baseQuestionHash": "e81eae6c0a77eba69872e82fb0b90dadc848bf5b883ea5b71395003ec085559a",
+      "patch": {
+        "explanation": "謫是貶官，謫守連起來說受貶後出任地方長官。後文卻寫政通人和，顯出滕子京失意仍有政績；不能把有政績倒推成當初升官。",
+        "summary": "謫是貶官，謫守連起來說受貶後出任地方長官。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "升任地方官",
+            "explanation": "升任與謫的貶降相反。"
+          },
+          {
+            "id": "b",
+            "text": "主動辭去官職",
+            "explanation": "謫是受貶，守仍表任官，非主動辭職。"
+          },
+          {
+            "id": "c",
+            "text": "貶官",
+            "explanation": "謫是貶官，謫守連起來說受貶後出任地方長官。"
+          },
+          {
+            "id": "d",
+            "text": "奉命巡視地方",
+            "explanation": "巡視不等於受貶出任地方長官。"
+          }
+        ],
+        "misconception": "升任與謫的貶降相反；謫是受貶，守仍表任官，非主動辭職；巡視不等於受貶出任地方長官。"
+      },
+      "objective": "原句中「謫」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "pilot-09-01-02",
+      "ordinal": 2,
+      "baseQuestionHash": "57efbaf5ac99e537e8cc6a0c7bf0206eca25956322fca3f8358b21cfec08c3a0",
+      "patch": {
+        "explanation": "守在此是任地方長官，以巴陵郡作任職地點。它交代滕子京被貶後的職位，後文治政修樓相承；不能只按守城的現代搭配理解。",
+        "summary": "守在此是任地方長官，以巴陵郡作任職地點。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "守衛城池",
+            "explanation": "任地方長官不限於軍事守城。"
+          },
+          {
+            "id": "b",
+            "text": "留居不走",
+            "explanation": "留居只說住下，漏掉任官職責。"
+          },
+          {
+            "id": "c",
+            "text": "遵守政令",
+            "explanation": "守後接地名而非規章，非遵守命令。"
+          },
+          {
+            "id": "d",
+            "text": "任地方長官",
+            "explanation": "守在此是任地方長官，以巴陵郡作任職地點。"
+          }
+        ],
+        "misconception": "任地方長官不限於軍事守城；留居只說住下，漏掉任官職責；守後接地名而非規章，非遵守命令。"
+      },
+      "objective": "原句中「守」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-01-04",
+      "ordinal": 3,
+      "baseQuestionHash": "f038f4160109095627fa3e7d2a95e4af76ddf2495673d94c0a0a9eacfdb4e1e4",
+      "patch": {
+        "explanation": "具通俱，表示全都，百廢具興即各項荒廢事業都興辦起來。具修飾興的範圍，不是說工具齊備，也不是某一事業的準備階段。",
+        "summary": "具通俱，表示全都，百廢具興即各項荒廢事業都興辦起來。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "逐項準備",
+            "explanation": "具修飾興表範圍，興是已辦起，非尚待準備。"
+          },
+          {
+            "id": "b",
+            "text": "逐漸",
+            "explanation": "全都說涵蓋範圍，逐漸卻說進展速度。"
+          },
+          {
+            "id": "c",
+            "text": "共同籌辦",
+            "explanation": "具在此不說誰一起做，而說荒廢事業全都興辦。"
+          },
+          {
+            "id": "d",
+            "text": "通俱，全都",
+            "explanation": "具通俱，表示全都，百廢具興即各項荒廢事業都興辦起來。"
+          }
+        ],
+        "misconception": "具修飾興表範圍，興是已辦起，非尚待準備；全都說涵蓋範圍，逐漸卻說進展速度；具在此不說誰一起做，而說荒廢事業全都興辦。"
+      },
+      "objective": "原句中「具」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "pilot-09-01-05",
+      "ordinal": 4,
+      "baseQuestionHash": "8224af904ce52378bee582818764aeaa4c6903cd5ff2c896e585d808b7bf8e3f",
+      "patch": {
+        "explanation": "制指規模，增其舊制說擴大岳陽樓原有規模。重修先交代工程，增再說比舊樓擴大，因此應從建築大小理解，不是另訂政治制度。",
+        "summary": "制指規模，增其舊制說擴大岳陽樓原有規模。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "規模",
+            "explanation": "制指規模，增其舊制說擴大岳陽樓原有規模。"
+          },
+          {
+            "id": "b",
+            "text": "制度",
+            "explanation": "制度須有規章語境，這裏談修樓。"
+          },
+          {
+            "id": "c",
+            "text": "製作",
+            "explanation": "製作是動作，舊制則指原有規模。"
+          },
+          {
+            "id": "d",
+            "text": "約束",
+            "explanation": "約束不能作增大建築的對象。"
+          }
+        ],
+        "misconception": "制度須有規章語境，這裏談修樓；製作是動作，舊制則指原有規模；約束不能作增大建築的對象。"
+      },
+      "objective": "原句中「制」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-01-06",
+      "ordinal": 5,
+      "baseQuestionHash": "c9f99224f91412dcfdd74866414356b84d68ac7db82bed1ca9943e7ad5b845b2",
+      "patch": {
+        "explanation": "屬通囑，是囑託，屬予作文即滕子京請作者寫文章。予是受託者，作文是託付的事，須把人與工作接起來，不能讀成文章隸屬某人。",
+        "summary": "屬通囑，是囑託，屬予作文即滕子京請作者寫文章。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "隸屬",
+            "explanation": "隸屬只表歸屬，不交代請人做事。"
+          },
+          {
+            "id": "b",
+            "text": "連綴",
+            "explanation": "連綴是組織文字的行動，這裏先託作者作文。"
+          },
+          {
+            "id": "c",
+            "text": "類別",
+            "explanation": "類別是名詞，不能帶予作文的託付關係。"
+          },
+          {
+            "id": "d",
+            "text": "通囑，囑託",
+            "explanation": "屬通囑，是囑託，屬予作文即滕子京請作者寫文章。"
+          }
+        ],
+        "misconception": "隸屬只表歸屬，不交代請人做事；連綴是組織文字的行動，這裏先託作者作文；類別是名詞，不能帶予作文的託付關係。"
+      },
+      "objective": "原句中「屬」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-02-01",
+      "ordinal": 6,
+      "baseQuestionHash": "ec592731c99865af80f1b6a37e96c2f8cbe814f089e629baad2d4e4c7a4e9cc8",
+      "patch": {
+        "explanation": "勝狀是美好景象，作者隨即用在洞庭一湖指出美景所在。下文遠山、長江和朝夕氣象具體展開它，所以勝說景色美，不是軍事取勝或治理成績。",
+        "summary": "勝狀是美好景象，作者隨即用在洞庭一湖指出美景所在。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "有利的地勢",
+            "explanation": "有利地勢偏重用途，這裏重可觀賞的美景。"
+          },
+          {
+            "id": "b",
+            "text": "得勝的局勢",
+            "explanation": "沒有戰事，勝不是勝負。"
+          },
+          {
+            "id": "c",
+            "text": "超群的政績",
+            "explanation": "政績在首段，這裏已轉到湖景。"
+          },
+          {
+            "id": "d",
+            "text": "美好景象",
+            "explanation": "勝狀是美好景象，作者隨即用在洞庭一湖指出美景所在。"
+          }
+        ],
+        "misconception": "有利地勢偏重用途，這裏重可觀賞的美景；沒有戰事，勝不是勝負；政績在首段，這裏已轉到湖景。"
+      },
+      "objective": "原句中「勝狀」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-02-04",
+      "ordinal": 7,
+      "baseQuestionHash": "3ccfcd7012c6b0d49bc6a763007771d78e456fc6b823f4e57301b1e91c0e6ff7",
+      "patch": {
+        "explanation": "浩浩湯湯寫水勢浩大，與吞長江、橫無際涯相連，構成洞庭湖的恢宏氣象。疊詞加強水勢充盛的感受，並不提供水深或清澈程度的資料。",
+        "summary": "浩浩湯湯寫水勢浩大，與吞長江、橫無際涯相連，構成洞庭湖的恢宏氣象。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "水色清澈",
+            "explanation": "清澈說水質，不等於水勢浩大。"
+          },
+          {
+            "id": "b",
+            "text": "水流曲折",
+            "explanation": "曲折說水路形狀，非此疊詞重點。"
+          },
+          {
+            "id": "c",
+            "text": "水面深不可測",
+            "explanation": "浩大不能直接證明深不可測。"
+          },
+          {
+            "id": "d",
+            "text": "水勢浩大",
+            "explanation": "浩浩湯湯寫水勢浩大，與吞長江、橫無際涯相連，構成洞庭湖的恢宏氣象。"
+          }
+        ],
+        "misconception": "清澈說水質，不等於水勢浩大；曲折說水路形狀，非此疊詞重點；浩大不能直接證明深不可測。"
+      },
+      "objective": "原句中「浩浩湯湯」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-02-06",
+      "ordinal": 8,
+      "baseQuestionHash": "a0143d106620ae35589808d89603111cf688292fb100e2a8fb05994ead36e447",
+      "patch": {
+        "explanation": "暉是日光，朝暉夕陰以光線明暗寫景象變化。朝的語境提示光源是太陽，暉與陰相對；全句又重氣象多變，不必推成每天固定早晴晚陰。",
+        "summary": "暉是日光，朝暉夕陰以光線明暗寫景象變化。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "月光",
+            "explanation": "朝暉指晨光，不是月光。"
+          },
+          {
+            "id": "b",
+            "text": "日光",
+            "explanation": "暉是日光，朝暉夕陰以光線明暗寫景象變化。"
+          },
+          {
+            "id": "c",
+            "text": "陰影",
+            "explanation": "陰影與暉的光亮相反。"
+          },
+          {
+            "id": "d",
+            "text": "雨霧",
+            "explanation": "雨霧可影響明暗，但不是暉的詞義。"
+          }
+        ],
+        "misconception": "朝暉指晨光，不是月光；陰影與暉的光亮相反；雨霧可影響明暗，但不是暉的詞義。"
+      },
+      "objective": "原句中「暉」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-02-09",
+      "ordinal": 9,
+      "baseQuestionHash": "628f74302019d3eeefbe1594c06c1d21dc61ebb8179f1cb0d703efd1faeb8fe6",
+      "patch": {
+        "explanation": "備是詳盡，前人之述備矣說以往對樓湖景觀的敘述已充分。作者由此略寫景物、轉問覽物之情；這是評價敘述完整，不是軍事防備或準備。",
+        "summary": "備是詳盡，前人之述備矣說以往對樓湖景觀的敘述已充分。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "防備",
+            "explanation": "述是文章敘述，不是防禦安排。"
+          },
+          {
+            "id": "b",
+            "text": "準備兵器",
+            "explanation": "文中此處沒有兵器準備。"
+          },
+          {
+            "id": "c",
+            "text": "詳盡",
+            "explanation": "備是詳盡，前人之述備矣說以往對樓湖景觀的敘述已充分。"
+          },
+          {
+            "id": "d",
+            "text": "具備資格",
+            "explanation": "備評價文字完整，不是作者資格。"
+          }
+        ],
+        "misconception": "述是文章敘述，不是防禦安排；文中此處沒有兵器準備；備評價文字完整，不是作者資格。"
+      },
+      "objective": "原句中「備」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-02-10",
+      "ordinal": 10,
+      "baseQuestionHash": "3d3c984ecb3937eda007128f373fadad4dd23f970b3fb7a85eeaa88913eeae69",
+      "patch": {
+        "explanation": "極是到達，南極瀟湘即向南直達瀟水湘水一帶。它與北通巫峽相應，都是交代洞庭交通所及；不能套成此樂何極的窮盡義。",
+        "summary": "極是到達，南極瀟湘即向南直達瀟水湘水一帶。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "窮盡",
+            "explanation": "窮盡適合此樂何極，此處接目的地。"
+          },
+          {
+            "id": "b",
+            "text": "極點",
+            "explanation": "極點是名詞，這裏需要到達的動作。"
+          },
+          {
+            "id": "c",
+            "text": "非常",
+            "explanation": "非常是程度副詞，不能支配瀟湘這個地名。"
+          },
+          {
+            "id": "d",
+            "text": "到達",
+            "explanation": "極是到達，南極瀟湘即向南直達瀟水湘水一帶。"
+          }
+        ],
+        "misconception": "窮盡適合此樂何極，此處接目的地；極點是名詞，這裏需要到達的動作；非常是程度副詞，不能支配瀟湘這個地名。"
+      },
+      "objective": "原句中「極」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-02-11",
+      "ordinal": 11,
+      "baseQuestionHash": "e71cfeb0e6e93da78fbab217f53b5b6782c3a762d372246f57acf913b588ea58",
+      "patch": {
+        "explanation": "遷客指被貶調的官員，遷在此與政治失意相連。後文去國懷鄉、憂讒畏譏具體寫他們的處境與反應，不是所有移居的人或升職到任者。",
+        "summary": "遷客指被貶調的官員，遷在此與政治失意相連。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "被貶調的官員",
+            "explanation": "遷客指被貶調的官員，遷在此與政治失意相連。"
+          },
+          {
+            "id": "b",
+            "text": "因升遷到任的官員",
+            "explanation": "遷有升調用法，但此處遷客是受貶者。"
+          },
+          {
+            "id": "c",
+            "text": "奉命出使的使臣",
+            "explanation": "出使屬外交任務，本文未作這個限定。"
+          },
+          {
+            "id": "d",
+            "text": "辭官歸里的士人",
+            "explanation": "辭官自歸與受貶調任的原因不同。"
+          }
+        ],
+        "misconception": "遷有升調用法，但此處遷客是受貶者；出使屬外交任務，本文未作這個限定；辭官自歸與受貶調任的原因不同。"
+      },
+      "objective": "原句中「遷客」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-02-12",
+      "ordinal": 12,
+      "baseQuestionHash": "c9e86d9f51c293ccdeb124fc6b67f356f82d2f119b060c39cf859b30f4776b8e",
+      "patch": {
+        "explanation": "騷人是詩人文士，和遷客一起作登樓觀景者。名稱與離騷的傳統相關，本文着重失意者的感受；卻不能倒推所有詩人必定受過貶謫。",
+        "summary": "騷人是詩人文士，和遷客一起作登樓觀景者。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "記錄政事的史官",
+            "explanation": "史官是特定官職，騷人不以記政事為界。"
+          },
+          {
+            "id": "b",
+            "text": "詩人",
+            "explanation": "騷人是詩人文士，和遷客一起作登樓觀景者。"
+          },
+          {
+            "id": "c",
+            "text": "往來經商的旅客",
+            "explanation": "經商旅客是商旅，非騷人。"
+          },
+          {
+            "id": "d",
+            "text": "退居鄉里的隱者",
+            "explanation": "隱居是生活選擇，不是詩人的必要條件。"
+          }
+        ],
+        "misconception": "史官是特定官職，騷人不以記政事為界；經商旅客是商旅，非騷人；隱居是生活選擇，不是詩人的必要條件。"
+      },
+      "objective": "原句中「騷人」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-03-01",
+      "ordinal": 13,
+      "baseQuestionHash": "cda05f1be49185889d745acfd17242c4551de36fd33e5d1046a14bf0874d8edb",
+      "patch": {
+        "explanation": "霪雨是連綿久雨，霏霏加寫雨密不斷，連月不開再延長其時間。三層合看，惡劣天氣持續才令壓抑感累積，不是短暫一陣雨。",
+        "summary": "霪雨是連綿久雨，霏霏加寫雨密不斷，連月不開再延長其時間。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "短暫的陣雨",
+            "explanation": "短暫與連月不晴不合。"
+          },
+          {
+            "id": "b",
+            "text": "連綿的雨",
+            "explanation": "霪雨是連綿久雨，霏霏加寫雨密不斷，連月不開再延長其時間。"
+          },
+          {
+            "id": "c",
+            "text": "忽至忽停的雨",
+            "explanation": "霪指持續久雨，非間歇一陣便停。"
+          },
+          {
+            "id": "d",
+            "text": "初起未久的雨",
+            "explanation": "連月不開明示已持續很久。"
+          }
+        ],
+        "misconception": "短暫與連月不晴不合；霪指持續久雨，非間歇一陣便停；連月不開明示已持續很久。"
+      },
+      "objective": "原句中「霪雨」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "pilot-09-03-03",
+      "ordinal": 14,
+      "baseQuestionHash": "f74322590a587462a7fae995fb38d21e6cfeda25c67163928793bc3f001f93fb",
+      "patch": {
+        "explanation": "開是放晴，連月不開說接連數月天色不晴。主體由霪雨的天氣承接，後面日星隱耀也寫光線受蔽；不是門窗開啟或事件開始。",
+        "summary": "開是放晴，連月不開說接連數月天色不晴。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "展開",
+            "explanation": "展開需有物件，此處指天色轉晴。"
+          },
+          {
+            "id": "b",
+            "text": "開闊",
+            "explanation": "開闊說空間，不能解釋連月的陰雨。"
+          },
+          {
+            "id": "c",
+            "text": "開始",
+            "explanation": "開始缺乏所開始之事，原文反說久不放晴。"
+          },
+          {
+            "id": "d",
+            "text": "放晴",
+            "explanation": "開是放晴，連月不開說接連數月天色不晴。"
+          }
+        ],
+        "misconception": "展開需有物件，此處指天色轉晴；開闊說空間，不能解釋連月的陰雨；開始缺乏所開始之事，原文反說久不放晴。"
+      },
+      "objective": "原句中「開」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-03-04",
+      "ordinal": 15,
+      "baseQuestionHash": "70303c61e9161e7483b4f669f4d5690c93514e8468ef972ef8fe64f0a50b6302",
+      "patch": {
+        "explanation": "陰在陰風中是陰冷、寒冷，修飾風的性質。怒號再寫風聲猛烈，兩者共同建立淒厲氣氛；須與朝暉夕陰的陰暗義分辨。",
+        "summary": "陰在陰風中是陰冷、寒冷，修飾風的性質。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "陰影",
+            "explanation": "陰影偏光線，陰風在此重寒冷。"
+          },
+          {
+            "id": "b",
+            "text": "秘密地",
+            "explanation": "秘密地是行事方式，不是風的特點。"
+          },
+          {
+            "id": "c",
+            "text": "陰冷、寒冷",
+            "explanation": "陰在陰風中是陰冷、寒冷，修飾風的性質。"
+          },
+          {
+            "id": "d",
+            "text": "山的北面",
+            "explanation": "山北是方位，不能直接修飾這裏的風。"
+          }
+        ],
+        "misconception": "陰影偏光線，陰風在此重寒冷；秘密地是行事方式，不是風的特點；山北是方位，不能直接修飾這裏的風。"
+      },
+      "objective": "原句中「陰」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-03-06",
+      "ordinal": 16,
+      "baseQuestionHash": "11bced9945d36b257c881bb66ab0874bfff8e5a7b19e1457c36ceccfc01fda26",
+      "patch": {
+        "explanation": "排空是浪濤衝向天空，空指出向上的方向。濁浪作主體，以誇張的高度寫風浪猛烈；不是把空間排乾淨，也不只是浪在湖面平鋪。",
+        "summary": "排空是浪濤衝向天空，空指出向上的方向。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "衝向天空",
+            "explanation": "排空是浪濤衝向天空，空指出向上的方向。"
+          },
+          {
+            "id": "b",
+            "text": "排除阻礙",
+            "explanation": "排除阻礙須有障礙對象，空在此是天空。"
+          },
+          {
+            "id": "c",
+            "text": "鋪滿水面",
+            "explanation": "鋪滿水面漏掉衝向高空的動勢。"
+          },
+          {
+            "id": "d",
+            "text": "排列成行",
+            "explanation": "排列成行只說整齊分布，非猛烈上衝。"
+          }
+        ],
+        "misconception": "排除阻礙須有障礙對象，空在此是天空；鋪滿水面漏掉衝向高空的動勢；排列成行只說整齊分布，非猛烈上衝。"
+      },
+      "objective": "原句中「排空」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-03-09",
+      "ordinal": 17,
+      "baseQuestionHash": "d558c909b6ddd3ffacaa072fcd4567a4bf53cf078f91ae8268097f54b32a558b",
+      "patch": {
+        "explanation": "檣是桅杆，檣傾楫摧把桅杆傾倒與船槳折斷並寫。兩種舟具受損，間接顯出風浪危害；辨義須分清立起的桅杆與用來划水的槳。",
+        "summary": "檣是桅杆，檣傾楫摧把桅杆傾倒與船槳折斷並寫。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "船槳",
+            "explanation": "船槳是楫，兩字不可對調。"
+          },
+          {
+            "id": "b",
+            "text": "桅杆",
+            "explanation": "檣是桅杆，檣傾楫摧把桅杆傾倒與船槳折斷並寫。"
+          },
+          {
+            "id": "c",
+            "text": "船底",
+            "explanation": "船底不是檣，傾寫的是桅杆傾倒。"
+          },
+          {
+            "id": "d",
+            "text": "船上的帆布",
+            "explanation": "桅杆承帆，檣卻不是帆布本身。"
+          }
+        ],
+        "misconception": "船槳是楫，兩字不可對調；船底不是檣，傾寫的是桅杆傾倒；桅杆承帆，檣卻不是帆布本身。"
+      },
+      "objective": "原句中「檣」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "pilot-09-03-10",
+      "ordinal": 18,
+      "baseQuestionHash": "4ee97ddfa7186910d5ea76670b201c0817589d6d56e273672833133ebae1fc2c",
+      "patch": {
+        "explanation": "楫是船槳，摧寫它折斷，與檣傾相應。從舟具損壞推知航行受阻，比只說風大更具體；楫不能因同屬船具便換成帆、舷或桅杆。",
+        "summary": "楫是船槳，摧寫它折斷，與檣傾相應。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "船帆",
+            "explanation": "帆用來受風，楫則用來划水。"
+          },
+          {
+            "id": "b",
+            "text": "船舷",
+            "explanation": "船舷是船側，非划水工具。"
+          },
+          {
+            "id": "c",
+            "text": "桅杆",
+            "explanation": "桅杆是檣，楫是另一件受損舟具。"
+          },
+          {
+            "id": "d",
+            "text": "船槳",
+            "explanation": "楫是船槳，摧寫它折斷，與檣傾相應。"
+          }
+        ],
+        "misconception": "帆用來受風，楫則用來划水；船舷是船側，非划水工具；桅杆是檣，楫是另一件受損舟具。"
+      },
+      "objective": "原句中「楫」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-03-11",
+      "ordinal": 19,
+      "baseQuestionHash": "e9550df4393233c2e21df037a00578077f2da104adb05e4fd208d8d2ae63a385",
+      "patch": {
+        "explanation": "薄是迫近，薄暮即接近傍晚，冥冥再說昏暗。薄在此與時間暮搭配，先讀出時點再看天色；不能把現代厚薄義套進黃昏。",
+        "summary": "薄是迫近，薄暮即接近傍晚，冥冥再說昏暗。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "厚度小",
+            "explanation": "厚度小不能修飾傍晚時間。"
+          },
+          {
+            "id": "b",
+            "text": "輕視",
+            "explanation": "輕視須有人及評價對象，這裏只記時刻。"
+          },
+          {
+            "id": "c",
+            "text": "草木稀少",
+            "explanation": "草木稀疏是薄的其他搭配，原句沒有草木。"
+          },
+          {
+            "id": "d",
+            "text": "迫近",
+            "explanation": "薄是迫近，薄暮即接近傍晚，冥冥再說昏暗。"
+          }
+        ],
+        "misconception": "厚度小不能修飾傍晚時間；輕視須有人及評價對象，這裏只記時刻；草木稀疏是薄的其他搭配，原句沒有草木。"
+      },
+      "objective": "原句中「薄」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-03-13",
+      "ordinal": 20,
+      "baseQuestionHash": "3c1944d20c115b393a00eba579393d13686044e8d281df8cd3e3a1b10b69a150",
+      "patch": {
+        "explanation": "去是離開，去國懷鄉說離開京師而思念故鄉。兩件事同屬失意在外的感受；若套今天去某地的前往義，便會把離京的方向讀反。",
+        "summary": "去是離開，去國懷鄉說離開京師而思念故鄉。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "離開",
+            "explanation": "去是離開，去國懷鄉說離開京師而思念故鄉。"
+          },
+          {
+            "id": "b",
+            "text": "前往",
+            "explanation": "前往國都與受貶離京的方向相反。"
+          },
+          {
+            "id": "c",
+            "text": "留在",
+            "explanation": "留在與去的離開義相反。"
+          },
+          {
+            "id": "d",
+            "text": "返回",
+            "explanation": "返回是歸的方向，原文說尚在外懷鄉。"
+          }
+        ],
+        "misconception": "前往國都與受貶離京的方向相反；留在與去的離開義相反；返回是歸的方向，原文說尚在外懷鄉。"
+      },
+      "objective": "原句中「去」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-03-14",
+      "ordinal": 21,
+      "baseQuestionHash": "089417a9177ca4c1364ecce88e4bbf7129cf1be048d26aed286977146193aa96",
+      "patch": {
+        "explanation": "國在去國中指國都，並非整個國家。遷客離開京師調往外地，仍可能身在本國；懷鄉另說思念家鄉，兩個地方概念不能混為一談。",
+        "summary": "國在去國中指國都，並非整個國家。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "邦國疆域",
+            "explanation": "離國都不等於跨出國境。"
+          },
+          {
+            "id": "b",
+            "text": "故鄉村落",
+            "explanation": "故鄉是鄉所指，不能取代國都。"
+          },
+          {
+            "id": "c",
+            "text": "受封領地",
+            "explanation": "文中沒有受封土地的關係。"
+          },
+          {
+            "id": "d",
+            "text": "國都",
+            "explanation": "國在去國中指國都，並非整個國家。"
+          }
+        ],
+        "misconception": "離國都不等於跨出國境；故鄉是鄉所指，不能取代國都；文中沒有受封土地的關係。"
+      },
+      "objective": "原句中「國」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-03-15",
+      "ordinal": 22,
+      "baseQuestionHash": "330d7354861ba5b98d3d47df1642ccac41110a8247e31111cb35251265c59778",
+      "patch": {
+        "explanation": "讒是誹謗，憂讒畏譏說擔心別人的毀謗與譏諷。這種憂關乎自己的名譽遭遇，與末段憂君民的對象有別；不是害怕聽到一切正直勸告。",
+        "summary": "讒是誹謗，憂讒畏譏說擔心別人的毀謗與譏諷。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "公開褒獎",
+            "explanation": "褒獎與損害名譽的誹謗相反。"
+          },
+          {
+            "id": "b",
+            "text": "善意規勸",
+            "explanation": "規勸可助人改過，不能等同讒言毀謗。"
+          },
+          {
+            "id": "c",
+            "text": "自行申辯",
+            "explanation": "讒是他人對自己的毀謗，非自己作辯護。"
+          },
+          {
+            "id": "d",
+            "text": "誹謗",
+            "explanation": "讒是誹謗，憂讒畏譏說擔心別人的毀謗與譏諷。"
+          }
+        ],
+        "misconception": "褒獎與損害名譽的誹謗相反；規勸可助人改過，不能等同讒言毀謗；讒是他人對自己的毀謗，非自己作辯護。"
+      },
+      "objective": "原句中「讒」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "pilot-09-04-01",
+      "ordinal": 23,
+      "baseQuestionHash": "1bc1564e0af477e4bb304e83cbf3250bd7fdea6a1627ab66ce8d1c65f0d1f95c",
+      "patch": {
+        "explanation": "景是日光，春和景明把氣候和暖與陽光明亮並寫。和修飾春日氣候，明說景的亮度；景色雖也美，但此字不能直接以泛稱風景代替。",
+        "summary": "景是日光，春和景明把氣候和暖與陽光明亮並寫。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "日光",
+            "explanation": "景是日光，春和景明把氣候和暖與陽光明亮並寫。"
+          },
+          {
+            "id": "b",
+            "text": "風景",
+            "explanation": "風景是整體景物，這裏與明搭配特指日光。"
+          },
+          {
+            "id": "c",
+            "text": "影子",
+            "explanation": "影子不是發亮的光源。"
+          },
+          {
+            "id": "d",
+            "text": "景仰",
+            "explanation": "景仰是敬慕，句中沒有被敬慕的人。"
+          }
+        ],
+        "misconception": "風景是整體景物，這裏與明搭配特指日光；影子不是發亮的光源；景仰是敬慕，句中沒有被敬慕的人。"
+      },
+      "objective": "原句中「景」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-04-02",
+      "ordinal": 24,
+      "baseQuestionHash": "73e9e9d0ab8fbb0ae49d9a899cb72fac2a73444e9218afa76936a54d0a075faf",
+      "patch": {
+        "explanation": "驚指水面起伏動盪，波瀾不驚就是湖面平靜。主體是波瀾，不能先把驚當人吃驚；這種平靜與濁浪排空形成陰晴景物的對照。",
+        "summary": "驚指水面起伏動盪，波瀾不驚就是湖面平靜。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "起伏、動盪",
+            "explanation": "驚指水面起伏動盪，波瀾不驚就是湖面平靜。"
+          },
+          {
+            "id": "b",
+            "text": "使人驚懼",
+            "explanation": "使人驚懼改成人的感受，未解水面狀態。"
+          },
+          {
+            "id": "c",
+            "text": "感到吃驚",
+            "explanation": "感到吃驚同樣錯置主體。"
+          },
+          {
+            "id": "d",
+            "text": "突然醒來",
+            "explanation": "突然醒來需睡眠語境，這裏沒有。"
+          }
+        ],
+        "misconception": "使人驚懼改成人的感受，未解水面狀態；感到吃驚同樣錯置主體；突然醒來需睡眠語境，這裏沒有。"
+      },
+      "objective": "原句中「驚」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-04-04",
+      "ordinal": 25,
+      "baseQuestionHash": "10e901c41f86a79dea0204c418c89210c7500b2aa425d99eaa33ce077938db12",
+      "patch": {
+        "explanation": "集在沙鷗翔集中指停棲，與翔的飛翔相對，寫水鳥時飛時停。語譯可提聚集棲息，但這裏要辨與翔相應的動作，不能只寫群聚而漏掉停落。",
+        "summary": "集在沙鷗翔集中指停棲，與翔的飛翔相對，寫水鳥時飛時停。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "結隊飛行",
+            "explanation": "集在與翔相對時重停棲，不是另一種飛法。"
+          },
+          {
+            "id": "b",
+            "text": "迴翔",
+            "explanation": "迴翔仍是飛，不能辨出翔與集。"
+          },
+          {
+            "id": "c",
+            "text": "振翅起飛",
+            "explanation": "起飛與停落不同，集表棲止。"
+          },
+          {
+            "id": "d",
+            "text": "停棲",
+            "explanation": "集在沙鷗翔集中指停棲，與翔的飛翔相對，寫水鳥時飛時停。"
+          }
+        ],
+        "stem": "「沙鷗翔集」中，與「翔」相對的「集」應怎樣理解？",
+        "misconception": "集在與翔相對時重停棲，不是另一種飛法；迴翔仍是飛，不能辨出翔與集；起飛與停落不同，集表棲止。"
+      },
+      "objective": "「沙鷗翔集」中，與「翔」相對的「集」應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "pilot-09-04-07",
+      "ordinal": 26,
+      "baseQuestionHash": "d654c55be13b3eb1ff62744576bb415036ea624fb4f6f790d7a3ffd093df735d",
+      "patch": {
+        "explanation": "汀是水中小洲，岸芷汀蘭以岸邊香草和小洲蘭草並列。先認出兩個生長位置岸、汀，再對應芷、蘭，便不會把汀當作水深或大海。",
+        "summary": "汀是水中小洲，岸芷汀蘭以岸邊香草和小洲蘭草並列。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "山頂平地",
+            "explanation": "山頂不合湖畔水景中的洲渚。"
+          },
+          {
+            "id": "b",
+            "text": "水底深潭",
+            "explanation": "深潭在水下，小洲露出水面可生草。"
+          },
+          {
+            "id": "c",
+            "text": "水中小洲",
+            "explanation": "汀是水中小洲，岸芷汀蘭以岸邊香草和小洲蘭草並列。"
+          },
+          {
+            "id": "d",
+            "text": "廣大海洋",
+            "explanation": "廣大海洋範圍過大，本文說湖中小洲。"
+          }
+        ],
+        "misconception": "山頂不合湖畔水景中的洲渚；深潭在水下，小洲露出水面可生草；廣大海洋範圍過大，本文說湖中小洲。"
+      },
+      "objective": "原句中「汀」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-04-09",
+      "ordinal": 27,
+      "baseQuestionHash": "90a0653d3a5b56da64fced7068848d2ed5b702fa83e025e049eaedfe68861eec",
+      "patch": {
+        "explanation": "或在而或長煙一空中是有時，從春日晴景轉到偶爾煙消月明的場面。它標示景象出現的時間情況，不是推測作者說得不確定；後文或異二者才是或許。",
+        "summary": "或在而或長煙一空中是有時，從春日晴景轉到偶爾煙消月明的場面。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "有時",
+            "explanation": "或在而或長煙一空中是有時，從春日晴景轉到偶爾煙消月明的場面。"
+          },
+          {
+            "id": "b",
+            "text": "或許",
+            "explanation": "或許表推測，此處引出有時發生的景象。"
+          },
+          {
+            "id": "c",
+            "text": "有人",
+            "explanation": "有人須指行動者，煙消沒有未指明的人。"
+          },
+          {
+            "id": "d",
+            "text": "或者二選一",
+            "explanation": "或者二選一要列選擇，這裏沒有。"
+          }
+        ],
+        "misconception": "或許表推測，此處引出有時發生的景象；有人須指行動者，煙消沒有未指明的人；或者二選一要列選擇，這裏沒有。"
+      },
+      "objective": "原句中「或」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-04-12",
+      "ordinal": 28,
+      "baseQuestionHash": "862779c87a3802bfaa8bb28940a7a135975a01910b6b72535760a475eec278b7",
+      "patch": {
+        "explanation": "璧是圓形美玉，用來比平靜水中的月影。圓潤形狀與明潔光澤共同構成比喻，不是湖底真有玉，更不能由沉字斷定湖深。",
+        "summary": "璧是圓形美玉，用來比平靜水中的月影。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "弧形玉佩",
+            "explanation": "璧重圓形，與水中圓月倒影相合。"
+          },
+          {
+            "id": "b",
+            "text": "細碎金粒",
+            "explanation": "前句金比閃光，後句璧則比完整圓潤的月影。"
+          },
+          {
+            "id": "c",
+            "text": "圓形美玉",
+            "explanation": "璧是圓形美玉，用來比平靜水中的月影。"
+          },
+          {
+            "id": "d",
+            "text": "狹長玉片",
+            "explanation": "璧是圓形美玉，非狹長形狀。"
+          }
+        ],
+        "misconception": "璧重圓形，與水中圓月倒影相合；前句金比閃光，後句璧則比完整圓潤的月影；璧是圓形美玉，非狹長形狀。"
+      },
+      "objective": "原句中「璧」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "pilot-09-04-13",
+      "ordinal": 29,
+      "baseQuestionHash": "1b74ba82958866dec7cc307027593a0a23745c26f909841dbe8a508acf471b52",
+      "patch": {
+        "explanation": "極是窮盡，此樂何極反問這種快樂哪有盡頭，實際說其樂無窮。它承接月色漁歌的美好感受，與南極瀟湘表示到達地點不同。",
+        "summary": "極是窮盡，此樂何極反問這種快樂哪有盡頭，實際說其樂無窮。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "到達",
+            "explanation": "到達需有地點，何極這裏問快樂的盡頭。"
+          },
+          {
+            "id": "b",
+            "text": "極高",
+            "explanation": "極高說高度，不是樂的持續或程度無窮。"
+          },
+          {
+            "id": "c",
+            "text": "非常",
+            "explanation": "非常不能直接與何組成哪有盡頭的意思。"
+          },
+          {
+            "id": "d",
+            "text": "窮盡",
+            "explanation": "極是窮盡，此樂何極反問這種快樂哪有盡頭，實際說其樂無窮。"
+          }
+        ],
+        "misconception": "到達需有地點，何極這裏問快樂的盡頭；極高說高度，不是樂的持續或程度無窮；非常不能直接與何組成哪有盡頭的意思。"
+      },
+      "objective": "原句中「極」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-04-15",
+      "ordinal": 30,
+      "baseQuestionHash": "697d6cd88a834339179b1e5c9e2ec96e06b10fbeb921d5beb96039ce448499ba",
+      "patch": {
+        "explanation": "把是持、端起，把酒臨風即端着酒杯迎風。把在此是具體動作而不是處置介詞，後面沒有把某物怎樣處理的另一動詞結構。",
+        "summary": "把是持、端起，把酒臨風即端着酒杯迎風。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "掌管",
+            "explanation": "掌管是管理權力，非舉杯動作。"
+          },
+          {
+            "id": "b",
+            "text": "飲下",
+            "explanation": "飲下是喝酒，把此處先寫持杯。"
+          },
+          {
+            "id": "c",
+            "text": "處置",
+            "explanation": "處置介詞需後續處理動詞，本句把本身表持。"
+          },
+          {
+            "id": "d",
+            "text": "持、端起",
+            "explanation": "把是持、端起，把酒臨風即端着酒杯迎風。"
+          }
+        ],
+        "misconception": "掌管是管理權力，非舉杯動作；飲下是喝酒，把此處先寫持杯；處置介詞需後續處理動詞，本句把本身表持。"
+      },
+      "objective": "原句中「把」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-04-16",
+      "ordinal": 31,
+      "baseQuestionHash": "99142c4b5cbca21266eba44b491a33c124c57c86fe5060cfc57620c5a7554361",
+      "patch": {
+        "explanation": "臨是迎着，臨風說面向清風，與把酒構成舒暢姿態。它不是下一刻將發生的意思，也未在此交代俯看某個低處。",
+        "summary": "臨是迎着，臨風說面向清風，與把酒構成舒暢姿態。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "將要",
+            "explanation": "將要表示時間，風卻是所迎對象。"
+          },
+          {
+            "id": "b",
+            "text": "治理",
+            "explanation": "治理如臨民屬人事，非此處迎風。"
+          },
+          {
+            "id": "c",
+            "text": "迎着",
+            "explanation": "臨是迎着，臨風說面向清風，與把酒構成舒暢姿態。"
+          },
+          {
+            "id": "d",
+            "text": "居高俯視",
+            "explanation": "居高俯視須有下方對象，本句重面迎清風。"
+          }
+        ],
+        "misconception": "將要表示時間，風卻是所迎對象；治理如臨民屬人事，非此處迎風；居高俯視須有下方對象，本句重面迎清風。"
+      },
+      "objective": "原句中「臨」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-05-01",
+      "ordinal": 32,
+      "baseQuestionHash": "a2c07e515876b47f0dbf4204b8f71a0a3d98cbe0ff5b800902b2bfb0aa161d00",
+      "patch": {
+        "explanation": "求是探求，予嘗求古仁人之心說作者曾探究其內心與原則。後文問何哉並分析憂樂，正是探究的內容，不是向古人求取名利或強求回應。",
+        "summary": "求是探求，予嘗求古仁人之心說作者曾探究其內心與原則。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "請求",
+            "explanation": "請求需託對方做事，此處研究其心。"
+          },
+          {
+            "id": "b",
+            "text": "謀取",
+            "explanation": "謀取把仁人之心當可佔有的利益，語境不合。"
+          },
+          {
+            "id": "c",
+            "text": "探求",
+            "explanation": "求是探求，予嘗求古仁人之心說作者曾探究其內心與原則。"
+          },
+          {
+            "id": "d",
+            "text": "苛求",
+            "explanation": "苛求帶過分要求，原文沒有責難古人。"
+          }
+        ],
+        "misconception": "請求需託對方做事，此處研究其心；謀取把仁人之心當可佔有的利益，語境不合；苛求帶過分要求，原文沒有責難古人。"
+      },
+      "objective": "原句中「求」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-05-02",
+      "ordinal": 33,
+      "baseQuestionHash": "6d6d22a6ceb64add54e166f55249bad33120c7006f2d101adfd4b9a838586237",
+      "patch": {
+        "explanation": "或是或許，用委婉推測提出古仁人與前述兩種人的分別。接着何哉引出理由，並非列第三種人；與而或長煙一空的有時義要分清。",
+        "summary": "或是或許，用委婉推測提出古仁人與前述兩種人的分別。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "有時",
+            "explanation": "有時會把原則分別讀成偶發時段，非本句用法。"
+          },
+          {
+            "id": "b",
+            "text": "有人",
+            "explanation": "有人會另立不明人物，但主體仍是古仁人。"
+          },
+          {
+            "id": "c",
+            "text": "或許",
+            "explanation": "或是或許，用委婉推測提出古仁人與前述兩種人的分別。"
+          },
+          {
+            "id": "d",
+            "text": "或者選其一",
+            "explanation": "沒有兩個選項供擇一，非或者。"
+          }
+        ],
+        "misconception": "有時會把原則分別讀成偶發時段，非本句用法；有人會另立不明人物，但主體仍是古仁人；沒有兩個選項供擇一，非或者。"
+      },
+      "objective": "原句中「或」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-05-03",
+      "ordinal": 34,
+      "baseQuestionHash": "c4445fb297ebeac19d1e032a45cc0f6544ef1a555d8627622ed9eab4154975cf",
+      "patch": {
+        "explanation": "為是表現、心態，二者之為承接陰景而悲與晴景而喜。作者要比較如何因景因己而反應，不是在比較兩人的政績，也不是直接命名情緒的原因。",
+        "summary": "為是表現、心態，二者之為承接陰景而悲與晴景而喜。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "治理的方法",
+            "explanation": "方法偏治理措施，前兩段寫的是登樓悲喜。"
+          },
+          {
+            "id": "b",
+            "text": "所做的功業",
+            "explanation": "功業不是二者所指的情緒反應。"
+          },
+          {
+            "id": "c",
+            "text": "形成情緒的原因",
+            "explanation": "原因是景物和遭遇，為則指所呈現的心態。"
+          },
+          {
+            "id": "d",
+            "text": "表現、心態",
+            "explanation": "為是表現、心態，二者之為承接陰景而悲與晴景而喜。"
+          }
+        ],
+        "misconception": "方法偏治理措施，前兩段寫的是登樓悲喜；功業不是二者所指的情緒反應；原因是景物和遭遇，為則指所呈現的心態。"
+      },
+      "objective": "原句中「為」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-05-04",
+      "ordinal": 35,
+      "baseQuestionHash": "8f6f94b454d1a84642a9c96fcae0be24b432a1758475db234a495c42979551c8",
+      "patch": {
+        "explanation": "廟堂在此指朝廷，居廟堂之高說身居朝廷高位。後文以進概括，和遠處江湖的退相對；不是按字面把廟堂解成宗教場所。",
+        "summary": "廟堂在此指朝廷，居廟堂之高說身居朝廷高位。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "宗廟祭堂",
+            "explanation": "宗廟祭堂是字面聯想，本文比較政治進退。"
+          },
+          {
+            "id": "b",
+            "text": "地方官署",
+            "explanation": "地方官署不同於所說朝廷高位。"
+          },
+          {
+            "id": "c",
+            "text": "朝廷",
+            "explanation": "廟堂在此指朝廷，居廟堂之高說身居朝廷高位。"
+          },
+          {
+            "id": "d",
+            "text": "君主寢宮",
+            "explanation": "寢宮是君主生活處所，非官員任職的概括。"
+          }
+        ],
+        "misconception": "宗廟祭堂是字面聯想，本文比較政治進退；地方官署不同於所說朝廷高位；寢宮是君主生活處所，非官員任職的概括。"
+      },
+      "objective": "原句中「廟堂」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "pilot-09-05-06",
+      "ordinal": 36,
+      "baseQuestionHash": "3b67de59dfc928fd29250dea7edf2398d733fdbd4d85f6468c5da6135c2dadf8",
+      "patch": {
+        "explanation": "微是如果沒有，微斯人先提出假設，再以吾誰與歸反問可追隨誰。它表明作者認同古仁人，並不證明現實中一個這樣的人也不存在。",
+        "summary": "微是如果沒有，微斯人先提出假設，再以吾誰與歸反問可追隨誰。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "如果沒有",
+            "explanation": "微是如果沒有，微斯人先提出假設，再以吾誰與歸反問可追隨誰。"
+          },
+          {
+            "id": "b",
+            "text": "即使有",
+            "explanation": "微提出沒有的假設，不是有的讓步。"
+          },
+          {
+            "id": "c",
+            "text": "並非",
+            "explanation": "此處先假設沒有仁人，再問可同道誰，非否認斯人身分。"
+          },
+          {
+            "id": "d",
+            "text": "只有",
+            "explanation": "只有是必要條件限定，微此處直接表示假如沒有。"
+          }
+        ],
+        "misconception": "微提出沒有的假設，不是有的讓步；此處先假設沒有仁人，再問可同道誰，非否認斯人身分；只有是必要條件限定，微此處直接表示假如沒有。"
+      },
+      "objective": "原句中「微」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "pilot-09-05-07",
+      "ordinal": 37,
+      "baseQuestionHash": "169a9749c7c9b4c8f438909e8175da70ff4c4bdf7fecdb7080761cf7af0b9c48",
+      "patch": {
+        "explanation": "歸是歸依、追隨並與之同道，吾誰與歸表達作者的價值選擇。誰是追隨的對象，須聯繫先憂後樂的志向，不是問回家的路或歸還物件。",
+        "summary": "歸是歸依、追隨並與之同道，吾誰與歸表達作者的價值選擇。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "回到原處",
+            "explanation": "回原處是空間行動，不能說明認同仁人之志。"
+          },
+          {
+            "id": "b",
+            "text": "歸還所有",
+            "explanation": "歸還須有交還物件，文中沒有。"
+          },
+          {
+            "id": "c",
+            "text": "歸結為因",
+            "explanation": "歸結為因是分析因果，非尋求同道。"
+          },
+          {
+            "id": "d",
+            "text": "歸依、同道",
+            "explanation": "歸是歸依、追隨並與之同道，吾誰與歸表達作者的價值選擇。"
+          }
+        ],
+        "misconception": "回原處是空間行動，不能說明認同仁人之志；歸還須有交還物件，文中沒有；歸結為因是分析因果，非尋求同道。"
+      },
+      "objective": "原句中「歸」在這裏最準確的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "concept-09-05",
+      "ordinal": 38,
+      "baseQuestionHash": "deeff7bebe0bfbacc67400042f56de92c9bef4184da8d003f120d0d75ac6572a",
+      "patch": {
+        "explanation": "二者可以並存：不受外物和私己得失支配，仍可為君民憂慮。關鍵在憂悲的對象，不在取消所有情緒；古仁人正把關心由自身移向天下。",
+        "summary": "二者可以並存：不受外物和私己得失支配，仍可為君民憂慮。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "能：前者超越外物與私己得失，後者關心君民",
+            "explanation": "二者可以並存：不受外物和私己得失支配，仍可為君民憂慮。"
+          },
+          {
+            "id": "b",
+            "text": "能：兩者都以減少自身煩惱為最終目的，只是方法不同",
+            "explanation": "減少自身煩惱不是憂君民的終極目的。"
+          },
+          {
+            "id": "c",
+            "text": "不能：凡說不悲便不能憂，悲與憂在本文沒有對象差別",
+            "explanation": "悲憂須看對象，不能只憑字面有情緒便判矛盾。"
+          },
+          {
+            "id": "d",
+            "text": "能：古仁人先排盡自己的憂愁，才有餘力考慮君民",
+            "explanation": "文中未設先排盡私人煩惱的時間門檻。"
+          }
+        ],
+        "misconception": "減少自身煩惱不是憂君民的終極目的；悲憂須看對象，不能只憑字面有情緒便判矛盾；文中未設先排盡私人煩惱的時間門檻。"
+      },
+      "objective": "「不以物喜，不以己悲」與「進亦憂，退亦憂」能否並存？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "concept-09-06",
+      "ordinal": 39,
+      "baseQuestionHash": "45f9a3f1cdbb5eed245cfbc27c8ec51a928ab0091083c3712c79113a8bd0b9c3",
+      "patch": {
+        "explanation": "二者指因陰景而悲、因晴景而喜的兩種表現，承接第三四段。它不是任官進退的兩處境，因為進退憂君民在其後才用來說明古仁人的不同。",
+        "summary": "二者指因陰景而悲、因晴景而喜的兩種表現，承接第三四段。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "身在朝廷、退居民間的兩種官員",
+            "explanation": "朝廷江湖屬後文仁人處境，非前文二者。"
+          },
+          {
+            "id": "b",
+            "text": "因陰景而悲、因晴景而喜的兩種表現",
+            "explanation": "二者指因陰景而悲、因晴景而喜的兩種表現，承接第三四段。"
+          },
+          {
+            "id": "c",
+            "text": "范仲淹、滕子京兩位朋友",
+            "explanation": "范滕不是第三四段對寫的兩種觀景表現。"
+          },
+          {
+            "id": "d",
+            "text": "重修岳陽樓、撰寫樓記兩項工作",
+            "explanation": "修樓作文是首段工作，非此處憂樂比較。"
+          }
+        ],
+        "misconception": "朝廷江湖屬後文仁人處境，非前文二者；范滕不是第三四段對寫的兩種觀景表現；修樓作文是首段工作，非此處憂樂比較。"
+      },
+      "objective": "「或異二者之為」的「二者」指甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "concept-09-07",
+      "ordinal": 40,
+      "baseQuestionHash": "28874b2326bd716f9151bd222c5b05fe699bae22aaf008545e1de313df1e54fb",
+      "patch": {
+        "explanation": "水動時月光閃耀如跳動金光，水靜時月影圓明如沉玉。浮光與靜影分別從動態光澤、靜態形狀寫月下湖水；不必把兩句解為同一水面同時既動又靜。",
+        "summary": "水動時月光閃耀如跳動金光，水靜時月影圓明如沉玉。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "兩句都寫圓月完整倒影，前金後璧只更換其顏色",
+            "explanation": "浮光不是完整圓月輪廓，兩句不只換顏色。"
+          },
+          {
+            "id": "b",
+            "text": "前句寫水面的月光，後句改寫天空月輪，視點由下而上",
+            "explanation": "靜影仍在水中，不是轉望天上月輪。"
+          },
+          {
+            "id": "c",
+            "text": "水動月光閃耀如金，水靜月影圓潤如璧",
+            "explanation": "水動時月光閃耀如跳動金光，水靜時月影圓明如沉玉。"
+          },
+          {
+            "id": "d",
+            "text": "前句以跳動見風急浪高，後句以沉璧見湖水深邃",
+            "explanation": "躍不必是風急浪高，沉也不證明水深。"
+          }
+        ],
+        "misconception": "浮光不是完整圓月輪廓，兩句不只換顏色；靜影仍在水中，不是轉望天上月輪；躍不必是風急浪高，沉也不證明水深。"
+      },
+      "objective": "「浮光躍金，靜影沉璧」怎樣配合水面動靜寫月色？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "concept-09-08",
+      "ordinal": 41,
+      "baseQuestionHash": "4ed145b17c80e93ade33f2e1f0430f207d8e7ccc7d9e43bd243e33ebf221f70c",
+      "patch": {
+        "explanation": "此問由總寫湖景轉向看景的人，引出陰悲晴喜兩種情境。覽物之情把重心放在感受，得無異乎反問肯定有別，第三四段便是展開答案。",
+        "summary": "此問由總寫湖景轉向看景的人，引出陰悲晴喜兩種情境。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "由總寫湖景直接提出古仁人之心，三四段作其具體例子",
+            "explanation": "古仁人到末段才提出，不能把遷客兩段當仁人例子。"
+          },
+          {
+            "id": "b",
+            "text": "先提出作者與滕子京的意見分歧，再以陰晴景物調和",
+            "explanation": "未說范滕意見分歧，對象是遷客騷人。"
+          },
+          {
+            "id": "c",
+            "text": "總結不同景物具有相同感染力，三四段重複證明之",
+            "explanation": "反問預示有差異，不是感受相同。"
+          },
+          {
+            "id": "d",
+            "text": "由總寫湖景轉向觀景感受，引出陰悲晴喜兩段",
+            "explanation": "此問由總寫湖景轉向看景的人，引出陰悲晴喜兩種情境。"
+          }
+        ],
+        "misconception": "古仁人到末段才提出，不能把遷客兩段當仁人例子；未說范滕意見分歧，對象是遷客騷人；反問預示有差異，不是感受相同。"
+      },
+      "objective": "「覽物之情，得無異乎」在行文上有何作用？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-appendix-001",
+      "ordinal": 42,
+      "baseQuestionHash": "30fa6485d9ff0ffd80ddeda019c0ff884d86c118e8dcdcda6d16c335a8b5eb58",
+      "patch": {
+        "explanation": "兩句互相補足，是不因外物變化或個人遭遇而或喜或悲。若機械分開，會錯以為可以因物悲、因己喜；全文實際要超越以外境與私己為中心的情緒尺度。",
+        "summary": "兩句互相補足，是不因外物變化或個人遭遇而或喜或悲。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "不因外物高興，但可因外物悲傷；不因自己悲傷，但可因自己高興",
+            "explanation": "只各禁一種情緒，留下因物悲因己喜，漏掉互補意義。"
+          },
+          {
+            "id": "b",
+            "text": "既不關心他人，也不理會自己的任何處境",
+            "explanation": "超越私己不等於不關心他人，憂民憂君正相反。"
+          },
+          {
+            "id": "c",
+            "text": "只有在外物不變且個人順遂時，才保持平靜",
+            "explanation": "仁人不受處境限制，並未要求外物不變、自己順遂。"
+          },
+          {
+            "id": "d",
+            "text": "不因外物變化或個人遭遇而或喜或悲",
+            "explanation": "兩句互相補足，是不因外物變化或個人遭遇而或喜或悲。"
+          }
+        ],
+        "misconception": "只各禁一種情緒，留下因物悲因己喜，漏掉互補意義；超越私己不等於不關心他人，憂民憂君正相反；仁人不受處境限制，並未要求外物不變、自己順遂。"
+      },
+      "objective": "按上下句意思互相補足理解「不以物喜，不以己悲」，哪項語譯最完整？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-b-08-18-01-1",
+      "ordinal": 43,
+      "baseQuestionHash": "9d6da7d142fca4b421aea2e9d0dbd40972149f52c1a0b9ec4e836268e3979a1e",
+      "patch": {
+        "explanation": "柳以山水達物我融通，范以君民憂樂超越個人悲喜，兩篇出路重心不同。比較須各扣一方證據：西山的冥合，以及岳陽的進退皆憂，不可只說都看山水。",
+        "summary": "柳以山水達物我融通，范以君民憂樂超越個人悲喜，兩篇出路重心不同。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "柳以國家百姓為念；范以忘卻物我界限解憂。",
+            "explanation": "把君民與物我融通兩篇的重心互換。"
+          },
+          {
+            "id": "b",
+            "text": "柳借山水取得精神舒展；范在退隱後才轉而憂民。",
+            "explanation": "進退都憂，非退隱後才開始關心百姓。"
+          },
+          {
+            "id": "c",
+            "text": "柳借自然達到物我融通；范以君民憂樂超越己悲。",
+            "explanation": "柳以山水達物我融通，范以君民憂樂超越個人悲喜，兩篇出路重心不同。"
+          },
+          {
+            "id": "d",
+            "text": "柳借醉酒暫時回避愁苦；范以壓下悲喜避免煩擾。",
+            "explanation": "柳有新體悟，范有天下憂樂，均不只壓抑煩惱。"
+          }
+        ],
+        "misconception": "把君民與物我融通兩篇的重心互換；進退都憂，非退隱後才開始關心百姓；柳有新體悟，范有天下憂樂，均不只壓抑煩惱。"
+      },
+      "objective": "比較《西山宴遊記》與《岳陽樓記》，哪項兼顧兩者超越個人得失的不同方式？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-01-03-02",
+      "ordinal": 44,
+      "baseQuestionHash": "d9bae9f7373be51aba4a3a20368f796e09bea73a1ed512420f5fd154eeb3c46f",
+      "patch": {
+        "explanation": "越是到了，越明年把敘事從慶曆四年推至第二年。它標記時間推進，後面才報告治政成果；不是說超過一年若干日或政績越來越好。",
+        "summary": "越是到了，越明年把敘事從慶曆四年推至第二年。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "越過",
+            "explanation": "越過適用跨越障礙，本句表示時間到達。"
+          },
+          {
+            "id": "b",
+            "text": "到了",
+            "explanation": "越是到了，越明年把敘事從慶曆四年推至第二年。"
+          },
+          {
+            "id": "c",
+            "text": "越發",
+            "explanation": "越發需修飾程度，明年是時點。"
+          },
+          {
+            "id": "d",
+            "text": "超過",
+            "explanation": "超過會變成多於一年，非到了翌年。"
+          }
+        ],
+        "misconception": "越過適用跨越障礙，本句表示時間到達；越發需修飾程度，明年是時點；超過會變成多於一年，非到了翌年。"
+      },
+      "objective": "根據題引的上下文，「越」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-02-03-01",
+      "ordinal": 45,
+      "baseQuestionHash": "99632ad9614b6d5f301769a9f2980e9caf5b8cadcaf1d63838260eb65786dd5a",
+      "patch": {
+        "explanation": "銜在銜遠山中是含接，作者用含的動作寫湖與遠山相接。它與吞相配使湖景有力量；實際地理仍是相連，不能當湖真有口含物。",
+        "summary": "銜在銜遠山中是含接，作者用含的動作寫湖與遠山相接。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "含接",
+            "explanation": "銜在銜遠山中是含接，作者用含的動作寫湖與遠山相接。"
+          },
+          {
+            "id": "b",
+            "text": "遮蔽",
+            "explanation": "銜寫含接相連，非把遠山遮住。"
+          },
+          {
+            "id": "c",
+            "text": "越過",
+            "explanation": "原文描湖山相接，非湖越過山。"
+          },
+          {
+            "id": "d",
+            "text": "分隔",
+            "explanation": "含接強調聯繫，分隔則相反。"
+          }
+        ],
+        "misconception": "銜寫含接相連，非把遠山遮住；原文描湖山相接，非湖越過山；含接強調聯繫，分隔則相反。"
+      },
+      "objective": "根據題引的上下文，「銜」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-c-09-02-03-02",
+      "ordinal": 46,
+      "baseQuestionHash": "29fdb21ea7743e18c383d023c3987cbf26e442891757a603a033a8d4158e6609",
+      "patch": {
+        "explanation": "吞是吞納，寫洞庭湖吸納長江巨流的氣勢。與銜遠山並列，兩動詞使景觀有動勢；不是截斷長江，更沒有捕食江中生物的情節。",
+        "summary": "吞是吞納，寫洞庭湖吸納長江巨流的氣勢。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "截斷江流",
+            "explanation": "截斷令流路中止，吞重吸納。"
+          },
+          {
+            "id": "b",
+            "text": "吞納",
+            "explanation": "吞是吞納，寫洞庭湖吸納長江巨流的氣勢。"
+          },
+          {
+            "id": "c",
+            "text": "吞食江中生物",
+            "explanation": "吞食把擬人形象當實際攝食，主體仍是湖。"
+          },
+          {
+            "id": "d",
+            "text": "淹沒江邊土地",
+            "explanation": "淹岸是洪災情景，原句總寫恢宏水勢。"
+          }
+        ],
+        "misconception": "截斷令流路中止，吞重吸納；吞食把擬人形象當實際攝食，主體仍是湖；淹岸是洪災情景，原句總寫恢宏水勢。"
+      },
+      "objective": "根據題引的上下文，「吞」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-02-03-04",
+      "ordinal": 47,
+      "baseQuestionHash": "8f2645f1f26e2855c281045b0ad7433eea16b30abcd65715c73f4c85faaf5dfa",
+      "patch": {
+        "explanation": "際涯是邊際，橫無際涯極寫水面寬廣到看不見邊。橫限定橫向範圍，不能由廣闊直接推論深度或岸高；這是視野感受的誇張描寫。",
+        "summary": "際涯是邊際，橫無際涯極寫水面寬廣到看不見邊。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "水底的深度",
+            "explanation": "深度是上下尺度，橫寫左右延展。"
+          },
+          {
+            "id": "b",
+            "text": "邊際",
+            "explanation": "際涯是邊際，橫無際涯極寫水面寬廣到看不見邊。"
+          },
+          {
+            "id": "c",
+            "text": "湖面的中央",
+            "explanation": "中央是範圍內位置，不是範圍邊界。"
+          },
+          {
+            "id": "d",
+            "text": "湖岸的高度",
+            "explanation": "岸高是垂直尺度，與無邊不合。"
+          }
+        ],
+        "misconception": "深度是上下尺度，橫寫左右延展；中央是範圍內位置，不是範圍邊界；岸高是垂直尺度，與無邊不合。"
+      },
+      "objective": "根據題引的上下文，「際涯」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-02-03-06",
+      "ordinal": 48,
+      "baseQuestionHash": "44c2f96e1f8fac7a63ba8f03aba992b1668479d272df6028ee9924cec4b83487",
+      "patch": {
+        "explanation": "陰在朝暉夕陰中指陰暗，與日光暉形成明暗相應。氣象萬千再總括變化，所以它不同於陰風的寒冷，也不是山北方位或暗中行事。",
+        "summary": "陰在朝暉夕陰中指陰暗，與日光暉形成明暗相應。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "山的北面",
+            "explanation": "山北是方位，原句比較光線。"
+          },
+          {
+            "id": "b",
+            "text": "暗中進行",
+            "explanation": "暗中進行是行動方式，此處只描天色。"
+          },
+          {
+            "id": "c",
+            "text": "陰暗",
+            "explanation": "陰在朝暉夕陰中指陰暗，與日光暉形成明暗相應。"
+          },
+          {
+            "id": "d",
+            "text": "陰冷之風",
+            "explanation": "陰冷風是另一句搭配，這裏重陰暗。"
+          }
+        ],
+        "misconception": "山北是方位，原句比較光線；暗中進行是行動方式，此處只描天色；陰冷風是另一句搭配，這裏重陰暗。"
+      },
+      "objective": "根據題引的上下文，「陰」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-02-03-07",
+      "ordinal": 49,
+      "baseQuestionHash": "027cedc778f0b511e04362cc739101125dc9857d28fb692e372c2d239c5ca8be",
+      "patch": {
+        "explanation": "大觀是雄偉景觀，此則把上文山江水勢、朝夕變化總括為岳陽樓的大觀。觀在此是可觀賞的景象名詞，不是觀看的方法或道教建築。",
+        "summary": "大觀是雄偉景觀，此則把上文山江水勢、朝夕變化總括為岳陽樓的大觀。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "雄偉景觀",
+            "explanation": "大觀是雄偉景觀，此則把上文山江水勢、朝夕變化總括為岳陽樓的大觀。"
+          },
+          {
+            "id": "b",
+            "text": "高處的視線",
+            "explanation": "觀在此是可觀賞的景象，不是看出去的視線。"
+          },
+          {
+            "id": "c",
+            "text": "遊人的觀感",
+            "explanation": "之大觀總括客觀景象，覽物之情稍後另論。"
+          },
+          {
+            "id": "d",
+            "text": "樓宇的規模",
+            "explanation": "樓規模在舊制中說，此處大觀承接湖山景象。"
+          }
+        ],
+        "misconception": "觀在此是可觀賞的景象，不是看出去的視線；之大觀總括客觀景象，覽物之情稍後另論；樓規模在舊制中說，此處大觀承接湖山景象。"
+      },
+      "objective": "根據題引的上下文，「大觀」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-c-09-02-03-12",
+      "ordinal": 50,
+      "baseQuestionHash": "dcf932e3b48723f992a804d1c2794cb871c4d1e0a283c754c370a565529b390c",
+      "patch": {
+        "explanation": "得無在此構成推測反問，得無異乎即難道沒有不同嗎，實際引出感受有差異。第三四段分寫悲喜便回應此問，不能把問號當作者否定差異。",
+        "summary": "得無在此構成推測反問，得無異乎即難道沒有不同嗎，實際引出感受有差異。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "難道不；表推測反問",
+            "explanation": "得無在此構成推測反問，得無異乎即難道沒有不同嗎，實際引出感受有差異。"
+          },
+          {
+            "id": "b",
+            "text": "可以沒有；表可能條件",
+            "explanation": "這裏不是提出可以沒有的條件，而是肯定有別。"
+          },
+          {
+            "id": "c",
+            "text": "確定沒有；表否定判斷",
+            "explanation": "確定沒有與兩段悲喜不同相反。"
+          },
+          {
+            "id": "d",
+            "text": "不要不同；表勸告命令",
+            "explanation": "不是命令他人感受一致，故非勸告。"
+          }
+        ],
+        "misconception": "這裏不是提出可以沒有的條件，而是肯定有別；確定沒有與兩段悲喜不同相反；不是命令他人感受一致，故非勸告。"
+      },
+      "objective": "根據題引的上下文，「得無」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-03-03-01",
+      "ordinal": 51,
+      "baseQuestionHash": "d7d250d0a558a30485c1378f7c15469d262d8257a65e3b4410163f7085fb392e",
+      "patch": {
+        "explanation": "霏霏寫雨密集而連續，受前面的霪雨限定。疊詞也可能形容別種飄落景象，但本句配合連月不開，說的是久雨不晴帶來的壓抑。",
+        "summary": "霏霏寫雨密集而連續，受前面的霪雨限定。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "雨密集不斷貌",
+            "explanation": "霏霏寫雨密集而連續，受前面的霪雨限定。"
+          },
+          {
+            "id": "b",
+            "text": "濃霧連綿之貌",
+            "explanation": "此處主體是雨，不是霧。"
+          },
+          {
+            "id": "c",
+            "text": "細雪紛飛之貌",
+            "explanation": "霏霏可用於雪，但本句已明言霪雨。"
+          },
+          {
+            "id": "d",
+            "text": "浪花密集之貌",
+            "explanation": "浪在後面另寫，不能取代此處雨態。"
+          }
+        ],
+        "misconception": "此處主體是雨，不是霧；霏霏可用於雪，但本句已明言霪雨；浪在後面另寫，不能取代此處雨態。"
+      },
+      "objective": "根據題引的上下文，「霏霏」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-03-03-04",
+      "ordinal": 52,
+      "baseQuestionHash": "b99700df2f900d45309b6af6a94ae819079af0d018ff2edf3f2bffd248570c2e",
+      "patch": {
+        "explanation": "怒號是猛烈呼嘯，陰風作主體，以怒賦予風發怒般的形象。它既寫強烈聲響又添恐怖氣氛，不是有人在高聲斥責或號召群眾。",
+        "summary": "怒號是猛烈呼嘯，陰風作主體，以怒賦予風發怒般的形象。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "怒氣充盈",
+            "explanation": "怒氣充盈只剩情緒，漏掉風的呼嘯聲。"
+          },
+          {
+            "id": "b",
+            "text": "高聲責罵",
+            "explanation": "高聲責罵需有言語內容，風不是實際罵人。"
+          },
+          {
+            "id": "c",
+            "text": "號召呼應",
+            "explanation": "號召是召集行為，本句沒有對象。"
+          },
+          {
+            "id": "d",
+            "text": "猛烈呼嘯",
+            "explanation": "怒號是猛烈呼嘯，陰風作主體，以怒賦予風發怒般的形象。"
+          }
+        ],
+        "misconception": "怒氣充盈只剩情緒，漏掉風的呼嘯聲；高聲責罵需有言語內容，風不是實際罵人；號召是召集行為，本句沒有對象。"
+      },
+      "objective": "根據題引的上下文，「怒號」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-03-03-06",
+      "ordinal": 53,
+      "baseQuestionHash": "7f7b63b038b5ba4a927ac69b5465c3fd3cc818cc45f9b421a48bfc37ca9a9f0f",
+      "patch": {
+        "explanation": "耀是光輝，日星隱耀說太陽星星的光被遮蔽。隱以耀為所隱之物，連着山岳潛形，視覺由明轉暗；不是在談功名榮耀。",
+        "summary": "耀是光輝，日星隱耀說太陽星星的光被遮蔽。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "榮耀名聲",
+            "explanation": "名聲不是日星可隱去的光。"
+          },
+          {
+            "id": "b",
+            "text": "光輝",
+            "explanation": "耀是光輝，日星隱耀說太陽星星的光被遮蔽。"
+          },
+          {
+            "id": "c",
+            "text": "照射動作",
+            "explanation": "照射是動作，耀在此是被遮住的光輝。"
+          },
+          {
+            "id": "d",
+            "text": "炫耀姿態",
+            "explanation": "炫耀須有人表現自己，主體不合。"
+          }
+        ],
+        "misconception": "名聲不是日星可隱去的光；照射是動作，耀在此是被遮住的光輝；炫耀須有人表現自己，主體不合。"
+      },
+      "objective": "根據題引的上下文，「耀」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-03-03-07",
+      "ordinal": 54,
+      "baseQuestionHash": "c7a13f76aece0be8f340d8ac5b03c6e94b5699db9386d5b9eaa60d0b993271dc",
+      "patch": {
+        "explanation": "潛形是隱沒形跡，說山岳在昏暗天候中看不見。與日星隱耀相應，是視覺被遮蔽，不是山真的下沉、移走或改變外形。",
+        "summary": "潛形是隱沒形跡，說山岳在昏暗天候中看不見。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "潛入水中",
+            "explanation": "山沒有跳入水中的行動，只是不可見。"
+          },
+          {
+            "id": "b",
+            "text": "改變外形",
+            "explanation": "形狀改變不是光線遮蔽的意思。"
+          },
+          {
+            "id": "c",
+            "text": "隱沒形跡",
+            "explanation": "潛形是隱沒形跡，說山岳在昏暗天候中看不見。"
+          },
+          {
+            "id": "d",
+            "text": "收起蹤跡逃走",
+            "explanation": "逃走把無生命山岳變成移動者，原句未有。"
+          }
+        ],
+        "misconception": "山沒有跳入水中的行動，只是不可見；形狀改變不是光線遮蔽的意思；逃走把無生命山岳變成移動者，原句未有。"
+      },
+      "objective": "根據題引的上下文，「潛形」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-03-03-11",
+      "ordinal": 55,
+      "baseQuestionHash": "56fbc8e104646fed03c4d0a7f5ac2533bc5b8dc0ede5aca6fc73d6332e97111a",
+      "patch": {
+        "explanation": "冥冥是昏暗，薄暮先交代近晚，再由此詞寫天色沉暗。它與日星隱耀共同渲染陰森環境，虎嘯猿啼再加聲音，不是直接描登樓者迷惘。",
+        "summary": "冥冥是昏暗，薄暮先交代近晚，再由此詞寫天色沉暗。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "昏暗",
+            "explanation": "冥冥是昏暗，薄暮先交代近晚，再由此詞寫天色沉暗。"
+          },
+          {
+            "id": "b",
+            "text": "深遠",
+            "explanation": "深遠偏距離，本句受暮色限定。"
+          },
+          {
+            "id": "c",
+            "text": "幽靜",
+            "explanation": "幽靜只說安靜，而後面獸聲正突出淒厲。"
+          },
+          {
+            "id": "d",
+            "text": "迷惘",
+            "explanation": "迷惘是人物心理，冥冥先形容天色。"
+          }
+        ],
+        "misconception": "深遠偏距離，本句受暮色限定；幽靜只說安靜，而後面獸聲正突出淒厲；迷惘是人物心理，冥冥先形容天色。"
+      },
+      "objective": "根據題引的上下文，「冥冥」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-03-03-15",
+      "ordinal": 56,
+      "baseQuestionHash": "d6225f53a347de9a115528f9e98ca630a2b1664d07fc7ab154a5c8e14863ceb5",
+      "patch": {
+        "explanation": "蕭然是蕭條冷落，滿目蕭然說眼前盡是冷落景象。它承接陰雨昏暗與商旅受阻，進而引發悲感；不能看見然便當成作者安閒自得。",
+        "summary": "蕭然是蕭條冷落，滿目蕭然說眼前盡是冷落景象。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "蕭條冷落",
+            "explanation": "蕭然是蕭條冷落，滿目蕭然說眼前盡是冷落景象。"
+          },
+          {
+            "id": "b",
+            "text": "心情安閒",
+            "explanation": "心情安閒與感極而悲不合。"
+          },
+          {
+            "id": "c",
+            "text": "樹木稀疏",
+            "explanation": "樹木稀疏只是一種局部景態，原句泛寫滿眼冷落。"
+          },
+          {
+            "id": "d",
+            "text": "風聲蕭颯",
+            "explanation": "風聲是聽覺，滿目在此指所見。"
+          }
+        ],
+        "misconception": "心情安閒與感極而悲不合；樹木稀疏只是一種局部景態，原句泛寫滿眼冷落；風聲是聽覺，滿目在此指所見。"
+      },
+      "objective": "根據題引的上下文，「蕭然」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-04-03-02",
+      "ordinal": 57,
+      "baseQuestionHash": "2df40993c046af9633595671323dca97ba88dc53115e5a02741752c045e627bd",
+      "patch": {
+        "explanation": "一在一碧萬頃中表示一片，寫天水相映的大片碧色。萬頃擴展面積，不能把一解成排名第一；與長煙一空的全都要按搭配分辨。",
+        "summary": "一在一碧萬頃中表示一片，寫天水相映的大片碧色。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "一片",
+            "explanation": "一在一碧萬頃中表示一片，寫天水相映的大片碧色。"
+          },
+          {
+            "id": "b",
+            "text": "第一",
+            "explanation": "第一是排名，本文沒有比較名次。"
+          },
+          {
+            "id": "c",
+            "text": "相同",
+            "explanation": "相同說一致性，本句一首先鋪陳一片碧色。"
+          },
+          {
+            "id": "d",
+            "text": "一併",
+            "explanation": "一併常修飾處理動作，這裏是景色範圍。"
+          }
+        ],
+        "misconception": "第一是排名，本文沒有比較名次；相同說一致性，本句一首先鋪陳一片碧色；一併常修飾處理動作，這裏是景色範圍。"
+      },
+      "objective": "「一碧萬頃」的「一」，在這一分句應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-04-03-04",
+      "ordinal": 58,
+      "baseQuestionHash": "25c3077477b0c70f83dcd2eb8bbc530465aa006dea51b3ac1e6be67467e90493",
+      "patch": {
+        "explanation": "錦鱗借美麗魚鱗代美麗的魚，游泳說魚在水中游動。鱗是魚的特徵，作借代使表達凝練；不能把會游泳的主體縮成脫離魚身的鱗片。",
+        "summary": "錦鱗借美麗魚鱗代美麗的魚，游泳說魚在水中游動。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "美麗的魚",
+            "explanation": "錦鱗借美麗魚鱗代美麗的魚，游泳說魚在水中游動。"
+          },
+          {
+            "id": "b",
+            "text": "美麗的魚鱗本身",
+            "explanation": "鱗片本身不會游泳，此處以部分代魚。"
+          },
+          {
+            "id": "c",
+            "text": "繡魚紋的錦緞",
+            "explanation": "錦緞不會游泳，錦在此形容魚的美麗。"
+          },
+          {
+            "id": "d",
+            "text": "魚形的水面倒影",
+            "explanation": "水面倒影不是能游泳的生物主體。"
+          }
+        ],
+        "misconception": "鱗片本身不會游泳，此處以部分代魚；錦緞不會游泳，錦在此形容魚的美麗；水面倒影不是能游泳的生物主體。"
+      },
+      "objective": "根據題引的上下文，「錦鱗」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-04-03-05",
+      "ordinal": 59,
+      "baseQuestionHash": "bc8a8709779ad179e96d09637f2831922cf67e18f36c02ed6201d800eecb9dee",
+      "patch": {
+        "explanation": "芷是香草，岸芷汀蘭把岸邊的芷與洲上的蘭並寫。岸汀是位置、芷蘭是植物，郁郁青青再總寫其芳香繁盛，不能互換地點和植物名。",
+        "summary": "芷是香草，岸芷汀蘭把岸邊的芷與洲上的蘭並寫。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "香草",
+            "explanation": "芷是香草，岸芷汀蘭把岸邊的芷與洲上的蘭並寫。"
+          },
+          {
+            "id": "b",
+            "text": "洲渚",
+            "explanation": "洲渚是汀的意思，非芷。"
+          },
+          {
+            "id": "c",
+            "text": "蘆葦",
+            "explanation": "蘆葦也是水邊植物，但不等於芷這一香草名稱。"
+          },
+          {
+            "id": "d",
+            "text": "蘭花",
+            "explanation": "蘭是與芷並列的另一種草，非同字互訓。"
+          }
+        ],
+        "misconception": "洲渚是汀的意思，非芷；蘆葦也是水邊植物，但不等於芷這一香草名稱；蘭是與芷並列的另一種草，非同字互訓。"
+      },
+      "objective": "根據題引的上下文，「芷」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-04-03-07",
+      "ordinal": 60,
+      "baseQuestionHash": "affcba75cad2437e33009db17b94405250ae8c99655e349d19b9f3f6497d8926",
+      "patch": {
+        "explanation": "郁郁青青寫香草芳香繁盛、青翠茂盛，配合春日生機。本書也說郁郁可重繁盛並含芳香，不必把它限為唯一嗅覺描寫；更不能由鬱字聯想到心情憂鬱。",
+        "summary": "郁郁青青寫香草芳香繁盛、青翠茂盛，配合春日生機。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "色澤深暗",
+            "explanation": "深暗漏掉晴景中草木生機。"
+          },
+          {
+            "id": "b",
+            "text": "枝葉疏落",
+            "explanation": "疏落與郁郁繁盛相反。"
+          },
+          {
+            "id": "c",
+            "text": "心情憂鬱",
+            "explanation": "此處修飾芷蘭，主體不是人的心情。"
+          },
+          {
+            "id": "d",
+            "text": "芳香茂盛",
+            "explanation": "郁郁青青寫香草芳香繁盛、青翠茂盛，配合春日生機。"
+          }
+        ],
+        "misconception": "深暗漏掉晴景中草木生機；疏落與郁郁繁盛相反；此處修飾芷蘭，主體不是人的心情。"
+      },
+      "objective": "根據題引的上下文，「郁郁青青」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-04-03-10",
+      "ordinal": 61,
+      "baseQuestionHash": "bb4b78269d979b4fd1cab4677906fdd00a1c0bc1ecfef7fe5f037242a0a09c27",
+      "patch": {
+        "explanation": "皓月是明亮的月亮，長煙一空先寫煙霧全消，才展開月光照耀千里的清朗畫面。皓說光潔明亮，並未限定初升時刻或月牙形狀。",
+        "summary": "皓月是明亮的月亮，長煙一空先寫煙霧全消，才展開月光照耀千里的清朗畫面。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "明亮的月亮",
+            "explanation": "皓月是明亮的月亮，長煙一空先寫煙霧全消，才展開月光照耀千里的清朗畫面。"
+          },
+          {
+            "id": "b",
+            "text": "月光下的白霧",
+            "explanation": "煙已一空，皓月不是餘下白霧。"
+          },
+          {
+            "id": "c",
+            "text": "水中浮動的月影",
+            "explanation": "水中月影在下句另寫，皓月本身是月亮。"
+          },
+          {
+            "id": "d",
+            "text": "初升時的月牙",
+            "explanation": "皓不表示初升，原文也未說月牙。"
+          }
+        ],
+        "misconception": "煙已一空，皓月不是餘下白霧；水中月影在下句另寫，皓月本身是月亮；皓不表示初升，原文也未說月牙。"
+      },
+      "objective": "根據題引的上下文，「皓月」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-04-03-13",
+      "ordinal": 62,
+      "baseQuestionHash": "df67ec6a1f9d12c442f3065c4510fd590ba10bc6af40a0c3d339a2581c424ada",
+      "patch": {
+        "explanation": "寵辱是榮寵和屈辱，涵蓋受重視與受辱的個人遭遇。皆忘說此時兩端一併放下，不只某一次升貶或一句稱罵；這仍是晴景所引起的欣喜。",
+        "summary": "寵辱是榮寵和屈辱，涵蓋受重視與受辱的個人遭遇。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "朝廷的高位與低位",
+            "explanation": "高低官位只是可能情境，不足概括榮寵屈辱。"
+          },
+          {
+            "id": "b",
+            "text": "他人的稱讚與謾罵",
+            "explanation": "稱讚謾罵只是部分方式，詞義更廣。"
+          },
+          {
+            "id": "c",
+            "text": "榮寵和屈辱",
+            "explanation": "寵辱是榮寵和屈辱，涵蓋受重視與受辱的個人遭遇。"
+          },
+          {
+            "id": "d",
+            "text": "仕途的升任與貶調",
+            "explanation": "升貶可帶寵辱，但二者不完全等同。"
+          }
+        ],
+        "misconception": "高低官位只是可能情境，不足概括榮寵屈辱；稱讚謾罵只是部分方式，詞義更廣；升貶可帶寵辱，但二者不完全等同。"
+      },
+      "objective": "根據題引的上下文，「寵辱」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-05-03-04",
+      "ordinal": 63,
+      "baseQuestionHash": "7c60df1277454afce73e9b6d654b7a48f1ee0eed096d2604e9e0496530ff15d0",
+      "patch": {
+        "explanation": "江湖在此指遠離朝廷之處，與廟堂相對形成政治處境的進退。人即使在外仍憂君，說明關懷不隨職位消失；不是單描江面湖面。",
+        "summary": "江湖在此指遠離朝廷之處，與廟堂相對形成政治處境的進退。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "江河湖泊的水面",
+            "explanation": "水域字面義未說出與朝廷相對的處境。"
+          },
+          {
+            "id": "b",
+            "text": "遊俠活動的社會",
+            "explanation": "遊俠社會是後世常用義，本句論仕途進退。"
+          },
+          {
+            "id": "c",
+            "text": "遠離朝廷之處",
+            "explanation": "江湖在此指遠離朝廷之處，與廟堂相對形成政治處境的進退。"
+          },
+          {
+            "id": "d",
+            "text": "靠水而建的官署",
+            "explanation": "靠水官署是新增建築限定，原文沒有。"
+          }
+        ],
+        "misconception": "水域字面義未說出與朝廷相對的處境；遊俠社會是後世常用義，本句論仕途進退；靠水官署是新增建築限定，原文沒有。"
+      },
+      "objective": "根據題引的上下文，「江湖」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-01-00-90",
+      "ordinal": 64,
+      "baseQuestionHash": "ad994b0827bfc07c7d46c9c5984922ed9420e0660b2ce9d3cd6536f508d4b505",
+      "patch": {
+        "explanation": "先謫守巴陵，再有治政成果，乃引出修樓，最後囑作者作記。乃把前後次序接清：治理有成在先，不能倒說因修樓才政通人和，也不可換掉修樓與作文的主體。",
+        "summary": "先謫守巴陵，再有治政成果，乃引出修樓，最後囑作者作記。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "被貶後先修樓，修樓遂使政通人和，最後邀作者作記",
+            "explanation": "將治政與修樓次序倒轉。"
+          },
+          {
+            "id": "b",
+            "text": "作者受託後提出修樓建議，滕子京據此推行治政",
+            "explanation": "作文之託在修樓後，未由作者倡議治政。"
+          },
+          {
+            "id": "c",
+            "text": "治政有成後委託作者主持修樓，再由作者刻前人作品",
+            "explanation": "作者受託作文，並非主持工程或刻詩。"
+          },
+          {
+            "id": "d",
+            "text": "被貶任巴陵長官，治政有成後重修，並囑作者作記",
+            "explanation": "先謫守巴陵，再有治政成果，乃引出修樓，最後囑作者作記。"
+          }
+        ],
+        "misconception": "將治政與修樓次序倒轉；作文之託在修樓後，未由作者倡議治政；作者受託作文，並非主持工程或刻詩。"
+      },
+      "objective": "首段怎樣交代滕子京重修岳陽樓的緣起？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-02-00-90",
+      "ordinal": 65,
+      "baseQuestionHash": "ef9c86f88eed0a1205fb66a8d9dd6eaa9e0109535217a9024286515b4f154fa1",
+      "patch": {
+        "explanation": "前人已詳述樓景，作者便把重心轉向觀景者不同的悲喜。前人之述備矣收住總景，覽物之情開啟景情比較，最終通向憂樂原則，並非附帶閒談。",
+        "summary": "前人已詳述樓景，作者便把重心轉向觀景者不同的悲喜。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "略過前人已詳述的景物，轉向不同觀景心境",
+            "explanation": "前人已詳述樓景，作者便把重心轉向觀景者不同的悲喜。"
+          },
+          {
+            "id": "b",
+            "text": "將前人的景物描寫當作反例，以證明自己所見才可靠",
+            "explanation": "備是肯定詳盡，沒有否定前人所見。"
+          },
+          {
+            "id": "c",
+            "text": "先把樓景記述完成，再以悲喜作附帶的賞景感想",
+            "explanation": "悲喜正是通向主旨的橋樑，不是無關附感。"
+          },
+          {
+            "id": "d",
+            "text": "說明前人已論憂樂，所以本文只須補寫天候變化",
+            "explanation": "前人之述指景觀，本文仍須發展憂樂議論。"
+          }
+        ],
+        "misconception": "備是肯定詳盡，沒有否定前人所見；悲喜正是通向主旨的橋樑，不是無關附感；前人之述指景觀，本文仍須發展憂樂議論。"
+      },
+      "objective": "第二段說「前人之述備矣」，然後談「覽物之情」，主要用意為何？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-03-00-90",
+      "ordinal": 66,
+      "baseQuestionHash": "d3f55de762e197b064a9aac8161f7641e6ba2473eb94208c1a2e88e44cd9eeac",
+      "patch": {
+        "explanation": "陰暗危急之景牽動遷客對個人遭遇的悲感。去國懷鄉、憂讒畏譏指離京失意與名譽憂懼，雖有商旅受阻的景象，不能因此改判全段只憂人民。",
+        "summary": "陰暗危急之景牽動遷客對個人遭遇的悲感。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "遷客先已有穩定的憂民原則，陰雨只是替其公共關懷作證",
+            "explanation": "本段未到憂民原則，主體是遷客悲感。"
+          },
+          {
+            "id": "b",
+            "text": "因船隻受損而憂商旅，表明本段悲情完全不含私己",
+            "explanation": "怕讒譏明涉自身名譽，不能排除私己。"
+          },
+          {
+            "id": "c",
+            "text": "把遭讒譏的具體往事逐一敘出，景物只是事件發生的日期背景",
+            "explanation": "原文沒有逐件追述受讒往事，重景引情。"
+          },
+          {
+            "id": "d",
+            "text": "陰暗危急之景牽動失意者個人遭遇的悲感",
+            "explanation": "陰暗危急之景牽動遷客對個人遭遇的悲感。"
+          }
+        ],
+        "misconception": "本段未到憂民原則，主體是遷客悲感；怕讒譏明涉自身名譽，不能排除私己；原文沒有逐件追述受讒往事，重景引情。"
+      },
+      "objective": "陰雨段的惡劣景物與「去國懷鄉，憂讒畏譏」有何關係？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-04-00-90",
+      "ordinal": 67,
+      "baseQuestionHash": "996f139c48a58d30ff0189cd4f01757a3c927719e9fb7c54f381fc28edbfbe9a",
+      "patch": {
+        "explanation": "寵辱皆忘說因美景而暫放個人榮辱，呈現心曠神怡。仍是由外物引起的喜，不等於已建立無論進退皆憂天下的穩定原則，須與末段分開。",
+        "summary": "寵辱皆忘說因美景而暫放個人榮辱，呈現心曠神怡。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "因能忘卻寵辱，遷客才開始看見晴景；心境是景色出現的原因",
+            "explanation": "段落先景後情，不能倒為忘榮辱才產生景色。"
+          },
+          {
+            "id": "b",
+            "text": "只要此刻未想到私己榮辱，便足以證明已長久心繫天下",
+            "explanation": "一次暫忘不證明長久心繫天下。"
+          },
+          {
+            "id": "c",
+            "text": "此段的喜來自景物，故不能同時含有個人身世的暫時放下",
+            "explanation": "因景而喜可以同時暫放身世，兩者不矛盾。"
+          },
+          {
+            "id": "d",
+            "text": "因眼前美景而暫忘榮辱，呈現欣喜開朗",
+            "explanation": "寵辱皆忘說因美景而暫放個人榮辱，呈現心曠神怡。"
+          }
+        ],
+        "misconception": "段落先景後情，不能倒為忘榮辱才產生景色；一次暫忘不證明長久心繫天下；因景而喜可以同時暫放身世，兩者不矛盾。"
+      },
+      "objective": "晴景段的「寵辱皆忘」應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-05-00-90",
+      "ordinal": 68,
+      "baseQuestionHash": "a203f2892d6e7fc4c12e1a959279917a552a52b7ef964729c509122738b4c80f",
+      "patch": {
+        "explanation": "末段由隨景而變的個人悲喜，提升到關心君民及先憂後樂的原則。不以物喜先換判準，進退皆憂交代對象，先憂後樂再定次序，三步相接。",
+        "summary": "末段由隨景而變的個人悲喜，提升到關心君民及先憂後樂的原則。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "證明晴景之喜比陰景之悲更接近仁人，勸失意者只看美景",
+            "explanation": "晴喜仍受景左右，非勸人只看美景。"
+          },
+          {
+            "id": "b",
+            "text": "以不同官位說明各人可以只履行在任時的責任",
+            "explanation": "退亦憂排除只在任才負責。"
+          },
+          {
+            "id": "c",
+            "text": "把憂樂先後視為個人修養的儀式，並不改變關懷對象",
+            "explanation": "君民天下明確改變關懷對象，非空儀式。"
+          },
+          {
+            "id": "d",
+            "text": "把因景而變的私己情感，提升為關心君民、先憂後樂的原則",
+            "explanation": "末段由隨景而變的個人悲喜，提升到關心君民及先憂後樂的原則。"
+          }
+        ],
+        "misconception": "晴喜仍受景左右，非勸人只看美景；退亦憂排除只在任才負責；君民天下明確改變關懷對象，非空儀式。"
+      },
+      "objective": "末段如何提升前文對登樓悲喜的討論？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-01-23-02-02",
+      "ordinal": 69,
+      "baseQuestionHash": "879f29f3ab8f19027065a7a52cc891a933991d0c1958cfd1ffe29a4544d6be8d",
+      "patch": {
+        "explanation": "問孝於我是向我請教，會於此是在這裏聚會：前於引對象，後於引地點。要看於前的動詞與於後的內容，不能只因同字便一律譯向或在。",
+        "summary": "問孝於我是向我請教，會於此是在這裏聚會：前於引對象，後於引地點。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲指向我請教；乙指向這裏的人請教",
+            "explanation": "此為地點，會也不是請教。"
+          },
+          {
+            "id": "b",
+            "text": "甲指在我這裏詢問；乙指在這裏會集",
+            "explanation": "問孝的我為請教對象，不是所在場所。"
+          },
+          {
+            "id": "c",
+            "text": "甲指被我詢問；乙指在這裏會集",
+            "explanation": "原文是別人問我，非被我詢問。"
+          },
+          {
+            "id": "d",
+            "text": "甲指向我請教；乙指在這裏會集",
+            "explanation": "問孝於我是向我請教，會於此是在這裏聚會：前於引對象，後於引地點。"
+          }
+        ],
+        "misconception": "此為地點，會也不是請教；問孝的我為請教對象，不是所在場所；原文是別人問我，非被我詢問。"
+      },
+      "objective": "比較甲「問孝於我」與乙「會於此」，兩處「於」的關係何者正確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-01-28-06-80",
+      "ordinal": 70,
+      "baseQuestionHash": "ee4dc1dd9f056acd9319b6c016e447e36d26e4662e6c8b2e8835dfee004d9c05",
+      "patch": {
+        "explanation": "論語不憂重內省無愧而心安，岳陽之憂重君民責任，對象不同而可並存。君子不是退出政事便無憂，仁人也不是只憂自己的仕途。",
+        "summary": "論語不憂重內省無愧而心安，岳陽之憂重君民責任，對象不同而可並存。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "前者是自省無愧的心安，後者是對君民責任的關懷",
+            "explanation": "論語不憂重內省無愧而心安，岳陽之憂重君民責任，對象不同而可並存。"
+          },
+          {
+            "id": "b",
+            "text": "前者是自省無愧的心安，後者是在朝者對自己仕途的憂慮",
+            "explanation": "仁人憂民憂君，非自身仕途。"
+          },
+          {
+            "id": "c",
+            "text": "前者因離開政事而免憂，後者因參與政事而憂君民",
+            "explanation": "內省不疚才是心安理由，非離開政事。"
+          },
+          {
+            "id": "d",
+            "text": "前者重自省，故不再關心他人；後者重君民，故不必自省",
+            "explanation": "自省與公共責任可兼顧，不能各排一端。"
+          }
+        ],
+        "misconception": "仁人憂民憂君，非自身仕途；內省不疚才是心安理由，非離開政事；自省與公共責任可兼顧，不能各排一端。"
+      },
+      "objective": "《論語》「不憂不懼」與《岳陽樓記》「進亦憂，退亦憂」看來相反，兩者所論的憂如何區分？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-00-01-80",
+      "ordinal": 71,
+      "baseQuestionHash": "56be735e42537909bd4af3569cbf70671180befc4fb38d4c30daaabacd68eefb",
+      "patch": {
+        "explanation": "甲不正確，乙不正確。甲：退亦憂表明不在朝仍有責任，不能只在任盡責。乙：晴喜仍由景而變，仁人改變的是關懷對象與原則，不是勸人只看晴景。",
+        "summary": "甲不正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對甲的判斷不合：退亦憂表明不在朝仍有責任，不能只在任盡責。對乙的判斷不合：晴喜仍由景而變，仁人改變的是關懷對象與原則，不是勸人只看晴景。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙不正確",
+            "explanation": "對甲的判斷不合：退亦憂表明不在朝仍有責任，不能只在任盡責。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "對乙的判斷不合：晴喜仍由景而變，仁人改變的是關懷對象與原則，不是勸人只看晴景。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "甲不正確，乙不正確。甲：退亦憂表明不在朝仍有責任，不能只在任盡責。乙：晴喜仍由景而變，仁人改變的是關懷對象與原則，不是勸人只看晴景。"
+          }
+        ],
+        "misconception": "對甲的判斷不合：退亦憂表明不在朝仍有責任，不能只在任盡責。對乙的判斷不合：晴喜仍由景而變，仁人改變的是關懷對象與原則，不是勸人只看晴景；對甲的判斷不合：退亦憂表明不在朝仍有責任，不能只在任盡責；對乙的判斷不合：晴喜仍由景而變，仁人改變的是關懷對象與原則，不是勸人只看晴景。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：末段如何提升前文對登樓悲喜的討論？\n甲：以不同官位說明各人可以只履行在任時的責任\n乙：證明晴景之喜比陰景之悲更接近仁人，勸失意者只看美景",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-00-03-80",
+      "ordinal": 72,
+      "baseQuestionHash": "c20f7207ddcb122876568994819697428457662f6a0eb8fee1cb4c974789ba72",
+      "patch": {
+        "explanation": "次序是修樓緣起、洞庭大觀、陰悲、晴喜，最後古仁人憂樂。行文由事入景、由景入情、由情入理，次序服務主旨，不只是五個標題的背誦。",
+        "summary": "次序是修樓緣起、洞庭大觀、陰悲、晴喜，最後古仁人憂樂。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "洞庭大觀→古仁人憂樂→修樓緣起→陰景而悲→晴景而喜",
+            "explanation": "古仁人不在修樓前提出，首段先記緣起。"
+          },
+          {
+            "id": "b",
+            "text": "修樓緣起→洞庭大觀→陰景而悲→晴景而喜→古仁人憂樂",
+            "explanation": "次序是修樓緣起、洞庭大觀、陰悲、晴喜，最後古仁人憂樂。"
+          },
+          {
+            "id": "c",
+            "text": "修樓緣起→晴景而喜→陰景而悲→古仁人憂樂→洞庭大觀",
+            "explanation": "陰悲先於晴喜，洞庭總景也不在最後。"
+          },
+          {
+            "id": "d",
+            "text": "古仁人憂樂→洞庭大觀→陰景而悲→修樓緣起→晴景而喜",
+            "explanation": "古仁人之理在末段，不是篇首。"
+          }
+        ],
+        "misconception": "古仁人不在修樓前提出，首段先記緣起；陰悲先於晴喜，洞庭總景也不在最後；古仁人之理在末段，不是篇首。"
+      },
+      "objective": "哪項依文章次序排列主要內容？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-00-05-80",
+      "ordinal": 73,
+      "baseQuestionHash": "52243275edbe057deb630556403725ef82d5d1bea95173c61eb4586ad48a20b7",
+      "patch": {
+        "explanation": "甲正確，乙正確。甲：不以物己悲喜是超越私己，進退憂君民是公共關懷，對象不同。乙：有公共憂慮不違反不被個人得失左右，兩句能合為同一處世原則。",
+        "summary": "甲正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙不正確",
+            "explanation": "對乙的判斷不合：有公共憂慮不違反不被個人得失左右，兩句能合為同一處世原則。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：不以物己悲喜是超越私己，進退憂君民是公共關懷，對象不同。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙正確",
+            "explanation": "甲正確，乙正確。甲：不以物己悲喜是超越私己，進退憂君民是公共關懷，對象不同。乙：有公共憂慮不違反不被個人得失左右，兩句能合為同一處世原則。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：不以物己悲喜是超越私己，進退憂君民是公共關懷，對象不同。對乙的判斷不合：有公共憂慮不違反不被個人得失左右，兩句能合為同一處世原則。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：有公共憂慮不違反不被個人得失左右，兩句能合為同一處世原則；對甲的判斷不合：不以物己悲喜是超越私己，進退憂君民是公共關懷，對象不同；對甲的判斷不合：不以物己悲喜是超越私己，進退憂君民是公共關懷，對象不同。對乙的判斷不合：有公共憂慮不違反不被個人得失左右，兩句能合為同一處世原則。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「不以物喜，不以己悲」與「進亦憂，退亦憂」能否並存？\n甲：能：前者超越外物與私己得失，後者關心君民\n乙：不因個人得失動搖，並不表示沒有憂慮；古仁人的憂有公共對象，所以進退都能保持。",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-00-07-80",
+      "ordinal": 74,
+      "baseQuestionHash": "9c52e841f07aaea5cdec9abb96976a30498929bd7833e37eecd7a3562bb60d2c",
+      "patch": {
+        "explanation": "文章借記樓、景情對照寄託政治理想，並勉勵友人。首段交代受託緣起，寫景後詳論仁人憂樂，顯示記的題材能承載議論，不限於建築說明。",
+        "summary": "文章借記樓、景情對照寄託政治理想，並勉勵友人。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "借重修表揚地方政績，末段只用以證明滕子京從不受榮辱影響",
+            "explanation": "願以仁人勉友，不等於證明友人從來不受影響。"
+          },
+          {
+            "id": "b",
+            "text": "借湖景比較遊覽條件，以找出最適合遷客排愁的季節",
+            "explanation": "本文改變憂樂判準，不是找最佳旅遊季節。"
+          },
+          {
+            "id": "c",
+            "text": "借眾多前人詩賦作引證，逐一評定各位詩人的道德境界",
+            "explanation": "只提刻詩，並未逐篇評文人道德。"
+          },
+          {
+            "id": "d",
+            "text": "借記樓、寫景和悲喜比較，寄託政治理想並勉勵友人",
+            "explanation": "文章借記樓、景情對照寄託政治理想，並勉勵友人。"
+          }
+        ],
+        "misconception": "願以仁人勉友，不等於證明友人從來不受影響；本文改變憂樂判準，不是找最佳旅遊季節；只提刻詩，並未逐篇評文人道德。"
+      },
+      "objective": "《岳陽樓記》以「記」為文體，其內容重心為何？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-01-04-80",
+      "ordinal": 75,
+      "baseQuestionHash": "a9dbec7caaf5cc1fb90c3e515eecc887f77887f9bbc606c71be44f78e4a879f3",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：謫守之後政通人和，再由乃引出重修及屬予作文。乙：政通人和寫在修樓之前，不能倒因為修樓才治理有成。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：謫守之後政通人和，再由乃引出重修及屬予作文。乙：政通人和寫在修樓之前，不能倒因為修樓才治理有成。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：政通人和寫在修樓之前，不能倒因為修樓才治理有成。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：謫守之後政通人和，再由乃引出重修及屬予作文。對乙的判斷不合：政通人和寫在修樓之前，不能倒因為修樓才治理有成。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：謫守之後政通人和，再由乃引出重修及屬予作文。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：政通人和寫在修樓之前，不能倒因為修樓才治理有成；對甲的判斷不合：謫守之後政通人和，再由乃引出重修及屬予作文。對乙的判斷不合：政通人和寫在修樓之前，不能倒因為修樓才治理有成；對甲的判斷不合：謫守之後政通人和，再由乃引出重修及屬予作文。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：首段怎樣交代滕子京重修岳陽樓的緣起？\n甲：被貶任巴陵長官，治政有成後重修，並囑作者作記\n乙：被貶後先修樓，修樓遂使政通人和，最後邀作者作記",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-02-04-80",
+      "ordinal": 76,
+      "baseQuestionHash": "062450be9981fec33a1c170190d35b8023afd1314206bc1d50aca15eb4efc9a9",
+      "patch": {
+        "explanation": "甲正確，乙正確。甲：前人詳述景物，作者轉問覽物之情，改變論述重心。乙：景情比較最終連到仁人憂樂，因此略總景可為主要議論留出篇幅。",
+        "summary": "甲正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙不正確",
+            "explanation": "對乙的判斷不合：景情比較最終連到仁人憂樂，因此略總景可為主要議論留出篇幅。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：前人詳述景物，作者轉問覽物之情，改變論述重心。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：前人詳述景物，作者轉問覽物之情，改變論述重心。對乙的判斷不合：景情比較最終連到仁人憂樂，因此略總景可為主要議論留出篇幅。"
+          },
+          {
+            "id": "d",
+            "text": "甲正確，乙正確",
+            "explanation": "甲正確，乙正確。甲：前人詳述景物，作者轉問覽物之情，改變論述重心。乙：景情比較最終連到仁人憂樂，因此略總景可為主要議論留出篇幅。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：景情比較最終連到仁人憂樂，因此略總景可為主要議論留出篇幅；對甲的判斷不合：前人詳述景物，作者轉問覽物之情，改變論述重心；對甲的判斷不合：前人詳述景物，作者轉問覽物之情，改變論述重心。對乙的判斷不合：景情比較最終連到仁人憂樂，因此略總景可為主要議論留出篇幅。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：第二段說「前人之述備矣」，然後談「覽物之情」，主要用意為何？\n甲：略過前人已詳述的景物，轉向不同觀景心境\n乙：作者以既有題詠為由收住景物詳述，為本文轉談觀景者的悲喜與更高的憂樂觀騰出篇幅。",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-03-04-80",
+      "ordinal": 77,
+      "baseQuestionHash": "d4602993d02dc80ca163bc55f20a23656280df2e3081c71a53465709d54921d6",
+      "patch": {
+        "explanation": "甲不正確，乙不正確。甲：去國憂讒明涉個人遭遇，不能從商旅受阻推成悲情完全無私己。乙：此段仍寫遷客，古仁人的穩定憂民原則在末段才另行提出。",
+        "summary": "甲不正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對甲的判斷不合：去國憂讒明涉個人遭遇，不能從商旅受阻推成悲情完全無私己。對乙的判斷不合：此段仍寫遷客，古仁人的穩定憂民原則在末段才另行提出。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙不正確",
+            "explanation": "對甲的判斷不合：去國憂讒明涉個人遭遇，不能從商旅受阻推成悲情完全無私己。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙不正確",
+            "explanation": "甲不正確，乙不正確。甲：去國憂讒明涉個人遭遇，不能從商旅受阻推成悲情完全無私己。乙：此段仍寫遷客，古仁人的穩定憂民原則在末段才另行提出。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙正確",
+            "explanation": "對乙的判斷不合：此段仍寫遷客，古仁人的穩定憂民原則在末段才另行提出。"
+          }
+        ],
+        "misconception": "對甲的判斷不合：去國憂讒明涉個人遭遇，不能從商旅受阻推成悲情完全無私己。對乙的判斷不合：此段仍寫遷客，古仁人的穩定憂民原則在末段才另行提出；對甲的判斷不合：去國憂讒明涉個人遭遇，不能從商旅受阻推成悲情完全無私己；對乙的判斷不合：此段仍寫遷客，古仁人的穩定憂民原則在末段才另行提出。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：陰雨段的惡劣景物與「去國懷鄉，憂讒畏譏」有何關係？\n甲：因船隻受損而憂商旅，表明本段悲情完全不含私己\n乙：遷客先已有穩定的憂民原則，陰雨只是替其公共關懷作證",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-04-04-80",
+      "ordinal": 78,
+      "baseQuestionHash": "d1342980608c4b42b5d18feaaa99621bfeec467e25ce872a93727270ed306fb8",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：浮光配水動的閃耀，靜影配水靜的圓明，金璧各有形象。乙：前者非完整月輪，後者也非只換顏色，動靜狀態有別。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：浮光配水動的閃耀，靜影配水靜的圓明，金璧各有形象。乙：前者非完整月輪，後者也非只換顏色，動靜狀態有別。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：前者非完整月輪，後者也非只換顏色，動靜狀態有別。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：浮光配水動的閃耀，靜影配水靜的圓明，金璧各有形象。對乙的判斷不合：前者非完整月輪，後者也非只換顏色，動靜狀態有別。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：浮光配水動的閃耀，靜影配水靜的圓明，金璧各有形象。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：前者非完整月輪，後者也非只換顏色，動靜狀態有別；對甲的判斷不合：浮光配水動的閃耀，靜影配水靜的圓明，金璧各有形象。對乙的判斷不合：前者非完整月輪，後者也非只換顏色，動靜狀態有別；對甲的判斷不合：浮光配水動的閃耀，靜影配水靜的圓明，金璧各有形象。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「浮光躍金，靜影沉璧」怎樣配合水面動靜寫月色？\n甲：水動月光閃耀如金，水靜月影圓潤如璧\n乙：兩句都寫圓月完整倒影，前金後璧只更換其顏色",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-05-04-80",
+      "ordinal": 79,
+      "baseQuestionHash": "381f895db8901181b1feb54b74be2526ba4ef0ab6132d4a74336e210ddfe8ff8",
+      "patch": {
+        "explanation": "先憂是預先為天下憂患籌謀，後樂是待天下安樂才樂。先後都以天下為中心，不能縮成自己較早傷心，也不是個人受苦後換取榮寵的程序。",
+        "summary": "先憂是預先為天下憂患籌謀，後樂是待天下安樂才樂。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "預先為天下憂患籌謀，待天下安樂後才以之為樂",
+            "explanation": "先憂是預先為天下憂患籌謀，後樂是待天下安樂才樂。"
+          },
+          {
+            "id": "b",
+            "text": "只要自己比別人較早感到憂傷，無須進一步替天下籌謀",
+            "explanation": "只比較悲傷時間漏掉為天下承擔。"
+          },
+          {
+            "id": "c",
+            "text": "先承受個人貶謫之苦，才有資格享受朝廷賜予的榮譽",
+            "explanation": "原文不以個人貶苦換榮譽為資格。"
+          },
+          {
+            "id": "d",
+            "text": "等天下已出現危難才開始擔心，以免預先憂慮過度",
+            "explanation": "等待危難才憂，與預先憂患的先相反。"
+          }
+        ],
+        "misconception": "只比較悲傷時間漏掉為天下承擔；原文不以個人貶苦換榮譽為資格；等待危難才憂，與預先憂患的先相反。"
+      },
+      "objective": "「先天下之憂而憂，後天下之樂而樂」的先後，應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-06-00-80",
+      "ordinal": 80,
+      "baseQuestionHash": "72d01d7b2ccc6bbc4c40e38ee213cf0b0fef004d5082e1fd93e715a11fc8f35c",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：記樓引景、景引悲喜、悲喜引仁人之理，落於志向與勉友。乙：勉友是提出期許，不能當成證明滕子京從不受榮辱影響。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：勉友是提出期許，不能當成證明滕子京從不受榮辱影響。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：記樓引景、景引悲喜、悲喜引仁人之理，落於志向與勉友。對乙的判斷不合：勉友是提出期許，不能當成證明滕子京從不受榮辱影響。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：記樓引景、景引悲喜、悲喜引仁人之理，落於志向與勉友。乙：勉友是提出期許，不能當成證明滕子京從不受榮辱影響。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：記樓引景、景引悲喜、悲喜引仁人之理，落於志向與勉友。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：勉友是提出期許，不能當成證明滕子京從不受榮辱影響；對甲的判斷不合：記樓引景、景引悲喜、悲喜引仁人之理，落於志向與勉友。對乙的判斷不合：勉友是提出期許，不能當成證明滕子京從不受榮辱影響；對甲的判斷不合：記樓引景、景引悲喜、悲喜引仁人之理，落於志向與勉友。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：《岳陽樓記》以「記」為文體，其內容重心為何？\n甲：借記樓、寫景和悲喜比較，寄託政治理想並勉勵友人\n乙：借重修表揚地方政績，末段只用以證明滕子京從不受榮辱影響",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-06-01-80",
+      "ordinal": 81,
+      "baseQuestionHash": "ddc79833bd43a64b07499fb9e810b2f9882bc31ab0ef9cb1cce0ea75ea568cb8",
+      "patch": {
+        "explanation": "吾誰與歸以反問表明追隨古仁人的胸懷，兼有自勉與勉友意味。它是理想的認同，不是證明作者已在每種情況完全實踐，更非無同道便放棄。",
+        "summary": "吾誰與歸以反問表明追隨古仁人的胸懷，兼有自勉與勉友意味。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "把追隨的對象收窄為滕子京一人，表示古仁人只作其別稱",
+            "explanation": "斯人回指古仁人，不只滕一人。"
+          },
+          {
+            "id": "b",
+            "text": "以沒有同道為理由，說明公共理想已不值得實踐",
+            "explanation": "反問強化追隨意願，並非取消理想。"
+          },
+          {
+            "id": "c",
+            "text": "表明願與古仁人同道，兼有自勉和勉友之意",
+            "explanation": "吾誰與歸以反問表明追隨古仁人的胸懷，兼有自勉與勉友意味。"
+          },
+          {
+            "id": "d",
+            "text": "既已說願追隨，便證明作者在任何情況下都已做到先憂後樂",
+            "explanation": "表明志向不等於已全面實現。"
+          }
+        ],
+        "misconception": "斯人回指古仁人，不只滕一人；反問強化追隨意願，並非取消理想；表明志向不等於已全面實現。"
+      },
+      "objective": "「微斯人，吾誰與歸」把議論收回作者自身，有何用意？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-07-00-01",
+      "ordinal": 82,
+      "baseQuestionHash": "dfdda6fe43f5060150b24bb51976a793836f8eff9a92abce04ddc75255d5df1e",
+      "patch": {
+        "explanation": "甲不正確，乙正確。甲：文中先治政修樓才託文，沒有作者倡議修樓再治政的情節。乙：謫守、政通人和、乃重修、屬予依次相接，主體關係也正確。",
+        "summary": "甲不正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對甲的判斷不合：文中先治政修樓才託文，沒有作者倡議修樓再治政的情節。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "甲不正確，乙正確。甲：文中先治政修樓才託文，沒有作者倡議修樓再治政的情節。乙：謫守、政通人和、乃重修、屬予依次相接，主體關係也正確。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙不正確",
+            "explanation": "對甲的判斷不合：文中先治政修樓才託文，沒有作者倡議修樓再治政的情節。對乙的判斷不合：謫守、政通人和、乃重修、屬予依次相接，主體關係也正確。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對乙的判斷不合：謫守、政通人和、乃重修、屬予依次相接，主體關係也正確。"
+          }
+        ],
+        "misconception": "對甲的判斷不合：文中先治政修樓才託文，沒有作者倡議修樓再治政的情節；對甲的判斷不合：文中先治政修樓才託文，沒有作者倡議修樓再治政的情節。對乙的判斷不合：謫守、政通人和、乃重修、屬予依次相接，主體關係也正確；對乙的判斷不合：謫守、政通人和、乃重修、屬予依次相接，主體關係也正確。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：首段怎樣交代滕子京重修岳陽樓的緣起？\n甲：作者受託後提出修樓建議，滕子京據此推行治政\n乙：被貶任巴陵長官，治政有成後重修，並囑作者作記",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-07-00-02",
+      "ordinal": 83,
+      "baseQuestionHash": "0a8c0ac6a3d939e708b7d42115468ec00fa2c0fa4f6039901bd38964f3bc5534",
+      "patch": {
+        "explanation": "甲不正確，乙正確。甲：悲喜比較是通向主旨的核心橋樑，不只是記景完後的附帶感想。乙：述備收住樓景詳寫，覽物之情把重心轉向人心。",
+        "summary": "甲不正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對甲的判斷不合：悲喜比較是通向主旨的核心橋樑，不只是記景完後的附帶感想。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "甲不正確，乙正確。甲：悲喜比較是通向主旨的核心橋樑，不只是記景完後的附帶感想。乙：述備收住樓景詳寫，覽物之情把重心轉向人心。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙不正確",
+            "explanation": "對甲的判斷不合：悲喜比較是通向主旨的核心橋樑，不只是記景完後的附帶感想。對乙的判斷不合：述備收住樓景詳寫，覽物之情把重心轉向人心。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對乙的判斷不合：述備收住樓景詳寫，覽物之情把重心轉向人心。"
+          }
+        ],
+        "misconception": "對甲的判斷不合：悲喜比較是通向主旨的核心橋樑，不只是記景完後的附帶感想；對甲的判斷不合：悲喜比較是通向主旨的核心橋樑，不只是記景完後的附帶感想。對乙的判斷不合：述備收住樓景詳寫，覽物之情把重心轉向人心；對乙的判斷不合：述備收住樓景詳寫，覽物之情把重心轉向人心。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：第二段說「前人之述備矣」，然後談「覽物之情」，主要用意為何？\n甲：先把樓景記述完成，再以悲喜作附帶的賞景感想\n乙：略過前人已詳述的景物，轉向不同觀景心境",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-07-00-03",
+      "ordinal": 84,
+      "baseQuestionHash": "57d1c282e01e9c8479bb64ff9e820f3eecda4613862d7bb526d850ed71ac00f8",
+      "patch": {
+        "explanation": "甲不正確，乙正確。甲：船損寫環境危害，去國憂讒另明悲感包含自身遭遇。乙：陰景觸動離京懷鄉及名譽憂懼，形成具體景情關係。",
+        "summary": "甲不正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對甲的判斷不合：船損寫環境危害，去國憂讒另明悲感包含自身遭遇。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙不正確",
+            "explanation": "對甲的判斷不合：船損寫環境危害，去國憂讒另明悲感包含自身遭遇。對乙的判斷不合：陰景觸動離京懷鄉及名譽憂懼，形成具體景情關係。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "甲不正確，乙正確。甲：船損寫環境危害，去國憂讒另明悲感包含自身遭遇。乙：陰景觸動離京懷鄉及名譽憂懼，形成具體景情關係。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對乙的判斷不合：陰景觸動離京懷鄉及名譽憂懼，形成具體景情關係。"
+          }
+        ],
+        "misconception": "對甲的判斷不合：船損寫環境危害，去國憂讒另明悲感包含自身遭遇；對甲的判斷不合：船損寫環境危害，去國憂讒另明悲感包含自身遭遇。對乙的判斷不合：陰景觸動離京懷鄉及名譽憂懼，形成具體景情關係；對乙的判斷不合：陰景觸動離京懷鄉及名譽憂懼，形成具體景情關係。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：陰雨段的惡劣景物與「去國懷鄉，憂讒畏譏」有何關係？\n甲：因船隻受損而憂商旅，表明本段悲情完全不含私己\n乙：陰暗危急之景牽動失意者個人遭遇的悲感",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-07-00-04",
+      "ordinal": 85,
+      "baseQuestionHash": "bb1bc97de6603010614b945fe95593c9fa4e2adef7d590ab33bff0f8db1453a2",
+      "patch": {
+        "explanation": "甲不正確，乙不正確。甲：此刻忘寵辱是因景而喜，不能證明長久以天下為念。乙：晴景引出心曠神怡，並非人的忘榮辱使天氣變晴。",
+        "summary": "甲不正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對甲的判斷不合：此刻忘寵辱是因景而喜，不能證明長久以天下為念。對乙的判斷不合：晴景引出心曠神怡，並非人的忘榮辱使天氣變晴。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙不正確",
+            "explanation": "甲不正確，乙不正確。甲：此刻忘寵辱是因景而喜，不能證明長久以天下為念。乙：晴景引出心曠神怡，並非人的忘榮辱使天氣變晴。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙不正確",
+            "explanation": "對甲的判斷不合：此刻忘寵辱是因景而喜，不能證明長久以天下為念。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙正確",
+            "explanation": "對乙的判斷不合：晴景引出心曠神怡，並非人的忘榮辱使天氣變晴。"
+          }
+        ],
+        "misconception": "對甲的判斷不合：此刻忘寵辱是因景而喜，不能證明長久以天下為念。對乙的判斷不合：晴景引出心曠神怡，並非人的忘榮辱使天氣變晴；對甲的判斷不合：此刻忘寵辱是因景而喜，不能證明長久以天下為念；對乙的判斷不合：晴景引出心曠神怡，並非人的忘榮辱使天氣變晴。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：晴景段的「寵辱皆忘」應怎樣理解？\n甲：只要此刻未想到私己榮辱，便足以證明已長久心繫天下\n乙：因能忘卻寵辱，遷客才開始看見晴景；心境是景色出現的原因",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-07-00-05",
+      "ordinal": 86,
+      "baseQuestionHash": "dd88fcaa6aaa103aedc095a6125eae2cd93a7daca27c706583f8520c6ca56416",
+      "patch": {
+        "explanation": "何哉追問古仁人為何異於前述兩種人，後句以不受物己支配回答。這一步先辨憂樂根據，何時而樂則是更後面的另一問，不能混為一題。",
+        "summary": "何哉追問古仁人為何異於前述兩種人，後句以不受物己支配回答。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "遷客在晴景中何以能永久擺脫個人榮辱",
+            "explanation": "遷客晴喜未被說成永久超脫。"
+          },
+          {
+            "id": "b",
+            "text": "古仁人何以不同於前述因景悲喜者",
+            "explanation": "何哉追問古仁人為何異於前述兩種人，後句以不受物己支配回答。"
+          },
+          {
+            "id": "c",
+            "text": "古仁人在何種條件下才可以感到快樂",
+            "explanation": "何時快樂由後面的然則何時而樂另問。"
+          },
+          {
+            "id": "d",
+            "text": "作者為何選擇不再重述前人的樓景文章",
+            "explanation": "詳略安排在前人之述處，非此處問題。"
+          }
+        ],
+        "misconception": "遷客晴喜未被說成永久超脫；何時快樂由後面的然則何時而樂另問；詳略安排在前人之述處，非此處問題。"
+      },
+      "objective": "「何哉」之後說「不以物喜，不以己悲」，在論述上回答甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-07-02-80",
+      "ordinal": 87,
+      "baseQuestionHash": "32bd00d3a6e2052d32a57ea5c9a98b82368510ba03dae2b241d04e2b9a940f99",
+      "patch": {
+        "explanation": "甲正確，乙正確。甲：總寫大觀後問覽物之情，直接引向陰悲晴喜。乙：差異之問讓兩幅景與觀景感受相扣，為後面比較憂樂原則鋪路。",
+        "summary": "甲正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙不正確",
+            "explanation": "對乙的判斷不合：差異之問讓兩幅景與觀景感受相扣，為後面比較憂樂原則鋪路。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：總寫大觀後問覽物之情，直接引向陰悲晴喜。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：總寫大觀後問覽物之情，直接引向陰悲晴喜。對乙的判斷不合：差異之問讓兩幅景與觀景感受相扣，為後面比較憂樂原則鋪路。"
+          },
+          {
+            "id": "d",
+            "text": "甲正確，乙正確",
+            "explanation": "甲正確，乙正確。甲：總寫大觀後問覽物之情，直接引向陰悲晴喜。乙：差異之問讓兩幅景與觀景感受相扣，為後面比較憂樂原則鋪路。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：差異之問讓兩幅景與觀景感受相扣，為後面比較憂樂原則鋪路；對甲的判斷不合：總寫大觀後問覽物之情，直接引向陰悲晴喜；對甲的判斷不合：總寫大觀後問覽物之情，直接引向陰悲晴喜。對乙的判斷不合：差異之問讓兩幅景與觀景感受相扣，為後面比較憂樂原則鋪路。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「覽物之情，得無異乎」在行文上有何作用？\n甲：由總寫湖景轉向觀景感受，引出陰悲晴喜兩段\n乙：這一句提出不同觀景者可能有不同感受，使下文兩段從景色描寫進入情感比較。",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-07-04-01",
+      "ordinal": 88,
+      "baseQuestionHash": "24c5e98a6dd82c701dfc9d88d9fc1e13f483be3fd975518283080ccc274dd593",
+      "patch": {
+        "explanation": "刻前人詩賦與前人之述備矣相照應，為略景而詳情理提供理由。作者仍寫陰晴景物，但目的轉為展示心境及引出仁人原則，不是廢除寫景。",
+        "summary": "刻前人詩賦與前人之述備矣相照應，為略景而詳情理提供理由。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "前人的作品既詳盡，便使本文再提任何景物都成為多餘",
+            "explanation": "後文仍需寫景以引情，不是所有景都多餘。"
+          },
+          {
+            "id": "b",
+            "text": "先列刻詩之事，後以述備否定前人作品的文學價值",
+            "explanation": "詳盡是肯定，非否定作品價值。"
+          },
+          {
+            "id": "c",
+            "text": "前人已提出先憂後樂，作者在末段只重複現成結論",
+            "explanation": "未說前人已提出本文先憂後樂結論。"
+          },
+          {
+            "id": "d",
+            "text": "樓上已有前人作品詳寫景物，本文因而另取景情憂樂為重心",
+            "explanation": "刻前人詩賦與前人之述備矣相照應，為略景而詳情理提供理由。"
+          }
+        ],
+        "misconception": "後文仍需寫景以引情，不是所有景都多餘；詳盡是肯定，非否定作品價值；未說前人已提出本文先憂後樂結論。"
+      },
+      "objective": "首段刻「唐賢、今人詩賦」與次段「前人之述備矣」有何照應？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-07-04-02",
+      "ordinal": 89,
+      "baseQuestionHash": "485bfd5394cc7ae061bbe3f686385d84e3667bb549280071ad8d89334cc13812",
+      "patch": {
+        "explanation": "朝夕氣象多變先總提，陰雨、晴明兩段再分設情境展開。這是總分與景情對照，不能僅因排列先後就認定是同一天實際天氣紀錄。",
+        "summary": "朝夕氣象多變先總提，陰雨、晴明兩段再分設情境展開。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "先總寫一日內變化，三四段便必須依同一天實際先後理解",
+            "explanation": "文字順序不等於同日實錄。"
+          },
+          {
+            "id": "b",
+            "text": "先總寫景物多變，故三四段只比較天候而未涉及人心",
+            "explanation": "兩段各接悲喜，明確涉及人心。"
+          },
+          {
+            "id": "c",
+            "text": "先總寫景象多變，再分設陰雨與晴明兩種情境",
+            "explanation": "朝夕氣象多變先總提，陰雨、晴明兩段再分設情境展開。"
+          },
+          {
+            "id": "d",
+            "text": "先列朝晴夕陰，故第三段陰雨一定發生在傍晚，第四段一定在清晨",
+            "explanation": "朝夕不強制陰段只在晚、晴段只在晨。"
+          }
+        ],
+        "misconception": "文字順序不等於同日實錄；兩段各接悲喜，明確涉及人心；朝夕不強制陰段只在晚、晴段只在晨。"
+      },
+      "objective": "「朝暉夕陰，氣象萬千」與三、四段有何關係？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-07-04-03",
+      "ordinal": 90,
+      "baseQuestionHash": "418a5ca6899bec6949a3325c12724ba7a35211a0a0471d8d0eab2f6da3a070bb",
+      "patch": {
+        "explanation": "遷客易隨外景和私己遭遇悲喜，古仁人即使失意在外仍憂君民。比較重關懷對象與原則穩定，不是以官位本身評人格高下。",
+        "summary": "遷客易隨外景和私己遭遇悲喜，古仁人即使失意在外仍憂君民。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "前者受景左右；後者只要離開朝廷，便以個人退隱安適為樂",
+            "explanation": "退亦憂不容把在野只作個人安適。"
+          },
+          {
+            "id": "b",
+            "text": "前者悲時關心自己；後者在野憂君就等於盼自己重新得寵",
+            "explanation": "憂君是公共關懷，不等於盼再得寵。"
+          },
+          {
+            "id": "c",
+            "text": "前者與後者關懷相同，只因官位高低才被作者分出高下",
+            "explanation": "兩者關懷重心有別，非只差官位。"
+          },
+          {
+            "id": "d",
+            "text": "前者易被私己遭遇和外景牽動；後者仍關心君民",
+            "explanation": "遷客易隨外景和私己遭遇悲喜，古仁人即使失意在外仍憂君民。"
+          }
+        ],
+        "misconception": "退亦憂不容把在野只作個人安適；憂君是公共關懷，不等於盼再得寵；兩者關懷重心有別，非只差官位。"
+      },
+      "objective": "同是失意在外，遷客騷人與古仁人的差別在哪裏？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-08-00-01",
+      "ordinal": 91,
+      "baseQuestionHash": "755428c283d9124d7a3e2a001319fd7473fbd747804bd91807f921945a02bb47",
+      "patch": {
+        "explanation": "陰段久雨不晴、光耀隱沒，晴段日光明媚、月光廣照，構成明暗對照。聲音也有作用，但不能以獸聲漁歌取代光線天候的視覺差異。",
+        "summary": "陰段久雨不晴、光耀隱沒，晴段日光明媚、月光廣照，構成明暗對照。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "陰段以獸聲為主、晴段以漁歌為主，因此兩段沒有視覺反差",
+            "explanation": "聽覺對比可以與明暗視覺同時存在。"
+          },
+          {
+            "id": "b",
+            "text": "陰段只寫夜景、晴段只寫日景，以晝夜替代天候差別",
+            "explanation": "晴段有月景，陰段也非只在夜間。"
+          },
+          {
+            "id": "c",
+            "text": "晴段月光明亮，便表示其水面任何時刻都完全沒有波動",
+            "explanation": "月光明亮不證明水面每刻都無波動。"
+          },
+          {
+            "id": "d",
+            "text": "久雨昏暗、日星隱耀，對春和景明、皓月千里",
+            "explanation": "陰段久雨不晴、光耀隱沒，晴段日光明媚、月光廣照，構成明暗對照。"
+          }
+        ],
+        "misconception": "聽覺對比可以與明暗視覺同時存在；晴段有月景，陰段也非只在夜間；月光明亮不證明水面每刻都無波動。"
+      },
+      "objective": "第三、四段如何以光線和天候構成對照？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-c-09-08-00-02",
+      "ordinal": 92,
+      "baseQuestionHash": "46e1d6e35f6dc07b27a24fee89c343095cca670a4f0e3730afeaed2f8981e2e9",
+      "patch": {
+        "explanation": "濁浪衝空寫渾濁洶湧，不驚與上下天光寫平靜明淨，構成水勢與觀感反差。前者添危急，後者使視野舒展，為悲喜差別提供具體景物依據。",
+        "summary": "濁浪衝空寫渾濁洶湧，不驚與上下天光寫平靜明淨，構成水勢與觀感反差。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "兩幅平靜湖面，只以水色濃淡區分",
+            "explanation": "濁浪排空不是平靜湖面。"
+          },
+          {
+            "id": "b",
+            "text": "同樣猛烈的浪勢，僅以白天夜晚區分",
+            "explanation": "不驚明說不動盪，非同樣猛烈。"
+          },
+          {
+            "id": "c",
+            "text": "渾濁洶湧的浪勢與平靜明淨的湖面",
+            "explanation": "濁浪衝空寫渾濁洶湧，不驚與上下天光寫平靜明淨，構成水勢與觀感反差。"
+          },
+          {
+            "id": "d",
+            "text": "前者寫潮退、後者寫潮漲，重點是水位升降",
+            "explanation": "這裏未比較潮汐水位高低。"
+          }
+        ],
+        "misconception": "濁浪排空不是平靜湖面；不驚明說不動盪，非同樣猛烈；這裏未比較潮汐水位高低。"
+      },
+      "objective": "「濁浪排空」與「波瀾不驚，上下天光」主要形成甚麼對照？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-08-00-03",
+      "ordinal": 93,
+      "baseQuestionHash": "d64ca2563a036470acd96219a36d071040e9d9677f4da941ae4af1eb745caa43",
+      "patch": {
+        "explanation": "停航與舟具損壞間接見風浪危急，漁歌相和則為晴景添安樂氣息。兩處以人事活動顯環境，不能由見到商旅漁夫就推成遷客已有天下責任。",
+        "summary": "停航與舟具損壞間接見風浪危急，漁歌相和則為晴景添安樂氣息。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "前者直接點明遷客害怕讒言，後者直接點明古仁人以天下為樂",
+            "explanation": "兩句先描人事景象，沒有直接宣告憂讒或仁人之樂。"
+          },
+          {
+            "id": "b",
+            "text": "前者航行受阻顯風浪危急，後者相和而歌添安樂氣息",
+            "explanation": "停航與舟具損壞間接見風浪危急，漁歌相和則為晴景添安樂氣息。"
+          },
+          {
+            "id": "c",
+            "text": "前者旅人受阻，故可斷定登樓者的悲只為商旅而發",
+            "explanation": "後文明寫去國憂讒，悲並非只為商旅。"
+          },
+          {
+            "id": "d",
+            "text": "後者漁歌相答，故可斷定遷客已與百姓共同承擔政治責任",
+            "explanation": "聽見漁歌不等於承擔公共責任。"
+          }
+        ],
+        "misconception": "兩句先描人事景象，沒有直接宣告憂讒或仁人之樂；後文明寫去國憂讒，悲並非只為商旅；聽見漁歌不等於承擔公共責任。"
+      },
+      "objective": "「商旅不行，檣傾楫摧」與「漁歌互答」如何透過人事寫環境？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-08-00-04",
+      "ordinal": 94,
+      "baseQuestionHash": "b01309c8d13c560e94b58b5e4223f9b588d412fdb8c0190be79b2c1338e2bf0a",
+      "patch": {
+        "explanation": "昏暗暮色再加淒厲獸聲，以視聽相配加深陰森悲涼。獸聲雖是動態，動不等於樂；須看虎嘯猿啼在陰景中的具體色彩。",
+        "summary": "昏暗暮色再加淒厲獸聲，以視聽相配加深陰森悲涼。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "昏暗暮色再加淒厲獸聲，增添陰森悲涼",
+            "explanation": "昏暗暮色再加淒厲獸聲，以視聽相配加深陰森悲涼。"
+          },
+          {
+            "id": "b",
+            "text": "以獸聲打破寂靜，便使陰景轉為與晴景相同的生機之樂",
+            "explanation": "打破寂靜不必歡樂，此處反增淒厲。"
+          },
+          {
+            "id": "c",
+            "text": "在暮色之外补入聲音，但聲音只為交代動物種類，與悲情無涉",
+            "explanation": "聲音配合整段悲感，不只列動物種類。"
+          },
+          {
+            "id": "d",
+            "text": "以動態聲音證明所有景物都在急速運動，排除靜景",
+            "explanation": "有聲音不證明所有景物急動，靜景仍在。"
+          }
+        ],
+        "misconception": "打破寂靜不必歡樂，此處反增淒厲；聲音配合整段悲感，不只列動物種類；有聲音不證明所有景物急動，靜景仍在。"
+      },
+      "objective": "「虎嘯猿啼」置於「薄暮冥冥」之後，有何作用？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-08-00-05",
+      "ordinal": 95,
+      "baseQuestionHash": "548ebbae5c43506ccc6e6e8b55084b2860da8755faa3a0b1334d75f8411bf430",
+      "patch": {
+        "explanation": "兩種情緒方向相反，卻都受外景與私己遭遇牽動，因此可合為同一比較層次。末段仁人改變的不是悲多或喜多，而是為誰憂、何時樂的原則。",
+        "summary": "兩種情緒方向相反，卻都受外景與私己遭遇牽動，因此可合為同一比較層次。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "兩者都能在某一刻忘掉榮辱，因此已同樣超越外物影響",
+            "explanation": "悲段沒有忘榮辱，喜段也未超越外景。"
+          },
+          {
+            "id": "b",
+            "text": "兩者所憂所樂不同，故與古仁人的比較只能看情緒強弱",
+            "explanation": "比較關懷對象與原則，非僅強弱。"
+          },
+          {
+            "id": "c",
+            "text": "兩者都處於被貶情境，故作者認定任何被貶者都不能成仁人",
+            "explanation": "受貶是處境，不能決定必無仁人之心。"
+          },
+          {
+            "id": "d",
+            "text": "兩者都由景物牽動個人悲喜，與古仁人的穩定原則有別",
+            "explanation": "兩種情緒方向相反，卻都受外景與私己遭遇牽動，因此可合為同一比較層次。"
+          }
+        ],
+        "misconception": "悲段沒有忘榮辱，喜段也未超越外景；比較關懷對象與原則，非僅強弱；受貶是處境，不能決定必無仁人之心。"
+      },
+      "objective": "「感極而悲」與「其喜洋洋」感情相反，何以仍被合稱「二者」？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-09-01-80",
+      "ordinal": 96,
+      "baseQuestionHash": "854eb1b90f2ed304585b4b781e771e9084ef03f2763975d12beaa6dc10286085",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：先憂重為天下預作籌謀，後樂以天下安樂為條件。乙：僅比自己較早傷心不足，天下二字明示公共責任。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：僅比自己較早傷心不足，天下二字明示公共責任。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：先憂重為天下預作籌謀，後樂以天下安樂為條件。對乙的判斷不合：僅比自己較早傷心不足，天下二字明示公共責任。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：先憂重為天下預作籌謀，後樂以天下安樂為條件。"
+          },
+          {
+            "id": "d",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：先憂重為天下預作籌謀，後樂以天下安樂為條件。乙：僅比自己較早傷心不足，天下二字明示公共責任。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：僅比自己較早傷心不足，天下二字明示公共責任；對甲的判斷不合：先憂重為天下預作籌謀，後樂以天下安樂為條件。對乙的判斷不合：僅比自己較早傷心不足，天下二字明示公共責任；對甲的判斷不合：先憂重為天下預作籌謀，後樂以天下安樂為條件。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「先天下之憂而憂，後天下之樂而樂」的先後，應怎樣理解？\n甲：預先為天下憂患籌謀，待天下安樂後才以之為樂\n乙：只要自己比別人較早感到憂傷，無須進一步替天下籌謀",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-09-03-80",
+      "ordinal": 97,
+      "baseQuestionHash": "b25f6ade362dc6220d36c14e50b115169cd88d1793e3a9e29ceb1ba1699db3be",
+      "patch": {
+        "explanation": "寵辱皆忘因美景而生，古仁人則進退皆憂君民，兩者的關懷及穩定性不同。不能只拿一次開心證明已達長久原則，也不能把差別簡化成快樂時長。",
+        "summary": "寵辱皆忘因美景而生，古仁人則進退皆憂君民，兩者的關懷及穩定性不同。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "二者不同，只因遷客的喜較短暫，而古仁人快樂持續時間較久",
+            "explanation": "只比時間漏掉關懷對象不同。"
+          },
+          {
+            "id": "b",
+            "text": "遷客仍能飲酒，古仁人只許憂慮，因此兩種生活方式不相容",
+            "explanation": "仁人也有後樂，未禁止飲酒或一切快樂。"
+          },
+          {
+            "id": "c",
+            "text": "寵辱皆忘只適合退處，古仁人的原則則只適合在朝",
+            "explanation": "仁人原則明確適用進退兩境。"
+          },
+          {
+            "id": "d",
+            "text": "此喜因晴景而生；古仁人無論仕退都以君民為念，原則較穩定",
+            "explanation": "寵辱皆忘因美景而生，古仁人則進退皆憂君民，兩者的關懷及穩定性不同。"
+          }
+        ],
+        "misconception": "只比時間漏掉關懷對象不同；仁人也有後樂，未禁止飲酒或一切快樂；仁人原則明確適用進退兩境。"
+      },
+      "objective": "有人說「寵辱皆忘」已等於古仁人的境界。哪項反駁最有根據？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-09-05-80",
+      "ordinal": 98,
+      "baseQuestionHash": "e950b1bc17f8a493b9feea0992a8406f9ece4497caf6a455bd27ffed0f1f99df",
+      "patch": {
+        "explanation": "字面由得寵受辱皆驚，反轉為此刻把寵辱暫時放下。這是本書所說反用之意；但本句仍屬遷客晴喜，不能順勢推成任何處境下都不受影響。",
+        "summary": "字面由得寵受辱皆驚，反轉為此刻把寵辱暫時放下。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "由對得寵受辱都有反應，轉為只忘受辱、仍以得寵為喜",
+            "explanation": "皆忘包含寵與辱，非只忘辱。"
+          },
+          {
+            "id": "b",
+            "text": "由寵辱引起驚動，轉為在任何情況下永不受外物影響",
+            "explanation": "一次晴喜不等於永久超越外物。"
+          },
+          {
+            "id": "c",
+            "text": "由得寵受辱皆使人驚動，轉為此刻把兩者暫時放下",
+            "explanation": "字面由得寵受辱皆驚，反轉為此刻把寵辱暫時放下。"
+          },
+          {
+            "id": "d",
+            "text": "由重視榮辱的反應，轉為主張任何政治關懷都應放下",
+            "explanation": "忘私己寵辱不等於放下天下關懷。"
+          }
+        ],
+        "misconception": "皆忘包含寵與辱，非只忘辱；一次晴喜不等於永久超越外物；忘私己寵辱不等於放下天下關懷。"
+      },
+      "objective": "《老子》有「寵辱若驚」，《岳陽樓記》寫「寵辱皆忘」。二者在字面意思上有何反轉？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-10-01-03",
+      "ordinal": 99,
+      "baseQuestionHash": "7a24d6b8737564c7a23b6d615a052324786fc5b98a207538dfdcf4e8fd067250",
+      "patch": {
+        "explanation": "以是因為，物是引起喜的原因，不以物喜即不因外物而喜。末段談情緒根據，沒有拿外物作工具，也不是依某條規則行事。",
+        "summary": "以是因為，物是引起喜的原因，不以物喜即不因外物而喜。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "因為，引出情緒的原因",
+            "explanation": "以是因為，物是引起喜的原因，不以物喜即不因外物而喜。"
+          },
+          {
+            "id": "b",
+            "text": "為了，引出行動的目的",
+            "explanation": "目的義見以記之，此處說情緒因何而生。"
+          },
+          {
+            "id": "c",
+            "text": "憑藉，引出所用的工具",
+            "explanation": "物不是所用工具，而是喜的外在誘因。"
+          },
+          {
+            "id": "d",
+            "text": "按照，引出遵循的規則",
+            "explanation": "沒有遵循規則的關係。"
+          }
+        ],
+        "misconception": "目的義見以記之，此處說情緒因何而生；物不是所用工具，而是喜的外在誘因；沒有遵循規則的關係。"
+      },
+      "objective": "「不以物喜」的「以」與哪項解釋相符？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-10-01-04",
+      "ordinal": 100,
+      "baseQuestionHash": "a46a4195dc87f05a5869ef711780d51f3316144093eebe32dfa820c56a3d34b1",
+      "patch": {
+        "explanation": "作文以記之的以表用來，說作文目的；不以物喜的以表因為，說情緒原因。依以後接的記述行動與物這個誘因辨別，不能把兩者對調。",
+        "summary": "作文以記之的以表用來，說作文目的；不以物喜的以表因為，說情緒原因。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "因為；用來",
+            "explanation": "把目的與原因次序倒置。"
+          },
+          {
+            "id": "b",
+            "text": "按照；憑藉",
+            "explanation": "作文不按記之規則，喜也非憑工具。"
+          },
+          {
+            "id": "c",
+            "text": "用來；因為",
+            "explanation": "作文以記之的以表用來，說作文目的；不以物喜的以表因為，說情緒原因。"
+          },
+          {
+            "id": "d",
+            "text": "憑藉；按照",
+            "explanation": "兩句都非所列憑藉、按照的關係。"
+          }
+        ],
+        "misconception": "把目的與原因次序倒置；作文不按記之規則，喜也非憑工具；兩句都非所列憑藉、按照的關係。"
+      },
+      "objective": "「作文以記之」與「不以物喜」的「以」，意思分別是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-10-02-01",
+      "ordinal": 101,
+      "baseQuestionHash": "ef3a1492e6714be762c93c9f39f8d3734bd6f0f23259c9c670886e2a18a2a4ea",
+      "patch": {
+        "explanation": "謫守合起來是受貶後任巴陵地方長官，既交代遭遇也交代職務。被貶不等於不再任職，後面的治政成果正以仍有地方責任為前提。",
+        "summary": "謫守合起來是受貶後任巴陵地方長官，既交代遭遇也交代職務。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "升任中央最高官職",
+            "explanation": "謫是貶而非升，巴陵也非中央最高位。"
+          },
+          {
+            "id": "b",
+            "text": "辭官後完全不再任職",
+            "explanation": "守仍表任官，並非完全辭官。"
+          },
+          {
+            "id": "c",
+            "text": "以使者身分暫到巴陵",
+            "explanation": "文中說任地方長官，不是短期出使。"
+          },
+          {
+            "id": "d",
+            "text": "受貶後擔任地方長官",
+            "explanation": "謫守合起來是受貶後任巴陵地方長官，既交代遭遇也交代職務。"
+          }
+        ],
+        "misconception": "謫是貶而非升，巴陵也非中央最高位；守仍表任官，並非完全辭官；文中說任地方長官，不是短期出使。"
+      },
+      "objective": "「滕子京謫守巴陵郡」交代他怎樣的任職處境？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-10-02-03",
+      "ordinal": 102,
+      "baseQuestionHash": "744effdfef3df8d099ea52d338218a488821b0c43068f68039ee1dc3b9015175",
+      "patch": {
+        "explanation": "政通人和、百廢具興先肯定治理成果，乃再引出重修樓宇。這個順序寫滕子京失意仍盡職，但政績是具體成果，不能直接證成其心境已完全等同仁人。",
+        "summary": "政通人和、百廢具興先肯定治理成果，乃再引出重修樓宇。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "先重修樓宇，再以政通人和說明重修已立即改善治理",
+            "explanation": "把先治政後修樓倒置。"
+          },
+          {
+            "id": "b",
+            "text": "治政有成只為修樓獲准，作者並無肯定政績之意",
+            "explanation": "原文正面寫成果，未說只為獲修樓許可。"
+          },
+          {
+            "id": "c",
+            "text": "地方治理有成，然後修樓",
+            "explanation": "政通人和、百廢具興先肯定治理成果，乃再引出重修樓宇。"
+          },
+          {
+            "id": "d",
+            "text": "只要百廢具興，就可據此證明滕子京已完全具備古仁人之心",
+            "explanation": "一段政績不足證所有處境皆符合仁人理想。"
+          }
+        ],
+        "misconception": "把先治政後修樓倒置；原文正面寫成果，未說只為獲修樓許可；一段政績不足證所有處境皆符合仁人理想。"
+      },
+      "objective": "「政通人和，百廢具興」為「乃重修岳陽樓」提供甚麼背景？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-10-02-08",
+      "ordinal": 103,
+      "baseQuestionHash": "89d09d1af8be4b8c87159bb8b2d7ea10e653cc49e8fdb7fadbaa674ca2981300",
+      "patch": {
+        "explanation": "唐賢指唐代著名文人，今人以作者時代為準，指范仲淹當代文人。閱讀古文的今要固定敘述時間，不能隨今天讀者的年代移動。",
+        "summary": "唐賢指唐代著名文人，今人以作者時代為準，指范仲淹當代文人。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "唐代及其以前文人；范仲淹之後各代文人",
+            "explanation": "唐不包括所有更早年代，今也非以後各代。"
+          },
+          {
+            "id": "b",
+            "text": "唐代文人與范仲淹當代文人",
+            "explanation": "唐賢指唐代著名文人，今人以作者時代為準，指范仲淹當代文人。"
+          },
+          {
+            "id": "c",
+            "text": "唐代文人；現今讀者所處年代的文人",
+            "explanation": "今以作者當代為準，不是現代讀者。"
+          },
+          {
+            "id": "d",
+            "text": "一切古代官員；巴陵當地所有百姓",
+            "explanation": "兩者指文人，不能擴成所有官員百姓。"
+          }
+        ],
+        "misconception": "唐不包括所有更早年代，今也非以後各代；今以作者當代為準，不是現代讀者；兩者指文人，不能擴成所有官員百姓。"
+      },
+      "objective": "「刻唐賢、今人詩賦於其上」中的兩組作者怎樣區分？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-10-02-09",
+      "ordinal": 104,
+      "baseQuestionHash": "16c3d969042d1cc21124dd6699df7979744a90b7cd5c6edc77bbd180b2c9bd86",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：唐賢限唐代，今人以范仲淹寫作時代為準。乙：唐代不能擴及所有此前文人，今也不指此後各代。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：唐代不能擴及所有此前文人，今也不指此後各代。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：唐賢限唐代，今人以范仲淹寫作時代為準。對乙的判斷不合：唐代不能擴及所有此前文人，今也不指此後各代。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：唐賢限唐代，今人以范仲淹寫作時代為準。"
+          },
+          {
+            "id": "d",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：唐賢限唐代，今人以范仲淹寫作時代為準。乙：唐代不能擴及所有此前文人，今也不指此後各代。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：唐代不能擴及所有此前文人，今也不指此後各代；對甲的判斷不合：唐賢限唐代，今人以范仲淹寫作時代為準。對乙的判斷不合：唐代不能擴及所有此前文人，今也不指此後各代；對甲的判斷不合：唐賢限唐代，今人以范仲淹寫作時代為準。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「刻唐賢、今人詩賦於其上」中的兩組作者怎樣區分？\n甲：唐代文人與范仲淹當代文人\n乙：唐代及其以前文人；范仲淹之後各代文人",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-10-02-10",
+      "ordinal": 105,
+      "baseQuestionHash": "faa0ed229486478504ab282ee99018430bc4b28d2e2cb0ee44a0b37f7260ab96",
+      "patch": {
+        "explanation": "予指自述的范仲淹，之指重修岳陽樓之事：滕子京囑范作文記此事。先分託付者與受託者，再循上文找記述對象，便不會把刻詩誤作寫詩人生平。",
+        "summary": "予指自述的范仲淹，之指重修岳陽樓之事：滕子京囑范作文記此事。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "滕子京；重修岳陽樓之事",
+            "explanation": "予是作者自稱，不是委託人滕子京。"
+          },
+          {
+            "id": "b",
+            "text": "范仲淹；重修岳陽樓之事",
+            "explanation": "予指自述的范仲淹，之指重修岳陽樓之事：滕子京囑范作文記此事。"
+          },
+          {
+            "id": "c",
+            "text": "范仲淹；唐賢今人的全部生平",
+            "explanation": "刻詩是工程內容之一，之不代全部詩人生平。"
+          },
+          {
+            "id": "d",
+            "text": "范仲淹；作者本人的登樓旅程",
+            "explanation": "受託記修樓，並非記作者登樓旅程。"
+          }
+        ],
+        "misconception": "予是作者自稱，不是委託人滕子京；刻詩是工程內容之一，之不代全部詩人生平；受託記修樓，並非記作者登樓旅程。"
+      },
+      "objective": "「屬予作文以記之」中的「予」「之」分別指向誰與何事？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-10-02-16",
+      "ordinal": 106,
+      "baseQuestionHash": "c8fe5c3d116f5f2e384eab7095647bbaab23d73f8c8c8329ae62d16cf41d5603",
+      "patch": {
+        "explanation": "浩浩湯湯重水勢浩大，橫無際涯重橫向範圍廣闊，兩句相補呈現大觀。前者說水勢，後者說邊界不可見，不能由二者推成湖底深或岸線曲折。",
+        "summary": "浩浩湯湯重水勢浩大，橫無際涯重橫向範圍廣闊，兩句相補呈現大觀。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "範圍廣闊；水勢浩大",
+            "explanation": "兩個特點與原句次序倒轉。"
+          },
+          {
+            "id": "b",
+            "text": "水流迅急；湖底深邃",
+            "explanation": "湯湯非專指急速，無際涯也非湖深。"
+          },
+          {
+            "id": "c",
+            "text": "水面明淨；湖岸曲折",
+            "explanation": "清淨、曲折均非兩句直接所重。"
+          },
+          {
+            "id": "d",
+            "text": "水勢浩大；範圍廣闊",
+            "explanation": "浩浩湯湯重水勢浩大，橫無際涯重橫向範圍廣闊，兩句相補呈現大觀。"
+          }
+        ],
+        "misconception": "兩個特點與原句次序倒轉；湯湯非專指急速，無際涯也非湖深；清淨、曲折均非兩句直接所重。"
+      },
+      "objective": "「浩浩湯湯」與「橫無際涯」分別着重湖的甚麼特點？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-10-02-18",
+      "ordinal": 107,
+      "baseQuestionHash": "a392a288b8ee6896bde11152551ec5efb6c10d2ec9ea3062a2d7053886ec3325",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：氣象萬千總提多變，第三四段分設陰晴以對照悲喜。乙：總分安排不保證同日實錄，若夫至若提示不同設想情境。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：總分安排不保證同日實錄，若夫至若提示不同設想情境。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：氣象萬千總提多變，第三四段分設陰晴以對照悲喜。乙：總分安排不保證同日實錄，若夫至若提示不同設想情境。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：氣象萬千總提多變，第三四段分設陰晴以對照悲喜。對乙的判斷不合：總分安排不保證同日實錄，若夫至若提示不同設想情境。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：氣象萬千總提多變，第三四段分設陰晴以對照悲喜。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：總分安排不保證同日實錄，若夫至若提示不同設想情境；對甲的判斷不合：氣象萬千總提多變，第三四段分設陰晴以對照悲喜。對乙的判斷不合：總分安排不保證同日實錄，若夫至若提示不同設想情境；對甲的判斷不合：氣象萬千總提多變，第三四段分設陰晴以對照悲喜。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「朝暉夕陰，氣象萬千」與三、四段有何關係？\n甲：先總寫景象多變，再分設陰雨與晴明兩種情境\n乙：先總寫一日內變化，三四段便必須依同一天實際先後理解",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-10-02-19",
+      "ordinal": 108,
+      "baseQuestionHash": "2fe3e51962c1e043a5ee8fc720be33873fba002e258d9a7bc6cc1a572aa0e481",
+      "patch": {
+        "explanation": "氣象萬千是景象變化多樣，承接朝暉夕陰，總提湖景在時間與天候中的不同面貌。萬千極言豐富，不是每日固定流程，也不限朝夕兩個瞬間。",
+        "summary": "氣象萬千是景象變化多樣，承接朝暉夕陰，總提湖景在時間與天候中的不同面貌。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "景象變化多樣",
+            "explanation": "氣象萬千是景象變化多樣，承接朝暉夕陰，總提湖景在時間與天候中的不同面貌。"
+          },
+          {
+            "id": "b",
+            "text": "每日天氣必依固定次序變化",
+            "explanation": "多變與固定次序不是同一意思。"
+          },
+          {
+            "id": "c",
+            "text": "湖景只在朝夕兩刻出現變化",
+            "explanation": "朝夕舉變化，不排除其他時刻。"
+          },
+          {
+            "id": "d",
+            "text": "湖面比遠山長江更值得描寫",
+            "explanation": "此詞沒有評哪種景更值得寫。"
+          }
+        ],
+        "misconception": "多變與固定次序不是同一意思；朝夕舉變化，不排除其他時刻；此詞沒有評哪種景更值得寫。"
+      },
+      "objective": "「氣象萬千」在此最恰當的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-10-02-20",
+      "ordinal": 109,
+      "baseQuestionHash": "e5eb73d0cbaa68ac527eccf19ec9d5f08b98260b12c46b06d59c71b75c91966c",
+      "patch": {
+        "explanation": "北通、南極分寫水域聯絡所及，呈現洞庭位置的廣遠，並引出遷客騷人來會。這是同一中心向兩方交代通達，不等於作者逐站旅行的紀錄。",
+        "summary": "北通、南極分寫水域聯絡所及，呈現洞庭位置的廣遠，並引出遷客騷人來會。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "分寫向北、向南所通達之處，顯出水域聯絡廣遠",
+            "explanation": "北通、南極分寫水域聯絡所及，呈現洞庭位置的廣遠，並引出遷客騷人來會。"
+          },
+          {
+            "id": "b",
+            "text": "從北到南依次列作者到訪之地，構成移步換景的線索",
+            "explanation": "列方向地名不證作者實際逐一到訪。"
+          },
+          {
+            "id": "c",
+            "text": "既說北通南極，便肯定遷客都由同一路線登樓",
+            "explanation": "多處通達不代表所有人沿同一路線。"
+          },
+          {
+            "id": "d",
+            "text": "以兩個方向說明洞庭完全與長江其他水道隔開",
+            "explanation": "通與極都說聯繫，非隔絕。"
+          }
+        ],
+        "misconception": "列方向地名不證作者實際逐一到訪；多處通達不代表所有人沿同一路線；通與極都說聯繫，非隔絕。"
+      },
+      "objective": "「北通巫峽，南極瀟湘」怎樣鋪寫洞庭位置？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-10-02-22",
+      "ordinal": 110,
+      "baseQuestionHash": "a718bb46dd56aa32ad51a3ca920646a9dcad7eb7e116effd528fd22764f5b3b5",
+      "patch": {
+        "explanation": "巫峽是長江三峽之一，瀟湘合指瀟水、湘水。這些名物解釋沿用本書，與北通南極相接，只用來認出通達地點，不作全部水系的概括。",
+        "summary": "巫峽是長江三峽之一，瀟湘合指瀟水、湘水。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "長江三峽之一；瀟水、湘水",
+            "explanation": "巫峽是長江三峽之一，瀟湘合指瀟水、湘水。"
+          },
+          {
+            "id": "b",
+            "text": "長江三峽全體；瀟水、湘水",
+            "explanation": "巫峽只是三峽之一，不是三峽總稱。"
+          },
+          {
+            "id": "c",
+            "text": "長江三峽之一；瀟水的另一個名稱",
+            "explanation": "瀟湘含兩水，不只瀟水別名。"
+          },
+          {
+            "id": "d",
+            "text": "巴陵境內的一段長江；湘水的支流總稱",
+            "explanation": "兩者並非隨意泛稱巴陵長江或全部支流。"
+          }
+        ],
+        "misconception": "巫峽只是三峽之一，不是三峽總稱；瀟湘含兩水，不只瀟水別名；兩者並非隨意泛稱巴陵長江或全部支流。"
+      },
+      "objective": "文中「巫峽」和「瀟湘」分別指甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-10-02-23",
+      "ordinal": 111,
+      "baseQuestionHash": "fc61d665fd51429d826f3ca0b90f824f96f79edc28cb923e81cfda7283e86050",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：巫峽為三峽之一，瀟湘合瀟水湘水，符合本書名物解釋。乙：瀟湘部分雖對，巫峽只是三峽其中一峽，不能等同全部。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：巫峽為三峽之一，瀟湘合瀟水湘水，符合本書名物解釋。乙：瀟湘部分雖對，巫峽只是三峽其中一峽，不能等同全部。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：瀟湘部分雖對，巫峽只是三峽其中一峽，不能等同全部。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：巫峽為三峽之一，瀟湘合瀟水湘水，符合本書名物解釋。對乙的判斷不合：瀟湘部分雖對，巫峽只是三峽其中一峽，不能等同全部。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：巫峽為三峽之一，瀟湘合瀟水湘水，符合本書名物解釋。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：瀟湘部分雖對，巫峽只是三峽其中一峽，不能等同全部；對甲的判斷不合：巫峽為三峽之一，瀟湘合瀟水湘水，符合本書名物解釋。對乙的判斷不合：瀟湘部分雖對，巫峽只是三峽其中一峽，不能等同全部；對甲的判斷不合：巫峽為三峽之一，瀟湘合瀟水湘水，符合本書名物解釋。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：文中「巫峽」和「瀟湘」分別指甚麼？\n甲：長江三峽之一；瀟水、湘水\n乙：長江三峽全體；瀟水、湘水",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-10-02-25",
+      "ordinal": 112,
+      "baseQuestionHash": "8fb588d81050abc560483fdef865aa45b7ea17c14b548291cd16cafdbd4b9e5e",
+      "patch": {
+        "explanation": "騷人是詩人文士，本文把他們與遷客並提，着重失意觀景的悲喜。並列表示可共同討論，並不使兩詞定義完全相同，更不能推成每個詩人都被貶。",
+        "summary": "騷人是詩人文士，本文把他們與遷客並提，着重失意觀景的悲喜。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "詩人文士；本文着重其失意心境，不能據此說所有詩人皆遭貶",
+            "explanation": "騷人是詩人文士，本文把他們與遷客並提，着重失意觀景的悲喜。"
+          },
+          {
+            "id": "b",
+            "text": "詩人文士；既與遷客並提，便可斷定每個騷人都曾被貶",
+            "explanation": "共同出現不能推出所有騷人均受貶。"
+          },
+          {
+            "id": "c",
+            "text": "遭貶官員；重點只在官職變動，與文人身分無關",
+            "explanation": "受貶官員是遷客，騷人仍有文士身分。"
+          },
+          {
+            "id": "d",
+            "text": "前人詩賦的作者；只限樓上已有作品的那些唐代文人",
+            "explanation": "未限定為已刻作品的唐代作者。"
+          }
+        ],
+        "misconception": "共同出現不能推出所有騷人均受貶；受貶官員是遷客，騷人仍有文士身分；未限定為已刻作品的唐代作者。"
+      },
+      "objective": "「遷客騷人，多會於此」中，對「騷人」哪項理解較恰當？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-10-02-26",
+      "ordinal": 113,
+      "baseQuestionHash": "c9a233a2d3c528c23ea6f5a66fef20920a5224d1fe931c5a009bb5944c594814",
+      "patch": {
+        "explanation": "得無異乎以反問暗示感受有差異，第三四段接着分寫悲與喜。作者用問句開啟討論，不是等待某位遊人的實際回答，也不是否定差異。",
+        "summary": "得無異乎以反問暗示感受有差異，第三四段接着分寫悲與喜。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "一般疑問，等待某一位登樓者提供唯一答案",
+            "explanation": "文中安排已導向悲喜對照，非待人提供唯一答覆。"
+          },
+          {
+            "id": "b",
+            "text": "反問，含觀景感受有所不同之意",
+            "explanation": "得無異乎以反問暗示感受有差異，第三四段接着分寫悲與喜。"
+          },
+          {
+            "id": "c",
+            "text": "反問，表示不同人只能有相同感受",
+            "explanation": "有異而非相同，方向相反。"
+          },
+          {
+            "id": "d",
+            "text": "設問，隨即以古仁人心境取代三四段的悲喜",
+            "explanation": "仁人稍後才提出，未取代陰晴兩段。"
+          }
+        ],
+        "misconception": "文中安排已導向悲喜對照，非待人提供唯一答覆；有異而非相同，方向相反；仁人稍後才提出，未取代陰晴兩段。"
+      },
+      "objective": "「覽物之情，得無異乎」的語氣及隱含意思為何？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-10-02-27",
+      "ordinal": 114,
+      "baseQuestionHash": "94e0ef2f22c72e3270ab5ac99d0a17de446e1c3975ddcb4d7b8709d54b374890",
+      "patch": {
+        "explanation": "若夫與至若分別轉入陰雨和晴明的設想情境，讓兩種景情可並列比較。它們不是旅遊日記時間標記，兩段都寫遷客反應，仁人在下一段才另立。",
+        "summary": "若夫與至若分別轉入陰雨和晴明的設想情境，讓兩種景情可並列比較。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "由若到至標明天氣必定按陰轉晴的時間順序",
+            "explanation": "沒有強制同一天陰轉晴的時間關係。"
+          },
+          {
+            "id": "b",
+            "text": "提示轉入兩種設想情境，供景情比較",
+            "explanation": "若夫與至若分別轉入陰雨和晴明的設想情境，讓兩種景情可並列比較。"
+          },
+          {
+            "id": "c",
+            "text": "兩詞均承前人的詩賦，表明後文全是直接引文",
+            "explanation": "未標為前人原句引文，是作者設景。"
+          },
+          {
+            "id": "d",
+            "text": "前者寫遷客、後者寫仁人，分別引出不同道德人物",
+            "explanation": "晴段仍是遷客之喜，不是仁人。"
+          }
+        ],
+        "misconception": "沒有強制同一天陰轉晴的時間關係；未標為前人原句引文，是作者設景；晴段仍是遷客之喜，不是仁人。"
+      },
+      "objective": "「若夫」與「至若」分別引出陰雨、晴明景象，有何共同作用？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-10-02-28",
+      "ordinal": 115,
+      "baseQuestionHash": "1828658c54bf52c697524e4803e26e15950c165cc2620ad189fca316fc55a1c8",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：兩個領起語供並列比較不同天候及感受。乙：它們沒有規定同一次遊程必先陰後晴，不能從排列推出事實時間。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：它們沒有規定同一次遊程必先陰後晴，不能從排列推出事實時間。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：兩個領起語供並列比較不同天候及感受。乙：它們沒有規定同一次遊程必先陰後晴，不能從排列推出事實時間。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：兩個領起語供並列比較不同天候及感受。對乙的判斷不合：它們沒有規定同一次遊程必先陰後晴，不能從排列推出事實時間。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：兩個領起語供並列比較不同天候及感受。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：它們沒有規定同一次遊程必先陰後晴，不能從排列推出事實時間；對甲的判斷不合：兩個領起語供並列比較不同天候及感受。對乙的判斷不合：它們沒有規定同一次遊程必先陰後晴，不能從排列推出事實時間；對甲的判斷不合：兩個領起語供並列比較不同天候及感受。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「若夫」與「至若」分別引出陰雨、晴明景象，有何共同作用？\n甲：提示轉入兩種設想情境，供景情比較\n乙：由若到至標明天氣必定按陰轉晴的時間順序",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-10-02-29",
+      "ordinal": 116,
+      "baseQuestionHash": "288f618802fa3f29f3bea5e7408627d484db9f6f71f91800556ba4a569c6555d",
+      "patch": {
+        "explanation": "霪雨說久雨，霏霏說密集不斷，連月不開再強調天候長久不晴。時間與雨態相加，使壓抑成為持續的環境，不只是一次聽雨。",
+        "summary": "霪雨說久雨，霏霏說密集不斷，連月不開再強調天候長久不晴。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "以連月交代雨已過去多月，所寫只是登樓者回憶",
+            "explanation": "連月寫持續多久，不是雨後已過多久。"
+          },
+          {
+            "id": "b",
+            "text": "以霏霏表示雨點細小，便說它不會影響景色與人事",
+            "explanation": "細密不代表無影響，後文明寫商旅受阻。"
+          },
+          {
+            "id": "c",
+            "text": "以不開說登樓者不開窗，雨勢只能靠聽覺想像",
+            "explanation": "開指天放晴，不是人開窗。"
+          },
+          {
+            "id": "d",
+            "text": "連綿細密而持續很久，天色難晴",
+            "explanation": "霪雨說久雨，霏霏說密集不斷，連月不開再強調天候長久不晴。"
+          }
+        ],
+        "misconception": "連月寫持續多久，不是雨後已過多久；細密不代表無影響，後文明寫商旅受阻；開指天放晴，不是人開窗。"
+      },
+      "objective": "「霪雨霏霏，連月不開」怎樣寫雨？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-10-02-31",
+      "ordinal": 117,
+      "baseQuestionHash": "0efcf1b855b7e656546f251a5452ff750bb5b9798b04d8c37a3145d0399eefcf",
+      "patch": {
+        "explanation": "怒號比作響多了如人發怒呼叫的力量感，令陰风更可怖。兩者都可以寫聲音，但前者帶情態和強度，服務陰森悲景，換字不能只比字數。",
+        "summary": "怒號比作響多了如人發怒呼叫的力量感，令陰风更可怖。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "只減少風聲的音量資訊，不影響任何情感色彩",
+            "explanation": "怒不只報音量，也帶發怒般情態。"
+          },
+          {
+            "id": "b",
+            "text": "只減少風向資訊，因怒字本來指出風由北來",
+            "explanation": "怒沒有指示風向。"
+          },
+          {
+            "id": "c",
+            "text": "風如人發怒呼號的力量感和可怖氣氛",
+            "explanation": "怒號比作響多了如人發怒呼叫的力量感，令陰风更可怖。"
+          },
+          {
+            "id": "d",
+            "text": "使風由聽覺轉為視覺，因怒字專寫風的顏色",
+            "explanation": "怒不是顏色，仍以聽覺感到猛烈。"
+          }
+        ],
+        "misconception": "怒不只報音量，也帶發怒般情態；怒沒有指示風向；怒不是顏色，仍以聽覺感到猛烈。"
+      },
+      "objective": "「陰風怒號」若改作「陰風作響」，會減弱甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-11-00-03",
+      "ordinal": 118,
+      "baseQuestionHash": "fed84299fe76a9e34971938b0908ffd6e5a627b94f129df50ee9947e0e116f03",
+      "patch": {
+        "explanation": "停航、桅倒槳斷把風浪危害化成可見後果，屬間接描寫環境。讀者由人事受阻感到險惡，比泛說風大具體；不能歸咎商旅性格怯懦。",
+        "summary": "停航、桅倒槳斷把風浪危害化成可見後果，屬間接描寫環境。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "把景物的力量改成人物性格，突出商旅怯懦",
+            "explanation": "停航有風浪破壞依據，不證商旅膽小。"
+          },
+          {
+            "id": "b",
+            "text": "由風浪轉入工程說明，主要介紹船具如何修造",
+            "explanation": "沒有介紹修船程序，重損壞的效果。"
+          },
+          {
+            "id": "c",
+            "text": "用停航和船具毀損的後果，間接使風浪危害具體化",
+            "explanation": "停航、桅倒槳斷把風浪危害化成可見後果，屬間接描寫環境。"
+          },
+          {
+            "id": "d",
+            "text": "把環境與人事切開，使船隻損壞成為無關插事",
+            "explanation": "人事正與環境因果相扣，非無關插事。"
+          }
+        ],
+        "misconception": "停航有風浪破壞依據，不證商旅膽小；沒有介紹修船程序，重損壞的效果；人事正與環境因果相扣，非無關插事。"
+      },
+      "objective": "寫「商旅不行，檣傾楫摧」而不只說「風浪很大」，有何好處？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-11-00-04",
+      "ordinal": 119,
+      "baseQuestionHash": "a9a11dc4228513b46383bb74531732d0d2e097ad5d3336c63c6507a6e1e3e74c",
+      "patch": {
+        "explanation": "薄是迫近，薄暮即將近傍晚，冥冥補寫昏暗天色。這個時間詞和後面的獸聲構成視聽悲景，不能把暮色當有物理厚薄的物件。",
+        "summary": "薄是迫近，薄暮即將近傍晚，冥冥補寫昏暗天色。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "迫近，寫將近傍晚的昏暗",
+            "explanation": "薄是迫近，薄暮即將近傍晚，冥冥補寫昏暗天色。"
+          },
+          {
+            "id": "b",
+            "text": "微薄，寫暮色厚度不足",
+            "explanation": "暮非可量厚度之物。"
+          },
+          {
+            "id": "c",
+            "text": "輕視，寫對傍晚的厭惡",
+            "explanation": "此字不表示作者輕視傍晚。"
+          },
+          {
+            "id": "d",
+            "text": "依附，寫黑夜貼近山岳",
+            "explanation": "接近時間不是依附山岳的空間動作。"
+          }
+        ],
+        "misconception": "暮非可量厚度之物；此字不表示作者輕視傍晚；接近時間不是依附山岳的空間動作。"
+      },
+      "objective": "「薄暮冥冥」的「薄」如何理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-11-00-05",
+      "ordinal": 120,
+      "baseQuestionHash": "03e8e27598089de48e764f673f50513dcf51bc0129eaeb9d0b5c85fbda35135c",
+      "patch": {
+        "explanation": "遷客離開京師而思鄉，又怕誹謗譏諷，憂思指向自己受貶的身世。眼前陰景觸發這些感受，但不等於所有詞都在說航行風險。",
+        "summary": "遷客離開京師而思鄉，又怕誹謗譏諷，憂思指向自己受貶的身世。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "離開家鄉遠遊，主要擔心路途上的住宿與飲食",
+            "explanation": "原文著眼離京與讒譏，未列飲食住宿。"
+          },
+          {
+            "id": "b",
+            "text": "雖在京師任職，卻因想起家鄉而不願參與朝政",
+            "explanation": "去國說已離京，不是仍在京任職。"
+          },
+          {
+            "id": "c",
+            "text": "懷鄉與憂讒畏譏都只是眼前的風浪危險，沒有身世層次",
+            "explanation": "讒譏屬人事名譽，不能縮成風浪危險。"
+          },
+          {
+            "id": "d",
+            "text": "離京思鄉，又怕讒言和譏諷，憂思繫於自身遭遇",
+            "explanation": "遷客離開京師而思鄉，又怕誹謗譏諷，憂思指向自己受貶的身世。"
+          }
+        ],
+        "misconception": "原文著眼離京與讒譏，未列飲食住宿；去國說已離京，不是仍在京任職；讒譏屬人事名譽，不能縮成風浪危險。"
+      },
+      "objective": "「去國懷鄉，憂讒畏譏」怎樣表現遷客的心事？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-11-00-07",
+      "ordinal": 121,
+      "baseQuestionHash": "bd3d4c6a1ff3a5dd5e185af27141801b2f189a58db1548479d5785c9edae3cff",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：國指京師，憂讒畏譏指自身名譽，兩者連到貶謫身世。乙：原文沒有把重點放在食宿困難，且去國不只是離家旅遊。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：國指京師，憂讒畏譏指自身名譽，兩者連到貶謫身世。乙：原文沒有把重點放在食宿困難，且去國不只是離家旅遊。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：原文沒有把重點放在食宿困難，且去國不只是離家旅遊。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：國指京師，憂讒畏譏指自身名譽，兩者連到貶謫身世。對乙的判斷不合：原文沒有把重點放在食宿困難，且去國不只是離家旅遊。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：國指京師，憂讒畏譏指自身名譽，兩者連到貶謫身世。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：原文沒有把重點放在食宿困難，且去國不只是離家旅遊；對甲的判斷不合：國指京師，憂讒畏譏指自身名譽，兩者連到貶謫身世。對乙的判斷不合：原文沒有把重點放在食宿困難，且去國不只是離家旅遊；對甲的判斷不合：國指京師，憂讒畏譏指自身名譽，兩者連到貶謫身世。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「去國懷鄉，憂讒畏譏」怎樣表現遷客的心事？\n甲：離京思鄉，又怕讒言和譏諷，憂思繫於自身遭遇\n乙：離開家鄉遠遊，主要擔心路途上的住宿與飲食",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-11-00-15",
+      "ordinal": 122,
+      "baseQuestionHash": "905aaa140de1f7c4d2e4e882bb383e24c65670023a6793a0e43141d784f58c19",
+      "patch": {
+        "explanation": "香草繁茂、青翠而芳香，豐富春景的色澤、生長狀態與氣息。岸與汀又擴展分布位置，與鳥魚活動共同顯生機；郁郁不是在此直寫憂鬱。",
+        "summary": "香草繁茂、青翠而芳香，豐富春景的色澤、生長狀態與氣息。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "以草木顏色由青轉黃，暗示晴景將很快衰敗",
+            "explanation": "青青沒有由青轉黃的過程。"
+          },
+          {
+            "id": "b",
+            "text": "以香草的繁茂、青翠及芳香，增添春日生機",
+            "explanation": "香草繁茂、青翠而芳香，豐富春景的色澤、生長狀態與氣息。"
+          },
+          {
+            "id": "c",
+            "text": "以郁郁直接寫登樓者憂鬱，取消晴景的愉悦",
+            "explanation": "主體是草木，不是人心憂鬱。"
+          },
+          {
+            "id": "d",
+            "text": "以香草稀疏低矮，突出湖岸荒涼少人",
+            "explanation": "繁盛與稀疏荒涼相反。"
+          }
+        ],
+        "misconception": "青青沒有由青轉黃的過程；主體是草木，不是人心憂鬱；繁盛與稀疏荒涼相反。"
+      },
+      "objective": "「岸芷汀蘭，郁郁青青」怎樣豐富晴景？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-11-00-17",
+      "ordinal": 123,
+      "baseQuestionHash": "7140c8a6d87771a0945cc73fb4e33d93ef91b27d6a2a3e97c100e752d219d3d9",
+      "patch": {
+        "explanation": "煙霧全部消散，明亮月光遂照開廣遠空間，畫面由遮蔽轉清朗。一表全，空表消散，千里再極寫月光廣照；不是煙更濃或月尚未出。",
+        "summary": "煙霧全部消散，明亮月光遂照開廣遠空間，畫面由遮蔽轉清朗。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "大片煙霧漸濃，月光只能朦朧透出",
+            "explanation": "一空與漸濃相反。"
+          },
+          {
+            "id": "b",
+            "text": "大片煙霧消散，明亮月光照開廣遠空間",
+            "explanation": "煙霧全部消散，明亮月光遂照開廣遠空間，畫面由遮蔽轉清朗。"
+          },
+          {
+            "id": "c",
+            "text": "煙霧仍然遮湖，月光只照到高樓之上",
+            "explanation": "煙已全消，並未只讓高樓見月。"
+          },
+          {
+            "id": "d",
+            "text": "白晝日光消退，夜月尚未出現",
+            "explanation": "皓月已在，不能說月未出。"
+          }
+        ],
+        "misconception": "一空與漸濃相反；煙已全消，並未只讓高樓見月；皓月已在，不能說月未出。"
+      },
+      "objective": "「長煙一空，皓月千里」怎樣改變畫面？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-11-00-19",
+      "ordinal": 124,
+      "baseQuestionHash": "10a783ad20559c101b1af3a4aacdb2cd35cc2a7391177e6876b657e60294f5d2",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：一空為全消，皓月千里顯明亮廣照。乙：煙霧加濃與一空相反，月色也不是只朦朧透出。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：煙霧加濃與一空相反，月色也不是只朦朧透出。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：一空為全消，皓月千里顯明亮廣照。對乙的判斷不合：煙霧加濃與一空相反，月色也不是只朦朧透出。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：一空為全消，皓月千里顯明亮廣照。乙：煙霧加濃與一空相反，月色也不是只朦朧透出。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：一空為全消，皓月千里顯明亮廣照。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：煙霧加濃與一空相反，月色也不是只朦朧透出；對甲的判斷不合：一空為全消，皓月千里顯明亮廣照。對乙的判斷不合：煙霧加濃與一空相反，月色也不是只朦朧透出；對甲的判斷不合：一空為全消，皓月千里顯明亮廣照。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「長煙一空，皓月千里」怎樣改變畫面？\n甲：大片煙霧消散，明亮月光照開廣遠空間\n乙：大片煙霧漸濃，月光只能朦朧透出",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-11-00-20",
+      "ordinal": 125,
+      "baseQuestionHash": "bdd8884d38a606e01b0bd0f9cd5d4376a416749e1371104728748fa700b98c88",
+      "patch": {
+        "explanation": "甲不正確，乙正確。甲：一空否定仍遮湖，千里也不把光限制在高樓。乙：煙消使月明景象展開，畫面清朗廣遠。",
+        "summary": "甲不正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對甲的判斷不合：一空否定仍遮湖，千里也不把光限制在高樓。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙不正確",
+            "explanation": "對甲的判斷不合：一空否定仍遮湖，千里也不把光限制在高樓。對乙的判斷不合：煙消使月明景象展開，畫面清朗廣遠。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對乙的判斷不合：煙消使月明景象展開，畫面清朗廣遠。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙正確",
+            "explanation": "甲不正確，乙正確。甲：一空否定仍遮湖，千里也不把光限制在高樓。乙：煙消使月明景象展開，畫面清朗廣遠。"
+          }
+        ],
+        "misconception": "對甲的判斷不合：一空否定仍遮湖，千里也不把光限制在高樓；對甲的判斷不合：一空否定仍遮湖，千里也不把光限制在高樓。對乙的判斷不合：煙消使月明景象展開，畫面清朗廣遠；對乙的判斷不合：煙消使月明景象展開，畫面清朗廣遠。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「長煙一空，皓月千里」怎樣改變畫面？\n甲：煙霧仍然遮湖，月光只照到高樓之上\n乙：大片煙霧消散，明亮月光照開廣遠空間",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-11-00-21",
+      "ordinal": 126,
+      "baseQuestionHash": "39a4a2d558ca9035d1ca8eeddfd2d468dbaeaf6ad9dc85cfe0968981c849366d",
+      "patch": {
+        "explanation": "躍使水面月光隨波閃動，像金光跳躍，寫浮光的動態。它和靜影沉璧互補，不等於湖上重新出現陰段猛烈風浪，也不推翻晴景基調。",
+        "summary": "躍使水面月光隨波閃動，像金光跳躍，寫浮光的動態。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "月影邊緣清晰而固定，主要寫完整圓形",
+            "explanation": "清晰固定的圓形較合靜影，非浮光。"
+          },
+          {
+            "id": "b",
+            "text": "隨水波閃動，像金光跳躍",
+            "explanation": "躍使水面月光隨波閃動，像金光跳躍，寫浮光的動態。"
+          },
+          {
+            "id": "c",
+            "text": "月光覆蓋範圍廣遠，主要與千里呼應而不寫形態",
+            "explanation": "躍重閃動形態，不只照射面積。"
+          },
+          {
+            "id": "d",
+            "text": "湖水起伏猛烈，足以推翻第四段波瀾不驚的基調",
+            "explanation": "細微波動可使光跳動，不必是風急浪高。"
+          }
+        ],
+        "misconception": "清晰固定的圓形較合靜影，非浮光；躍重閃動形態，不只照射面積；細微波動可使光跳動，不必是風急浪高。"
+      },
+      "objective": "「浮光躍金」的「躍」使月光呈現哪種狀態？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-11-00-26",
+      "ordinal": 127,
+      "baseQuestionHash": "2d7a4ec8677341f8c2f8e200d050d1f62d1c6cac45b4e67802e08469594dbeaa",
+      "patch": {
+        "explanation": "洋洋在其喜洋洋中形容登樓者喜悅的樣子，喜直接限定了詞義。與西山洋洋乎的廣大無盡不同，同一疊詞須依所修飾內容辨義。",
+        "summary": "洋洋在其喜洋洋中形容登樓者喜悅的樣子，喜直接限定了詞義。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "洞庭水面廣闊的面積",
+            "explanation": "這裏修飾喜，不是湖面面積。"
+          },
+          {
+            "id": "b",
+            "text": "漁船遠航的路程",
+            "explanation": "沒有描述漁船航程。"
+          },
+          {
+            "id": "c",
+            "text": "登樓者喜悅的神情",
+            "explanation": "洋洋在其喜洋洋中形容登樓者喜悅的樣子，喜直接限定了詞義。"
+          },
+          {
+            "id": "d",
+            "text": "波濤沖岸的聲音",
+            "explanation": "喜悅神情不是浪濤聲。"
+          }
+        ],
+        "misconception": "這裏修飾喜，不是湖面面積；沒有描述漁船航程；喜悅神情不是浪濤聲。"
+      },
+      "objective": "「其喜洋洋者矣」的「洋洋」在語境中形容甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-11-00-27",
+      "ordinal": 128,
+      "baseQuestionHash": "f769fb98b9547ff29355ee0440ee86820f3f91a744b96173e6983599e7edf130",
+      "patch": {
+        "explanation": "嘗是曾經，予嘗求說作者此前已思考古仁人的內心。它使議論呈現為有所探求後提出，而非尚未開始或只在將來才做。",
+        "summary": "嘗是曾經，予嘗求說作者此前已思考古仁人的內心。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "正在初次探求",
+            "explanation": "曾經不限定正在初次進行。"
+          },
+          {
+            "id": "b",
+            "text": "將來才會探求",
+            "explanation": "將來與回顧已做的方向相反。"
+          },
+          {
+            "id": "c",
+            "text": "曾經探求",
+            "explanation": "嘗是曾經，予嘗求說作者此前已思考古仁人的內心。"
+          },
+          {
+            "id": "d",
+            "text": "從未探求",
+            "explanation": "嘗肯定曾探求，非從未。"
+          }
+        ],
+        "misconception": "曾經不限定正在初次進行；將來與回顧已做的方向相反；嘗肯定曾探求，非從未。"
+      },
+      "objective": "「予嘗求古仁人之心」的「嘗」為這個思考加上甚麼時間意思？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-11-00-31",
+      "ordinal": 129,
+      "baseQuestionHash": "08f6919730084958e74ff548d5311a7c4ba8e80eb0e0757b021fa628aed2aabb",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：以物喜問喜因何而生，因此以表示原因。乙：表目的的以見作文以記之，不能移到不以物喜。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：以物喜問喜因何而生，因此以表示原因。乙：表目的的以見作文以記之，不能移到不以物喜。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：表目的的以見作文以記之，不能移到不以物喜。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：以物喜問喜因何而生，因此以表示原因。對乙的判斷不合：表目的的以見作文以記之，不能移到不以物喜。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：以物喜問喜因何而生，因此以表示原因。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：表目的的以見作文以記之，不能移到不以物喜；對甲的判斷不合：以物喜問喜因何而生，因此以表示原因。對乙的判斷不合：表目的的以見作文以記之，不能移到不以物喜；對甲的判斷不合：以物喜問喜因何而生，因此以表示原因。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「不以物喜」的「以」與哪項解釋相符？\n甲：因為，引出情緒的原因\n乙：為了，引出行動的目的",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-11-00-34",
+      "ordinal": 130,
+      "baseQuestionHash": "579a8f7eb1fa2ab99c05ffacaaae8b356462f78ac5f4c9234a2c5add15b10c53",
+      "patch": {
+        "explanation": "進是在朝任官，退是不在朝廷任官，承接廟堂之高與江湖之遠。兩種政治處境雖異，亦憂重申責任相同，不是登樓腳步前後。",
+        "summary": "進是在朝任官，退是不在朝廷任官，承接廟堂之高與江湖之遠。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "在朝任官；不在朝廷任官",
+            "explanation": "進是在朝任官，退是不在朝廷任官，承接廟堂之高與江湖之遠。"
+          },
+          {
+            "id": "b",
+            "text": "積極辦事；停止履責",
+            "explanation": "進退指任官處境，退亦憂說退仍履責。"
+          },
+          {
+            "id": "c",
+            "text": "取得聲望；失去名譽",
+            "explanation": "個人聲譽不是進退在這裏的準確界定。"
+          },
+          {
+            "id": "d",
+            "text": "仕途得意；主動歸隱",
+            "explanation": "進退以在朝在野為準，退不限定主動隱居。"
+          }
+        ],
+        "misconception": "進退指任官處境，退亦憂說退仍履責；個人聲譽不是進退在這裏的準確界定；進退以在朝在野為準，退不限定主動隱居。"
+      },
+      "objective": "「進亦憂，退亦憂」中「進」「退」分別指甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-c-09-11-00-35",
+      "ordinal": 131,
+      "baseQuestionHash": "86a8b5f79b99438664cb3cf66e1a76aeebedbf393f907ec2220bdbb62478b600",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：進退承接在朝高位與遠處江湖的政治處境。乙：末段已在論憂君民，並非記上下樓的身體動作。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：末段已在論憂君民，並非記上下樓的身體動作。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：進退承接在朝高位與遠處江湖的政治處境。對乙的判斷不合：末段已在論憂君民，並非記上下樓的身體動作。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：進退承接在朝高位與遠處江湖的政治處境。乙：末段已在論憂君民，並非記上下樓的身體動作。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：進退承接在朝高位與遠處江湖的政治處境。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：末段已在論憂君民，並非記上下樓的身體動作；對甲的判斷不合：進退承接在朝高位與遠處江湖的政治處境。對乙的判斷不合：末段已在論憂君民，並非記上下樓的身體動作；對甲的判斷不合：進退承接在朝高位與遠處江湖的政治處境。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「進亦憂，退亦憂」中「進」「退」分別指甚麼？\n甲：在朝任官；不在朝廷任官\n乙：登上樓層；走下樓層",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-11-00-37",
+      "ordinal": 132,
+      "baseQuestionHash": "fd3c0831618d58173a71091ddfff87845b6fc59df615e3bb7d04ee156e3809bb",
+      "patch": {
+        "explanation": "斯人回指古仁人，歸指願依從其志向、與其同道。反問把先憂後樂的議論落到作者自身選擇，雖可勉友，也不能把斯人限成滕子京別稱。",
+        "summary": "斯人回指古仁人，歸指願依從其志向、與其同道。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "斯人只指滕子京；歸指政治上聽從其任命",
+            "explanation": "仁人是人格類型，非只指滕或其任命權。"
+          },
+          {
+            "id": "b",
+            "text": "斯人指前述悲喜兩類遷客；歸指一同賞湖",
+            "explanation": "不是追隨前述兩種因景悲喜者。"
+          },
+          {
+            "id": "c",
+            "text": "斯人指古仁人；歸只是由江湖返回京師",
+            "explanation": "歸重思想同道，並非返京路線。"
+          },
+          {
+            "id": "d",
+            "text": "斯人指古仁人；歸指依從同道，表追隨其胸懷",
+            "explanation": "斯人回指古仁人，歸指願依從其志向、與其同道。"
+          }
+        ],
+        "misconception": "仁人是人格類型，非只指滕或其任命權；不是追隨前述兩種因景悲喜者；歸重思想同道，並非返京路線。"
+      },
+      "objective": "「微斯人，吾誰與歸」的「斯人」「歸」怎樣連在一起？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-11-00-38",
+      "ordinal": 133,
+      "baseQuestionHash": "9bf47e32e04419f5e4a2bf6973bc32a1ae6e5fc4e4213220f47a27744c588ebb",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：斯人回指古仁人，歸表追隨其胸懷、與之同道。乙：文中未將古仁人限成滕一人，更未把歸寫成接受其任命。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：文中未將古仁人限成滕一人，更未把歸寫成接受其任命。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：斯人回指古仁人，歸表追隨其胸懷、與之同道。對乙的判斷不合：文中未將古仁人限成滕一人，更未把歸寫成接受其任命。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：斯人回指古仁人，歸表追隨其胸懷、與之同道。乙：文中未將古仁人限成滕一人，更未把歸寫成接受其任命。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：斯人回指古仁人，歸表追隨其胸懷、與之同道。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：文中未將古仁人限成滕一人，更未把歸寫成接受其任命；對甲的判斷不合：斯人回指古仁人，歸表追隨其胸懷、與之同道。對乙的判斷不合：文中未將古仁人限成滕一人，更未把歸寫成接受其任命；對甲的判斷不合：斯人回指古仁人，歸表追隨其胸懷、與之同道。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「微斯人，吾誰與歸」的「斯人」「歸」怎樣連在一起？\n甲：斯人指古仁人；歸指依從同道，表追隨其胸懷\n乙：斯人只指滕子京；歸指政治上聽從其任命",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-11-01-80",
+      "ordinal": 134,
+      "baseQuestionHash": "069c42c8720d418457d43d1c75bf0a96c80df7a8be7d51670e4dc012d7c8f01d",
+      "patch": {
+        "explanation": "廟堂之高說身居朝廷高位，江湖之遠說身在僻遠民間。處所短語相對，表達仕退位置；高與遠不能只按樓高或路程來譯，須保持政治含義。",
+        "summary": "廟堂之高說身居朝廷高位，江湖之遠說身在僻遠民間。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "居住高大的廟宇，行走遙遠江路",
+            "explanation": "廟堂與江湖在此非廟宇和江路。"
+          },
+          {
+            "id": "b",
+            "text": "在朝任職並升遷，到外地遊覽山水",
+            "explanation": "未必有升遷動作，更非出外觀光。"
+          },
+          {
+            "id": "c",
+            "text": "身處地勢高的京城，任職距離近的地方",
+            "explanation": "高非地勢高，遠也不能譯成近。"
+          },
+          {
+            "id": "d",
+            "text": "處於朝廷高位，身在僻遠民間",
+            "explanation": "廟堂之高說身居朝廷高位，江湖之遠說身在僻遠民間。"
+          }
+        ],
+        "misconception": "廟堂與江湖在此非廟宇和江路；未必有升遷動作，更非出外觀光；高非地勢高，遠也不能譯成近。"
+      },
+      "objective": "「居廟堂之高，處江湖之遠」的處所關係，哪項語譯準確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-12-01-01",
+      "ordinal": 135,
+      "baseQuestionHash": "2c066a611f53ea016a2c0ccc012f71790178bee0442141c4d3774fb3b8022825",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：陰段光蔽天暗，晴段日月明亮，構成具體明暗反差。乙：獸聲漁歌的聽覺對照不會取消同段存在的視覺反差。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：獸聲漁歌的聽覺對照不會取消同段存在的視覺反差。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：陰段光蔽天暗，晴段日月明亮，構成具體明暗反差。對乙的判斷不合：獸聲漁歌的聽覺對照不會取消同段存在的視覺反差。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：陰段光蔽天暗，晴段日月明亮，構成具體明暗反差。乙：獸聲漁歌的聽覺對照不會取消同段存在的視覺反差。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：陰段光蔽天暗，晴段日月明亮，構成具體明暗反差。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：獸聲漁歌的聽覺對照不會取消同段存在的視覺反差；對甲的判斷不合：陰段光蔽天暗，晴段日月明亮，構成具體明暗反差。對乙的判斷不合：獸聲漁歌的聽覺對照不會取消同段存在的視覺反差；對甲的判斷不合：陰段光蔽天暗，晴段日月明亮，構成具體明暗反差。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：第三、四段如何以光線和天候構成對照？\n甲：久雨昏暗、日星隱耀，對春和景明、皓月千里\n乙：陰段以獸聲為主、晴段以漁歌為主，因此兩段没有視覺反差",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-12-01-02",
+      "ordinal": 136,
+      "baseQuestionHash": "7c435026ade4f0aa10fdaff46984d7ec2cdadf048638e74f06d430e894fbe78d",
+      "patch": {
+        "explanation": "甲正確，乙正確。甲：悲喜雖異，情緒仍隨景與私己，故可一併與仁人相比。乙：判準和關懷才是比較層次，非只看情緒方向或強弱。",
+        "summary": "甲正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "甲正確，乙正確。甲：悲喜雖異，情緒仍隨景與私己，故可一併與仁人相比。乙：判準和關懷才是比較層次，非只看情緒方向或強弱。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙不正確",
+            "explanation": "對乙的判斷不合：判準和關懷才是比較層次，非只看情緒方向或強弱。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：悲喜雖異，情緒仍隨景與私己，故可一併與仁人相比。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：悲喜雖異，情緒仍隨景與私己，故可一併與仁人相比。對乙的判斷不合：判準和關懷才是比較層次，非只看情緒方向或強弱。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：判準和關懷才是比較層次，非只看情緒方向或強弱；對甲的判斷不合：悲喜雖異，情緒仍隨景與私己，故可一併與仁人相比；對甲的判斷不合：悲喜雖異，情緒仍隨景與私己，故可一併與仁人相比。對乙的判斷不合：判準和關懷才是比較層次，非只看情緒方向或強弱。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「感極而悲」與「其喜洋洋」感情相反，何以仍被合稱「二者」？\n甲：兩者都由景物牽動個人悲喜，與古仁人的穩定原則有別\n乙：陰晴兩段的情緒雖不同，判準仍繫於眼前景物及自身得失，故可作同一層次與仁人比較。",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-12-01-03",
+      "ordinal": 137,
+      "baseQuestionHash": "7c8b41fd558a39ba758b40a83b2264610268b019fbccbba6cfc50859a290d398",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：遷客易由自身際遇而悲喜，仁人退處仍憂君民。乙：退亦憂排除了只圖個人隱居安適的理解。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：退亦憂排除了只圖個人隱居安適的理解。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：遷客易由自身際遇而悲喜，仁人退處仍憂君民。乙：退亦憂排除了只圖個人隱居安適的理解。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：遷客易由自身際遇而悲喜，仁人退處仍憂君民。對乙的判斷不合：退亦憂排除了只圖個人隱居安適的理解。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：遷客易由自身際遇而悲喜，仁人退處仍憂君民。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：退亦憂排除了只圖個人隱居安適的理解；對甲的判斷不合：遷客易由自身際遇而悲喜，仁人退處仍憂君民。對乙的判斷不合：退亦憂排除了只圖個人隱居安適的理解；對甲的判斷不合：遷客易由自身際遇而悲喜，仁人退處仍憂君民。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：同是失意在外，遷客騷人與古仁人的差別在哪裏？\n甲：前者易被私己遭遇和外景牽動；後者仍關心君民\n乙：前者受景左右；後者只要離開朝廷，便以個人退隱安適為樂",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-12-03-01",
+      "ordinal": 138,
+      "baseQuestionHash": "5b4138c531f17f229a7fa4422aebf4cc4c51cbfb30baf33dce55f5971a97637c",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：暮色昏暗加獸聲淒厲，視聽共同加深悲涼。乙：有聲有動不必為歡樂，虎猿聲在此配合陰森氣氛。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：暮色昏暗加獸聲淒厲，視聽共同加深悲涼。乙：有聲有動不必為歡樂，虎猿聲在此配合陰森氣氛。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：有聲有動不必為歡樂，虎猿聲在此配合陰森氣氛。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：暮色昏暗加獸聲淒厲，視聽共同加深悲涼。對乙的判斷不合：有聲有動不必為歡樂，虎猿聲在此配合陰森氣氛。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：暮色昏暗加獸聲淒厲，視聽共同加深悲涼。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：有聲有動不必為歡樂，虎猿聲在此配合陰森氣氛；對甲的判斷不合：暮色昏暗加獸聲淒厲，視聽共同加深悲涼。對乙的判斷不合：有聲有動不必為歡樂，虎猿聲在此配合陰森氣氛；對甲的判斷不合：暮色昏暗加獸聲淒厲，視聽共同加深悲涼。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「虎嘯猿啼」置於「薄暮冥冥」之後，有何作用？\n甲：昏暗暮色再加淒厲獸聲，增添陰森悲涼\n乙：以獸聲打破寂靜，便使陰景轉為與晴景相同的生機之樂",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-12-03-02",
+      "ordinal": 139,
+      "baseQuestionHash": "2549edb609a3beb32d1a4537335171a103f29514b10b8d10148a739a8cad45e0",
+      "patch": {
+        "explanation": "鳥飛停、魚游動使明淨湖景充滿生機，與登樓者愉悅相應。這是動景為畫面添活力，不能由動物自由直接證明人物已建立超越私己的原則。",
+        "summary": "鳥飛停、魚游動使明淨湖景充滿生機，與登樓者愉悅相應。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "以鳥魚的自由，直接證明登樓者已不再受任何個人得失影響",
+            "explanation": "景物狀態不能直接證成長久人格境界。"
+          },
+          {
+            "id": "b",
+            "text": "以鳥魚的活動表示湖水必定洶湧，補寫第三段風浪",
+            "explanation": "鳥魚能動不等於湖水洶湧。"
+          },
+          {
+            "id": "c",
+            "text": "以鳥魚自由活動增添生機，與登樓者愉悅相應",
+            "explanation": "鳥飛停、魚游動使明淨湖景充滿生機，與登樓者愉悅相應。"
+          },
+          {
+            "id": "d",
+            "text": "以飛與游把天水分開，強調上下景色互不相容",
+            "explanation": "天水有不同活動仍可相映，非互不相容。"
+          }
+        ],
+        "misconception": "景物狀態不能直接證成長久人格境界；鳥魚能動不等於湖水洶湧；天水有不同活動仍可相映，非互不相容。"
+      },
+      "objective": "「沙鷗翔集，錦鱗游泳」對晴景有何作用？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-12-03-03",
+      "ordinal": 140,
+      "baseQuestionHash": "c825205a9dbe91a3e3d90811bdd00c28ea50d5367ddc44e6f6e2bae786c63f14",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：芷蘭繁茂青翠與芳香，從植物一層增添晴景生機。乙：青青沒有轉黃，更未暗示立即衰敗。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：青青沒有轉黃，更未暗示立即衰敗。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：芷蘭繁茂青翠與芳香，從植物一層增添晴景生機。乙：青青沒有轉黃，更未暗示立即衰敗。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：芷蘭繁茂青翠與芳香，從植物一層增添晴景生機。對乙的判斷不合：青青沒有轉黃，更未暗示立即衰敗。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：芷蘭繁茂青翠與芳香，從植物一層增添晴景生機。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：青青沒有轉黃，更未暗示立即衰敗；對甲的判斷不合：芷蘭繁茂青翠與芳香，從植物一層增添晴景生機。對乙的判斷不合：青青沒有轉黃，更未暗示立即衰敗；對甲的判斷不合：芷蘭繁茂青翠與芳香，從植物一層增添晴景生機。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「岸芷汀蘭，郁郁青青」怎樣豐富晴景？\n甲：以香草的繁茂、青翠及芳香，增添春日生機\n乙：以草木顏色由青轉黃，暗示晴景將很快衰敗",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-12-03-04",
+      "ordinal": 141,
+      "baseQuestionHash": "74b1ce66b961d21db8bd621c50b057e7f7110fc6a041fd3095085823b6f83059",
+      "patch": {
+        "explanation": "圓月倒影像玉璧，可見水面平靜明淨，沉卻不是測量水深的證據。比喻寫的是月影彷彿沉在水中，不是真玉落底；從景象推論須保留這個界限。",
+        "summary": "圓月倒影像玉璧，可見水面平靜明淨，沉卻不是測量水深的證據。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "圓月倒影如玉璧可表水面平靜明淨，單憑沉字不能判水深",
+            "explanation": "圓月倒影像玉璧，可見水面平靜明淨，沉卻不是測量水深的證據。"
+          },
+          {
+            "id": "b",
+            "text": "既有沉字，便足以確定湖比長江更深",
+            "explanation": "單字沉不足比較兩處水深。"
+          },
+          {
+            "id": "c",
+            "text": "以玉璧喻月影，只能說月色潔白，不能觀察水面特點",
+            "explanation": "完整靜影仍能反映水面狀態，不只月色。"
+          },
+          {
+            "id": "d",
+            "text": "倒影與實景必不相干，所以這句不能用於寫湖",
+            "explanation": "倒影正由水面呈現，能用以寫湖。"
+          }
+        ],
+        "misconception": "單字沉不足比較兩處水深；完整靜影仍能反映水面狀態，不只月色；倒影正由水面呈現，能用以寫湖。"
+      },
+      "objective": "有人以「靜影沉璧」證明湖水很深。哪項評議較恰當？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-12-03-05",
+      "ordinal": 142,
+      "baseQuestionHash": "d08a8bf766cd8635e2a916f428275c917b39798c6d27fd449d74412274d4f084",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：航行受阻及舟具毀損是風浪造成的後果，間接具體化危害。乙：停航有客觀危險，並不證明商旅性格怯懦。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：停航有客觀危險，並不證明商旅性格怯懦。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：航行受阻及舟具毀損是風浪造成的後果，間接具體化危害。乙：停航有客觀危險，並不證明商旅性格怯懦。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：航行受阻及舟具毀損是風浪造成的後果，間接具體化危害。對乙的判斷不合：停航有客觀危險，並不證明商旅性格怯懦。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：航行受阻及舟具毀損是風浪造成的後果，間接具體化危害。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：停航有客觀危險，並不證明商旅性格怯懦；對甲的判斷不合：航行受阻及舟具毀損是風浪造成的後果，間接具體化危害。對乙的判斷不合：停航有客觀危險，並不證明商旅性格怯懦；對甲的判斷不合：航行受阻及舟具毀損是風浪造成的後果，間接具體化危害。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：寫「商旅不行，檣傾楫摧」而不只說「風浪很大」，有何好處？\n甲：用停航和船具毀損的後果，間接使風浪危害具體化\n乙：把景物的力量改成人物性格，突出商旅怯懦",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-12-03-06",
+      "ordinal": 143,
+      "baseQuestionHash": "3fb294c5d5eb4cdbad1397572d451b741dccbc2a46cf873dbed36749dc2be754",
+      "patch": {
+        "explanation": "廣闊明淨天水作背景，鳥魚活動與漁歌添生機聲息，形成動靜相映。靜景提供空間，動景使之有生活感，兩者共同服務晴景欣喜而非互相排斥。",
+        "summary": "廣闊明淨天水作背景，鳥魚活動與漁歌添生機聲息，形成動靜相映。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "只有平靜天水才與喜情相配，鳥魚漁歌在結構上屬無關插入",
+            "explanation": "鳥魚漁歌正豐富晴景，非無關插筆。"
+          },
+          {
+            "id": "b",
+            "text": "鳥魚漁歌屬實寫，天水一色因太廣闊只能算虛寫",
+            "explanation": "範圍廣不等於虛寫，不能如此分真假。"
+          },
+          {
+            "id": "c",
+            "text": "廣闊明淨的背景中有生物活動和生活聲息，動靜相映",
+            "explanation": "廣闊明淨天水作背景，鳥魚活動與漁歌添生機聲息，形成動靜相映。"
+          },
+          {
+            "id": "d",
+            "text": "動態景物較靜景重要，因此天水一色在全段沒有烘托作用",
+            "explanation": "不能因有動景就否定靜景背景作用。"
+          }
+        ],
+        "misconception": "鳥魚漁歌正豐富晴景，非無關插筆；範圍廣不等於虛寫，不能如此分真假；不能因有動景就否定靜景背景作用。"
+      },
+      "objective": "「上下天光，一碧萬頃」之後配鳥魚、漁歌，整幅圖景有何效果？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-12-04-80",
+      "ordinal": 144,
+      "baseQuestionHash": "e8bb1fb1bbb33c2c1e61793cf1aa7cb46852d73a16af0c88913c948bdd9dc74a",
+      "patch": {
+        "explanation": "兩段以岳陽樓為觀景中心，分設陰晴情境以比較悲喜，不能直接當逐站步行紀錄。景物有先後鋪寫，不等於觀看位置跟着每句移動。",
+        "summary": "兩段以岳陽樓為觀景中心，分設陰晴情境以比較悲喜，不能直接當逐站步行紀錄。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "能：兩段景物依次出現，便足以證明作者腳步逐站移動",
+            "explanation": "語句先後不足證明腳步逐站移動。"
+          },
+          {
+            "id": "b",
+            "text": "能：由風雨寫到晴月，只能說是同次遊程中天候變化",
+            "explanation": "風雨晴月可以是對設情境，非只能同次行程。"
+          },
+          {
+            "id": "c",
+            "text": "不能：只因文中沒有作者姓名，故不能有任何觀景位置",
+            "explanation": "有無作者姓名不決定觀景位置。"
+          },
+          {
+            "id": "d",
+            "text": "不能：觀景以岳陽樓為中心，分設陰晴兩種情境作比較",
+            "explanation": "兩段以岳陽樓為觀景中心，分設陰晴情境以比較悲喜，不能直接當逐站步行紀錄。"
+          }
+        ],
+        "misconception": "語句先後不足證明腳步逐站移動；風雨晴月可以是對設情境，非只能同次行程；有無作者姓名不決定觀景位置。"
+      },
+      "objective": "第三、四段能否直接當作作者一路步行、逐站換景的紀錄？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-12-06-01",
+      "ordinal": 145,
+      "baseQuestionHash": "9f043235557562d9226d53c819ef330662f3ade688c9757ed4c9330656a85633",
+      "patch": {
+        "explanation": "銜吞使湖像有含納能力，賦靜態山水以力量，較接連更見恢宏氣勢。兩組都說關係，差別在動詞帶出的形象與動勢，而非原句地理數據更精密。",
+        "summary": "銜吞使湖像有含納能力，賦靜態山水以力量，較接連更見恢宏氣勢。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "銜與接都寫聯繫，所以原句只增加字面難度而無形象差異",
+            "explanation": "意思相近仍可有形象和氣勢差異。"
+          },
+          {
+            "id": "b",
+            "text": "銜吞如含納動作，賦湖以力量，突出恢宏氣勢",
+            "explanation": "銜吞使湖像有含納能力，賦靜態山水以力量，較接連更見恢宏氣勢。"
+          },
+          {
+            "id": "c",
+            "text": "吞重點是長江比湖強大，把洞庭寫成被江水推動",
+            "explanation": "主體是湖吞納江，不是湖被江推動。"
+          },
+          {
+            "id": "d",
+            "text": "銜吞確定湖水實際流向，主要價值是使地理記述更精密",
+            "explanation": "擬人動詞不提供精密流向數據。"
+          }
+        ],
+        "misconception": "意思相近仍可有形象和氣勢差異；主體是湖吞納江，不是湖被江推動；擬人動詞不提供精密流向數據。"
+      },
+      "objective": "把「銜遠山，吞長江」換成「接遠山，連長江」，原句在哪方面較有力？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-12-06-02",
+      "ordinal": 146,
+      "baseQuestionHash": "badd510ba33e3846f15e4767abaefbeadf240fae260e25f16c0e68985f275db9",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：怒號寫風如人發怒呼叫，兼有力量和恐怖感。乙：怒帶情態色彩，不只是可量的音量資訊。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：怒帶情態色彩，不只是可量的音量資訊。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：怒號寫風如人發怒呼叫，兼有力量和恐怖感。對乙的判斷不合：怒帶情態色彩，不只是可量的音量資訊。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：怒號寫風如人發怒呼叫，兼有力量和恐怖感。乙：怒帶情態色彩，不只是可量的音量資訊。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：怒號寫風如人發怒呼叫，兼有力量和恐怖感。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：怒帶情態色彩，不只是可量的音量資訊；對甲的判斷不合：怒號寫風如人發怒呼叫，兼有力量和恐怖感。對乙的判斷不合：怒帶情態色彩，不只是可量的音量資訊；對甲的判斷不合：怒號寫風如人發怒呼叫，兼有力量和恐怖感。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「陰風怒號」若改作「陰風作響」，會減弱甚麼？\n甲：風如人發怒呼號的力量感和可怖氣氛\n乙：只減少風聲的音量資訊，不影響任何情感色彩",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-12-06-03",
+      "ordinal": 147,
+      "baseQuestionHash": "b0ec8ccd667119a338f4ab0026fe65767351c82f0f5bc8815cc48fc26d4763c4",
+      "patch": {
+        "explanation": "無際涯極寫範圍，排空極寫浪勢，一碧萬頃寫晴明開展的大片水色。三處都有放大感，但所放大的特點不同，須各回到名詞與動詞搭配。",
+        "summary": "無際涯極寫範圍，排空極寫浪勢，一碧萬頃寫晴明開展的大片水色。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "範圍廣闊；浪勢猛烈；晴景開展",
+            "explanation": "無際涯極寫範圍，排空極寫浪勢，一碧萬頃寫晴明開展的大片水色。"
+          },
+          {
+            "id": "b",
+            "text": "範圍廣闊；浪勢猛烈；湖底深遠",
+            "explanation": "萬頃為面積，不能換成湖底深度。"
+          },
+          {
+            "id": "c",
+            "text": "水勢浩大；空間廣闊；晴景開展",
+            "explanation": "排空強調上衝猛烈，不只是空間廣。"
+          },
+          {
+            "id": "d",
+            "text": "範圍廣闊；天色昏暗；水流急速",
+            "explanation": "排空不是光暗，一碧也不是流速。"
+          }
+        ],
+        "misconception": "萬頃為面積，不能換成湖底深度；排空強調上衝猛烈，不只是空間廣；排空不是光暗，一碧也不是流速。"
+      },
+      "objective": "「橫無際涯」「濁浪排空」「一碧萬頃」分別突出甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-12-06-04",
+      "ordinal": 148,
+      "baseQuestionHash": "d49227908b15bdc2471c42ac39d8a3369bac2d7526b0a8c9d54039e6c26c1a36",
+      "patch": {
+        "explanation": "錦鱗代魚，廟堂代朝廷，江湖指在野處境。前者以部分特徵代整體，後兩者須依仕退語境理解，不能把每個名詞都停在字面物件。",
+        "summary": "錦鱗代魚，廟堂代朝廷，江湖指在野處境。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "魚；在野處境；朝廷",
+            "explanation": "朝廷在野兩者對調。"
+          },
+          {
+            "id": "b",
+            "text": "魚鱗本身；朝廷；在野處境",
+            "explanation": "游泳主體是魚，非魚鱗本身。"
+          },
+          {
+            "id": "c",
+            "text": "魚；寺廟建築；水域景色",
+            "explanation": "後兩詞在憂君民段具有政治處境含義。"
+          },
+          {
+            "id": "d",
+            "text": "魚；朝廷；在野處境",
+            "explanation": "錦鱗代魚，廟堂代朝廷，江湖指在野處境。"
+          }
+        ],
+        "misconception": "朝廷在野兩者對調；游泳主體是魚，非魚鱗本身；後兩詞在憂君民段具有政治處境含義。"
+      },
+      "objective": "「錦鱗」「廟堂」「江湖」在本文分別指甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-12-06-05",
+      "ordinal": 149,
+      "baseQuestionHash": "a84076a673b345619e28027b67f14ed468cc88e6cea88b6e7a84ec12d2af0d23",
+      "patch": {
+        "explanation": "四組依次描水勢、雨態、昏暗、草木繁盛，疊詞加強各自形象與節奏。不能只看到重複形式就說作用全相同；先找浩湯的水、霏霏的雨等所描對象。",
+        "summary": "四組依次描水勢、雨態、昏暗、草木繁盛，疊詞加強各自形象與節奏。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "水勢；昏暗；雨態；草木",
+            "explanation": "霏霏和冥冥的對象倒置。"
+          },
+          {
+            "id": "b",
+            "text": "水勢；雨態；昏暗；草木",
+            "explanation": "四組依次描水勢、雨態、昏暗、草木繁盛，疊詞加強各自形象與節奏。"
+          },
+          {
+            "id": "c",
+            "text": "雨態；水勢；昏暗；草木",
+            "explanation": "浩湯與霏霏的水勢雨態倒置。"
+          },
+          {
+            "id": "d",
+            "text": "水勢；雨態；草木；昏暗",
+            "explanation": "冥冥是天色，郁青青才是草木。"
+          }
+        ],
+        "misconception": "霏霏和冥冥的對象倒置；浩湯與霏霏的水勢雨態倒置；冥冥是天色，郁青青才是草木。"
+      },
+      "objective": "「浩浩湯湯」「霏霏」「冥冥」「郁郁青青」的疊詞各描寫甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-12-08-80",
+      "ordinal": 150,
+      "baseQuestionHash": "17f3683f1a7e72098d809549e7db375cd2cb0cf958f33a1d3936184ad5b890d6",
+      "patch": {
+        "explanation": "日星對山岳，隱耀對潛形，兩句結構相應，構成對偶。共同寫景物受蔽，令明暗層次整齊；沒有前末後首同詞，也未原句重複。",
+        "summary": "日星對山岳，隱耀對潛形，兩句結構相應，構成對偶。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "對偶：日星與山岳、隱耀與潛形相對",
+            "explanation": "日星對山岳，隱耀對潛形，兩句結構相應，構成對偶。"
+          },
+          {
+            "id": "b",
+            "text": "頂真：以前句結尾接作後句開頭",
+            "explanation": "前末耀與後首山不同，非頂真。"
+          },
+          {
+            "id": "c",
+            "text": "排比：三個或以上相似句式連用",
+            "explanation": "只有兩組相應句，非三組以上排比。"
+          },
+          {
+            "id": "d",
+            "text": "反覆：同一句完全重複兩次",
+            "explanation": "詞語內容不同，非同句重複。"
+          }
+        ],
+        "misconception": "前末耀與後首山不同，非頂真；只有兩組相應句，非三組以上排比；詞語內容不同，非同句重複。"
+      },
+      "objective": "「日星隱耀，山岳潛形」主要運用哪種句式安排？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-12-09-80",
+      "ordinal": 151,
+      "baseQuestionHash": "b78bad984b6fdb7f50d2fdc79998424834a1764084e0c1953c61180101c8d6ce",
+      "patch": {
+        "explanation": "並舉在朝與在野，突出處境雖變、關心天下的原則不變。民與君分列所憂對象，不是互相排斥的職責清單，更不能推成地位越高責任越輕。",
+        "summary": "並舉在朝與在野，突出處境雖變、關心天下的原則不變。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "由君與民分工推知，在朝只須顧民而可不理君，在野則反之",
+            "explanation": "分舉強調關懷，不表示可以不理另一方。"
+          },
+          {
+            "id": "b",
+            "text": "由地位高遠決定憂心深淺，表示仕途愈高責任愈輕",
+            "explanation": "原文未把地位高低換算成憂深淺。"
+          },
+          {
+            "id": "c",
+            "text": "顯示仕退雖異，關心天下的原則始終一致",
+            "explanation": "並舉在朝與在野，突出處境雖變、關心天下的原則不變。"
+          },
+          {
+            "id": "d",
+            "text": "以進退並舉說明古仁人也只隨自身官位變化而悲喜",
+            "explanation": "所憂仍為天下，非隨自己官位而悲喜。"
+          }
+        ],
+        "misconception": "分舉強調關懷，不表示可以不理另一方；原文未把地位高低換算成憂深淺；所憂仍為天下，非隨自己官位而悲喜。"
+      },
+      "objective": "「居廟堂之高則憂其民，處江湖之遠則憂其君」並舉不同處境，有何論述作用？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-12-11-01",
+      "ordinal": 152,
+      "baseQuestionHash": "241b189405c33a1dd6ccff93d51640b591c41217736b6d4083cd8f9914997cef",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：得無異乎以反問暗示有異，兩段悲喜即展開這個差異。乙：不是等待單一登樓者提供回答，而是安排文章轉入景情比較。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：不是等待單一登樓者提供回答，而是安排文章轉入景情比較。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：得無異乎以反問暗示有異，兩段悲喜即展開這個差異。對乙的判斷不合：不是等待單一登樓者提供回答，而是安排文章轉入景情比較。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：得無異乎以反問暗示有異，兩段悲喜即展開這個差異。乙：不是等待單一登樓者提供回答，而是安排文章轉入景情比較。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：得無異乎以反問暗示有異，兩段悲喜即展開這個差異。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：不是等待單一登樓者提供回答，而是安排文章轉入景情比較；對甲的判斷不合：得無異乎以反問暗示有異，兩段悲喜即展開這個差異。對乙的判斷不合：不是等待單一登樓者提供回答，而是安排文章轉入景情比較；對甲的判斷不合：得無異乎以反問暗示有異，兩段悲喜即展開這個差異。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「覽物之情，得無異乎」的語氣及隱含意思為何？\n甲：反問，含觀景感受有所不同之意\n乙：一般疑問，等待某一位登樓者提供唯一答案",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-12-11-02",
+      "ordinal": 153,
+      "baseQuestionHash": "79ce9f7eace0c9c320b154b4399afe8843863ad3aca7a472bf73c32bec94ec90",
+      "patch": {
+        "explanation": "先問何時而樂，再以後天下之樂而樂回答，將進退皆憂推向樂的條件。古仁人不是永無歡樂，而是先考慮天下，不能把樂改成自己復職受寵。",
+        "summary": "先問何時而樂，再以後天下之樂而樂回答，將進退皆憂推向樂的條件。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "從何時而樂推知古仁人永遠無樂，所以後樂只是反話",
+            "explanation": "後樂明言可以樂，非反話。"
+          },
+          {
+            "id": "b",
+            "text": "先問後答，把樂的標準收窄為自己重新受朝廷任用",
+            "explanation": "標準是天下安樂，非作者重新受任。"
+          },
+          {
+            "id": "c",
+            "text": "設問後作答，從進退皆憂推進到樂的條件",
+            "explanation": "先問何時而樂，再以後天下之樂而樂回答，將進退皆憂推向樂的條件。"
+          },
+          {
+            "id": "d",
+            "text": "把憂與樂分成毫無關係的兩階段，前段責任結束後才有樂",
+            "explanation": "憂樂同為天下，並非責任與快樂毫無關係。"
+          }
+        ],
+        "misconception": "後樂明言可以樂，非反話；標準是天下安樂，非作者重新受任；憂樂同為天下，並非責任與快樂毫無關係。"
+      },
+      "objective": "「然則何時而樂耶」後接「先天下之憂而憂，後天下之樂而樂」，兩者有何關係？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-12-11-03",
+      "ordinal": 154,
+      "baseQuestionHash": "8130223c5632cc11841da5c06159ceb785b9c654ae7969c760a1000cb6f2e952",
+      "patch": {
+        "explanation": "反問使非此同道難以歸依的感情更強，突出願追隨仁人的自勉。它把論說變成作者真切的志向表態，不是撤回認同或藉無同道退縮。",
+        "summary": "反問使非此同道難以歸依的感情更強，突出願追隨仁人的自勉。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "加強非此同道難以歸依的感情，突出認同和自勉",
+            "explanation": "反問使非此同道難以歸依的感情更強，突出願追隨仁人的自勉。"
+          },
+          {
+            "id": "b",
+            "text": "把沒有同道當作不再實踐理想的藉口，表達退縮",
+            "explanation": "語氣強化追隨，非放棄實踐。"
+          },
+          {
+            "id": "c",
+            "text": "用詢問口吻撤回前文判斷，表示尚不認同古仁人",
+            "explanation": "前文已讚許仁人，反問並未撤回判斷。"
+          },
+          {
+            "id": "d",
+            "text": "只表達對古人的懷念，排除作者與友人的現實自勉",
+            "explanation": "古人理想可作當下勉己勉友，並未隔絕現實。"
+          }
+        ],
+        "misconception": "語氣強化追隨，非放棄實踐；前文已讚許仁人，反問並未撤回判斷；古人理想可作當下勉己勉友，並未隔絕現實。"
+      },
+      "objective": "「微斯人，吾誰與歸」用反問而不平說「我願效法古仁人」，有何效果？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-12-11-04",
+      "ordinal": 155,
+      "baseQuestionHash": "14bacb472fe049fc10057fa7909413100c6f1ca6a78230abefb964f381104591",
+      "patch": {
+        "explanation": "嗟夫、噫帶入感歎，使議論含敬慕、感慨與自勉的感情。它們標出轉理與收束，不改變先憂後樂的方向，也不是中性邏輯標記。",
+        "summary": "嗟夫、噫帶入感歎，使議論含敬慕、感慨與自勉的感情。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "使作者由認同古仁人轉為懷疑其理想，改變論旨",
+            "explanation": "感歎沒有轉成否定仁人。"
+          },
+          {
+            "id": "b",
+            "text": "把作者感受完全隱去，只保留中性的邏輯推理",
+            "explanation": "感受反而更明顯，非完全隱去。"
+          },
+          {
+            "id": "c",
+            "text": "使對古仁人胸懷的敬慕與自勉帶有真切感慨",
+            "explanation": "嗟夫、噫帶入感歎，使議論含敬慕、感慨與自勉的感情。"
+          },
+          {
+            "id": "d",
+            "text": "緩和感情使語氣全無起伏，與前文悲喜切斷",
+            "explanation": "語氣有起伏並連到作者志向，不是全無感情。"
+          }
+        ],
+        "misconception": "感歎沒有轉成否定仁人；感受反而更明顯，非完全隱去；語氣有起伏並連到作者志向，不是全無感情。"
+      },
+      "objective": "「嗟夫」「噫」放在末段及結尾，如何影響議論語氣？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-14-00-80",
+      "ordinal": 156,
+      "baseQuestionHash": "9507981ffc80755a96475e536ae449c22d866e867a6064bb9d134c3778fc8461",
+      "patch": {
+        "explanation": "兩文合看，理想人格兼重自省與責任，不只以個人進退為中心。內省不疚使自身心安，進退皆憂則把能力與關懷指向君民，兩者不能互相取代。",
+        "summary": "兩文合看，理想人格兼重自省與責任，不只以個人進退為中心。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "先離開政治事務，才可消除憂懼而完善自我",
+            "explanation": "內省不以退出政治為先決條件。"
+          },
+          {
+            "id": "b",
+            "text": "不以個人進退得失為中心，兼重責任與自省",
+            "explanation": "兩文合看，理想人格兼重自省與責任，不只以個人進退為中心。"
+          },
+          {
+            "id": "c",
+            "text": "先取得別人認可，才有資格承擔天下之憂",
+            "explanation": "無須先獲所有人認可才承擔責任。"
+          },
+          {
+            "id": "d",
+            "text": "只要對自己問心無愧，便已履行君民責任",
+            "explanation": "問心無愧不自動等於已履行所有公共責任。"
+          }
+        ],
+        "misconception": "內省不以退出政治為先決條件；無須先獲所有人認可才承擔責任；問心無愧不自動等於已履行所有公共責任。"
+      },
+      "objective": "《岳陽樓記》「居廟堂」「處江湖」與《論語》「內省不疚」合看，哪項說明兩文理想人格的關注？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-16-00-80",
+      "ordinal": 157,
+      "baseQuestionHash": "615bdd626bdbdc9c0228a65d04d8482a9355a4b3fada8ac9a7afc7f7d6e4cc17",
+      "patch": {
+        "explanation": "甲不正確，乙正確。甲：退亦憂表明不在朝廷仍有公共責任。乙：末段由私己悲喜轉向君民，再以先憂後樂確立次序。",
+        "summary": "甲不正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對甲的判斷不合：退亦憂表明不在朝廷仍有公共責任。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "甲不正確，乙正確。甲：退亦憂表明不在朝廷仍有公共責任。乙：末段由私己悲喜轉向君民，再以先憂後樂確立次序。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙不正確",
+            "explanation": "對甲的判斷不合：退亦憂表明不在朝廷仍有公共責任。對乙的判斷不合：末段由私己悲喜轉向君民，再以先憂後樂確立次序。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對乙的判斷不合：末段由私己悲喜轉向君民，再以先憂後樂確立次序。"
+          }
+        ],
+        "misconception": "對甲的判斷不合：退亦憂表明不在朝廷仍有公共責任；對甲的判斷不合：退亦憂表明不在朝廷仍有公共責任。對乙的判斷不合：末段由私己悲喜轉向君民，再以先憂後樂確立次序；對乙的判斷不合：末段由私己悲喜轉向君民，再以先憂後樂確立次序。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：末段如何提升前文對登樓悲喜的討論？\n甲：以不同官位說明各人可以只履行在任時的責任\n乙：把因景而變的私己情感，提升為關心君民、先憂後樂的原則",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-16-01-01",
+      "ordinal": 158,
+      "baseQuestionHash": "9ead1750704952d133148c89652587af3a1063a6da5237f7de62a24448e2f6a5",
+      "patch": {
+        "explanation": "略記緣起、總提湖景，再詳展悲喜與憂樂，把篇幅留給人的處世原則。景物仍為議論提供具體對照，詳略不是說景無用，而是按政治理想安排主次。",
+        "summary": "略記緣起、總提湖景，再詳展悲喜與憂樂，把篇幅留給人的處世原則。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "以緣起和景物引入人的處世原則，把重點留給政治理想",
+            "explanation": "略記緣起、總提湖景，再詳展悲喜與憂樂，把篇幅留給人的處世原則。"
+          },
+          {
+            "id": "b",
+            "text": "只因前人寫景充分，故本文的陰晴兩段都不具有新的主旨作用",
+            "explanation": "陰晴景正為情理對照提供依據。"
+          },
+          {
+            "id": "c",
+            "text": "只因首段已有政通人和，故末段不用再區分私己與天下",
+            "explanation": "有政績仍須區分私己與天下之憂。"
+          },
+          {
+            "id": "d",
+            "text": "末段篇幅靠後，便表示其議論的重要性低於寫景",
+            "explanation": "置後常為收束主旨，不能按位置判不重要。"
+          }
+        ],
+        "misconception": "陰晴景正為情理對照提供依據；有政績仍須區分私己與天下之憂；置後常為收束主旨，不能按位置判不重要。"
+      },
+      "objective": "修樓只略記，湖景也先總寫，隨後詳展悲喜與憂樂，這種詳略如何服務主旨？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-16-01-02",
+      "ordinal": 159,
+      "baseQuestionHash": "5c1100ad59dd4a3c8959677002b011f98abfd63254e8005108245b18515f8f00",
+      "patch": {
+        "explanation": "甲不正確，乙正確。甲：與仁人比較看關懷對象及原則，不能只看情緒強弱。乙：兩者共同受景及私己牽動，故能作同層對照。",
+        "summary": "甲不正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對甲的判斷不合：與仁人比較看關懷對象及原則，不能只看情緒強弱。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙不正確",
+            "explanation": "對甲的判斷不合：與仁人比較看關懷對象及原則，不能只看情緒強弱。對乙的判斷不合：兩者共同受景及私己牽動，故能作同層對照。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對乙的判斷不合：兩者共同受景及私己牽動，故能作同層對照。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙正確",
+            "explanation": "甲不正確，乙正確。甲：與仁人比較看關懷對象及原則，不能只看情緒強弱。乙：兩者共同受景及私己牽動，故能作同層對照。"
+          }
+        ],
+        "misconception": "對甲的判斷不合：與仁人比較看關懷對象及原則，不能只看情緒強弱；對甲的判斷不合：與仁人比較看關懷對象及原則，不能只看情緒強弱。對乙的判斷不合：兩者共同受景及私己牽動，故能作同層對照；對乙的判斷不合：兩者共同受景及私己牽動，故能作同層對照。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「感極而悲」與「其喜洋洋」感情相反，何以仍被合稱「二者」？\n甲：兩者所憂所樂不同，故與古仁人的比較只能看情緒強弱\n乙：兩者都由景物牽動個人悲喜，與古仁人的穩定原則有別",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-09-16-01-03",
+      "ordinal": 160,
+      "baseQuestionHash": "96e45eb339d6cbd6eb25b23dfdd670949f0458f5b1684fa7ff432aa0573de44a",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：反問是作者表態追隨仁人，且文章受友人之託可寄勉勵。乙：斯人是古仁人類型，不能收窄成滕子京專稱。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：反問是作者表態追隨仁人，且文章受友人之託可寄勉勵。乙：斯人是古仁人類型，不能收窄成滕子京專稱。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：斯人是古仁人類型，不能收窄成滕子京專稱。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：反問是作者表態追隨仁人，且文章受友人之託可寄勉勵。對乙的判斷不合：斯人是古仁人類型，不能收窄成滕子京專稱。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：反問是作者表態追隨仁人，且文章受友人之託可寄勉勵。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：斯人是古仁人類型，不能收窄成滕子京專稱；對甲的判斷不合：反問是作者表態追隨仁人，且文章受友人之託可寄勉勵。對乙的判斷不合：斯人是古仁人類型，不能收窄成滕子京專稱；對甲的判斷不合：反問是作者表態追隨仁人，且文章受友人之託可寄勉勵。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「微斯人，吾誰與歸」把議論收回作者自身，有何用意？\n甲：表明願與古仁人同道，兼有自勉和勉友之意\n乙：把追隨的對象收窄為滕子京一人，表示古仁人只作其別稱",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "confusable-gui-lunyu-yueyang",
+      "ordinal": 161,
+      "baseQuestionHash": "7544f36c937f0926b1c452c28112f7d214e409f745b2a136ef7489f4c64860a6",
+      "patch": {
+        "explanation": "依本書，歸仁說天下人認同其仁德，誰與歸說作者尋求可追隨的同道。兩個歸都不能一律作回家；本題按指定解釋比較，保留歸仁在其他資料的異說。",
+        "summary": "依本書，歸仁說天下人認同其仁德，誰與歸說作者尋求可追隨的同道。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲是天下人返回原居地；乙是作者尋求可歸依的同道。",
+            "explanation": "前句不是返回原居地，仍在談仁德。"
+          },
+          {
+            "id": "b",
+            "text": "甲是天下人認同其仁德；乙是作者尋求可歸依的同道。",
+            "explanation": "依本書，歸仁說天下人認同其仁德，誰與歸說作者尋求可追隨的同道。"
+          },
+          {
+            "id": "c",
+            "text": "甲是天下人認同其仁德；乙是作者詢問與誰一同返鄉。",
+            "explanation": "後句求思想同道，不問返鄉旅伴。"
+          },
+          {
+            "id": "d",
+            "text": "甲是天下人歸附某位君主；乙是作者詢問應投奔哪位君主。",
+            "explanation": "兩句沒有指定要歸附哪位君主。"
+          }
+        ],
+        "misconception": "前句不是返回原居地，仍在談仁德；後句求思想同道，不問返鄉旅伴；兩句沒有指定要歸附哪位君主。"
+      },
+      "objective": "依本題所用復習書的解釋，比較甲「天下歸仁焉」與乙「吾誰與歸」，哪項符合兩處語境？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "confusable-gui-yueyang-shanju",
+      "ordinal": 162,
+      "baseQuestionHash": "b60516fdd233791fa3020480eeeffbb85e6008991ca3240472ac40e61b84fddf",
+      "patch": {
+        "explanation": "吾誰與歸的歸是依從同道，竹喧歸浣女的歸是浣女回來。前句重價值選擇，後句用倒裝將竹喧置前；不能把回來的行動者換成詩人。",
+        "summary": "吾誰與歸的歸是依從同道，竹喧歸浣女的歸是浣女回來。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲是作者尋求可同道的人；乙是詩人回來時聽見浣女。",
+            "explanation": "詩句回來的是浣女，不是詩人。"
+          },
+          {
+            "id": "b",
+            "text": "甲是作者尋找一同返鄉的人；乙是詩人回來時聽見浣女。",
+            "explanation": "前句不是返鄉，後句也錯置回來者。"
+          },
+          {
+            "id": "c",
+            "text": "甲是作者尋找一同返鄉的人；乙是浣女回來的動作。",
+            "explanation": "後句可成立，前句卻把思想歸依改成地理返鄉。"
+          },
+          {
+            "id": "d",
+            "text": "甲是作者尋求可同道的人；乙是浣女回來的動作。",
+            "explanation": "吾誰與歸的歸是依從同道，竹喧歸浣女的歸是浣女回來。"
+          }
+        ],
+        "misconception": "詩句回來的是浣女，不是詩人；前句不是返鄉，後句也錯置回來者；後句可成立，前句卻把思想歸依改成地理返鄉。"
+      },
+      "objective": "比較甲「吾誰與歸」與乙「竹喧歸浣女」的「歸」，哪項辨析符合兩處語境？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    }
+  ]
+}

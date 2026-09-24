@@ -1,0 +1,2948 @@
+{
+  "baselineVersion": "2026.09.23.19",
+  "date": "2026-09-23",
+  "author": "Codex chapter author",
+  "reviewMethod": "source-review-and-author-self-check",
+  "records": [
+    {
+      "id": "q-e14-exp-001",
+      "ordinal": 1,
+      "baseQuestionHash": "f7f5d9144e1f2adf53fcb186a3902634f80c7f2935671dbcddb979c8e1b67e6e",
+      "patch": {
+        "explanation": "風流人物在千古懷英雄的語境指有功業的傑出人物，下片周瑜是具體代表。此處重歷史功業，不只詩文風雅或外表瀟灑，也不限定當代地方人物。",
+        "summary": "風流人物在千古懷英雄的語境指有功業的傑出人物，下片周瑜是具體代表。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "擅長詩文的歷代文士",
+            "explanation": "範圍窄為文士，未扣周瑜等功業豪傑。"
+          },
+          {
+            "id": "b",
+            "text": "有功業的傑出英雄",
+            "explanation": "風流人物在千古懷英雄的語境指有功業的傑出人物，下片周瑜是具體代表。"
+          },
+          {
+            "id": "c",
+            "text": "舉止瀟灑的當代遊人",
+            "explanation": "錯在千古時代及人物功業的指向。"
+          },
+          {
+            "id": "d",
+            "text": "生活風雅的地方名流",
+            "explanation": "風流不只生活情調，亦不是限於地方名流。"
+          }
+        ],
+        "misconception": "範圍窄為文士，未扣周瑜等功業豪傑；錯在千古時代及人物功業的指向；風流不只生活情調，亦不是限於地方名流。"
+      },
+      "objective": "原句中「風流人物」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e14-exp-002",
+      "ordinal": 2,
+      "baseQuestionHash": "163b0ae406884d2b8bbec1d3f1fc0bb860b8a1fd9d8bb6a225798aa9d9ffd50d",
+      "patch": {
+        "explanation": "故壘是舊營壘，提示赤壁古戰場，讓眼前景物連上三國懷想。故解舊、壘指軍事工事，不能把整詞改故鄉或墓地，也非新建營寨。",
+        "summary": "故壘是舊營壘，提示赤壁古戰場，讓眼前景物連上三國懷想。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "舊營壘",
+            "explanation": "故壘是舊營壘，提示赤壁古戰場，讓眼前景物連上三國懷想。"
+          },
+          {
+            "id": "b",
+            "text": "故鄉城郭",
+            "explanation": "故指舊而非自己的故鄉。"
+          },
+          {
+            "id": "c",
+            "text": "新築營寨",
+            "explanation": "把舊義改成新建。"
+          },
+          {
+            "id": "d",
+            "text": "陵墓墳丘",
+            "explanation": "壘在此是軍事建築，不是墓葬。"
+          }
+        ],
+        "misconception": "故指舊而非自己的故鄉；把舊義改成新建；壘在此是軍事建築，不是墓葬。"
+      },
+      "objective": "原句中「故壘」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e14-exp-003",
+      "ordinal": 3,
+      "baseQuestionHash": "5a7a1fc4970e0e6f736b90bcc4e0b62579c745fa349061c642f3e26679155380",
+      "patch": {
+        "explanation": "故國在本詞指赤壁故地、三國古戰場，神遊承接追想周瑜。這裏不是現代祖國的固定義，也不是回詞人家鄉；須用前後人物及事件判斷所指。",
+        "summary": "故國在本詞指赤壁故地、三國古戰場，神遊承接追想周瑜。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "詞人少年居住的故鄉",
+            "explanation": "赤壁與周瑜的上下文指向古戰場，不是眉山。"
+          },
+          {
+            "id": "b",
+            "text": "被貶以前任職的京城",
+            "explanation": "神遊在此接三國懷古，不是回想任職京城。"
+          },
+          {
+            "id": "c",
+            "text": "周瑜原來居住的家鄉",
+            "explanation": "重點是赤壁歷史場景，非周瑜出生故里。"
+          },
+          {
+            "id": "d",
+            "text": "赤壁故地、三國古戰場",
+            "explanation": "故國在本詞指赤壁故地、三國古戰場，神遊承接追想周瑜。"
+          }
+        ],
+        "misconception": "赤壁與周瑜的上下文指向古戰場，不是眉山；神遊在此接三國懷古，不是回想任職京城；重點是赤壁歷史場景，非周瑜出生故里。"
+      },
+      "objective": "原句中「故國」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e14-exp-004",
+      "ordinal": 4,
+      "baseQuestionHash": "5bbd3ed3dcc28d5fb97f70d841449508a1b257fc240fe8dbb188336b91e03c8c",
+      "patch": {
+        "explanation": "華髮是花白頭髮，寫詞人早衰的外貌，連周瑜英發功成便寄年長未酬。直接詞義重髮色，不是髮飾華麗、黑髮有光或頭髮數量變少。",
+        "summary": "華髮是花白頭髮，寫詞人早衰的外貌，連周瑜英發功成便寄年長未酬。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "華麗髮飾",
+            "explanation": "髮指頭髮本身，早生不是佩飾。"
+          },
+          {
+            "id": "b",
+            "text": "光澤黑髮",
+            "explanation": "華在此花白，非青春烏亮。"
+          },
+          {
+            "id": "c",
+            "text": "花白頭髮",
+            "explanation": "華髮是花白頭髮，寫詞人早衰的外貌，連周瑜英發功成便寄年長未酬。"
+          },
+          {
+            "id": "d",
+            "text": "稀疏脫髮",
+            "explanation": "說的是髮色變白，不是脫落數量。"
+          }
+        ],
+        "misconception": "髮指頭髮本身，早生不是佩飾；華在此花白，非青春烏亮；說的是髮色變白，不是脫落數量。"
+      },
+      "objective": "原句中「華髮」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e14-exp-005",
+      "ordinal": 5,
+      "baseQuestionHash": "5fdfbe0caccb660ede3fcb44db728479f47f917874e3881d708e296922e69f8c",
+      "patch": {
+        "explanation": "酹是灑酒祭奠，在結尾把酒灑向江月寄懷。借酒有自解作用，但動作仍須譯灑酒，不能以喝酒排愁的情感概括代替字義，更無真人賓客受酒。",
+        "summary": "酹是灑酒祭奠，在結尾把酒灑向江月寄懷。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "斟酒奉客",
+            "explanation": "沒有把酒奉給實際在座賓客。"
+          },
+          {
+            "id": "b",
+            "text": "灑酒祭奠",
+            "explanation": "酹是灑酒祭奠，在結尾把酒灑向江月寄懷。"
+          },
+          {
+            "id": "c",
+            "text": "舉杯對飲",
+            "explanation": "與江月相對不等於實際共同飲酒。"
+          },
+          {
+            "id": "d",
+            "text": "飲酒排愁",
+            "explanation": "可有感情作用，但酹本身是灑酒動作。"
+          }
+        ],
+        "misconception": "沒有把酒奉給實際在座賓客；與江月相對不等於實際共同飲酒；可有感情作用，但酹本身是灑酒動作。"
+      },
+      "objective": "原句中「酹」的意思是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e14-exp-006",
+      "ordinal": 6,
+      "baseQuestionHash": "81fae302141548e285b12c18142d6b7925e4f7ee8869b6170deda6cd001217a1",
+      "patch": {
+        "explanation": "周瑜談笑從容而敵艦迅速敗亡，神態與重大戰果相映，突出指揮若定。儒雅並非不懂軍事，戰果的側面烘托正把風度和才略連在一起。",
+        "summary": "周瑜談笑從容而敵艦迅速敗亡，神態與重大戰果相映，突出指揮若定。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "以從容神態與敵軍迅速潰敗相映，突出指揮若定",
+            "explanation": "周瑜談笑從容而敵艦迅速敗亡，神態與重大戰果相映，突出指揮若定。"
+          },
+          {
+            "id": "b",
+            "text": "只要談笑，便可知周瑜全未參與軍事指揮，戰功與他無關",
+            "explanation": "談笑與破敵相連，突出指揮若定。"
+          },
+          {
+            "id": "c",
+            "text": "灰飛煙滅只突出戰爭規模，不能對指揮者形象發生作用",
+            "explanation": "敵軍迅速敗亡能側面烘托主帥。"
+          },
+          {
+            "id": "d",
+            "text": "談笑顯從容，但必須否定破敵的迅速才能使儒雅形象成立",
+            "explanation": "儒雅與有效破敵相配，不是互斥。"
+          }
+        ],
+        "misconception": "談笑與破敵相連，突出指揮若定；敵軍迅速敗亡能側面烘托主帥；儒雅與有效破敵相配，不是互斥。"
+      },
+      "objective": "「談笑間、檣櫓灰飛煙滅」怎樣塑造周瑜？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e14-exp-007",
+      "ordinal": 7,
+      "baseQuestionHash": "366813fa548965801c3d1137ed5592ae92f978eb411a301ec1d855aba7a6f14c",
+      "patch": {
+        "explanation": "雄姿英發屬盛年功成的周瑜，早生華髮轉到抱負未酬的蘇軾。仰慕理想英雄反使自身落差突出，外貌對比因此承載功業年華之感，非兩人同樣滿足。",
+        "summary": "雄姿英發屬盛年功成的周瑜，早生華髮轉到抱負未酬的蘇軾。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "周瑜功成令人仰慕，故後面的華髮也只能表慶幸人生已滿足",
+            "explanation": "仰慕反照自身未酬，非必滿足。"
+          },
+          {
+            "id": "b",
+            "text": "既有早生華髮，便應把前文雄姿英發也解作詞人自貌",
+            "explanation": "前者明寫公瑾，主體不同。"
+          },
+          {
+            "id": "c",
+            "text": "兩人皆有才志，故功業和年華差異不能構成情感落差",
+            "explanation": "才志相近而成就不同正可造成落差。"
+          },
+          {
+            "id": "d",
+            "text": "古人盛年功成與詞人年長未酬，仰慕轉成自傷",
+            "explanation": "雄姿英發屬盛年功成的周瑜，早生華髮轉到抱負未酬的蘇軾。"
+          }
+        ],
+        "misconception": "仰慕反照自身未酬，非必滿足；前者明寫公瑾，主體不同；才志相近而成就不同正可造成落差。"
+      },
+      "objective": "寫周瑜「雄姿英發」後寫「早生華髮」，主要構成甚麼對照？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "q-e14-exp-008",
+      "ordinal": 8,
+      "baseQuestionHash": "14314c4c10ff3e1c53d3f400f7f722cd7a7e05b6de9618502dfc31b154d4788f",
+      "patch": {
+        "explanation": "雪借潔白與堆湧形態喻浪花，捲又使畫面帶翻動聲勢。分析須兼顏色、形態和動勢，不是只見雪便判實際下雪或水面凝固。",
+        "summary": "雪借潔白與堆湧形態喻浪花，捲又使畫面帶翻動聲勢。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "取雪的潔白，因而全句只寫顏色，捲與千堆沒有動勢作用",
+            "explanation": "顏色形態動勢共同作用，不能只留白。"
+          },
+          {
+            "id": "b",
+            "text": "取雪堆的凝定，說明江水此時完全靜止",
+            "explanation": "驚濤捲起正寫強烈動態。"
+          },
+          {
+            "id": "c",
+            "text": "以雪的潔白、堆湧形態寫翻起的浪花",
+            "explanation": "雪借潔白與堆湧形態喻浪花，捲又使畫面帶翻動聲勢。"
+          },
+          {
+            "id": "d",
+            "text": "既用雪為喻體，便可推定赤壁正值降雪季節",
+            "explanation": "喻體不等於實際季節或真雪。"
+          }
+        ],
+        "misconception": "顏色形態動勢共同作用，不能只留白；驚濤捲起正寫強烈動態；喻體不等於實際季節或真雪。"
+      },
+      "objective": "「捲起千堆雪」的「雪」如何描寫江濤？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-b-08-18-01-3",
+      "ordinal": 9,
+      "baseQuestionHash": "bf5dd0118980411fcf853365d61783314d57b722309093f0c46d60a644079a93",
+      "patch": {
+        "explanation": "柳宗元由西山宴遊至心凝形釋、物我冥合；蘇軾由周瑜功業反觀華髮未酬，再酹月寄懷。兩者皆借自然回應失意，過程不同，且都不能由心境改變推官場貶謫已結束。",
+        "summary": "柳宗元由西山宴遊至心凝形釋、物我冥合；蘇軾由周瑜功業反觀華髮未酬，再酹月寄懷。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "柳以山水忘形；蘇同以不知日入的醉境暫忘失意。",
+            "explanation": "不知日入是西山的表達，不能搬作蘇詞的同一醉境。"
+          },
+          {
+            "id": "b",
+            "text": "柳以宴遊達到物我冥合；蘇由懷古自傷轉向酹月寄懷。",
+            "explanation": "柳宗元由西山宴遊至心凝形釋、物我冥合；蘇軾由周瑜功業反觀華髮未酬，再酹月寄懷。"
+          },
+          {
+            "id": "c",
+            "text": "柳因懷古英雄而感到自傷；蘇亦以周瑜反照自己的遭遇。",
+            "explanation": "柳沒有以懷古英雄引起自傷，前半把蘇詞進程移給柳。"
+          },
+          {
+            "id": "d",
+            "text": "柳以形釋表示貶謫已終；蘇以如夢表示已放下功業之念。",
+            "explanation": "形釋不取消貶謫，如夢也不足以證實永久放下功業，兩項都推得過遠。"
+          }
+        ],
+        "misconception": "不知日入是西山的表達，不能搬作蘇詞的同一醉境；柳沒有以懷古英雄引起自傷，前半把蘇詞進程移給柳；形釋不取消貶謫，如夢也不足以證實永久放下功業，兩項都推得過遠。"
+      },
+      "objective": "比較《西山宴遊記》與《念奴嬌·赤壁懷古》面對失意的表達，哪項最準確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-01-03-00",
+      "ordinal": 10,
+      "baseQuestionHash": "9b5656918b30d65c1578528d9ef47ff9d9228f11ead531e7a009aedaa854eaf5",
+      "patch": {
+        "explanation": "大江在此指長江，赤壁就在這一江流的懷古場景中。東去將浩大空間連到流逝的時間，並非任何水道都可替換，也不是別篇的錦江洞庭。",
+        "summary": "大江在此指長江，赤壁就在這一江流的懷古場景中。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "黃河",
+            "explanation": "本詞赤壁江景非黃河。"
+          },
+          {
+            "id": "b",
+            "text": "洞庭湖",
+            "explanation": "洞庭是湖，非此處大江。"
+          },
+          {
+            "id": "c",
+            "text": "錦江",
+            "explanation": "錦江屬登樓成都地景。"
+          },
+          {
+            "id": "d",
+            "text": "長江",
+            "explanation": "大江在此指長江，赤壁就在這一江流的懷古場景中。"
+          }
+        ],
+        "misconception": "本詞赤壁江景非黃河；洞庭是湖，非此處大江；錦江屬登樓成都地景。"
+      },
+      "objective": "在這段原文中，「大江」應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-01-03-01",
+      "ordinal": 11,
+      "baseQuestionHash": "96c907f0b7ce868c4668451c48ebd5b173bfe9de9741107b4f60c23b08999734",
+      "patch": {
+        "explanation": "淘盡字面是淘洗淨盡，後接千古英雄使江浪引出歷史消逝之感。此處對象非沙金或岸塵，不能只答水面掀浪而漏盡與人物的關係。",
+        "summary": "淘盡字面是淘洗淨盡，後接千古英雄使江浪引出歷史消逝之感。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "淘洗淨盡",
+            "explanation": "淘盡字面是淘洗淨盡，後接千古英雄使江浪引出歷史消逝之感。"
+          },
+          {
+            "id": "b",
+            "text": "淘取沙中的金粒",
+            "explanation": "不是淘金取物，反寫人物消逝。"
+          },
+          {
+            "id": "c",
+            "text": "掀動江上的浪潮",
+            "explanation": "掀浪只說動態，漏淘洗淨盡。"
+          },
+          {
+            "id": "d",
+            "text": "洗去岸邊的塵土",
+            "explanation": "賓語是風流人物，非岸邊塵土。"
+          }
+        ],
+        "misconception": "不是淘金取物，反寫人物消逝；掀浪只說動態，漏淘洗淨盡；賓語是風流人物，非岸邊塵土。"
+      },
+      "objective": "根據題引的上下文，「淘盡」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-01-03-02",
+      "ordinal": 12,
+      "baseQuestionHash": "b3c4a957604f87363d402542c5189a3746f7903556cb856bb5c6d8aa130cef89",
+      "patch": {
+        "explanation": "千古是久遠年代，將眼前江流伸入歷史深處。千為泛指時間悠長，非精確千年，也不只一朝，更不是未來年代的預言。",
+        "summary": "千古是久遠年代，將眼前江流伸入歷史深處。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "確切的一千年",
+            "explanation": "泛說久遠，非精確計年。"
+          },
+          {
+            "id": "b",
+            "text": "久遠年代",
+            "explanation": "千古是久遠年代，將眼前江流伸入歷史深處。"
+          },
+          {
+            "id": "c",
+            "text": "過去一個朝代",
+            "explanation": "一朝縮窄千古歷史範圍。"
+          },
+          {
+            "id": "d",
+            "text": "將來一千年",
+            "explanation": "懷古指向過往，非將來。"
+          }
+        ],
+        "misconception": "泛說久遠，非精確計年；一朝縮窄千古歷史範圍；懷古指向過往，非將來。"
+      },
+      "objective": "根據題引的上下文，「千古」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-01-03-05",
+      "ordinal": 13,
+      "baseQuestionHash": "7589789d6ff8278778c456b41992d49d8cfdafdeb7fbd93beb54968869fb6bd6",
+      "patch": {
+        "explanation": "人道是即人們說是，指認赤壁帶相傳語氣。詞人藉此懷古而未自稱已完成地點考證，所以不能把轉述當史料確證或周瑜親口作證。",
+        "summary": "人道是即人們說是，指認赤壁帶相傳語氣。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "人們說是",
+            "explanation": "人道是即人們說是，指認赤壁帶相傳語氣。"
+          },
+          {
+            "id": "b",
+            "text": "史料確證是",
+            "explanation": "確證強於相傳，原句沒有。"
+          },
+          {
+            "id": "c",
+            "text": "詞人自斷是",
+            "explanation": "人道明示他人說，非詞人自斷。"
+          },
+          {
+            "id": "d",
+            "text": "周郎親證是",
+            "explanation": "周瑜不是此時說話人。"
+          }
+        ],
+        "misconception": "確證強於相傳，原句沒有；人道明示他人說，非詞人自斷；周瑜不是此時說話人。"
+      },
+      "objective": "根據題引的上下文，「人道是」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-01-03-06",
+      "ordinal": 14,
+      "baseQuestionHash": "dbc30273378ddb27edd3056445ebb882aab621de9a09287272f1f99ebd8622c0",
+      "patch": {
+        "explanation": "周郎指周瑜，與下片公瑾是同一人，郎又帶年輕英偉色彩。辨稱謂可把上下片接起，不可因扇巾而誤認諸葛亮或把敵方曹操當周郎。",
+        "summary": "周郎指周瑜，與下片公瑾是同一人，郎又帶年輕英偉色彩。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "周瑜麾下的一名將領",
+            "explanation": "周郎是周瑜本人，非其部將。"
+          },
+          {
+            "id": "b",
+            "text": "諸葛亮",
+            "explanation": "公瑾與周郎均指周瑜，非諸葛。"
+          },
+          {
+            "id": "c",
+            "text": "曹操",
+            "explanation": "曹操是對敵一方，非周郎。"
+          },
+          {
+            "id": "d",
+            "text": "周瑜",
+            "explanation": "周郎指周瑜，與下片公瑾是同一人，郎又帶年輕英偉色彩。"
+          }
+        ],
+        "misconception": "周郎是周瑜本人，非其部將；公瑾與周郎均指周瑜，非諸葛；曹操是對敵一方，非周郎。"
+      },
+      "objective": "在這段原文中，「周郎」應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-c-14-01-03-07",
+      "ordinal": 15,
+      "baseQuestionHash": "00353e0e78d27ebaa300c4fe584598e82905ab47480b4ec32cff997760b66be3",
+      "patch": {
+        "explanation": "亂石指陡峭不平的石壁，穿空再寫其高峻。要合全句判形象，非零碎小石散坡，也不是排列工整的營壘磚石或水底圓礫。",
+        "summary": "亂石指陡峭不平的石壁，穿空再寫其高峻。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "散落坡面的細碎石塊",
+            "explanation": "細碎坡石難對應高插天空。"
+          },
+          {
+            "id": "b",
+            "text": "排列整齊的城壘磚石",
+            "explanation": "亂與陡峭不平，非規整磚牆。"
+          },
+          {
+            "id": "c",
+            "text": "江底堆積的圓滑石礫",
+            "explanation": "穿空所見是高峻岩壁，非江底圓礫。"
+          },
+          {
+            "id": "d",
+            "text": "陡峭不平的石壁",
+            "explanation": "亂石指陡峭不平的石壁，穿空再寫其高峻。"
+          }
+        ],
+        "misconception": "細碎坡石難對應高插天空；亂與陡峭不平，非規整磚牆；穿空所見是高峻岩壁，非江底圓礫。"
+      },
+      "objective": "根據題引的上下文，「亂石」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-01-03-08",
+      "ordinal": 16,
+      "baseQuestionHash": "e988a60989e87e78fa74455d108902d75ae61154c5a31b21b313a83b00f54efa",
+      "patch": {
+        "explanation": "穿空是高插天空，將石壁寫得如刺破天際，以誇飾見高尖陡。此處穿不是真的鑿孔工程，也不寫橫過原野，而是強化雄奇氣勢。",
+        "summary": "穿空是高插天空，將石壁寫得如刺破天際，以誇飾見高尖陡。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "被江水沖出孔洞",
+            "explanation": "穿空寫向天高峻，非水蝕成洞。"
+          },
+          {
+            "id": "b",
+            "text": "高插天空",
+            "explanation": "穿空是高插天空，將石壁寫得如刺破天際，以誇飾見高尖陡。"
+          },
+          {
+            "id": "c",
+            "text": "橫跨江面的石壁",
+            "explanation": "穿空強調垂直高峻，非橫跨江面的寬度。"
+          },
+          {
+            "id": "d",
+            "text": "在霧中時隱時現",
+            "explanation": "句中沒有霧遮景象，重石高插天際。"
+          }
+        ],
+        "misconception": "穿空寫向天高峻，非水蝕成洞；穿空強調垂直高峻，非橫跨江面的寬度；句中沒有霧遮景象，重石高插天際。"
+      },
+      "objective": "根據題引的上下文，「穿空」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-c-14-01-03-09",
+      "ordinal": 17,
+      "baseQuestionHash": "44305abab6b95af81f81cb6fd7a0b908c8b001d4ba50e401b2de18227df53a92",
+      "patch": {
+        "explanation": "驚濤是洶湧得令人驚駭的波浪，拍岸交代其衝擊力量。驚寫波濤帶給人的感受，不是說浪自己害怕，亦不是人的叫喊奔逃。",
+        "summary": "驚濤是洶湧得令人驚駭的波浪，拍岸交代其衝擊力量。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "使人心驚的浪聲",
+            "explanation": "驚濤指波浪本身，可含聲勢但非僅聲音。"
+          },
+          {
+            "id": "b",
+            "text": "洶湧波浪",
+            "explanation": "驚濤是洶湧得令人驚駭的波浪，拍岸交代其衝擊力量。"
+          },
+          {
+            "id": "c",
+            "text": "連綿不斷的細浪",
+            "explanation": "細浪難切拍岸及千堆的強勁氣勢。"
+          },
+          {
+            "id": "d",
+            "text": "風平後留下的餘波",
+            "explanation": "驚濤正在洶湧拍岸，非風平後微波。"
+          }
+        ],
+        "misconception": "驚濤指波浪本身，可含聲勢但非僅聲音；細浪難切拍岸及千堆的強勁氣勢；驚濤正在洶湧拍岸，非風平後微波。"
+      },
+      "objective": "根據題引的上下文，「驚濤」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-c-14-01-03-10",
+      "ordinal": 18,
+      "baseQuestionHash": "7010a264b0871b5cebf4faeb98a45645d8a37fb8e20774bbe48c21224d767346",
+      "patch": {
+        "explanation": "雪借喻白色浪花，捲起與千堆描翻湧的色彩形態。赤壁濤景提供本體，所以不能把喻體直接當降雪證據，也非霧氣或岸霜。",
+        "summary": "雪借喻白色浪花，捲起與千堆描翻湧的色彩形態。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "江面翻起的白霧",
+            "explanation": "白霧屬氣態，原句承波浪翻湧。"
+          },
+          {
+            "id": "b",
+            "text": "岸邊覆着的白霜",
+            "explanation": "岸霜靜附物面，非江濤捲起。"
+          },
+          {
+            "id": "c",
+            "text": "天上落下的飛雪",
+            "explanation": "雪是浪花比喻，不證天氣下雪。"
+          },
+          {
+            "id": "d",
+            "text": "喻白色浪花",
+            "explanation": "雪借喻白色浪花，捲起與千堆描翻湧的色彩形態。"
+          }
+        ],
+        "misconception": "白霧屬氣態，原句承波浪翻湧；岸霜靜附物面，非江濤捲起；雪是浪花比喻，不證天氣下雪。"
+      },
+      "objective": "根據題引的上下文，「雪」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-02-03-00",
+      "ordinal": 19,
+      "baseQuestionHash": "4ab126d6848ca36219aa044eba254062e6d7852a6081caf9900249c86731da71",
+      "patch": {
+        "explanation": "公瑾是周瑜的字，承接上片周郎，集中刻畫同一英雄。下接婚姻、扇巾與破敵均在塑周瑜，不能把古人身分混成蘇軾或諸葛。",
+        "summary": "公瑾是周瑜的字，承接上片周郎，集中刻畫同一英雄。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "曹操的字",
+            "explanation": "曹操不是公瑾，為戰役對方。"
+          },
+          {
+            "id": "b",
+            "text": "蘇軾的字",
+            "explanation": "詞人是追想者，不是公瑾。"
+          },
+          {
+            "id": "c",
+            "text": "諸葛亮的字",
+            "explanation": "扇巾不足以改公瑾為諸葛亮。"
+          },
+          {
+            "id": "d",
+            "text": "周瑜的字",
+            "explanation": "公瑾是周瑜的字，承接上片周郎，集中刻畫同一英雄。"
+          }
+        ],
+        "misconception": "曹操不是公瑾，為戰役對方；詞人是追想者，不是公瑾；扇巾不足以改公瑾為諸葛亮。"
+      },
+      "objective": "在這段原文中，「公瑾」應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-02-03-01",
+      "ordinal": 20,
+      "baseQuestionHash": "8b70543c15a8ed5f0df15280f23028e09510077ee8f643a4a52d1af7bfaf27f5",
+      "patch": {
+        "explanation": "雄姿英發指姿態雄偉、英氣才華煥發，與初嫁及破敵合寫周瑜年少得意。它不只端莊守禮或聲名遠播，更不是才志隱藏未發。",
+        "summary": "雄姿英發指姿態雄偉、英氣才華煥發，與初嫁及破敵合寫周瑜年少得意。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "儀容端莊、嚴守禮節",
+            "explanation": "端莊守禮不如英氣煥發切題。"
+          },
+          {
+            "id": "b",
+            "text": "志向高遠、隱而未發",
+            "explanation": "英發是外現煥發，非隱而未發。"
+          },
+          {
+            "id": "c",
+            "text": "聲名遠播、受人擁戴",
+            "explanation": "聲望是旁人評價，非這四字直接描姿態才氣。"
+          },
+          {
+            "id": "d",
+            "text": "雄姿英偉、才華煥發",
+            "explanation": "雄姿英發指姿態雄偉、英氣才華煥發，與初嫁及破敵合寫周瑜年少得意。"
+          }
+        ],
+        "misconception": "端莊守禮不如英氣煥發切題；英發是外現煥發，非隱而未發；聲望是旁人評價，非這四字直接描姿態才氣。"
+      },
+      "objective": "根據題引的上下文，「雄姿英發」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-02-03-02",
+      "ordinal": 21,
+      "baseQuestionHash": "16ecb797f4470d38f0f2d433cd3e087b425a9f3058881d3c88bf4dff43f0da5e",
+      "patch": {
+        "explanation": "羽扇綸巾是儒將所持羽扇與所戴絲巾，展現周瑜儒雅風度。與談笑破敵連看，是文雅而善戰，非一般士卒甲盔、帝王禮器或漁人裝束。",
+        "summary": "羽扇綸巾是儒將所持羽扇與所戴絲巾，展現周瑜儒雅風度。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "士卒的戰甲與頭盔",
+            "explanation": "甲盔重武裝防護，非此處儒雅服飾。"
+          },
+          {
+            "id": "b",
+            "text": "帝王的冠冕與權杖",
+            "explanation": "不是君王冠冕權杖。"
+          },
+          {
+            "id": "c",
+            "text": "儒將的扇與頭巾",
+            "explanation": "羽扇綸巾是儒將所持羽扇與所戴絲巾，展現周瑜儒雅風度。"
+          },
+          {
+            "id": "d",
+            "text": "漁人的斗笠與蓑衣",
+            "explanation": "詩在塑將領，非漁民防雨衣具。"
+          }
+        ],
+        "misconception": "甲盔重武裝防護，非此處儒雅服飾；不是君王冠冕權杖；詩在塑將領，非漁民防雨衣具。"
+      },
+      "objective": "在這段原文中，「羽扇綸巾」應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-02-03-03",
+      "ordinal": 22,
+      "baseQuestionHash": "11ecdc399e83061069eeac896a1467fa8ee27891d879540c1eca74ea30efc0f1",
+      "patch": {
+        "explanation": "檣櫓本指船具，此處以部件代曹軍戰船，配灰飛煙滅寫敗亡。沿用本題檣櫓底本才能判借代；若是另本強虜，字義與手法就須另論。",
+        "summary": "檣櫓本指船具，此處以部件代曹軍戰船，配灰飛煙滅寫敗亡。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "船具，借代周瑜的坐船",
+            "explanation": "被毀的是曹軍，非周瑜坐船。"
+          },
+          {
+            "id": "b",
+            "text": "船具，借代曹軍戰船",
+            "explanation": "檣櫓本指船具，此處以部件代曹軍戰船，配灰飛煙滅寫敗亡。"
+          },
+          {
+            "id": "c",
+            "text": "軍旗，借代曹軍的陸營",
+            "explanation": "檣櫓為船具，不是陸營軍旗。"
+          },
+          {
+            "id": "d",
+            "text": "城壘，借代赤壁的守軍",
+            "explanation": "非城壘，也非赤壁守軍敗亡。"
+          }
+        ],
+        "misconception": "被毀的是曹軍，非周瑜坐船；檣櫓為船具，不是陸營軍旗；非城壘，也非赤壁守軍敗亡。"
+      },
+      "objective": "根據題引的上下文，「檣櫓」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-02-03-05",
+      "ordinal": 23,
+      "baseQuestionHash": "7dd84211065592301642a7041780e202457ea06cb5f6ef79cbe4345cfae3a0dd",
+      "patch": {
+        "explanation": "神遊是在精神想像中遊歷三國故地，承遙想公瑾。它不是身體沿岸行走或回出生故鄉，亦不必等同睡夢搬家，重懷古心神的活動。",
+        "summary": "神遊是在精神想像中遊歷三國故地，承遙想公瑾。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "沿着江岸實際遠行",
+            "explanation": "神遊不限定真實腳程。"
+          },
+          {
+            "id": "b",
+            "text": "返回自己出生的家鄉",
+            "explanation": "故國指古戰場，非出生地。"
+          },
+          {
+            "id": "c",
+            "text": "在想像中遊歷",
+            "explanation": "神遊是在精神想像中遊歷三國故地，承遙想公瑾。"
+          },
+          {
+            "id": "d",
+            "text": "在夢中改變居住地點",
+            "explanation": "想像遊歷不等於睡夢遷居。"
+          }
+        ],
+        "misconception": "神遊不限定真實腳程；故國指古戰場，非出生地；想像遊歷不等於睡夢遷居。"
+      },
+      "objective": "根據題引的上下文，「神遊」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-02-03-07",
+      "ordinal": 24,
+      "baseQuestionHash": "94ccbbe3a7305ba2ef15696a387efb5242a1bfd9e31299b9138dab1880237184",
+      "patch": {
+        "explanation": "尊為酒器，也可指一杯酒，一尊與酹連起灑酒寄懷的動作。不能因字形熟悉就讀尊貴或尊敬；這裏有一的量詞結構及酒的具體語境。",
+        "summary": "尊為酒器，也可指一杯酒，一尊與酹連起灑酒寄懷的動作。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "一位尊貴的客人",
+            "explanation": "此處一尊是酒，並無真人受邀。"
+          },
+          {
+            "id": "b",
+            "text": "一次敬酒的禮節",
+            "explanation": "尊指酒器或酒，具體動作由酹表達。"
+          },
+          {
+            "id": "c",
+            "text": "一聲恭敬的祝禱",
+            "explanation": "原句有灑酒動作，不是數祝禱聲。"
+          },
+          {
+            "id": "d",
+            "text": "酒器，亦指一杯酒",
+            "explanation": "尊為酒器，也可指一杯酒，一尊與酹連起灑酒寄懷的動作。"
+          }
+        ],
+        "misconception": "此處一尊是酒，並無真人受邀；尊指酒器或酒，具體動作由酹表達；原句有灑酒動作，不是數祝禱聲。"
+      },
+      "objective": "根據題引的上下文，「尊」在這裏應怎樣理解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-c-14-01-00-90",
+      "ordinal": 25,
+      "baseQuestionHash": "07c86a5f54cd54b827711a6748942ac143bb9e38c7c685b1f3dbc16114acb23f",
+      "patch": {
+        "explanation": "江流東去先引千古消逝之感，赤壁雄景再帶出一時豪傑，最後聚焦周瑜。景與人有承接，既感生命短促仍可仰慕功業，不是純做地點考證。",
+        "summary": "江流東去先引千古消逝之感，赤壁雄景再帶出一時豪傑，最後聚焦周瑜。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "開首已說英雄消逝，所以後文不能再對周瑜表示仰慕",
+            "explanation": "消逝之慨不排除仰慕過往功業。"
+          },
+          {
+            "id": "b",
+            "text": "江流觸發歷史感，赤壁雄景再引出英雄懷想",
+            "explanation": "江流東去先引千古消逝之感，赤壁雄景再帶出一時豪傑，最後聚焦周瑜。"
+          },
+          {
+            "id": "c",
+            "text": "上片全屬地點考證，豪傑只為介紹與赤壁有關的人名",
+            "explanation": "有歷史生命感慨，非僅地點資料。"
+          },
+          {
+            "id": "d",
+            "text": "上片只寫景、下片只寫人，故上下片不存在過渡關係",
+            "explanation": "江山如畫多少豪傑承景啟人。"
+          }
+        ],
+        "misconception": "消逝之慨不排除仰慕過往功業；有歷史生命感慨，非僅地點資料；江山如畫多少豪傑承景啟人。"
+      },
+      "objective": "上片由「大江東去」寫到「一時多少豪傑」，主要如何推進？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-02-00-90",
+      "ordinal": 26,
+      "baseQuestionHash": "96b10f8d4c0b3feed3ff88ebf3200d65cf6e34b5f7c618d56f5375c3fe3c6a97",
+      "patch": {
+        "explanation": "先仰慕周瑜得意功成，再以華髮返觀自身未酬，末向江月寄懷。懷古、傷己、自解相續，並非介紹無關歷史，也不能用最後開解抹去中間真實傷感。",
+        "summary": "先仰慕周瑜得意功成，再以華髮返觀自身未酬，末向江月寄懷。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "周瑜的功業只作歷史知識，與詞人自身的感慨沒有作用關係",
+            "explanation": "古人反照自身，是懷古抒情關節。"
+          },
+          {
+            "id": "b",
+            "text": "華髮既寫自己，便表示前文周瑜形象也完全是詞人的自傳",
+            "explanation": "借古比較不是把人物身分合一。"
+          },
+          {
+            "id": "c",
+            "text": "仰慕古人功業，反照自身未酬，再向自然寄懷自解",
+            "explanation": "先仰慕周瑜得意功成，再以華髮返觀自身未酬，末向江月寄懷。"
+          },
+          {
+            "id": "d",
+            "text": "酹月既屬自解，便可逆推前面的未酬自傷從未真實存在",
+            "explanation": "後來自解不抹去此前感受。"
+          }
+        ],
+        "misconception": "古人反照自身，是懷古抒情關節；借古比較不是把人物身分合一；後來自解不抹去此前感受。"
+      },
+      "objective": "下片由周瑜到詞人自身，再到酹江月，哪項概括較準確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-12-10-01-80",
+      "ordinal": 27,
+      "baseQuestionHash": "201f9a62b80c305a9a977c3f877353607c11455bea8a08bba291dd7b33c9fbb1",
+      "patch": {
+        "explanation": "李白明知月影不能相知仍暫伴自娛；李清照以酒求慰藉卻覺怎敵急風。比較兩者要分清主動暫得排遣和排遣不足，不能都當已解愁或延至未來才行動。",
+        "summary": "李白明知月影不能相知仍暫伴自娛；李清照以酒求慰藉卻覺怎敵急風。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "前者因月影不解飲而拒絕相伴；後者感到酒難以禦寒解愁",
+            "explanation": "後半切合「怎敵」；前半把先前不解飲的失落停留為最終行動，漏了「暫伴」的自我調整。"
+          },
+          {
+            "id": "b",
+            "text": "前者接受月影作伴以暫時自娛；後者感到酒難以禦寒解愁",
+            "explanation": "李白明知月影不能相知仍暫伴自娛；李清照以酒求慰藉卻覺怎敵急風。"
+          },
+          {
+            "id": "c",
+            "text": "前者接受月影作伴以暫時自娛；後者藉風急襯出飲酒後的暖意",
+            "explanation": "前半成立；「怎敵」是難以抵擋，不是借寒風反襯酒後暖意，後半逆轉語氣。"
+          },
+          {
+            "id": "d",
+            "text": "前者把月影相伴留待酒醒後實現；後者把遣愁希望寄於酒醉之後",
+            "explanation": "「暫伴」是當下的選擇；《聲聲慢》這兩句也未設酒醉後才消愁的條件，兩邊都被補入未來結果。"
+          }
+        ],
+        "misconception": "後半切合「怎敵」；前半把先前不解飲的失落停留為最終行動，漏了「暫伴」的自我調整；前半成立；「怎敵」是難以抵擋，不是借寒風反襯酒後暖意，後半逆轉語氣；「暫伴」是當下的選擇；《聲聲慢》這兩句也未設酒醉後才消愁的條件，兩邊都被補入未來結果。"
+      },
+      "objective": "比較「暫伴月將影」與「三杯兩盞淡酒，怎敵他晚來風急」，哪項同時切合兩處尋求慰藉的情況？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-00-01-80",
+      "ordinal": 28,
+      "baseQuestionHash": "278eaf97659a19c74e407f00f6fa67eaf64be83a9394687bde48a7d06c6aae64",
+      "patch": {
+        "explanation": "甲正確，乙正確。甲：功成英雄反照未酬自身，再借江月自解。乙：理想與現實的落差使如夢省思成為開解的來由。",
+        "summary": "甲正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙不正確",
+            "explanation": "對乙的判斷不合：理想與現實的落差使如夢省思成為開解的來由。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：功成英雄反照未酬自身，再借江月自解。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙正確",
+            "explanation": "甲正確，乙正確。甲：功成英雄反照未酬自身，再借江月自解。乙：理想與現實的落差使如夢省思成為開解的來由。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：功成英雄反照未酬自身，再借江月自解。對乙的判斷不合：理想與現實的落差使如夢省思成為開解的來由。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：理想與現實的落差使如夢省思成為開解的來由；對甲的判斷不合：功成英雄反照未酬自身，再借江月自解；對甲的判斷不合：功成英雄反照未酬自身，再借江月自解。對乙的判斷不合：理想與現實的落差使如夢省思成為開解的來由。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：下片由周瑜到詞人自身，再到酹江月，哪項概括較準確？\n甲：仰慕古人功業，反照自身未酬，再向自然寄懷自解\n乙：詞人先把理想投向周瑜，再感到自身與之有距離，末了藉人生如夢和酹月嘗試放下執着。",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-00-03-80",
+      "ordinal": 29,
+      "baseQuestionHash": "591f64a9596be349a47f5983ffe4e142fd1be2183457405781befbcf36434052",
+      "patch": {
+        "explanation": "全詞由江流千古與赤壁景物起，轉周瑜，再返自身華髮，最後酹月寄懷。每步都有關節：豪傑引周瑜、笑我返自身、如夢引開解，不能互換次序。",
+        "summary": "全詞由江流千古與赤壁景物起，轉周瑜，再返自身華髮，最後酹月寄懷。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "江流千古→赤壁雄景→自身華髮→周瑜風采→酹月寄懷",
+            "explanation": "詞先由赤壁追想周瑜，再以自身華髮對照古人；此項把古今對照先後倒置。"
+          },
+          {
+            "id": "b",
+            "text": "江流千古→赤壁雄景→周瑜風采→自身華髮→酹月寄懷",
+            "explanation": "全詞由江流千古與赤壁景物起，轉周瑜，再返自身華髮，最後酹月寄懷。"
+          },
+          {
+            "id": "c",
+            "text": "江流千古→周瑜風采→赤壁雄景→自身華髮→酹月寄懷",
+            "explanation": "先有亂石驚濤等赤壁景物，才入「遙想公瑾」；此項把景與懷古次序倒置。"
+          },
+          {
+            "id": "d",
+            "text": "江流千古→赤壁雄景→周瑜風采→酹月寄懷→自身華髮",
+            "explanation": "「多情應笑我，早生華髮」先於「一尊還酹江月」；此項把自嘆放到收束後。"
+          }
+        ],
+        "misconception": "詞先由赤壁追想周瑜，再以自身華髮對照古人；此項把古今對照先後倒置；先有亂石驚濤等赤壁景物，才入「遙想公瑾」；此項把景與懷古次序倒置；「多情應笑我，早生華髮」先於「一尊還酹江月」；此項把自嘆放到收束後。"
+      },
+      "objective": "哪項依次排列全詞的主要內容？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-00-05-80",
+      "ordinal": 30,
+      "baseQuestionHash": "d3c695b2927ef462e0182ff647c51a7f84793a00d3dce878e260af13986ab96a",
+      "patch": {
+        "explanation": "談笑間寫周瑜破敵時的從容，應笑我則把焦點轉到詞人未酬自傷。後一句可自嘲或想像周瑜笑己，但笑的對象都為蘇軾，並非周瑜繼續自滿。",
+        "summary": "談笑間寫周瑜破敵時的從容，應笑我則把焦點轉到詞人未酬自傷。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "兩個笑都屬周瑜，第二個仍表他對自己功業的滿意",
+            "explanation": "笑我焦點為蘇軾自身，不是周瑜自滿。"
+          },
+          {
+            "id": "b",
+            "text": "第一笑是人物神態，第二笑只是重複同一從容情緒",
+            "explanation": "前者從容，後者自傷，情感有落差。"
+          },
+          {
+            "id": "c",
+            "text": "第一笑有功業背景，第二笑便應理解為詞人也已建功",
+            "explanation": "借古對照不是兩人處境相同。"
+          },
+          {
+            "id": "d",
+            "text": "前者表現周瑜破敵從容，後者把焦點轉向詞人多情未酬",
+            "explanation": "談笑間寫周瑜破敵時的從容，應笑我則把焦點轉到詞人未酬自傷。"
+          }
+        ],
+        "misconception": "笑我焦點為蘇軾自身，不是周瑜自滿；前者從容，後者自傷，情感有落差；借古對照不是兩人處境相同。"
+      },
+      "objective": "「談笑間」與「多情應笑我」中的「笑」，如何形成照應？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-00-07-80",
+      "ordinal": 31,
+      "baseQuestionHash": "18d4289356453782706bc61535a6692ca1aee0b216c0202e430cb068e3905246",
+      "patch": {
+        "explanation": "念奴嬌是規定詞調格式的詞牌，赤壁懷古是提示地點題材的題目。兩者功能不同，詞牌不等於這篇獨有題名，赤壁懷古也不是作者別號或作品集。",
+        "summary": "念奴嬌是規定詞調格式的詞牌，赤壁懷古是提示地點題材的題目。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "題目；詞牌",
+            "explanation": "二者倒置。"
+          },
+          {
+            "id": "b",
+            "text": "曲牌；作者別號",
+            "explanation": "不是作者別號。"
+          },
+          {
+            "id": "c",
+            "text": "詩體；作品集名",
+            "explanation": "不是詩體或作品集。"
+          },
+          {
+            "id": "d",
+            "text": "詞牌；題目",
+            "explanation": "念奴嬌是規定詞調格式的詞牌，赤壁懷古是提示地點題材的題目。"
+          }
+        ],
+        "misconception": "二者倒置；不是作者別號；不是詩體或作品集。"
+      },
+      "objective": "「念奴嬌」與「赤壁懷古」分別是甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-01-04-80",
+      "ordinal": 32,
+      "baseQuestionHash": "47ef77ce9fe0e38244fe6bbfe5e3e7c206a2fa401ac5cee22d90332f0d0d11df",
+      "patch": {
+        "explanation": "人道是明示轉述相傳，與作者直接說此地是有確定程度的差別。原句保留距離，未宣布考證定論；改句才由引他人話轉為自己的直接指認。",
+        "summary": "人道是明示轉述相傳，與作者直接說此地是有確定程度的差別。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "由明確否定舊說，變為暫時保留可能",
+            "explanation": "原句未明確否定舊說。"
+          },
+          {
+            "id": "b",
+            "text": "由轉述他人相傳，變為直接斷定地點",
+            "explanation": "人道是明示轉述相傳，與作者直接說此地是有確定程度的差別。"
+          },
+          {
+            "id": "c",
+            "text": "由強調親自查證，變為轉述旁人傳聞",
+            "explanation": "兩種語氣次序倒置。"
+          },
+          {
+            "id": "d",
+            "text": "兩者都直接斷定地點，沒有語氣差異",
+            "explanation": "人道是保留轉述層次。"
+          }
+        ],
+        "misconception": "原句未明確否定舊說；兩種語氣次序倒置；人道是保留轉述層次。"
+      },
+      "objective": "若把「人道是、三國周郎赤壁」改成「此地是、三國周郎赤壁」，語氣有何改變？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-02-04-80",
+      "ordinal": 33,
+      "baseQuestionHash": "db9eb667875a992a35a8b048e53c8a3492f2e0762464cca3f715af8c7306ff46",
+      "patch": {
+        "explanation": "小喬初嫁從婚姻美滿側襯周瑜，雄姿英發再正面寫年少英偉，集中塑造得意形象。藝術安排不證婚年與戰年同年，也不使軍功變成無關內容。",
+        "summary": "小喬初嫁從婚姻美滿側襯周瑜，雄姿英發再正面寫年少英偉，集中塑造得意形象。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "小喬只是交代婚年，與周瑜英發形象無關",
+            "explanation": "小喬從側面烘托年少得意。"
+          },
+          {
+            "id": "b",
+            "text": "既說初嫁，就可直接證實婚年與赤壁戰年必為同一年",
+            "explanation": "藝術集中不等於歷史年份相同。"
+          },
+          {
+            "id": "c",
+            "text": "先寫婚姻美滿，便表示詞人只重周瑜私生活而不重其功業",
+            "explanation": "下接破敵仍突出軍功，兩者相配。"
+          },
+          {
+            "id": "d",
+            "text": "以婚姻美滿和英偉姿態集中呈現年少得意",
+            "explanation": "小喬初嫁從婚姻美滿側襯周瑜，雄姿英發再正面寫年少英偉，集中塑造得意形象。"
+          }
+        ],
+        "misconception": "小喬從側面烘托年少得意；藝術集中不等於歷史年份相同；下接破敵仍突出軍功，兩者相配。"
+      },
+      "objective": "把「小喬初嫁了」與「雄姿英發」放在一起，主要怎樣烘托周瑜？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-03-00-02",
+      "ordinal": 34,
+      "baseQuestionHash": "4d4ff8c2092974019a83c29e067f3f0c167ecc434312dac21b085754c25182fe",
+      "patch": {
+        "explanation": "江水不停東流，引出時間不返，連千古英雄亦被淘洗消逝的感慨。自然長流與個體短促相對，不是英雄沒有成就，亦不是有功便能不受時間影響。",
+        "summary": "江水不停東流，引出時間不返，連千古英雄亦被淘洗消逝的感慨。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "只有功業不足的人才被時間淘盡，英雄則完全不受影響",
+            "explanation": "浪淘盡明包括風流人物。"
+          },
+          {
+            "id": "b",
+            "text": "江水長流代表英雄功業必永存，所以開首沒有消逝之慨",
+            "explanation": "自然長流與人物消逝形成張力。"
+          },
+          {
+            "id": "c",
+            "text": "寫千古只為表示江很古老，不能與下片華髮相連",
+            "explanation": "時間之感貫串人物和自身年華。"
+          },
+          {
+            "id": "d",
+            "text": "時間流逝不返，連英雄人物也終會消逝",
+            "explanation": "江水不停東流，引出時間不返，連千古英雄亦被淘洗消逝的感慨。"
+          }
+        ],
+        "misconception": "浪淘盡明包括風流人物；自然長流與人物消逝形成張力；時間之感貫串人物和自身年華。"
+      },
+      "objective": "「大江東去，浪淘盡、千古風流人物」由江流引出甚麼感慨？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-03-00-07",
+      "ordinal": 35,
+      "baseQuestionHash": "1847a7fa4159075bbdee2af7fa718842f3bdc347cbac3dcaf8299b797f49f2f4",
+      "patch": {
+        "explanation": "甲正確，乙正確。甲：人道為轉述，此地是變作者直接斷定。乙：傳聞的距離在改句中被取消，確定程度提高。",
+        "summary": "甲正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙不正確",
+            "explanation": "對乙的判斷不合：傳聞的距離在改句中被取消，確定程度提高。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：人道為轉述，此地是變作者直接斷定。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：人道為轉述，此地是變作者直接斷定。對乙的判斷不合：傳聞的距離在改句中被取消，確定程度提高。"
+          },
+          {
+            "id": "d",
+            "text": "甲正確，乙正確",
+            "explanation": "甲正確，乙正確。甲：人道為轉述，此地是變作者直接斷定。乙：傳聞的距離在改句中被取消，確定程度提高。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：傳聞的距離在改句中被取消，確定程度提高；對甲的判斷不合：人道為轉述，此地是變作者直接斷定；對甲的判斷不合：人道為轉述，此地是變作者直接斷定。對乙的判斷不合：傳聞的距離在改句中被取消，確定程度提高。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：若把「人道是、三國周郎赤壁」改成「此地是、三國周郎赤壁」，語氣有何改變？\n甲：由轉述他人相傳，變為直接斷定地點\n乙：保留「人道是」會留下傳聞的距離；改為「此地是」則使作者承擔確定指認的語氣。",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-03-00-13",
+      "ordinal": 36,
+      "baseQuestionHash": "0baaf09a1edfe39e5d84dff1deabff925fcfb9667554c87b7f42effd66fef34a",
+      "patch": {
+        "explanation": "穿使石壁高插天空，拍寫江濤撞岸，捲寫浪花激起翻湧。三個有力動詞分別突出高峻、衝擊、翻動，共成雄奇場面，不是靜態位置清單。",
+        "summary": "穿使石壁高插天空，拍寫江濤撞岸，捲寫浪花激起翻湧。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "石壁高聳；江濤撞岸；浪花凝定",
+            "explanation": "捲寫翻動，非凝定。"
+          },
+          {
+            "id": "b",
+            "text": "石壁高聳；江面平靜；浪花翻湧",
+            "explanation": "拍岸具衝擊力量，非平靜。"
+          },
+          {
+            "id": "c",
+            "text": "石壁高聳；江濤撞岸；浪花翻湧",
+            "explanation": "穿使石壁高插天空，拍寫江濤撞岸，捲寫浪花激起翻湧。"
+          },
+          {
+            "id": "d",
+            "text": "石壁成列；江濤撞岸；浪花翻湧",
+            "explanation": "穿空不僅排列，而突出高度力度。"
+          }
+        ],
+        "misconception": "捲寫翻動，非凝定；拍岸具衝擊力量，非平靜；穿空不僅排列，而突出高度力度。"
+      },
+      "objective": "「穿」「拍」「捲」三個動詞，分別怎樣使赤壁景象鮮明？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-03-00-14",
+      "ordinal": 37,
+      "baseQuestionHash": "7110e97f6f921c448670ef41ee2b6b9919d88747544eaea9c3ad5f7185611b4c",
+      "patch": {
+        "explanation": "石壁穿空是高峻誇飾，波濤拍岸是撞擊，千堆雪則為浪花翻湧。逐字落實本體與動作，才不會把石高說成水沖洞，或把雪的喻體當真雪。",
+        "summary": "石壁穿空是高峻誇飾，波濤拍岸是撞擊，千堆雪則為浪花翻湧。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "石壁高插天空；江濤撞擊岸邊；浪花激起翻湧",
+            "explanation": "石壁穿空是高峻誇飾，波濤拍岸是撞擊，千堆雪則為浪花翻湧。"
+          },
+          {
+            "id": "b",
+            "text": "石壁高插天空；江濤撞擊岸邊；白雪隨風飛捲",
+            "explanation": "前兩處切合；末句「雪」喻白色浪花，不是天氣中的白雪，不能把喻體當實景。"
+          },
+          {
+            "id": "c",
+            "text": "石壁被水沖穿；江濤撞擊岸邊；浪花激起翻湧",
+            "explanation": "後兩處切合；「穿空」寫石壁高插天空，並非江水在石上沖出孔洞。"
+          },
+          {
+            "id": "d",
+            "text": "石壁高插天空；江濤沿岸退去；浪花激起翻湧",
+            "explanation": "首尾切合；「拍」指波浪撞擊江岸，不是描述浪退時沿岸流走的方向。"
+          }
+        ],
+        "misconception": "前兩處切合；末句「雪」喻白色浪花，不是天氣中的白雪，不能把喻體當實景；後兩處切合；「穿空」寫石壁高插天空，並非江水在石上沖出孔洞；首尾切合；「拍」指波浪撞擊江岸，不是描述浪退時沿岸流走的方向。"
+      },
+      "objective": "「亂石穿空，驚濤拍岸，捲起千堆雪」中，哪項依次說明「穿、拍、捲」造成的景象？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-03-00-17",
+      "ordinal": 38,
+      "baseQuestionHash": "0eb3eca25b79ed01837f96bc1802c994698d93a705632d072ff51640cf703ffe",
+      "patch": {
+        "explanation": "羽扇綸巾見儒雅，談笑破敵見從容有才，合成儒將風度。服飾不必是戰甲才可寫軍事能力，詞中正以輕鬆姿態和重大戰果相映來讚周瑜。",
+        "summary": "羽扇綸巾見儒雅，談笑破敵見從容有才，合成儒將風度。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "以儒雅裝束反襯不諳軍事，暗示勝利純屬僥倖",
+            "explanation": "詞人讚其指揮能力，非歸為僥倖。"
+          },
+          {
+            "id": "b",
+            "text": "以華麗裝束配宴遊談笑，批評他臨敵疏忽",
+            "explanation": "談笑而破敵，非批臨敵疏忽。"
+          },
+          {
+            "id": "c",
+            "text": "以閒適裝束配遠離戰場，表現他無心功業",
+            "explanation": "周瑜仍是建功將領，非無心功業。"
+          },
+          {
+            "id": "d",
+            "text": "以儒雅裝束配從容破敵，塑造儒將風度",
+            "explanation": "羽扇綸巾見儒雅，談笑破敵見從容有才，合成儒將風度。"
+          }
+        ],
+        "misconception": "詞人讚其指揮能力，非歸為僥倖；談笑而破敵，非批臨敵疏忽；周瑜仍是建功將領，非無心功業。"
+      },
+      "objective": "「羽扇綸巾」的服飾描寫，與下文破敵相配合有何作用？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-03-00-18",
+      "ordinal": 39,
+      "baseQuestionHash": "7014202e491bbac274a2c72dc6ada55eafa1ae3626876192bc633810b56be7e5",
+      "patch": {
+        "explanation": "檣櫓本是船具，用部分代整艘戰船，屬借代。這依本詞檣櫓底本而言，並非兩物外形相似的比喻；同句灰飛煙滅可另有誇飾，不能混為一種手法。",
+        "summary": "檣櫓本是船具，用部分代整艘戰船，屬借代。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "檣櫓與戰船在外形上相像，因此是以相似點成立的比喻",
+            "explanation": "是部分代整體，非兩物形似。"
+          },
+          {
+            "id": "b",
+            "text": "以船具代整艘戰船，屬部分與整體的借代",
+            "explanation": "檣櫓本是船具，用部分代整艘戰船，屬借代。"
+          },
+          {
+            "id": "c",
+            "text": "灰飛煙滅帶誇飾，因此檣櫓一詞本身只能歸作誇張",
+            "explanation": "同句不同部分可有不同手法，不能混判。"
+          },
+          {
+            "id": "d",
+            "text": "檣櫓是真實船具，因此它在句中不能指向曹軍整體敗亡",
+            "explanation": "借代可從船具指戰船和軍隊敗況。"
+          }
+        ],
+        "misconception": "是部分代整體，非兩物形似；同句不同部分可有不同手法，不能混判；借代可從船具指戰船和軍隊敗況。"
+      },
+      "objective": "「檣櫓灰飛煙滅」以「檣櫓」指曹軍戰船，依據何種關係？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-03-00-19",
+      "ordinal": 40,
+      "baseQuestionHash": "60ea756804f160c458318567c485d90e3215c740e74f198000323d8497cd3cea",
+      "patch": {
+        "explanation": "曹軍戰船灰飛煙滅寫敵方敗況，配談笑間便反襯周瑜制勝迅速從容。結果可側面寫指揮者能力，誇飾戰果恰加強烘托，不是描詞人自身遭遇。",
+        "summary": "曹軍戰船灰飛煙滅寫敵方敗況，配談笑間便反襯周瑜制勝迅速從容。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "只寫曹軍損失，所以不能同時烘托周瑜破敵能力",
+            "explanation": "反面結果可側襯另一方能力。"
+          },
+          {
+            "id": "b",
+            "text": "只因用了誇飾，便不能從中分析人物才能",
+            "explanation": "誇飾戰果恰可強化人物才能。"
+          },
+          {
+            "id": "c",
+            "text": "曹軍戰船迅速敗毀，側面突出周瑜才能",
+            "explanation": "曹軍戰船灰飛煙滅寫敵方敗況，配談笑間便反襯周瑜制勝迅速從容。"
+          },
+          {
+            "id": "d",
+            "text": "灰飛煙滅屬詞人自身失意的比喻，與周瑜軍功無關",
+            "explanation": "本句仍接周瑜談笑破敵，非詞人自況。"
+          }
+        ],
+        "misconception": "反面結果可側襯另一方能力；誇飾戰果恰可強化人物才能；本句仍接周瑜談笑破敵，非詞人自況。"
+      },
+      "objective": "「檣櫓灰飛煙滅」所寫的結果及其作用是哪一項？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-03-00-21",
+      "ordinal": 41,
+      "baseQuestionHash": "e954112eb364b1a6850068cc9dfed87b685bb74d175523b370938db7f8dfeeae",
+      "patch": {
+        "explanation": "故國神遊仍在想像三國舊地，多情應笑我則轉回詞人自己。這是由古返今的抒情關節，不是返鄉旅途，也不是繼續敘周瑜晚年。",
+        "summary": "故國神遊仍在想像三國舊地，多情應笑我則轉回詞人自己。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "回憶故鄉的昔日生活，隨後感嘆返鄉之路遙遠",
+            "explanation": "此處不是故鄉和歸途的回憶。"
+          },
+          {
+            "id": "b",
+            "text": "延續描寫周瑜晚年，隨後感嘆英雄容貌衰老",
+            "explanation": "華髮轉到蘇軾，非周瑜晚年。"
+          },
+          {
+            "id": "c",
+            "text": "精神上遨遊三國舊地，隨後感嘆自己多情善感",
+            "explanation": "故國神遊仍在想像三國舊地，多情應笑我則轉回詞人自己。"
+          },
+          {
+            "id": "d",
+            "text": "追想赤壁戰役，隨後只批評古人多情誤事",
+            "explanation": "多情應笑我指向自身，不只批古人。"
+          }
+        ],
+        "misconception": "此處不是故鄉和歸途的回憶；華髮轉到蘇軾，非周瑜晚年；多情應笑我指向自身，不只批古人。"
+      },
+      "objective": "「故國神遊，多情應笑我」怎樣由懷古轉回自身？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-03-00-22",
+      "ordinal": 42,
+      "baseQuestionHash": "9be31213a385b5146ef50670144fa65be268552b789b261bfd938a2499614f29",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：故國接三國懷古，笑我轉詞人自身。乙：未寫故鄉歸途，故國不可套成現代故鄉義。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：未寫故鄉歸途，故國不可套成現代故鄉義。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：故國接三國懷古，笑我轉詞人自身。對乙的判斷不合：未寫故鄉歸途，故國不可套成現代故鄉義。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：故國接三國懷古，笑我轉詞人自身。乙：未寫故鄉歸途，故國不可套成現代故鄉義。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：故國接三國懷古，笑我轉詞人自身。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：未寫故鄉歸途，故國不可套成現代故鄉義；對甲的判斷不合：故國接三國懷古，笑我轉詞人自身。對乙的判斷不合：未寫故鄉歸途，故國不可套成現代故鄉義；對甲的判斷不合：故國接三國懷古，笑我轉詞人自身。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「故國神遊，多情應笑我」怎樣由懷古轉回自身？\n甲：精神上遨遊三國舊地，隨後感嘆自己多情善感\n乙：回憶故鄉的昔日生活，隨後感嘆返鄉之路遙遠",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-03-00-23",
+      "ordinal": 43,
+      "baseQuestionHash": "d03dc525248de746ae6c6ca8836c94854d3f9bf3c878d9641f71586840ceac5b",
+      "patch": {
+        "explanation": "華髮置於周瑜功成後，便不只說頭髮花白，而是年華消逝仍未酬志的標記。多情應笑我補自嘲語氣，須把外貌、人物對照和抱負一起分析。",
+        "summary": "華髮置於周瑜功成後，便不只說頭髮花白，而是年華消逝仍未酬志的標記。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "放在周瑜功成之後，寄年華漸老而抱負未酬之感",
+            "explanation": "華髮置於周瑜功成後，便不只說頭髮花白，而是年華消逝仍未酬志的標記。"
+          },
+          {
+            "id": "b",
+            "text": "只要是外貌詞，便不能承載功業未酬的情感",
+            "explanation": "外貌置於對照可寄情。"
+          },
+          {
+            "id": "c",
+            "text": "華髮與雄姿英發都寫周瑜，形成同一人年齡變化",
+            "explanation": "華髮轉向我蘇軾，不是周瑜生平後段。"
+          },
+          {
+            "id": "d",
+            "text": "華髮只說年長，因此可以略去多情應笑我的自嘲語氣",
+            "explanation": "年長與自嘲、未酬關係不可略去。"
+          }
+        ],
+        "misconception": "外貌置於對照可寄情；華髮轉向我蘇軾，不是周瑜生平後段；年長與自嘲、未酬關係不可略去。"
+      },
+      "objective": "「早生華髮」何以不只是外貌描寫？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-04-00-02",
+      "ordinal": 44,
+      "baseQuestionHash": "d39671fa3186fce1cfdb7adc094509b0f2e7491f3e153585214ab2fc75e89732",
+      "patch": {
+        "explanation": "酹是把酒灑向江月，以自然為寄懷對象。這個動作承接人間如夢的省思，表自我開解，不是與在場友人遞酒，也不保證喝盡酒便愁全消。",
+        "summary": "酹是把酒灑向江月，以自然為寄懷對象。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "把酒飲盡以消除所有愁緒",
+            "explanation": "酹不是喝盡，也未保證所有愁已消。"
+          },
+          {
+            "id": "b",
+            "text": "向江月舉杯，表示已實現功業",
+            "explanation": "非功業實現的慶賀。"
+          },
+          {
+            "id": "c",
+            "text": "把酒遞給友人，請對方同賞江月",
+            "explanation": "詩句未有在場受酒友人。"
+          },
+          {
+            "id": "d",
+            "text": "把酒灑向江月以寄託情懷",
+            "explanation": "酹是把酒灑向江月，以自然為寄懷對象。"
+          }
+        ],
+        "misconception": "酹不是喝盡，也未保證所有愁已消；非功業實現的慶賀；詩句未有在場受酒友人。"
+      },
+      "objective": "「一尊還酹江月」寫詞人做甚麼？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-04-00-03",
+      "ordinal": 45,
+      "baseQuestionHash": "a212e5d7a96cc86e66a6d34a700e96ea193dcc665e70a4f19e67c74975638545",
+      "patch": {
+        "explanation": "江山如畫取畫的美好，將雄奇景象形象化；人間如夢取夢的短促虛幻，反省得失。兩處如構成明喻，各取特徵不同，並非實際睡夢或畫面全靜止。",
+        "summary": "江山如畫取畫的美好，將雄奇景象形象化；人間如夢取夢的短促虛幻，反省得失。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "圖畫的美好；夢中功業必能在現實重現",
+            "explanation": "如夢為省思，不保證成就重現。"
+          },
+          {
+            "id": "b",
+            "text": "圖畫的靜止；夢的短促虛幻",
+            "explanation": "江山如畫重美好，與強烈動勢並存，非着重靜止。"
+          },
+          {
+            "id": "c",
+            "text": "圖畫的美好；夢是詞人實際入睡的紀錄",
+            "explanation": "是比喻人生，非睡夢紀錄。"
+          },
+          {
+            "id": "d",
+            "text": "圖畫的美好；夢的短促虛幻",
+            "explanation": "江山如畫取畫的美好，將雄奇景象形象化；人間如夢取夢的短促虛幻，反省得失。"
+          }
+        ],
+        "misconception": "如夢為省思，不保證成就重現；江山如畫重美好，與強烈動勢並存，非着重靜止；是比喻人生，非睡夢紀錄。"
+      },
+      "objective": "「江山如畫」與「人間如夢」分別取圖畫、夢的甚麼特點？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-05-00-01",
+      "ordinal": 46,
+      "baseQuestionHash": "e41fa580229e05254e89560ccc7c835e785c43657eed7269ad252225b07af9bf",
+      "patch": {
+        "explanation": "長流江水引時間歷史之感，淘盡的對象明為風流人物，說英雄也會消逝。這不否定英雄曾有價值，反與下文仰慕功業構成人生短促的張力。",
+        "summary": "長流江水引時間歷史之感，淘盡的對象明為風流人物，說英雄也會消逝。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "以江流淘汰無能者，說明真正英雄會保存於現世",
+            "explanation": "淘盡的賓語正是風流人物，不是只淘汰無能者；英雄仍受時間限制。"
+          },
+          {
+            "id": "b",
+            "text": "以江水不返否定古人功業，表示懷念英雄已無價值",
+            "explanation": "人事消逝不等於功業無價值；下文追想周瑜，仍表仰慕。"
+          },
+          {
+            "id": "c",
+            "text": "以江水長流證明人物長在，將千古寫成英雄不老的保證",
+            "explanation": "江水與人事有張力，不能把江流長在直接移給人物；淘盡恰明消逝。"
+          },
+          {
+            "id": "d",
+            "text": "以長流江水引出久遠歷史，感嘆傑出人物也在時間中消逝",
+            "explanation": "長流江水引時間歷史之感，淘盡的對象明為風流人物，說英雄也會消逝。"
+          }
+        ],
+        "misconception": "淘盡的賓語正是風流人物，不是只淘汰無能者；英雄仍受時間限制；人事消逝不等於功業無價值；下文追想周瑜，仍表仰慕；江水與人事有張力，不能把江流長在直接移給人物；淘盡恰明消逝。"
+      },
+      "objective": "「大江東去，浪淘盡、千古風流人物」如何由江流帶出懷古感慨？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-05-00-02",
+      "ordinal": 47,
+      "baseQuestionHash": "0118e1eeb013c3f049646a914d0fcb427d4c834b5a4302e8182f6d890027c9c9",
+      "patch": {
+        "explanation": "甲不正確，乙正確。甲：拍岸說衝擊，不能解江面平靜。乙：穿拍捲分寫高度、衝力及浪花翻湧。",
+        "summary": "甲不正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對甲的判斷不合：拍岸說衝擊，不能解江面平靜。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙不正確",
+            "explanation": "對甲的判斷不合：拍岸說衝擊，不能解江面平靜。對乙的判斷不合：穿拍捲分寫高度、衝力及浪花翻湧。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對乙的判斷不合：穿拍捲分寫高度、衝力及浪花翻湧。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙正確",
+            "explanation": "甲不正確，乙正確。甲：拍岸說衝擊，不能解江面平靜。乙：穿拍捲分寫高度、衝力及浪花翻湧。"
+          }
+        ],
+        "misconception": "對甲的判斷不合：拍岸說衝擊，不能解江面平靜；對甲的判斷不合：拍岸說衝擊，不能解江面平靜。對乙的判斷不合：穿拍捲分寫高度、衝力及浪花翻湧；對乙的判斷不合：穿拍捲分寫高度、衝力及浪花翻湧。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「穿」「拍」「捲」三個動詞，分別怎樣使赤壁景象鮮明？\n甲：石壁高聳；江面平靜；浪花翻湧\n乙：石壁高聳；江濤撞岸；浪花翻湧",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-05-00-03",
+      "ordinal": 48,
+      "baseQuestionHash": "78f7c241b665f151faf36d8c1a1ba60654016f884e56973a83c254f22db8e1f0",
+      "patch": {
+        "explanation": "江山如畫回收上片雄景，一時多少豪傑把焦點由景推到人，為遙想周瑜準備。這兩句承上啟下，不是景人分斷，也尚未直接轉自身華髮。",
+        "summary": "江山如畫回收上片雄景，一時多少豪傑把焦點由景推到人，為遙想周瑜準備。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "先總結英雄事蹟，再倒過來解釋山川為何如此壯闊",
+            "explanation": "先景後人，非古人事蹟導致山川。"
+          },
+          {
+            "id": "b",
+            "text": "總括上片景色，並引出下片對周瑜的懷想",
+            "explanation": "江山如畫回收上片雄景，一時多少豪傑把焦點由景推到人，為遙想周瑜準備。"
+          },
+          {
+            "id": "c",
+            "text": "只對前景作讚語，一時多少豪傑並不引出下片人物",
+            "explanation": "豪傑啟下公瑾，非無承接。"
+          },
+          {
+            "id": "d",
+            "text": "已把焦點落到詞人自身，所以周瑜只是中途無關插話",
+            "explanation": "此時尚未自傷，周瑜為重要橋梁。"
+          }
+        ],
+        "misconception": "先景後人，非古人事蹟導致山川；豪傑啟下公瑾，非無承接；此時尚未自傷，周瑜為重要橋梁。"
+      },
+      "objective": "「江山如畫，一時多少豪傑」在結構上有何作用？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-05-00-04",
+      "ordinal": 49,
+      "baseQuestionHash": "1aa780e209fd17d0430d96617b983a8c47a64f72abaea062cd0b3e3b0d837ddb",
+      "patch": {
+        "explanation": "初嫁側寫婚姻得意，扇巾正寫儒雅風度，談笑破敵展制勝從容。三種細節分工互補，不能把儒雅等同近戰武勇或把從容歸為僥倖。",
+        "summary": "初嫁側寫婚姻得意，扇巾正寫儒雅風度，談笑破敵展制勝從容。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "小喬初嫁—得意；羽扇綸巾—武勇；談笑破敵—從容",
+            "explanation": "儒裝重儒雅，非直接武勇戰鬥姿態。"
+          },
+          {
+            "id": "b",
+            "text": "小喬初嫁—得意；羽扇綸巾—儒雅；談笑破敵—從容",
+            "explanation": "初嫁側寫婚姻得意，扇巾正寫儒雅風度，談笑破敵展制勝從容。"
+          },
+          {
+            "id": "c",
+            "text": "小喬初嫁—得意；羽扇綸巾—儒雅；談笑破敵—僥倖",
+            "explanation": "詞旨為才略若定，非僥倖勝利。"
+          },
+          {
+            "id": "d",
+            "text": "小喬初嫁—側襯失意；羽扇綸巾—儒雅；談笑破敵—從容",
+            "explanation": "初嫁配英發，側襯得意而非失意。"
+          }
+        ],
+        "misconception": "儒裝重儒雅，非直接武勇戰鬥姿態；詞旨為才略若定，非僥倖勝利；初嫁配英發，側襯得意而非失意。"
+      },
+      "objective": "哪組細節及人物特點配對正確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-05-00-05",
+      "ordinal": 50,
+      "baseQuestionHash": "18cb83c93c7aef1d12580b145f1ee287f99ae7d662d22db3b38584522f154c29",
+      "patch": {
+        "explanation": "甲正確，乙正確。甲：周瑜盛年功成對蘇軾華髮未酬，仰慕轉傷己。乙：古人成功成比較尺度，華髮遂不只外貌。",
+        "summary": "甲正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙不正確",
+            "explanation": "對乙的判斷不合：古人成功成比較尺度，華髮遂不只外貌。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：周瑜盛年功成對蘇軾華髮未酬，仰慕轉傷己。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：周瑜盛年功成對蘇軾華髮未酬，仰慕轉傷己。對乙的判斷不合：古人成功成比較尺度，華髮遂不只外貌。"
+          },
+          {
+            "id": "d",
+            "text": "甲正確，乙正確",
+            "explanation": "甲正確，乙正確。甲：周瑜盛年功成對蘇軾華髮未酬，仰慕轉傷己。乙：古人成功成比較尺度，華髮遂不只外貌。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：古人成功成比較尺度，華髮遂不只外貌；對甲的判斷不合：周瑜盛年功成對蘇軾華髮未酬，仰慕轉傷己；對甲的判斷不合：周瑜盛年功成對蘇軾華髮未酬，仰慕轉傷己。對乙的判斷不合：古人成功成比較尺度，華髮遂不只外貌。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：寫周瑜「雄姿英發」後寫「早生華髮」，主要構成甚麼對照？\n甲：古人盛年功成與詞人年長未酬，仰慕轉成自傷\n乙：周瑜的成功形象成了詞人觀照自己的尺度，華髮因此連着年華逝去而功業未成的失落。",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-05-00-06",
+      "ordinal": 51,
+      "baseQuestionHash": "6d5a35ae8fdf33ef76a0361d7ce691e8111100f707e62fd024353efeea314bc4",
+      "patch": {
+        "explanation": "如夢把一時失意放入人生短促的尺度，酹月再向自然寄情，嘗試減輕對功名的執着。這是承傷感而自解，不否認周瑜功業，也未證所有愁已永久消失。",
+        "summary": "如夢把一時失意放入人生短促的尺度，酹月再向自然寄情，嘗試減輕對功名的執着。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "把一時失意放入人生短促的省思，向自然寄懷以減輕執着",
+            "explanation": "如夢把一時失意放入人生短促的尺度，酹月再向自然寄情，嘗試減輕對功名的執着。"
+          },
+          {
+            "id": "b",
+            "text": "既以如夢自解，便不再承認周瑜曾有值得仰慕的功業",
+            "explanation": "放寬執着不等於否定古人成就。"
+          },
+          {
+            "id": "c",
+            "text": "酹月把個人感受轉向自然，便表示先前自傷只是修辭而沒有真情",
+            "explanation": "自解可承真實傷感，不把它判假。"
+          },
+          {
+            "id": "d",
+            "text": "由個人失意轉向人生省思，便證明所有現實憂慮已永久消失",
+            "explanation": "可說嘗試開解，不能保證永久全消。"
+          }
+        ],
+        "misconception": "放寬執着不等於否定古人成就；自解可承真實傷感，不把它判假；可說嘗試開解，不能保證永久全消。"
+      },
+      "objective": "由「人間如夢」到「一尊還酹江月」，詞人如何嘗試自我開解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-05-01-80",
+      "ordinal": 52,
+      "baseQuestionHash": "438235b0a3a84c7f13cbc7fabf87f00cdb864910e179a72fba61d636925b8e22",
+      "patch": {
+        "explanation": "全詞由仰慕到華髮自傷，再向酹月自解推進。結尾曠達需要前面失意作來由，因此不能倒說全無傷感；同樣有傷感也不排斥後來尋求開解。",
+        "summary": "全詞由仰慕到華髮自傷，再向酹月自解推進。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "酹月證明抱負已實現，故此前華髮也應解作歡欣",
+            "explanation": "酹月不證抱負實現。"
+          },
+          {
+            "id": "b",
+            "text": "如夢只否定周瑜功業，與詞人自己完全無關",
+            "explanation": "如夢的省思包含詞人自己。"
+          },
+          {
+            "id": "c",
+            "text": "全詞既有傷感，就不能含任何開解與曠達",
+            "explanation": "有傷感不排除努力自解。"
+          },
+          {
+            "id": "d",
+            "text": "酹月有自解意味，但它承接華髮未酬的自傷，不能抹去前段感慨",
+            "explanation": "全詞由仰慕到華髮自傷，再向酹月自解推進。"
+          }
+        ],
+        "misconception": "酹月不證抱負實現；如夢的省思包含詞人自己；有傷感不排除努力自解。"
+      },
+      "objective": "有人據結尾稱全詞「全無傷感」。哪項回應最周全？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-06-00-80",
+      "ordinal": 53,
+      "baseQuestionHash": "1ddc7507d58fb42a968890f127e7239ac4e97b7abb365d5b831cae72a108862f",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：第一笑屬破敵神態，第二笑以詞人未酬為焦點。乙：即使想像周瑜笑我，所笑仍為蘇軾，非周瑜自滿。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：即使想像周瑜笑我，所笑仍為蘇軾，非周瑜自滿。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：第一笑屬破敵神態，第二笑以詞人未酬為焦點。對乙的判斷不合：即使想像周瑜笑我，所笑仍為蘇軾，非周瑜自滿。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：第一笑屬破敵神態，第二笑以詞人未酬為焦點。"
+          },
+          {
+            "id": "d",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：第一笑屬破敵神態，第二笑以詞人未酬為焦點。乙：即使想像周瑜笑我，所笑仍為蘇軾，非周瑜自滿。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：即使想像周瑜笑我，所笑仍為蘇軾，非周瑜自滿；對甲的判斷不合：第一笑屬破敵神態，第二笑以詞人未酬為焦點。對乙的判斷不合：即使想像周瑜笑我，所笑仍為蘇軾，非周瑜自滿；對甲的判斷不合：第一笑屬破敵神態，第二笑以詞人未酬為焦點。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「談笑間」與「多情應笑我」中的「笑」，如何形成照應？\n甲：前者表現周瑜破敵從容，後者把焦點轉向詞人多情未酬\n乙：兩個笑都屬周瑜，第二個仍表他對自己功業的滿意",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-06-01-01",
+      "ordinal": 54,
+      "baseQuestionHash": "a31596652fadd2a9a84934f1f2b78ed8be91f6b293b62edabc5a9e14ff10baab",
+      "patch": {
+        "explanation": "小喬初嫁用婚姻美滿側襯年少得意，雄姿英發再正面聚焦周瑜。並置兩種風采是藝術集中，不是用結婚日期考戰年，也未把軍事從容簡化成新婚心情。",
+        "summary": "小喬初嫁用婚姻美滿側襯年少得意，雄姿英發再正面聚焦周瑜。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "以成婚日期確定赤壁之戰年份，從年代準確凸顯治軍本領",
+            "explanation": "初嫁在此烘托形象，不是用婚年與戰年相等證其能力；年代推斷超過詞的作用。"
+          },
+          {
+            "id": "b",
+            "text": "以新婚歡愉解釋臨戰談笑，把制敵從容歸因於兒女情愛",
+            "explanation": "初嫁烘托年少得意，談笑則顯示制敵從容；並列兩面風采不等於把軍事氣度歸因於新婚歡愉。"
+          },
+          {
+            "id": "c",
+            "text": "以新婚的私人牽掛襯出臨戰憂慮，為後文失意作伏筆",
+            "explanation": "周瑜接着談笑破敵，寫從容功成；失意華髮轉向詞人，不是周瑜新婚焦慮。"
+          },
+          {
+            "id": "d",
+            "text": "以婚姻美滿從側面烘托，配合英偉姿態寫年少得意",
+            "explanation": "小喬初嫁用婚姻美滿側襯年少得意，雄姿英發再正面聚焦周瑜。"
+          }
+        ],
+        "misconception": "初嫁在此烘托形象，不是用婚年與戰年相等證其能力；年代推斷超過詞的作用；初嫁烘托年少得意，談笑則顯示制敵從容；並列兩面風采不等於把軍事氣度歸因於新婚歡愉；周瑜接着談笑破敵，寫從容功成；失意華髮轉向詞人，不是周瑜新婚焦慮。"
+      },
+      "objective": "「小喬初嫁了」緊接「雄姿英發」，主要怎樣烘托周瑜？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-06-01-02",
+      "ordinal": 55,
+      "baseQuestionHash": "cb2754275cf26b34a0a99ddedcfddabb273dc5909b328258748321a2eafe1248",
+      "patch": {
+        "explanation": "甲正確，乙正確。甲：輕鬆神態與重大戰果合寫指揮若定。乙：談笑間便破敵，使周瑜才略從側面突出。",
+        "summary": "甲正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "甲正確，乙正確。甲：輕鬆神態與重大戰果合寫指揮若定。乙：談笑間便破敵，使周瑜才略從側面突出。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙不正確",
+            "explanation": "對乙的判斷不合：談笑間便破敵，使周瑜才略從側面突出。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：輕鬆神態與重大戰果合寫指揮若定。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：輕鬆神態與重大戰果合寫指揮若定。對乙的判斷不合：談笑間便破敵，使周瑜才略從側面突出。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：談笑間便破敵，使周瑜才略從側面突出；對甲的判斷不合：輕鬆神態與重大戰果合寫指揮若定；對甲的判斷不合：輕鬆神態與重大戰果合寫指揮若定。對乙的判斷不合：談笑間便破敵，使周瑜才略從側面突出。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「談笑間、檣櫓灰飛煙滅」怎樣塑造周瑜？\n甲：以從容神態與敵軍迅速潰敗相映，突出指揮若定\n乙：周瑜的輕鬆神態與戰果的重大形成反差，使破敵顯得不費周折，突出他的才略。",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-06-01-03",
+      "ordinal": 56,
+      "baseQuestionHash": "56366e432fc2cff000b5ff759e78029faf054b0080ee782c5affda8604f4651d",
+      "patch": {
+        "explanation": "甲不正確，乙正確。甲：我與華髮已轉蘇軾，不是周瑜晚年。乙：精神懷古後反觀自己多情未酬。",
+        "summary": "甲不正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對甲的判斷不合：我與華髮已轉蘇軾，不是周瑜晚年。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙不正確",
+            "explanation": "對甲的判斷不合：我與華髮已轉蘇軾，不是周瑜晚年。對乙的判斷不合：精神懷古後反觀自己多情未酬。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "甲不正確，乙正確。甲：我與華髮已轉蘇軾，不是周瑜晚年。乙：精神懷古後反觀自己多情未酬。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對乙的判斷不合：精神懷古後反觀自己多情未酬。"
+          }
+        ],
+        "misconception": "對甲的判斷不合：我與華髮已轉蘇軾，不是周瑜晚年；對甲的判斷不合：我與華髮已轉蘇軾，不是周瑜晚年。對乙的判斷不合：精神懷古後反觀自己多情未酬；對乙的判斷不合：精神懷古後反觀自己多情未酬。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「故國神遊，多情應笑我」怎樣由懷古轉回自身？\n甲：延續描寫周瑜晚年，隨後感嘆英雄容貌衰老\n乙：精神上遨遊三國舊地，隨後感嘆自己多情善感",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-06-02-80",
+      "ordinal": 57,
+      "baseQuestionHash": "912675a825a5fac9f0ac55a39169847fdb6c7d455ddef9e562ccc0b040016ea3",
+      "patch": {
+        "explanation": "甲不正確，乙正確。甲：從容與自傷有落差，不是同情緒重複。乙：兩笑把古人得意與今人失意連成對照。",
+        "summary": "甲不正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對甲的判斷不合：從容與自傷有落差，不是同情緒重複。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙不正確",
+            "explanation": "對甲的判斷不合：從容與自傷有落差，不是同情緒重複。對乙的判斷不合：兩笑把古人得意與今人失意連成對照。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對乙的判斷不合：兩笑把古人得意與今人失意連成對照。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙正確",
+            "explanation": "甲不正確，乙正確。甲：從容與自傷有落差，不是同情緒重複。乙：兩笑把古人得意與今人失意連成對照。"
+          }
+        ],
+        "misconception": "對甲的判斷不合：從容與自傷有落差，不是同情緒重複；對甲的判斷不合：從容與自傷有落差，不是同情緒重複。對乙的判斷不合：兩笑把古人得意與今人失意連成對照；對乙的判斷不合：兩笑把古人得意與今人失意連成對照。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「談笑間」與「多情應笑我」中的「笑」，如何形成照應？\n甲：第一笑是人物神態，第二笑只是重複同一從容情緒\n乙：前者表現周瑜破敵從容，後者把焦點轉向詞人多情未酬",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-06-03-80",
+      "ordinal": 58,
+      "baseQuestionHash": "027c60d0c4880381192a19aa2de162375385a3b3b8a28f7ca216bb9b4dea0ae4",
+      "patch": {
+        "explanation": "自笑與想像周瑜笑己雖笑者不同，所笑的我均是蘇軾。兩讀都把古人功成連回自己多情華髮，不影響由古返今的情感焦點，也不構成古人真實評語。",
+        "summary": "自笑與想像周瑜笑己雖笑者不同，所笑的我均是蘇軾。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "兩解都把笑的對象轉為曹軍，故與詞人華髮無關",
+            "explanation": "笑我指詞人自身，非曹軍。"
+          },
+          {
+            "id": "b",
+            "text": "既有兩解，便不能判斷這一句把情感焦點轉向誰",
+            "explanation": "兩解雖笑者不同，所笑的我仍相同。"
+          },
+          {
+            "id": "c",
+            "text": "若採想像周瑜笑己，便可把它當成周瑜對蘇軾的歷史評價",
+            "explanation": "想像不等於古人真有歷史評價。"
+          },
+          {
+            "id": "d",
+            "text": "都把懷古的焦點轉向詞人多情、華髮未酬的處境",
+            "explanation": "自笑與想像周瑜笑己雖笑者不同，所笑的我均是蘇軾。"
+          }
+        ],
+        "misconception": "笑我指詞人自身，非曹軍；兩解雖笑者不同，所笑的我仍相同；想像不等於古人真有歷史評價。"
+      },
+      "objective": "「應笑我」可讀為自嘲，亦可讀為想像周瑜笑己。兩種讀法有何共同點？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-07-00-01",
+      "ordinal": 59,
+      "baseQuestionHash": "78294bd4f33bbb6edbaf67c87f53ce9c2e3e21f2ba8c1fc5d3bf6f75dffbdeb4",
+      "patch": {
+        "explanation": "甲不正確，乙正確。甲：自然長流不等於英雄永存，淘盡明言消逝。乙：江流引時間力量，英雄亦受生命限度。",
+        "summary": "甲不正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對甲的判斷不合：自然長流不等於英雄永存，淘盡明言消逝。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "甲不正確，乙正確。甲：自然長流不等於英雄永存，淘盡明言消逝。乙：江流引時間力量，英雄亦受生命限度。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙不正確",
+            "explanation": "對甲的判斷不合：自然長流不等於英雄永存，淘盡明言消逝。對乙的判斷不合：江流引時間力量，英雄亦受生命限度。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對乙的判斷不合：江流引時間力量，英雄亦受生命限度。"
+          }
+        ],
+        "misconception": "對甲的判斷不合：自然長流不等於英雄永存，淘盡明言消逝；對甲的判斷不合：自然長流不等於英雄永存，淘盡明言消逝。對乙的判斷不合：江流引時間力量，英雄亦受生命限度；對乙的判斷不合：江流引時間力量，英雄亦受生命限度。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「大江東去，浪淘盡、千古風流人物」由江流引出甚麼感慨？\n甲：江水長流代表英雄功業必永存，所以開首沒有消逝之慨\n乙：時間流逝不返，連英雄人物也終會消逝",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-07-00-02",
+      "ordinal": 60,
+      "baseQuestionHash": "58d1b553ee5b31823ab4f30bd97dce445c39ee936054b43afef9ff5f510197f9",
+      "patch": {
+        "explanation": "甲不正確，乙正確。甲：前文公瑾明指周瑜，不能因後文我而合併人物。乙：不同人物功業年華的反差引出自傷。",
+        "summary": "甲不正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲不正確，乙正確",
+            "explanation": "甲不正確，乙正確。甲：前文公瑾明指周瑜，不能因後文我而合併人物。乙：不同人物功業年華的反差引出自傷。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙正確",
+            "explanation": "對甲的判斷不合：前文公瑾明指周瑜，不能因後文我而合併人物。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙不正確",
+            "explanation": "對甲的判斷不合：前文公瑾明指周瑜，不能因後文我而合併人物。對乙的判斷不合：不同人物功業年華的反差引出自傷。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對乙的判斷不合：不同人物功業年華的反差引出自傷。"
+          }
+        ],
+        "misconception": "對甲的判斷不合：前文公瑾明指周瑜，不能因後文我而合併人物；對甲的判斷不合：前文公瑾明指周瑜，不能因後文我而合併人物。對乙的判斷不合：不同人物功業年華的反差引出自傷；對乙的判斷不合：不同人物功業年華的反差引出自傷。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：寫周瑜「雄姿英發」後寫「早生華髮」，主要構成甚麼對照？\n甲：既有早生華髮，便應把前文雄姿英發也解作詞人自貌\n乙：古人盛年功成與詞人年長未酬，仰慕轉成自傷",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-07-00-03",
+      "ordinal": 61,
+      "baseQuestionHash": "3e2159754a4785d4db397521445c675b7f7e39e83dbc373ef9f66305b1ec211c",
+      "patch": {
+        "explanation": "笑我直接點詞人，多情說情緒，早生華髮說年華，故最直接落到自身。赤壁傳聞、雄奇江景及公瑾當年分屬場景與古人，尚非直接自抒。",
+        "summary": "笑我直接點詞人，多情說情緒，早生華髮說年華，故最直接落到自身。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "多情應笑我，早生華髮",
+            "explanation": "笑我直接點詞人，多情說情緒，早生華髮說年華，故最直接落到自身。"
+          },
+          {
+            "id": "b",
+            "text": "故壘西邊，人道是、三國周郎赤壁",
+            "explanation": "主要交代赤壁傳說。"
+          },
+          {
+            "id": "c",
+            "text": "亂石穿空，驚濤拍岸",
+            "explanation": "主要寫雄奇景物。"
+          },
+          {
+            "id": "d",
+            "text": "遙想公瑾當年，小喬初嫁了",
+            "explanation": "主要塑造周瑜。"
+          }
+        ],
+        "misconception": "主要交代赤壁傳說；主要寫雄奇景物；主要塑造周瑜。"
+      },
+      "objective": "哪句最直接把抒情焦點落到詞人自身的年華與感受？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-07-00-04",
+      "ordinal": 62,
+      "baseQuestionHash": "f9f607b6f157ce55aced43d1328f495d7f62897371d5a04709294d116b12ec89",
+      "patch": {
+        "explanation": "江流長存對英雄消逝引生命短促，周瑜功成對自己華髮引未酬失落。兩組比較尺度不同卻相連，既非只區分古今，也非只比外貌或否定古人成就。",
+        "summary": "江流長存對英雄消逝引生命短促，周瑜功成對自己華髮引未酬失落。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "江流不息／英雄消逝—引出生命短促；周瑜功成／詞人華髮—只比較相貌",
+            "explanation": "第二組不只外貌，連功業落差。"
+          },
+          {
+            "id": "b",
+            "text": "江流不息／英雄消逝—證明英雄未有成就；周瑜功成／詞人華髮—引出未酬自傷",
+            "explanation": "消逝不等於從未建功。"
+          },
+          {
+            "id": "c",
+            "text": "江流不息／英雄消逝—引出生命短促；周瑜功成／詞人華髮—引出未酬自傷",
+            "explanation": "江流長存對英雄消逝引生命短促，周瑜功成對自己華髮引未酬失落。"
+          },
+          {
+            "id": "d",
+            "text": "兩組都只為區分古今時代，不承擔任何感情",
+            "explanation": "兩組均服務情感省思。"
+          }
+        ],
+        "misconception": "第二組不只外貌，連功業落差；消逝不等於從未建功；兩組均服務情感省思。"
+      },
+      "objective": "哪組對照及作用配對正確？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-c-14-07-00-05",
+      "ordinal": 63,
+      "baseQuestionHash": "9cbebaa13cbee277d7375cb4fdd17e0ef691e98d205ec96793552f6cd873b543",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：畫取美好，夢取短促虛幻，各有相似點。乙：如夢作人生省思，非保證夢中功業實現。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：如夢作人生省思，非保證夢中功業實現。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：畫取美好，夢取短促虛幻，各有相似點。對乙的判斷不合：如夢作人生省思，非保證夢中功業實現。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：畫取美好，夢取短促虛幻，各有相似點。"
+          },
+          {
+            "id": "d",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：畫取美好，夢取短促虛幻，各有相似點。乙：如夢作人生省思，非保證夢中功業實現。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：如夢作人生省思，非保證夢中功業實現；對甲的判斷不合：畫取美好，夢取短促虛幻，各有相似點。對乙的判斷不合：如夢作人生省思，非保證夢中功業實現；對甲的判斷不合：畫取美好，夢取短促虛幻，各有相似點。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「江山如畫」與「人間如夢」分別取圖畫、夢的甚麼特點？\n甲：圖畫的美好；夢的短促虛幻\n乙：圖畫的美好；夢中功業必能在現實重現",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-07-00-06",
+      "ordinal": 64,
+      "baseQuestionHash": "de3d4bdd3326b995756886eb4a43e60c25072b848e17a79befbbfc2186746acb",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：雪借潔白堆形寫浪花，捲使其翻湧。乙：千堆與捲仍有量感動勢，不能只留顏色。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：雪借潔白堆形寫浪花，捲使其翻湧。乙：千堆與捲仍有量感動勢，不能只留顏色。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：千堆與捲仍有量感動勢，不能只留顏色。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：雪借潔白堆形寫浪花，捲使其翻湧。對乙的判斷不合：千堆與捲仍有量感動勢，不能只留顏色。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：雪借潔白堆形寫浪花，捲使其翻湧。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：千堆與捲仍有量感動勢，不能只留顏色；對甲的判斷不合：雪借潔白堆形寫浪花，捲使其翻湧。對乙的判斷不合：千堆與捲仍有量感動勢，不能只留顏色；對甲的判斷不合：雪借潔白堆形寫浪花，捲使其翻湧。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「捲起千堆雪」的「雪」如何描寫江濤？\n甲：以雪的潔白、堆湧形態寫翻起的浪花\n乙：取雪的潔白，因而全句只寫颜色，捲與千堆沒有動勢作用",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-07-00-07",
+      "ordinal": 65,
+      "baseQuestionHash": "37187d1f40f1bc4fad8ac5959a24cf9704f0928aa03d3cc1b524cb206adc31d3",
+      "patch": {
+        "explanation": "檣櫓是戰船組件，以部件代全船使曹軍敗況具體，為借代。判手法依兩者關係，不因船具像戰船，也不是賦船具人格；此詞本身更沒有誇大數量。",
+        "summary": "檣櫓是戰船組件，以部件代全船使曹軍敗況具體，為借代。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "以船具形狀類似戰船，將兩種相像事物作比喻",
+            "explanation": "船具不是因像戰船才代稱，而是本來構成戰船；形似說誤判關係。"
+          },
+          {
+            "id": "b",
+            "text": "以船具能像人般潰逃，將曹軍失敗寫成擬人動作",
+            "explanation": "原句沒有賦予檣櫓人的思想或逃跑行為，灰飛煙滅是敗亡描寫。"
+          },
+          {
+            "id": "c",
+            "text": "以戰船的部件代整艘戰船，藉具體船具寫曹軍敗況",
+            "explanation": "檣櫓是戰船組件，以部件代全船使曹軍敗況具體，為借代。"
+          },
+          {
+            "id": "d",
+            "text": "以船具數量被誇大，將曹軍兵力寫得格外龐大",
+            "explanation": "檣櫓本身未有誇大數量，題問代稱的關係；不能把敗況誇飾搬作數量誇張。"
+          }
+        ],
+        "misconception": "船具不是因像戰船才代稱，而是本來構成戰船；形似說誤判關係；原句沒有賦予檣櫓人的思想或逃跑行為，灰飛煙滅是敗亡描寫；檣櫓本身未有誇大數量，題問代稱的關係；不能把敗況誇飾搬作數量誇張。"
+      },
+      "objective": "「檣櫓」代稱曹軍戰船，這種寫法根據哪種關係？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-07-00-08",
+      "ordinal": 66,
+      "baseQuestionHash": "312c817302fc4c107ef244678ae7b7d67d8bd149b1ea6a4e5f83714a175e0762",
+      "patch": {
+        "explanation": "穿把石壁寫得如刺入天空，比高立更有高峻力度和誇張感。兩詞雖都表高，動作化形象並不相同，煉字須說出增加了甚麼而非只列同義。",
+        "summary": "穿把石壁寫得如刺入天空，比高立更有高峻力度和誇張感。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "穿與高立都表高度，因此只能算同義替換，沒有形象強弱差別",
+            "explanation": "穿空如刺入天空，比高立更具動勢和誇飾。"
+          },
+          {
+            "id": "b",
+            "text": "穿字主要交代石壁材質，與高峻程度無關",
+            "explanation": "不寫材質。"
+          },
+          {
+            "id": "c",
+            "text": "「穿」誇飾石壁如刺入天空，突出高峻而有力度",
+            "explanation": "穿把石壁寫得如刺入天空，比高立更有高峻力度和誇張感。"
+          },
+          {
+            "id": "d",
+            "text": "穿字只在畫面中增加空間位置，不能帶來力度感",
+            "explanation": "動作化用字有力度，不只是位置。"
+          }
+        ],
+        "misconception": "穿空如刺入天空，比高立更具動勢和誇飾；不寫材質；動作化用字有力度，不只是位置。"
+      },
+      "objective": "若把「亂石穿空」改為「亂石高立」，原句哪方面的表現力較強？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-07-00-09",
+      "ordinal": 67,
+      "baseQuestionHash": "7b6546bd31f03d4c6747a97daa0bf824c594a02a509f84b0f869b7867739d218",
+      "patch": {
+        "explanation": "小喬初嫁側襯年少得意，羽扇綸巾見儒雅將領，談笑間破敵見制勝從容。最後仍是才略有把握，不能由輕鬆神態反推僥倖或無心軍事。",
+        "summary": "小喬初嫁側襯年少得意，羽扇綸巾見儒雅將領，談笑間破敵見制勝從容。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "年少得意；儒將風度；僥倖獲勝",
+            "explanation": "前兩項合，談笑不是不經意碰巧勝利；與灰飛煙滅相連突出制敵才略。"
+          },
+          {
+            "id": "b",
+            "text": "年少得意；儒將風度；制勝從容",
+            "explanation": "小喬初嫁側襯年少得意，羽扇綸巾見儒雅將領，談笑間破敵見制勝從容。"
+          },
+          {
+            "id": "c",
+            "text": "年少得意；武勇搏鬥；制勝從容",
+            "explanation": "首尾合，羽扇綸巾是儒雅裝束，不是揮兵近戰的武勇動作。"
+          },
+          {
+            "id": "d",
+            "text": "新婚憂懼；儒將風度；制勝從容",
+            "explanation": "後兩項合，小喬初嫁連雄姿英發烘托美滿得意，未寫新婚擔憂。"
+          }
+        ],
+        "misconception": "前兩項合，談笑不是不經意碰巧勝利；與灰飛煙滅相連突出制敵才略；首尾合，羽扇綸巾是儒雅裝束，不是揮兵近戰的武勇動作；後兩項合，小喬初嫁連雄姿英發烘托美滿得意，未寫新婚擔憂。"
+      },
+      "objective": "依「小喬初嫁」「羽扇綸巾」「談笑間破敵」的次序，哪組特點配對最切合周瑜形象？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-07-00-10",
+      "ordinal": 68,
+      "baseQuestionHash": "081f56dff15bad0cb87fa6dcf1adba367308d0c0a52ec2cd4249fa4b445a8493",
+      "patch": {
+        "explanation": "甲正確，乙正確。甲：前半收景，後半引人，承上啟下。乙：豪傑由群體引至周瑜，構成聚焦橋梁。",
+        "summary": "甲正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "甲正確，乙正確。甲：前半收景，後半引人，承上啟下。乙：豪傑由群體引至周瑜，構成聚焦橋梁。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙不正確",
+            "explanation": "對乙的判斷不合：豪傑由群體引至周瑜，構成聚焦橋梁。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：前半收景，後半引人，承上啟下。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：前半收景，後半引人，承上啟下。對乙的判斷不合：豪傑由群體引至周瑜，構成聚焦橋梁。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：豪傑由群體引至周瑜，構成聚焦橋梁；對甲的判斷不合：前半收景，後半引人，承上啟下；對甲的判斷不合：前半收景，後半引人，承上啟下。對乙的判斷不合：豪傑由群體引至周瑜，構成聚焦橋梁。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「江山如畫，一時多少豪傑」在結構上有何作用？\n甲：總括上片景色，並引出下片對周瑜的懷想\n乙：「江山」回收前面的赤壁景象，「豪傑」把敘述重心移向人物，為集中寫周瑜作準備。",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-07-00-11",
+      "ordinal": 69,
+      "baseQuestionHash": "5f1360c1dd901e3e4b5e72213da6b0dfbff0e74654581edb3d23a7cbc224a9c3",
+      "patch": {
+        "explanation": "大江亂石驚濤等雄大物象，配淘盡穿拍捲的力度，連起江山與歷史氣勢。豪放需這些實證支持，卻仍容自傷及柔雅細節，不等於句句只有昂揚。",
+        "summary": "大江亂石驚濤等雄大物象，配淘盡穿拍捲的力度，連起江山與歷史氣勢。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "只要出現大江，便可把每一句都判為純粹昂揚而不含自傷",
+            "explanation": "整體豪放可含感傷，不能抹平轉折。"
+          },
+          {
+            "id": "b",
+            "text": "大江、亂石、驚濤配淘盡、穿、拍、捲，拓展江山與歷史的氣勢",
+            "explanation": "大江亂石驚濤等雄大物象，配淘盡穿拍捲的力度，連起江山與歷史氣勢。"
+          },
+          {
+            "id": "c",
+            "text": "既稱豪放，就只能分析景物大小，不應涉及功業及生命感慨",
+            "explanation": "氣勢連懷古抱負和人生省思，非大小表格。"
+          },
+          {
+            "id": "d",
+            "text": "詞中有小喬和羽扇等細節，便足以否定全詞雄奇的整體風格",
+            "explanation": "局部柔雅細節不取消整體雄奇。"
+          }
+        ],
+        "misconception": "整體豪放可含感傷，不能抹平轉折；氣勢連懷古抱負和人生省思，非大小表格；局部柔雅細節不取消整體雄奇。"
+      },
+      "objective": "哪組例證最能支持本詞具有雄奇豪放的風格？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-08-00-01",
+      "ordinal": 70,
+      "baseQuestionHash": "e939b7d2bb0ea8426914f17725d2558cb24f62c42f5fe685970619a9fe40ebf9",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：東去與淘盡帶時間不返及人物消逝之感。乙：千古修飾人物，並可連自身年華，非僅江齡。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：東去與淘盡帶時間不返及人物消逝之感。乙：千古修飾人物，並可連自身年華，非僅江齡。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：千古修飾人物，並可連自身年華，非僅江齡。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：東去與淘盡帶時間不返及人物消逝之感。對乙的判斷不合：千古修飾人物，並可連自身年華，非僅江齡。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：東去與淘盡帶時間不返及人物消逝之感。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：千古修飾人物，並可連自身年華，非僅江齡；對甲的判斷不合：東去與淘盡帶時間不返及人物消逝之感。對乙的判斷不合：千古修飾人物，並可連自身年華，非僅江齡；對甲的判斷不合：東去與淘盡帶時間不返及人物消逝之感。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「大江東去，浪淘盡、千古風流人物」由江流引出甚麼感慨？\n甲：時間流逝不返，連英雄人物也終會消逝\n乙：寫千古只為表示江很古老，不能與下片華髮相連",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-08-00-02",
+      "ordinal": 71,
+      "baseQuestionHash": "e23f441f0edf2a3ab39c829bbc0a9603160645ef602eb10cadfc2dd4ff14098b",
+      "patch": {
+        "explanation": "甲正確，乙正確。甲：古今對比讓華髮寄抱負未成的傷感。乙：外貌標示年華，與未建功相連而有情感落差。",
+        "summary": "甲正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "甲正確，乙正確。甲：古今對比讓華髮寄抱負未成的傷感。乙：外貌標示年華，與未建功相連而有情感落差。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙不正確",
+            "explanation": "對乙的判斷不合：外貌標示年華，與未建功相連而有情感落差。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：古今對比讓華髮寄抱負未成的傷感。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：古今對比讓華髮寄抱負未成的傷感。對乙的判斷不合：外貌標示年華，與未建功相連而有情感落差。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：外貌標示年華，與未建功相連而有情感落差；對甲的判斷不合：古今對比讓華髮寄抱負未成的傷感；對甲的判斷不合：古今對比讓華髮寄抱負未成的傷感。對乙的判斷不合：外貌標示年華，與未建功相連而有情感落差。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「早生華髮」何以不只是外貌描寫？\n甲：放在周瑜功成之後，寄年華漸老而抱負未酬之感\n乙：華髮在古今人物比較中成為歲月消逝的標記，外貌變化因而含有抱負與現實不相稱的感慨。",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-08-00-03",
+      "ordinal": 72,
+      "baseQuestionHash": "0c8500be178be6c2bb03ebf79fbe40a5a813a949784036aee89b7b7158dc86a1",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：把失意放回人生短促，向自然寄情減執。乙：放寬自身執着不等於否認周瑜功業。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：放寬自身執着不等於否認周瑜功業。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：把失意放回人生短促，向自然寄情減執。乙：放寬自身執着不等於否認周瑜功業。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：把失意放回人生短促，向自然寄情減執。對乙的判斷不合：放寬自身執着不等於否認周瑜功業。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：把失意放回人生短促，向自然寄情減執。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：放寬自身執着不等於否認周瑜功業；對甲的判斷不合：把失意放回人生短促，向自然寄情減執。對乙的判斷不合：放寬自身執着不等於否認周瑜功業；對甲的判斷不合：把失意放回人生短促，向自然寄情減執。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：由「人間如夢」到「一尊還酹江月」，詞人如何嘗試自我開解？\n甲：把一時失意放入人生短促的省思，向自然寄懷以減輕執着\n乙：既以如夢自解，便不再承認周瑜曾有值得仰慕的功業",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-08-01-80",
+      "ordinal": 73,
+      "baseQuestionHash": "bf6ea9b70d3592c39aa29ff70e673f064451fcbe204089e5bc587488f5912568",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：末尾自解承前段傷感，不可倒抹其存在。乙：灑酒不證抱負已成，華髮仍是自傷。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：灑酒不證抱負已成，華髮仍是自傷。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：末尾自解承前段傷感，不可倒抹其存在。對乙的判斷不合：灑酒不證抱負已成，華髮仍是自傷。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：末尾自解承前段傷感，不可倒抹其存在。"
+          },
+          {
+            "id": "d",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：末尾自解承前段傷感，不可倒抹其存在。乙：灑酒不證抱負已成，華髮仍是自傷。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：灑酒不證抱負已成，華髮仍是自傷；對甲的判斷不合：末尾自解承前段傷感，不可倒抹其存在。對乙的判斷不合：灑酒不證抱負已成，華髮仍是自傷；對甲的判斷不合：末尾自解承前段傷感，不可倒抹其存在。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：有人據結尾稱全詞「全無傷感」。哪項回應最周全？\n甲：酹月有自解意味，但它承接華髮未酬的自傷，不能抹去前段感慨\n乙：酹月證明抱負已實現，故此前華髮也應解作歡欣",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-08-03-80",
+      "ordinal": 74,
+      "baseQuestionHash": "d5ee201514de69e46aa8e9bf096dbb515aa88d33046660dd432d14439c5fd408",
+      "patch": {
+        "explanation": "月較個人悠久，盈虧循環又可聯想到得失常變，幫助減少對一時成敗的執着。這是自然引發的省思，不能當命運預測，保證下次獲用或功業永存。",
+        "summary": "月較個人悠久，盈虧循環又可聯想到得失常變，幫助減少對一時成敗的執着。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "月亮恆久，故個人功業也必然永不消失",
+            "explanation": "不能由月久推個人功業永恆。"
+          },
+          {
+            "id": "b",
+            "text": "月有圓缺，故詞人可以確定下一次必獲重用",
+            "explanation": "盈虧循環不保證任用結果。"
+          },
+          {
+            "id": "c",
+            "text": "自然較個人悠久，得失亦有變化，可減輕對一時成敗的執着",
+            "explanation": "月較個人悠久，盈虧循環又可聯想到得失常變，幫助減少對一時成敗的執着。"
+          },
+          {
+            "id": "d",
+            "text": "自然長存，故前文的未酬自傷只是虛假情緒",
+            "explanation": "自解承接真實感慨，不取消其存在。"
+          }
+        ],
+        "misconception": "不能由月久推個人功業永恆；盈虧循環不保證任用結果；自解承接真實感慨，不取消其存在。"
+      },
+      "objective": "若以江月的長存與盈虧循環解釋酹月自解，哪項推論較合理？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-09-00-80",
+      "ordinal": 75,
+      "baseQuestionHash": "cf57606179f9ea69d9a4bbd6f97f90400219275f82a48679756f5d4d1766a83a",
+      "patch": {
+        "explanation": "梁甫吟取諸葛亮未遇，與杜甫有志難伸同況；蘇詞取周瑜功成，與自身華髮失意成反差。同樣借古人，選取階段和比較方向不同，須逐篇辨明。",
+        "summary": "梁甫吟取諸葛亮未遇，與杜甫有志難伸同況；蘇詞取周瑜功成，與自身華髮失意成反差。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "杜甫取諸葛亮功成作反襯；蘇軾取周瑜未遇作比照",
+            "explanation": "兩人後世均以功業著稱，但這裡杜甫取諸葛亮未遇，蘇軾取周瑜功成，兩個階段被交換。"
+          },
+          {
+            "id": "b",
+            "text": "杜甫取諸葛亮未遇作比照；蘇軾取周瑜功成作同況",
+            "explanation": "前半成立；「雄姿英發」與「早生華髮」是盛年功成和自身失意的對照，不是同況。"
+          },
+          {
+            "id": "c",
+            "text": "杜甫取諸葛亮功成作反襯；蘇軾取周瑜功成作反襯",
+            "explanation": "後半成立；杜甫吟梁甫吟所連的是諸葛亮未遇時，不能只據後來功業判為功成反襯。"
+          },
+          {
+            "id": "d",
+            "text": "杜甫取諸葛亮未遇作比照；蘇軾取周瑜功成作反襯",
+            "explanation": "梁甫吟取諸葛亮未遇，與杜甫有志難伸同況；蘇詞取周瑜功成，與自身華髮失意成反差。"
+          }
+        ],
+        "misconception": "兩人後世均以功業著稱，但這裡杜甫取諸葛亮未遇，蘇軾取周瑜功成，兩個階段被交換；前半成立；「雄姿英發」與「早生華髮」是盛年功成和自身失意的對照，不是同況；後半成立；杜甫吟梁甫吟所連的是諸葛亮未遇時，不能只據後來功業判為功成反襯。"
+      },
+      "objective": "《登樓》「聊為梁甫吟」與《念奴嬌》「雄姿英發」「早生華髮」怎樣借古人表達自身處境？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-11-00-80",
+      "ordinal": 76,
+      "baseQuestionHash": "c82388bd2719fcdd516237af0b16482057a09fd598435bb1b08b77f848971ab1",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：自嘲或想像被笑，所笑對象均是詞人。乙：我明指自身，非將所笑改曹軍。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：自嘲或想像被笑，所笑對象均是詞人。乙：我明指自身，非將所笑改曹軍。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：我明指自身，非將所笑改曹軍。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：自嘲或想像被笑，所笑對象均是詞人。對乙的判斷不合：我明指自身，非將所笑改曹軍。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：自嘲或想像被笑，所笑對象均是詞人。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：我明指自身，非將所笑改曹軍；對甲的判斷不合：自嘲或想像被笑，所笑對象均是詞人。對乙的判斷不合：我明指自身，非將所笑改曹軍；對甲的判斷不合：自嘲或想像被笑，所笑對象均是詞人。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「應笑我」可讀為自嘲，亦可讀為想像周瑜笑己。兩種讀法有何共同點？\n甲：都把懷古的焦點轉向詞人多情、華髮未酬的處境\n乙：兩解都把笑的對象轉為曹軍，故與詞人華髮無關",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-12-00-80",
+      "ordinal": 77,
+      "baseQuestionHash": "455252455c009bf6c84f95360550b13bb085aeebae39437c8eca8139e1c26452",
+      "patch": {
+        "explanation": "甲不正確，乙正確。甲：借古比較不等於人物身分合一或自傳。乙：由仰古返傷己再自解，符合下片推進。",
+        "summary": "甲不正確，乙正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對甲的判斷不合：借古比較不等於人物身分合一或自傳。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "甲不正確，乙正確。甲：借古比較不等於人物身分合一或自傳。乙：由仰古返傷己再自解，符合下片推進。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙不正確",
+            "explanation": "對甲的判斷不合：借古比較不等於人物身分合一或自傳。對乙的判斷不合：由仰古返傷己再自解，符合下片推進。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對乙的判斷不合：由仰古返傷己再自解，符合下片推進。"
+          }
+        ],
+        "misconception": "對甲的判斷不合：借古比較不等於人物身分合一或自傳；對甲的判斷不合：借古比較不等於人物身分合一或自傳。對乙的判斷不合：由仰古返傷己再自解，符合下片推進；對乙的判斷不合：由仰古返傷己再自解，符合下片推進。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：下片由周瑜到詞人自身，再到酹江月，哪項概括較準確？\n甲：華髮既寫自己，便表示前文周瑜形象也完全是詞人的自傳\n乙：仰慕古人功業，反照自身未酬，再向自然寄懷自解",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-12-01-01",
+      "ordinal": 78,
+      "baseQuestionHash": "a47a8a5f1dc748f046c3a629604af08736aed3cc1c66d713e9b927bbf238a404",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：穿高、拍撞、捲湧各有具體動勢。乙：穿突出高插天空，非排列成行。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：穿突出高插天空，非排列成行。"
+          },
+          {
+            "id": "b",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：穿高、拍撞、捲湧各有具體動勢。乙：穿突出高插天空，非排列成行。"
+          },
+          {
+            "id": "c",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：穿高、拍撞、捲湧各有具體動勢。對乙的判斷不合：穿突出高插天空，非排列成行。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：穿高、拍撞、捲湧各有具體動勢。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：穿突出高插天空，非排列成行；對甲的判斷不合：穿高、拍撞、捲湧各有具體動勢。對乙的判斷不合：穿突出高插天空，非排列成行；對甲的判斷不合：穿高、拍撞、捲湧各有具體動勢。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：「穿」「拍」「捲」三個動詞，分別怎樣使赤壁景象鮮明？\n甲：石壁高聳；江濤撞岸；浪花翻湧\n乙：石壁成列；江濤撞岸；浪花翻湧",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-12-01-02",
+      "ordinal": 79,
+      "baseQuestionHash": "08e0c4f21e64a2fa767c8e16e775106f39a9f4221b0ee0fef43d4899240250ad",
+      "patch": {
+        "explanation": "甲正確，乙不正確。甲：功成年華與未酬華髮的落差引傷己。乙：才志可相近而成就不同，正能產生失落。",
+        "summary": "甲正確，乙不正確。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "甲正確，乙正確",
+            "explanation": "對乙的判斷不合：才志可相近而成就不同，正能產生失落。"
+          },
+          {
+            "id": "b",
+            "text": "甲不正確，乙正確",
+            "explanation": "對甲的判斷不合：功成年華與未酬華髮的落差引傷己。對乙的判斷不合：才志可相近而成就不同，正能產生失落。"
+          },
+          {
+            "id": "c",
+            "text": "甲正確，乙不正確",
+            "explanation": "甲正確，乙不正確。甲：功成年華與未酬華髮的落差引傷己。乙：才志可相近而成就不同，正能產生失落。"
+          },
+          {
+            "id": "d",
+            "text": "甲不正確，乙不正確",
+            "explanation": "對甲的判斷不合：功成年華與未酬華髮的落差引傷己。"
+          }
+        ],
+        "misconception": "對乙的判斷不合：才志可相近而成就不同，正能產生失落；對甲的判斷不合：功成年華與未酬華髮的落差引傷己。對乙的判斷不合：才志可相近而成就不同，正能產生失落；對甲的判斷不合：功成年華與未酬華髮的落差引傷己。"
+      },
+      "objective": "兩位同學針對以下問題作答，哪項評議恰當？\n問題：寫周瑜「雄姿英發」後寫「早生華髮」，主要構成甚麼對照？\n甲：古人盛年功成與詞人年長未酬，仰慕轉成自傷\n乙：兩人皆有才志，故功業和年華差異不能構成情感落差",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-12-01-03",
+      "ordinal": 80,
+      "baseQuestionHash": "fbf34e03ad6e1e609e062c1873d86b97325175b135fd3c8529e98e9a0b8469ad",
+      "patch": {
+        "explanation": "華髮先寫失意，如夢再放寬到人生短促，酹月最後向自然寄懷。自解在調整看待功名的尺度，沒有向周瑜發重建功業的誓言，也不是改為替周瑜解愁。",
+        "summary": "華髮先寫失意，如夢再放寬到人生短促，酹月最後向自然寄懷。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "把早生華髮歸因於多情，再酹酒向周瑜立誓，以重新建功消解失意",
+            "explanation": "早衰多情確屬自傷內容，但結尾是酹江月寄懷，沒有向周瑜立誓或承諾重新建功。"
+          },
+          {
+            "id": "b",
+            "text": "由自傷轉想到人生短促，再向江月寄懷，嘗試放寬對功名得失的執着",
+            "explanation": "華髮先寫失意，如夢再放寬到人生短促，酹月最後向自然寄懷。"
+          },
+          {
+            "id": "c",
+            "text": "感慨功業易逝，再酹酒勸慰周瑜，以古人的遺憾代替對自身的反省",
+            "explanation": "全詞從周瑜功成轉回「我」的處境；此項把需要開解的主體移成周瑜，錯置自傷與懷古的關係。"
+          },
+          {
+            "id": "d",
+            "text": "把人生看作短夢，再酹酒追祭當年的勝利，以英雄功名作最終的歸宿",
+            "explanation": "如夢與酹月使詞人嘗試放寬一時功名得失；此項把寄懷江月改為確認功名是唯一歸宿，未能說明自解的轉折。"
+          }
+        ],
+        "misconception": "早衰多情確屬自傷內容，但結尾是酹江月寄懷，沒有向周瑜立誓或承諾重新建功；全詞從周瑜功成轉回「我」的處境；此項把需要開解的主體移成周瑜，錯置自傷與懷古的關係；如夢與酹月使詞人嘗試放寬一時功名得失；此項把寄懷江月改為確認功名是唯一歸宿，未能說明自解的轉折。"
+      },
+      "objective": "由「人間如夢」到「一尊還酹江月」，詞人如何嘗試自我開解？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-14-12-01-04",
+      "ordinal": 81,
+      "baseQuestionHash": "7f0dac9dba8784f25ed7c9663bd5be8d3ff0499f552c3a7d4ef66cbc447ae419",
+      "patch": {
+        "explanation": "第一笑緊連敵艦覆滅，見周瑜制勝從容；第二笑連我和華髮，見蘇軾多情早衰。古今人物及情緒有落差，不能拿周瑜成功的欣慰套詞人，也非沿寫小喬。",
+        "summary": "第一笑緊連敵艦覆滅，見周瑜制勝從容；第二笑連我和華髮，見蘇軾多情早衰。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "前者見周瑜破敵的從容，後者轉向詞人多情早衰，形成古今對照",
+            "explanation": "第一笑緊連敵艦覆滅，見周瑜制勝從容；第二笑連我和華髮，見蘇軾多情早衰。"
+          },
+          {
+            "id": "b",
+            "text": "前者見周瑜破敵的從容，後者見詞人回首功業的欣慰，呼應成功喜悅",
+            "explanation": "後一笑伴隨多情、早生華髮，著眼自身失意；不能把周瑜建功的心境移到詞人身上。"
+          },
+          {
+            "id": "c",
+            "text": "前者見周瑜婚後生活的閒適，後者轉向詞人多情早衰，呈現古今對照",
+            "explanation": "「談笑間」緊接檣櫓灰飛煙滅，表現破敵從容；不能將這一刻的談笑移接為小喬初嫁後的婚居生活。"
+          },
+          {
+            "id": "d",
+            "text": "前者見周瑜破敵的從容，後者以笑解答小喬的多情，兼寫英雄兒女情",
+            "explanation": "小喬初嫁用來襯寫周瑜當年的風采；「多情應笑我」已轉回詞人，不能沿用小喬作多情的主體。"
+          }
+        ],
+        "misconception": "後一笑伴隨多情、早生華髮，著眼自身失意；不能把周瑜建功的心境移到詞人身上；「談笑間」緊接檣櫓灰飛煙滅，表現破敵從容；不能將這一刻的談笑移接為小喬初嫁後的婚居生活；小喬初嫁用來襯寫周瑜當年的風采；「多情應笑我」已轉回詞人，不能沿用小喬作多情的主體。"
+      },
+      "objective": "「談笑間」與「多情應笑我」中的「笑」，如何形成照應？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "revised"
+    },
+    {
+      "id": "full-c-14-12-01-05",
+      "ordinal": 82,
+      "baseQuestionHash": "afac78f6cf53e861d3639c2cd0aa1bd211d53f46ef34c79a6ccad5ba01148432",
+      "patch": {
+        "explanation": "開頭江水東去使人感到時間流逝，結尾江月則承載放寬得失的寄懷。自然既可觸憂也可助自解，兩端相連，末尾並不推翻開頭的生命短促之感。",
+        "summary": "開頭江水東去使人感到時間流逝，結尾江月則承載放寬得失的寄懷。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "江水與江月都只是標示地點，人物感慨與它們沒有因果聯想",
+            "explanation": "自然觸發感慨並承載寄情，不止地點。"
+          },
+          {
+            "id": "b",
+            "text": "江水引流逝之感；江月成為寄懷自解的對象",
+            "explanation": "開頭江水東去使人感到時間流逝，結尾江月則承載放寬得失的寄懷。"
+          },
+          {
+            "id": "c",
+            "text": "開首已有生命短促之感，所以結尾自然不可能再提供安頓",
+            "explanation": "同一自然可引慨也可供自解。"
+          },
+          {
+            "id": "d",
+            "text": "結尾能寄情江月，便說開首浪淘盡的感慨已被證明錯誤",
+            "explanation": "自解不是反證時間消逝不真。"
+          }
+        ],
+        "misconception": "自然觸發感慨並承載寄情，不止地點；同一自然可引慨也可供自解；自解不是反證時間消逝不真。"
+      },
+      "objective": "開首江水與結尾江月在情感發展中各有何作用？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-16-09-03-01",
+      "ordinal": 83,
+      "baseQuestionHash": "d0d2bf2b3550bc496ddae6a54f1d6e511b2236be44c0aed931f14f802e25ba17",
+      "patch": {
+        "explanation": "遙想公瑾當年明示追想三國周瑜，我與早生華髮則返觀詞人當下。時間由古到今、人物由他到我，不能把戰功當蘇軾往事或把華髮當周瑜晚年。",
+        "summary": "遙想公瑾當年明示追想三國周瑜，我與早生華髮則返觀詞人當下。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "先寫周瑜的盛年戰功，再寫周瑜晚年失意",
+            "explanation": "「公瑾當年」確寫周瑜；「我」「華髮」轉到詞人，並非補敘周瑜晚年。"
+          },
+          {
+            "id": "b",
+            "text": "先寫詞人昔年的戰功，再寫詞人當下自傷",
+            "explanation": "後半切合；前半「公瑾」是周瑜，戰功不是詞人的往事，不能把懷古當成自傳回憶。"
+          },
+          {
+            "id": "c",
+            "text": "先寫周瑜的盛年戰功，再借華髮想像自己將來",
+            "explanation": "前半切合；「早生華髮」是詞人返觀已然的自身處境，不是預測將來年老。"
+          },
+          {
+            "id": "d",
+            "text": "先由詞人追想周瑜的戰功，再返觀自身當下處境",
+            "explanation": "遙想公瑾當年明示追想三國周瑜，我與早生華髮則返觀詞人當下。"
+          }
+        ],
+        "misconception": "「公瑾當年」確寫周瑜；「我」「華髮」轉到詞人，並非補敘周瑜晚年；後半切合；前半「公瑾」是周瑜，戰功不是詞人的往事，不能把懷古當成自傳回憶；前半切合；「早生華髮」是詞人返觀已然的自身處境，不是預測將來年老。"
+      },
+      "objective": "《念奴嬌》從「遙想公瑾當年」到「多情應笑我，早生華髮」，時間與人物的焦點如何轉換？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    },
+    {
+      "id": "full-c-16-09-04-80",
+      "ordinal": 84,
+      "baseQuestionHash": "8d85a253a04208f090764ba54435d213dd52335205500bac739b7d4b4f8622e3",
+      "patch": {
+        "explanation": "遙想公瑾借古人反觀自己，舊時相識由雁觸往情，眾裏尋他以尋覓回首得見推進。三篇各有觸情方式，不可都改成回憶自身往事或舊友重逢解愁。",
+        "summary": "遙想公瑾借古人反觀自己，舊時相識由雁觸往情，眾裏尋他以尋覓回首得見推進。",
+        "choices": [
+          {
+            "id": "a",
+            "text": "懷古反觀自身；眼前景物觸起舊情；尋人過程推進感受",
+            "explanation": "遙想公瑾借古人反觀自己，舊時相識由雁觸往情，眾裏尋他以尋覓回首得見推進。"
+          },
+          {
+            "id": "b",
+            "text": "回憶自己往事；眼前景物觸起舊情；尋人過程推進感受",
+            "explanation": "後兩項切合；公瑾是三國古人，詞人是在想像古人，並非回憶自身曾參與的往事。"
+          },
+          {
+            "id": "c",
+            "text": "懷古反觀自身；與舊友重逢得到寬慰；尋人過程推進感受",
+            "explanation": "首尾切合；舊時相識指熟悉的大雁，出現於正傷心時，並非與舊友團聚而愁解。"
+          },
+          {
+            "id": "d",
+            "text": "懷古反觀自身；眼前景物觸起舊情；追憶過往離別寄託感受",
+            "explanation": "前兩項切合；尋他、回首、那人卻在沿眼前尋找得見推進，未把這段交代成昔日離別的追憶。"
+          }
+        ],
+        "misconception": "後兩項切合；公瑾是三國古人，詞人是在想像古人，並非回憶自身曾參與的往事；首尾切合；舊時相識指熟悉的大雁，出現於正傷心時，並非與舊友團聚而愁解；前兩項切合；尋他、回首、那人卻在沿眼前尋找得見推進，未把這段交代成昔日離別的追憶。"
+      },
+      "objective": "依《念奴嬌》《聲聲慢》《青玉案》的次序，哪項分別說明「遙想公瑾」「舊時相識」「眾裏尋他」推進感受的方式？",
+      "reviewDisposition": "ready-for-trial",
+      "optionDecision": "retained-after-author-check"
+    }
+  ]
+}

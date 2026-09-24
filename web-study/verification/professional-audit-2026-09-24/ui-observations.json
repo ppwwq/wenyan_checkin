@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-24",
+  "initialSetup": {
+    "width": 390,
+    "height": 844,
+    "scrollHeight": 5819,
+    "checkboxes": 82
+  },
+  "home": {
+    "scopeVisibleHeight": 61,
+    "scopeFullHeight": 224,
+    "mobileSyncStatusDisplay": "none",
+    "practiceNavigation": "returns home"
+  },
+  "retrySummary": {
+    "attempts": 1,
+    "chapterCards": 16,
+    "emptyChapterCards": 15
+  },
+  "weakness": {
+    "pageWidth": 375,
+    "scrollWidth": 375,
+    "tableContainerWidth": 367.2000122070313,
+    "tableWidth": 622,
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  "limits": [
+    "Local Chromium only; no real iPad or student tests",
+    "No production login or write",
+    "No complete content semantic review"
+  ]
+}
