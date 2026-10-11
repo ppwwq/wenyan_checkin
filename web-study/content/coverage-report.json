@@ -1,7 +1,7 @@
 {
   "result": "PASS",
-  "version": "2026.09.23.22",
-  "questions": 2134,
+  "version": "2026.10.11.1",
+  "questions": 2161,
   "previousQuestions": 218,
   "revisions": [
     {
@@ -12,14 +12,14 @@
       "localAffectedAttemptsAtReview": 0
     }
   ],
-  "newQuestions": 1916,
-  "memoryUnits": 2084,
+  "newQuestions": 1943,
+  "memoryUnits": 2111,
   "comparisons": 11,
   "abilities": {
-    "vocabulary": 1066,
-    "theme": 303,
-    "meaning": 333,
-    "technique": 432
+    "vocabulary": 1070,
+    "theme": 304,
+    "meaning": 343,
+    "technique": 444
   },
   "sourceInventory": {
     "band": 44,
@@ -46,11 +46,11 @@
       "id": "essay-01",
       "title": "論仁、論孝、論君子",
       "kind": "prose",
-      "questions": 266,
+      "questions": 269,
       "abilities": {
-        "vocabulary": 112,
+        "vocabulary": 113,
         "theme": 53,
-        "meaning": 73,
+        "meaning": 75,
         "technique": 28
       },
       "sourceItems": 342,
@@ -64,9 +64,9 @@
       "id": "essay-02",
       "title": "魚我所欲也",
       "kind": "prose",
-      "questions": 74,
+      "questions": 75,
       "abilities": {
-        "vocabulary": 48,
+        "vocabulary": 49,
         "meaning": 10,
         "theme": 4,
         "technique": 12
@@ -82,12 +82,12 @@
       "id": "essay-03",
       "title": "勸學",
       "kind": "prose",
-      "questions": 110,
+      "questions": 112,
       "abilities": {
-        "vocabulary": 83,
+        "vocabulary": 84,
         "meaning": 10,
         "theme": 1,
-        "technique": 16
+        "technique": 17
       },
       "sourceItems": 185,
       "coverageStatus": {
@@ -99,10 +99,10 @@
       "id": "essay-04",
       "title": "逍遙遊",
       "kind": "prose",
-      "questions": 97,
+      "questions": 103,
       "abilities": {
-        "vocabulary": 73,
-        "meaning": 9,
+        "vocabulary": 75,
+        "meaning": 13,
         "theme": 6,
         "technique": 9
       },
@@ -117,10 +117,10 @@
       "id": "essay-05",
       "title": "廉頗藺相如列傳",
       "kind": "prose",
-      "questions": 231,
+      "questions": 234,
       "abilities": {
-        "vocabulary": 165,
-        "meaning": 25,
+        "vocabulary": 166,
+        "meaning": 27,
         "theme": 27,
         "technique": 14
       },
@@ -134,10 +134,10 @@
       "id": "essay-06",
       "title": "出師表",
       "kind": "prose",
-      "questions": 181,
+      "questions": 184,
       "abilities": {
-        "vocabulary": 140,
-        "meaning": 13,
+        "vocabulary": 142,
+        "meaning": 14,
         "theme": 9,
         "technique": 19
       },
@@ -152,12 +152,12 @@
       "id": "essay-07",
       "title": "師說",
       "kind": "prose",
-      "questions": 116,
+      "questions": 118,
       "abilities": {
         "vocabulary": 66,
         "meaning": 23,
-        "theme": 12,
-        "technique": 15
+        "theme": 13,
+        "technique": 16
       },
       "sourceItems": 177,
       "coverageStatus": {
@@ -169,12 +169,12 @@
       "id": "essay-08",
       "title": "始得西山宴遊記",
       "kind": "prose",
-      "questions": 139,
+      "questions": 140,
       "abilities": {
         "vocabulary": 94,
         "meaning": 10,
         "theme": 20,
-        "technique": 15
+        "technique": 16
       },
       "sourceItems": 199,
       "coverageStatus": {
@@ -186,12 +186,12 @@
       "id": "essay-09",
       "title": "岳陽樓記",
       "kind": "prose",
-      "questions": 162,
+      "questions": 168,
       "abilities": {
-        "vocabulary": 59,
+        "vocabulary": 61,
         "theme": 31,
-        "meaning": 48,
-        "technique": 24
+        "meaning": 51,
+        "technique": 25
       },
       "sourceItems": 209,
       "coverageStatus": {
@@ -203,12 +203,12 @@
       "id": "essay-10",
       "title": "六國論",
       "kind": "prose",
-      "questions": 163,
+      "questions": 165,
       "abilities": {
-        "vocabulary": 123,
+        "vocabulary": 124,
         "meaning": 12,
         "theme": 1,
-        "technique": 27
+        "technique": 28
       },
       "sourceItems": 210,
       "coverageStatus": {
@@ -221,11 +221,11 @@
       "id": "essay-11",
       "title": "山居秋暝",
       "kind": "poem",
-      "questions": 62,
+      "questions": 65,
       "abilities": {
         "vocabulary": 15,
         "theme": 21,
-        "technique": 21,
+        "technique": 24,
         "meaning": 5
       },
       "sourceItems": 62,
@@ -238,12 +238,12 @@
       "id": "essay-12",
       "title": "月下獨酌",
       "kind": "poem",
-      "questions": 80,
+      "questions": 81,
       "abilities": {
         "vocabulary": 17,
         "meaning": 20,
         "theme": 25,
-        "technique": 18
+        "technique": 19
       },
       "sourceItems": 89,
       "coverageStatus": {
@@ -255,12 +255,12 @@
       "id": "essay-13",
       "title": "登樓",
       "kind": "poem",
-      "questions": 73,
+      "questions": 76,
       "abilities": {
         "vocabulary": 18,
         "meaning": 18,
         "theme": 20,
-        "technique": 17
+        "technique": 20
       },
       "sourceItems": 80,
       "coverageStatus": {
@@ -289,12 +289,12 @@
       "id": "essay-15",
       "title": "聲聲慢・秋情",
       "kind": "poem",
-      "questions": 90,
+      "questions": 91,
       "abilities": {
         "vocabulary": 18,
         "meaning": 21,
         "theme": 34,
-        "technique": 17
+        "technique": 18
       },
       "sourceItems": 93,
       "coverageStatus": {
@@ -1270,7 +1270,7 @@
   "warnings": [],
   "errors": [],
   "baseBankSha256": "bdec2e20dfae426d0944744b142275be5f0d71228e3ce0f4b6f45d54a74584be",
-  "scope": "所供復習書範圍的逐項出題及代理核對；來源分歧明列保留。不是官方真題或教師獨立審定。",
+  "scope": "復習書來源覆蓋及原有修訂核對；另收錄有年份題號的 DSE 原版選擇真題。真題原頁轉錄與評分答案經作者自檢；未經教師獨立審定或學生試用。",
   "mcqRevision": {
     "version": "2026.09.20.1",
     "reviewed": 1980,
@@ -1673,5 +1673,11 @@
       "source-aligned-agent-review": 135
     },
     "scope": "各篇全題作者修訂；跨篇題按篇章可再次更新，uniqueQuestions去重。非獨立盲審、教師審定或學生實測。"
+  },
+  "choiceUpdate": {
+    "version": "2026.10.11.1",
+    "passagePairs": 96,
+    "questions": 2161,
+    "pastPapers": 27
   }
 }

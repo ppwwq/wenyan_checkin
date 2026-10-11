@@ -1,4 +1,7 @@
+import {questionMaterialView,learningView,sourceLabel} from './learning-context.mjs';
+import {sessionProgress} from '../domain/replacement.mjs';
 import {questionMistakes,effectiveAttempts} from '../domain/training.mjs';
+import {skippedQuestions} from '../domain/session.mjs';
 import {esc,button,quote,essayTitle,abilities,heading} from './shared.mjs';
 const choiceLabel=c=>c.displayLabel||c.id.toUpperCase();
 function readingUnits(text){
@@ -48,7 +51,7 @@ function explanationView(q,p,mode){
  const others=q.choices.filter(c=>!selected||c.id!==selected.id);
  const answer=correct?.text||'請核對下方解析';
  const summary=String(q.summary||'').trim();
- const focus=q.ability==='vocabulary'&&q.target?'「'+q.target+'」在這裏是「'+answer+'」':summary&&summary.length<=48?summary:answer;
+ const focus=q.provenance?.kind==='dse-original'?'本題選項：'+answer:q.ability==='vocabulary'&&q.target?'「'+q.target+'」在這裏是「'+answer+'」':summary&&summary.length<=48?summary:answer;
  const quote=String(q.quote||'');
  const hasTargetSpan=Number.isInteger(q.targetStart)&&q.targetStart>=0&&quote.slice(q.targetStart,q.targetStart+String(q.target||'').length)===q.target;
  const targetIndex=q.ability==='vocabulary'&&q.target?(hasTargetSpan?q.targetStart:quote.indexOf(q.target)):-1;
@@ -59,9 +62,9 @@ function explanationView(q,p,mode){
  const showDetail=extraSummary||detail&&detail!==focus&&detail!==answer;
  const genericWrong=selected&&q.ability==='vocabulary'&&q.target&&/^(?:此項把文意理解為|「[^」]+」不合本句所指或語法關係)/.test(selected.explanation||'');
  const wrongReason=genericWrong?'<p class="explanation-detail">你選了「'+esc(selected.text)+'」。'+(keyQuote?'看原句「'+esc(keyQuote)+'」，':'')+'這裏的「'+esc(q.target)+'」是「'+esc(answer)+'」。</p><details><summary>查看原有選項解析</summary>'+paragraphs(selected.explanation,'wrong')+'</details>':paragraphs(selected?.explanation||'請對照原文及參考答案。','wrong');
- return '<div class="explanation"><div class="learning-point"><h3>先看這題答案</h3><p>'+esc(focus)+'</p>'+(keyQuote?'<p class="key-quote">原句關鍵：'+esc(keyQuote)+'</p>':'')+'</div>'+
+ return '<div class="explanation"><div class="learning-point"><h3 id="feedback-title" tabindex="-1">先看這題答案</h3><p>'+esc(focus)+'</p>'+(keyQuote?'<p class="key-quote">原句關鍵：'+esc(keyQuote)+'</p>':'')+'</div>'+
   (selected?'<section class="selected-explanation"><h3>你選的選項差在哪裏</h3><p class="selected-answer">'+esc(choiceLabel(selected))+' · '+esc(selected.text)+'</p>'+wrongReason+'</section>':'')+
-  (showDetail?'<details class="answer-reason"'+(mode==='typing'?' open':'')+'><summary>看原文與完整解析</summary>'+extraSummary+paragraphs(detail)+'</details>':'')+
+  (showDetail?'<section class="answer-reason"><h3>本題解析</h3>'+extraSummary+paragraphs(detail)+'</section>':'')+learningView(q)+
   '<details><summary>逐項辨析'+(selected?' · 其他選項':'')+'</summary>'+others.map(c=>'<div class="choice-review"><p class="choice-review-title">'+esc(choiceLabel(c))+' · '+esc(c.text)+'</p>'+paragraphs(c.explanation,c.id===q.answerId?'detail':'wrong')+'</div>').join('')+'</details></div>';
 }
 export function answerMode(q,session,payload){
@@ -69,27 +72,32 @@ export function answerMode(q,session,payload){
 }
 export function answerPanel(q,session,state){
  const attempt=state.attempts.find(e=>e.id===session.answers[q.id]),p=attempt?.payload,mode=answerMode(q,session,p),draft=session.drafts[q.id]||'';
- let html='<div class="question-top">'+(questionMistakes(state).has(q.id)?'<span class="mistake-tag">錯題</span>':'')+'<span class="question-tag">'+esc(abilities[q.ability])+' · '+(mode==='typing'?'文字自查':'單項選擇')+'</span><button class="chip" data-action="favorite" data-id="'+esc(q.id)+'">'+(state.favorites[q.id]?.saved?'★ 已收藏':'☆ 收藏')+'</button></div><h2>'+esc(q.stem)+'</h2>';
+ let html='<div class="question-intro">'+(sourceLabel(q)?'<p class="past-paper-tag">'+esc(sourceLabel(q))+'</p>':'')+'<div class="question-top">'+(questionMistakes(state).has(q.id)?'<span class="mistake-tag">錯題</span>':'')+'<span class="question-tag">'+esc(abilities[q.ability])+' · '+(mode==='typing'?'文字自查':'單項選擇')+'</span><button class="chip" data-action="favorite" data-id="'+esc(q.id)+'">'+(state.favorites[q.id]?.saved?'★ 已收藏':'☆ 收藏')+'</button></div><h2 id="question-title" tabindex="-1">'+esc(q.stem)+'</h2></div>';
+ const material=questionMaterialView(q);
+ html+='<div class="question-layout'+(!material?' question-only':'')+'">'+(material?'<section class="source-panel" aria-label="本題原文">'+material+'</section>':'')+'<div class="answer-controls">';
  if(mode==='typing')html+=p?'<div class="answer-saved">'+esc(p.answer)+'</div>':'<label class="screen-reader" for="answer-input">你的答案</label><textarea id="answer-input" class="answer-input" placeholder="先用自己的話回答，再提交查看參考。">'+esc(draft)+'</textarea><p class="subtle">輸入會自動保存在此帳號。</p>';
- else html+='<div class="options" role="group" aria-label="答案選項">'+q.choices.map(c=>'<button class="option '+((p?.answer||draft)===c.id?'selected ':'')+(p&&c.id===q.answerId?'correct':'')+(p&&p.answer===c.id&&!p.correct?' wrong':'')+'" data-action="choose" data-choice="'+esc(c.id)+'" aria-pressed="'+((p?.answer||draft)===c.id)+'" '+(p?'disabled':'')+'><b>'+esc(choiceLabel(c))+'</b><span>'+esc(c.text)+'</span>'+(p&&c.id===q.answerId?'<small class="status">正確答案</small>':'')+'</button>').join('')+'</div>';
- if(!p)return html+'<div class="question-actions">'+button('unknown','暫時不會','','quiet')+button('submit','提交答案')+'</div>';
+ else html+='<div class="options" role="group" aria-label="答案選項">'+q.choices.map(c=>'<button class="option '+((p?.answer||draft)===c.id?'selected ':'')+(p&&c.id===q.answerId?'correct':'')+(p&&p.answer===c.id&&!p.correct?' wrong':'')+'" data-action="choose" data-choice="'+esc(c.id)+'" aria-pressed="'+((p?.answer||draft)===c.id)+'" '+(p?'disabled aria-label="'+esc(choiceLabel(c)+' · '+c.text+(c.id===q.answerId?' · 正確答案':p.answer===c.id?' · 你的答案，答錯':''))+'"':'')+'><b>'+esc(choiceLabel(c))+'</b><span>'+esc(c.text)+'</span></button>').join('')+'</div>';
+ if(!p)return html+'<div class="practice-action-bar"><div class="question-actions">'+button('submit','提交答案')+'<div class="practice-secondary-actions">'+button('skip','<span>跳過，換一題</span><small>不計作答</small>','','secondary')+button('unknown','<span>暫時不會</span><small>看解析 · 計入已練與待鞏固</small>','','quiet')+'</div></div></div></div></div>';
  const correction=state.corrections?.filter(c=>c.attemptId===attempt.id).at(-1);if(correction)html+='<p class="banner">此作答的有效評分已更正為'+(correction.correct?'正確':'待鞏固')+'。原始答案保留。'+esc(correction.reason)+'</p>';
  const first=state.firsts.find(f=>f.memoryId===q.memoryId&&f.day===p.day),assessment=state.assessments.get(attempt.id);
  if(session.kind==='retry')html+='<p class="section-note">本次回練不重複計入今日目標；今日已訂正的錯題，明日仍會複習。</p>';
- html+='<section class="feedback" tabindex="-1"><div class="verdict '+(p.correct===false?'miss':'')+'">'+(mode==='typing'?'對照答案，完成自查':p.correct?'這次答對了':'把這個語境再讀一次')+'</div><details class="attempt-note"><summary>作答記錄</summary><p>'+ (first?.id===attempt.id?'今天首次作答':'今天重練 · 不改變複習間隔')+'</p></details>'+explanationView(q,p,mode);
+ const compact=mode==='choice'&&p.correct===true;
+ const feedbackTools='<div class="toolbar feedback-tools">'+(q.comparisonAvailable?button('compare-question','看看這個字的其他用法','data-id="'+esc(q.id)+'"','quiet'):'')+button('report','題目報錯','data-id="'+esc(q.id)+'"','quiet')+'</div>';
+ html+='<section class="feedback" aria-label="作答回饋">'+(mode==='typing'?'<div class="verdict">對照答案，完成自查</div>':'<span class="screen-reader" role="status">'+(p.correct?'這次答對了':'這次答錯了')+'</span>')+(compact?'<details class="correct-explanation"><summary>查看解析</summary>':'')+'<details class="attempt-note"><summary>作答記錄</summary><p>'+ (first?.id===attempt.id?'今天首次作答':'今天重練 · 不改變複習間隔')+'</p></details>'+explanationView(q,p,mode)+(compact?feedbackTools+'</details>':'');
  if(mode==='typing'&&assessment===undefined)html+='<div class="self-check"><h3>先完整核對，再確定本次結果</h3><label class="check-row"><input type="checkbox" id="check-meaning"> 我已逐項比較核心詞義／意思</label><br><label class="check-row"><input type="checkbox" id="check-context"> 我已核對語境、否定與因果，讀完辨析</label><div class="toolbar">'+button('assess-good','意思完整一致')+button('assess-bad','仍有欠缺','','secondary')+'</div><p>自查結果只確定一次，歸入原提交的香港日期。</p></div>';
- else html+='<div class="next-area">'+button('next',session.index===session.questions.length-1?'完成本組':'下一題 →')+'</div>';
- html+='<div class="toolbar">'+(q.comparisonAvailable?button('compare-question','看看這個字的其他用法','data-id="'+esc(q.id)+'"','quiet'):'')+button('report','題目報錯','data-id="'+esc(q.id)+'"','quiet')+'</div></section>';
+ else html+='<div class="practice-action-bar"><div class="next-area">'+button('next',session.index===session.questions.length-1?'完成本組':'下一題 →')+'</div></div>';
+ html+=(compact?'':feedbackTools)+'</section></div></div>';
  return html;
 }
 export function practiceView(bank,session,state){
- if(session.completed)return summaryView(bank,session,state);
+ if(session.completed||session.passComplete)return summaryView(bank,session,state);
  const q=session.questions[session.index],titles=q.essayIds.map(id=>essayTitle(bank,id)).join('／')||'手法附錄';
- const hasQuote=Boolean(q.quote?.trim());
- const material=hasQuote?'<section class="source-panel"><h2>'+esc(titles)+'</h2>'+(q.quote.length>130?'<details open id="quote-details"><summary>原文 · 可收起</summary><blockquote>'+quote(q)+'</blockquote></details>':'<blockquote>'+quote(q)+'</blockquote>')+'</section>':'';
- return '<div class="practice-head">'+button('pause','← 暫停並保存','','quiet')+'<span class="session-meta">'+(session.index+1)+' / '+session.questions.length+'</span></div><div class="progress-track"><span style="width:'+((session.index/session.questions.length)*100)+'%"></span></div>'+(!hasQuote?'<p class="section-note">'+esc(titles)+'</p>':'')+'<div class="question-layout'+(!hasQuote?' question-only':'')+'">'+material+'<section class="answer-panel" id="answer-panel">'+answerPanel(q,session,state)+'</section></div>';
+ const progress=sessionProgress(session,state);
+ return '<div class="practice-head">'+button('pause','← 暫停並保存','','quiet')+'<span class="session-meta">已練 '+progress.done+' / '+progress.target+' 題 · 尚餘 '+progress.remaining+' 題</span></div><div class="progress-track"><span style="width:'+(progress.target?Math.min(100,progress.done/progress.target*100):0)+'%"></span></div><p class="section-note practice-chapters">'+esc(titles)+'</p><section class="answer-panel" id="answer-panel">'+answerPanel(q,session,state)+'</section>';
 }
 export function summaryView(bank,session,state){
+ const skipped=skippedQuestions(session),deferred=session.skippedIds||[],progress=sessionProgress(session,state);
+ const shortage=!!session.selection&&progress.remaining>0;
  const records=effectiveAttempts(state).filter(a=>a.sessionId===session.id),firstIds=new Set(state.firsts.map(f=>f.id));
  const chapterIds=[...new Set(records.flatMap(a=>a.question.essayIds.length?a.question.essayIds:['']))];
  const rows=chapterIds.map(id=>{
@@ -97,9 +105,9 @@ export function summaryView(bank,session,state){
   const correct=rs.filter(a=>a.correct===true).length,wrong=rs.filter(a=>a.correct===false).length,pending=rs.length-correct-wrong;
   return '<div class="saved-row"><h3>'+esc(id?essayTitle(bank,id):'手法附錄')+'</h3><p>'+rs.length+' 題 · 本次答對 '+correct+' · 本次答錯 '+wrong+(pending?' · 待自查 '+pending:'')+'</p></div>';
  }).join('');
- return heading('這組練習已完成','本次結果與長期複習分開看；一題答對不代表整篇已掌握。')+
- '<div class="metric-grid"><div class="metric"><strong>'+records.length+'</strong>本組已完成作答</div><div class="metric"><strong>'+records.filter(a=>firstIds.has(a.id)).length+'</strong>每日首次作答</div><div class="metric"><strong>'+records.filter(a=>!firstIds.has(a.id)).length+'</strong>當天重練作答</div></div>'+
+ return heading(skipped.length||shortage?'本輪練習已結束':'這組練習已完成',shortage?'所選範圍已沒有可補的新題。本組已練 '+progress.done+' 題，距離目標尚餘 '+progress.remaining+' 題；跳過不佔練習數。':deferred.length?'本組已練 '+progress.done+' 題；另跳過 '+deferred.length+' 題，可另行補答，跳過不計作答與對錯。':skipped.length?'跳過 '+skipped.length+' 題，可現在補答或稍後從首頁繼續；跳過不計作答與對錯。':'本次結果與長期複習分開看；一題答對不代表整篇已掌握。')+
+ '<div class="metric-grid session-result"><div class="metric"><strong>'+progress.done+'</strong>本組已練</div><div class="metric"><strong>'+progress.remaining+'</strong>尚餘題數</div><div class="metric"><strong>'+(deferred.length+skipped.length)+'</strong>跳過題數</div></div><div class="summary-primary">'+(shortage?button('adjust-scope','調整練習範圍'):button('nav','返回今日訓練','data-page="home"'))+'</div><details class="session-counts"><summary>查看作答統計口徑</summary><p>本組有效作答 '+records.length+' 次 · 每日首次作答 '+records.filter(a=>firstIds.has(a.id)).length+' 次 · 當天重練作答 '+records.filter(a=>!firstIds.has(a.id)).length+' 次。每日目標按不同知識點計算。</p></details>'+
  rows+'<p class="section-note">回練答對表示這次已訂正；當日曾答錯的知識點仍保留次日複習安排，薄弱頁不會立即清零。回練不重複計入今日目標。</p>'+
  (records.some(a=>a.question.essayIds.length>1)?'<p class="subtle">跨篇題會列於相關篇章；上方總數按實際作答次數計算。</p>':'')+
- '<div class="toolbar">'+button('nav','返回今日訓練','data-page="home"')+button('retry-today','錯題回練','','secondary')+button('extra','自選加練','','quiet')+button('nav','看看薄弱知識點','data-page="weakness"','secondary')+'</div>';
+ '<section class="summary-followup"><h2>接著複習</h2><div class="toolbar">'+(deferred.length?button('retry-skipped','補答跳過的 '+deferred.length+' 題','','secondary'):'')+(skipped.length?button('resume-skipped','補答跳過的 '+skipped.length+' 題','','secondary'):'')+(shortage?button('nav','返回今日訓練','data-page="home"','secondary'):'')+button('retry-today','錯題回練','','secondary')+button('extra','自選加練','','quiet')+button('nav','看看薄弱知識點','data-page="weakness"','quiet')+'</div></section>';
 }

@@ -1,7 +1,7 @@
 import {isDue,isWeak,hkDay,questionMistakes} from './review.mjs';
 export function available(questions,options={}) {
- const {essayIds=[],ability,questionIds,appendix=false,essayTypes}=options;
- return questions.filter(q=>q.status==='reviewed'&&q.active!==false&&q.essayIds.every(id=>essayIds.includes(id)&&(!essayTypes||essayTypes[id]?.includes(q.ability)))&&(!ability||q.ability===ability)&&(!questionIds||questionIds.includes(q.id))&&(!q.tags?.includes('appendix')||appendix));
+ const {essayIds=[],ability,questionIds,appendix=false,essayTypes,sourceKind}=options;
+ return questions.filter(q=>q.status==='reviewed'&&q.active!==false&&q.essayIds.every(id=>essayIds.includes(id)&&(!essayTypes||essayTypes[id]?.includes(q.ability)))&&(!ability||q.ability===ability)&&(!questionIds||questionIds.includes(q.id))&&(!sourceKind||sourceKind==='all'||q.provenance?.kind===sourceKind)&&(!q.tags?.includes('appendix')||appendix));
 }
 const unique=list=>[...new Map(list.map(q=>[q.memoryId,q])).values()];
 export function practicePool(questions,options,state){
@@ -10,6 +10,7 @@ export function practicePool(questions,options,state){
  return available(questions,options).filter(q=>!excluded.has(q.memoryId)&&(!wrong||wrong.has(q.id)));
 }
 export function shuffledQuestion(q,random=Math.random){
+ if(q.provenance?.kind==='dse-original')return q;
  if(q.choices?.length!==4)return q;
  // Logical option IDs stay stable; only their displayed positions change.
  const text=[q.stem,q.explanation,...q.choices.flatMap(c=>[c.text,c.explanation])].join(' ');
@@ -40,4 +41,4 @@ export function weakness(questions,state,essayId,ability){
  return {total:units.length,studied:studied.length,weak:studied.filter(q=>isWeak(state.memories[q.memoryId])).length,due:studied.filter(q=>isDue(state.memories[q.memoryId])).length,choice:studied.filter(q=>state.memories[q.memoryId].mode==='choice').length,pending:units.filter(q=>state.memories[q.memoryId]?.pending).length,typing:studied.filter(q=>state.memories[q.memoryId].mode==='typing').length,latest:studied.map(q=>state.memories[q.memoryId].day).sort().at(-1),status:!units.length?'unavailable':!studied.length?'unassessed':'assessed'};
 }
 
-export function quickScopeKey(options){return JSON.stringify({essays:[...options.essayIds].sort(),ability:options.ability||'',appendix:!!options.appendix,scope:options.quickScope||'both'});}
+export function quickScopeKey(options){return JSON.stringify({essays:[...options.essayIds].sort(),ability:options.ability||'',appendix:!!options.appendix,sourceKind:options.sourceKind||'all',scope:options.quickScope||'both'});}

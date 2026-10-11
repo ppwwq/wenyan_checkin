@@ -47,7 +47,7 @@ try{
  const context=await browser.newContext({viewport:{width:768,height:1024}});
  const page=await context.newPage();page.on('pageerror',e=>pageErrors.push(e.message));
  await page.goto(origin);await page.locator('#auth-form').waitFor();
- assert.equal(await page.locator('h1').textContent(),'DSE文言练习');
+ assert.equal(await page.locator('h1').textContent(),'DSE文言練習');
  assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false);
  const version=await page.evaluate(async()=>{await navigator.serviceWorker.ready;return (await (await fetch('/content/bank.json',{cache:'no-cache'})).json()).version;});
  assert.equal(version,bank.version);assert.deepEqual(pageErrors,[]);

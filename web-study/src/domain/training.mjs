@@ -40,15 +40,22 @@ export function refreshTrainingSession(questions,state,original,today=hkDay()){
  const session=structuredClone(original),answers=session.answers||={};
  for(const a of state.attempts.filter(e=>e.payload.sessionId===session.id))answers[a.payload.questionId]=a.id;
  const answered=session.questions.filter(q=>answers[q.id]),current=session.questions[session.index];
- const opts=trainingOptions(plan),pool=(session.kind==='retry'?retryQuestions(questions,state,today):available(questions,opts).filter(q=>!progress.seen.has(q.memoryId))).filter(q=>!answers[q.id]);
+ const skipped=questions.filter(q=>(session.skippedIds||[]).includes(q.id));
+ const excludedMemories=new Set([...answered,...skipped].map(q=>q.memoryId));
+ const excludedGroups=new Set([...answered,...skipped].map(q=>q.practiceGroup).filter(Boolean));
+ const opts=trainingOptions(plan),pool=(session.kind==='retry'?retryQuestions(questions,state,today):available(questions,opts).filter(q=>!progress.seen.has(q.memoryId))).filter(q=>!answers[q.id]&&!excludedMemories.has(q.memoryId)&&(!q.practiceGroup||!excludedGroups.has(q.practiceGroup)));
  const capacity=Math.max(0,Math.min(100-answered.length,session.kind==='daily'?progress.remaining:100));
  const pending=capacity&&current&&pool.some(q=>q.id===current.id)?[current]:[];
  const rest=pool.filter(q=>!pending.some(p=>p.memoryId===q.memoryId||(p.practiceGroup&&p.practiceGroup===q.practiceGroup)));
  const previous=new Map(session.questions.map(q=>[q.id,q]));
  if(capacity>pending.length)pending.push(...queue(rest,{...opts,count:capacity-pending.length,rotation:state.settings.rotation||0,priorityMode:'daily'},state,today).map(q=>previous.get(q.id)||q));
+ if(session.selection){session.selection=structuredClone(opts);session.targetCount=Math.max(1,Math.min(100,answered.length+(session.kind==='daily'?progress.remaining:pending.length)));}
  session.questions=[...answered,...pending];session.essayIds=opts.essayIds;session.trainingSnapshot=structuredClone(plan);session.goalDay=today;session.goalSnapshot=progress.goal;
  const unassessed=answered.findIndex(q=>state.attempts.some(a=>a.id===answers[q.id]&&a.payload.mode==='typing'&&!state.assessments.has(a.id)));
- session.index=unassessed>=0?unassessed:answered.length;session.completed=!pending.length&&unassessed<0;
+ session.skipped=(session.skipped||[]).filter(id=>pending.some(q=>q.id===id));
+ const next=pending.findIndex(q=>!session.skipped.includes(q.id));
+ session.passComplete=unassessed<0&&pending.length>0&&next<0;
+ session.index=unassessed>=0?unassessed:answered.length+Math.max(0,next);session.completed=!pending.length&&unassessed<0;
  if(session.completed)session.index=0;
  return session;
 }

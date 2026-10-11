@@ -32,7 +32,9 @@ test('saved shuffled options display matching letters without changing the answe
  const html=answerPanel(question,{...session,answers:{q:'s/q'}},{...state,attempts:[{id:'s/q',payload:{mode:'choice',answer:'b',correct:false}}]});
  assert.ok(html.includes('<b>A</b><span>b</span>'));
  assert.ok(html.includes('A · b'));
- assert.ok(html.includes('<b>D</b><span>a</span><small class="status">正確答案</small>'));
+ assert.ok(html.includes('<b>D</b><span>a</span>'));
+ assert.ok(html.includes('aria-label="D · a · 正確答案"'));
+ assert.ok(!html.includes('<small class="status">'));
  assert.equal(question.answerId,'a');
  const resumed=JSON.parse(JSON.stringify(question));
  assert.equal(answerPanel(resumed,{...session,answers:{q:'s/q'}},{...state,attempts:[{id:'s/q',payload:{mode:'choice',answer:'b',correct:false}}]}),html);
@@ -44,8 +46,8 @@ test('feedback leads with the answer and selected distractor before optional det
  assert.ok(!before.includes('記住否定範圍')&&!before.includes('原因b'));
  const after=answerPanel(question,{...session,answers:{q:'s/q'}},{...state,attempts:[{id:'s/q',payload:{mode:'choice',answer:'b',correct:false}}]});
  assert.ok(after.indexOf('先看這題答案')<after.indexOf('你選的選項差在哪裏'));
- assert.ok(after.indexOf('你選的選項差在哪裏')<after.indexOf('看原文與完整解析'));
- assert.ok(after.indexOf('看原文與完整解析')<after.indexOf('逐項辨析'));
+ assert.ok(after.indexOf('你選的選項差在哪裏')<after.indexOf('本題解析'));
+ assert.ok(after.indexOf('本題解析')<after.indexOf('逐項辨析'));
  assert.equal(after.split('原因b').length-1,1);
  assert.ok(after.includes('原句\n</span>'));assert.ok(after.includes('推理</span>'));
 });
@@ -142,4 +144,25 @@ test('one-question retry summary lists only the practiced chapter and its effect
  const html=practice.summaryView({essays:[{id:'e',title:'實際練習篇章'},{id:'other',title:'沒有練習的篇章'}]}, {...session,id:'retry',essayIds:['e','other'],completed:true}, {...state,attempts:[record],corrections:[{attemptId:'retry/q',correct:true,createdAt:'2026-09-24T03:00:00Z'}]});
  assert.match(html,/實際練習篇章/);assert.doesNotMatch(html,/沒有練習的篇章/);
  assert.match(html,/本次答對 1/);assert.match(html,/次日複習/);
+});
+
+test('submit precedes the separated bottom row of skip and unknown controls',()=>{
+ const html=answerPanel(q,session,state);
+ const submit=html.indexOf('data-action="submit"'),bottom=html.indexOf('class="practice-secondary-actions"');
+ assert.ok(submit<bottom&&bottom<html.indexOf('data-action="skip"'));
+ assert.ok(html.indexOf('data-action="skip"')<html.indexOf('data-action="unknown"'));
+});
+test('correct choices collapse feedback while next stays outside; other responses stay expanded',()=>{
+ const s={...session,index:0,answers:{q:'a'}};
+ const question={...q,explanation:'完整解析內容'};
+ for(const payload of [{mode:'choice',answer:'a',correct:true},{mode:'choice',answer:'b',correct:false},{mode:'choice',answer:'暫時不會',correct:false},{mode:'typing',answer:'文字',correct:null}]){
+  const html=answerPanel(question,s,{...state,attempts:[{id:'a',payload}]});
+  if(payload.mode==='choice'&&payload.correct){
+   assert.ok(html.includes('<details class="correct-explanation"><summary>查看解析</summary>'));
+   assert.ok(!html.includes('<details class="correct-explanation" open'));
+   assert.ok(html.indexOf('完整解析內容')<html.indexOf('data-action="next"'));
+   assert.ok(html.includes('</details><div class="practice-action-bar"><div class="next-area">'));
+  }else assert.ok(!html.includes('class="correct-explanation"'));
+  assert.ok(html.includes('完整解析內容'));
+ }
 });

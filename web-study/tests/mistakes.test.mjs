@@ -29,7 +29,7 @@ test('wrong-only library uses exact question history and displays the filtered c
  const s=state([attempt('wrong')]),opts={essayIds:['a'],count:20,scope:'wrong'};
  assert.deepEqual(queue(bank.questions,opts,s).map(q=>q.id),['wrong']);
  const html=libraryView(bank,s,opts);
- assert.match(html,/可用 1 題/);
+ assert.match(html,/共 1 題 · 已練 1 題 · 未練 0 題/);
  assert.match(html,/開始錯題複習/);
 });
 
