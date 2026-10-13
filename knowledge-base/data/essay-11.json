@@ -1,0 +1,2484 @@
+[
+  {
+    "id": "k-a6667948b3f37559",
+    "chapterId": "essay-11",
+    "category": "background",
+    "title": "作者與題旨",
+    "fields": {
+      "作者": "王維"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].author",
+        "section": "山居秋暝"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7cac38385495f4f9",
+    "chapterId": "essay-11",
+    "category": "theme",
+    "title": "一句話題旨",
+    "fields": {
+      "題旨": "山居清景"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].desc",
+        "section": "山居秋暝"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e996325ed71805a7",
+    "chapterId": "essay-11",
+    "category": "background",
+    "title": "作者、時代與文體",
+    "fields": {
+      "資料": "王維｜唐代｜五言律詩"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[0].blocks[0]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3af929be1bfa14c7",
+    "chapterId": "essay-11",
+    "category": "theme",
+    "title": "王維｜唐代｜五言律詩",
+    "fields": {
+      "內容": "清幽秋景和淳樸人事，使詩人願意留居山中。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[0].blocks[1]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-00-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2cee2c2b7df537e9",
+    "chapterId": "essay-11",
+    "category": "structure",
+    "title": "內容線索",
+    "fields": {
+      "內容": "雨後秋晚→月泉景物→浣女漁舟→反用典故表留居"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[0].blocks[3]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-00-03-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a719888610baf0b8",
+    "chapterId": "essay-11",
+    "category": "comparison",
+    "title": "理解關鍵",
+    "fields": {
+      "內容": "「空山」不是完全沒有人。局部聲音和動態反襯幽靜，並增添生活情趣。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[0].blocks[5]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-00-05-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d13a82fecd8589e1",
+    "chapterId": "essay-11",
+    "category": "background",
+    "title": "題解與文體",
+    "fields": {
+      "內容": "八句，每句五字；頷聯、頸聯對仗，偶句押秋、流、舟、留。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[0].blocks[7]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-00-07-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-de0aeb4640df8b1b",
+    "chapterId": "essay-11",
+    "category": "theme",
+    "title": "句段核心：原文第1組｜原文與語譯",
+    "fields": {
+      "重點": "雨後秋晚清幽宜人，月照泉流動靜相映。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[1].core",
+        "section": "原文第1組｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-93ea88f3cd2446f3",
+    "chapterId": "essay-11",
+    "category": "text",
+    "title": "原文第1組｜原文與語譯",
+    "fields": {
+      "原文": "空山新雨後，天氣晚來秋。明月松間照，清泉石上流。"
+    },
+    "context": "空山新雨後，天氣晚來秋。明月松間照，清泉石上流。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[1].blocks[0]",
+        "section": "原文第1組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-11-01-01",
+      "pilot-11-01-02",
+      "pilot-11-01-03",
+      "pilot-11-01-04",
+      "concept-11-09",
+      "concept-11-10",
+      "concept-11-11",
+      "concept-11-12",
+      "full-c-11-01-00-90",
+      "full-c-11-02-00-90",
+      "full-c-11-00-01-80",
+      "full-c-11-00-03-80",
+      "full-c-11-00-05-80",
+      "full-c-11-00-07-80",
+      "full-c-11-01-04-80",
+      "full-c-11-02-04-80",
+      "full-c-11-03-00-01",
+      "full-c-11-03-00-02",
+      "full-c-11-03-00-03",
+      "full-c-11-03-00-04",
+      "full-c-11-03-01-80",
+      "full-c-11-03-03-80",
+      "full-c-11-03-04-80",
+      "full-c-11-03-05-80",
+      "full-c-11-04-00-01",
+      "full-c-11-04-00-02",
+      "full-c-11-04-00-03",
+      "full-c-11-04-00-04",
+      "full-c-11-04-00-05",
+      "full-c-11-04-00-06",
+      "full-c-11-04-00-07",
+      "full-c-11-04-00-08",
+      "full-c-11-04-00-09",
+      "full-c-11-05-00-01",
+      "full-c-11-05-00-02",
+      "full-c-11-05-00-03",
+      "full-c-11-05-00-04",
+      "full-c-11-05-00-05",
+      "full-c-11-05-00-06",
+      "full-c-11-05-00-07",
+      "full-c-11-05-00-08",
+      "full-c-11-06-00-01",
+      "full-c-11-06-00-02",
+      "full-c-11-07-00-80",
+      "full-c-11-07-01-80",
+      "full-c-11-07-02-80",
+      "full-c-11-09-00-80",
+      "full-c-11-09-01-01",
+      "full-c-11-09-01-02",
+      "full-c-11-09-01-03",
+      "dse-2019-1a-4-i",
+      "dse-2025-1a-5",
+      "dse-2025-1a-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d91a1a5c3f844ddc",
+    "chapterId": "essay-11",
+    "category": "text",
+    "title": "原文第1組｜原文與語譯",
+    "fields": {
+      "語譯": "清幽空曠的山中剛下過一場雨。傍晚的天氣清涼，使人感到秋意。皎潔的明月照耀松林之間。清澈的泉水在山石上流動。"
+    },
+    "context": "空山新雨後，天氣晚來秋。明月松間照，清泉石上流。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[1].blocks[2]",
+        "section": "原文第1組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-11-01-01",
+      "pilot-11-01-02",
+      "pilot-11-01-03",
+      "pilot-11-01-04",
+      "concept-11-09",
+      "concept-11-10",
+      "concept-11-11",
+      "concept-11-12",
+      "full-c-11-01-00-90",
+      "full-c-11-02-00-90",
+      "full-c-11-00-01-80",
+      "full-c-11-00-03-80",
+      "full-c-11-00-05-80",
+      "full-c-11-00-07-80",
+      "full-c-11-01-04-80",
+      "full-c-11-02-04-80",
+      "full-c-11-03-00-01",
+      "full-c-11-03-00-02",
+      "full-c-11-03-00-03",
+      "full-c-11-03-00-04",
+      "full-c-11-03-01-80",
+      "full-c-11-03-03-80",
+      "full-c-11-03-04-80",
+      "full-c-11-03-05-80",
+      "full-c-11-04-00-01",
+      "full-c-11-04-00-02",
+      "full-c-11-04-00-03",
+      "full-c-11-04-00-04",
+      "full-c-11-04-00-05",
+      "full-c-11-04-00-06",
+      "full-c-11-04-00-07",
+      "full-c-11-04-00-08",
+      "full-c-11-04-00-09",
+      "full-c-11-05-00-01",
+      "full-c-11-05-00-02",
+      "full-c-11-05-00-03",
+      "full-c-11-05-00-04",
+      "full-c-11-05-00-05",
+      "full-c-11-05-00-06",
+      "full-c-11-05-00-07",
+      "full-c-11-05-00-08",
+      "full-c-11-06-00-01",
+      "full-c-11-06-00-02",
+      "full-c-11-07-00-80",
+      "full-c-11-07-01-80",
+      "full-c-11-07-02-80",
+      "full-c-11-09-00-80",
+      "full-c-11-09-01-01",
+      "full-c-11-09-01-02",
+      "full-c-11-09-01-03",
+      "dse-2019-1a-4-i",
+      "dse-2025-1a-5",
+      "dse-2025-1a-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1efe17d1e89983ac",
+    "chapterId": "essay-11",
+    "category": "vocabulary",
+    "title": "空",
+    "fields": {
+      "詞義": "清幽空曠"
+    },
+    "context": "空山新雨後，天氣晚來秋。明月松間照，清泉石上流。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[1].blocks[3][1][0]",
+        "section": "原文第1組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-11-01-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e01856503cd2bd26",
+    "chapterId": "essay-11",
+    "category": "vocabulary",
+    "title": "新",
+    "fields": {
+      "詞義": "剛剛"
+    },
+    "context": "空山新雨後，天氣晚來秋。明月松間照，清泉石上流。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[1].blocks[3][1][1]",
+        "section": "原文第1組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-11-01-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-af229a80279be546",
+    "chapterId": "essay-11",
+    "category": "vocabulary",
+    "title": "晚",
+    "fields": {
+      "詞義": "傍晚"
+    },
+    "context": "空山新雨後，天氣晚來秋。明月松間照，清泉石上流。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[1].blocks[3][1][2]",
+        "section": "原文第1組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-11-01-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-28b438815b01b168",
+    "chapterId": "essay-11",
+    "category": "vocabulary",
+    "title": "清",
+    "fields": {
+      "詞義": "清澈"
+    },
+    "context": "空山新雨後，天氣晚來秋。明月松間照，清泉石上流。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[1].blocks[3][1][3]",
+        "section": "原文第1組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-11-01-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a50650ad83be41fd",
+    "chapterId": "essay-11",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "「空」寫清幽，不否定下文有人居住。月照偏靜，泉流是動態；局部流水襯出整體寧靜。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[1].blocks[4]",
+        "section": "原文第1組｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[79].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[80].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[81].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[82].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1427].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1666].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1686].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "pilot-11-01-01",
+      "pilot-11-01-02",
+      "pilot-11-01-03",
+      "pilot-11-01-04",
+      "full-c-11-01-00-90",
+      "full-c-11-01-04-80",
+      "full-c-11-05-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a22dd7d21e8bcd5c",
+    "chapterId": "essay-11",
+    "category": "theme",
+    "title": "句段核心：原文第2組｜原文與語譯",
+    "fields": {
+      "重點": "淳樸人事讓山居值得留戀，尾聯表明留居之志。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[2].core",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-afa88b8586a0502d",
+    "chapterId": "essay-11",
+    "category": "text",
+    "title": "原文第2組｜原文與語譯",
+    "fields": {
+      "原文": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。"
+    },
+    "context": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[2].blocks[0]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-11-02-01",
+      "pilot-11-02-02",
+      "pilot-11-02-03",
+      "pilot-11-02-04",
+      "pilot-11-02-05",
+      "pilot-11-02-06",
+      "pilot-11-02-07",
+      "pilot-11-02-08",
+      "pilot-11-02-09",
+      "concept-11-09",
+      "concept-11-10",
+      "concept-11-11",
+      "concept-11-12",
+      "q-comparison-002",
+      "full-c-11-02-00-90",
+      "full-c-11-00-01-80",
+      "full-c-11-00-03-80",
+      "full-c-11-00-05-80",
+      "full-c-11-00-07-80",
+      "full-c-11-02-04-80",
+      "full-c-11-03-00-01",
+      "full-c-11-03-00-02",
+      "full-c-11-03-00-03",
+      "full-c-11-03-00-04",
+      "full-c-11-03-01-80",
+      "full-c-11-03-03-80",
+      "full-c-11-03-04-80",
+      "full-c-11-03-05-80",
+      "full-c-11-04-00-01",
+      "full-c-11-04-00-02",
+      "full-c-11-04-00-03",
+      "full-c-11-04-00-04",
+      "full-c-11-04-00-05",
+      "full-c-11-04-00-06",
+      "full-c-11-04-00-07",
+      "full-c-11-04-00-08",
+      "full-c-11-04-00-09",
+      "full-c-11-05-00-01",
+      "full-c-11-05-00-03",
+      "full-c-11-05-00-04",
+      "full-c-11-05-00-05",
+      "full-c-11-05-00-06",
+      "full-c-11-05-00-07",
+      "full-c-11-05-00-08",
+      "full-c-11-06-00-01",
+      "full-c-11-06-00-02",
+      "full-c-11-07-00-80",
+      "full-c-11-07-01-80",
+      "full-c-11-07-02-80",
+      "full-c-11-09-00-80",
+      "full-c-11-09-01-01",
+      "full-c-11-09-01-02",
+      "full-c-11-09-01-03",
+      "confusable-gui-lunyu-shanju",
+      "confusable-gui-yueyang-shanju",
+      "dse-2019-1a-4-i",
+      "dse-2025-1a-5",
+      "dse-2025-1a-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2dbc3fcbcc8f7976",
+    "chapterId": "essay-11",
+    "category": "text",
+    "title": "原文第2組｜原文與語譯",
+    "fields": {
+      "語譯": "竹林傳來喧鬧聲，原來是洗完衣裳的女子回來了。蓮葉搖動，原來是捕魚的船順流而下。任憑春天的花草凋謝。隱居山中的人，也就是詩人自己，仍自然可以留下來。"
+    },
+    "context": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[2].blocks[2]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-11-02-01",
+      "pilot-11-02-02",
+      "pilot-11-02-03",
+      "pilot-11-02-04",
+      "pilot-11-02-05",
+      "pilot-11-02-06",
+      "pilot-11-02-07",
+      "pilot-11-02-08",
+      "pilot-11-02-09",
+      "concept-11-09",
+      "concept-11-10",
+      "concept-11-11",
+      "concept-11-12",
+      "q-comparison-002",
+      "full-c-11-02-00-90",
+      "full-c-11-00-01-80",
+      "full-c-11-00-03-80",
+      "full-c-11-00-05-80",
+      "full-c-11-00-07-80",
+      "full-c-11-02-04-80",
+      "full-c-11-03-00-01",
+      "full-c-11-03-00-02",
+      "full-c-11-03-00-03",
+      "full-c-11-03-00-04",
+      "full-c-11-03-01-80",
+      "full-c-11-03-03-80",
+      "full-c-11-03-04-80",
+      "full-c-11-03-05-80",
+      "full-c-11-04-00-01",
+      "full-c-11-04-00-02",
+      "full-c-11-04-00-03",
+      "full-c-11-04-00-04",
+      "full-c-11-04-00-05",
+      "full-c-11-04-00-06",
+      "full-c-11-04-00-07",
+      "full-c-11-04-00-08",
+      "full-c-11-04-00-09",
+      "full-c-11-05-00-01",
+      "full-c-11-05-00-03",
+      "full-c-11-05-00-04",
+      "full-c-11-05-00-05",
+      "full-c-11-05-00-06",
+      "full-c-11-05-00-07",
+      "full-c-11-05-00-08",
+      "full-c-11-06-00-01",
+      "full-c-11-06-00-02",
+      "full-c-11-07-00-80",
+      "full-c-11-07-01-80",
+      "full-c-11-07-02-80",
+      "full-c-11-09-00-80",
+      "full-c-11-09-01-01",
+      "full-c-11-09-01-02",
+      "full-c-11-09-01-03",
+      "confusable-gui-lunyu-shanju",
+      "confusable-gui-yueyang-shanju",
+      "dse-2019-1a-4-i",
+      "dse-2025-1a-5",
+      "dse-2025-1a-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b5438fac0304ba23",
+    "chapterId": "essay-11",
+    "category": "vocabulary",
+    "title": "喧",
+    "fields": {
+      "詞義": "喧鬧"
+    },
+    "context": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[2].blocks[3][1][0]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-11-02-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c79d5e4be1f6c24c",
+    "chapterId": "essay-11",
+    "category": "vocabulary",
+    "title": "歸",
+    "fields": {
+      "詞義": "回來"
+    },
+    "context": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[2].blocks[3][1][1]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-11-02-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7f9a97f2ba0a2c0b",
+    "chapterId": "essay-11",
+    "category": "vocabulary",
+    "title": "浣",
+    "fields": {
+      "詞義": "洗衣"
+    },
+    "context": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[2].blocks[3][1][2]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-11-02-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d2360822dbf62964",
+    "chapterId": "essay-11",
+    "category": "vocabulary",
+    "title": "下",
+    "fields": {
+      "詞義": "順流而下"
+    },
+    "context": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[2].blocks[3][1][3]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-11-02-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3acc210544ff7e13",
+    "chapterId": "essay-11",
+    "category": "vocabulary",
+    "title": "隨意",
+    "fields": {
+      "詞義": "任憑"
+    },
+    "context": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[2].blocks[3][1][4]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-11-02-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2579918e95fa0bd2",
+    "chapterId": "essay-11",
+    "category": "vocabulary",
+    "title": "春芳",
+    "fields": {
+      "詞義": "春天的花草"
+    },
+    "context": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[2].blocks[3][1][5]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-11-02-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5791f05865d2e6e9",
+    "chapterId": "essay-11",
+    "category": "vocabulary",
+    "title": "歇",
+    "fields": {
+      "詞義": "凋謝"
+    },
+    "context": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[2].blocks[3][1][6]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-11-02-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-13350da3df9e13b3",
+    "chapterId": "essay-11",
+    "category": "vocabulary",
+    "title": "王孫",
+    "fields": {
+      "詞義": "隱士，借指自己"
+    },
+    "context": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[2].blocks[3][1][7]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-11-02-08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cbd08cced44bb564",
+    "chapterId": "essay-11",
+    "category": "vocabulary",
+    "title": "自",
+    "fields": {
+      "詞義": "自然"
+    },
+    "context": "竹喧歸浣女，蓮動下漁舟。隨意春芳歇，王孫自可留。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[2].blocks[3][1][8]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-11-02-09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5444d4f712c4e5c0",
+    "chapterId": "essay-11",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "竹喧先聞聲、蓮動先見動，再帶出浣女和漁舟。尾聯反用「山中不可以久留」，不是因春花凋謝而感傷。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[2].blocks[4]",
+        "section": "原文第2組｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[83].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[84].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[85].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[86].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[87].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[88].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[89].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[90].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[91].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "pilot-11-02-01",
+      "pilot-11-02-02",
+      "pilot-11-02-03",
+      "pilot-11-02-04",
+      "pilot-11-02-05",
+      "pilot-11-02-06",
+      "pilot-11-02-07",
+      "pilot-11-02-08",
+      "pilot-11-02-09",
+      "full-c-11-02-04-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-63a28eb78c962a88",
+    "chapterId": "essay-11",
+    "category": "structure",
+    "title": "首聯",
+    "fields": {
+      "內容、線索和作用": "總寫空山、新雨後的秋晚，交代時間傍晚、季節秋、地點山間、天氣雨後清涼，呼應山／秋／暝；空與新雨造成空靈、清新、宜人的基調。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[3].blocks[0][1][1]",
+        "section": "四聯如何支持留居山中的選擇"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-03-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-63e2a1a3a41906fc",
+    "chapterId": "essay-11",
+    "category": "structure",
+    "title": "頷聯",
+    "fields": {
+      "內容、線索和作用": "寫眼前月、松、泉、石；皓月、青松偏靜，清泉流動，以局部動態襯整體靜謐。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[3].blocks[0][1][2]",
+        "section": "四聯如何支持留居山中的選擇"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-03-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-68d3eb588d128004",
+    "chapterId": "essay-11",
+    "category": "structure",
+    "title": "頸聯",
+    "fields": {
+      "內容、線索和作用": "由自然景物轉山民人事；浣女歸來、漁人舟行、竹喧、蓮動都是生活活動，增添動感、聲音與情趣。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[3].blocks[0][1][3]",
+        "section": "四聯如何支持留居山中的選擇"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-03-00-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-df49e6fcba60971c",
+    "chapterId": "essay-11",
+    "category": "structure",
+    "title": "尾聯",
+    "fields": {
+      "內容、線索和作用": "含蓄抒情；即使春芳凋謝，秋晚山景和淳樸生活仍值得欣賞享受，因而自可留，流露喜愛山居、嚮往隱居及厭倦官場。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[3].blocks[0][1][4]",
+        "section": "四聯如何支持留居山中的選擇"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-03-00-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2ce84e2eeada02e8",
+    "chapterId": "essay-11",
+    "category": "structure",
+    "title": "四聯如何支持留居山中的選擇",
+    "fields": {
+      "內容": "由景到人、再到自己的選擇，前三聯是尾聯情志的依據，不是與主旨無關的景物清單。觀察視線由上而下、由遠而近；頸聯又有先聲／動、後人／舟的發現次序。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[3].blocks[1]",
+        "section": "四聯如何支持留居山中的選擇"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-03-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e16defe69ebbc86d",
+    "chapterId": "essay-11",
+    "category": "structure",
+    "title": "延伸補充｜格律與對仗",
+    "fields": {
+      "內容": "本詩屬近體詩中的五言律詩：八句，每句五字，共四十字；一二句首聯、三四句頷聯、五六句頸聯、七八句尾聯。偶句韻腳為「秋、流、舟、留」，同押尤韻。中間兩聯對仗；首句「後」不列本詩偶句韻腳。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[3].blocks[3]",
+        "section": "四聯如何支持留居山中的選擇"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-03-03-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ee9424f6261a6df8",
+    "chapterId": "essay-11",
+    "category": "structure",
+    "title": "延伸補充｜格律與對仗",
+    "fields": {
+      "內容": "古體詩在句數、對仗和轉韻方面較自由；近體詩有較嚴整的格律。本詩是五言律詩，先掌握八句四聯、每句五字、頷頸兩聯對仗和偶句押韻，再看形式如何配合景物與情感。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[3].blocks[4]",
+        "section": "四聯如何支持留居山中的選擇"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-03-04-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1a4de9f5e8f63fc3",
+    "chapterId": "essay-11",
+    "category": "structure",
+    "title": "延伸補充｜格律與對仗",
+    "fields": {
+      "內容": "中間兩聯把相應的景物、位置和動作並排：「明月／清泉」「松間／石上」「照／流」。讀出這些對應，比只記「對仗工整」更能看清詩的組織。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[3].blocks[5]",
+        "section": "四聯如何支持留居山中的選擇"
+      }
+    ],
+    "questionIds": [
+      "concept-11-12",
+      "full-c-11-03-05-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5aaf4aed683463e6",
+    "chapterId": "essay-11",
+    "category": "technique",
+    "title": "觸覺",
+    "fields": {
+      "例句或內容": "空山新雨後，天氣晚來秋",
+      "運用、效果及不同角度": "雨後秋涼，寫清爽宜人的感受。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[4].blocks[0][1][1]",
+        "section": "描寫、修辭、感官和具體效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-04-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-08c2b488b034c37a",
+    "chapterId": "essay-11",
+    "category": "technique",
+    "title": "視覺",
+    "fields": {
+      "例句或內容": "明月松間照，清泉石上流",
+      "運用、效果及不同角度": "月照松、泉流石，上下景物清晰，構成秋晚圖畫。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[4].blocks[0][1][2]",
+        "section": "描寫、修辭、感官和具體效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-04-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c5be4711dd62ce70",
+    "chapterId": "essay-11",
+    "category": "technique",
+    "title": "視覺",
+    "fields": {
+      "例句或內容": "蓮動下漁舟",
+      "運用、效果及不同角度": "船過蓮葉搖動，呈現山民生活自然情趣。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[4].blocks[0][1][3]",
+        "section": "描寫、修辭、感官和具體效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-04-00-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d40219b57b34af02",
+    "chapterId": "essay-11",
+    "category": "technique",
+    "title": "聽覺兼視覺",
+    "fields": {
+      "例句或內容": "竹喧歸浣女",
+      "運用、效果及不同角度": "竹林先傳出笑語，再帶出歸來的浣女，形成先聞聲、後見人的次序，既引起注意，也增添山居生活的生氣。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[4].blocks[0][1][4]",
+        "section": "描寫、修辭、感官和具體效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-04-00-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0decdd7411aca4e9",
+    "chapterId": "essay-11",
+    "category": "technique",
+    "title": "動靜結合",
+    "fields": {
+      "例句或內容": "首聯、月照泉流、浣女與漁舟",
+      "運用、效果及不同角度": "首聯空山雨霽、頷聯青松如蓋皓月當空、山泉清洌／清冽，構成靜謐背景；泉水淙淙、浣女嬉笑、船行蓮動加入局部動景，使山村豐富多姿、活潑可喜而不冷清平淡。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[4].blocks[0][1][5]",
+        "section": "描寫、修辭、感官和具體效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-04-00-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-deaf398ad899981c",
+    "chapterId": "essay-11",
+    "category": "technique",
+    "title": "以光襯暗／以明襯暗",
+    "fields": {
+      "例句或內容": "明月松間照",
+      "運用、效果及不同角度": "皎潔月光照入陰暗松林，明暗相映，明淨清幽。增寫光穿葉縫、斑駁影子；這是形象化聯想，不是詩句逐字內容。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[4].blocks[0][1][6]",
+        "section": "描寫、修辭、感官和具體效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-04-00-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-af6dcf5679887f27",
+    "chapterId": "essay-11",
+    "category": "technique",
+    "title": "以聲襯靜",
+    "fields": {
+      "例句或內容": "竹喧歸浣女",
+      "運用、效果及不同角度": "洗衣歸來女子喧鬧嬉笑，以局部聲音反襯山村安靜、空靜閒適。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[4].blocks[0][1][7]",
+        "section": "描寫、修辭、感官和具體效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-04-00-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8dc99fc74450f0c1",
+    "chapterId": "essay-11",
+    "category": "technique",
+    "title": "以動襯靜",
+    "fields": {
+      "例句或內容": "清泉石上流",
+      "運用、效果及不同角度": "泉流動態映襯雨後空山靜謐；該聯以靜景為主不等於泉流屬靜物。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[4].blocks[0][1][8]",
+        "section": "描寫、修辭、感官和具體效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-04-00-08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cad083f1d9c0d75c",
+    "chapterId": "essay-11",
+    "category": "technique",
+    "title": "以動襯靜",
+    "fields": {
+      "例句或內容": "竹喧歸浣女，蓮動下漁舟",
+      "運用、效果及不同角度": "人舟活動、蓮葉搖動反襯環境平靜，恬淡自然且有生活情趣。另把竹喧聲音標「以動襯靜B」，屬分類角度。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[4].blocks[0][1][9]",
+        "section": "描寫、修辭、感官和具體效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-04-00-09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3cbd493c17a02b33",
+    "chapterId": "essay-11",
+    "category": "vocabulary",
+    "title": "主謂倒裝",
+    "fields": {
+      "例句或內容": "竹喧歸浣女，蓮動下漁舟",
+      "運用、效果及不同角度": "歸、下在浣女、漁舟前，突出動作，增加動感，配合偶句押韻、頸聯對仗及音調和諧。語義次序又是先見聞現象，再揭示人舟；形式與觀察次序可並述；若問主旨，還須把動作與發現次序連到純樸山居生活及詩人的留戀，不只停在音調動感。稱「初秋傍晚」，詩中明確交代秋日傍晚。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[5].blocks[0][1][1]",
+        "section": "描寫、修辭、感官和具體效果（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-05-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b24ea7f56ecec339",
+    "chapterId": "essay-11",
+    "category": "technique",
+    "title": "對偶／對仗",
+    "fields": {
+      "例句或內容": "明月松間照，清泉石上流",
+      "運用、效果及不同角度": "明月／清泉、松間／石上、照／流相對，句式整齊，兩組自然景相映。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[5].blocks[0][1][2]",
+        "section": "描寫、修辭、感官和具體效果（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-05-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f3f34735e5c5e52a",
+    "chapterId": "essay-11",
+    "category": "technique",
+    "title": "對偶／對仗",
+    "fields": {
+      "例句或內容": "竹喧歸浣女，蓮動下漁舟",
+      "運用、效果及不同角度": "同構句式對寫女子歸和漁舟下，呈兩種純樸人事，符合律詩形式。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[5].blocks[0][1][3]",
+        "section": "描寫、修辭、感官和具體效果（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-05-00-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-80294b5aa79e9df7",
+    "chapterId": "essay-11",
+    "category": "technique",
+    "title": "前後／題文呼應",
+    "fields": {
+      "例句或內容": "明月、歸浣女、下漁舟",
+      "運用、效果及不同角度": "呼應題中居、暝及第二句晚；月出和傍晚人事使山居場景時間一致，"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[5].blocks[0][1][4]",
+        "section": "描寫、修辭、感官和具體效果（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-05-00-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a7cf037925743036",
+    "chapterId": "essay-11",
+    "category": "technique",
+    "title": "觸景生情、借景抒情",
+    "fields": {
+      "例句或內容": "雨後山景、山民生活→自可留",
+      "運用、效果及不同角度": "秋山如洗、松靜水清、人物生活有情趣，令人流連陶醉、忘懷世事，由景生出喜愛山居及厭倦官場之情。可用「世外桃源」形容其理想境界，不據此另立本詩用了桃花源典故。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[5].blocks[0][1][5]",
+        "section": "描寫、修辭、感官和具體效果（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-05-00-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7b7e8c0f9f426f90",
+    "chapterId": "essay-11",
+    "category": "technique",
+    "title": "詩中有畫",
+    "fields": {
+      "例句或內容": "空山秋夜圖",
+      "運用、效果及不同角度": "捕捉特點，從構圖、光暗、動靜繪景，意境優美。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[5].blocks[0][1][6]",
+        "section": "描寫、修辭、感官和具體效果（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-05-00-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-da71bab61787d1b7",
+    "chapterId": "essay-11",
+    "category": "technique",
+    "title": "白描與興寄／寓情於景",
+    "fields": {
+      "例句或內容": "明月、清泉、浣女、漁舟",
+      "運用、效果及不同角度": "說表面以白描細刻美態，實際向景物投放情感，寄託曠達高潔及厭棄官場、脫離塵俗、隱居山林的理想。白描談描寫方式，興寄談情志寄託，可以兼容。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[5].blocks[0][1][7]",
+        "section": "描寫、修辭、感官和具體效果（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-05-00-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-17eb1247eef18174",
+    "chapterId": "essay-11",
+    "category": "technique",
+    "title": "反用典故",
+    "fields": {
+      "例句或內容": "隨意春芳歇，王孫自可留",
+      "運用、效果及不同角度": "原典與本詩意思相反，詳見下節。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[5].blocks[0][1][8]",
+        "section": "描寫、修辭、感官和具體效果（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-05-00-08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8c0a2303eaa2e401",
+    "chapterId": "essay-11",
+    "category": "technique",
+    "title": "借代",
+    "fields": {
+      "例句或內容": "王孫自可留",
+      "運用、效果及不同角度": "以王孫代隱士並指自己，含蓄表達留居選擇。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[6].blocks[0][1][1]",
+        "section": "描寫、修辭、感官和具體效果（3）"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-06-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9f55f8fa7e0baf95",
+    "chapterId": "essay-11",
+    "category": "technique",
+    "title": "象徵",
+    "fields": {
+      "例句或內容": "明月、清泉、松、竹、蓮",
+      "運用、效果及不同角度": "月泉清明→清高光明；松竹→堅定有節；蓮→潔身自好。補竹、蓮；每物须連特點，不能把所有象徵都當同一道題必答項。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[6].blocks[0][1][2]",
+        "section": "描寫、修辭、感官和具體效果（3）"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-06-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6b508cd21ee66a43",
+    "chapterId": "essay-11",
+    "category": "character",
+    "title": "典故、主旨、人物與情感",
+    "fields": {
+      "內容": "「隨意春芳歇，王孫自可留」反用《楚辭・招隱士》「王孫兮歸來，山中兮不可以久留」：原意希望王孫歸來、不要久留山中；本詩反過來說山中美景與生活令人留戀，自可留下，不必回朝廷。即使春天花草已謝，秋景仍美，並非對春逝失落。常見典故活用成新意，深化歸隱主題、增強感染力。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[7].blocks[0]",
+        "section": "典故、主旨、人物與情感"
+      }
+    ],
+    "questionIds": [
+      "concept-11-09",
+      "concept-11-10",
+      "full-c-11-07-00-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7c9fd2ab3f3bebee",
+    "chapterId": "essay-11",
+    "category": "comparison",
+    "title": "典故、主旨、人物與情感",
+    "fields": {
+      "內容": "浣女、漁舟表現村民勤勞、淳厚樸實、和平安樂的生活，詩人的心境澄明淡靜、空明，對隱居生活悠然自得、滿足。頸聯熱鬧和全詩清靜幽雅並不矛盾：正是聲音與動景映襯背景，讓幽靜含有人間情趣，構成其理想生活。「自可留」流露留戀山居、厭倦塵俗的選擇；高潔與恬淡的情志，須由明淨景物和淳樸人事加以說明。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[7].blocks[1]",
+        "section": "典故、主旨、人物與情感"
+      }
+    ],
+    "questionIds": [
+      "concept-11-11",
+      "full-c-11-07-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-dd53d840465a449b",
+    "chapterId": "essay-11",
+    "category": "character",
+    "title": "典故、主旨、人物與情感",
+    "fields": {
+      "內容": "「明月松間照」寄寓高潔，可分析月明淨皎潔→光明高尚，也可說松挺拔耐寒→剛直有節；或合看整句明淨清新的意境→不隨俗的高潔追求。不可只列「月、松象徵高潔」而漏掉特點與品格的連接。這與尾聯的反用典故是不同手法、不同證據。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[7].blocks[2]",
+        "section": "典故、主旨、人物與情感"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-07-02-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2a3ac2bdcd1ff7b6",
+    "chapterId": "essay-11",
+    "category": "exam",
+    "title": "歷年考查提示",
+    "fields": {
+      "內容": "下表列出歷年考查的知識方向；題目、答案與適用條件見配套考查索引。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[8].blocks[0]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ce91949c88d23967",
+    "chapterId": "essay-11",
+    "category": "exam",
+    "title": "2019",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "體裁：古詩、樂府、律詩、絕句辨認；手法與摘錄：以動襯靜的一聯"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[8].blocks[1][1][1]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-780b713971eb14af",
+    "chapterId": "essay-11",
+    "category": "exam",
+    "title": "2025",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "詩歌形式：辨認兩詩的頸聯"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[8].blocks[1][1][2]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9e7778e7503be644",
+    "chapterId": "essay-11",
+    "category": "exam",
+    "title": "2025",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "景物與寄寓：明月松間照與高潔品格"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[8].blocks[1][1][3]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e0adbb7d6250f648",
+    "chapterId": "essay-11",
+    "category": "exam",
+    "title": "2025",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "典故：尾聯抒志手法"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[8].blocks[1][1][4]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0a6748deb0b6cfe9",
+    "chapterId": "essay-11",
+    "category": "comparison",
+    "title": "章末串連｜重建全文",
+    "fields": {
+      "內容": "前三聯提供「自可留」的理由：環境清幽，景物明淨，生活淳樸。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[9].blocks[0]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-09-00-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-273a8b34b972fe73",
+    "chapterId": "essay-11",
+    "category": "structure",
+    "title": "首聯定基調",
+    "fields": {
+      "怎樣連起來": "空山、新雨、晚、秋把地點與清新涼意連起來。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[9].blocks[1][1][1]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-09-01-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-66241530a9a5cbaa",
+    "chapterId": "essay-11",
+    "category": "structure",
+    "title": "頷頸聯充實理由",
+    "fields": {
+      "怎樣連起來": "月泉寫自然，浣女漁舟寫人事；動與聲並未破壞幽靜，反令幽靜有生氣。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[9].blocks[1][1][2]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-09-01-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8d14587bc65c56e2",
+    "chapterId": "essay-11",
+    "category": "structure",
+    "title": "尾聯作選擇",
+    "fields": {
+      "怎樣連起來": "即使春芳已歇，仍願留山；反用典故把前面景物收為自己的生活理想。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[10].pages[9].blocks[1][1][3]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-09-01-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ad2de80606907343",
+    "chapterId": "essay-11",
+    "category": "structure",
+    "title": "律詩四聯",
+    "fields": {
+      "內容": "律詩通常有八句，每兩句為一聯：第1–2句是首聯，第3–4句是頷聯，第5–6句是頸聯，第7–8句是尾聯。頷聯和頸聯通常要求對仗。判斷聯次須從全詩第一句數起，不能把題目節錄的次序當成全詩句次。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[89].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[100].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1428].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1663].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1665].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1667].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1668].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1670].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1672].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1674].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1676].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1684].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1687].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1688].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1689].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1693].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1699].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1701].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2137].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2159].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2160].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "pilot-11-02-07",
+      "concept-11-09",
+      "full-c-11-02-00-90",
+      "full-c-11-00-03-80",
+      "full-c-11-00-07-80",
+      "full-c-11-02-04-80",
+      "full-c-11-03-00-01",
+      "full-c-11-03-00-03",
+      "full-c-11-03-01-80",
+      "full-c-11-03-04-80",
+      "full-c-11-04-00-01",
+      "full-c-11-04-00-09",
+      "full-c-11-05-00-03",
+      "full-c-11-05-00-04",
+      "full-c-11-05-00-05",
+      "full-c-11-06-00-01",
+      "full-c-11-09-01-01",
+      "full-c-11-09-01-03",
+      "dse-2019-1a-4-i",
+      "dse-2025-1a-5",
+      "dse-2025-1a-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3169f63e07f472a2",
+    "chapterId": "essay-11",
+    "category": "technique",
+    "title": "用典",
+    "fields": {
+      "內容": "用典是引用或化用前人語句、故事，把既有含義帶入作品。分析時依次說明典故出處、原來意思、作者如何沿用或轉化，以及它表達的情感志趣。只寫「用了典故」未能交代作用。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[90].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[101].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1692].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1701].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2160].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "pilot-11-02-08",
+      "concept-11-10",
+      "full-c-11-05-00-08",
+      "full-c-11-09-01-03",
+      "dse-2025-1a-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f473474596579131",
+    "chapterId": "essay-11",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "「空」寫清幽，不否定下文有人居住。月照偏靜，泉流是動態；局部流水襯出整體寧靜。\n竹喧先聞聲、蓮動先見動，再帶出浣女和漁舟。尾聯反用「山中不可以久留」，不是因春花凋謝而感傷。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[100].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[101].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[102].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[103].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1428].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1662].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1663].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1664].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1665].learning.knowledge[2]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1667].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1668].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1669].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1670].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1671].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1672].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1673].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1674].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1675].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1676].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1677].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1678].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1679].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1680].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1681].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1682].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1683].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1684].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1685].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1687].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1688].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1689].learning.knowledge[2]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1690].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1691].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1692].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1693].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1694].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1695].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1696].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1697].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1698].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1699].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1700].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1701].learning.knowledge[2]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2137].learning.knowledge[2]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2160].learning.knowledge[2]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "concept-11-09",
+      "concept-11-10",
+      "concept-11-11",
+      "concept-11-12",
+      "full-c-11-02-00-90",
+      "full-c-11-00-01-80",
+      "full-c-11-00-03-80",
+      "full-c-11-00-05-80",
+      "full-c-11-00-07-80",
+      "full-c-11-02-04-80",
+      "full-c-11-03-00-01",
+      "full-c-11-03-00-02",
+      "full-c-11-03-00-03",
+      "full-c-11-03-00-04",
+      "full-c-11-03-01-80",
+      "full-c-11-03-03-80",
+      "full-c-11-03-04-80",
+      "full-c-11-03-05-80",
+      "full-c-11-04-00-01",
+      "full-c-11-04-00-02",
+      "full-c-11-04-00-03",
+      "full-c-11-04-00-04",
+      "full-c-11-04-00-05",
+      "full-c-11-04-00-06",
+      "full-c-11-04-00-07",
+      "full-c-11-04-00-08",
+      "full-c-11-04-00-09",
+      "full-c-11-05-00-01",
+      "full-c-11-05-00-03",
+      "full-c-11-05-00-04",
+      "full-c-11-05-00-05",
+      "full-c-11-05-00-06",
+      "full-c-11-05-00-07",
+      "full-c-11-05-00-08",
+      "full-c-11-06-00-01",
+      "full-c-11-06-00-02",
+      "full-c-11-07-00-80",
+      "full-c-11-07-01-80",
+      "full-c-11-07-02-80",
+      "full-c-11-09-00-80",
+      "full-c-11-09-01-01",
+      "full-c-11-09-01-02",
+      "full-c-11-09-01-03",
+      "dse-2019-1a-4-i",
+      "dse-2025-1a-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ff6087175fad708e",
+    "chapterId": "essay-11",
+    "category": "theme",
+    "title": "古詩、律詩、絕句與排律",
+    "fields": {
+      "內容": "古詩在句數、平仄和對仗方面較自由；律詩通常八句，絕句四句，排律在律詩格律基礎上延長至十句或以上。不能單憑每句五字或七字判定體裁，還要核對句數與格律。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1665].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2137].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-00-07-80",
+      "dse-2019-1a-4-i"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b9e1a4bedd89a5cd",
+    "chapterId": "essay-11",
+    "category": "theme",
+    "title": "押韻與韻腳",
+    "fields": {
+      "內容": "韻腳是詩句末尾用來押韻的字。律詩一般偶數句押韻，首句可入韻，也可不入韻；不能把每句最後一字都當作韻腳。判斷古詩用韻要留意古音及韻部，不能只按現代普通話讀音。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1673].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-03-03-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-23f44402a55f6f66",
+    "chapterId": "essay-11",
+    "category": "theme",
+    "title": "舉例與引用",
+    "fields": {
+      "內容": "舉例以具體事實、人物或事件支持道理；引用借用前人話語或文獻作依據。兩者可以在同一段並用，須按題目所問的範圍辨認，並說明例子或引語支持哪個論點。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1689].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-11-05-00-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  }
+]

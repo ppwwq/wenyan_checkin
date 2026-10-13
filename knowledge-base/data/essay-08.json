@@ -1,0 +1,6054 @@
+[
+  {
+    "id": "k-4ead3df3bcdf40cc",
+    "chapterId": "essay-08",
+    "category": "background",
+    "title": "作者與題旨",
+    "fields": {
+      "作者": "柳宗元"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].author",
+        "section": "始得西山宴遊記"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-76ff16349ba38cae",
+    "chapterId": "essay-08",
+    "category": "theme",
+    "title": "一句話題旨",
+    "fields": {
+      "題旨": "山水與心境"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].desc",
+        "section": "始得西山宴遊記"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e0dde0d1717a573f",
+    "chapterId": "essay-08",
+    "category": "background",
+    "title": "作者、時代與文體",
+    "fields": {
+      "資料": "柳宗元｜唐代｜山水遊記"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[0].blocks[0]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9b7b6c9d8b0cea9e",
+    "chapterId": "essay-08",
+    "category": "theme",
+    "title": "柳宗元｜唐代｜山水遊記",
+    "fields": {
+      "內容": "由被貶憂懼到山水忘我，西山之遊使作者領悟真遊，並寄託高潔自持之志。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[0].blocks[1]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cbb0c21926a41a8b",
+    "chapterId": "essay-08",
+    "category": "structure",
+    "title": "內容線索",
+    "fields": {
+      "內容": "舊遊不解憂→偶見西山→熱切登頂→山勢高峻→與天地同遊→心凝形釋"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[0].blocks[3]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f8fce1cb8375d5a8",
+    "chapterId": "essay-08",
+    "category": "theme",
+    "title": "理解關鍵",
+    "fields": {
+      "內容": "精神釋懷不等於貶謫處境改變；「未始遊」不是以前從未出遊。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[0].blocks[5]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-04419fe2759d6274",
+    "chapterId": "essay-08",
+    "category": "background",
+    "title": "題解與文體",
+    "fields": {
+      "內容": "元和四年作，為《永州八記》首篇；自然段兩段，卡片按內容分四部分。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[0].blocks[7]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8ef008166aae8abd",
+    "chapterId": "essay-08",
+    "category": "theme",
+    "title": "句段核心：第1段｜原文與語譯",
+    "fields": {
+      "重點": "被貶後常憂懼，日常漫遊仍未得山水真趣。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[1].core",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3d4904855ee705c7",
+    "chapterId": "essay-08",
+    "category": "text",
+    "title": "第1段｜原文與語譯",
+    "fields": {
+      "原文": "自余為僇人，居是州，恒惴慄。其隙也，則施施而行，漫漫而遊。日與其徒上高山，入深林，窮迴溪，幽泉怪石，無遠不到。到則披草而坐，傾壺而醉。醉則更相枕以臥，臥而夢。意有所極，夢亦同趣。覺而起，起而歸。以為凡是州之山有異態者，皆我有也，而未始知西山之怪特。"
+    },
+    "context": "自余為僇人，居是州，恒惴慄。其隙也，則施施而行，漫漫而遊。日與其徒上高山，入深林，窮迴溪，幽泉怪石，無遠不到。到則披草而坐，傾壺而醉。醉則更相枕以臥，臥而夢。意有所極，夢亦同趣。覺而起，起而歸。以為凡是州之山有異態者，皆我有也，而未始知西山之怪特。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[1].blocks[0]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e08-exp-001",
+      "q-e08-exp-002",
+      "full-b-08-01-03-0",
+      "full-b-08-01-03-1",
+      "full-b-08-01-03-2",
+      "full-b-08-01-03-4",
+      "full-b-08-01-03-5",
+      "full-b-08-01-03-6",
+      "full-b-08-01-03-7",
+      "full-b-08-01-03-9",
+      "full-b-08-01-03-10",
+      "full-b-08-01-03-11",
+      "full-b-08-01-03-12",
+      "full-b-08-01-03-13",
+      "full-b-08-01-03-14",
+      "full-b-08-01-03-15",
+      "full-b-08-01-03-16",
+      "full-b-08-01-03-17",
+      "full-b-08-01-03-18",
+      "full-b-08-01-03-19",
+      "full-b-08-01-00-b",
+      "full-b-08-10-02-1",
+      "full-b-08-11-00-1",
+      "full-b-08-12-00-1",
+      "full-b-08-12-00-2",
+      "full-b-08-12-00-3",
+      "full-b-08-14-01-1",
+      "full-b-08-20-00-1",
+      "full-b-08-20-00-4",
+      "full-b-08-20-00-7",
+      "full-b-08-20-00-9",
+      "full-b-08-20-00-11",
+      "full-b-08-20-00-13",
+      "full-b-08-21-01-5",
+      "full-b-08-21-03-1",
+      "full-b-08-21-03-2",
+      "full-b-08-22-01-1",
+      "full-b-08-22-03-1",
+      "full-b-08-22-03-3",
+      "dse-2019-1a-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d2a87a98353bdb0b",
+    "chapterId": "essay-08",
+    "category": "text",
+    "title": "第1段｜原文與語譯",
+    "fields": {
+      "語譯": "自從我受罰被貶，居住在永州，便常常恐懼不安。有空時，就緩緩行走、隨意遊覽。每天與同伴登高山、入深林，走到曲折溪流的盡頭；幽僻的泉水、奇形怪狀的山石，無論多遠，沒有不到的。到了便撥草而坐，倒盡壺中的酒喝醉。醉後輪流互相枕靠着躺下，睡着做夢；心意想到哪裏，夢也往那裏。睡醒起身，起身回去。自以為這州所有形態奇異的山都遊過了，卻未曾知道西山的奇異卓絕。"
+    },
+    "context": "自余為僇人，居是州，恒惴慄。其隙也，則施施而行，漫漫而遊。日與其徒上高山，入深林，窮迴溪，幽泉怪石，無遠不到。到則披草而坐，傾壺而醉。醉則更相枕以臥，臥而夢。意有所極，夢亦同趣。覺而起，起而歸。以為凡是州之山有異態者，皆我有也，而未始知西山之怪特。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[1].blocks[2]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e08-exp-001",
+      "q-e08-exp-002",
+      "full-b-08-01-03-0",
+      "full-b-08-01-03-1",
+      "full-b-08-01-03-2",
+      "full-b-08-01-03-4",
+      "full-b-08-01-03-5",
+      "full-b-08-01-03-6",
+      "full-b-08-01-03-7",
+      "full-b-08-01-03-9",
+      "full-b-08-01-03-10",
+      "full-b-08-01-03-11",
+      "full-b-08-01-03-12",
+      "full-b-08-01-03-13",
+      "full-b-08-01-03-14",
+      "full-b-08-01-03-15",
+      "full-b-08-01-03-16",
+      "full-b-08-01-03-17",
+      "full-b-08-01-03-18",
+      "full-b-08-01-03-19",
+      "full-b-08-01-00-b",
+      "full-b-08-10-02-1",
+      "full-b-08-11-00-1",
+      "full-b-08-12-00-1",
+      "full-b-08-12-00-2",
+      "full-b-08-12-00-3",
+      "full-b-08-14-01-1",
+      "full-b-08-20-00-1",
+      "full-b-08-20-00-4",
+      "full-b-08-20-00-7",
+      "full-b-08-20-00-9",
+      "full-b-08-20-00-11",
+      "full-b-08-20-00-13",
+      "full-b-08-21-01-5",
+      "full-b-08-21-03-1",
+      "full-b-08-21-03-2",
+      "full-b-08-22-01-1",
+      "full-b-08-22-03-1",
+      "full-b-08-22-03-3",
+      "dse-2019-1a-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-443adbb4b784bcfb",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "僇人",
+    "fields": {
+      "詞義": "受刑辱的人；此指受罰被貶者"
+    },
+    "context": "自余為僇人，居是州，恒惴慄。其隙也，則施施而行，漫漫而遊。日與其徒上高山，入深林，窮迴溪，幽泉怪石，無遠不到。到則披草而坐，傾壺而醉。醉則更相枕以臥，臥而夢。意有所極，夢亦同趣。覺而起，起而歸。以為凡是州之山有異態者，皆我有也，而未始知西山之怪特。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[1].blocks[3][1][0]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-01-03-0"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-81d690ac4c1087d1",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "是",
+    "fields": {
+      "詞義": "此、這個"
+    },
+    "context": "自余為僇人，居是州，恒惴慄。其隙也，則施施而行，漫漫而遊。日與其徒上高山，入深林，窮迴溪，幽泉怪石，無遠不到。到則披草而坐，傾壺而醉。醉則更相枕以臥，臥而夢。意有所極，夢亦同趣。覺而起，起而歸。以為凡是州之山有異態者，皆我有也，而未始知西山之怪特。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[1].blocks[3][1][1]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-01-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7a41a13e8e2b84f5",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "恒",
+    "fields": {
+      "詞義": "經常"
+    },
+    "context": "自余為僇人，居是州，恒惴慄。其隙也，則施施而行，漫漫而遊。日與其徒上高山，入深林，窮迴溪，幽泉怪石，無遠不到。到則披草而坐，傾壺而醉。醉則更相枕以臥，臥而夢。意有所極，夢亦同趣。覺而起，起而歸。以為凡是州之山有異態者，皆我有也，而未始知西山之怪特。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[1].blocks[3][1][2]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-01-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-96b36ed49292e075",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "惴慄",
+    "fields": {
+      "詞義": "恐懼不安"
+    },
+    "context": "自余為僇人，居是州，恒惴慄。其隙也，則施施而行，漫漫而遊。日與其徒上高山，入深林，窮迴溪，幽泉怪石，無遠不到。到則披草而坐，傾壺而醉。醉則更相枕以臥，臥而夢。意有所極，夢亦同趣。覺而起，起而歸。以為凡是州之山有異態者，皆我有也，而未始知西山之怪特。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[1].blocks[3][1][3]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5f2b88f3d3a81acc",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "隙",
+    "fields": {
+      "詞義": "公務的空閒"
+    },
+    "context": "自余為僇人，居是州，恒惴慄。其隙也，則施施而行，漫漫而遊。日與其徒上高山，入深林，窮迴溪，幽泉怪石，無遠不到。到則披草而坐，傾壺而醉。醉則更相枕以臥，臥而夢。意有所極，夢亦同趣。覺而起，起而歸。以為凡是州之山有異態者，皆我有也，而未始知西山之怪特。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[1].blocks[3][1][4]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-01-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-261adb130602155d",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "施施",
+    "fields": {
+      "詞義": "緩慢行走的樣子"
+    },
+    "context": "自余為僇人，居是州，恒惴慄。其隙也，則施施而行，漫漫而遊。日與其徒上高山，入深林，窮迴溪，幽泉怪石，無遠不到。到則披草而坐，傾壺而醉。醉則更相枕以臥，臥而夢。意有所極，夢亦同趣。覺而起，起而歸。以為凡是州之山有異態者，皆我有也，而未始知西山之怪特。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[1].blocks[3][1][5]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-01-03-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5d6f38a1e479a496",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "漫漫",
+    "fields": {
+      "詞義": "隨意、不受拘束"
+    },
+    "context": "自余為僇人，居是州，恒惴慄。其隙也，則施施而行，漫漫而遊。日與其徒上高山，入深林，窮迴溪，幽泉怪石，無遠不到。到則披草而坐，傾壺而醉。醉則更相枕以臥，臥而夢。意有所極，夢亦同趣。覺而起，起而歸。以為凡是州之山有異態者，皆我有也，而未始知西山之怪特。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[1].blocks[3][1][6]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-01-03-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ae04e52a4c1a7673",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "徒",
+    "fields": {
+      "詞義": "同伴"
+    },
+    "context": "自余為僇人，居是州，恒惴慄。其隙也，則施施而行，漫漫而遊。日與其徒上高山，入深林，窮迴溪，幽泉怪石，無遠不到。到則披草而坐，傾壺而醉。醉則更相枕以臥，臥而夢。意有所極，夢亦同趣。覺而起，起而歸。以為凡是州之山有異態者，皆我有也，而未始知西山之怪特。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[1].blocks[3][1][7]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-01-03-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-97260396ec52d877",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "窮",
+    "fields": {
+      "詞義": "走到盡頭"
+    },
+    "context": "自余為僇人，居是州，恒惴慄。其隙也，則施施而行，漫漫而遊。日與其徒上高山，入深林，窮迴溪，幽泉怪石，無遠不到。到則披草而坐，傾壺而醉。醉則更相枕以臥，臥而夢。意有所極，夢亦同趣。覺而起，起而歸。以為凡是州之山有異態者，皆我有也，而未始知西山之怪特。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[1].blocks[3][1][8]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2652658787e09575",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "迴溪",
+    "fields": {
+      "詞義": "曲折縈迴的溪流"
+    },
+    "context": "自余為僇人，居是州，恒惴慄。其隙也，則施施而行，漫漫而遊。日與其徒上高山，入深林，窮迴溪，幽泉怪石，無遠不到。到則披草而坐，傾壺而醉。醉則更相枕以臥，臥而夢。意有所極，夢亦同趣。覺而起，起而歸。以為凡是州之山有異態者，皆我有也，而未始知西山之怪特。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[1].blocks[3][1][9]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-01-03-9"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cdf904a5552502d4",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "幽泉",
+    "fields": {
+      "詞義": "幽僻的泉水"
+    },
+    "context": "自余為僇人，居是州，恒惴慄。其隙也，則施施而行，漫漫而遊。日與其徒上高山，入深林，窮迴溪，幽泉怪石，無遠不到。到則披草而坐，傾壺而醉。醉則更相枕以臥，臥而夢。意有所極，夢亦同趣。覺而起，起而歸。以為凡是州之山有異態者，皆我有也，而未始知西山之怪特。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[1].blocks[3][1][10]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-01-03-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-48af7bf7fbd9352d",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "披",
+    "fields": {
+      "詞義": "撥開"
+    },
+    "context": "自余為僇人，居是州，恒惴慄。其隙也，則施施而行，漫漫而遊。日與其徒上高山，入深林，窮迴溪，幽泉怪石，無遠不到。到則披草而坐，傾壺而醉。醉則更相枕以臥，臥而夢。意有所極，夢亦同趣。覺而起，起而歸。以為凡是州之山有異態者，皆我有也，而未始知西山之怪特。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[1].blocks[3][1][11]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-01-03-11"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f7b84354eb43a934",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "傾壺",
+    "fields": {
+      "詞義": "倒盡壺中的酒"
+    },
+    "context": "自余為僇人，居是州，恒惴慄。其隙也，則施施而行，漫漫而遊。日與其徒上高山，入深林，窮迴溪，幽泉怪石，無遠不到。到則披草而坐，傾壺而醉。醉則更相枕以臥，臥而夢。意有所極，夢亦同趣。覺而起，起而歸。以為凡是州之山有異態者，皆我有也，而未始知西山之怪特。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[1].blocks[3][1][12]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-01-03-12"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-92d2cdacaadb990a",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "更",
+    "fields": {
+      "詞義": "輪流"
+    },
+    "context": "自余為僇人，居是州，恒惴慄。其隙也，則施施而行，漫漫而遊。日與其徒上高山，入深林，窮迴溪，幽泉怪石，無遠不到。到則披草而坐，傾壺而醉。醉則更相枕以臥，臥而夢。意有所極，夢亦同趣。覺而起，起而歸。以為凡是州之山有異態者，皆我有也，而未始知西山之怪特。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[1].blocks[3][1][13]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-01-03-13"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f368e9d188987d76",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "相枕",
+    "fields": {
+      "詞義": "互相枕靠着身體"
+    },
+    "context": "自余為僇人，居是州，恒惴慄。其隙也，則施施而行，漫漫而遊。日與其徒上高山，入深林，窮迴溪，幽泉怪石，無遠不到。到則披草而坐，傾壺而醉。醉則更相枕以臥，臥而夢。意有所極，夢亦同趣。覺而起，起而歸。以為凡是州之山有異態者，皆我有也，而未始知西山之怪特。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[1].blocks[3][1][14]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-01-03-14"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5fa2653152db9931",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "極",
+    "fields": {
+      "詞義": "到達"
+    },
+    "context": "自余為僇人，居是州，恒惴慄。其隙也，則施施而行，漫漫而遊。日與其徒上高山，入深林，窮迴溪，幽泉怪石，無遠不到。到則披草而坐，傾壺而醉。醉則更相枕以臥，臥而夢。意有所極，夢亦同趣。覺而起，起而歸。以為凡是州之山有異態者，皆我有也，而未始知西山之怪特。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[1].blocks[3][1][15]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-01-03-15"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-853ae285884e27d9",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "趣",
+    "fields": {
+      "詞義": "同「趨」：往、到"
+    },
+    "context": "自余為僇人，居是州，恒惴慄。其隙也，則施施而行，漫漫而遊。日與其徒上高山，入深林，窮迴溪，幽泉怪石，無遠不到。到則披草而坐，傾壺而醉。醉則更相枕以臥，臥而夢。意有所極，夢亦同趣。覺而起，起而歸。以為凡是州之山有異態者，皆我有也，而未始知西山之怪特。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[1].blocks[3][1][16]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-01-03-16"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6630140c10b45f1e",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "覺",
+    "fields": {
+      "詞義": "睡醒"
+    },
+    "context": "自余為僇人，居是州，恒惴慄。其隙也，則施施而行，漫漫而遊。日與其徒上高山，入深林，窮迴溪，幽泉怪石，無遠不到。到則披草而坐，傾壺而醉。醉則更相枕以臥，臥而夢。意有所極，夢亦同趣。覺而起，起而歸。以為凡是州之山有異態者，皆我有也，而未始知西山之怪特。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[1].blocks[3][1][17]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-01-03-17"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-317c74102ff30ec1",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "未始",
+    "fields": {
+      "詞義": "未曾"
+    },
+    "context": "自余為僇人，居是州，恒惴慄。其隙也，則施施而行，漫漫而遊。日與其徒上高山，入深林，窮迴溪，幽泉怪石，無遠不到。到則披草而坐，傾壺而醉。醉則更相枕以臥，臥而夢。意有所極，夢亦同趣。覺而起，起而歸。以為凡是州之山有異態者，皆我有也，而未始知西山之怪特。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[1].blocks[3][1][18]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-01-03-18"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b5cb10f2e0a75475",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "怪特",
+    "fields": {
+      "詞義": "奇異卓絕"
+    },
+    "context": "自余為僇人，居是州，恒惴慄。其隙也，則施施而行，漫漫而遊。日與其徒上高山，入深林，窮迴溪，幽泉怪石，無遠不到。到則披草而坐，傾壺而醉。醉則更相枕以臥，臥而夢。意有所極，夢亦同趣。覺而起，起而歸。以為凡是州之山有異態者，皆我有也，而未始知西山之怪特。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[1].blocks[3][1][19]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-01-03-19"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-85440d3f3bcc8cbd",
+    "chapterId": "essay-08",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "「施施」「漫漫」只寫外在遊態，不能據此判斷內心已全然快樂。舊遊的廣泛，亦用來襯托西山更加怪特。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[1].blocks[4]",
+        "section": "第1段｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[152].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[153].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[784].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[785].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[786].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[787].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[788].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[789].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[790].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[791].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[792].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[793].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[794].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[795].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[796].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[797].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[798].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[799].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[800].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[801].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[918].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1103].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1110].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1113].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1114].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1115].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1132].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1136].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1137].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1138].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1140].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1143].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1144].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1145].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1148].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1152].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1154].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2138].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e08-exp-001",
+      "q-e08-exp-002",
+      "full-b-08-01-03-0",
+      "full-b-08-01-03-1",
+      "full-b-08-01-03-2",
+      "full-b-08-01-03-4",
+      "full-b-08-01-03-5",
+      "full-b-08-01-03-6",
+      "full-b-08-01-03-7",
+      "full-b-08-01-03-9",
+      "full-b-08-01-03-10",
+      "full-b-08-01-03-11",
+      "full-b-08-01-03-12",
+      "full-b-08-01-03-13",
+      "full-b-08-01-03-14",
+      "full-b-08-01-03-15",
+      "full-b-08-01-03-16",
+      "full-b-08-01-03-17",
+      "full-b-08-01-03-18",
+      "full-b-08-01-03-19",
+      "full-b-08-01-00-b",
+      "full-b-08-10-02-1",
+      "full-b-08-11-00-1",
+      "full-b-08-12-00-1",
+      "full-b-08-12-00-2",
+      "full-b-08-12-00-3",
+      "full-b-08-20-00-1",
+      "full-b-08-20-00-7",
+      "full-b-08-20-00-9",
+      "full-b-08-20-00-11",
+      "full-b-08-20-00-13",
+      "full-b-08-21-01-5",
+      "full-b-08-21-03-1",
+      "full-b-08-21-03-2",
+      "full-b-08-22-01-1",
+      "full-b-08-22-03-1",
+      "full-b-08-22-03-3",
+      "dse-2019-1a-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0b9f3a24a621d4fe",
+    "chapterId": "essay-08",
+    "category": "theme",
+    "title": "句段核心：第2段｜原文與語譯",
+    "fields": {
+      "重點": "偶見西山後熱切登山，與舊遊隨意不同。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[2].core",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d489c833ba0552dd",
+    "chapterId": "essay-08",
+    "category": "text",
+    "title": "第2段｜原文與語譯",
+    "fields": {
+      "原文": "今年九月二十八日，因坐法華西亭，望西山，始指異之。遂命僕人，過湘江，緣染溪，斫榛莽。焚茅茷，窮山之高而止。"
+    },
+    "context": "今年九月二十八日，因坐法華西亭，望西山，始指異之。遂命僕人，過湘江，緣染溪，斫榛莽。焚茅茷，窮山之高而止。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[2].blocks[0]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e08-exp-003",
+      "full-b-08-02-03-0",
+      "full-b-08-02-03-1",
+      "full-b-08-02-03-2",
+      "full-b-08-02-03-3",
+      "full-b-08-02-03-4",
+      "full-b-08-02-03-5",
+      "full-b-08-02-03-7",
+      "full-b-08-02-03-8",
+      "full-b-08-02-03-9",
+      "full-b-08-02-03-10",
+      "full-b-08-02-03-11",
+      "full-b-08-02-03-12",
+      "full-b-08-02-00-b",
+      "full-b-08-07-02-1",
+      "full-b-08-07-02-2",
+      "full-b-08-07-02-3",
+      "full-b-08-10-02-2",
+      "full-b-08-10-04-1",
+      "full-b-08-14-04-1",
+      "full-b-08-20-00-4",
+      "full-b-08-20-00-5",
+      "full-b-08-22-01-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0d50eb480d4bce6c",
+    "chapterId": "essay-08",
+    "category": "text",
+    "title": "第2段｜原文與語譯",
+    "fields": {
+      "語譯": "今年九月二十八日，因為坐在法華寺西亭，遠望西山，才指着它覺得奇異。於是命令僕人，渡過湘江，沿着染溪，砍掉叢雜的草木，燒去茂密的茅草，一直開路到山的最高處才停止。"
+    },
+    "context": "今年九月二十八日，因坐法華西亭，望西山，始指異之。遂命僕人，過湘江，緣染溪，斫榛莽。焚茅茷，窮山之高而止。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[2].blocks[2]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e08-exp-003",
+      "full-b-08-02-03-0",
+      "full-b-08-02-03-1",
+      "full-b-08-02-03-2",
+      "full-b-08-02-03-3",
+      "full-b-08-02-03-4",
+      "full-b-08-02-03-5",
+      "full-b-08-02-03-7",
+      "full-b-08-02-03-8",
+      "full-b-08-02-03-9",
+      "full-b-08-02-03-10",
+      "full-b-08-02-03-11",
+      "full-b-08-02-03-12",
+      "full-b-08-02-00-b",
+      "full-b-08-07-02-1",
+      "full-b-08-07-02-2",
+      "full-b-08-07-02-3",
+      "full-b-08-10-02-2",
+      "full-b-08-10-04-1",
+      "full-b-08-14-04-1",
+      "full-b-08-20-00-4",
+      "full-b-08-20-00-5",
+      "full-b-08-22-01-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-14d1d18fc73971c8",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "因",
+    "fields": {
+      "詞義": "因為、由於"
+    },
+    "context": "今年九月二十八日，因坐法華西亭，望西山，始指異之。遂命僕人，過湘江，緣染溪，斫榛莽。焚茅茷，窮山之高而止。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[2].blocks[3][1][0]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-02-03-0"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9c141c9542c675cd",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "始",
+    "fields": {
+      "詞義": "才"
+    },
+    "context": "今年九月二十八日，因坐法華西亭，望西山，始指異之。遂命僕人，過湘江，緣染溪，斫榛莽。焚茅茷，窮山之高而止。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[2].blocks[3][1][1]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-02-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8092ed55430ecd7b",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "異",
+    "fields": {
+      "詞義": "認為它奇異"
+    },
+    "context": "今年九月二十八日，因坐法華西亭，望西山，始指異之。遂命僕人，過湘江，緣染溪，斫榛莽。焚茅茷，窮山之高而止。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[2].blocks[3][1][2]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-02-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0f8f086eef21775e",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "之",
+    "fields": {
+      "詞義": "代西山"
+    },
+    "context": "今年九月二十八日，因坐法華西亭，望西山，始指異之。遂命僕人，過湘江，緣染溪，斫榛莽。焚茅茷，窮山之高而止。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[2].blocks[3][1][3]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-02-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5b1bbf7158040304",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "遂",
+    "fields": {
+      "詞義": "於是"
+    },
+    "context": "今年九月二十八日，因坐法華西亭，望西山，始指異之。遂命僕人，過湘江，緣染溪，斫榛莽。焚茅茷，窮山之高而止。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[2].blocks[3][1][4]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-02-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-716b6588e206f694",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "過",
+    "fields": {
+      "詞義": "渡過"
+    },
+    "context": "今年九月二十八日，因坐法華西亭，望西山，始指異之。遂命僕人，過湘江，緣染溪，斫榛莽。焚茅茷，窮山之高而止。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[2].blocks[3][1][5]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-02-03-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e894d5f81950c09b",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "緣",
+    "fields": {
+      "詞義": "沿着"
+    },
+    "context": "今年九月二十八日，因坐法華西亭，望西山，始指異之。遂命僕人，過湘江，緣染溪，斫榛莽。焚茅茷，窮山之高而止。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[2].blocks[3][1][6]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-41c0d467af4cadfb",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "斫",
+    "fields": {
+      "詞義": "砍伐"
+    },
+    "context": "今年九月二十八日，因坐法華西亭，望西山，始指異之。遂命僕人，過湘江，緣染溪，斫榛莽。焚茅茷，窮山之高而止。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[2].blocks[3][1][7]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-02-03-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-359623963f8a5891",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "榛莽",
+    "fields": {
+      "詞義": "叢雜的草木"
+    },
+    "context": "今年九月二十八日，因坐法華西亭，望西山，始指異之。遂命僕人，過湘江，緣染溪，斫榛莽。焚茅茷，窮山之高而止。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[2].blocks[3][1][8]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-02-03-8"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-23035389ce3b73d4",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "焚",
+    "fields": {
+      "詞義": "燒去"
+    },
+    "context": "今年九月二十八日，因坐法華西亭，望西山，始指異之。遂命僕人，過湘江，緣染溪，斫榛莽。焚茅茷，窮山之高而止。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[2].blocks[3][1][9]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-02-03-9"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b7a7cf613bc1510a",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "茅茷",
+    "fields": {
+      "詞義": "茂密的茅草"
+    },
+    "context": "今年九月二十八日，因坐法華西亭，望西山，始指異之。遂命僕人，過湘江，緣染溪，斫榛莽。焚茅茷，窮山之高而止。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[2].blocks[3][1][10]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-02-03-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9ecb807280f5f6a1",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "窮",
+    "fields": {
+      "詞義": "到達最高處"
+    },
+    "context": "今年九月二十八日，因坐法華西亭，望西山，始指異之。遂命僕人，過湘江，緣染溪，斫榛莽。焚茅茷，窮山之高而止。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[2].blocks[3][1][11]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-02-03-11"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8f6ec362134c95c3",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "之",
+    "fields": {
+      "詞義": "結構助詞，的"
+    },
+    "context": "今年九月二十八日，因坐法華西亭，望西山，始指異之。遂命僕人，過湘江，緣染溪，斫榛莽。焚茅茷，窮山之高而止。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[2].blocks[3][1][12]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-02-03-12"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-439de473a2d1e4f4",
+    "chapterId": "essay-08",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "過、緣、斫、焚、窮連接行動，寫目標明確、克服阻礙；登臨不易，側面顯西山幽僻。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[2].blocks[4]",
+        "section": "第2段｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[154].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[802].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[803].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[804].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[805].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[806].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[807].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[808].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[809].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[810].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[811].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[812].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[813].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[919].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1100].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1101].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1102].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1104].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1107].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1124].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1149].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e08-exp-003",
+      "full-b-08-02-03-0",
+      "full-b-08-02-03-1",
+      "full-b-08-02-03-2",
+      "full-b-08-02-03-3",
+      "full-b-08-02-03-4",
+      "full-b-08-02-03-5",
+      "full-b-08-02-03-7",
+      "full-b-08-02-03-8",
+      "full-b-08-02-03-9",
+      "full-b-08-02-03-10",
+      "full-b-08-02-03-11",
+      "full-b-08-02-03-12",
+      "full-b-08-02-00-b",
+      "full-b-08-07-02-1",
+      "full-b-08-07-02-2",
+      "full-b-08-07-02-3",
+      "full-b-08-10-02-2",
+      "full-b-08-10-04-1",
+      "full-b-08-14-04-1",
+      "full-b-08-22-01-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a77e3ab3d1846297",
+    "chapterId": "essay-08",
+    "category": "theme",
+    "title": "句段核心：第3段｜原文與語譯 1",
+    "fields": {
+      "重點": "山下景物渺小而四望如一，感到天地廣大、萬物相融。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[3].core",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-83f8cea621969855",
+    "chapterId": "essay-08",
+    "category": "text",
+    "title": "第3段｜原文與語譯 1",
+    "fields": {
+      "原文": "攀援而登，箕踞而遨，則凡數州之土壤，皆在衽席之下。其高下之勢，岈然洼然，若垤若穴，尺寸千里，攢蹙累積，莫得遯隱。"
+    },
+    "context": "攀援而登，箕踞而遨，則凡數州之土壤，皆在衽席之下。其高下之勢，岈然洼然，若垤若穴，尺寸千里，攢蹙累積，莫得遯隱。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[3].blocks[0]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "q-e08-exp-008",
+      "full-b-08-03-03-0",
+      "full-b-08-03-03-1",
+      "full-b-08-03-03-2",
+      "full-b-08-03-03-3",
+      "full-b-08-03-03-4",
+      "full-b-08-03-03-5",
+      "full-b-08-03-03-6",
+      "full-b-08-03-03-7",
+      "full-b-08-03-03-8",
+      "full-b-08-03-03-9",
+      "full-b-08-03-03-10",
+      "full-b-08-03-03-11",
+      "full-b-08-03-00-b",
+      "full-b-08-10-02-3",
+      "full-b-08-12-00-4",
+      "full-b-08-12-00-5",
+      "full-b-08-12-00-7",
+      "full-b-08-14-01-2",
+      "full-b-08-16-00-1",
+      "full-b-08-20-00-12",
+      "full-b-08-21-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b0e516a9379f6518",
+    "chapterId": "essay-08",
+    "category": "text",
+    "title": "第3段｜原文與語譯 1",
+    "fields": {
+      "語譯": "攀援登頂，伸開兩腿席地而坐，隨意遠望，附近數州的土地都在坐席之下。高低起伏的地勢，深邃低窪，像蟻穴外的小土堆、像洞穴；千里景物縮在眼前尺寸間，密集重疊，無處隱藏。"
+    },
+    "context": "攀援而登，箕踞而遨，則凡數州之土壤，皆在衽席之下。其高下之勢，岈然洼然，若垤若穴，尺寸千里，攢蹙累積，莫得遯隱。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[3].blocks[2]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "q-e08-exp-008",
+      "full-b-08-03-03-0",
+      "full-b-08-03-03-1",
+      "full-b-08-03-03-2",
+      "full-b-08-03-03-3",
+      "full-b-08-03-03-4",
+      "full-b-08-03-03-5",
+      "full-b-08-03-03-6",
+      "full-b-08-03-03-7",
+      "full-b-08-03-03-8",
+      "full-b-08-03-03-9",
+      "full-b-08-03-03-10",
+      "full-b-08-03-03-11",
+      "full-b-08-03-00-b",
+      "full-b-08-10-02-3",
+      "full-b-08-12-00-4",
+      "full-b-08-12-00-5",
+      "full-b-08-12-00-7",
+      "full-b-08-14-01-2",
+      "full-b-08-16-00-1",
+      "full-b-08-20-00-12",
+      "full-b-08-21-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-85a3943c947f2f06",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "攀援",
+    "fields": {
+      "詞義": "攀樹援石而登"
+    },
+    "context": "攀援而登，箕踞而遨，則凡數州之土壤，皆在衽席之下。其高下之勢，岈然洼然，若垤若穴，尺寸千里，攢蹙累積，莫得遯隱。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[3].blocks[3][1][0]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-03-03-0"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-37b7c1c6f2c40942",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "箕踞",
+    "fields": {
+      "詞義": "伸開兩腿，像簸箕般席地坐"
+    },
+    "context": "攀援而登，箕踞而遨，則凡數州之土壤，皆在衽席之下。其高下之勢，岈然洼然，若垤若穴，尺寸千里，攢蹙累積，莫得遯隱。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[3].blocks[3][1][1]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-03-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2b05fc6b3665c8ce",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "遨",
+    "fields": {
+      "詞義": "隨意遠望、觀賞"
+    },
+    "context": "攀援而登，箕踞而遨，則凡數州之土壤，皆在衽席之下。其高下之勢，岈然洼然，若垤若穴，尺寸千里，攢蹙累積，莫得遯隱。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[3].blocks[3][1][2]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-03-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e70a34b611675cd7",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "土壤",
+    "fields": {
+      "詞義": "土地"
+    },
+    "context": "攀援而登，箕踞而遨，則凡數州之土壤，皆在衽席之下。其高下之勢，岈然洼然，若垤若穴，尺寸千里，攢蹙累積，莫得遯隱。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[3].blocks[3][1][3]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-03-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f96de4b1528c5488",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "衽席",
+    "fields": {
+      "詞義": "坐席"
+    },
+    "context": "攀援而登，箕踞而遨，則凡數州之土壤，皆在衽席之下。其高下之勢，岈然洼然，若垤若穴，尺寸千里，攢蹙累積，莫得遯隱。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[3].blocks[3][1][4]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-03-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1f19ad5b26c7fc5b",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "勢",
+    "fields": {
+      "詞義": "地勢"
+    },
+    "context": "攀援而登，箕踞而遨，則凡數州之土壤，皆在衽席之下。其高下之勢，岈然洼然，若垤若穴，尺寸千里，攢蹙累積，莫得遯隱。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[3].blocks[3][1][5]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-03-03-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-da99ecd334d7ed9f",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "岈然洼然",
+    "fields": {
+      "詞義": "深邃、低窪的樣子"
+    },
+    "context": "攀援而登，箕踞而遨，則凡數州之土壤，皆在衽席之下。其高下之勢，岈然洼然，若垤若穴，尺寸千里，攢蹙累積，莫得遯隱。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[3].blocks[3][1][6]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-03-03-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-324970950ed02a7a",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "垤",
+    "fields": {
+      "詞義": "蟻穴外的小土堆"
+    },
+    "context": "攀援而登，箕踞而遨，則凡數州之土壤，皆在衽席之下。其高下之勢，岈然洼然，若垤若穴，尺寸千里，攢蹙累積，莫得遯隱。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[3].blocks[3][1][7]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-03-03-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-38bddc5522a7130c",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "穴",
+    "fields": {
+      "詞義": "洞穴"
+    },
+    "context": "攀援而登，箕踞而遨，則凡數州之土壤，皆在衽席之下。其高下之勢，岈然洼然，若垤若穴，尺寸千里，攢蹙累積，莫得遯隱。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[3].blocks[3][1][8]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-03-03-8"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1ac7953e5684cab7",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "尺寸千里",
+    "fields": {
+      "詞義": "千里景物縮在眼前尺寸間"
+    },
+    "context": "攀援而登，箕踞而遨，則凡數州之土壤，皆在衽席之下。其高下之勢，岈然洼然，若垤若穴，尺寸千里，攢蹙累積，莫得遯隱。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[3].blocks[3][1][9]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-03-03-9"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-295464fc17f86659",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "攢蹙累積",
+    "fields": {
+      "詞義": "密集簇聚、層層堆疊"
+    },
+    "context": "攀援而登，箕踞而遨，則凡數州之土壤，皆在衽席之下。其高下之勢，岈然洼然，若垤若穴，尺寸千里，攢蹙累積，莫得遯隱。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[3].blocks[3][1][10]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-03-03-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fc42d98c6f09dc11",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "遯隱",
+    "fields": {
+      "詞義": "隱藏；遯同遁"
+    },
+    "context": "攀援而登，箕踞而遨，則凡數州之土壤，皆在衽席之下。其高下之勢，岈然洼然，若垤若穴，尺寸千里，攢蹙累積，莫得遯隱。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[3].blocks[3][1][11]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-03-03-11"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7214f2743e3d8f28",
+    "chapterId": "essay-08",
+    "category": "theme",
+    "title": "句段核心：第3段｜原文與語譯 2",
+    "fields": {
+      "重點": "山下景物渺小而四望如一，感到天地廣大、萬物相融。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[4].core",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-801941ffe6dbd651",
+    "chapterId": "essay-08",
+    "category": "text",
+    "title": "第3段｜原文與語譯 2",
+    "fields": {
+      "原文": "縈青繚白，外與天際，四望如一。然後知是山之特立，不與培塿為類。悠悠乎與顥氣俱，而莫得其涯；洋洋乎與造物者遊，而不知其所窮。"
+    },
+    "context": "縈青繚白，外與天際，四望如一。然後知是山之特立，不與培塿為類。悠悠乎與顥氣俱，而莫得其涯；洋洋乎與造物者遊，而不知其所窮。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[4].blocks[0]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "q-appendix-007",
+      "full-b-08-04-03-0",
+      "full-b-08-04-03-1",
+      "full-b-08-04-03-2",
+      "full-b-08-04-03-3",
+      "full-b-08-04-03-4",
+      "full-b-08-04-03-5",
+      "full-b-08-04-03-6",
+      "full-b-08-04-03-7",
+      "full-b-08-04-03-8",
+      "full-b-08-04-03-9",
+      "full-b-08-04-03-10",
+      "full-b-08-04-03-11",
+      "full-b-08-04-03-12",
+      "full-b-08-04-00-b",
+      "full-b-08-10-02-3",
+      "full-b-08-11-00-2",
+      "full-b-08-12-00-6",
+      "full-b-08-12-00-9",
+      "full-b-08-14-01-1",
+      "full-b-08-14-04-2",
+      "full-b-08-16-00-2",
+      "full-b-08-16-00-3",
+      "full-b-08-18-01-3",
+      "full-b-08-20-00-5",
+      "full-b-08-20-00-6",
+      "full-b-08-21-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-56aae9a217c8929b",
+    "chapterId": "essay-08",
+    "category": "text",
+    "title": "第3段｜原文與語譯 2",
+    "fields": {
+      "語譯": "青山白水縈繞，遠與天接，四望渾然一體。這才知道西山卓絕獨立，與小丘不同類。心神悠遠，彷彿與天地元氣同在，不知其邊際；廣大無盡，彷彿與大自然同遊，不知其盡頭。"
+    },
+    "context": "縈青繚白，外與天際，四望如一。然後知是山之特立，不與培塿為類。悠悠乎與顥氣俱，而莫得其涯；洋洋乎與造物者遊，而不知其所窮。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[4].blocks[2]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "q-appendix-007",
+      "full-b-08-04-03-0",
+      "full-b-08-04-03-1",
+      "full-b-08-04-03-2",
+      "full-b-08-04-03-3",
+      "full-b-08-04-03-4",
+      "full-b-08-04-03-5",
+      "full-b-08-04-03-6",
+      "full-b-08-04-03-7",
+      "full-b-08-04-03-8",
+      "full-b-08-04-03-9",
+      "full-b-08-04-03-10",
+      "full-b-08-04-03-11",
+      "full-b-08-04-03-12",
+      "full-b-08-04-00-b",
+      "full-b-08-10-02-3",
+      "full-b-08-11-00-2",
+      "full-b-08-12-00-6",
+      "full-b-08-12-00-9",
+      "full-b-08-14-01-1",
+      "full-b-08-14-04-2",
+      "full-b-08-16-00-2",
+      "full-b-08-16-00-3",
+      "full-b-08-18-01-3",
+      "full-b-08-20-00-5",
+      "full-b-08-20-00-6",
+      "full-b-08-21-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0ca007e3afba4d7f",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "縈",
+    "fields": {
+      "詞義": "纏繞"
+    },
+    "context": "縈青繚白，外與天際，四望如一。然後知是山之特立，不與培塿為類。悠悠乎與顥氣俱，而莫得其涯；洋洋乎與造物者遊，而不知其所窮。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[4].blocks[3][1][0]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-04-03-0"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a885ea342fa400dd",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "繚",
+    "fields": {
+      "詞義": "纏繞"
+    },
+    "context": "縈青繚白，外與天際，四望如一。然後知是山之特立，不與培塿為類。悠悠乎與顥氣俱，而莫得其涯；洋洋乎與造物者遊，而不知其所窮。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[4].blocks[3][1][1]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-04-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fbb3849d86730b24",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "際",
+    "fields": {
+      "詞義": "交接、相連"
+    },
+    "context": "縈青繚白，外與天際，四望如一。然後知是山之特立，不與培塿為類。悠悠乎與顥氣俱，而莫得其涯；洋洋乎與造物者遊，而不知其所窮。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[4].blocks[3][1][2]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-04-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-59d47d1a4ec148a9",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "四望如一",
+    "fields": {
+      "詞義": "四周景物渾然一體"
+    },
+    "context": "縈青繚白，外與天際，四望如一。然後知是山之特立，不與培塿為類。悠悠乎與顥氣俱，而莫得其涯；洋洋乎與造物者遊，而不知其所窮。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[4].blocks[3][1][3]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-04-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c03e2a3fbfca7098",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "特立",
+    "fields": {
+      "詞義": "卓絕獨立"
+    },
+    "context": "縈青繚白，外與天際，四望如一。然後知是山之特立，不與培塿為類。悠悠乎與顥氣俱，而莫得其涯；洋洋乎與造物者遊，而不知其所窮。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[4].blocks[3][1][4]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-04-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1fcfa10dd61c8e2c",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "培塿",
+    "fields": {
+      "詞義": "小山丘"
+    },
+    "context": "縈青繚白，外與天際，四望如一。然後知是山之特立，不與培塿為類。悠悠乎與顥氣俱，而莫得其涯；洋洋乎與造物者遊，而不知其所窮。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[4].blocks[3][1][5]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-04-03-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-51980ee0a24a0e38",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "悠悠",
+    "fields": {
+      "詞義": "渺遠無盡"
+    },
+    "context": "縈青繚白，外與天際，四望如一。然後知是山之特立，不與培塿為類。悠悠乎與顥氣俱，而莫得其涯；洋洋乎與造物者遊，而不知其所窮。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[4].blocks[3][1][6]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-04-03-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4036cdbdd91739c9",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "顥氣",
+    "fields": {
+      "詞義": "天地元氣；顥通昊"
+    },
+    "context": "縈青繚白，外與天際，四望如一。然後知是山之特立，不與培塿為類。悠悠乎與顥氣俱，而莫得其涯；洋洋乎與造物者遊，而不知其所窮。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[4].blocks[3][1][7]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-04-03-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-529abcf60e84e9cb",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "俱",
+    "fields": {
+      "詞義": "一同存在"
+    },
+    "context": "縈青繚白，外與天際，四望如一。然後知是山之特立，不與培塿為類。悠悠乎與顥氣俱，而莫得其涯；洋洋乎與造物者遊，而不知其所窮。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[4].blocks[3][1][8]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-04-03-8"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-14839ebeb20eccbf",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "涯",
+    "fields": {
+      "詞義": "邊際"
+    },
+    "context": "縈青繚白，外與天際，四望如一。然後知是山之特立，不與培塿為類。悠悠乎與顥氣俱，而莫得其涯；洋洋乎與造物者遊，而不知其所窮。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[4].blocks[3][1][9]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-04-03-9"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7a6c06add9eca449",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "洋洋",
+    "fields": {
+      "詞義": "廣大無盡"
+    },
+    "context": "縈青繚白，外與天際，四望如一。然後知是山之特立，不與培塿為類。悠悠乎與顥氣俱，而莫得其涯；洋洋乎與造物者遊，而不知其所窮。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[4].blocks[3][1][10]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-04-03-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-acc8d25395962bf3",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "造物者",
+    "fields": {
+      "詞義": "大自然"
+    },
+    "context": "縈青繚白，外與天際，四望如一。然後知是山之特立，不與培塿為類。悠悠乎與顥氣俱，而莫得其涯；洋洋乎與造物者遊，而不知其所窮。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[4].blocks[3][1][11]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-04-03-11"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3d0a3b7fd4c374de",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "所窮",
+    "fields": {
+      "詞義": "盡頭、盡期"
+    },
+    "context": "縈青繚白，外與天際，四望如一。然後知是山之特立，不與培塿為類。悠悠乎與顥氣俱，而莫得其涯；洋洋乎與造物者遊，而不知其所窮。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[4].blocks[3][1][12]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-04-03-12"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-591f3ccdfcb3512c",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "語譯",
+    "fields": {
+      "內容": "「若垤若穴」既有比喻，又以周景之小反襯西山之高。「特立」可寄託不與世俗同流的志向。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[4].blocks[4]",
+        "section": "第3段｜原文與語譯 2"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[214].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[826].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[827].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[828].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[829].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[830].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[831].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[832].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[833].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[834].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[835].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[836].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[837].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[838].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[921].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1105].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1111].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1118].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1121].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1125].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1127].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1135].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1147].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-appendix-007",
+      "full-b-08-04-03-0",
+      "full-b-08-04-03-1",
+      "full-b-08-04-03-2",
+      "full-b-08-04-03-3",
+      "full-b-08-04-03-4",
+      "full-b-08-04-03-5",
+      "full-b-08-04-03-6",
+      "full-b-08-04-03-7",
+      "full-b-08-04-03-8",
+      "full-b-08-04-03-9",
+      "full-b-08-04-03-10",
+      "full-b-08-04-03-11",
+      "full-b-08-04-03-12",
+      "full-b-08-04-00-b",
+      "full-b-08-10-02-3",
+      "full-b-08-11-00-2",
+      "full-b-08-12-00-6",
+      "full-b-08-12-00-9",
+      "full-b-08-14-04-2",
+      "full-b-08-16-00-2",
+      "full-b-08-20-00-6",
+      "full-b-08-21-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-59396266dd34568a",
+    "chapterId": "essay-08",
+    "category": "theme",
+    "title": "句段核心：第4段｜原文與語譯",
+    "fields": {
+      "重點": "至暮仍不願歸，心神安定，領悟真遊從此開始。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[5].core",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-dd3c9d808e82a24c",
+    "chapterId": "essay-08",
+    "category": "text",
+    "title": "第4段｜原文與語譯",
+    "fields": {
+      "原文": "引觴滿酌，頹然就醉，不知日之入。蒼然暮色，自遠而至，至無所見，而猶不欲歸。心凝形釋，與萬化冥合。然後知吾嚮之未始遊，遊於是乎始，故為之文以志。是歲元和四年也。"
+    },
+    "context": "引觴滿酌，頹然就醉，不知日之入。蒼然暮色，自遠而至，至無所見，而猶不欲歸。心凝形釋，與萬化冥合。然後知吾嚮之未始遊，遊於是乎始，故為之文以志。是歲元和四年也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[5].blocks[0]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e08-exp-004",
+      "q-e08-exp-005",
+      "q-e08-exp-006",
+      "q-e08-exp-007",
+      "full-b-08-05-03-0",
+      "full-b-08-05-03-1",
+      "full-b-08-05-03-2",
+      "full-b-08-05-03-3",
+      "full-b-08-05-03-4",
+      "full-b-08-05-03-5",
+      "full-b-08-05-03-6",
+      "full-b-08-05-03-7",
+      "full-b-08-05-03-8",
+      "full-b-08-05-03-9",
+      "full-b-08-05-03-10",
+      "full-b-08-05-03-11",
+      "full-b-08-05-03-13",
+      "full-b-08-05-03-14",
+      "full-b-08-05-03-15",
+      "full-b-08-05-00-b",
+      "full-b-08-10-02-4",
+      "full-b-08-10-04-2",
+      "full-b-08-10-04-3",
+      "full-b-08-11-00-3",
+      "full-b-08-12-00-8",
+      "full-b-08-16-00-3",
+      "full-b-08-18-01-1",
+      "full-b-08-18-01-2",
+      "full-b-08-21-01-3",
+      "full-b-08-21-01-4",
+      "full-b-08-22-01-3",
+      "full-b-08-22-01-4",
+      "full-b-08-22-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fe2b48e14c9c58b0",
+    "chapterId": "essay-08",
+    "category": "text",
+    "title": "第4段｜原文與語譯",
+    "fields": {
+      "語譯": "舉起酒杯斟滿酒，東歪西倒，將要醉了，竟不知道太陽已落山。蒼茫暮色從遠處而來，直至甚麼也看不見，我仍不想回去。心神凝聚安定，形體的束縛彷彿解開，與自然萬物暗合為一體。這才知道我從前不算真正遊覽過，真正的遊覽從這次才開始，所以寫下這篇文章記述此事。這一年是元和四年。"
+    },
+    "context": "引觴滿酌，頹然就醉，不知日之入。蒼然暮色，自遠而至，至無所見，而猶不欲歸。心凝形釋，與萬化冥合。然後知吾嚮之未始遊，遊於是乎始，故為之文以志。是歲元和四年也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[5].blocks[2]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e08-exp-004",
+      "q-e08-exp-005",
+      "q-e08-exp-006",
+      "q-e08-exp-007",
+      "full-b-08-05-03-0",
+      "full-b-08-05-03-1",
+      "full-b-08-05-03-2",
+      "full-b-08-05-03-3",
+      "full-b-08-05-03-4",
+      "full-b-08-05-03-5",
+      "full-b-08-05-03-6",
+      "full-b-08-05-03-7",
+      "full-b-08-05-03-8",
+      "full-b-08-05-03-9",
+      "full-b-08-05-03-10",
+      "full-b-08-05-03-11",
+      "full-b-08-05-03-13",
+      "full-b-08-05-03-14",
+      "full-b-08-05-03-15",
+      "full-b-08-05-00-b",
+      "full-b-08-10-02-4",
+      "full-b-08-10-04-2",
+      "full-b-08-10-04-3",
+      "full-b-08-11-00-3",
+      "full-b-08-12-00-8",
+      "full-b-08-16-00-3",
+      "full-b-08-18-01-1",
+      "full-b-08-18-01-2",
+      "full-b-08-21-01-3",
+      "full-b-08-21-01-4",
+      "full-b-08-22-01-3",
+      "full-b-08-22-01-4",
+      "full-b-08-22-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7aebab8bb9404523",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "引",
+    "fields": {
+      "詞義": "舉起"
+    },
+    "context": "引觴滿酌，頹然就醉，不知日之入。蒼然暮色，自遠而至，至無所見，而猶不欲歸。心凝形釋，與萬化冥合。然後知吾嚮之未始遊，遊於是乎始，故為之文以志。是歲元和四年也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[5].blocks[3][1][0]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-05-03-0"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c0e64b406bab0800",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "觴",
+    "fields": {
+      "詞義": "酒杯"
+    },
+    "context": "引觴滿酌，頹然就醉，不知日之入。蒼然暮色，自遠而至，至無所見，而猶不欲歸。心凝形釋，與萬化冥合。然後知吾嚮之未始遊，遊於是乎始，故為之文以志。是歲元和四年也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[5].blocks[3][1][1]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-05-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-12486ccfe5a2c514",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "酌",
+    "fields": {
+      "詞義": "斟酒"
+    },
+    "context": "引觴滿酌，頹然就醉，不知日之入。蒼然暮色，自遠而至，至無所見，而猶不欲歸。心凝形釋，與萬化冥合。然後知吾嚮之未始遊，遊於是乎始，故為之文以志。是歲元和四年也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[5].blocks[3][1][2]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-05-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-765095d6aab7df9d",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "頹然",
+    "fields": {
+      "詞義": "東歪西倒的樣子"
+    },
+    "context": "引觴滿酌，頹然就醉，不知日之入。蒼然暮色，自遠而至，至無所見，而猶不欲歸。心凝形釋，與萬化冥合。然後知吾嚮之未始遊，遊於是乎始，故為之文以志。是歲元和四年也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[5].blocks[3][1][3]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-05-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0c0dfd8ef8097ced",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "就",
+    "fields": {
+      "詞義": "接近"
+    },
+    "context": "引觴滿酌，頹然就醉，不知日之入。蒼然暮色，自遠而至，至無所見，而猶不欲歸。心凝形釋，與萬化冥合。然後知吾嚮之未始遊，遊於是乎始，故為之文以志。是歲元和四年也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[5].blocks[3][1][4]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-05-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-30791805ff0f43b4",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "入",
+    "fields": {
+      "詞義": "落下"
+    },
+    "context": "引觴滿酌，頹然就醉，不知日之入。蒼然暮色，自遠而至，至無所見，而猶不欲歸。心凝形釋，與萬化冥合。然後知吾嚮之未始遊，遊於是乎始，故為之文以志。是歲元和四年也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[5].blocks[3][1][5]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-05-03-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e2ceb35044479e2d",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "蒼然",
+    "fields": {
+      "詞義": "暮色深沉蒼茫"
+    },
+    "context": "引觴滿酌，頹然就醉，不知日之入。蒼然暮色，自遠而至，至無所見，而猶不欲歸。心凝形釋，與萬化冥合。然後知吾嚮之未始遊，遊於是乎始，故為之文以志。是歲元和四年也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[5].blocks[3][1][6]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-05-03-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-dde9f5aeef5244a2",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "猶",
+    "fields": {
+      "詞義": "還、仍然"
+    },
+    "context": "引觴滿酌，頹然就醉，不知日之入。蒼然暮色，自遠而至，至無所見，而猶不欲歸。心凝形釋，與萬化冥合。然後知吾嚮之未始遊，遊於是乎始，故為之文以志。是歲元和四年也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[5].blocks[3][1][7]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-05-03-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-68b93627ef97f031",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "心凝",
+    "fields": {
+      "詞義": "心神凝聚安定"
+    },
+    "context": "引觴滿酌，頹然就醉，不知日之入。蒼然暮色，自遠而至，至無所見，而猶不欲歸。心凝形釋，與萬化冥合。然後知吾嚮之未始遊，遊於是乎始，故為之文以志。是歲元和四年也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[5].blocks[3][1][8]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-05-03-8"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-da0099bb51971362",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "形釋",
+    "fields": {
+      "詞義": "形體束縛彷彿解開"
+    },
+    "context": "引觴滿酌，頹然就醉，不知日之入。蒼然暮色，自遠而至，至無所見，而猶不欲歸。心凝形釋，與萬化冥合。然後知吾嚮之未始遊，遊於是乎始，故為之文以志。是歲元和四年也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[5].blocks[3][1][9]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-05-03-9"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-16eabfcedef44bbb",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "萬化",
+    "fields": {
+      "詞義": "自然萬物及其變化"
+    },
+    "context": "引觴滿酌，頹然就醉，不知日之入。蒼然暮色，自遠而至，至無所見，而猶不欲歸。心凝形釋，與萬化冥合。然後知吾嚮之未始遊，遊於是乎始，故為之文以志。是歲元和四年也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[5].blocks[3][1][10]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-05-03-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bb5a143ec513c0ea",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "冥合",
+    "fields": {
+      "詞義": "暗合、融為一體"
+    },
+    "context": "引觴滿酌，頹然就醉，不知日之入。蒼然暮色，自遠而至，至無所見，而猶不欲歸。心凝形釋，與萬化冥合。然後知吾嚮之未始遊，遊於是乎始，故為之文以志。是歲元和四年也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[5].blocks[3][1][11]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-05-03-11"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4e25da062ae2b03e",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "嚮",
+    "fields": {
+      "詞義": "從前、過往"
+    },
+    "context": "引觴滿酌，頹然就醉，不知日之入。蒼然暮色，自遠而至，至無所見，而猶不欲歸。心凝形釋，與萬化冥合。然後知吾嚮之未始遊，遊於是乎始，故為之文以志。是歲元和四年也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[5].blocks[3][1][12]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b62847be6acccbc7",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "未始",
+    "fields": {
+      "詞義": "未曾"
+    },
+    "context": "引觴滿酌，頹然就醉，不知日之入。蒼然暮色，自遠而至，至無所見，而猶不欲歸。心凝形釋，與萬化冥合。然後知吾嚮之未始遊，遊於是乎始，故為之文以志。是歲元和四年也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[5].blocks[3][1][13]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-05-03-13"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3e006173f5819eb4",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "於是",
+    "fields": {
+      "詞義": "從這次"
+    },
+    "context": "引觴滿酌，頹然就醉，不知日之入。蒼然暮色，自遠而至，至無所見，而猶不欲歸。心凝形釋，與萬化冥合。然後知吾嚮之未始遊，遊於是乎始，故為之文以志。是歲元和四年也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[5].blocks[3][1][14]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-05-03-14"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6456e7f3c7c51e52",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "始",
+    "fields": {
+      "詞義": "開始"
+    },
+    "context": "引觴滿酌，頹然就醉，不知日之入。蒼然暮色，自遠而至，至無所見，而猶不欲歸。心凝形釋，與萬化冥合。然後知吾嚮之未始遊，遊於是乎始，故為之文以志。是歲元和四年也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[5].blocks[3][1][15]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-05-03-15"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-52e07ca04ffefc03",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "志",
+    "fields": {
+      "詞義": "記述、記錄"
+    },
+    "context": "引觴滿酌，頹然就醉，不知日之入。蒼然暮色，自遠而至，至無所見，而猶不欲歸。心凝形釋，與萬化冥合。然後知吾嚮之未始遊，遊於是乎始，故為之文以志。是歲元和四年也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[5].blocks[3][1][16]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d920bbb6d2166a20",
+    "chapterId": "essay-08",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "「形釋」是形體束縛彷彿解開，不是身體消失。末段沒有睡醒才知天黑的情節。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[5].blocks[4]",
+        "section": "第4段｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[155].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[156].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[157].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[158].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[839].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[840].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[841].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[842].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[843].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[844].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[845].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[846].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[847].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[848].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[849].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[850].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[851].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[852].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[853].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[922].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1106].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1108].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1109].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1112].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1120].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1141].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1142].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1150].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1151].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1153].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e08-exp-004",
+      "q-e08-exp-005",
+      "q-e08-exp-006",
+      "q-e08-exp-007",
+      "full-b-08-05-03-0",
+      "full-b-08-05-03-1",
+      "full-b-08-05-03-2",
+      "full-b-08-05-03-3",
+      "full-b-08-05-03-4",
+      "full-b-08-05-03-5",
+      "full-b-08-05-03-6",
+      "full-b-08-05-03-7",
+      "full-b-08-05-03-8",
+      "full-b-08-05-03-9",
+      "full-b-08-05-03-10",
+      "full-b-08-05-03-11",
+      "full-b-08-05-03-13",
+      "full-b-08-05-03-14",
+      "full-b-08-05-03-15",
+      "full-b-08-05-00-b",
+      "full-b-08-10-02-4",
+      "full-b-08-10-04-2",
+      "full-b-08-10-04-3",
+      "full-b-08-11-00-3",
+      "full-b-08-12-00-8",
+      "full-b-08-21-01-3",
+      "full-b-08-21-01-4",
+      "full-b-08-22-01-3",
+      "full-b-08-22-01-4",
+      "full-b-08-22-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a9f0744306ddae80",
+    "chapterId": "essay-08",
+    "category": "theme",
+    "title": "旁批",
+    "fields": {
+      "內容": "「施施」「漫漫」寫外在遊態；內心仍因被貶而憂懼。到、醉、臥、起、歸反覆相接，呈現日常漫遊。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[6].blocks[1]",
+        "section": "舊遊：恒惴慄"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-afbbadd8d72456b5",
+    "chapterId": "essay-08",
+    "category": "exam",
+    "title": "歷年考查提示",
+    "fields": {
+      "內容": "<b>2024</b>\n試解釋以下文句中的粗體字，並把答案寫在橫線上。\n\n自余為僇人，居<b>是</b>州，恒惴慄。\n是：此、這個。\n\n<b>2019</b>\n駢散交錯"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[6].blocks[3]",
+        "section": "舊遊：恒惴慄"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e24b70f1cf21871a",
+    "chapterId": "essay-08",
+    "category": "theme",
+    "title": "遊蹤",
+    "fields": {
+      "內容": "法華西亭遠望 → 過湘江 → 緣染溪 → 斫榛莽 → 焚茅茷 → 登頂"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[7].blocks[1]",
+        "section": "發現西山：始指異之"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e1b97de740ceb127",
+    "chapterId": "essay-08",
+    "category": "theme",
+    "title": "渡江、沿溪、斫木、焚草",
+    "fields": {
+      "所表現的特點": "西山幽僻，登臨不易。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[7].blocks[2][1][1]",
+        "section": "發現西山：始指異之"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-07-02-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-85eda46d2bfd1c29",
+    "chapterId": "essay-08",
+    "category": "theme",
+    "title": "窮山之高而止",
+    "fields": {
+      "所表現的特點": "不畏阻礙、堅持登頂，表現探勝的熱切。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[7].blocks[2][1][2]",
+        "section": "發現西山：始指異之"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-07-02-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-eb22fe3d10ed941b",
+    "chapterId": "essay-08",
+    "category": "theme",
+    "title": "連續動詞配合短句",
+    "fields": {
+      "所表現的特點": "動作緊接，節奏明快，突出登山的急切。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[7].blocks[2][1][3]",
+        "section": "發現西山：始指異之"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-07-02-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-71ea4375bd0f56ba",
+    "chapterId": "essay-08",
+    "category": "theme",
+    "title": "旁批",
+    "fields": {
+      "內容": "舊遊「施施、漫漫」：隨意而行。西山「遂命、斫、焚、窮」：目標明確、熱切探尋。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[7].blocks[4]",
+        "section": "發現西山：始指異之"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0b3109e64baebc4c",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "旁批",
+    "fields": {
+      "內容": "山下景物渺小 → 反襯西山高峻。「特立、不與培塿為類」又寄寓高潔自持、不與世俗同流的志向。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[8].blocks[1]",
+        "section": "西山之巔：高峻特立"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ee953ecf061cd0f0",
+    "chapterId": "essay-08",
+    "category": "exam",
+    "title": "歷年考查提示",
+    "fields": {
+      "內容": "<b>2019</b>\n所見景物的特點"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[8].blocks[3]",
+        "section": "西山之巔：高峻特立"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-33d35030a4926e55",
+    "chapterId": "essay-08",
+    "category": "theme",
+    "title": "「始得」的深意",
+    "fields": {
+      "內容": "初次發現西山 → 領略山水真趣 → 放下榮辱執著 → 獲得精神解放"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[9].blocks[1]",
+        "section": "宴遊所得：心凝形釋"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7f02ea8f73273f7f",
+    "chapterId": "essay-08",
+    "category": "theme",
+    "title": "旁批",
+    "fields": {
+      "內容": "「未始遊」指以往未領悟真正遊覽的意義，並非從未出遊。「心凝形釋」是精神上的忘我與超脫，不是肉身消失。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[9].blocks[3]",
+        "section": "宴遊所得：心凝形釋"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e911c2abe7a696b2",
+    "chapterId": "essay-08",
+    "category": "exam",
+    "title": "歷年考查提示",
+    "fields": {
+      "內容": "<b>2023</b>\n試解釋以下文句中的粗體字，並把答案寫在橫線上。\n\n然後知吾<b>嚮</b>之未始遊，遊於是乎始……\n嚮：從前。\n\n<b>2025</b>\n試解釋以下文句中的粗體字，並把答案寫在橫線上。\n\n然後知吾嚮之未始遊，遊於是乎始，故為之文以<b>志</b>。\n志：記錄。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[9].blocks[5]",
+        "section": "宴遊所得：心凝形釋"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a9d671b28df787a2",
+    "chapterId": "essay-08",
+    "category": "structure",
+    "title": "主旨與篇章結構",
+    "fields": {
+      "內容": "柳宗元藉西山宴遊，寫出由被貶後的憂懼到物我相融、精神解放的轉變，並以西山的卓立寄託高潔自持、不與世俗同流的志向。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[10].blocks[0]",
+        "section": "主旨與篇章結構（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-21506725164f0f6a",
+    "chapterId": "essay-08",
+    "category": "structure",
+    "title": "主旨與篇章結構",
+    "fields": {
+      "內容": "柳宗元，字子厚，唐代古文運動倡導者。永貞革新失敗後被貶永州。本文作於元和四年（809），為《永州八記》首篇；體裁為山水遊記。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[10].blocks[1]",
+        "section": "主旨與篇章結構（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b52e3c05741907cd",
+    "chapterId": "essay-08",
+    "category": "structure",
+    "title": "舊遊",
+    "fields": {
+      "原文起訖": "自余為僇人……未始知西山之怪特",
+      "作用": "交代被貶處境及日常漫遊，襯托西山新遊。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[10].blocks[2][1][1]",
+        "section": "主旨與篇章結構（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-10-02-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fcd1a2fd5ce76fd5",
+    "chapterId": "essay-08",
+    "category": "structure",
+    "title": "發現",
+    "fields": {
+      "原文起訖": "今年九月二十八日……窮山之高而止",
+      "作用": "偶見西山，熱切開路，引出登頂觀景。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[10].blocks[2][1][2]",
+        "section": "主旨與篇章結構（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-10-02-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f0f9d0256ad5fd2d",
+    "chapterId": "essay-08",
+    "category": "structure",
+    "title": "登頂",
+    "fields": {
+      "原文起訖": "攀援而登……不知其所窮",
+      "作用": "描寫山景高遠，感到與天地同遊。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[10].blocks[2][1][3]",
+        "section": "主旨與篇章結構（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-10-02-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cd9c612bb9ba0866",
+    "chapterId": "essay-08",
+    "category": "structure",
+    "title": "宴遊所得",
+    "fields": {
+      "原文起訖": "引觴滿酌……是歲元和四年也",
+      "作用": "宴飲忘返、物我相融，點明真遊之始。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[10].blocks[2][1][4]",
+        "section": "主旨與篇章結構（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-10-02-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f588967ea17c7e34",
+    "chapterId": "essay-08",
+    "category": "structure",
+    "title": "情態",
+    "fields": {
+      "以往遊覽": "施施而行、漫漫而遊；隨意漫遊。",
+      "西山宴遊": "始指異之，斫莽焚茅；熱切探勝。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[10].blocks[4][1][1]",
+        "section": "主旨與篇章結構（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-10-04-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9942b97256ebc8aa",
+    "chapterId": "essay-08",
+    "category": "structure",
+    "title": "飲酒",
+    "fields": {
+      "以往遊覽": "傾壺而醉，醉臥做夢；醒即歸。",
+      "西山宴遊": "引觴滿酌；不知日落，天黑仍不歸。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[10].blocks[4][1][2]",
+        "section": "主旨與篇章結構（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-10-04-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2219ec40af44166a",
+    "chapterId": "essay-08",
+    "category": "structure",
+    "title": "心境",
+    "fields": {
+      "以往遊覽": "恒惴慄；以漫遊及酒醉排遣鬱悶。",
+      "西山宴遊": "心凝形釋；與萬物相融，平靜超脫。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[10].blocks[4][1][3]",
+        "section": "主旨與篇章結構（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-10-04-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-013c350535bf397b",
+    "chapterId": "essay-08",
+    "category": "structure",
+    "title": "承上啟下",
+    "fields": {
+      "原句": "以為……皆我有也；而未始知西山之怪特。",
+      "作用": "總結舊遊，轉出意料之外的新發現。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[11].blocks[0][1][1]",
+        "section": "結構呼應：兩次「知」怎樣深化「始得」"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-11-00-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-eed0b5d2e5bbe0da",
+    "chapterId": "essay-08",
+    "category": "structure",
+    "title": "認識山",
+    "fields": {
+      "原句": "然後知是山之特立，不與培塿為類。",
+      "作用": "從登頂所見，認識西山的獨特。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[11].blocks[0][1][2]",
+        "section": "結構呼應：兩次「知」怎樣深化「始得」"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-11-00-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3da6e6ebda5ec5be",
+    "chapterId": "essay-08",
+    "category": "structure",
+    "title": "認識遊",
+    "fields": {
+      "原句": "然後知吾嚮之未始遊，遊於是乎始。",
+      "作用": "由景物認識深入遊賞體悟，點明精神所得。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[11].blocks[0][1][3]",
+        "section": "結構呼應：兩次「知」怎樣深化「始得」"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-11-00-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-818f295f1e5f37b4",
+    "chapterId": "essay-08",
+    "category": "structure",
+    "title": "結構呼應：兩次「知」怎樣深化「始得」",
+    "fields": {
+      "內容": "篇題的「始得」兼指初見西山與始悟真遊；「宴」指飲酒，「遊」指登山觀景，「記」指作文記述。全文原有兩個自然段，這裏按內容分四部分，兩者不是同一層級。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[11].blocks[1]",
+        "section": "結構呼應：兩次「知」怎樣深化「始得」"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1d4a686b0d8a499a",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "對偶",
+    "fields": {
+      "原文例子": "施施而行，漫漫而遊。",
+      "表達作用": "句式整齊、節奏和諧，寫隨意緩行的遊態；聯繫「恒惴慄」，可見藉遊排遣而憂懼未解。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[12].blocks[0][1][1]",
+        "section": "修辭與寫作手法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-12-00-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7330a979b996e4b4",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "排比",
+    "fields": {
+      "原文例子": "上高山，入深林，窮迴溪。",
+      "表達作用": "連列遊覽活動，突出足跡遍及各處。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[12].blocks[0][1][2]",
+        "section": "修辭與寫作手法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-12-00-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8bf1ba4e95b7bd93",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "頂真",
+    "fields": {
+      "原文例子": "「傾壺而醉。醉則更相枕以臥，臥而夢」；「覺而起，起而歸」。",
+      "表達作用": "前句末字接後句開首，把醉、臥、夢、覺、起、歸連成循環，文氣緊接；舊遊的心境見前後對比。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[12].blocks[0][1][3]",
+        "section": "修辭與寫作手法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-12-00-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4f3d020191b08ec2",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "明喻",
+    "fields": {
+      "原文例子": "若垤若穴。",
+      "表達作用": "將俯視地形比作小土堆和洞穴，突出山下景物渺小。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[12].blocks[0][1][4]",
+        "section": "修辭與寫作手法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-12-00-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c4249b9af4b1257d",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "誇飾",
+    "fields": {
+      "原文例子": "尺寸千里。",
+      "表達作用": "極言千里景物盡收眼底，突出山高、視野遼闊。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[12].blocks[0][1][5]",
+        "section": "修辭與寫作手法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-12-00-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c193eabca58103db",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "借代",
+    "fields": {
+      "原文例子": "縈青繚白。",
+      "表達作用": "青代青山、白代白水；以色代物，凝練地呈現山水交纏。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[12].blocks[0][1][6]",
+        "section": "修辭與寫作手法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-12-00-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1cd0c694241a71cc",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "側面描寫／反襯",
+    "fields": {
+      "原文例子": "凡數州之土壤，皆在衽席之下。",
+      "表達作用": "以山下群山、窪地的低小，側面突出西山高峻。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[12].blocks[0][1][7]",
+        "section": "修辭與寫作手法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-12-00-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-540dd353d79a3418",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "借景抒情",
+    "fields": {
+      "原文例子": "蒼然暮色……而猶不欲歸。",
+      "表達作用": "暮色漸深仍不願歸，表現對宴遊所得的留戀。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[12].blocks[0][1][8]",
+        "section": "修辭與寫作手法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-12-00-8"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-92fec25e3842f8be",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "托物言志／自況",
+    "fields": {
+      "原文例子": "是山之特立，不與培塿為類。",
+      "表達作用": "以西山卓立比況自己，寄託高潔、不隨俗的志向。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[12].blocks[0][1][9]",
+        "section": "修辭與寫作手法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-12-00-9"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-eb3419bd5032a5ae",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "駢散交錯：整齊與靈活並存",
+    "fields": {
+      "內容": "「施施而行，漫漫而遊」是整齊的駢句；「自余為僇人，居是州，恒惴慄」長短不齊，自然敘述。局部可辨對偶，全段則看駢句與散句交錯的節奏。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[12].blocks[2]",
+        "section": "修辭與寫作手法（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bd2088b34c685e34",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "修辭與作用的分別",
+    "fields": {
+      "內容": "「若垤若穴」以相似性構成明喻；以山下之小突出西山之高，則是反襯作用。同一句可以從修辭形式與表達關係兩個角度分析。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[13].blocks[0]",
+        "section": "修辭與作用的分別"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-81b39cef9eddcc01",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "歷年考查提示",
+    "fields": {
+      "內容": "2019：整段語言特色為駢散交錯，不能只以某一句的對偶代替全段判斷。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[13].blocks[2]",
+        "section": "修辭與作用的分別"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f70c971fc4d9b2ee",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "正襯",
+    "fields": {
+      "文中關係": "舊遊已見各山異態，仍驚異西山之怪特。",
+      "具體作用": "以其他山水之奇，突出西山更奇；寫「始得」的驚喜與可貴。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[14].blocks[1][1][1]",
+        "section": "襯托層次與語言節奏（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-14-01-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9dee80cd39f3138e",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "反襯",
+    "fields": {
+      "文中關係": "四周群山、窪地如垤如穴；西山高峻。",
+      "具體作用": "以山下低小反襯西山高大，從周圍景物側寫山勢。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[14].blocks[1][1][2]",
+        "section": "襯托層次與語言節奏（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-14-01-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-429dc77a58c7dbc1",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "正襯、反襯與對比",
+    "fields": {
+      "內容": "側面描寫是從周景或登程間接寫西山；反襯是以相反特點突出主體。兩者可同時成立，卻不是同義詞。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[14].blocks[2]",
+        "section": "襯托層次與語言節奏（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e2caf34474ce3ba9",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "短句、連續動詞",
+    "fields": {
+      "原文例證": "過湘江，緣染溪，斫榛莽。焚茅茷。",
+      "節奏與心境": "動作接連展開，節奏明快，表現開路登山、熱切探勝。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[14].blocks[4][1][1]",
+        "section": "襯托層次與語言節奏（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-14-04-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2d5cb7f832d1a1b1",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "長對偶、疊詞",
+    "fields": {
+      "原文例證": "悠悠乎與顥氣俱，而莫得其涯；洋洋乎與造物者遊，而不知其所窮。",
+      "節奏與心境": "句式相稱，語勢舒展；悠悠、洋洋延展聲情，寫天地悠遠廣大及心境泰然。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[14].blocks[4][1][2]",
+        "section": "襯托層次與語言節奏（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-14-04-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c9d6bb1f9260ace6",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "旁批",
+    "fields": {
+      "內容": "「悠悠」「洋洋」是疊詞，也各有詞義；不是單純為押韻而重複。長對偶與疊詞的節奏共同承載景與情。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[14].blocks[6]",
+        "section": "襯托層次與語言節奏（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a57ed9964803ac68",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "俯視：「若垤若穴，尺寸千里。」",
+    "fields": {
+      "景物特點": "群山窪地低小，千里景物盡收眼底，反襯西山高峻。",
+      "如何連到心境": "在廣大天地中重新看待個人得失，從被貶的執著中釋放。這是景情關係的理解。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[16].blocks[0][1][1]",
+        "section": "景情關係：由俯視到物我相融"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-16-00-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0086008238ebb8d4",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "環視：「縈青繚白，外與天際，四望如一。」",
+    "fields": {
+      "景物特點": "山水交纏、天地相接，四周渾然一體。",
+      "如何連到心境": "感到自身與自然相融，放下彼此與榮辱的分別。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[16].blocks[0][1][2]",
+        "section": "景情關係：由俯視到物我相融"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-16-00-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b2c08aa88be4adba",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "體悟：「與顥氣俱」「與造物者遊」「與萬化冥合」。",
+    "fields": {
+      "景物特點": "由天地廣大，寫到心神同遊和萬物融通。",
+      "如何連到心境": "從登高觀照深入「心凝形釋」的忘我境界，精神感受逐步深化。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[16].blocks[0][1][3]",
+        "section": "景情關係：由俯視到物我相融"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-16-00-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4dbff0056ed004da",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "景情關係：由俯視到物我相融",
+    "fields": {
+      "內容": "環視說觀看四周，平視說視線高低，兩者可以並存。「高峻」不等於已證明是永州最高山；「釋懷」不等於貶謫處境已改或此後永無憂苦。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[16].blocks[1]",
+        "section": "景情關係：由俯視到物我相融"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-01e53a652f7c6cc7",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "景情關係：由俯視到物我相融",
+    "fields": {
+      "內容": "前兩句本為對偶；這裏說感受「逐步深化」，不把三句一律標成層遞修辭。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[16].blocks[2]",
+        "section": "景情關係：由俯視到物我相融"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-13ac99fd27394e9a",
+    "chapterId": "essay-08",
+    "category": "exam",
+    "title": "景情關係的考查提示",
+    "fields": {
+      "內容": "2019：以自己的文句概括景物特點，並把心境分析扣回同一景物；須建立景與情的對應。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[17].blocks[0]",
+        "section": "景情關係的考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-10d3e76eeec4762e",
+    "chapterId": "essay-08",
+    "category": "comparison",
+    "title": "延伸補充｜人格自況與跨篇比較",
+    "fields": {
+      "內容": "「是山之特立，不與培塿為類」可自況高潔、不隨俗；西山幽僻、直到這次才被發現，又可聯想到才華未被賞識。前者重人格，後者重處境；後者屬寓意解讀，不是原文明言所有人均不識西山。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[18].blocks[0]",
+        "section": "延伸補充｜人格自況與跨篇比較"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-522734885677cc37",
+    "chapterId": "essay-08",
+    "category": "comparison",
+    "title": "岳陽樓記",
+    "fields": {
+      "雙方原文依據": "西山：「與萬化冥合」。\n岳陽：「不以物喜，不以己悲」「先天下之憂而憂」。",
+      "共同點與不同方向": "共同超越個人榮辱；柳宗元由山水取得物我相融的精神解放，范仲淹把憂樂放到君民天下。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[18].blocks[1][1][1]",
+        "section": "延伸補充｜人格自況與跨篇比較"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-18-01-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-860ca83d591fcd1c",
+    "chapterId": "essay-08",
+    "category": "comparison",
+    "title": "逍遙遊",
+    "fields": {
+      "雙方原文依據": "西山：「心凝形釋，與萬化冥合」。\n逍遙：「無何有之鄉，廣莫之野」「逍遙乎寢臥其下」。",
+      "共同點與不同方向": "共同突破世俗功利尺度；柳宗元由宴遊改變觀照，莊子用寓言重新理解「無用」的價值。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[18].blocks[1][1][2]",
+        "section": "延伸補充｜人格自況與跨篇比較"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-18-01-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a76fee7bb9d751c2",
+    "chapterId": "essay-08",
+    "category": "comparison",
+    "title": "念奴嬌",
+    "fields": {
+      "雙方原文依據": "西山：「悠悠乎與顥氣俱，而莫得其涯」。\n念奴嬌：「人間如夢，一尊還酹江月」。",
+      "共同點與不同方向": "共同在失意中尋求安頓；柳宗元走向物我冥合，蘇軾經懷古、自傷，再以酹月寄懷。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[18].blocks[1][1][3]",
+        "section": "延伸補充｜人格自況與跨篇比較"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-18-01-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bcb317f232eb6f82",
+    "chapterId": "essay-08",
+    "category": "comparison",
+    "title": "延伸補充｜人格自況與跨篇比較",
+    "fields": {
+      "內容": "《念奴嬌》引文沿用本書「人間」底本；比較重點是各自的困境、轉變與精神寄託，不能只說兩人都看山水。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[18].blocks[2]",
+        "section": "延伸補充｜人格自況與跨篇比較"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-157aa4441b86fcc7",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "始",
+    "fields": {
+      "原句": "未始知；未始遊",
+      "意思／用法": "始＝曾經；未始＝未曾。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[20].blocks[0][1][1]",
+        "section": "字詞辨析與活用"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-20-00-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c5dc5f3304b1d754",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "始",
+    "fields": {
+      "原句": "始指異之",
+      "意思／用法": "才。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[20].blocks[0][1][2]",
+        "section": "字詞辨析與活用"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6bdf4f6fa8f5a7f3",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "始",
+    "fields": {
+      "原句": "遊於是乎始",
+      "意思／用法": "開始。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[20].blocks[0][1][3]",
+        "section": "字詞辨析與活用"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-65b3e249b4eba9bd",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "窮",
+    "fields": {
+      "原句": "窮迴溪",
+      "意思／用法": "走到溪流盡頭。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[20].blocks[0][1][4]",
+        "section": "字詞辨析與活用"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-20-00-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e3c71d6eb50f2bbe",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "窮",
+    "fields": {
+      "原句": "窮山之高而止",
+      "意思／用法": "到達山的最高處。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[20].blocks[0][1][5]",
+        "section": "字詞辨析與活用"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-20-00-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9893b6b85745fd41",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "窮",
+    "fields": {
+      "原句": "不知其所窮",
+      "意思／用法": "盡頭、盡期。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[20].blocks[0][1][6]",
+        "section": "字詞辨析與活用"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-20-00-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9baced5c883b810c",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "異",
+    "fields": {
+      "原句": "有異態者",
+      "意思／用法": "奇特；形容山的形態。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[20].blocks[0][1][7]",
+        "section": "字詞辨析與活用"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-20-00-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c5507ecacc1098fd",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "異",
+    "fields": {
+      "原句": "始指異之",
+      "意思／用法": "認為它奇異；意動用法。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[20].blocks[0][1][8]",
+        "section": "字詞辨析與活用"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b05726bf35dfed5c",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "之",
+    "fields": {
+      "原句": "西山之怪特",
+      "意思／用法": "助詞：的。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[20].blocks[0][1][9]",
+        "section": "字詞辨析與活用"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-20-00-9"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8da1d6e7be830569",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "之",
+    "fields": {
+      "原句": "始指異之",
+      "意思／用法": "代詞：代西山。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[20].blocks[0][1][10]",
+        "section": "字詞辨析與活用"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5c1a9c245138dec2",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "日",
+    "fields": {
+      "原句": "日與其徒",
+      "意思／用法": "每天；名詞作狀語。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[20].blocks[0][1][11]",
+        "section": "字詞辨析與活用"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-20-00-11"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b46bca5dd3a0b855",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "箕",
+    "fields": {
+      "原句": "箕踞而遨",
+      "意思／用法": "像簸箕般；名詞作狀語。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[20].blocks[0][1][12]",
+        "section": "字詞辨析與活用"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-20-00-12"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8d01d456a6cde294",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "夢",
+    "fields": {
+      "原句": "臥而夢；夢亦同趣",
+      "意思／用法": "前者是動詞「做夢」；後者是名詞「夢」。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[20].blocks[0][1][13]",
+        "section": "字詞辨析與活用"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-20-00-13"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a88a1240efe7c725",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "旁批",
+    "fields": {
+      "內容": "本篇原文沿用知識庫底本「特立」；教育局作「特出」。兩者均表達西山高峻特出；引文依所用題本。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[20].blocks[2]",
+        "section": "字詞辨析與活用"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-04362e5e480de684",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "是",
+    "fields": {
+      "原句": "居是州；凡是州之山",
+      "本篇意思／辨析": "此、這個。「凡」與「是」分開：所有／這個州的山。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[21].blocks[1][1][1]",
+        "section": "古今義、通假與異體"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6a874bd9745c4d53",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "覺",
+    "fields": {
+      "原句": "覺而起",
+      "本篇意思／辨析": "睡醒；不是「覺得」。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[21].blocks[1][1][2]",
+        "section": "古今義、通假與異體"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-36d83433b370f2f0",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "嚮",
+    "fields": {
+      "原句": "吾嚮之未始遊",
+      "本篇意思／辨析": "從前；不是「嚮往」。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[21].blocks[1][1][3]",
+        "section": "古今義、通假與異體"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-21-01-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-14be355677815fb9",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "志",
+    "fields": {
+      "原句": "故為之文以志",
+      "本篇意思／辨析": "記述；不是「志氣」。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[21].blocks[1][1][4]",
+        "section": "古今義、通假與異體"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-21-01-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-95c3614fe427544b",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "有",
+    "fields": {
+      "原句": "皆我有也",
+      "本篇意思／辨析": "都曾遊覽；不是擁有土地。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[21].blocks[1][1][5]",
+        "section": "古今義、通假與異體"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-21-01-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bce298bccb5b12e2",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "於是",
+    "fields": {
+      "原句": "遊於是乎始",
+      "本篇意思／辨析": "從這次西山宴遊開始；不是現代連詞「於是」的承接用法。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[21].blocks[1][1][6]",
+        "section": "古今義、通假與異體"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-eb6c1640ef6f2038",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "僇同戮",
+    "fields": {
+      "原句": "自余為僇人",
+      "意思": "受刑辱。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[21].blocks[3][1][1]",
+        "section": "古今義、通假與異體"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-21-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cb537eb55fca751a",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "趣同趨",
+    "fields": {
+      "原句": "夢亦同趣",
+      "意思": "往、到。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[21].blocks[3][1][2]",
+        "section": "古今義、通假與異體"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-21-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-57fa25f7db1ef02f",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "遯同遁",
+    "fields": {
+      "原句": "莫得遯隱",
+      "意思": "隱藏。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[21].blocks[3][1][3]",
+        "section": "古今義、通假與異體"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-21-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5ead3cdf389ef5b0",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "顥通昊",
+    "fields": {
+      "原句": "與顥氣俱",
+      "意思": "廣大的天。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[21].blocks[3][1][4]",
+        "section": "古今義、通假與異體"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-21-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-99f3f7e3663943ce",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "旁批",
+    "fields": {
+      "內容": "「皆我有也」屬全句的語境理解；與古今詞義放在一起辨析。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[21].blocks[5]",
+        "section": "古今義、通假與異體"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f1116e5eb5f0c646",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "旁批",
+    "fields": {
+      "內容": "字形對應沿用原卡所列「同／通」；各字在句中的意思仍須連同原句理解。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[21].blocks[7]",
+        "section": "古今義、通假與異體"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c48c0dc86e8e19f8",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "西山之怪特",
+    "fields": {
+      "用法": "結構助詞：的。",
+      "語譯重點": "西山的奇異卓絕。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[22].blocks[1][1][1]",
+        "section": "句法辨析與語譯界線（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-22-01-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e8aa99e15a35a435",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "始指異之",
+    "fields": {
+      "用法": "代詞：代西山。",
+      "語譯重點": "才指着它，認為它奇異。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[22].blocks[1][1][2]",
+        "section": "句法辨析與語譯界線（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-22-01-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9981754b3461ba31",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "不知日之入",
+    "fields": {
+      "用法": "置於主謂之間的助詞；可不譯。",
+      "語譯重點": "不知道太陽已落山。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[22].blocks[1][1][3]",
+        "section": "句法辨析與語譯界線（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-22-01-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ba6351f97b61f60f",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "然後知吾嚮之未始遊",
+    "fields": {
+      "用法": "置於主謂之間的助詞；可不譯。",
+      "語譯重點": "這才知道我從前不算真正遊覽過。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[22].blocks[1][1][4]",
+        "section": "句法辨析與語譯界線（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-22-01-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cd7b9886d22ad96f",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "其隙也，則施施而行。",
+    "fields": {
+      "句法與意思": "「則施施而行」省略主語「我」：有空時，我便緩緩行走。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[22].blocks[3][1][1]",
+        "section": "句法辨析與語譯界線（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-22-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ae465355e7a13b9e",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "遊於是乎始。",
+    "fields": {
+      "句法與意思": "遊：真正的遊覽；於是：從這次宴遊；乎：語氣助詞；始：開始。全句意為真正的遊覽從這次才開始。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[22].blocks[3][1][2]",
+        "section": "句法辨析與語譯界線（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-22-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e1923477684ca7f5",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "凡是州之山有異態者",
+    "fields": {
+      "句法與意思": "凡／是州／之山／有異態者：這個州所有形態奇異的山；凡、是分開理解。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[22].blocks[3][1][3]",
+        "section": "句法辨析與語譯界線（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-22-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0163dfd0324e21b2",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "「故為之文以志」的解釋層次",
+    "fields": {
+      "內容": "「故為之文以志」說明寫作的緣由和目的。「之」可作「這」理解，即為這次宴遊作文章記錄；整句也可理解為因此作文以記述。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[22].blocks[5]",
+        "section": "句法辨析與語譯界線（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9d14bd578ea39d26",
+    "chapterId": "essay-08",
+    "category": "vocabulary",
+    "title": "「故為之文以志」的解釋層次",
+    "fields": {
+      "內容": "語譯可補語境中省略的「我」或「此事」，不能添出新情節：末段沒有「睡醒才發現天黑」；「未始遊」也不是從未出遊。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[22].blocks[6]",
+        "section": "句法辨析與語譯界線（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-53a5784df6a07a76",
+    "chapterId": "essay-08",
+    "category": "exam",
+    "title": "歷年考查提示",
+    "fields": {
+      "內容": "2026：「不知日之入」與「然後知吾嚮之未始遊」的「之」同置主謂之間，可不譯。作文目的與省略補譯見前面的句法表。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[23].blocks[1]",
+        "section": "句法辨析與語譯界線（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d710bec7eea6d719",
+    "chapterId": "essay-08",
+    "category": "exam",
+    "title": "自余為僇人，居是州，恒惴慄。",
+    "fields": {
+      "重點": "被貶永州，常恐懼不安；全文心境的起點。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[24].blocks[0][1][1]",
+        "section": "考前重點（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-646cb1097c564929",
+    "chapterId": "essay-08",
+    "category": "exam",
+    "title": "施施而行，漫漫而遊。",
+    "fields": {
+      "重點": "外在隨意緩行，內在憂懼未解；舊遊用以襯托西山之遊。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[24].blocks[0][1][2]",
+        "section": "考前重點（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a763cbfaeae71f0a",
+    "chapterId": "essay-08",
+    "category": "exam",
+    "title": "而未始知西山之怪特。",
+    "fields": {
+      "重點": "未始＝未曾。承接舊遊，引出西山的新發現。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[24].blocks[0][1][3]",
+        "section": "考前重點（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3446f6f1dc2f1c73",
+    "chapterId": "essay-08",
+    "category": "exam",
+    "title": "始指異之。",
+    "fields": {
+      "重點": "始＝才；異＝認為它奇異；之＝西山。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[24].blocks[0][1][4]",
+        "section": "考前重點（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8fa500396ede459e",
+    "chapterId": "essay-08",
+    "category": "exam",
+    "title": "若垤若穴，尺寸千里。",
+    "fields": {
+      "重點": "俯視群山顯得渺小，千里景物盡收眼底；明喻、誇飾，側襯西山高峻。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[24].blocks[0][1][5]",
+        "section": "考前重點（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6483a569b14bdd60",
+    "chapterId": "essay-08",
+    "category": "exam",
+    "title": "是山之特立，不與培塿為類。",
+    "fields": {
+      "重點": "西山卓絕獨立，非小丘可比；自況高潔、不與世俗同流。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[24].blocks[0][1][6]",
+        "section": "考前重點（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-270c3bd416de86c9",
+    "chapterId": "essay-08",
+    "category": "exam",
+    "title": "心凝形釋，與萬化冥合。",
+    "fields": {
+      "重點": "心神安定、形體束縛彷彿解開，與自然萬物融為一體。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[24].blocks[0][1][7]",
+        "section": "考前重點（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cc6f943288231a17",
+    "chapterId": "essay-08",
+    "category": "exam",
+    "title": "然後知吾嚮之未始遊，遊於是乎始。",
+    "fields": {
+      "重點": "嚮＝從前。舊遊未得真趣；這次始得精神解放，才是真正遊覽的開始。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[24].blocks[0][1][8]",
+        "section": "考前重點（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0cd044326aebb114",
+    "chapterId": "essay-08",
+    "category": "exam",
+    "title": "2019",
+    "fields": {
+      "知識方向": "駢散交錯；景物與心境須互相呼應。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[25].blocks[1][1][1]",
+        "section": "考前重點（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2c50f722de556748",
+    "chapterId": "essay-08",
+    "category": "exam",
+    "title": "2023",
+    "fields": {
+      "知識方向": "嚮：從前。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[25].blocks[1][1][2]",
+        "section": "考前重點（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-932a8a5ae995a2f1",
+    "chapterId": "essay-08",
+    "category": "exam",
+    "title": "2024",
+    "fields": {
+      "知識方向": "是：這。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[25].blocks[1][1][3]",
+        "section": "考前重點（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7ad75bc94d9a8951",
+    "chapterId": "essay-08",
+    "category": "exam",
+    "title": "2025",
+    "fields": {
+      "知識方向": "志：記。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[25].blocks[1][1][4]",
+        "section": "考前重點（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-21304128ae8251f0",
+    "chapterId": "essay-08",
+    "category": "structure",
+    "title": "章末串連｜重建全文",
+    "fields": {
+      "內容": "「始得」不是第一次出遊，而是第一次得到真正使身心解脫的遊賞體驗。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[26].blocks[0]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0c9da5ec03861182",
+    "chapterId": "essay-08",
+    "category": "structure",
+    "title": "未得之前",
+    "fields": {
+      "怎樣連起來": "以為無處不遊，醉夢醒歸仍有惴慄；舊遊提供後來轉變的比較基礎。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[26].blocks[1][1][1]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8e40dd417b69e2d9",
+    "chapterId": "essay-08",
+    "category": "structure",
+    "title": "由見到知",
+    "fields": {
+      "怎樣連起來": "初見指異，登高看見群山低小，才知西山特立，視野改變帶動認識加深。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[26].blocks[1][1][2]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7cff6d6902ee943b",
+    "chapterId": "essay-08",
+    "category": "structure",
+    "title": "由醉到悟",
+    "fields": {
+      "怎樣連起來": "舊醉只是暫避，新醉至心凝形釋、與萬化冥合；「遊於是乎始」回應題目，重定遊的意義。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[7].pages[26].blocks[1][1][3]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-df8490ace41d9331",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "比喻",
+    "fields": {
+      "內容": "比喻把兩種不同而具有相似點的事物聯繫起來。本體是要說明的對象，喻體是用來作比的事物。明喻常用「如、似、猶」等喻詞；暗喻以「是、為」等把兩者連起來；借喻只出現喻體。辨析時須指出相似點和具體作用。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[159].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[821].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1123].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e08-exp-008",
+      "full-b-08-03-03-7",
+      "full-b-08-14-01-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e4756705eaa03631",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "對比與襯托",
+    "fields": {
+      "內容": "對比把兩方並置，突出差異，兩方都參與表意；襯托有主次，以陪襯的一方突出主要對象。分析須指出哪兩方、在哪一方面形成關係，以及這個關係如何支持文意。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[831].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[922].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1123].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-04-03-5",
+      "full-b-08-05-00-b",
+      "full-b-08-14-01-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-697e8463f295f48f",
+    "chapterId": "essay-08",
+    "category": "technique",
+    "title": "借代",
+    "fields": {
+      "內容": "借代利用事物之間的關聯，以特徵、部分、材料或相關事物代替本體。比喻依靠相似，借代依靠關聯。答題要說明代指對象及兩者關係。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1118].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-12-00-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c1fdac62359df4ca",
+    "chapterId": "essay-08",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "「施施」「漫漫」只寫外在遊態，不能據此判斷內心已全然快樂。舊遊的廣泛，亦用來襯托西山更加怪特。\n「若垤若穴」既有比喻，又以周景之小反襯西山之高。「特立」可寄託不與世俗同流的志向。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1122].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-14-01-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bb3bbf515834b6e2",
+    "chapterId": "essay-08",
+    "category": "theme",
+    "title": "押韻與韻腳",
+    "fields": {
+      "內容": "韻腳是詩句末尾用來押韻的字。律詩一般偶數句押韻，首句可入韻，也可不入韻；不能把每句最後一字都當作韻腳。判斷古詩用韻要留意古音及韻部，不能只按現代普通話讀音。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1125].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-14-04-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c96e055a24c34320",
+    "chapterId": "essay-08",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "「若垤若穴」既有比喻，又以周景之小反襯西山之高。「特立」可寄託不與世俗同流的志向。\n「形釋」是形體束縛彷彿解開，不是身體消失。末段沒有睡醒才知天黑的情節。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1128].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-16-00-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bcee6bf70aa3376c",
+    "chapterId": "essay-08",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "「施施」「漫漫」只寫外在遊態，不能據此判斷內心已全然快樂。舊遊的廣泛，亦用來襯托西山更加怪特。\n過、緣、斫、焚、窮連接行動，寫目標明確、克服阻礙；登臨不易，側面顯西山幽僻。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1133].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-20-00-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-07434805a3527fb4",
+    "chapterId": "essay-08",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "過、緣、斫、焚、窮連接行動，寫目標明確、克服阻礙；登臨不易，側面顯西山幽僻。\n「若垤若穴」既有比喻，又以周景之小反襯西山之高。「特立」可寄託不與世俗同流的志向。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1134].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-20-00-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  }
+]

@@ -1,0 +1,7366 @@
+[
+  {
+    "id": "k-30cc672cf66f3f9e",
+    "chapterId": "essay-09",
+    "category": "background",
+    "title": "作者與題旨",
+    "fields": {
+      "作者": "范仲淹"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].author",
+        "section": "岳陽樓記"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0f716a5e1426f3d8",
+    "chapterId": "essay-09",
+    "category": "theme",
+    "title": "一句話題旨",
+    "fields": {
+      "題旨": "憂樂與胸襟"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].desc",
+        "section": "岳陽樓記"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cf715a8d9f0afa38",
+    "chapterId": "essay-09",
+    "category": "background",
+    "title": "作者、時代與文體",
+    "fields": {
+      "資料": "范仲淹｜北宋｜記體散文"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[0].blocks[0]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-911d8874074870c8",
+    "chapterId": "essay-09",
+    "category": "theme",
+    "title": "范仲淹｜北宋｜記體散文",
+    "fields": {
+      "內容": "由遷客騷人的因景悲喜，轉出古仁人超越個人得失、先憂後樂的胸懷。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[0].blocks[1]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-00-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-259c51ece511a919",
+    "chapterId": "essay-09",
+    "category": "structure",
+    "title": "內容線索",
+    "fields": {
+      "內容": "修樓緣起→洞庭大觀→陰景而悲→晴景而喜→古仁人憂樂"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[0].blocks[3]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-00-03-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-72127d01d6876984",
+    "chapterId": "essay-09",
+    "category": "theme",
+    "title": "理解關鍵",
+    "fields": {
+      "內容": "不以物喜、不以己悲不等於毫無感情；古仁人始終關心國家和百姓。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[0].blocks[5]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-00-05-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-35250742139140e4",
+    "chapterId": "essay-09",
+    "category": "background",
+    "title": "題解與文體",
+    "fields": {
+      "內容": "以記樓為起點，借景物和人物心境的對照寄託政治理想、勉勵友人。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[0].blocks[7]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-00-07-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ba7c20b9f1936973",
+    "chapterId": "essay-09",
+    "category": "theme",
+    "title": "句段核心：第1段｜原文與語譯",
+    "fields": {
+      "重點": "重修樓的政績與受託作記，交代文章緣起。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[1].core",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-87023f35cad4a1fe",
+    "chapterId": "essay-09",
+    "category": "text",
+    "title": "第1段｜原文與語譯",
+    "fields": {
+      "原文": "慶曆四年春，滕子京謫守巴陵郡。越明年，政通人和，百廢具興。乃重修岳陽樓，增其舊制，刻唐賢、今人詩賦於其上；屬予作文以記之。"
+    },
+    "context": "慶曆四年春，滕子京謫守巴陵郡。越明年，政通人和，百廢具興。乃重修岳陽樓，增其舊制，刻唐賢、今人詩賦於其上；屬予作文以記之。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[1].blocks[0]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-01-01",
+      "pilot-09-01-02",
+      "pilot-09-01-04",
+      "pilot-09-01-05",
+      "pilot-09-01-06",
+      "concept-09-05",
+      "concept-09-06",
+      "concept-09-07",
+      "concept-09-08",
+      "q-appendix-001",
+      "full-c-09-01-03-02",
+      "full-c-09-01-00-90",
+      "full-c-09-00-01-80",
+      "full-c-09-00-03-80",
+      "full-c-09-00-05-80",
+      "full-c-09-00-07-80",
+      "full-c-09-01-04-80",
+      "full-c-09-06-00-80",
+      "full-c-09-06-01-80",
+      "full-c-09-07-00-01",
+      "full-c-09-07-00-02",
+      "full-c-09-07-00-03",
+      "full-c-09-07-00-04",
+      "full-c-09-07-00-05",
+      "full-c-09-07-02-80",
+      "full-c-09-07-04-01",
+      "full-c-09-07-04-02",
+      "full-c-09-07-04-03",
+      "full-c-09-08-00-01",
+      "full-c-09-08-00-02",
+      "full-c-09-08-00-03",
+      "full-c-09-08-00-04",
+      "full-c-09-08-00-05",
+      "full-c-09-09-01-80",
+      "full-c-09-09-03-80",
+      "full-c-09-09-05-80",
+      "full-c-09-10-01-03",
+      "full-c-09-10-01-04",
+      "full-c-09-10-02-01",
+      "full-c-09-10-02-03",
+      "full-c-09-10-02-08",
+      "full-c-09-10-02-09",
+      "full-c-09-10-02-10",
+      "full-c-09-10-02-16",
+      "full-c-09-10-02-18",
+      "full-c-09-10-02-19",
+      "full-c-09-10-02-20",
+      "full-c-09-10-02-22",
+      "full-c-09-10-02-23",
+      "full-c-09-10-02-25",
+      "full-c-09-10-02-26",
+      "full-c-09-10-02-27",
+      "full-c-09-10-02-28",
+      "full-c-09-10-02-29",
+      "full-c-09-10-02-31",
+      "full-c-09-11-00-03",
+      "full-c-09-11-00-04",
+      "full-c-09-11-00-05",
+      "full-c-09-11-00-07",
+      "full-c-09-11-00-15",
+      "full-c-09-11-00-17",
+      "full-c-09-11-00-19",
+      "full-c-09-11-00-20",
+      "full-c-09-11-00-21",
+      "full-c-09-11-00-26",
+      "full-c-09-11-00-27",
+      "full-c-09-11-00-31",
+      "full-c-09-11-00-34",
+      "full-c-09-11-00-35",
+      "full-c-09-11-00-37",
+      "full-c-09-11-00-38",
+      "full-c-09-11-01-80",
+      "full-c-09-12-01-01",
+      "full-c-09-12-01-02",
+      "full-c-09-12-01-03",
+      "full-c-09-12-03-01",
+      "full-c-09-12-03-02",
+      "full-c-09-12-03-03",
+      "full-c-09-12-03-04",
+      "full-c-09-12-03-05",
+      "full-c-09-12-03-06",
+      "full-c-09-12-04-80",
+      "full-c-09-12-06-01",
+      "full-c-09-12-06-02",
+      "full-c-09-12-06-03",
+      "full-c-09-12-06-04",
+      "full-c-09-12-06-05",
+      "full-c-09-12-08-80",
+      "full-c-09-12-09-80",
+      "full-c-09-12-11-01",
+      "full-c-09-12-11-02",
+      "full-c-09-12-11-03",
+      "full-c-09-12-11-04",
+      "full-c-09-14-00-80",
+      "full-c-09-16-00-80",
+      "full-c-09-16-01-01",
+      "full-c-09-16-01-02",
+      "full-c-09-16-01-03",
+      "dse-2022-1a-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4ea42b14ba30bed7",
+    "chapterId": "essay-09",
+    "category": "text",
+    "title": "第1段｜原文與語譯",
+    "fields": {
+      "語譯": "慶曆四年的春天，滕子京被貶官調守岳州。到了第二年，政事順利，百姓安居樂業，許多荒廢了的事情都興辦起來。於是他重新修建岳陽樓，擴大它原來的規模，把唐代著名文人和當代人寫的詩歌和辭賦刻在岳陽樓上；他委託我寫一篇文章記敍這件事。"
+    },
+    "context": "慶曆四年春，滕子京謫守巴陵郡。越明年，政通人和，百廢具興。乃重修岳陽樓，增其舊制，刻唐賢、今人詩賦於其上；屬予作文以記之。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[1].blocks[2]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-01-01",
+      "pilot-09-01-02",
+      "pilot-09-01-04",
+      "pilot-09-01-05",
+      "pilot-09-01-06",
+      "concept-09-05",
+      "concept-09-06",
+      "concept-09-07",
+      "concept-09-08",
+      "q-appendix-001",
+      "full-c-09-01-03-02",
+      "full-c-09-01-00-90",
+      "full-c-09-00-01-80",
+      "full-c-09-00-03-80",
+      "full-c-09-00-05-80",
+      "full-c-09-00-07-80",
+      "full-c-09-01-04-80",
+      "full-c-09-06-00-80",
+      "full-c-09-06-01-80",
+      "full-c-09-07-00-01",
+      "full-c-09-07-00-02",
+      "full-c-09-07-00-03",
+      "full-c-09-07-00-04",
+      "full-c-09-07-00-05",
+      "full-c-09-07-02-80",
+      "full-c-09-07-04-01",
+      "full-c-09-07-04-02",
+      "full-c-09-07-04-03",
+      "full-c-09-08-00-01",
+      "full-c-09-08-00-02",
+      "full-c-09-08-00-03",
+      "full-c-09-08-00-04",
+      "full-c-09-08-00-05",
+      "full-c-09-09-01-80",
+      "full-c-09-09-03-80",
+      "full-c-09-09-05-80",
+      "full-c-09-10-01-03",
+      "full-c-09-10-01-04",
+      "full-c-09-10-02-01",
+      "full-c-09-10-02-03",
+      "full-c-09-10-02-08",
+      "full-c-09-10-02-09",
+      "full-c-09-10-02-10",
+      "full-c-09-10-02-16",
+      "full-c-09-10-02-18",
+      "full-c-09-10-02-19",
+      "full-c-09-10-02-20",
+      "full-c-09-10-02-22",
+      "full-c-09-10-02-23",
+      "full-c-09-10-02-25",
+      "full-c-09-10-02-26",
+      "full-c-09-10-02-27",
+      "full-c-09-10-02-28",
+      "full-c-09-10-02-29",
+      "full-c-09-10-02-31",
+      "full-c-09-11-00-03",
+      "full-c-09-11-00-04",
+      "full-c-09-11-00-05",
+      "full-c-09-11-00-07",
+      "full-c-09-11-00-15",
+      "full-c-09-11-00-17",
+      "full-c-09-11-00-19",
+      "full-c-09-11-00-20",
+      "full-c-09-11-00-21",
+      "full-c-09-11-00-26",
+      "full-c-09-11-00-27",
+      "full-c-09-11-00-31",
+      "full-c-09-11-00-34",
+      "full-c-09-11-00-35",
+      "full-c-09-11-00-37",
+      "full-c-09-11-00-38",
+      "full-c-09-11-01-80",
+      "full-c-09-12-01-01",
+      "full-c-09-12-01-02",
+      "full-c-09-12-01-03",
+      "full-c-09-12-03-01",
+      "full-c-09-12-03-02",
+      "full-c-09-12-03-03",
+      "full-c-09-12-03-04",
+      "full-c-09-12-03-05",
+      "full-c-09-12-03-06",
+      "full-c-09-12-04-80",
+      "full-c-09-12-06-01",
+      "full-c-09-12-06-02",
+      "full-c-09-12-06-03",
+      "full-c-09-12-06-04",
+      "full-c-09-12-06-05",
+      "full-c-09-12-08-80",
+      "full-c-09-12-09-80",
+      "full-c-09-12-11-01",
+      "full-c-09-12-11-02",
+      "full-c-09-12-11-03",
+      "full-c-09-12-11-04",
+      "full-c-09-14-00-80",
+      "full-c-09-16-00-80",
+      "full-c-09-16-01-01",
+      "full-c-09-16-01-02",
+      "full-c-09-16-01-03",
+      "dse-2022-1a-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e67b20910c4ffc59",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "謫",
+    "fields": {
+      "詞義": "貶官"
+    },
+    "context": "慶曆四年春，滕子京謫守巴陵郡。越明年，政通人和，百廢具興。乃重修岳陽樓，增其舊制，刻唐賢、今人詩賦於其上；屬予作文以記之。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[1].blocks[3][1][0]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-01-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-40fee06efd13c22a",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "守",
+    "fields": {
+      "詞義": "任地方長官"
+    },
+    "context": "慶曆四年春，滕子京謫守巴陵郡。越明年，政通人和，百廢具興。乃重修岳陽樓，增其舊制，刻唐賢、今人詩賦於其上；屬予作文以記之。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[1].blocks[3][1][1]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-01-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-38348a041baf6787",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "越",
+    "fields": {
+      "詞義": "到了"
+    },
+    "context": "慶曆四年春，滕子京謫守巴陵郡。越明年，政通人和，百廢具興。乃重修岳陽樓，增其舊制，刻唐賢、今人詩賦於其上；屬予作文以記之。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[1].blocks[3][1][2]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-01-03-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-18f1d57a8b7f6087",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "具",
+    "fields": {
+      "詞義": "通俱，全都"
+    },
+    "context": "慶曆四年春，滕子京謫守巴陵郡。越明年，政通人和，百廢具興。乃重修岳陽樓，增其舊制，刻唐賢、今人詩賦於其上；屬予作文以記之。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[1].blocks[3][1][3]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-01-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ffe8a832706f1e7c",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "制",
+    "fields": {
+      "詞義": "規模"
+    },
+    "context": "慶曆四年春，滕子京謫守巴陵郡。越明年，政通人和，百廢具興。乃重修岳陽樓，增其舊制，刻唐賢、今人詩賦於其上；屬予作文以記之。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[1].blocks[3][1][4]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-01-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0a458e414b8a602e",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "屬",
+    "fields": {
+      "詞義": "通囑，囑託"
+    },
+    "context": "慶曆四年春，滕子京謫守巴陵郡。越明年，政通人和，百廢具興。乃重修岳陽樓，增其舊制，刻唐賢、今人詩賦於其上；屬予作文以記之。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[1].blocks[3][1][5]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-01-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4e6e72ea464c3ce5",
+    "chapterId": "essay-09",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "滕子京雖被貶仍政通人和；寫重修原因、擴建與刻詩賦，再以「屬予」轉到作者。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[1].blocks[4]",
+        "section": "第1段｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[42].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[43].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[44].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[45].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[46].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1320].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1422].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1576].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-01-01",
+      "pilot-09-01-02",
+      "pilot-09-01-04",
+      "pilot-09-01-05",
+      "pilot-09-01-06",
+      "full-c-09-01-03-02",
+      "full-c-09-01-00-90",
+      "full-c-09-01-04-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-aedebea635775085",
+    "chapterId": "essay-09",
+    "category": "theme",
+    "title": "句段核心：第2段｜原文與語譯",
+    "fields": {
+      "重點": "先總寫洞庭壯觀，再引出覽物之情的不同。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[2].core",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-56352c24ee4f711f",
+    "chapterId": "essay-09",
+    "category": "text",
+    "title": "第2段｜原文與語譯",
+    "fields": {
+      "原文": "予觀夫巴陵勝狀，在洞庭一湖。銜遠山，吞長江，浩浩湯湯，橫無際涯；朝暉夕陰，氣象萬千。此則岳陽樓之大觀也，前人之述備矣。然則北通巫峽，南極瀟湘，遷客騷人，多會於此，覽物之情，得無異乎？"
+    },
+    "context": "予觀夫巴陵勝狀，在洞庭一湖。銜遠山，吞長江，浩浩湯湯，橫無際涯；朝暉夕陰，氣象萬千。此則岳陽樓之大觀也，前人之述備矣。然則北通巫峽，南極瀟湘，遷客騷人，多會於此，覽物之情，得無異乎？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[2].blocks[0]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-02-01",
+      "pilot-09-02-04",
+      "pilot-09-02-06",
+      "pilot-09-02-09",
+      "pilot-09-02-10",
+      "pilot-09-02-11",
+      "pilot-09-02-12",
+      "concept-09-05",
+      "concept-09-06",
+      "concept-09-07",
+      "concept-09-08",
+      "q-appendix-001",
+      "full-c-09-02-03-01",
+      "full-c-09-02-03-02",
+      "full-c-09-02-03-04",
+      "full-c-09-02-03-06",
+      "full-c-09-02-03-07",
+      "full-c-09-02-03-12",
+      "full-c-09-02-00-90",
+      "full-c-09-00-01-80",
+      "full-c-09-00-03-80",
+      "full-c-09-00-05-80",
+      "full-c-09-00-07-80",
+      "full-c-09-02-04-80",
+      "full-c-09-06-00-80",
+      "full-c-09-06-01-80",
+      "full-c-09-07-00-01",
+      "full-c-09-07-00-02",
+      "full-c-09-07-00-03",
+      "full-c-09-07-00-04",
+      "full-c-09-07-00-05",
+      "full-c-09-07-02-80",
+      "full-c-09-07-04-01",
+      "full-c-09-07-04-02",
+      "full-c-09-07-04-03",
+      "full-c-09-08-00-01",
+      "full-c-09-08-00-02",
+      "full-c-09-08-00-03",
+      "full-c-09-08-00-04",
+      "full-c-09-08-00-05",
+      "full-c-09-09-01-80",
+      "full-c-09-09-03-80",
+      "full-c-09-09-05-80",
+      "full-c-09-10-01-03",
+      "full-c-09-10-01-04",
+      "full-c-09-10-02-01",
+      "full-c-09-10-02-03",
+      "full-c-09-10-02-08",
+      "full-c-09-10-02-09",
+      "full-c-09-10-02-10",
+      "full-c-09-10-02-16",
+      "full-c-09-10-02-18",
+      "full-c-09-10-02-19",
+      "full-c-09-10-02-20",
+      "full-c-09-10-02-22",
+      "full-c-09-10-02-23",
+      "full-c-09-10-02-25",
+      "full-c-09-10-02-26",
+      "full-c-09-10-02-27",
+      "full-c-09-10-02-28",
+      "full-c-09-10-02-29",
+      "full-c-09-10-02-31",
+      "full-c-09-11-00-03",
+      "full-c-09-11-00-04",
+      "full-c-09-11-00-05",
+      "full-c-09-11-00-07",
+      "full-c-09-11-00-15",
+      "full-c-09-11-00-17",
+      "full-c-09-11-00-19",
+      "full-c-09-11-00-20",
+      "full-c-09-11-00-21",
+      "full-c-09-11-00-26",
+      "full-c-09-11-00-27",
+      "full-c-09-11-00-31",
+      "full-c-09-11-00-34",
+      "full-c-09-11-00-35",
+      "full-c-09-11-00-37",
+      "full-c-09-11-00-38",
+      "full-c-09-11-01-80",
+      "full-c-09-12-01-01",
+      "full-c-09-12-01-02",
+      "full-c-09-12-01-03",
+      "full-c-09-12-03-01",
+      "full-c-09-12-03-02",
+      "full-c-09-12-03-03",
+      "full-c-09-12-03-04",
+      "full-c-09-12-03-05",
+      "full-c-09-12-03-06",
+      "full-c-09-12-04-80",
+      "full-c-09-12-06-01",
+      "full-c-09-12-06-02",
+      "full-c-09-12-06-03",
+      "full-c-09-12-06-04",
+      "full-c-09-12-06-05",
+      "full-c-09-12-08-80",
+      "full-c-09-12-09-80",
+      "full-c-09-12-11-01",
+      "full-c-09-12-11-02",
+      "full-c-09-12-11-03",
+      "full-c-09-12-11-04",
+      "full-c-09-14-00-80",
+      "full-c-09-16-00-80",
+      "full-c-09-16-01-01",
+      "full-c-09-16-01-02",
+      "full-c-09-16-01-03",
+      "dse-2022-1a-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-95288e58dc9e49e7",
+    "chapterId": "essay-09",
+    "category": "text",
+    "title": "第2段｜原文與語譯",
+    "fields": {
+      "語譯": "我觀賞那岳州的美景，全在洞庭湖上。它包含着遠處的羣山，吸納着長江的巨流，水勢浩大，無邊無際；早晨和傍晚，景色或晴明或幽暗，千變萬化。這就是岳陽樓的雄偉景觀，前人的描述已經很詳盡了。那麼從洞庭湖向北可以通到巫峽，向南一直可以通到瀟水和湘江，被降職遠調的官吏和來往的詩人，大多在這裏聚會，他們觀賞自然景物所產生的感情，能沒有不同嗎？"
+    },
+    "context": "予觀夫巴陵勝狀，在洞庭一湖。銜遠山，吞長江，浩浩湯湯，橫無際涯；朝暉夕陰，氣象萬千。此則岳陽樓之大觀也，前人之述備矣。然則北通巫峽，南極瀟湘，遷客騷人，多會於此，覽物之情，得無異乎？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[2].blocks[2]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-02-01",
+      "pilot-09-02-04",
+      "pilot-09-02-06",
+      "pilot-09-02-09",
+      "pilot-09-02-10",
+      "pilot-09-02-11",
+      "pilot-09-02-12",
+      "concept-09-05",
+      "concept-09-06",
+      "concept-09-07",
+      "concept-09-08",
+      "q-appendix-001",
+      "full-c-09-02-03-01",
+      "full-c-09-02-03-02",
+      "full-c-09-02-03-04",
+      "full-c-09-02-03-06",
+      "full-c-09-02-03-07",
+      "full-c-09-02-03-12",
+      "full-c-09-02-00-90",
+      "full-c-09-00-01-80",
+      "full-c-09-00-03-80",
+      "full-c-09-00-05-80",
+      "full-c-09-00-07-80",
+      "full-c-09-02-04-80",
+      "full-c-09-06-00-80",
+      "full-c-09-06-01-80",
+      "full-c-09-07-00-01",
+      "full-c-09-07-00-02",
+      "full-c-09-07-00-03",
+      "full-c-09-07-00-04",
+      "full-c-09-07-00-05",
+      "full-c-09-07-02-80",
+      "full-c-09-07-04-01",
+      "full-c-09-07-04-02",
+      "full-c-09-07-04-03",
+      "full-c-09-08-00-01",
+      "full-c-09-08-00-02",
+      "full-c-09-08-00-03",
+      "full-c-09-08-00-04",
+      "full-c-09-08-00-05",
+      "full-c-09-09-01-80",
+      "full-c-09-09-03-80",
+      "full-c-09-09-05-80",
+      "full-c-09-10-01-03",
+      "full-c-09-10-01-04",
+      "full-c-09-10-02-01",
+      "full-c-09-10-02-03",
+      "full-c-09-10-02-08",
+      "full-c-09-10-02-09",
+      "full-c-09-10-02-10",
+      "full-c-09-10-02-16",
+      "full-c-09-10-02-18",
+      "full-c-09-10-02-19",
+      "full-c-09-10-02-20",
+      "full-c-09-10-02-22",
+      "full-c-09-10-02-23",
+      "full-c-09-10-02-25",
+      "full-c-09-10-02-26",
+      "full-c-09-10-02-27",
+      "full-c-09-10-02-28",
+      "full-c-09-10-02-29",
+      "full-c-09-10-02-31",
+      "full-c-09-11-00-03",
+      "full-c-09-11-00-04",
+      "full-c-09-11-00-05",
+      "full-c-09-11-00-07",
+      "full-c-09-11-00-15",
+      "full-c-09-11-00-17",
+      "full-c-09-11-00-19",
+      "full-c-09-11-00-20",
+      "full-c-09-11-00-21",
+      "full-c-09-11-00-26",
+      "full-c-09-11-00-27",
+      "full-c-09-11-00-31",
+      "full-c-09-11-00-34",
+      "full-c-09-11-00-35",
+      "full-c-09-11-00-37",
+      "full-c-09-11-00-38",
+      "full-c-09-11-01-80",
+      "full-c-09-12-01-01",
+      "full-c-09-12-01-02",
+      "full-c-09-12-01-03",
+      "full-c-09-12-03-01",
+      "full-c-09-12-03-02",
+      "full-c-09-12-03-03",
+      "full-c-09-12-03-04",
+      "full-c-09-12-03-05",
+      "full-c-09-12-03-06",
+      "full-c-09-12-04-80",
+      "full-c-09-12-06-01",
+      "full-c-09-12-06-02",
+      "full-c-09-12-06-03",
+      "full-c-09-12-06-04",
+      "full-c-09-12-06-05",
+      "full-c-09-12-08-80",
+      "full-c-09-12-09-80",
+      "full-c-09-12-11-01",
+      "full-c-09-12-11-02",
+      "full-c-09-12-11-03",
+      "full-c-09-12-11-04",
+      "full-c-09-14-00-80",
+      "full-c-09-16-00-80",
+      "full-c-09-16-01-01",
+      "full-c-09-16-01-02",
+      "full-c-09-16-01-03",
+      "dse-2022-1a-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-62c430f7298d5b1d",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "勝狀",
+    "fields": {
+      "詞義": "美好景象"
+    },
+    "context": "予觀夫巴陵勝狀，在洞庭一湖。銜遠山，吞長江，浩浩湯湯，橫無際涯；朝暉夕陰，氣象萬千。此則岳陽樓之大觀也，前人之述備矣。然則北通巫峽，南極瀟湘，遷客騷人，多會於此，覽物之情，得無異乎？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[2].blocks[3][1][0]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-02-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-82c15fe2ba37dc6c",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "銜",
+    "fields": {
+      "詞義": "含接"
+    },
+    "context": "予觀夫巴陵勝狀，在洞庭一湖。銜遠山，吞長江，浩浩湯湯，橫無際涯；朝暉夕陰，氣象萬千。此則岳陽樓之大觀也，前人之述備矣。然則北通巫峽，南極瀟湘，遷客騷人，多會於此，覽物之情，得無異乎？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[2].blocks[3][1][1]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-02-03-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-42b60da9ab2a421c",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "吞",
+    "fields": {
+      "詞義": "吞納"
+    },
+    "context": "予觀夫巴陵勝狀，在洞庭一湖。銜遠山，吞長江，浩浩湯湯，橫無際涯；朝暉夕陰，氣象萬千。此則岳陽樓之大觀也，前人之述備矣。然則北通巫峽，南極瀟湘，遷客騷人，多會於此，覽物之情，得無異乎？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[2].blocks[3][1][2]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-02-03-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f7ac0b2efea3afba",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "浩浩湯湯",
+    "fields": {
+      "詞義": "水勢浩大"
+    },
+    "context": "予觀夫巴陵勝狀，在洞庭一湖。銜遠山，吞長江，浩浩湯湯，橫無際涯；朝暉夕陰，氣象萬千。此則岳陽樓之大觀也，前人之述備矣。然則北通巫峽，南極瀟湘，遷客騷人，多會於此，覽物之情，得無異乎？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[2].blocks[3][1][3]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-02-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e265d5334f2d442c",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "際涯",
+    "fields": {
+      "詞義": "邊際"
+    },
+    "context": "予觀夫巴陵勝狀，在洞庭一湖。銜遠山，吞長江，浩浩湯湯，橫無際涯；朝暉夕陰，氣象萬千。此則岳陽樓之大觀也，前人之述備矣。然則北通巫峽，南極瀟湘，遷客騷人，多會於此，覽物之情，得無異乎？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[2].blocks[3][1][4]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-02-03-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e9aa19ec94710297",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "暉",
+    "fields": {
+      "詞義": "日光"
+    },
+    "context": "予觀夫巴陵勝狀，在洞庭一湖。銜遠山，吞長江，浩浩湯湯，橫無際涯；朝暉夕陰，氣象萬千。此則岳陽樓之大觀也，前人之述備矣。然則北通巫峽，南極瀟湘，遷客騷人，多會於此，覽物之情，得無異乎？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[2].blocks[3][1][5]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-02-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-81b32009dddc4eb7",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "陰",
+    "fields": {
+      "詞義": "陰暗"
+    },
+    "context": "予觀夫巴陵勝狀，在洞庭一湖。銜遠山，吞長江，浩浩湯湯，橫無際涯；朝暉夕陰，氣象萬千。此則岳陽樓之大觀也，前人之述備矣。然則北通巫峽，南極瀟湘，遷客騷人，多會於此，覽物之情，得無異乎？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[2].blocks[3][1][6]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-02-03-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9805bed62f25f2b9",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "大觀",
+    "fields": {
+      "詞義": "雄偉景觀"
+    },
+    "context": "予觀夫巴陵勝狀，在洞庭一湖。銜遠山，吞長江，浩浩湯湯，橫無際涯；朝暉夕陰，氣象萬千。此則岳陽樓之大觀也，前人之述備矣。然則北通巫峽，南極瀟湘，遷客騷人，多會於此，覽物之情，得無異乎？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[2].blocks[3][1][7]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-02-03-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-61e00efe7ecdf40f",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "備",
+    "fields": {
+      "詞義": "詳盡"
+    },
+    "context": "予觀夫巴陵勝狀，在洞庭一湖。銜遠山，吞長江，浩浩湯湯，橫無際涯；朝暉夕陰，氣象萬千。此則岳陽樓之大觀也，前人之述備矣。然則北通巫峽，南極瀟湘，遷客騷人，多會於此，覽物之情，得無異乎？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[2].blocks[3][1][8]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-02-09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0b83470b0439e1bc",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "極",
+    "fields": {
+      "詞義": "到達"
+    },
+    "context": "予觀夫巴陵勝狀，在洞庭一湖。銜遠山，吞長江，浩浩湯湯，橫無際涯；朝暉夕陰，氣象萬千。此則岳陽樓之大觀也，前人之述備矣。然則北通巫峽，南極瀟湘，遷客騷人，多會於此，覽物之情，得無異乎？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[2].blocks[3][1][9]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-02-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-81f7d1cb19700911",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "遷客",
+    "fields": {
+      "詞義": "被貶調的官員"
+    },
+    "context": "予觀夫巴陵勝狀，在洞庭一湖。銜遠山，吞長江，浩浩湯湯，橫無際涯；朝暉夕陰，氣象萬千。此則岳陽樓之大觀也，前人之述備矣。然則北通巫峽，南極瀟湘，遷客騷人，多會於此，覽物之情，得無異乎？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[2].blocks[3][1][10]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-02-11"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cf157c1632a309d9",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "騷人",
+    "fields": {
+      "詞義": "詩人"
+    },
+    "context": "予觀夫巴陵勝狀，在洞庭一湖。銜遠山，吞長江，浩浩湯湯，橫無際涯；朝暉夕陰，氣象萬千。此則岳陽樓之大觀也，前人之述備矣。然則北通巫峽，南極瀟湘，遷客騷人，多會於此，覽物之情，得無異乎？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[2].blocks[3][1][11]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-02-12"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-32641da3bf0e10cc",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "得無",
+    "fields": {
+      "詞義": "難道不；表推測反問"
+    },
+    "context": "予觀夫巴陵勝狀，在洞庭一湖。銜遠山，吞長江，浩浩湯湯，橫無際涯；朝暉夕陰，氣象萬千。此則岳陽樓之大觀也，前人之述備矣。然則北通巫峽，南極瀟湘，遷客騷人，多會於此，覽物之情，得無異乎？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[2].blocks[3][1][12]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-02-03-12"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3c13f43e0b93d0a1",
+    "chapterId": "essay-09",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "銜吞寫湖勢，朝暉夕陰寫變化。前人已備述，所以本文轉向遷客騷人的心情，準備下文陰晴兩幅景。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[2].blocks[4]",
+        "section": "第2段｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[47].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[48].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[49].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[50].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[51].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[52].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[53].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1321].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1322].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1323].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1324].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1325].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1326].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1423].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1577].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-02-01",
+      "pilot-09-02-04",
+      "pilot-09-02-06",
+      "pilot-09-02-09",
+      "pilot-09-02-10",
+      "pilot-09-02-11",
+      "pilot-09-02-12",
+      "full-c-09-02-03-01",
+      "full-c-09-02-03-02",
+      "full-c-09-02-03-04",
+      "full-c-09-02-03-06",
+      "full-c-09-02-03-07",
+      "full-c-09-02-03-12",
+      "full-c-09-02-00-90",
+      "full-c-09-02-04-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-86e9983040d01c87",
+    "chapterId": "essay-09",
+    "category": "theme",
+    "title": "句段核心：第3段｜原文與語譯",
+    "fields": {
+      "重點": "陰雨昏暗觸發遷客的失意與憂懼。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[3].core",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a21571c4409289bb",
+    "chapterId": "essay-09",
+    "category": "text",
+    "title": "第3段｜原文與語譯",
+    "fields": {
+      "原文": "若夫霪雨霏霏，連月不開；陰風怒號，濁浪排空；日星隱耀，山岳潛形；商旅不行，檣傾楫摧；薄暮冥冥，虎嘯猿啼。登斯樓也，則有去國懷鄉，憂讒畏譏，滿目蕭然，感極而悲者矣。"
+    },
+    "context": "若夫霪雨霏霏，連月不開；陰風怒號，濁浪排空；日星隱耀，山岳潛形；商旅不行，檣傾楫摧；薄暮冥冥，虎嘯猿啼。登斯樓也，則有去國懷鄉，憂讒畏譏，滿目蕭然，感極而悲者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[3].blocks[0]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-03-01",
+      "pilot-09-03-03",
+      "pilot-09-03-04",
+      "pilot-09-03-06",
+      "pilot-09-03-09",
+      "pilot-09-03-10",
+      "pilot-09-03-11",
+      "pilot-09-03-13",
+      "pilot-09-03-14",
+      "pilot-09-03-15",
+      "concept-09-05",
+      "concept-09-06",
+      "concept-09-07",
+      "concept-09-08",
+      "q-appendix-001",
+      "full-c-09-03-03-01",
+      "full-c-09-03-03-04",
+      "full-c-09-03-03-06",
+      "full-c-09-03-03-07",
+      "full-c-09-03-03-11",
+      "full-c-09-03-03-15",
+      "full-c-09-03-00-90",
+      "full-c-09-00-01-80",
+      "full-c-09-00-03-80",
+      "full-c-09-00-05-80",
+      "full-c-09-00-07-80",
+      "full-c-09-03-04-80",
+      "full-c-09-06-00-80",
+      "full-c-09-06-01-80",
+      "full-c-09-07-00-01",
+      "full-c-09-07-00-02",
+      "full-c-09-07-00-03",
+      "full-c-09-07-00-04",
+      "full-c-09-07-00-05",
+      "full-c-09-07-02-80",
+      "full-c-09-07-04-01",
+      "full-c-09-07-04-02",
+      "full-c-09-07-04-03",
+      "full-c-09-08-00-01",
+      "full-c-09-08-00-02",
+      "full-c-09-08-00-03",
+      "full-c-09-08-00-04",
+      "full-c-09-08-00-05",
+      "full-c-09-09-01-80",
+      "full-c-09-09-03-80",
+      "full-c-09-09-05-80",
+      "full-c-09-10-01-03",
+      "full-c-09-10-01-04",
+      "full-c-09-10-02-01",
+      "full-c-09-10-02-03",
+      "full-c-09-10-02-08",
+      "full-c-09-10-02-09",
+      "full-c-09-10-02-10",
+      "full-c-09-10-02-16",
+      "full-c-09-10-02-18",
+      "full-c-09-10-02-19",
+      "full-c-09-10-02-20",
+      "full-c-09-10-02-22",
+      "full-c-09-10-02-23",
+      "full-c-09-10-02-25",
+      "full-c-09-10-02-26",
+      "full-c-09-10-02-27",
+      "full-c-09-10-02-28",
+      "full-c-09-10-02-29",
+      "full-c-09-10-02-31",
+      "full-c-09-11-00-03",
+      "full-c-09-11-00-04",
+      "full-c-09-11-00-05",
+      "full-c-09-11-00-07",
+      "full-c-09-11-00-15",
+      "full-c-09-11-00-17",
+      "full-c-09-11-00-19",
+      "full-c-09-11-00-20",
+      "full-c-09-11-00-21",
+      "full-c-09-11-00-26",
+      "full-c-09-11-00-27",
+      "full-c-09-11-00-31",
+      "full-c-09-11-00-34",
+      "full-c-09-11-00-35",
+      "full-c-09-11-00-37",
+      "full-c-09-11-00-38",
+      "full-c-09-11-01-80",
+      "full-c-09-12-01-01",
+      "full-c-09-12-01-02",
+      "full-c-09-12-01-03",
+      "full-c-09-12-03-01",
+      "full-c-09-12-03-02",
+      "full-c-09-12-03-03",
+      "full-c-09-12-03-04",
+      "full-c-09-12-03-05",
+      "full-c-09-12-03-06",
+      "full-c-09-12-04-80",
+      "full-c-09-12-06-01",
+      "full-c-09-12-06-02",
+      "full-c-09-12-06-03",
+      "full-c-09-12-06-04",
+      "full-c-09-12-06-05",
+      "full-c-09-12-08-80",
+      "full-c-09-12-09-80",
+      "full-c-09-12-11-01",
+      "full-c-09-12-11-02",
+      "full-c-09-12-11-03",
+      "full-c-09-12-11-04",
+      "full-c-09-14-00-80",
+      "full-c-09-16-00-80",
+      "full-c-09-16-01-01",
+      "full-c-09-16-01-02",
+      "full-c-09-16-01-03",
+      "dse-2022-1a-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-759d47ddaa947dee",
+    "chapterId": "essay-09",
+    "category": "text",
+    "title": "第3段｜原文與語譯",
+    "fields": {
+      "語譯": "至於那連綿的陰雨下個不斷的日子，接連數月都不放晴；陰冷的風狂叫怒吼，渾濁的浪頭衝向天空；太陽和星星的光輝都被隱沒了，高山都隱藏不見；商人和旅客不能前行，船上的桅杆傾斜、船槳折斷；黃昏時天色昏暗，老虎怒吼，猿猴悲啼。在這時登上這座樓，就會產生因離開京師而懷念故鄉的心情，擔憂和害怕被別人誹謗或譏諷，只覺得滿眼蕭條空寂，感慨到極點而悲傷起來了。"
+    },
+    "context": "若夫霪雨霏霏，連月不開；陰風怒號，濁浪排空；日星隱耀，山岳潛形；商旅不行，檣傾楫摧；薄暮冥冥，虎嘯猿啼。登斯樓也，則有去國懷鄉，憂讒畏譏，滿目蕭然，感極而悲者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[3].blocks[2]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-03-01",
+      "pilot-09-03-03",
+      "pilot-09-03-04",
+      "pilot-09-03-06",
+      "pilot-09-03-09",
+      "pilot-09-03-10",
+      "pilot-09-03-11",
+      "pilot-09-03-13",
+      "pilot-09-03-14",
+      "pilot-09-03-15",
+      "concept-09-05",
+      "concept-09-06",
+      "concept-09-07",
+      "concept-09-08",
+      "q-appendix-001",
+      "full-c-09-03-03-01",
+      "full-c-09-03-03-04",
+      "full-c-09-03-03-06",
+      "full-c-09-03-03-07",
+      "full-c-09-03-03-11",
+      "full-c-09-03-03-15",
+      "full-c-09-03-00-90",
+      "full-c-09-00-01-80",
+      "full-c-09-00-03-80",
+      "full-c-09-00-05-80",
+      "full-c-09-00-07-80",
+      "full-c-09-03-04-80",
+      "full-c-09-06-00-80",
+      "full-c-09-06-01-80",
+      "full-c-09-07-00-01",
+      "full-c-09-07-00-02",
+      "full-c-09-07-00-03",
+      "full-c-09-07-00-04",
+      "full-c-09-07-00-05",
+      "full-c-09-07-02-80",
+      "full-c-09-07-04-01",
+      "full-c-09-07-04-02",
+      "full-c-09-07-04-03",
+      "full-c-09-08-00-01",
+      "full-c-09-08-00-02",
+      "full-c-09-08-00-03",
+      "full-c-09-08-00-04",
+      "full-c-09-08-00-05",
+      "full-c-09-09-01-80",
+      "full-c-09-09-03-80",
+      "full-c-09-09-05-80",
+      "full-c-09-10-01-03",
+      "full-c-09-10-01-04",
+      "full-c-09-10-02-01",
+      "full-c-09-10-02-03",
+      "full-c-09-10-02-08",
+      "full-c-09-10-02-09",
+      "full-c-09-10-02-10",
+      "full-c-09-10-02-16",
+      "full-c-09-10-02-18",
+      "full-c-09-10-02-19",
+      "full-c-09-10-02-20",
+      "full-c-09-10-02-22",
+      "full-c-09-10-02-23",
+      "full-c-09-10-02-25",
+      "full-c-09-10-02-26",
+      "full-c-09-10-02-27",
+      "full-c-09-10-02-28",
+      "full-c-09-10-02-29",
+      "full-c-09-10-02-31",
+      "full-c-09-11-00-03",
+      "full-c-09-11-00-04",
+      "full-c-09-11-00-05",
+      "full-c-09-11-00-07",
+      "full-c-09-11-00-15",
+      "full-c-09-11-00-17",
+      "full-c-09-11-00-19",
+      "full-c-09-11-00-20",
+      "full-c-09-11-00-21",
+      "full-c-09-11-00-26",
+      "full-c-09-11-00-27",
+      "full-c-09-11-00-31",
+      "full-c-09-11-00-34",
+      "full-c-09-11-00-35",
+      "full-c-09-11-00-37",
+      "full-c-09-11-00-38",
+      "full-c-09-11-01-80",
+      "full-c-09-12-01-01",
+      "full-c-09-12-01-02",
+      "full-c-09-12-01-03",
+      "full-c-09-12-03-01",
+      "full-c-09-12-03-02",
+      "full-c-09-12-03-03",
+      "full-c-09-12-03-04",
+      "full-c-09-12-03-05",
+      "full-c-09-12-03-06",
+      "full-c-09-12-04-80",
+      "full-c-09-12-06-01",
+      "full-c-09-12-06-02",
+      "full-c-09-12-06-03",
+      "full-c-09-12-06-04",
+      "full-c-09-12-06-05",
+      "full-c-09-12-08-80",
+      "full-c-09-12-09-80",
+      "full-c-09-12-11-01",
+      "full-c-09-12-11-02",
+      "full-c-09-12-11-03",
+      "full-c-09-12-11-04",
+      "full-c-09-14-00-80",
+      "full-c-09-16-00-80",
+      "full-c-09-16-01-01",
+      "full-c-09-16-01-02",
+      "full-c-09-16-01-03",
+      "dse-2022-1a-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-05bbb40907164619",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "霪雨",
+    "fields": {
+      "詞義": "連綿的雨"
+    },
+    "context": "若夫霪雨霏霏，連月不開；陰風怒號，濁浪排空；日星隱耀，山岳潛形；商旅不行，檣傾楫摧；薄暮冥冥，虎嘯猿啼。登斯樓也，則有去國懷鄉，憂讒畏譏，滿目蕭然，感極而悲者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[3].blocks[3][1][0]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-03-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0b9401de749c0d69",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "霏霏",
+    "fields": {
+      "詞義": "雨密集不斷貌"
+    },
+    "context": "若夫霪雨霏霏，連月不開；陰風怒號，濁浪排空；日星隱耀，山岳潛形；商旅不行，檣傾楫摧；薄暮冥冥，虎嘯猿啼。登斯樓也，則有去國懷鄉，憂讒畏譏，滿目蕭然，感極而悲者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[3].blocks[3][1][1]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-03-03-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4c15946f1780a9c6",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "開",
+    "fields": {
+      "詞義": "放晴"
+    },
+    "context": "若夫霪雨霏霏，連月不開；陰風怒號，濁浪排空；日星隱耀，山岳潛形；商旅不行，檣傾楫摧；薄暮冥冥，虎嘯猿啼。登斯樓也，則有去國懷鄉，憂讒畏譏，滿目蕭然，感極而悲者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[3].blocks[3][1][2]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-03-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b0fa3c08f17ebf1d",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "陰",
+    "fields": {
+      "詞義": "陰冷、寒冷"
+    },
+    "context": "若夫霪雨霏霏，連月不開；陰風怒號，濁浪排空；日星隱耀，山岳潛形；商旅不行，檣傾楫摧；薄暮冥冥，虎嘯猿啼。登斯樓也，則有去國懷鄉，憂讒畏譏，滿目蕭然，感極而悲者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[3].blocks[3][1][3]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-03-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a2d4b37fe9073328",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "怒號",
+    "fields": {
+      "詞義": "猛烈呼嘯"
+    },
+    "context": "若夫霪雨霏霏，連月不開；陰風怒號，濁浪排空；日星隱耀，山岳潛形；商旅不行，檣傾楫摧；薄暮冥冥，虎嘯猿啼。登斯樓也，則有去國懷鄉，憂讒畏譏，滿目蕭然，感極而悲者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[3].blocks[3][1][4]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-03-03-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-368f313c14c1cc01",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "排空",
+    "fields": {
+      "詞義": "衝向天空"
+    },
+    "context": "若夫霪雨霏霏，連月不開；陰風怒號，濁浪排空；日星隱耀，山岳潛形；商旅不行，檣傾楫摧；薄暮冥冥，虎嘯猿啼。登斯樓也，則有去國懷鄉，憂讒畏譏，滿目蕭然，感極而悲者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[3].blocks[3][1][5]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-03-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c295d99eedebac21",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "耀",
+    "fields": {
+      "詞義": "光輝"
+    },
+    "context": "若夫霪雨霏霏，連月不開；陰風怒號，濁浪排空；日星隱耀，山岳潛形；商旅不行，檣傾楫摧；薄暮冥冥，虎嘯猿啼。登斯樓也，則有去國懷鄉，憂讒畏譏，滿目蕭然，感極而悲者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[3].blocks[3][1][6]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-03-03-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-07e8ce4568cdfb07",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "潛形",
+    "fields": {
+      "詞義": "隱沒形跡"
+    },
+    "context": "若夫霪雨霏霏，連月不開；陰風怒號，濁浪排空；日星隱耀，山岳潛形；商旅不行，檣傾楫摧；薄暮冥冥，虎嘯猿啼。登斯樓也，則有去國懷鄉，憂讒畏譏，滿目蕭然，感極而悲者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[3].blocks[3][1][7]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-03-03-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8f44e0c1ae7f73e3",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "檣",
+    "fields": {
+      "詞義": "桅杆"
+    },
+    "context": "若夫霪雨霏霏，連月不開；陰風怒號，濁浪排空；日星隱耀，山岳潛形；商旅不行，檣傾楫摧；薄暮冥冥，虎嘯猿啼。登斯樓也，則有去國懷鄉，憂讒畏譏，滿目蕭然，感極而悲者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[3].blocks[3][1][8]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-03-09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c995a9b2134ef9b7",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "楫",
+    "fields": {
+      "詞義": "船槳"
+    },
+    "context": "若夫霪雨霏霏，連月不開；陰風怒號，濁浪排空；日星隱耀，山岳潛形；商旅不行，檣傾楫摧；薄暮冥冥，虎嘯猿啼。登斯樓也，則有去國懷鄉，憂讒畏譏，滿目蕭然，感極而悲者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[3].blocks[3][1][9]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-03-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1ce9cd935eafd062",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "薄",
+    "fields": {
+      "詞義": "迫近"
+    },
+    "context": "若夫霪雨霏霏，連月不開；陰風怒號，濁浪排空；日星隱耀，山岳潛形；商旅不行，檣傾楫摧；薄暮冥冥，虎嘯猿啼。登斯樓也，則有去國懷鄉，憂讒畏譏，滿目蕭然，感極而悲者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[3].blocks[3][1][10]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-03-11"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-12f822c90424efe3",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "冥冥",
+    "fields": {
+      "詞義": "昏暗"
+    },
+    "context": "若夫霪雨霏霏，連月不開；陰風怒號，濁浪排空；日星隱耀，山岳潛形；商旅不行，檣傾楫摧；薄暮冥冥，虎嘯猿啼。登斯樓也，則有去國懷鄉，憂讒畏譏，滿目蕭然，感極而悲者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[3].blocks[3][1][11]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-03-03-11"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-581ae08a11ca2a15",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "去",
+    "fields": {
+      "詞義": "離開"
+    },
+    "context": "若夫霪雨霏霏，連月不開；陰風怒號，濁浪排空；日星隱耀，山岳潛形；商旅不行，檣傾楫摧；薄暮冥冥，虎嘯猿啼。登斯樓也，則有去國懷鄉，憂讒畏譏，滿目蕭然，感極而悲者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[3].blocks[3][1][12]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-03-13"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1f067d305912eb62",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "國",
+    "fields": {
+      "詞義": "國都"
+    },
+    "context": "若夫霪雨霏霏，連月不開；陰風怒號，濁浪排空；日星隱耀，山岳潛形；商旅不行，檣傾楫摧；薄暮冥冥，虎嘯猿啼。登斯樓也，則有去國懷鄉，憂讒畏譏，滿目蕭然，感極而悲者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[3].blocks[3][1][13]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-03-14"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d0f59e1439b44af5",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "讒",
+    "fields": {
+      "詞義": "誹謗"
+    },
+    "context": "若夫霪雨霏霏，連月不開；陰風怒號，濁浪排空；日星隱耀，山岳潛形；商旅不行，檣傾楫摧；薄暮冥冥，虎嘯猿啼。登斯樓也，則有去國懷鄉，憂讒畏譏，滿目蕭然，感極而悲者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[3].blocks[3][1][14]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-03-15"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d9e5bd22cc0b51d7",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "蕭然",
+    "fields": {
+      "詞義": "蕭條冷落"
+    },
+    "context": "若夫霪雨霏霏，連月不開；陰風怒號，濁浪排空；日星隱耀，山岳潛形；商旅不行，檣傾楫摧；薄暮冥冥，虎嘯猿啼。登斯樓也，則有去國懷鄉，憂讒畏譏，滿目蕭然，感極而悲者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[3].blocks[3][1][15]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-03-03-15"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-74d4e381d7b826d9",
+    "chapterId": "essay-09",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "去國是離開京師，懷鄉是思念故鄉；憂讒畏譏關乎個人遭遇。景物層層變暗，使悲情有具體依據。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[3].blocks[4]",
+        "section": "第3段｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[54].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[55].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[56].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[57].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[58].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[59].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[60].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[61].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[62].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[63].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1327].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1328].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1329].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1330].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1331].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1332].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1424].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1578].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-03-01",
+      "pilot-09-03-03",
+      "pilot-09-03-04",
+      "pilot-09-03-06",
+      "pilot-09-03-09",
+      "pilot-09-03-10",
+      "pilot-09-03-11",
+      "pilot-09-03-13",
+      "pilot-09-03-14",
+      "pilot-09-03-15",
+      "full-c-09-03-03-01",
+      "full-c-09-03-03-04",
+      "full-c-09-03-03-06",
+      "full-c-09-03-03-07",
+      "full-c-09-03-03-11",
+      "full-c-09-03-03-15",
+      "full-c-09-03-00-90",
+      "full-c-09-03-04-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-86b5261a9f162d7f",
+    "chapterId": "essay-09",
+    "category": "theme",
+    "title": "句段核心：第4段｜原文與語譯",
+    "fields": {
+      "重點": "春和月明令人暫忘榮辱，寫另一種因景而喜。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[4].core",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-061746dae85077be",
+    "chapterId": "essay-09",
+    "category": "text",
+    "title": "第4段｜原文與語譯",
+    "fields": {
+      "原文": "至若春和景明，波瀾不驚，上下天光，一碧萬頃；沙鷗翔集，錦鱗游泳，岸芷汀蘭，郁郁青青。而或長煙一空，皓月千里，浮光躍金，靜影沉璧；漁歌互答，此樂何極！登斯樓也，則有心曠神怡，寵辱皆忘，把酒臨風，其喜洋洋者矣。"
+    },
+    "context": "至若春和景明，波瀾不驚，上下天光，一碧萬頃；沙鷗翔集，錦鱗游泳，岸芷汀蘭，郁郁青青。而或長煙一空，皓月千里，浮光躍金，靜影沉璧；漁歌互答，此樂何極！登斯樓也，則有心曠神怡，寵辱皆忘，把酒臨風，其喜洋洋者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[4].blocks[0]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-04-01",
+      "pilot-09-04-02",
+      "pilot-09-04-04",
+      "pilot-09-04-07",
+      "pilot-09-04-09",
+      "pilot-09-04-12",
+      "pilot-09-04-13",
+      "pilot-09-04-15",
+      "pilot-09-04-16",
+      "concept-09-05",
+      "concept-09-06",
+      "concept-09-07",
+      "concept-09-08",
+      "q-appendix-001",
+      "full-c-09-04-03-02",
+      "full-c-09-04-03-04",
+      "full-c-09-04-03-05",
+      "full-c-09-04-03-07",
+      "full-c-09-04-03-10",
+      "full-c-09-04-03-13",
+      "full-c-09-04-00-90",
+      "full-c-09-00-01-80",
+      "full-c-09-00-03-80",
+      "full-c-09-00-05-80",
+      "full-c-09-00-07-80",
+      "full-c-09-04-04-80",
+      "full-c-09-06-00-80",
+      "full-c-09-06-01-80",
+      "full-c-09-07-00-01",
+      "full-c-09-07-00-02",
+      "full-c-09-07-00-03",
+      "full-c-09-07-00-04",
+      "full-c-09-07-00-05",
+      "full-c-09-07-02-80",
+      "full-c-09-07-04-01",
+      "full-c-09-07-04-02",
+      "full-c-09-07-04-03",
+      "full-c-09-08-00-01",
+      "full-c-09-08-00-02",
+      "full-c-09-08-00-03",
+      "full-c-09-08-00-04",
+      "full-c-09-08-00-05",
+      "full-c-09-09-01-80",
+      "full-c-09-09-03-80",
+      "full-c-09-09-05-80",
+      "full-c-09-10-01-03",
+      "full-c-09-10-01-04",
+      "full-c-09-10-02-01",
+      "full-c-09-10-02-03",
+      "full-c-09-10-02-08",
+      "full-c-09-10-02-09",
+      "full-c-09-10-02-10",
+      "full-c-09-10-02-16",
+      "full-c-09-10-02-18",
+      "full-c-09-10-02-19",
+      "full-c-09-10-02-20",
+      "full-c-09-10-02-22",
+      "full-c-09-10-02-23",
+      "full-c-09-10-02-25",
+      "full-c-09-10-02-26",
+      "full-c-09-10-02-27",
+      "full-c-09-10-02-28",
+      "full-c-09-10-02-29",
+      "full-c-09-10-02-31",
+      "full-c-09-11-00-03",
+      "full-c-09-11-00-04",
+      "full-c-09-11-00-05",
+      "full-c-09-11-00-07",
+      "full-c-09-11-00-15",
+      "full-c-09-11-00-17",
+      "full-c-09-11-00-19",
+      "full-c-09-11-00-20",
+      "full-c-09-11-00-21",
+      "full-c-09-11-00-26",
+      "full-c-09-11-00-27",
+      "full-c-09-11-00-31",
+      "full-c-09-11-00-34",
+      "full-c-09-11-00-35",
+      "full-c-09-11-00-37",
+      "full-c-09-11-00-38",
+      "full-c-09-11-01-80",
+      "full-c-09-12-01-01",
+      "full-c-09-12-01-02",
+      "full-c-09-12-01-03",
+      "full-c-09-12-03-01",
+      "full-c-09-12-03-02",
+      "full-c-09-12-03-03",
+      "full-c-09-12-03-04",
+      "full-c-09-12-03-05",
+      "full-c-09-12-03-06",
+      "full-c-09-12-04-80",
+      "full-c-09-12-06-01",
+      "full-c-09-12-06-02",
+      "full-c-09-12-06-03",
+      "full-c-09-12-06-04",
+      "full-c-09-12-06-05",
+      "full-c-09-12-08-80",
+      "full-c-09-12-09-80",
+      "full-c-09-12-11-01",
+      "full-c-09-12-11-02",
+      "full-c-09-12-11-03",
+      "full-c-09-12-11-04",
+      "full-c-09-14-00-80",
+      "full-c-09-16-00-80",
+      "full-c-09-16-01-01",
+      "full-c-09-16-01-02",
+      "full-c-09-16-01-03",
+      "dse-2022-1a-3",
+      "dse-2024-1a-6-i",
+      "dse-2024-1a-6-ii"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-93b1d062c48c2bcc",
+    "chapterId": "essay-09",
+    "category": "text",
+    "title": "第4段｜原文與語譯",
+    "fields": {
+      "語譯": "至於在春日天氣暖和，陽光明媚的日子，湖面風平浪靜，天色和湖光相映，一片碧綠廣闊無邊；成羣的沙鷗時而飛翔時而停歇聚集，美麗的魚兒游來游去，岸邊或小洲上的香草和蘭花，香氣濃郁，長得很茂盛。有時大片的煙霧完全消散了，潔白明亮的月光一瀉千里，月光映照在波動的湖面上，閃耀着金光，靜靜的月影像沉浸在水中的白玉，漁夫的歌聲互相唱和，這種快樂哪有窮盡！在這時登上這座樓台，就會心胸開闊，精神愉快，得失榮辱全都忘記，端起酒杯迎風暢飲，實在高興極了。"
+    },
+    "context": "至若春和景明，波瀾不驚，上下天光，一碧萬頃；沙鷗翔集，錦鱗游泳，岸芷汀蘭，郁郁青青。而或長煙一空，皓月千里，浮光躍金，靜影沉璧；漁歌互答，此樂何極！登斯樓也，則有心曠神怡，寵辱皆忘，把酒臨風，其喜洋洋者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[4].blocks[2]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-04-01",
+      "pilot-09-04-02",
+      "pilot-09-04-04",
+      "pilot-09-04-07",
+      "pilot-09-04-09",
+      "pilot-09-04-12",
+      "pilot-09-04-13",
+      "pilot-09-04-15",
+      "pilot-09-04-16",
+      "concept-09-05",
+      "concept-09-06",
+      "concept-09-07",
+      "concept-09-08",
+      "q-appendix-001",
+      "full-c-09-04-03-02",
+      "full-c-09-04-03-04",
+      "full-c-09-04-03-05",
+      "full-c-09-04-03-07",
+      "full-c-09-04-03-10",
+      "full-c-09-04-03-13",
+      "full-c-09-04-00-90",
+      "full-c-09-00-01-80",
+      "full-c-09-00-03-80",
+      "full-c-09-00-05-80",
+      "full-c-09-00-07-80",
+      "full-c-09-04-04-80",
+      "full-c-09-06-00-80",
+      "full-c-09-06-01-80",
+      "full-c-09-07-00-01",
+      "full-c-09-07-00-02",
+      "full-c-09-07-00-03",
+      "full-c-09-07-00-04",
+      "full-c-09-07-00-05",
+      "full-c-09-07-02-80",
+      "full-c-09-07-04-01",
+      "full-c-09-07-04-02",
+      "full-c-09-07-04-03",
+      "full-c-09-08-00-01",
+      "full-c-09-08-00-02",
+      "full-c-09-08-00-03",
+      "full-c-09-08-00-04",
+      "full-c-09-08-00-05",
+      "full-c-09-09-01-80",
+      "full-c-09-09-03-80",
+      "full-c-09-09-05-80",
+      "full-c-09-10-01-03",
+      "full-c-09-10-01-04",
+      "full-c-09-10-02-01",
+      "full-c-09-10-02-03",
+      "full-c-09-10-02-08",
+      "full-c-09-10-02-09",
+      "full-c-09-10-02-10",
+      "full-c-09-10-02-16",
+      "full-c-09-10-02-18",
+      "full-c-09-10-02-19",
+      "full-c-09-10-02-20",
+      "full-c-09-10-02-22",
+      "full-c-09-10-02-23",
+      "full-c-09-10-02-25",
+      "full-c-09-10-02-26",
+      "full-c-09-10-02-27",
+      "full-c-09-10-02-28",
+      "full-c-09-10-02-29",
+      "full-c-09-10-02-31",
+      "full-c-09-11-00-03",
+      "full-c-09-11-00-04",
+      "full-c-09-11-00-05",
+      "full-c-09-11-00-07",
+      "full-c-09-11-00-15",
+      "full-c-09-11-00-17",
+      "full-c-09-11-00-19",
+      "full-c-09-11-00-20",
+      "full-c-09-11-00-21",
+      "full-c-09-11-00-26",
+      "full-c-09-11-00-27",
+      "full-c-09-11-00-31",
+      "full-c-09-11-00-34",
+      "full-c-09-11-00-35",
+      "full-c-09-11-00-37",
+      "full-c-09-11-00-38",
+      "full-c-09-11-01-80",
+      "full-c-09-12-01-01",
+      "full-c-09-12-01-02",
+      "full-c-09-12-01-03",
+      "full-c-09-12-03-01",
+      "full-c-09-12-03-02",
+      "full-c-09-12-03-03",
+      "full-c-09-12-03-04",
+      "full-c-09-12-03-05",
+      "full-c-09-12-03-06",
+      "full-c-09-12-04-80",
+      "full-c-09-12-06-01",
+      "full-c-09-12-06-02",
+      "full-c-09-12-06-03",
+      "full-c-09-12-06-04",
+      "full-c-09-12-06-05",
+      "full-c-09-12-08-80",
+      "full-c-09-12-09-80",
+      "full-c-09-12-11-01",
+      "full-c-09-12-11-02",
+      "full-c-09-12-11-03",
+      "full-c-09-12-11-04",
+      "full-c-09-14-00-80",
+      "full-c-09-16-00-80",
+      "full-c-09-16-01-01",
+      "full-c-09-16-01-02",
+      "full-c-09-16-01-03",
+      "dse-2022-1a-3",
+      "dse-2024-1a-6-i",
+      "dse-2024-1a-6-ii"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3b648a5009dcb66e",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "景",
+    "fields": {
+      "詞義": "日光"
+    },
+    "context": "至若春和景明，波瀾不驚，上下天光，一碧萬頃；沙鷗翔集，錦鱗游泳，岸芷汀蘭，郁郁青青。而或長煙一空，皓月千里，浮光躍金，靜影沉璧；漁歌互答，此樂何極！登斯樓也，則有心曠神怡，寵辱皆忘，把酒臨風，其喜洋洋者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[4].blocks[3][1][0]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-04-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bd0cc0d0fe807896",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "驚",
+    "fields": {
+      "詞義": "起伏、動盪"
+    },
+    "context": "至若春和景明，波瀾不驚，上下天光，一碧萬頃；沙鷗翔集，錦鱗游泳，岸芷汀蘭，郁郁青青。而或長煙一空，皓月千里，浮光躍金，靜影沉璧；漁歌互答，此樂何極！登斯樓也，則有心曠神怡，寵辱皆忘，把酒臨風，其喜洋洋者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[4].blocks[3][1][1]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-04-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f6cc558df9e98bfb",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "一",
+    "fields": {
+      "詞義": "一片"
+    },
+    "context": "至若春和景明，波瀾不驚，上下天光，一碧萬頃；沙鷗翔集，錦鱗游泳，岸芷汀蘭，郁郁青青。而或長煙一空，皓月千里，浮光躍金，靜影沉璧；漁歌互答，此樂何極！登斯樓也，則有心曠神怡，寵辱皆忘，把酒臨風，其喜洋洋者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[4].blocks[3][1][2]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-04-03-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d52ab717db8c8ef3",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "集",
+    "fields": {
+      "詞義": "停棲"
+    },
+    "context": "至若春和景明，波瀾不驚，上下天光，一碧萬頃；沙鷗翔集，錦鱗游泳，岸芷汀蘭，郁郁青青。而或長煙一空，皓月千里，浮光躍金，靜影沉璧；漁歌互答，此樂何極！登斯樓也，則有心曠神怡，寵辱皆忘，把酒臨風，其喜洋洋者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[4].blocks[3][1][3]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-04-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-43c9f986b3114bba",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "錦鱗",
+    "fields": {
+      "詞義": "美麗的魚"
+    },
+    "context": "至若春和景明，波瀾不驚，上下天光，一碧萬頃；沙鷗翔集，錦鱗游泳，岸芷汀蘭，郁郁青青。而或長煙一空，皓月千里，浮光躍金，靜影沉璧；漁歌互答，此樂何極！登斯樓也，則有心曠神怡，寵辱皆忘，把酒臨風，其喜洋洋者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[4].blocks[3][1][4]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-04-03-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-15a052aa5e943a51",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "芷",
+    "fields": {
+      "詞義": "香草"
+    },
+    "context": "至若春和景明，波瀾不驚，上下天光，一碧萬頃；沙鷗翔集，錦鱗游泳，岸芷汀蘭，郁郁青青。而或長煙一空，皓月千里，浮光躍金，靜影沉璧；漁歌互答，此樂何極！登斯樓也，則有心曠神怡，寵辱皆忘，把酒臨風，其喜洋洋者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[4].blocks[3][1][5]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-04-03-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-83de6a5bc01069b2",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "汀",
+    "fields": {
+      "詞義": "水中小洲"
+    },
+    "context": "至若春和景明，波瀾不驚，上下天光，一碧萬頃；沙鷗翔集，錦鱗游泳，岸芷汀蘭，郁郁青青。而或長煙一空，皓月千里，浮光躍金，靜影沉璧；漁歌互答，此樂何極！登斯樓也，則有心曠神怡，寵辱皆忘，把酒臨風，其喜洋洋者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[4].blocks[3][1][6]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-04-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9401c73a56bcc8a3",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "郁郁青青",
+    "fields": {
+      "詞義": "芳香茂盛"
+    },
+    "context": "至若春和景明，波瀾不驚，上下天光，一碧萬頃；沙鷗翔集，錦鱗游泳，岸芷汀蘭，郁郁青青。而或長煙一空，皓月千里，浮光躍金，靜影沉璧；漁歌互答，此樂何極！登斯樓也，則有心曠神怡，寵辱皆忘，把酒臨風，其喜洋洋者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[4].blocks[3][1][7]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-04-03-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8718322ce3b5da02",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "或",
+    "fields": {
+      "詞義": "有時"
+    },
+    "context": "至若春和景明，波瀾不驚，上下天光，一碧萬頃；沙鷗翔集，錦鱗游泳，岸芷汀蘭，郁郁青青。而或長煙一空，皓月千里，浮光躍金，靜影沉璧；漁歌互答，此樂何極！登斯樓也，則有心曠神怡，寵辱皆忘，把酒臨風，其喜洋洋者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[4].blocks[3][1][8]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-04-09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-36afc43f2e1ba059",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "一",
+    "fields": {
+      "詞義": "全都"
+    },
+    "context": "至若春和景明，波瀾不驚，上下天光，一碧萬頃；沙鷗翔集，錦鱗游泳，岸芷汀蘭，郁郁青青。而或長煙一空，皓月千里，浮光躍金，靜影沉璧；漁歌互答，此樂何極！登斯樓也，則有心曠神怡，寵辱皆忘，把酒臨風，其喜洋洋者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[4].blocks[3][1][9]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-73e0bf1e4e0212bf",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "皓月",
+    "fields": {
+      "詞義": "明亮的月亮"
+    },
+    "context": "至若春和景明，波瀾不驚，上下天光，一碧萬頃；沙鷗翔集，錦鱗游泳，岸芷汀蘭，郁郁青青。而或長煙一空，皓月千里，浮光躍金，靜影沉璧；漁歌互答，此樂何極！登斯樓也，則有心曠神怡，寵辱皆忘，把酒臨風，其喜洋洋者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[4].blocks[3][1][10]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-04-03-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ec2d1a3aed155834",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "璧",
+    "fields": {
+      "詞義": "圓形美玉"
+    },
+    "context": "至若春和景明，波瀾不驚，上下天光，一碧萬頃；沙鷗翔集，錦鱗游泳，岸芷汀蘭，郁郁青青。而或長煙一空，皓月千里，浮光躍金，靜影沉璧；漁歌互答，此樂何極！登斯樓也，則有心曠神怡，寵辱皆忘，把酒臨風，其喜洋洋者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[4].blocks[3][1][11]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-04-12"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-79c07f785f373412",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "極",
+    "fields": {
+      "詞義": "窮盡"
+    },
+    "context": "至若春和景明，波瀾不驚，上下天光，一碧萬頃；沙鷗翔集，錦鱗游泳，岸芷汀蘭，郁郁青青。而或長煙一空，皓月千里，浮光躍金，靜影沉璧；漁歌互答，此樂何極！登斯樓也，則有心曠神怡，寵辱皆忘，把酒臨風，其喜洋洋者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[4].blocks[3][1][12]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-04-13"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-188bdc9f4e6326b3",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "寵辱",
+    "fields": {
+      "詞義": "榮寵和屈辱"
+    },
+    "context": "至若春和景明，波瀾不驚，上下天光，一碧萬頃；沙鷗翔集，錦鱗游泳，岸芷汀蘭，郁郁青青。而或長煙一空，皓月千里，浮光躍金，靜影沉璧；漁歌互答，此樂何極！登斯樓也，則有心曠神怡，寵辱皆忘，把酒臨風，其喜洋洋者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[4].blocks[3][1][13]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-04-03-13"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-09ba4892cadcf62f",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "把",
+    "fields": {
+      "詞義": "持、端起"
+    },
+    "context": "至若春和景明，波瀾不驚，上下天光，一碧萬頃；沙鷗翔集，錦鱗游泳，岸芷汀蘭，郁郁青青。而或長煙一空，皓月千里，浮光躍金，靜影沉璧；漁歌互答，此樂何極！登斯樓也，則有心曠神怡，寵辱皆忘，把酒臨風，其喜洋洋者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[4].blocks[3][1][14]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-04-15"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a63159d41cdb8c7a",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "臨",
+    "fields": {
+      "詞義": "迎着"
+    },
+    "context": "至若春和景明，波瀾不驚，上下天光，一碧萬頃；沙鷗翔集，錦鱗游泳，岸芷汀蘭，郁郁青青。而或長煙一空，皓月千里，浮光躍金，靜影沉璧；漁歌互答，此樂何極！登斯樓也，則有心曠神怡，寵辱皆忘，把酒臨風，其喜洋洋者矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[4].blocks[3][1][15]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-04-16"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d71583fbceb444d0",
+    "chapterId": "essay-09",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "浮光是水動映月，靜影是水靜月影；兩者狀態不同。寵辱皆忘是此時心情，不直接等於古仁人的長久原則。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[4].blocks[4]",
+        "section": "第4段｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[64].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[65].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[66].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[67].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[68].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[69].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[70].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[71].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[72].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1333].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1334].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1335].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1336].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1337].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1338].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1425].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1579].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2155].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2156].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-04-01",
+      "pilot-09-04-02",
+      "pilot-09-04-04",
+      "pilot-09-04-07",
+      "pilot-09-04-09",
+      "pilot-09-04-12",
+      "pilot-09-04-13",
+      "pilot-09-04-15",
+      "pilot-09-04-16",
+      "full-c-09-04-03-02",
+      "full-c-09-04-03-04",
+      "full-c-09-04-03-05",
+      "full-c-09-04-03-07",
+      "full-c-09-04-03-10",
+      "full-c-09-04-03-13",
+      "full-c-09-04-00-90",
+      "full-c-09-04-04-80",
+      "dse-2024-1a-6-i",
+      "dse-2024-1a-6-ii"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-dda073dabccfaa55",
+    "chapterId": "essay-09",
+    "category": "theme",
+    "title": "句段核心：第5段｜原文與語譯",
+    "fields": {
+      "重點": "古仁人超越個人得失，在朝在野仍憂國憂民。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[5].core",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c101b12a80c08091",
+    "chapterId": "essay-09",
+    "category": "text",
+    "title": "第5段｜原文與語譯",
+    "fields": {
+      "原文": "嗟夫！予嘗求古仁人之心，或異二者之為。何哉？不以物喜，不以己悲。居廟堂之高，則憂其民；處江湖之遠，則憂其君。是進亦憂，退亦憂，然則何時而樂耶？其必曰：「先天下之憂而憂，後天下之樂而樂」歟！噫！微斯人，吾誰與歸！"
+    },
+    "context": "嗟夫！予嘗求古仁人之心，或異二者之為。何哉？不以物喜，不以己悲。居廟堂之高，則憂其民；處江湖之遠，則憂其君。是進亦憂，退亦憂，然則何時而樂耶？其必曰：「先天下之憂而憂，後天下之樂而樂」歟！噫！微斯人，吾誰與歸！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[5].blocks[0]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-05-01",
+      "pilot-09-05-02",
+      "pilot-09-05-03",
+      "pilot-09-05-04",
+      "pilot-09-05-06",
+      "pilot-09-05-07",
+      "concept-09-05",
+      "concept-09-06",
+      "concept-09-07",
+      "concept-09-08",
+      "q-appendix-001",
+      "full-b-08-18-01-1",
+      "full-c-09-05-03-04",
+      "full-c-09-05-00-90",
+      "full-c-01-28-06-80",
+      "full-c-09-00-01-80",
+      "full-c-09-00-03-80",
+      "full-c-09-00-05-80",
+      "full-c-09-00-07-80",
+      "full-c-09-05-04-80",
+      "full-c-09-06-00-80",
+      "full-c-09-06-01-80",
+      "full-c-09-07-00-01",
+      "full-c-09-07-00-02",
+      "full-c-09-07-00-03",
+      "full-c-09-07-00-04",
+      "full-c-09-07-00-05",
+      "full-c-09-07-02-80",
+      "full-c-09-07-04-01",
+      "full-c-09-07-04-02",
+      "full-c-09-07-04-03",
+      "full-c-09-08-00-01",
+      "full-c-09-08-00-02",
+      "full-c-09-08-00-03",
+      "full-c-09-08-00-04",
+      "full-c-09-08-00-05",
+      "full-c-09-09-01-80",
+      "full-c-09-09-03-80",
+      "full-c-09-09-05-80",
+      "full-c-09-10-01-03",
+      "full-c-09-10-01-04",
+      "full-c-09-10-02-01",
+      "full-c-09-10-02-03",
+      "full-c-09-10-02-08",
+      "full-c-09-10-02-09",
+      "full-c-09-10-02-10",
+      "full-c-09-10-02-16",
+      "full-c-09-10-02-18",
+      "full-c-09-10-02-19",
+      "full-c-09-10-02-20",
+      "full-c-09-10-02-22",
+      "full-c-09-10-02-23",
+      "full-c-09-10-02-25",
+      "full-c-09-10-02-26",
+      "full-c-09-10-02-27",
+      "full-c-09-10-02-28",
+      "full-c-09-10-02-29",
+      "full-c-09-10-02-31",
+      "full-c-09-11-00-03",
+      "full-c-09-11-00-04",
+      "full-c-09-11-00-05",
+      "full-c-09-11-00-07",
+      "full-c-09-11-00-15",
+      "full-c-09-11-00-17",
+      "full-c-09-11-00-19",
+      "full-c-09-11-00-20",
+      "full-c-09-11-00-21",
+      "full-c-09-11-00-26",
+      "full-c-09-11-00-27",
+      "full-c-09-11-00-31",
+      "full-c-09-11-00-34",
+      "full-c-09-11-00-35",
+      "full-c-09-11-00-37",
+      "full-c-09-11-00-38",
+      "full-c-09-11-01-80",
+      "full-c-09-12-01-01",
+      "full-c-09-12-01-02",
+      "full-c-09-12-01-03",
+      "full-c-09-12-03-01",
+      "full-c-09-12-03-02",
+      "full-c-09-12-03-03",
+      "full-c-09-12-03-04",
+      "full-c-09-12-03-05",
+      "full-c-09-12-03-06",
+      "full-c-09-12-04-80",
+      "full-c-09-12-06-01",
+      "full-c-09-12-06-02",
+      "full-c-09-12-06-03",
+      "full-c-09-12-06-04",
+      "full-c-09-12-06-05",
+      "full-c-09-12-08-80",
+      "full-c-09-12-09-80",
+      "full-c-09-12-11-01",
+      "full-c-09-12-11-02",
+      "full-c-09-12-11-03",
+      "full-c-09-12-11-04",
+      "full-c-09-14-00-80",
+      "full-c-09-16-00-80",
+      "full-c-09-16-01-01",
+      "full-c-09-16-01-02",
+      "full-c-09-16-01-03",
+      "confusable-gui-lunyu-yueyang",
+      "confusable-gui-yueyang-shanju",
+      "dse-2020-1a-6-i",
+      "dse-2022-1a-3",
+      "dse-2025-1a-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-735576d5a75ebd3e",
+    "chapterId": "essay-09",
+    "category": "text",
+    "title": "第5段｜原文與語譯",
+    "fields": {
+      "語譯": "唉！我曾經探求古時品德高尚的人的心思，也許和上述的兩種人有不同的表現。為甚麼呢？他們不會因為有美好的景物、環境而高興或悲傷，也不會因為自己不幸的遭遇而高興或悲傷。在朝廷上做大官，便會為他的百姓擔憂；處身在僻遠的地方，就會為他的君主擔憂。這就是說在朝廷做官也要憂慮，不在朝廷做官也要憂慮，那麼，甚麼時候才能快樂呢？他們一定會說：「在天下人擔憂之前先擔憂，在天下人享樂之後才享樂」吧！唉！如果沒有這些人，我將依從誰呢？"
+    },
+    "context": "嗟夫！予嘗求古仁人之心，或異二者之為。何哉？不以物喜，不以己悲。居廟堂之高，則憂其民；處江湖之遠，則憂其君。是進亦憂，退亦憂，然則何時而樂耶？其必曰：「先天下之憂而憂，後天下之樂而樂」歟！噫！微斯人，吾誰與歸！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[5].blocks[2]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-05-01",
+      "pilot-09-05-02",
+      "pilot-09-05-03",
+      "pilot-09-05-04",
+      "pilot-09-05-06",
+      "pilot-09-05-07",
+      "concept-09-05",
+      "concept-09-06",
+      "concept-09-07",
+      "concept-09-08",
+      "q-appendix-001",
+      "full-b-08-18-01-1",
+      "full-c-09-05-03-04",
+      "full-c-09-05-00-90",
+      "full-c-01-28-06-80",
+      "full-c-09-00-01-80",
+      "full-c-09-00-03-80",
+      "full-c-09-00-05-80",
+      "full-c-09-00-07-80",
+      "full-c-09-05-04-80",
+      "full-c-09-06-00-80",
+      "full-c-09-06-01-80",
+      "full-c-09-07-00-01",
+      "full-c-09-07-00-02",
+      "full-c-09-07-00-03",
+      "full-c-09-07-00-04",
+      "full-c-09-07-00-05",
+      "full-c-09-07-02-80",
+      "full-c-09-07-04-01",
+      "full-c-09-07-04-02",
+      "full-c-09-07-04-03",
+      "full-c-09-08-00-01",
+      "full-c-09-08-00-02",
+      "full-c-09-08-00-03",
+      "full-c-09-08-00-04",
+      "full-c-09-08-00-05",
+      "full-c-09-09-01-80",
+      "full-c-09-09-03-80",
+      "full-c-09-09-05-80",
+      "full-c-09-10-01-03",
+      "full-c-09-10-01-04",
+      "full-c-09-10-02-01",
+      "full-c-09-10-02-03",
+      "full-c-09-10-02-08",
+      "full-c-09-10-02-09",
+      "full-c-09-10-02-10",
+      "full-c-09-10-02-16",
+      "full-c-09-10-02-18",
+      "full-c-09-10-02-19",
+      "full-c-09-10-02-20",
+      "full-c-09-10-02-22",
+      "full-c-09-10-02-23",
+      "full-c-09-10-02-25",
+      "full-c-09-10-02-26",
+      "full-c-09-10-02-27",
+      "full-c-09-10-02-28",
+      "full-c-09-10-02-29",
+      "full-c-09-10-02-31",
+      "full-c-09-11-00-03",
+      "full-c-09-11-00-04",
+      "full-c-09-11-00-05",
+      "full-c-09-11-00-07",
+      "full-c-09-11-00-15",
+      "full-c-09-11-00-17",
+      "full-c-09-11-00-19",
+      "full-c-09-11-00-20",
+      "full-c-09-11-00-21",
+      "full-c-09-11-00-26",
+      "full-c-09-11-00-27",
+      "full-c-09-11-00-31",
+      "full-c-09-11-00-34",
+      "full-c-09-11-00-35",
+      "full-c-09-11-00-37",
+      "full-c-09-11-00-38",
+      "full-c-09-11-01-80",
+      "full-c-09-12-01-01",
+      "full-c-09-12-01-02",
+      "full-c-09-12-01-03",
+      "full-c-09-12-03-01",
+      "full-c-09-12-03-02",
+      "full-c-09-12-03-03",
+      "full-c-09-12-03-04",
+      "full-c-09-12-03-05",
+      "full-c-09-12-03-06",
+      "full-c-09-12-04-80",
+      "full-c-09-12-06-01",
+      "full-c-09-12-06-02",
+      "full-c-09-12-06-03",
+      "full-c-09-12-06-04",
+      "full-c-09-12-06-05",
+      "full-c-09-12-08-80",
+      "full-c-09-12-09-80",
+      "full-c-09-12-11-01",
+      "full-c-09-12-11-02",
+      "full-c-09-12-11-03",
+      "full-c-09-12-11-04",
+      "full-c-09-14-00-80",
+      "full-c-09-16-00-80",
+      "full-c-09-16-01-01",
+      "full-c-09-16-01-02",
+      "full-c-09-16-01-03",
+      "confusable-gui-lunyu-yueyang",
+      "confusable-gui-yueyang-shanju",
+      "dse-2020-1a-6-i",
+      "dse-2022-1a-3",
+      "dse-2025-1a-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-271fbccf6c29cb68",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "求",
+    "fields": {
+      "詞義": "探求"
+    },
+    "context": "嗟夫！予嘗求古仁人之心，或異二者之為。何哉？不以物喜，不以己悲。居廟堂之高，則憂其民；處江湖之遠，則憂其君。是進亦憂，退亦憂，然則何時而樂耶？其必曰：「先天下之憂而憂，後天下之樂而樂」歟！噫！微斯人，吾誰與歸！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[5].blocks[3][1][0]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-05-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e102170239c9d5f6",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "或",
+    "fields": {
+      "詞義": "或許"
+    },
+    "context": "嗟夫！予嘗求古仁人之心，或異二者之為。何哉？不以物喜，不以己悲。居廟堂之高，則憂其民；處江湖之遠，則憂其君。是進亦憂，退亦憂，然則何時而樂耶？其必曰：「先天下之憂而憂，後天下之樂而樂」歟！噫！微斯人，吾誰與歸！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[5].blocks[3][1][1]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-05-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-29d4435e1dcfecbe",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "為",
+    "fields": {
+      "詞義": "表現、心態"
+    },
+    "context": "嗟夫！予嘗求古仁人之心，或異二者之為。何哉？不以物喜，不以己悲。居廟堂之高，則憂其民；處江湖之遠，則憂其君。是進亦憂，退亦憂，然則何時而樂耶？其必曰：「先天下之憂而憂，後天下之樂而樂」歟！噫！微斯人，吾誰與歸！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[5].blocks[3][1][2]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-05-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ea21a5ac430e8917",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "廟堂",
+    "fields": {
+      "詞義": "朝廷"
+    },
+    "context": "嗟夫！予嘗求古仁人之心，或異二者之為。何哉？不以物喜，不以己悲。居廟堂之高，則憂其民；處江湖之遠，則憂其君。是進亦憂，退亦憂，然則何時而樂耶？其必曰：「先天下之憂而憂，後天下之樂而樂」歟！噫！微斯人，吾誰與歸！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[5].blocks[3][1][3]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-05-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5db40dc9086b8b4b",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "江湖",
+    "fields": {
+      "詞義": "遠離朝廷之處"
+    },
+    "context": "嗟夫！予嘗求古仁人之心，或異二者之為。何哉？不以物喜，不以己悲。居廟堂之高，則憂其民；處江湖之遠，則憂其君。是進亦憂，退亦憂，然則何時而樂耶？其必曰：「先天下之憂而憂，後天下之樂而樂」歟！噫！微斯人，吾誰與歸！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[5].blocks[3][1][4]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-05-03-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4fbcd71511d86f2a",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "微",
+    "fields": {
+      "詞義": "如果沒有"
+    },
+    "context": "嗟夫！予嘗求古仁人之心，或異二者之為。何哉？不以物喜，不以己悲。居廟堂之高，則憂其民；處江湖之遠，則憂其君。是進亦憂，退亦憂，然則何時而樂耶？其必曰：「先天下之憂而憂，後天下之樂而樂」歟！噫！微斯人，吾誰與歸！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[5].blocks[3][1][5]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-05-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ab673b6d18f9bc5d",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "歸",
+    "fields": {
+      "詞義": "歸依、同道"
+    },
+    "context": "嗟夫！予嘗求古仁人之心，或異二者之為。何哉？不以物喜，不以己悲。居廟堂之高，則憂其民；處江湖之遠，則憂其君。是進亦憂，退亦憂，然則何時而樂耶？其必曰：「先天下之憂而憂，後天下之樂而樂」歟！噫！微斯人，吾誰與歸！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[5].blocks[3][1][6]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-05-07",
+      "confusable-gui-yueyang-shanju"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d54f93b44b678c64",
+    "chapterId": "essay-09",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "不以物喜、不以己悲分清憂樂的對象；先憂後樂再定次序。末句表達認同古仁人，也含對友人的勉勵。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[5].blocks[4]",
+        "section": "第5段｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[73].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[74].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[75].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[76].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[77].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[78].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1339].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1426].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1580].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2140].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-05-01",
+      "pilot-09-05-02",
+      "pilot-09-05-03",
+      "pilot-09-05-04",
+      "pilot-09-05-06",
+      "pilot-09-05-07",
+      "full-c-09-05-03-04",
+      "full-c-09-05-00-90",
+      "full-c-09-05-04-80",
+      "dse-2020-1a-6-i"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3c5b3104830c2589",
+    "chapterId": "essay-09",
+    "category": "background",
+    "title": "文體、動機與主旨",
+    "fields": {
+      "內容": "「記」是文體。范仲淹受滕子京囑託為重修岳陽樓作記，文章卻沒有把重心放在建築規模，而是由景色引出人的悲喜，最後議論古仁人的憂樂觀。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[6].blocks[0]",
+        "section": "文體、動機與主旨"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-06-00-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8051a5e9a67fda7f",
+    "chapterId": "essay-09",
+    "category": "background",
+    "title": "文體、動機與主旨",
+    "fields": {
+      "內容": "首段先寫「政通人和，百廢具興」，再用「乃」引出重修，肯定滕子京的政績。結尾以「吾誰與歸」表明自己願追隨古仁人，也寄託對朋友的勉勵：不被個人得失支配，持續關心國家和百姓。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[6].blocks[1]",
+        "section": "文體、動機與主旨"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-06-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bbbe6d6295dfaaed",
+    "chapterId": "essay-09",
+    "category": "structure",
+    "title": "第一段",
+    "fields": {
+      "內容與依據": "由「謫守」寫到「政通人和」，再寫重修、刻詩賦和「屬予作文以記之」。",
+      "在全文的作用": "交代緣起，肯定滕子京先治政、後修樓的政績。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[7].blocks[0][1][1]",
+        "section": "五段結構、詳略與線索"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-07-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-64820133106a489f",
+    "chapterId": "essay-09",
+    "category": "structure",
+    "title": "第二段",
+    "fields": {
+      "內容與依據": "「銜遠山，吞長江」總寫勝景，以「覽物之情，得無異乎」轉向登樓者。",
+      "在全文的作用": "略寫前人已詳述的景觀，引出同一地點會有不同感受。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[7].blocks[0][1][2]",
+        "section": "五段結構、詳略與線索"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-07-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8d7b26c9499a3770",
+    "chapterId": "essay-09",
+    "category": "structure",
+    "title": "第三段",
+    "fields": {
+      "內容與依據": "陰雨、風浪、暮色和虎猿聲，引出「去國懷鄉，憂讒畏譏」。",
+      "在全文的作用": "設想因惡劣環境而悲，情緒仍繫於個人遭遇。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[7].blocks[0][1][3]",
+        "section": "五段結構、詳略與線索"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-07-00-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2e191b69f36488d6",
+    "chapterId": "essay-09",
+    "category": "structure",
+    "title": "第四段",
+    "fields": {
+      "內容與依據": "春和景明、月色漁歌，引出「心曠神怡，寵辱皆忘」。",
+      "在全文的作用": "與前段成對照，寫因美景而喜、暫忘榮辱。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[7].blocks[0][1][4]",
+        "section": "五段結構、詳略與線索"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-07-00-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bdea2e80acab69c8",
+    "chapterId": "essay-09",
+    "category": "structure",
+    "title": "第五段",
+    "fields": {
+      "內容與依據": "從「或異二者之為」到「先天下之憂而憂，後天下之樂而樂」。",
+      "在全文的作用": "由景情比較提升到處世原則，表明以天下為己任的志向。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[7].blocks[0][1][5]",
+        "section": "五段結構、詳略與線索"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-07-00-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b75025d950c6dce8",
+    "chapterId": "essay-09",
+    "category": "structure",
+    "title": "兩次過渡",
+    "fields": {
+      "內容": "第二段由景轉情：「覽物之情」提出問題，三、四段用陰晴悲喜回答。第五段再由情轉理：「二者」承接兩種表現，「何哉」追問古仁人有何不同，再說明憂樂的對象與次序。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[7].blocks[2]",
+        "section": "五段結構、詳略與線索"
+      }
+    ],
+    "questionIds": [
+      "concept-09-08",
+      "full-c-09-07-02-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5ec117d1fb2dba3e",
+    "chapterId": "essay-09",
+    "category": "structure",
+    "title": "「唐賢今人詩賦」",
+    "fields": {
+      "後文": "「前人之述備矣」",
+      "連接": "說明不必詳寫樓景，為後面的議論留出重心。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[7].blocks[4][1][1]",
+        "section": "五段結構、詳略與線索"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-07-04-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-468bf0d89e4ad98e",
+    "chapterId": "essay-09",
+    "category": "structure",
+    "title": "「朝暉夕陰，氣象萬千」",
+    "fields": {
+      "後文": "第三、四段陰雨與晴明",
+      "連接": "先總提變化，再分寫兩種景情。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[7].blocks[4][1][2]",
+        "section": "五段結構、詳略與線索"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-07-04-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-83fd11bbd24d66e1",
+    "chapterId": "essay-09",
+    "category": "structure",
+    "title": "「謫守」「遷客騷人」",
+    "fields": {
+      "後文": "「處江湖之遠」",
+      "連接": "同是失意在外，反照古仁人仍關心君民的胸懷。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[7].blocks[4][1][3]",
+        "section": "五段結構、詳略與線索"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-07-04-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-48c3153544259fe8",
+    "chapterId": "essay-09",
+    "category": "character",
+    "title": "雨風、光線",
+    "fields": {
+      "陰雨悲景": "久雨連月不晴，陰風怒吼，日星隱耀、山岳潛形，薄暮冥冥",
+      "晴明樂景": "春和景明；煙霧全消，皓月千里"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[8].blocks[0][1][1]",
+        "section": "全部景物與情感對照"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-08-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3d1e57f36d7d3ea7",
+    "chapterId": "essay-09",
+    "category": "character",
+    "title": "水勢、水色",
+    "fields": {
+      "陰雨悲景": "濁浪排空，渾濁洶湧",
+      "晴明樂景": "波瀾不驚，上下天光，一碧萬頃；浮光躍金、靜影沉璧"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[8].blocks[0][1][2]",
+        "section": "全部景物與情感對照"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-08-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-062117b9d4dbe299",
+    "chapterId": "essay-09",
+    "category": "character",
+    "title": "人事",
+    "fields": {
+      "陰雨悲景": "商旅不行，檣傾楫摧，威脅出行與生命",
+      "晴明樂景": "漁歌互答，歡樂無窮；登樓者把酒迎風"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[8].blocks[0][1][3]",
+        "section": "全部景物與情感對照"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-08-00-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8ca9b64a963563ab",
+    "chapterId": "essay-09",
+    "category": "character",
+    "title": "動植物",
+    "fields": {
+      "陰雨悲景": "虎嘯猿啼，增陰森悲涼",
+      "晴明樂景": "沙鷗翔集，錦鱗游泳，岸芷汀蘭郁郁青青，生機盎然"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[8].blocks[0][1][4]",
+        "section": "全部景物與情感對照"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-08-00-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4510c72166b3e63f",
+    "chapterId": "essay-09",
+    "category": "character",
+    "title": "遷客騷人之情",
+    "fields": {
+      "陰雨悲景": "去國懷鄉、憂讒畏譏、滿目蕭然、感極而悲",
+      "晴明樂景": "心曠神怡、暫忘榮辱、其喜洋洋"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[8].blocks[0][1][5]",
+        "section": "全部景物與情感對照"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-08-00-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c249c32ce16dff37",
+    "chapterId": "essay-09",
+    "category": "theme",
+    "title": "憂樂的對象：私己與君民",
+    "fields": {
+      "內容": "遷客騷人因景及私己際遇而悲喜；古仁人超越個人利害，始終關心君民。不以物喜、不以己悲合讀是不因外物變化或自己遭遇而或喜或悲，不是完全沒有情緒；進憂民、退憂君，憂的對象是社會國家，與不憂個人並無矛盾。先憂是預見危機、為人籌謀，後樂是待天下安樂才以之為樂；不是要所有人先傷心自己才傷心。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[9].blocks[1]",
+        "section": "兩種憂樂的根本分別"
+      }
+    ],
+    "questionIds": [
+      "concept-09-05",
+      "full-c-09-09-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e720bac6e096486e",
+    "chapterId": "essay-09",
+    "category": "theme",
+    "title": "暫忘榮辱與穩定原則",
+    "fields": {
+      "內容": "第四段寵辱皆忘是景美而暫忘榮辱，仍隨物而喜；古仁人是穩定處世原則，在何種處境都心繫天下，不能把境界等同。退居江湖也不等於放棄社會責任。二者指因景而悲與因景而喜的兩種表現，不是范、滕二人。末句表明嚮往與追隨，但不能據此推定當朝一個古仁人式官員也沒有。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[9].blocks[3]",
+        "section": "兩種憂樂的根本分別"
+      }
+    ],
+    "questionIds": [
+      "concept-09-06",
+      "full-c-09-09-03-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ed1a6f2042106658",
+    "chapterId": "essay-09",
+    "category": "theme",
+    "title": "延伸補充：寵辱皆忘的典故",
+    "fields": {
+      "內容": "「寵辱皆忘」稱反用《老子·十三章》寵辱若驚之意：得寵或失寵皆驚，而此時把寵辱放下。這是典故關係，仍須區分該段遷客之喜與末段仁人境界。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[9].blocks[5]",
+        "section": "兩種憂樂的根本分別"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-09-05-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0ea1a92a0c6a33e3",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "或",
+    "fields": {
+      "原文短語": "而或長煙一空",
+      "本句意思／作用": "有時。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[1][1][1]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d49ea878078ece50",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "或",
+    "fields": {
+      "原文短語": "或異二者之為",
+      "本句意思／作用": "或許，委婉推測。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[1][1][2]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-00cfa6bccc9217fa",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "以",
+    "fields": {
+      "原文短語": "不以物喜",
+      "本句意思／作用": "因為。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[1][1][3]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-10-01-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d55921fca5aedf57",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "以",
+    "fields": {
+      "原文短語": "屬予作文以記之",
+      "本句意思／作用": "來、用來，表示目的。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[1][1][4]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-10-01-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3d6d1ed6dad4b550",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "謫守",
+    "fields": {
+      "原句定位": "滕子京謫守巴陵郡",
+      "意思與必要辨析": "貶官任地方長官"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][1]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-10-02-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b5be82ae5facc405",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "越明年",
+    "fields": {
+      "原句定位": "越明年",
+      "意思與必要辨析": "到了第二年"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][2]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-47d20025da4f910a",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "政通人和",
+    "fields": {
+      "原句定位": "政通人和",
+      "意思與必要辨析": "政事通達、人民和樂／安居樂業。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][3]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-10-02-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-62f91dca68765651",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "百廢具興",
+    "fields": {
+      "原句定位": "百廢具興",
+      "意思與必要辨析": "荒廢事業都興辦"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][4]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ebc57889942fdc40",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "具",
+    "fields": {
+      "原句定位": "百廢具興",
+      "意思與必要辨析": "通俱，全"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][5]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a9d3dd38f566150c",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "制",
+    "fields": {
+      "原句定位": "增其舊制",
+      "意思與必要辨析": "規模"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][6]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-22a7f36bccdd2f2c",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "屬",
+    "fields": {
+      "原句定位": "屬予作文以記之",
+      "意思與必要辨析": "通囑，委託。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][7]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d6e596878ddb18e0",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "唐賢",
+    "fields": {
+      "原句定位": "刻唐賢、今人詩賦於其上",
+      "意思與必要辨析": "唐代著名文人"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][8]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-10-02-08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d3256dc2ba023ea7",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "今人",
+    "fields": {
+      "原句定位": "刻唐賢、今人詩賦於其上",
+      "意思與必要辨析": "當代文人"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][9]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-10-02-09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e3e66c98aa0febf6",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "作文",
+    "fields": {
+      "原句定位": "屬予作文以記之",
+      "意思與必要辨析": "寫文章。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][10]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-10-02-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d6cd53926ac69260",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "勝狀",
+    "fields": {
+      "原句定位": "予觀夫巴陵勝狀",
+      "意思與必要辨析": "美好的景象"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][11]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-077833c935c48f43",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "大觀",
+    "fields": {
+      "原句定位": "此則岳陽樓之大觀也",
+      "意思與必要辨析": "盛大壯觀的景象"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][12]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1a80b131ac7cc881",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "備",
+    "fields": {
+      "原句定位": "前人之述備矣",
+      "意思與必要辨析": "完備詳盡。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][13]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8185a58b69a62b17",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "銜",
+    "fields": {
+      "原句定位": "銜遠山",
+      "意思與必要辨析": "包含遠山"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][14]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-843abb2ab5f4d5f3",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "吞",
+    "fields": {
+      "原句定位": "吞長江",
+      "意思與必要辨析": "吸納長江"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][15]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4a9d2c44ccc6a1d9",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "湯湯",
+    "fields": {
+      "原句定位": "浩浩湯湯",
+      "意思與必要辨析": "水勢浩大"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][16]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-10-02-16"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6a39e5bd535df79e",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "際涯",
+    "fields": {
+      "原句定位": "橫無際涯",
+      "意思與必要辨析": "邊際。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][17]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-61069194e52f1753",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "朝暉夕陰",
+    "fields": {
+      "原句定位": "朝暉夕陰",
+      "意思與必要辨析": "早晚或晴明或陰暗的變化，不必理解成永遠早晴晚陰"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][18]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-10-02-18"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bffcec937b01e048",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "氣象",
+    "fields": {
+      "原句定位": "氣象萬千",
+      "意思與必要辨析": "景象。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][19]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-10-02-19"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-79e581cf12c6b72e",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "北通",
+    "fields": {
+      "原句定位": "北通巫峽",
+      "意思與必要辨析": "向北通到。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][20]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-10-02-20"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d7aa5c95af79fe69",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "南極",
+    "fields": {
+      "原句定位": "南極瀟湘",
+      "意思與必要辨析": "向南直達。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][21]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a6c757c66cf05283",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "巫峽",
+    "fields": {
+      "原句定位": "然則北通巫峽",
+      "意思與必要辨析": "巫峽長江三峽之一"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][22]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-10-02-22"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9d3cdb3062f11de4",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "瀟湘",
+    "fields": {
+      "原句定位": "南極瀟湘",
+      "意思與必要辨析": "瀟湘為瀟水湘水。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][23]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-10-02-23"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b15de1bb65b12b4a",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "遷客",
+    "fields": {
+      "原句定位": "遷客騷人",
+      "意思與必要辨析": "貶謫流放官吏。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][24]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-dc261b6715045afa",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "騷人",
+    "fields": {
+      "原句定位": "遷客騷人",
+      "意思與必要辨析": "詩人文士，由屈原《離騷》及楚辭作者稱法而來；本文着重失意者，不等於一切詩人皆被貶。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][25]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-10-02-25"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9a57bf551d897004",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "得無異乎",
+    "fields": {
+      "原句定位": "得無異乎",
+      "意思與必要辨析": "難道沒有不同嗎，反問表示有差異"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][26]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-10-02-26"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-173d6f86ff72d370",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "若夫",
+    "fields": {
+      "原句定位": "若夫霪雨霏霏",
+      "意思與必要辨析": "至於，引出一種假想情境"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][27]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-10-02-27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-997552ca8e1b46bd",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "至若",
+    "fields": {
+      "原句定位": "至若春和景明",
+      "意思與必要辨析": "至於，引出另一種情境。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][28]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-10-02-28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7b0b1535b18fe8fb",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "霪雨霏霏",
+    "fields": {
+      "原句定位": "若夫霪雨霏霏",
+      "意思與必要辨析": "連綿細密的雨，霪指久雨"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][29]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-10-02-29"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-68308b4567e56fed",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "開",
+    "fields": {
+      "原句定位": "連月不開",
+      "意思與必要辨析": "放晴。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][30]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a00168bf5c72a6e6",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "陰風怒號",
+    "fields": {
+      "原句定位": "陰風怒號",
+      "意思與必要辨析": "陰冷的風猛烈呼嘯"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][31]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-10-02-31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4001516979b6ba6d",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "排空",
+    "fields": {
+      "原句定位": "濁浪排空",
+      "意思與必要辨析": "浪濤衝向天空。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[10].blocks[2][1][32]",
+        "section": "字詞、名物及句法（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-324afedfdc731d1b",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "隱耀",
+    "fields": {
+      "原句定位": "日星隱耀",
+      "意思與必要辨析": "太陽、星星隱去光輝。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][1]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5318870ae978265b",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "潛形",
+    "fields": {
+      "原句定位": "山岳潛形",
+      "意思與必要辨析": "山的形體隱藏不見。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][2]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-78fdffa54bb07f9e",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "檣傾楫摧",
+    "fields": {
+      "原句定位": "檣傾楫摧",
+      "意思與必要辨析": "桅杆傾倒、船槳折斷，寫航行受阻、船隻受損。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][3]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-11-00-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e960d537721e8391",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "薄暮冥冥",
+    "fields": {
+      "原句定位": "薄暮冥冥",
+      "意思與必要辨析": "傍晚昏暗，薄為迫近"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][4]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-11-00-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b8da43b15c0653de",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "去國",
+    "fields": {
+      "原句定位": "則有去國懷鄉",
+      "意思與必要辨析": "離開京師"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][5]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-11-00-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6f7dce03d08e0a92",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "讒",
+    "fields": {
+      "原句定位": "憂讒畏譏",
+      "意思與必要辨析": "誹謗"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][6]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-877c949f94ca9e33",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "譏",
+    "fields": {
+      "原句定位": "憂讒畏譏",
+      "意思與必要辨析": "譏諷"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][7]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-11-00-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-169fa9cebe19cf20",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "蕭然",
+    "fields": {
+      "原句定位": "滿目蕭然",
+      "意思與必要辨析": "蕭條冷落。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][8]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-99d87e9bf4c73266",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "景明",
+    "fields": {
+      "原句定位": "至若春和景明",
+      "意思與必要辨析": "景：日光"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][9]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-efc228eec44d43ed",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "波瀾不驚",
+    "fields": {
+      "原句定位": "波瀾不驚",
+      "意思與必要辨析": "沒有起波浪。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][10]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9e10301bb6b0a623",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "翔集",
+    "fields": {
+      "原句定位": "沙鷗翔集",
+      "意思與必要辨析": "翔飛、集聚集棲息"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][11]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-81852b81a0b1b0cc",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "錦鱗",
+    "fields": {
+      "原句定位": "錦鱗游泳",
+      "意思與必要辨析": "錦鱗美麗魚，鱗代魚"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][12]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-765644853179323b",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "芷",
+    "fields": {
+      "原句定位": "岸芷汀蘭",
+      "意思與必要辨析": "香草。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][13]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-38c8e52e4983e90e",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "汀蘭",
+    "fields": {
+      "原句定位": "岸芷汀蘭",
+      "意思與必要辨析": "小洲上的蘭草，汀指小洲。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][14]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9af803f958ea7eaf",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "郁郁青青",
+    "fields": {
+      "原句定位": "郁郁青青",
+      "意思與必要辨析": "郁郁：草木繁盛，也含香氣濃郁之意；青青：青翠茂盛。整句寫岸邊、小洲上的香草生機盎然。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][15]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-11-00-15"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a6a8b5f1665889c2",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "而或",
+    "fields": {
+      "原句定位": "而或長煙一空",
+      "意思與必要辨析": "有時"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][16]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b48bf32baf7c7879",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "長煙",
+    "fields": {
+      "原句定位": "而或長煙一空",
+      "意思與必要辨析": "大片煙霧"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][17]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-11-00-17"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9032f93cbd4379bd",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "一",
+    "fields": {
+      "原句定位": "長煙一空",
+      "意思與必要辨析": "全部。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][18]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-783af8dd57238d3e",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "空",
+    "fields": {
+      "原句定位": "長煙一空",
+      "意思與必要辨析": "消散。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][19]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-11-00-19"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d8d2551319f70124",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "皓",
+    "fields": {
+      "原句定位": "皓月千里",
+      "意思與必要辨析": "潔白明亮。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][20]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-11-00-20"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1410e15f6f352935",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "浮光躍金",
+    "fields": {
+      "原句定位": "浮光躍金",
+      "意思與必要辨析": "波動水面的月光閃耀如跳動金光"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][21]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-11-00-21"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9d0c4c26619253c1",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "靜影沉璧",
+    "fields": {
+      "原句定位": "靜影沉璧",
+      "意思與必要辨析": "平靜水中月影如沉下的玉璧。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][22]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7cc0a48178867e63",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "寵辱",
+    "fields": {
+      "原句定位": "寵辱皆忘",
+      "意思與必要辨析": "得寵受辱"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][23]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3402fc727e180081",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "把",
+    "fields": {
+      "原句定位": "把酒臨風",
+      "意思與必要辨析": "把持、端，不是處置介詞"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][24]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9c092adabc808ed8",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "臨",
+    "fields": {
+      "原句定位": "把酒臨風",
+      "意思與必要辨析": "臨對、迎"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][25]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f6b49df5b5097930",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "洋洋",
+    "fields": {
+      "原句定位": "其喜洋洋者矣",
+      "意思與必要辨析": "洋洋喜悅貌。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][26]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-11-00-26"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8cb5b6d2721cdcca",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "嘗",
+    "fields": {
+      "原句定位": "予嘗求古仁人之心",
+      "意思與必要辨析": "曾經"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][27]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-11-00-27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0ed13279449d24cd",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "求",
+    "fields": {
+      "原句定位": "予嘗求古仁人之心",
+      "意思與必要辨析": "探求"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][28]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0035da32f52c233a",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "或",
+    "fields": {
+      "原句定位": "或異二者之為",
+      "意思與必要辨析": "或許，委婉推測。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][29]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-63f44b78705b364e",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "為",
+    "fields": {
+      "原句定位": "或異二者之為",
+      "意思與必要辨析": "二者之為的為名詞表現"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][30]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b865d47357b9eb28",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "以",
+    "fields": {
+      "原句定位": "不以物喜",
+      "意思與必要辨析": "因為。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][31]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-11-00-31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-23241249eb6ee09a",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "廟堂",
+    "fields": {
+      "原句定位": "居廟堂之高",
+      "意思與必要辨析": "朝廷"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][32]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-20739645f0b6150f",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "江湖",
+    "fields": {
+      "原句定位": "處江湖之遠",
+      "意思與必要辨析": "遠離朝廷的民間"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][33]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d0dfc09a2afcfa92",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "進",
+    "fields": {
+      "原句定位": "是進亦憂",
+      "意思與必要辨析": "在朝任官"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][34]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-11-00-34"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a71e7ea85a768317",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "退",
+    "fields": {
+      "原句定位": "退亦憂",
+      "意思與必要辨析": "不在朝廷任官。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][35]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-11-00-35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-07cbac45a81e5a00",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "微",
+    "fields": {
+      "原句定位": "微斯人",
+      "意思與必要辨析": "微：沒有／假如沒有"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][36]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e9bba1618124fa3f",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "斯人",
+    "fields": {
+      "原句定位": "微斯人",
+      "意思與必要辨析": "斯人：如此古仁人"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][37]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-11-00-37"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-88b307ffec9d1dda",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "歸",
+    "fields": {
+      "原句定位": "吾誰與歸",
+      "意思與必要辨析": "歸：效法歸依、依從、追隨、與之同道，非回家。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[0][1][38]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-11-00-38"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1b5a75174384d7c8",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "字詞、名物及句法",
+    "fields": {
+      "內容": "可把「廟堂之高、江湖之遠」連到後置修飾，可從此句法角度理解；語譯應表明朝廷高位、僻遠民間的處所關係。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[11].blocks[1]",
+        "section": "字詞、名物及句法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-11-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1fba38cf26e6bab0",
+    "chapterId": "essay-09",
+    "category": "technique",
+    "title": "景與景",
+    "fields": {
+      "具體內容": "陰雨昏暗、風浪危急；晴明開闊、生機與月色。",
+      "作用": "建立兩種不同環境。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[12].blocks[1][1][1]",
+        "section": "手法、修辭與煉字的例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-12-01-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5c8a1b37a078d607",
+    "chapterId": "essay-09",
+    "category": "technique",
+    "title": "情與情",
+    "fields": {
+      "具體內容": "「感極而悲」對「其喜洋洋」。",
+      "作用": "說明遷客的情緒隨環境改變。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[12].blocks[1][1][2]",
+        "section": "手法、修辭與煉字的例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-12-01-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bed736e9063df358",
+    "chapterId": "essay-09",
+    "category": "technique",
+    "title": "人與人",
+    "fields": {
+      "具體內容": "遷客因景與私己而悲喜；古仁人「進亦憂，退亦憂」。",
+      "作用": "以遷客反襯古仁人超越私己、心繫天下。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[12].blocks[1][1][3]",
+        "section": "手法、修辭與煉字的例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-12-01-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-60986c4d75c5840e",
+    "chapterId": "essay-09",
+    "category": "technique",
+    "title": "「陰風怒號」「虎嘯猿啼」",
+    "fields": {
+      "怎樣運用": "以聽覺寫風聲和獸聲。",
+      "表達效果": "增添陰森淒涼，配合登樓者的悲情。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[12].blocks[3][1][1]",
+        "section": "手法、修辭與煉字的例證（1）"
+      }
+    ],
+    "questionIds": [
+      "concept-09-07",
+      "full-c-09-12-03-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4d714ee2b8a46970",
+    "chapterId": "essay-09",
+    "category": "technique",
+    "title": "「沙鷗翔集，錦鱗游泳」",
+    "fields": {
+      "怎樣運用": "以視覺寫鳥魚活動。",
+      "表達效果": "使晴景生機盎然，引出愉快心情。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[12].blocks[3][1][2]",
+        "section": "手法、修辭與煉字的例證（1）"
+      }
+    ],
+    "questionIds": [
+      "concept-09-07",
+      "full-c-09-12-03-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-274c7451d33522a5",
+    "chapterId": "essay-09",
+    "category": "technique",
+    "title": "「岸芷汀蘭，郁郁青青」",
+    "fields": {
+      "怎樣運用": "寫香草繁茂；「郁郁」也可包含芳香之意。",
+      "表達效果": "從色澤、生長狀態及香氣呈現春日美好。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[12].blocks[3][1][3]",
+        "section": "手法、修辭與煉字的例證（1）"
+      }
+    ],
+    "questionIds": [
+      "concept-09-07",
+      "full-c-09-12-03-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f017c548ed8a8f6d",
+    "chapterId": "essay-09",
+    "category": "technique",
+    "title": "「浮光躍金，靜影沉璧」",
+    "fields": {
+      "怎樣運用": "以金喻浮動月光，以玉璧喻平靜月影；動靜相配。",
+      "表達效果": "表現月下湖水的光澤與明淨。「沉」寫倒影，並不證明湖水很深。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[12].blocks[3][1][4]",
+        "section": "手法、修辭與煉字的例證（1）"
+      }
+    ],
+    "questionIds": [
+      "concept-09-07",
+      "full-c-09-12-03-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d09931b8771179fa",
+    "chapterId": "essay-09",
+    "category": "technique",
+    "title": "「商旅不行，檣傾楫摧」",
+    "fields": {
+      "怎樣運用": "由出行受阻和舟具毀壞，間接寫風浪。",
+      "表達效果": "讓惡劣環境的危害具體可見。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[12].blocks[3][1][5]",
+        "section": "手法、修辭與煉字的例證（1）"
+      }
+    ],
+    "questionIds": [
+      "concept-09-07",
+      "full-c-09-12-03-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7ae0b59c3ab0c735",
+    "chapterId": "essay-09",
+    "category": "technique",
+    "title": "「上下天光，一碧萬頃」",
+    "fields": {
+      "怎樣運用": "大面積的天水一色與靜景，配合鳥魚、漁歌等動景。",
+      "表達效果": "畫面開闊而有生活氣息。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[12].blocks[3][1][6]",
+        "section": "手法、修辭與煉字的例證（1）"
+      }
+    ],
+    "questionIds": [
+      "concept-09-07",
+      "full-c-09-12-03-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8ada6e2ffca395fe",
+    "chapterId": "essay-09",
+    "category": "technique",
+    "title": "再看寫景：原句怎樣形成畫面",
+    "fields": {
+      "內容": "觀景位置以岳陽樓為中心，陰晴景象是設想的兩種情境，並非一路行走、逐站換景。直接描景和間接寫人事相配，讀者才能同時感到風光與處境。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[12].blocks[4]",
+        "section": "手法、修辭與煉字的例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-12-04-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6e174b80a61e41ac",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "「銜遠山，吞長江」",
+    "fields": {
+      "怎樣運用": "用含、吞的動作寫湖與山水的關係，帶擬人意味。",
+      "表達效果": "把靜態景觀寫得有力量，顯出洞庭湖的恢宏氣勢。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[12].blocks[6][1][1]",
+        "section": "手法、修辭與煉字的例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-12-06-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2fe84ba3a93d7b4f",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "「陰風怒號」",
+    "fields": {
+      "怎樣運用": "「怒」把風寫得像人發怒。",
+      "表達效果": "使風聲猛烈可感，增添恐怖氣氛。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[12].blocks[6][1][2]",
+        "section": "手法、修辭與煉字的例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-12-06-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7fe20903dbe2de0d",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "「橫無際涯」「濁浪排空」「一碧萬頃」",
+    "fields": {
+      "怎樣運用": "誇張空間範圍或浪勢。",
+      "表達效果": "分別突出廣闊、猛烈和晴明開展。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[12].blocks[6][1][3]",
+        "section": "手法、修辭與煉字的例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-12-06-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6110ca47bf10f07c",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "「錦鱗」「檣楫」「廟堂」「江湖」",
+    "fields": {
+      "怎樣運用": "以魚鱗代魚、舟具代船、處所代朝廷或在野處境。",
+      "表達效果": "表達簡潔，所指仍須依語境理解。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[12].blocks[6][1][4]",
+        "section": "手法、修辭與煉字的例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-12-06-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2f574f0a2a992ab5",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "「浩浩湯湯」「霏霏」「冥冥」「郁郁青青」",
+    "fields": {
+      "怎樣運用": "疊詞描摹水勢、雨態、昏暗與草木。",
+      "表達效果": "加強形象與節奏，使景色特點鮮明。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[12].blocks[6][1][5]",
+        "section": "手法、修辭與煉字的例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-12-06-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4dcddff4bc1bce43",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "句式：對偶與駢散配合",
+    "fields": {
+      "內容": "對偶把相應內容並排：寫景如「銜遠山／吞長江」「北通巫峽／南極瀟湘」「陰風怒號／濁浪排空」「日星隱耀／山岳潛形」「沙鷗翔集／錦鱗游泳」「長煙一空／皓月千里」「浮光躍金／靜影沉璧」。整齊節奏使景物層次分明。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[12].blocks[8]",
+        "section": "手法、修辭與煉字的例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-12-08-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-82295db7c33ef0b8",
+    "chapterId": "essay-09",
+    "category": "vocabulary",
+    "title": "句式：對偶與駢散配合",
+    "fields": {
+      "內容": "議論如「不以物喜／不以己悲」「居廟堂之高，則憂其民／處江湖之遠，則憂其君」「進亦憂／退亦憂」「先天下之憂而憂／後天下之樂而樂」，把不同處境並舉，突出原則一致。首段散句與後文駢句相配；三、四段多四字句，讀來鮮明有節奏。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[12].blocks[9]",
+        "section": "手法、修辭與煉字的例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-12-09-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-265e81af0c4e5891",
+    "chapterId": "essay-09",
+    "category": "technique",
+    "title": "「覽物之情，得無異乎」",
+    "fields": {
+      "怎樣運用": "反問，含肯定有差異的意思。",
+      "作用": "引出三、四段的悲喜。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[12].blocks[11][1][1]",
+        "section": "手法、修辭與煉字的例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-12-11-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c45ff728d4d23be5",
+    "chapterId": "essay-09",
+    "category": "technique",
+    "title": "「何哉」「然則何時而樂耶」",
+    "fields": {
+      "怎樣運用": "設問後分別作答。",
+      "作用": "由不同原則追問到何時快樂，推出先憂後樂。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[12].blocks[11][1][2]",
+        "section": "手法、修辭與煉字的例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-12-11-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d717d6f48cc69f1b",
+    "chapterId": "essay-09",
+    "category": "technique",
+    "title": "「微斯人，吾誰與歸」",
+    "fields": {
+      "怎樣運用": "反問表達追隨古仁人的志向。",
+      "作用": "將議論收回作者的認同與自勉。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[12].blocks[11][1][3]",
+        "section": "手法、修辭與煉字的例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-12-11-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d33c653bffc9dfbc",
+    "chapterId": "essay-09",
+    "category": "technique",
+    "title": "「嗟夫」「噫」",
+    "fields": {
+      "怎樣運用": "感歎語氣，配合由情入理和結尾。",
+      "作用": "加強敬佩、感慨，使政治理想帶有真切感情。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[12].blocks[11][1][4]",
+        "section": "手法、修辭與煉字的例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-12-11-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-77858628f2cd4a5c",
+    "chapterId": "essay-09",
+    "category": "technique",
+    "title": "煉字比較：為何「銜」比「接」鮮明",
+    "fields": {
+      "內容": "「接」只平直說湖與遠山相連；「銜」令人想像湖張口含着遠山，帶動勢，並與「吞」互相配合，讓山水氣象更磅礡。比較時先交代兩字意思，再說換字後形象和氣勢如何改變。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[12].blocks[13]",
+        "section": "手法、修辭與煉字的例證（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2dc32ed17810a3c6",
+    "chapterId": "essay-09",
+    "category": "comparison",
+    "title": "跨篇比較與生活應用",
+    "fields": {
+      "內容": "<b>《論君子》</b>：不憂不懼因內省不疚，憂的對象自己；本文進憂人民、退憂君主。2020延伸兩路：自我方面常反省改過、無法取悅所有人或控制際遇但可問心無愧；社會方面知識分子不只獨善，運用能力助人，如賣旗、義工、無國界醫生、山區義教，為人憂而後為人樂。這些是答題例子，不是要求每人必須放棄職業。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[14].blocks[0]",
+        "section": "跨篇比較與生活應用"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-14-00-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2675986f82fd578d",
+    "chapterId": "essay-09",
+    "category": "exam",
+    "title": "歷年考查提示",
+    "fields": {
+      "內容": "下表列出歷年考查的知識方向；題目、答案與適用條件見配套考查索引。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[15].blocks[0]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-32f17cbf877a0b7c",
+    "chapterId": "essay-09",
+    "category": "exam",
+    "title": "2019",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "句譯：微斯人，吾誰與歸"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[15].blocks[1][1][1]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a1d2e1569aa7319c",
+    "chapterId": "essay-09",
+    "category": "exam",
+    "title": "2020",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "字詞：屬"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[15].blocks[1][1][2]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2efd4589cc2ee1b6",
+    "chapterId": "essay-09",
+    "category": "exam",
+    "title": "2020",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "思想辨析：進退所憂的對象"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[15].blocks[1][1][3]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b61c0b954f50481b",
+    "chapterId": "essay-09",
+    "category": "exam",
+    "title": "2020",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "跨篇與啟發：任擇君子不憂或古仁人憂，說明個人啟發"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[15].blocks[1][1][4]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-db0ff657bf9fa36f",
+    "chapterId": "essay-09",
+    "category": "exam",
+    "title": "2022",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "虛詞比較：者的用法，含主句及跨篇選項；不代表每篇均為主考"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[15].blocks[1][1][5]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7e4b21ace8ad9d50",
+    "chapterId": "essay-09",
+    "category": "exam",
+    "title": "2022",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "特殊句式：辨認倒裝句，含跨篇選項"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[15].blocks[1][1][6]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9aa812f294da5ecd",
+    "chapterId": "essay-09",
+    "category": "exam",
+    "title": "2024",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "修辭：靜影沉璧的手法；景物理解：靜影沉璧凸顯的湖水特點"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[15].blocks[1][1][7]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-997fb202cc142f40",
+    "chapterId": "essay-09",
+    "category": "exam",
+    "title": "2024",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "煉字比較：銜改接的表達效果"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[15].blocks[1][1][8]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-18f1866f13abd5ed",
+    "chapterId": "essay-09",
+    "category": "exam",
+    "title": "2024",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "人物思想比較：古仁人與遷客騷人的分別"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[15].blocks[1][1][9]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-10dfb04a1efa249b",
+    "chapterId": "essay-09",
+    "category": "exam",
+    "title": "2025",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "虛詞比較：以的用法，含四篇選項"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[15].blocks[1][1][10]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9fc4b34e204603eb",
+    "chapterId": "essay-09",
+    "category": "structure",
+    "title": "章末串連｜重建全文",
+    "fields": {
+      "內容": "樓景引出悲喜，悲喜引出人的原則；全篇最後回答的是應為誰憂、何時樂。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[16].blocks[0]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-16-00-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7910b0847a1f69a6",
+    "chapterId": "essay-09",
+    "category": "structure",
+    "title": "緣起與過渡",
+    "fields": {
+      "怎樣連起來": "修樓略寫，湖景總提；「覽物之情」把景色轉為人情問題。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[16].blocks[1][1][1]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-16-01-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1421d80d02932a51",
+    "chapterId": "essay-09",
+    "category": "structure",
+    "title": "成對的例子",
+    "fields": {
+      "怎樣連起來": "陰雨而悲、晴明而喜雖相反，卻同樣受外境和私己遭遇支配。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[16].blocks[1][1][2]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-16-01-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-64457707d057b70f",
+    "chapterId": "essay-09",
+    "category": "structure",
+    "title": "提升與自勉",
+    "fields": {
+      "怎樣連起來": "古仁人進退皆憂君民；先憂後樂定次序，吾誰與歸表追隨，完成對自身和友人的勉勵。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[8].pages[16].blocks[1][1][3]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-16-01-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0566cf534a03ef48",
+    "chapterId": "essay-09",
+    "category": "technique",
+    "title": "比喻",
+    "fields": {
+      "內容": "比喻把兩種不同而具有相似點的事物聯繫起來。本體是要說明的對象，喻體是用來作比的事物。明喻常用「如、似、猶」等喻詞；暗喻以「是、為」等把兩者連起來；借喻只出現喻體。辨析時須指出相似點和具體作用。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[69].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1642].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2155].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2156].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-04-12",
+      "full-c-09-12-03-04",
+      "dse-2024-1a-6-i",
+      "dse-2024-1a-6-ii"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7d53eb5b9baf23ef",
+    "chapterId": "essay-09",
+    "category": "technique",
+    "title": "反問與設問",
+    "fields": {
+      "內容": "反問用疑問形式表達已確定的意思，通常不需回答，以加強語氣；設問先提出問題再作回答，引導讀者理解。判斷時看句子在上下文的作用，不能只憑問號。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[70].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[77].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[99].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1326].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1582].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1614].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1633].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1653].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1655].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1661].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "pilot-09-04-13",
+      "pilot-09-05-06",
+      "concept-09-08",
+      "full-c-09-02-03-12",
+      "full-c-09-06-01-80",
+      "full-c-09-10-02-26",
+      "full-c-09-11-00-37",
+      "full-c-09-12-11-01",
+      "full-c-09-12-11-03",
+      "full-c-09-16-01-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-652d1b34e82d0460",
+    "chapterId": "essay-09",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "滕子京雖被貶仍政通人和；寫重修原因、擴建與刻詩賦，再以「屬予」轉到作者。\n銜吞寫湖勢，朝暉夕陰寫變化。前人已備述，所以本文轉向遷客騷人的心情，準備下文陰晴兩幅景。\n去國是離開京師，懷鄉是思念故鄉；憂讒畏譏關乎個人遭遇。景物層層變暗，使悲情有具體依據。\n浮光是水動映月，靜影是水靜月影；兩者狀態不同。寵辱皆忘是此時心情，不直接等於古仁人的長久原則。\n不以物喜、不以己悲分清憂樂的對象；先憂後樂再定次序。末句表達認同古仁人，也含對友人的勉勵。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[96].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[97].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[98].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[99].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[208].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1572].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1573].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1574].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1575].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1581].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1582].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1583].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1584].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1585].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1586].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1587].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1588].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1589].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1590].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1591].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1592].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1593].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1594].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1595].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1596].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1597].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1598].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1599].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1600].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1601].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1602].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1603].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1604].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1605].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1606].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1607].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1608].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1609].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1610].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1611].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1612].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1613].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1614].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1615].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1616].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1617].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1618].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1619].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1620].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1621].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1622].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1623].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1624].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1625].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1626].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1627].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1628].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1629].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1630].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1631].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1632].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1633].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1634].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1635].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1636].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1637].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1638].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1639].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1640].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1641].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1642].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1643].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1644].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1645].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1646].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1647].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1648].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1649].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1650].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1651].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1652].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1653].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1654].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1655].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1656].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1658].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1659].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1660].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1661].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "concept-09-05",
+      "concept-09-06",
+      "concept-09-07",
+      "concept-09-08",
+      "q-appendix-001",
+      "full-c-09-00-01-80",
+      "full-c-09-00-03-80",
+      "full-c-09-00-05-80",
+      "full-c-09-00-07-80",
+      "full-c-09-06-00-80",
+      "full-c-09-06-01-80",
+      "full-c-09-07-00-01",
+      "full-c-09-07-00-02",
+      "full-c-09-07-00-03",
+      "full-c-09-07-00-04",
+      "full-c-09-07-00-05",
+      "full-c-09-07-02-80",
+      "full-c-09-07-04-01",
+      "full-c-09-07-04-02",
+      "full-c-09-07-04-03",
+      "full-c-09-08-00-01",
+      "full-c-09-08-00-02",
+      "full-c-09-08-00-03",
+      "full-c-09-08-00-04",
+      "full-c-09-08-00-05",
+      "full-c-09-09-01-80",
+      "full-c-09-09-03-80",
+      "full-c-09-09-05-80",
+      "full-c-09-10-01-03",
+      "full-c-09-10-01-04",
+      "full-c-09-10-02-01",
+      "full-c-09-10-02-03",
+      "full-c-09-10-02-08",
+      "full-c-09-10-02-09",
+      "full-c-09-10-02-10",
+      "full-c-09-10-02-16",
+      "full-c-09-10-02-18",
+      "full-c-09-10-02-19",
+      "full-c-09-10-02-20",
+      "full-c-09-10-02-22",
+      "full-c-09-10-02-23",
+      "full-c-09-10-02-25",
+      "full-c-09-10-02-26",
+      "full-c-09-10-02-27",
+      "full-c-09-10-02-28",
+      "full-c-09-10-02-29",
+      "full-c-09-10-02-31",
+      "full-c-09-11-00-03",
+      "full-c-09-11-00-04",
+      "full-c-09-11-00-05",
+      "full-c-09-11-00-07",
+      "full-c-09-11-00-15",
+      "full-c-09-11-00-17",
+      "full-c-09-11-00-19",
+      "full-c-09-11-00-20",
+      "full-c-09-11-00-21",
+      "full-c-09-11-00-26",
+      "full-c-09-11-00-27",
+      "full-c-09-11-00-31",
+      "full-c-09-11-00-34",
+      "full-c-09-11-00-35",
+      "full-c-09-11-00-37",
+      "full-c-09-11-00-38",
+      "full-c-09-11-01-80",
+      "full-c-09-12-01-01",
+      "full-c-09-12-01-02",
+      "full-c-09-12-01-03",
+      "full-c-09-12-03-01",
+      "full-c-09-12-03-02",
+      "full-c-09-12-03-03",
+      "full-c-09-12-03-04",
+      "full-c-09-12-03-05",
+      "full-c-09-12-03-06",
+      "full-c-09-12-04-80",
+      "full-c-09-12-06-01",
+      "full-c-09-12-06-02",
+      "full-c-09-12-06-03",
+      "full-c-09-12-06-04",
+      "full-c-09-12-06-05",
+      "full-c-09-12-08-80",
+      "full-c-09-12-09-80",
+      "full-c-09-12-11-01",
+      "full-c-09-12-11-02",
+      "full-c-09-12-11-03",
+      "full-c-09-12-11-04",
+      "full-c-09-16-00-80",
+      "full-c-09-16-01-01",
+      "full-c-09-16-01-02",
+      "full-c-09-16-01-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-454af3eaf68cec65",
+    "chapterId": "essay-09",
+    "category": "technique",
+    "title": "借代",
+    "fields": {
+      "內容": "借代利用事物之間的關聯，以特徵、部分、材料或相關事物代替本體。比喻依靠相似，借代依靠關聯。答題要說明代指對象及兩者關係。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1334].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-04-03-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  }
+]

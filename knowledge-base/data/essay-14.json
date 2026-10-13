@@ -1,0 +1,3266 @@
+[
+  {
+    "id": "k-d9adf58016c5a2a2",
+    "chapterId": "essay-14",
+    "category": "background",
+    "title": "作者與題旨",
+    "fields": {
+      "作者": "蘇軾"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].author",
+        "section": "念奴嬌・赤壁懷古"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-120fc1300893cf61",
+    "chapterId": "essay-14",
+    "category": "theme",
+    "title": "一句話題旨",
+    "fields": {
+      "題旨": "懷古與自況"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].desc",
+        "section": "念奴嬌・赤壁懷古"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d5fddc375a5dc2e0",
+    "chapterId": "essay-14",
+    "category": "background",
+    "title": "作者、時代與文體",
+    "fields": {
+      "資料": "蘇軾｜北宋｜詞"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[0].blocks[0]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-080cf3302594aa08",
+    "chapterId": "essay-14",
+    "category": "theme",
+    "title": "蘇軾｜北宋｜詞",
+    "fields": {
+      "內容": "由壯闊江山追想周瑜功業，對照自身早生華髮，再以酹江月寄託人生感慨。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[0].blocks[1]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-00-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-54afae616c073811",
+    "chapterId": "essay-14",
+    "category": "structure",
+    "title": "內容線索",
+    "fields": {
+      "內容": "江流千古→赤壁景物→周瑜英姿→自我對照→如夢與江月"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[0].blocks[3]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-00-03-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b61287a78f0e0b70",
+    "chapterId": "essay-14",
+    "category": "theme",
+    "title": "理解關鍵",
+    "fields": {
+      "內容": "「談笑」是周瑜的從容；「應笑我」轉向詞人自身，不能混成同一笑者。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[0].blocks[5]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-00-05-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d91749adf693a583",
+    "chapterId": "essay-14",
+    "category": "background",
+    "title": "題解與文體",
+    "fields": {
+      "內容": "念奴嬌是詞牌，赤壁懷古是題目；本篇原文沿用人間、檣櫓的底本。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[0].blocks[7]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-00-07-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c04b5a0b2edd7605",
+    "chapterId": "essay-14",
+    "category": "theme",
+    "title": "句段核心：上片｜原文與語譯",
+    "fields": {
+      "重點": "江流帶出千古興亡，壯闊赤壁引人追想豪傑。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[1].core",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fe79f5c77fe634e7",
+    "chapterId": "essay-14",
+    "category": "text",
+    "title": "上片｜原文與語譯",
+    "fields": {
+      "原文": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！"
+    },
+    "context": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[1].blocks[0]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e14-exp-001",
+      "q-e14-exp-002",
+      "q-e14-exp-008",
+      "full-c-14-01-03-00",
+      "full-c-14-01-03-01",
+      "full-c-14-01-03-02",
+      "full-c-14-01-03-05",
+      "full-c-14-01-03-06",
+      "full-c-14-01-03-07",
+      "full-c-14-01-03-08",
+      "full-c-14-01-03-09",
+      "full-c-14-01-03-10",
+      "full-c-14-01-00-90",
+      "full-c-12-10-01-80",
+      "full-c-14-00-01-80",
+      "full-c-14-00-03-80",
+      "full-c-14-00-05-80",
+      "full-c-14-00-07-80",
+      "full-c-14-01-04-80",
+      "full-c-14-03-00-02",
+      "full-c-14-03-00-07",
+      "full-c-14-03-00-13",
+      "full-c-14-03-00-14",
+      "full-c-14-03-00-17",
+      "full-c-14-03-00-18",
+      "full-c-14-03-00-19",
+      "full-c-14-03-00-21",
+      "full-c-14-03-00-22",
+      "full-c-14-03-00-23",
+      "full-c-14-04-00-02",
+      "full-c-14-04-00-03",
+      "full-c-14-05-00-01",
+      "full-c-14-05-00-02",
+      "full-c-14-05-00-03",
+      "full-c-14-05-00-04",
+      "full-c-14-05-00-05",
+      "full-c-14-05-00-06",
+      "full-c-14-05-01-80",
+      "full-c-14-06-00-80",
+      "full-c-14-06-01-01",
+      "full-c-14-06-01-02",
+      "full-c-14-06-01-03",
+      "full-c-14-06-02-80",
+      "full-c-14-06-03-80",
+      "full-c-14-07-00-01",
+      "full-c-14-07-00-02",
+      "full-c-14-07-00-03",
+      "full-c-14-07-00-04",
+      "full-c-14-07-00-05",
+      "full-c-14-07-00-06",
+      "full-c-14-07-00-08",
+      "full-c-14-07-00-09",
+      "full-c-14-07-00-10",
+      "full-c-14-07-00-11",
+      "full-c-14-08-00-01",
+      "full-c-14-08-00-02",
+      "full-c-14-08-00-03",
+      "full-c-14-08-01-80",
+      "full-c-14-08-03-80",
+      "full-c-14-09-00-80",
+      "full-c-14-11-00-80",
+      "full-c-14-12-00-80",
+      "full-c-14-12-01-01",
+      "full-c-14-12-01-02",
+      "full-c-14-12-01-03",
+      "full-c-14-12-01-04",
+      "full-c-14-12-01-05",
+      "full-c-16-09-03-01",
+      "full-c-16-09-04-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-76309f4ccd8d8690",
+    "chapterId": "essay-14",
+    "category": "text",
+    "title": "上片｜原文與語譯",
+    "fields": {
+      "語譯": "浩蕩長江滾滾向東流去，滔滔巨浪把千百年來眾多傑出英雄及其事蹟淘洗淨盡。舊營壘西邊，人們說是三國時周瑜大敗曹操的赤壁。陡峭不平的石壁高插雲霄，洶湧巨浪拍擊江岸，捲起千萬堆如白雪的浪花。眼前江山美如圖畫，當時不知出現了多少英雄豪傑！"
+    },
+    "context": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[1].blocks[2]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e14-exp-001",
+      "q-e14-exp-002",
+      "q-e14-exp-008",
+      "full-c-14-01-03-00",
+      "full-c-14-01-03-01",
+      "full-c-14-01-03-02",
+      "full-c-14-01-03-05",
+      "full-c-14-01-03-06",
+      "full-c-14-01-03-07",
+      "full-c-14-01-03-08",
+      "full-c-14-01-03-09",
+      "full-c-14-01-03-10",
+      "full-c-14-01-00-90",
+      "full-c-12-10-01-80",
+      "full-c-14-00-01-80",
+      "full-c-14-00-03-80",
+      "full-c-14-00-05-80",
+      "full-c-14-00-07-80",
+      "full-c-14-01-04-80",
+      "full-c-14-03-00-02",
+      "full-c-14-03-00-07",
+      "full-c-14-03-00-13",
+      "full-c-14-03-00-14",
+      "full-c-14-03-00-17",
+      "full-c-14-03-00-18",
+      "full-c-14-03-00-19",
+      "full-c-14-03-00-21",
+      "full-c-14-03-00-22",
+      "full-c-14-03-00-23",
+      "full-c-14-04-00-02",
+      "full-c-14-04-00-03",
+      "full-c-14-05-00-01",
+      "full-c-14-05-00-02",
+      "full-c-14-05-00-03",
+      "full-c-14-05-00-04",
+      "full-c-14-05-00-05",
+      "full-c-14-05-00-06",
+      "full-c-14-05-01-80",
+      "full-c-14-06-00-80",
+      "full-c-14-06-01-01",
+      "full-c-14-06-01-02",
+      "full-c-14-06-01-03",
+      "full-c-14-06-02-80",
+      "full-c-14-06-03-80",
+      "full-c-14-07-00-01",
+      "full-c-14-07-00-02",
+      "full-c-14-07-00-03",
+      "full-c-14-07-00-04",
+      "full-c-14-07-00-05",
+      "full-c-14-07-00-06",
+      "full-c-14-07-00-08",
+      "full-c-14-07-00-09",
+      "full-c-14-07-00-10",
+      "full-c-14-07-00-11",
+      "full-c-14-08-00-01",
+      "full-c-14-08-00-02",
+      "full-c-14-08-00-03",
+      "full-c-14-08-01-80",
+      "full-c-14-08-03-80",
+      "full-c-14-09-00-80",
+      "full-c-14-11-00-80",
+      "full-c-14-12-00-80",
+      "full-c-14-12-01-01",
+      "full-c-14-12-01-02",
+      "full-c-14-12-01-03",
+      "full-c-14-12-01-04",
+      "full-c-14-12-01-05",
+      "full-c-16-09-03-01",
+      "full-c-16-09-04-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-69270ad4a0c294e4",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "大江",
+    "fields": {
+      "詞義": "長江"
+    },
+    "context": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[1].blocks[3][1][0]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-01-03-00"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8e2f7f33375525b5",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "淘盡",
+    "fields": {
+      "詞義": "淘洗淨盡"
+    },
+    "context": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[1].blocks[3][1][1]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-01-03-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a00898fa1f4051c3",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "千古",
+    "fields": {
+      "詞義": "久遠年代"
+    },
+    "context": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[1].blocks[3][1][2]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-01-03-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-acab4e61bf9590be",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "風流人物",
+    "fields": {
+      "詞義": "有功業的傑出英雄"
+    },
+    "context": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[1].blocks[3][1][3]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8df2fa5620a842e0",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "故壘",
+    "fields": {
+      "詞義": "舊營壘"
+    },
+    "context": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[1].blocks[3][1][4]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-430ddade2369d66e",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "人道是",
+    "fields": {
+      "詞義": "人們說是"
+    },
+    "context": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[1].blocks[3][1][5]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-01-03-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0a55c6b4745a6362",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "周郎",
+    "fields": {
+      "詞義": "周瑜"
+    },
+    "context": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[1].blocks[3][1][6]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-01-03-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4c05394f2460b095",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "亂石",
+    "fields": {
+      "詞義": "陡峭不平的石壁"
+    },
+    "context": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[1].blocks[3][1][7]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-01-03-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-09418b119e09ad23",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "穿空",
+    "fields": {
+      "詞義": "高插天空"
+    },
+    "context": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[1].blocks[3][1][8]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-01-03-08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-22b5cc9d5a3753db",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "驚濤",
+    "fields": {
+      "詞義": "洶湧波浪"
+    },
+    "context": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[1].blocks[3][1][9]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-01-03-09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6f8d9877d5e8849a",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "雪",
+    "fields": {
+      "詞義": "喻白色浪花"
+    },
+    "context": "大江東去，浪淘盡、千古風流人物。故壘西邊，人道是、三國周郎赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[1].blocks[3][1][10]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-01-03-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6ef982006e3c7ebc",
+    "chapterId": "essay-14",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "石的高峻、浪的強勁與浪花的白，合成雄奇景象。「人道是」保留相傳語氣，不是地點考證定論。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[1].blocks[4]",
+        "section": "上片｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[184].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[185].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[191].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1365].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1366].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1367].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1368].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1369].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1370].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1371].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1372].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1373].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1434].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1807].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1812].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1821].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e14-exp-001",
+      "q-e14-exp-002",
+      "q-e14-exp-008",
+      "full-c-14-01-03-00",
+      "full-c-14-01-03-01",
+      "full-c-14-01-03-02",
+      "full-c-14-01-03-05",
+      "full-c-14-01-03-06",
+      "full-c-14-01-03-07",
+      "full-c-14-01-03-08",
+      "full-c-14-01-03-09",
+      "full-c-14-01-03-10",
+      "full-c-14-01-00-90",
+      "full-c-14-01-04-80",
+      "full-c-14-03-00-14",
+      "full-c-14-05-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-29d91db46df44783",
+    "chapterId": "essay-14",
+    "category": "theme",
+    "title": "句段核心：下片｜原文與語譯",
+    "fields": {
+      "重點": "周瑜的從容功業與自身蹉跎形成反差，最後酹月寄懷。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[2].core",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a06e04117837992b",
+    "chapterId": "essay-14",
+    "category": "text",
+    "title": "下片｜原文與語譯",
+    "fields": {
+      "原文": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。"
+    },
+    "context": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[2].blocks[0]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e14-exp-003",
+      "q-e14-exp-004",
+      "q-e14-exp-005",
+      "q-e14-exp-006",
+      "q-e14-exp-007",
+      "full-b-08-18-01-3",
+      "full-c-14-02-03-00",
+      "full-c-14-02-03-01",
+      "full-c-14-02-03-02",
+      "full-c-14-02-03-03",
+      "full-c-14-02-03-05",
+      "full-c-14-02-03-07",
+      "full-c-14-02-00-90",
+      "full-c-12-10-01-80",
+      "full-c-14-00-01-80",
+      "full-c-14-00-03-80",
+      "full-c-14-00-05-80",
+      "full-c-14-00-07-80",
+      "full-c-14-02-04-80",
+      "full-c-14-03-00-02",
+      "full-c-14-03-00-07",
+      "full-c-14-03-00-13",
+      "full-c-14-03-00-17",
+      "full-c-14-03-00-18",
+      "full-c-14-03-00-19",
+      "full-c-14-03-00-21",
+      "full-c-14-03-00-22",
+      "full-c-14-03-00-23",
+      "full-c-14-04-00-02",
+      "full-c-14-04-00-03",
+      "full-c-14-05-00-02",
+      "full-c-14-05-00-03",
+      "full-c-14-05-00-04",
+      "full-c-14-05-00-05",
+      "full-c-14-05-00-06",
+      "full-c-14-05-01-80",
+      "full-c-14-06-00-80",
+      "full-c-14-06-01-01",
+      "full-c-14-06-01-02",
+      "full-c-14-06-01-03",
+      "full-c-14-06-02-80",
+      "full-c-14-06-03-80",
+      "full-c-14-07-00-01",
+      "full-c-14-07-00-02",
+      "full-c-14-07-00-03",
+      "full-c-14-07-00-04",
+      "full-c-14-07-00-05",
+      "full-c-14-07-00-06",
+      "full-c-14-07-00-07",
+      "full-c-14-07-00-08",
+      "full-c-14-07-00-09",
+      "full-c-14-07-00-10",
+      "full-c-14-07-00-11",
+      "full-c-14-08-00-01",
+      "full-c-14-08-00-02",
+      "full-c-14-08-00-03",
+      "full-c-14-08-01-80",
+      "full-c-14-08-03-80",
+      "full-c-14-09-00-80",
+      "full-c-14-11-00-80",
+      "full-c-14-12-00-80",
+      "full-c-14-12-01-01",
+      "full-c-14-12-01-02",
+      "full-c-14-12-01-03",
+      "full-c-14-12-01-04",
+      "full-c-14-12-01-05",
+      "full-c-16-09-03-01",
+      "full-c-16-09-04-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-12ae6fbba296e917",
+    "chapterId": "essay-14",
+    "category": "text",
+    "title": "下片｜原文與語譯",
+    "fields": {
+      "語譯": "遙想當年的周瑜，小喬剛嫁給他，他雄姿英偉、英氣煥發。他手持羽扇、頭戴青絲頭巾，談笑之間，曹軍戰船便已化為灰燼煙霧。神遊三國古戰場，應當笑我多情善感，過早生出花白頭髮。人生猶如一場夢，不如斟一杯酒，灑向江中明月的倒影，寄託情懷。"
+    },
+    "context": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[2].blocks[2]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e14-exp-003",
+      "q-e14-exp-004",
+      "q-e14-exp-005",
+      "q-e14-exp-006",
+      "q-e14-exp-007",
+      "full-b-08-18-01-3",
+      "full-c-14-02-03-00",
+      "full-c-14-02-03-01",
+      "full-c-14-02-03-02",
+      "full-c-14-02-03-03",
+      "full-c-14-02-03-05",
+      "full-c-14-02-03-07",
+      "full-c-14-02-00-90",
+      "full-c-12-10-01-80",
+      "full-c-14-00-01-80",
+      "full-c-14-00-03-80",
+      "full-c-14-00-05-80",
+      "full-c-14-00-07-80",
+      "full-c-14-02-04-80",
+      "full-c-14-03-00-02",
+      "full-c-14-03-00-07",
+      "full-c-14-03-00-13",
+      "full-c-14-03-00-17",
+      "full-c-14-03-00-18",
+      "full-c-14-03-00-19",
+      "full-c-14-03-00-21",
+      "full-c-14-03-00-22",
+      "full-c-14-03-00-23",
+      "full-c-14-04-00-02",
+      "full-c-14-04-00-03",
+      "full-c-14-05-00-02",
+      "full-c-14-05-00-03",
+      "full-c-14-05-00-04",
+      "full-c-14-05-00-05",
+      "full-c-14-05-00-06",
+      "full-c-14-05-01-80",
+      "full-c-14-06-00-80",
+      "full-c-14-06-01-01",
+      "full-c-14-06-01-02",
+      "full-c-14-06-01-03",
+      "full-c-14-06-02-80",
+      "full-c-14-06-03-80",
+      "full-c-14-07-00-01",
+      "full-c-14-07-00-02",
+      "full-c-14-07-00-03",
+      "full-c-14-07-00-04",
+      "full-c-14-07-00-05",
+      "full-c-14-07-00-06",
+      "full-c-14-07-00-07",
+      "full-c-14-07-00-08",
+      "full-c-14-07-00-09",
+      "full-c-14-07-00-10",
+      "full-c-14-07-00-11",
+      "full-c-14-08-00-01",
+      "full-c-14-08-00-02",
+      "full-c-14-08-00-03",
+      "full-c-14-08-01-80",
+      "full-c-14-08-03-80",
+      "full-c-14-09-00-80",
+      "full-c-14-11-00-80",
+      "full-c-14-12-00-80",
+      "full-c-14-12-01-01",
+      "full-c-14-12-01-02",
+      "full-c-14-12-01-03",
+      "full-c-14-12-01-04",
+      "full-c-14-12-01-05",
+      "full-c-16-09-03-01",
+      "full-c-16-09-04-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7b57534f1792e6b5",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "公瑾",
+    "fields": {
+      "詞義": "周瑜的字"
+    },
+    "context": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[2].blocks[3][1][0]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-02-03-00"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a7107ebffce8ffd2",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "雄姿英發",
+    "fields": {
+      "詞義": "雄姿英偉、才華煥發"
+    },
+    "context": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[2].blocks[3][1][1]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-02-03-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cd0d4a2a24b81ff3",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "羽扇綸巾",
+    "fields": {
+      "詞義": "儒將的扇與頭巾"
+    },
+    "context": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[2].blocks[3][1][2]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-02-03-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f457da308df1d7c0",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "檣櫓",
+    "fields": {
+      "詞義": "船具，借代曹軍戰船"
+    },
+    "context": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[2].blocks[3][1][3]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-02-03-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3e74fbd96e4ca9b4",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "故國",
+    "fields": {
+      "詞義": "赤壁故地、三國古戰場"
+    },
+    "context": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[2].blocks[3][1][4]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-39ec085da81011d7",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "神遊",
+    "fields": {
+      "詞義": "在想像中遊歷"
+    },
+    "context": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[2].blocks[3][1][5]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-02-03-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9263d754e094af58",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "華髮",
+    "fields": {
+      "詞義": "花白頭髮"
+    },
+    "context": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[2].blocks[3][1][6]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-92e4eadca24508f0",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "尊",
+    "fields": {
+      "詞義": "酒器，亦指一杯酒"
+    },
+    "context": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[2].blocks[3][1][7]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-02-03-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-483b04f8f69790ac",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "酹",
+    "fields": {
+      "詞義": "灑酒祭奠"
+    },
+    "context": "遙想公瑾當年，小喬初嫁了，雄姿英發。羽扇綸巾，談笑間、檣櫓灰飛煙滅。故國神遊，多情應笑我，早生華髮。人間如夢，一尊還酹江月。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[2].blocks[3][1][8]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2ca8c492af475d76",
+    "chapterId": "essay-14",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "寫小喬初嫁與雄姿英發，是集中塑造春風得意的周瑜。詞中回想有藝術安排，不必把婚年和戰年當同一年。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[2].blocks[4]",
+        "section": "下片｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[186].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[187].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[188].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[189].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[190].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1374].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1375].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1376].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1377].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1378].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1379].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1435].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1808].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1840].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e14-exp-003",
+      "q-e14-exp-004",
+      "q-e14-exp-005",
+      "q-e14-exp-006",
+      "q-e14-exp-007",
+      "full-c-14-02-03-00",
+      "full-c-14-02-03-01",
+      "full-c-14-02-03-02",
+      "full-c-14-02-03-03",
+      "full-c-14-02-03-05",
+      "full-c-14-02-03-07",
+      "full-c-14-02-00-90",
+      "full-c-14-02-04-80",
+      "full-c-14-07-00-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f8ae421a2a3f6b95",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "大江",
+    "fields": {
+      "原句定位": "大江東去",
+      "意思與必要辨析": "長江"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[3].blocks[0][1][1]",
+        "section": "字詞、句法與名物（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8d06ce534b3a5c9b",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "東去",
+    "fields": {
+      "原句定位": "大江東去",
+      "意思與必要辨析": "向東流去。江流不返，引出時間與歷史。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[3].blocks[0][1][2]",
+        "section": "字詞、句法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-03-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bbbdeee3cd93567c",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "淘盡",
+    "fields": {
+      "原句定位": "浪淘盡、千古風流人物",
+      "意思與必要辨析": "淘洗淨盡"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[3].blocks[0][1][3]",
+        "section": "字詞、句法與名物（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7a52129be8deb817",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "千古",
+    "fields": {
+      "原句定位": "浪淘盡、千古風流人物",
+      "意思與必要辨析": "久遠年代。由英雄消逝寫歷史力量。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[3].blocks[0][1][4]",
+        "section": "字詞、句法與名物（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-11f30c417aec73cd",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "風流人物／豪傑",
+    "fields": {
+      "原句定位": "千古風流人物／一時多少豪傑",
+      "意思與必要辨析": "有功業的傑出英雄人物。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[3].blocks[0][1][5]",
+        "section": "字詞、句法與名物（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d095376ab026cf62",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "故壘",
+    "fields": {
+      "原句定位": "故壘西邊",
+      "意思與必要辨析": "舊營壘"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[3].blocks[0][1][6]",
+        "section": "字詞、句法與名物（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-99034aee76b2c25c",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "人道是",
+    "fields": {
+      "原句定位": "人道是、三國周郎赤壁",
+      "意思與必要辨析": "人們說是，保留相傳語氣，不當成作者考證結論。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[3].blocks[0][1][7]",
+        "section": "字詞、句法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-03-00-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8b2347fb93ba3d14",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "周郎",
+    "fields": {
+      "原句定位": "三國周郎赤壁",
+      "意思與必要辨析": "指周瑜，帶出年輕英偉的形象。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[3].blocks[0][1][8]",
+        "section": "字詞、句法與名物（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-455592101a904571",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "公瑾",
+    "fields": {
+      "原句定位": "遙想公瑾當年",
+      "意思與必要辨析": "周瑜的字。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[3].blocks[0][1][9]",
+        "section": "字詞、句法與名物（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1ba657786dfde473",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "亂石",
+    "fields": {
+      "原句定位": "亂石穿空",
+      "意思與必要辨析": "陡峭不平的石壁"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[3].blocks[0][1][10]",
+        "section": "字詞、句法與名物（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7dc7b7efd8ad50cb",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "穿空",
+    "fields": {
+      "原句定位": "亂石穿空",
+      "意思與必要辨析": "高插天空，突出高、尖、陡。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[3].blocks[0][1][11]",
+        "section": "字詞、句法與名物（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bc95ca928a99a7bc",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "驚濤",
+    "fields": {
+      "原句定位": "驚濤拍岸",
+      "意思與必要辨析": "令人驚駭的洶湧波濤"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[3].blocks[0][1][12]",
+        "section": "字詞、句法與名物（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c78fc5555a42bfc8",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "拍岸",
+    "fields": {
+      "原句定位": "驚濤拍岸",
+      "意思與必要辨析": "拍擊江岸"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[3].blocks[0][1][13]",
+        "section": "字詞、句法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-03-00-13"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-470c59a805b0a454",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "捲",
+    "fields": {
+      "原句定位": "捲起千堆雪",
+      "意思與必要辨析": "浪花被激起、翻捲。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[3].blocks[0][1][14]",
+        "section": "字詞、句法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-03-00-14"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-15453809c2121342",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "雪",
+    "fields": {
+      "原句定位": "捲起千堆雪",
+      "意思與必要辨析": "借喻白色浪花，非下雪的實景。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[3].blocks[0][1][15]",
+        "section": "字詞、句法與名物（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0b9b7e616fb1df11",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "雄姿英發",
+    "fields": {
+      "原句定位": "雄姿英發",
+      "意思與必要辨析": "姿容雄偉，英氣、才華煥發。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[3].blocks[0][1][16]",
+        "section": "字詞、句法與名物（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ad7e8e025495d0ad",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "羽扇綸巾",
+    "fields": {
+      "原句定位": "羽扇綸巾",
+      "意思與必要辨析": "羽毛扇和絲製頭巾；說白羽扇、絲帶頭巾，語譯為青絲頭巾。屬儒將服飾，顯儒雅。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[3].blocks[0][1][17]",
+        "section": "字詞、句法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-03-00-17"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-03d9d9a0b6f4e16c",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "檣櫓",
+    "fields": {
+      "原句定位": "談笑間、檣櫓灰飛煙滅",
+      "意思與必要辨析": "檣為桅杆、櫓為船槳一類推船器具，以船具代戰船，指曹軍船隊。與以相似點構成的比喻不同。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[3].blocks[0][1][18]",
+        "section": "字詞、句法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-03-00-18"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7069ab2076d32a33",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "灰飛煙滅",
+    "fields": {
+      "原句定位": "談笑間、檣櫓灰飛煙滅",
+      "意思與必要辨析": "化灰、化煙般消失，寫曹軍敗亡；亦有誇飾戰果的效果。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[3].blocks[0][1][19]",
+        "section": "字詞、句法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-03-00-19"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-397e3e65e77778a9",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "故國",
+    "fields": {
+      "原句定位": "故國神遊",
+      "意思與必要辨析": "赤壁故地、三國古戰場"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[3].blocks[0][1][20]",
+        "section": "字詞、句法與名物（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4275dc7625ceb35d",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "神遊",
+    "fields": {
+      "原句定位": "故國神遊",
+      "意思與必要辨析": "在精神、想像中遊歷。故國不是現代「祖國」的固定意思。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[3].blocks[0][1][21]",
+        "section": "字詞、句法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-03-00-21"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8889924e567ac08d",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "多情",
+    "fields": {
+      "原句定位": "多情應笑我",
+      "意思與必要辨析": "多情善感"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[3].blocks[0][1][22]",
+        "section": "字詞、句法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-03-00-22"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d414208a762fc5bd",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "華髮",
+    "fields": {
+      "原句定位": "早生華髮",
+      "意思與必要辨析": "花白、半白的頭髮。「華」的詞解須連頭髮語境。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[3].blocks[0][1][23]",
+        "section": "字詞、句法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-03-00-23"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9f190ea53e8a250d",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "尊",
+    "fields": {
+      "原句定位": "一尊還酹江月",
+      "意思與必要辨析": "尊：酒器，也可指一杯酒"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[4].blocks[0][1][1]",
+        "section": "字詞、句法與名物（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d2d2344712ef7b8b",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "酹",
+    "fields": {
+      "原句定位": "一尊還酹江月",
+      "意思與必要辨析": "酹：灑酒祭奠。「酹江月」以灑酒寄託情懷，不能只譯作喝酒。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[4].blocks[0][1][2]",
+        "section": "字詞、句法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-04-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6159e86e743fd763",
+    "chapterId": "essay-14",
+    "category": "vocabulary",
+    "title": "人間如夢",
+    "fields": {
+      "原句定位": "人間如夢",
+      "意思與必要辨析": "人生短促虛幻如夢，含對功業、得失的省思。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[4].blocks[0][1][3]",
+        "section": "字詞、句法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-04-00-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ac50a08c4218bcf4",
+    "chapterId": "essay-14",
+    "category": "structure",
+    "title": "上片開首：大江與千古",
+    "fields": {
+      "內容及作用": "江水滾滾東去，空間雄闊；「浪淘盡」把江流與歷史人物相聯，時間悠久而人事消逝，奠定懷古感慨。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[5].blocks[0][1][1]",
+        "section": "結構、景情與主旨"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-05-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-716f0b5c35f362d5",
+    "chapterId": "essay-14",
+    "category": "structure",
+    "title": "上片中段：故壘、石壁、江濤",
+    "fields": {
+      "內容及作用": "從赤壁傳說寫到石壁穿空、波濤拍岸、浪花如雪，景色雄奇壯麗、氣勢磅礡。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[5].blocks[0][1][2]",
+        "section": "結構、景情與主旨"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-05-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d80d7e982eacbe26",
+    "chapterId": "essay-14",
+    "category": "structure",
+    "title": "上下片過渡",
+    "fields": {
+      "內容及作用": "「江山如畫，一時多少豪傑」前半總括上片美景，後半引出下片英雄人物，由寫景過渡寫人、懷古抒情。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[5].blocks[0][1][3]",
+        "section": "結構、景情與主旨"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-05-00-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e1296915ce2cc66d",
+    "chapterId": "essay-14",
+    "category": "structure",
+    "title": "下片前段：懷周瑜",
+    "fields": {
+      "內容及作用": "想像周瑜年少得意、婚姻美滿、風度儒雅、指揮從容，大破曹軍而建功，表仰慕。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[5].blocks[0][1][4]",
+        "section": "結構、景情與主旨"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-05-00-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0cfb753eea281ba5",
+    "chapterId": "essay-14",
+    "category": "structure",
+    "title": "下片中段：反照自己",
+    "fields": {
+      "內容及作用": "「故國神遊」後從懷古返現實；周瑜年輕有為對照自己早生華髮、被貶、虛度光陰、功業未成，自覺多情可笑。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[5].blocks[0][1][5]",
+        "section": "結構、景情與主旨"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-05-00-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-da9afb18678075c3",
+    "chapterId": "essay-14",
+    "category": "structure",
+    "title": "結尾：酹江月自解",
+    "fields": {
+      "內容及作用": "悟英雄亦隨時間消逝、人生如夢，不必執着功名得失，借酒寄懷、寄情自然、隨緣自適，表曠達。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[5].blocks[0][1][6]",
+        "section": "結構、景情與主旨"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-05-00-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-02f076b4439469be",
+    "chapterId": "essay-14",
+    "category": "technique",
+    "title": "結構、景情與主旨",
+    "fields": {
+      "內容": "全詞融合寫景、懷古、詠史、抒情；由眼前江山到遙想三國，再回自身。懷古不是孤立介紹周瑜事蹟，而是以其風采功業反照自身抱負。上片歷久長存的山川，對照下片短促虛幻的人事；傷感與曠達有推進轉折，不能只剩一種情绪。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[5].blocks[1]",
+        "section": "結構、景情與主旨"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-05-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-250b2df73a3c5d38",
+    "chapterId": "essay-14",
+    "category": "character",
+    "title": "周瑜形象與兩個「笑」",
+    "fields": {
+      "內容": "詞人先用周瑜的年輕、英偉和功業建立理想形象，再用兩個「笑」把英雄與自己接起來。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[6].blocks[0]",
+        "section": "周瑜形象與兩個「笑」"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-06-00-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-18c569d8b98dc219",
+    "chapterId": "essay-14",
+    "category": "character",
+    "title": "「小喬初嫁了」「雄姿英發」",
+    "fields": {
+      "寫了甚麼": "以婚姻美滿和英偉姿態集中寫年少得意。",
+      "形象與情感": "小喬從側面烘托周瑜的風采。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[6].blocks[1][1][1]",
+        "section": "周瑜形象與兩個「笑」"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-06-01-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-29296f4cbf19f6fa",
+    "chapterId": "essay-14",
+    "category": "character",
+    "title": "「羽扇綸巾」「談笑間、檣櫓灰飛煙滅」",
+    "fields": {
+      "寫了甚麼": "儒雅裝束、從容談笑，與曹軍迅速敗亡相對。",
+      "形象與情感": "「談笑」寫周瑜指揮若定；詩人對他有讚賞與仰慕。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[6].blocks[1][1][2]",
+        "section": "周瑜形象與兩個「笑」"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-06-01-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1a7773397306614a",
+    "chapterId": "essay-14",
+    "category": "character",
+    "title": "「多情應笑我，早生華髮」",
+    "fields": {
+      "寫了甚麼": "由想像古人轉回自身，笑自己多情，卻已早生白髮。",
+      "形象與情感": "「笑我」可按自嘲理解：年華漸老而功業未成，仰慕轉成自傷。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[6].blocks[1][1][3]",
+        "section": "周瑜形象與兩個「笑」"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-06-01-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bd8a2747dc89f348",
+    "chapterId": "essay-14",
+    "category": "character",
+    "title": "周瑜形象與兩個「笑」",
+    "fields": {
+      "內容": "兩個「笑」把年少功成與華髮未酬對照起來。第一個笑顯出英雄有把握，第二個笑顯出詞人對自身處境的感慨，讓懷古成為抒發抱負的途徑。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[6].blocks[2]",
+        "section": "周瑜形象與兩個「笑」"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-06-02-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fa9e9a26b252b386",
+    "chapterId": "essay-14",
+    "category": "character",
+    "title": "周瑜形象與兩個「笑」",
+    "fields": {
+      "內容": "補充理解：「應笑我」也可讀成想像周瑜笑自己多情；這仍是詞人的想像，並非古人實際說話。兩種讀法都把情感焦點轉回蘇軾。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[6].blocks[3]",
+        "section": "周瑜形象與兩個「笑」"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-06-03-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-dd737de2325feb33",
+    "chapterId": "essay-14",
+    "category": "technique",
+    "title": "託物起興、借景抒情",
+    "fields": {
+      "例句及表達效果": "「大江東去」以眼前江流引時間流逝；「浪淘盡、千古風流人物」由景生人生短暫之感。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[7].blocks[0][1][1]",
+        "section": "寫法、修辭與煉字"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-07-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-aebcfbf4520a5a08",
+    "chapterId": "essay-14",
+    "category": "technique",
+    "title": "借事抒情、以古襯今",
+    "fields": {
+      "例句及表達效果": "周瑜大破曹軍、愛情事業兩得意，對照蘇軾屢遭貶謫、年老未酬，抒懷才不遇。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[7].blocks[0][1][2]",
+        "section": "寫法、修辭與煉字"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-07-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4bbb3c1c57067d1e",
+    "chapterId": "essay-14",
+    "category": "technique",
+    "title": "直接抒情、自嘲",
+    "fields": {
+      "例句及表達效果": "「多情應笑我，早生華髮」「人間如夢」直接流露自傷與人生省思。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[7].blocks[0][1][3]",
+        "section": "寫法、修辭與煉字"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-07-00-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-194afe08102167af",
+    "chapterId": "essay-14",
+    "category": "technique",
+    "title": "對比",
+    "fields": {
+      "例句及表達效果": "江水奔流不息而英雄消逝；江水明月長存而人生如夢；周瑜青春功成而蘇軾華髮未酬。比較對象及作用各不相同。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[7].blocks[0][1][4]",
+        "section": "寫法、修辭與煉字"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-07-00-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8fc17c11fe0cad1d",
+    "chapterId": "essay-14",
+    "category": "technique",
+    "title": "明喻",
+    "fields": {
+      "例句及表達效果": "「江山如畫」以圖畫比江山，美景形象化；「人間如夢」以夢比人生，寫短促虛幻。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[7].blocks[0][1][5]",
+        "section": "寫法、修辭與煉字"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-07-00-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d1d50905bb10a4e2",
+    "chapterId": "essay-14",
+    "category": "technique",
+    "title": "借喻",
+    "fields": {
+      "例句及表達效果": "「大江」「浪」可比歷史、時間及其力量；「雪」借喻白色浪花，寫浪花四濺如雪堆的形態。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[7].blocks[0][1][6]",
+        "section": "寫法、修辭與煉字"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-07-00-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5c007046b250abe9",
+    "chapterId": "essay-14",
+    "category": "technique",
+    "title": "借代",
+    "fields": {
+      "例句及表達效果": "「檣櫓」以船具代戰船，簡潔呈曹軍覆滅。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[7].blocks[0][1][7]",
+        "section": "寫法、修辭與煉字"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-07-00-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2e4049b6b76849c9",
+    "chapterId": "essay-14",
+    "category": "technique",
+    "title": "誇張",
+    "fields": {
+      "例句及表達效果": "「亂石穿空」誇飾石壁高峻，突出高、尖、陡；「千堆」誇大浪花數量聲勢；「談笑間、檣櫓灰飛煙滅」誇飾敗軍覆滅之速及周瑜才能。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[7].blocks[0][1][8]",
+        "section": "寫法、修辭與煉字"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-07-00-08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-31697de9c91f3e15",
+    "chapterId": "essay-14",
+    "category": "technique",
+    "title": "肖像、服飾、神態、側面烘托",
+    "fields": {
+      "例句及表達效果": "雄姿、羽扇綸巾、談笑、小喬、曹軍敗況，分別見上節，不能用一個「人物描寫」刪掉具體例子。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[7].blocks[0][1][9]",
+        "section": "寫法、修辭與煉字"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-07-00-09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ab12184c797a33d3",
+    "chapterId": "essay-14",
+    "category": "technique",
+    "title": "過渡",
+    "fields": {
+      "例句及表達效果": "「江山如畫，一時多少豪傑」承上寫景、啟下懷古；「故國神遊」由古返今，轉入自抒身世。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[7].blocks[0][1][10]",
+        "section": "寫法、修辭與煉字"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-07-00-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f2aac1f69f99ee50",
+    "chapterId": "essay-14",
+    "category": "technique",
+    "title": "豪邁雄奇的語言",
+    "fields": {
+      "例句及表達效果": "大江、亂石、驚濤等壯闊景象，配「淘盡、穿、拍、捲」等有力動詞，把江山與歷史相連，讚英雄、抒抱負並感生命短促。風格與具體景象、情感相配，不只背「豪放」。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[7].blocks[0][1][11]",
+        "section": "寫法、修辭與煉字"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-07-00-11"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-545367d29612b5a2",
+    "chapterId": "essay-14",
+    "category": "character",
+    "title": "「大江東去，浪淘盡、千古風流人物」",
+    "fields": {
+      "景物怎樣引發聯想": "東流不返的江水使人想到時間不停流逝；連英雄也會被歷史淘洗。",
+      "心境如何推進": "由雄闊江山感到個體生命短暫、功業難以長存。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[8].blocks[0][1][1]",
+        "section": "江水的感慨與江月的感悟"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-08-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-21a9c0721fc42827",
+    "chapterId": "essay-14",
+    "category": "character",
+    "title": "「早生華髮」「人間如夢」",
+    "fields": {
+      "景物怎樣引發聯想": "歷史人物的消逝連回自己年華漸老、抱負未酬的處境。",
+      "心境如何推進": "傷感不只在白髮，更在看見人生與功名如夢般短促。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[8].blocks[0][1][2]",
+        "section": "江水的感慨與江月的感悟"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-08-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cd1e0b78f806968b",
+    "chapterId": "essay-14",
+    "category": "character",
+    "title": "「一尊還酹江月」",
+    "fields": {
+      "景物怎樣引發聯想": "把酒灑向江月，將目光由個人得失轉向可寄情的自然。",
+      "心境如何推進": "試着放下過分執着，在江月之美中自我開解，轉向曠達。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[8].blocks[0][1][3]",
+        "section": "江水的感慨與江月的感悟"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-08-00-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-31e72f256a2d2513",
+    "chapterId": "essay-14",
+    "category": "character",
+    "title": "江水的感慨與江月的感悟",
+    "fields": {
+      "內容": "全詞的連接是：江水引出流逝之感，周瑜使人想到功業，華髮把比較落回自己，如夢的省思再引向酹月寄懷。結尾的開解承接前面的傷感，並不是突然換成歡樂。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[8].blocks[1]",
+        "section": "江水的感慨與江月的感悟"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-08-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d6fb4aa1a146a3e8",
+    "chapterId": "essay-14",
+    "category": "character",
+    "title": "延伸理解：由江月想到甚麼",
+    "fields": {
+      "內容": "月色長在，可使人想到自然比個人生命悠久；月有圓缺又不斷循環，可使人想到得失變化是常態。這些聯想的作用，是幫助人減輕對一時成敗的執着。分析時先說月的特點，再說如何紓解人生短促之感。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[8].blocks[3]",
+        "section": "江水的感慨與江月的感悟"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-08-03-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-04f91804e59a1970",
+    "chapterId": "essay-14",
+    "category": "comparison",
+    "title": "跨篇比較",
+    "fields": {
+      "內容": "<b>與《登樓》</b>：均借歷史人物抒抱負；杜甫借後主諷今、借未遇諸葛自況，蘇軾以周瑜年少功成反襯自己失意華髮。兩者所借人物、對照重點及收束情緒各異。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[9].blocks[0]",
+        "section": "跨篇比較"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-09-00-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3e9c8c747e815618",
+    "chapterId": "essay-14",
+    "category": "exam",
+    "title": "歷年考查提示",
+    "fields": {
+      "內容": "下表列出歷年考查的知識方向；題目、答案與適用條件見配套考查索引。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[10].blocks[0]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ce04d60e45588f5d",
+    "chapterId": "essay-14",
+    "category": "exam",
+    "title": "2021",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "意象與情懷：江水意象與人生感慨；意象與情懷：江月意象與人生感悟"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[10].blocks[1][1][1]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0e17e3543a3348a3",
+    "chapterId": "essay-14",
+    "category": "exam",
+    "title": "2024",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "字詞：華"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[10].blocks[1][1][2]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0341cfb23e6a4f97",
+    "chapterId": "essay-14",
+    "category": "technique",
+    "title": "理解補充",
+    "fields": {
+      "內容": "原文沿用「人間」「檣櫓」，另本作「人生」「強虜」；詞義和修辭須跟所引版本一致。「多情應笑我」有詞人自笑、想像周瑜笑己等解讀；不可把後者說成周瑜真實說話。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[11].blocks[0]",
+        "section": "理解補充"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-11-00-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-79b4484320907349",
+    "chapterId": "essay-14",
+    "category": "structure",
+    "title": "章末串連｜重建全文",
+    "fields": {
+      "內容": "江山、周瑜與自身不是三個孤立題目，而是從歷史感走向人生省思的連續過程。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[12].blocks[0]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-12-00-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c5d187f44513da31",
+    "chapterId": "essay-14",
+    "category": "structure",
+    "title": "景引懷古",
+    "fields": {
+      "怎樣連起來": "東去、淘盡引流逝；穿、拍、捲塑雄奇江山；多少豪傑把景轉向人。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[12].blocks[1][1][1]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-12-01-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b14b358ffdcf1b8a",
+    "chapterId": "essay-14",
+    "category": "structure",
+    "title": "古人照今人",
+    "fields": {
+      "怎樣連起來": "周瑜談笑功成，對照詞人笑己華髮；仰慕使失意更深。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[12].blocks[1][1][2]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-12-01-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c3feca75e56f7a09",
+    "chapterId": "essay-14",
+    "category": "structure",
+    "title": "感慨到開解",
+    "fields": {
+      "怎樣連起來": "人生如夢把失意放入更廣的時間觀；酹月寄懷，再由自然尋求安頓。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[12].blocks[1][1][3]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-12-01-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b7cc9213f5dc6d28",
+    "chapterId": "essay-14",
+    "category": "structure",
+    "title": "兩個笑相接",
+    "fields": {
+      "怎樣連起來": "周瑜的談笑是功業中的從容，詞人的笑我是比較後的自傷；英雄愈得意，今人的落差愈鮮明。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[12].blocks[1][1][4]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-12-01-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d84e0a00e7642f30",
+    "chapterId": "essay-14",
+    "category": "structure",
+    "title": "首尾自然相接",
+    "fields": {
+      "怎樣連起來": "開首江水讓人感到時間無情，結尾江月讓人尋求安頓；自然既觸發感慨，也成為寄懷的對象。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[13].pages[12].blocks[1][1][5]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-12-01-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1f187ae2890b5ce8",
+    "chapterId": "essay-14",
+    "category": "technique",
+    "title": "對比與襯托",
+    "fields": {
+      "內容": "對比把兩方並置，突出差異，兩方都參與表意；襯托有主次，以陪襯的一方突出主要對象。分析須指出哪兩方、在哪一方面形成關係，以及這個關係如何支持文意。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[190].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1846].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e14-exp-007",
+      "full-c-14-08-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f74d34e4fdbca262",
+    "chapterId": "essay-14",
+    "category": "technique",
+    "title": "比喻",
+    "fields": {
+      "內容": "比喻把兩種不同而具有相似點的事物聯繫起來。本體是要說明的對象，喻體是用來作比的事物。明喻常用「如、似、猶」等喻詞；暗喻以「是、為」等把兩者連起來；借喻只出現喻體。辨析時須指出相似點和具體作用。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1373].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1814].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1820].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-01-03-10",
+      "full-c-14-03-00-18",
+      "full-c-14-04-00-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b446bea2e2492dde",
+    "chapterId": "essay-14",
+    "category": "technique",
+    "title": "借代",
+    "fields": {
+      "內容": "借代利用事物之間的關聯，以特徵、部分、材料或相關事物代替本體。比喻依靠相似，借代依靠關聯。答題要說明代指對象及兩者關係。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1377].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1814].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1840].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-02-03-03",
+      "full-c-14-03-00-18",
+      "full-c-14-07-00-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ece9ae45dc3dfea9",
+    "chapterId": "essay-14",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "石的高峻、浪的強勁與浪花的白，合成雄奇景象。「人道是」保留相傳語氣，不是地點考證定論。\n寫小喬初嫁與雄姿英發，是集中塑造春風得意的周瑜。詞中回想有藝術安排，不必把婚年和戰年當同一年。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1803].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1804].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1805].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1806].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1809].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1810].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1811].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1813].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1814].learning.knowledge[2]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1815].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1816].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1817].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1818].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1819].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1820].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1822].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1823].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1824].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1825].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1826].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1827].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1828].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1829].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1830].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1831].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1832].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1833].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1834].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1835].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1836].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1837].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1838].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1839].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1841].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1842].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1843].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1844].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1845].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1846].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1847].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1848].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1849].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1851].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1852].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1853].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1854].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1855].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1856].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1857].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-00-01-80",
+      "full-c-14-00-03-80",
+      "full-c-14-00-05-80",
+      "full-c-14-00-07-80",
+      "full-c-14-03-00-02",
+      "full-c-14-03-00-07",
+      "full-c-14-03-00-13",
+      "full-c-14-03-00-17",
+      "full-c-14-03-00-18",
+      "full-c-14-03-00-19",
+      "full-c-14-03-00-21",
+      "full-c-14-03-00-22",
+      "full-c-14-03-00-23",
+      "full-c-14-04-00-02",
+      "full-c-14-04-00-03",
+      "full-c-14-05-00-02",
+      "full-c-14-05-00-03",
+      "full-c-14-05-00-04",
+      "full-c-14-05-00-05",
+      "full-c-14-05-00-06",
+      "full-c-14-05-01-80",
+      "full-c-14-06-00-80",
+      "full-c-14-06-01-01",
+      "full-c-14-06-01-02",
+      "full-c-14-06-01-03",
+      "full-c-14-06-02-80",
+      "full-c-14-06-03-80",
+      "full-c-14-07-00-01",
+      "full-c-14-07-00-02",
+      "full-c-14-07-00-03",
+      "full-c-14-07-00-04",
+      "full-c-14-07-00-05",
+      "full-c-14-07-00-06",
+      "full-c-14-07-00-08",
+      "full-c-14-07-00-09",
+      "full-c-14-07-00-10",
+      "full-c-14-07-00-11",
+      "full-c-14-08-00-01",
+      "full-c-14-08-00-02",
+      "full-c-14-08-00-03",
+      "full-c-14-08-01-80",
+      "full-c-14-08-03-80",
+      "full-c-14-11-00-80",
+      "full-c-14-12-00-80",
+      "full-c-14-12-01-01",
+      "full-c-14-12-01-02",
+      "full-c-14-12-01-03",
+      "full-c-14-12-01-04",
+      "full-c-14-12-01-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  }
+]

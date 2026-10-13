@@ -1,0 +1,4083 @@
+[
+  {
+    "id": "k-d6557d5ede6a4918",
+    "chapterId": "essay-02",
+    "category": "background",
+    "title": "作者與題旨",
+    "fields": {
+      "作者": "孟子"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].author",
+        "section": "魚我所欲也"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9be1b0f85dfc0fd4",
+    "chapterId": "essay-02",
+    "category": "theme",
+    "title": "一句話題旨",
+    "fields": {
+      "題旨": "義與生的抉擇"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].desc",
+        "section": "魚我所欲也"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b1140d1ea7737c8c",
+    "chapterId": "essay-02",
+    "category": "background",
+    "title": "作者、時代與文體",
+    "fields": {
+      "資料": "孟子｜戰國｜論說文、語錄體選段"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[0].blocks[0]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a2f03759b316b711",
+    "chapterId": "essay-02",
+    "category": "theme",
+    "title": "孟子｜戰國｜論說文、語錄體選段",
+    "fields": {
+      "內容": "生命和道義不能兼得時取義；人人有本心，卻須警惕物欲使它喪失。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[0].blocks[1]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e90d257e3f311843",
+    "chapterId": "essay-02",
+    "category": "structure",
+    "title": "內容線索",
+    "fields": {
+      "內容": "魚熊掌類比→欲生惡死推論→人人有本心→拒食與受祿→鄉今對比"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[0].blocks[3]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1f17a68541cbc147",
+    "chapterId": "essay-02",
+    "category": "theme",
+    "title": "理解關鍵",
+    "fields": {
+      "內容": "問題在不辨禮義便接受，不是所有俸祿和物質享受都有錯。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[0].blocks[5]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-30acd9429d4dfc99",
+    "chapterId": "essay-02",
+    "category": "background",
+    "title": "題解與文體",
+    "fields": {
+      "內容": "本篇節自《孟子・告子上》，以熟悉的取捨說明義比生命更重要。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[0].blocks[7]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-32eed48bca7882cb",
+    "chapterId": "essay-02",
+    "category": "theme",
+    "title": "句段核心：第1段｜原文與語譯 1",
+    "fields": {
+      "重點": "義比生命重要，人人都有這種本心。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[1].core",
+        "section": "第1段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a5934b0412d67232",
+    "chapterId": "essay-02",
+    "category": "text",
+    "title": "第1段｜原文與語譯 1",
+    "fields": {
+      "原文": "孟子曰：「魚，我所欲也，熊掌，亦我所欲也；二者不可得兼，舍魚而取熊掌者也。生亦我所欲也，義亦我所欲也；二者不可得兼，舍生而取義者也。生亦我所欲，所欲有甚於生者，故不為苟得也；死亦我所惡，所惡有甚於死者，故患有所不辟也。"
+    },
+    "context": "孟子曰：「魚，我所欲也，熊掌，亦我所欲也；二者不可得兼，舍魚而取熊掌者也。生亦我所欲也，義亦我所欲也；二者不可得兼，舍生而取義者也。生亦我所欲，所欲有甚於生者，故不為苟得也；死亦我所惡，所惡有甚於死者，故患有所不辟也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[1].blocks[0]",
+        "section": "第1段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "q-e02-exp-001",
+      "q-e02-exp-002",
+      "q-e02-exp-007",
+      "full-a-e02-p01-b00-v00",
+      "full-a-e02-p01-b00-v02",
+      "full-a-e02-p01-b00-v03",
+      "full-a-e02-p01-b00-v04",
+      "full-a-e02-p01-b00-v05",
+      "full-a-e02-p01-b00-v06",
+      "full-a-e02-p01-b00-translation",
+      "full-a-e02-p06-b00-c01",
+      "full-a-e02-p06-b00-c02",
+      "full-a-e02-p07-b03-c03",
+      "full-a-e02-p08-b00-concept",
+      "full-a-e02-p09-b01-g09",
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p00-b05-x000",
+      "full-c-01-04-08-80",
+      "full-c-01-28-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-07e79e1aa9b5fbbd",
+    "chapterId": "essay-02",
+    "category": "text",
+    "title": "第1段｜原文與語譯 1",
+    "fields": {
+      "語譯": "孟子說：「魚，是我想要的，熊掌，也是我想要的；如果這兩者不能同時得到，我就捨棄魚而選擇熊掌。生命是我想要的，大義也是我想要的；如果兩者不能同時得到，我就捨棄生命而選擇大義。生命是我想要的，然而我還有比生命更想要的東西，所以我不會苟且偷生；死亡是我所厭惡的，然而我還有比死亡更厭惡的事情，所以有的禍患我不躲避。"
+    },
+    "context": "孟子曰：「魚，我所欲也，熊掌，亦我所欲也；二者不可得兼，舍魚而取熊掌者也。生亦我所欲也，義亦我所欲也；二者不可得兼，舍生而取義者也。生亦我所欲，所欲有甚於生者，故不為苟得也；死亦我所惡，所惡有甚於死者，故患有所不辟也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[1].blocks[2]",
+        "section": "第1段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "q-e02-exp-001",
+      "q-e02-exp-002",
+      "q-e02-exp-007",
+      "full-a-e02-p01-b00-v00",
+      "full-a-e02-p01-b00-v02",
+      "full-a-e02-p01-b00-v03",
+      "full-a-e02-p01-b00-v04",
+      "full-a-e02-p01-b00-v05",
+      "full-a-e02-p01-b00-v06",
+      "full-a-e02-p01-b00-translation",
+      "full-a-e02-p06-b00-c01",
+      "full-a-e02-p06-b00-c02",
+      "full-a-e02-p07-b03-c03",
+      "full-a-e02-p08-b00-concept",
+      "full-a-e02-p09-b01-g09",
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p00-b05-x000",
+      "full-c-01-04-08-80",
+      "full-c-01-28-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0848dc7bdd9a5d67",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "欲",
+    "fields": {
+      "詞義": "想要"
+    },
+    "context": "孟子曰：「魚，我所欲也，熊掌，亦我所欲也；二者不可得兼，舍魚而取熊掌者也。生亦我所欲也，義亦我所欲也；二者不可得兼，舍生而取義者也。生亦我所欲，所欲有甚於生者，故不為苟得也；死亦我所惡，所惡有甚於死者，故患有所不辟也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[1].blocks[3][1][0]",
+        "section": "第1段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b40e695bfe6d70fe",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "兼",
+    "fields": {
+      "詞義": "同時得到"
+    },
+    "context": "孟子曰：「魚，我所欲也，熊掌，亦我所欲也；二者不可得兼，舍魚而取熊掌者也。生亦我所欲也，義亦我所欲也；二者不可得兼，舍生而取義者也。生亦我所欲，所欲有甚於生者，故不為苟得也；死亦我所惡，所惡有甚於死者，故患有所不辟也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[1].blocks[3][1][1]",
+        "section": "第1段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bd754d92f9e52f37",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "舍",
+    "fields": {
+      "詞義": "通捨，捨棄"
+    },
+    "context": "孟子曰：「魚，我所欲也，熊掌，亦我所欲也；二者不可得兼，舍魚而取熊掌者也。生亦我所欲也，義亦我所欲也；二者不可得兼，舍生而取義者也。生亦我所欲，所欲有甚於生者，故不為苟得也；死亦我所惡，所惡有甚於死者，故患有所不辟也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[1].blocks[3][1][2]",
+        "section": "第1段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9fd41ff067161bb1",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "甚",
+    "fields": {
+      "詞義": "超過"
+    },
+    "context": "孟子曰：「魚，我所欲也，熊掌，亦我所欲也；二者不可得兼，舍魚而取熊掌者也。生亦我所欲也，義亦我所欲也；二者不可得兼，舍生而取義者也。生亦我所欲，所欲有甚於生者，故不為苟得也；死亦我所惡，所惡有甚於死者，故患有所不辟也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[1].blocks[3][1][3]",
+        "section": "第1段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9bdea89d78a9c8a7",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "苟得",
+    "fields": {
+      "詞義": "苟且求生"
+    },
+    "context": "孟子曰：「魚，我所欲也，熊掌，亦我所欲也；二者不可得兼，舍魚而取熊掌者也。生亦我所欲也，義亦我所欲也；二者不可得兼，舍生而取義者也。生亦我所欲，所欲有甚於生者，故不為苟得也；死亦我所惡，所惡有甚於死者，故患有所不辟也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[1].blocks[3][1][4]",
+        "section": "第1段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fa43c6fc43c85ac8",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "惡",
+    "fields": {
+      "詞義": "厭惡"
+    },
+    "context": "孟子曰：「魚，我所欲也，熊掌，亦我所欲也；二者不可得兼，舍魚而取熊掌者也。生亦我所欲也，義亦我所欲也；二者不可得兼，舍生而取義者也。生亦我所欲，所欲有甚於生者，故不為苟得也；死亦我所惡，所惡有甚於死者，故患有所不辟也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[1].blocks[3][1][5]",
+        "section": "第1段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e4e3e2be18332b8b",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "患",
+    "fields": {
+      "詞義": "禍患"
+    },
+    "context": "孟子曰：「魚，我所欲也，熊掌，亦我所欲也；二者不可得兼，舍魚而取熊掌者也。生亦我所欲也，義亦我所欲也；二者不可得兼，舍生而取義者也。生亦我所欲，所欲有甚於生者，故不為苟得也；死亦我所惡，所惡有甚於死者，故患有所不辟也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[1].blocks[3][1][6]",
+        "section": "第1段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b82a5deebd1af4e9",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "辟",
+    "fields": {
+      "詞義": "通避，躲避"
+    },
+    "context": "孟子曰：「魚，我所欲也，熊掌，亦我所欲也；二者不可得兼，舍魚而取熊掌者也。生亦我所欲也，義亦我所欲也；二者不可得兼，舍生而取義者也。生亦我所欲，所欲有甚於生者，故不為苟得也；死亦我所惡，所惡有甚於死者，故患有所不辟也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[1].blocks[3][1][7]",
+        "section": "第1段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1d3add3b929d1f37",
+    "chapterId": "essay-02",
+    "category": "theme",
+    "title": "句段核心：第1段｜原文與語譯 2",
+    "fields": {
+      "重點": "義比生命重要，人人都有這種本心。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[2].core",
+        "section": "第1段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-37eb8f9a8d07e595",
+    "chapterId": "essay-02",
+    "category": "text",
+    "title": "第1段｜原文與語譯 2",
+    "fields": {
+      "原文": "如使人之所欲莫甚於生，則凡可以得生者，何不用也？使人之所惡莫甚於死者，則凡可以辟患者，何不為也？由是則生而有不用也，由是則可以辟患而有不為也，是故所欲有甚於生者，所惡有甚於死者。非獨賢者有是心也，人皆有之，賢者能勿喪耳。"
+    },
+    "context": "如使人之所欲莫甚於生，則凡可以得生者，何不用也？使人之所惡莫甚於死者，則凡可以辟患者，何不為也？由是則生而有不用也，由是則可以辟患而有不為也，是故所欲有甚於生者，所惡有甚於死者。非獨賢者有是心也，人皆有之，賢者能勿喪耳。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[2].blocks[0]",
+        "section": "第1段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "q-e02-exp-006",
+      "full-a-e02-p02-b00-v00",
+      "full-a-e02-p02-b00-v02",
+      "full-a-e02-p02-b00-v07",
+      "full-a-e02-p02-b00-v08",
+      "full-a-e02-p02-b00-v09",
+      "full-a-e02-p02-b00-v10",
+      "full-a-e02-p02-b00-v11",
+      "full-a-e02-p02-b00-translation",
+      "full-a-e02-p06-b00-c03",
+      "full-a-e02-p07-b01-c02",
+      "full-a-e02-p09-b01-g01",
+      "full-a-e02-p09-b01-g07",
+      "full-a-e02-p09-b01-g09",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p06-b01-x002"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1c0b1b60755778af",
+    "chapterId": "essay-02",
+    "category": "text",
+    "title": "第1段｜原文與語譯 2",
+    "fields": {
+      "語譯": "如果人們沒有比生命更想要的東西，那麼凡是可求得生存的手段，有甚麼不可用呢？如果人們沒有比死亡更厭惡的事情，那麼凡是可以躲避禍害的事情，有甚麼不可做呢？依循這些方法就可以生存，卻有人不使用，依循這些方法就可以躲避禍患，卻有人不願意這樣做，因此人們有比生命更想要的東西，人們有比死亡更厭惡的事情。不僅僅賢人有這種本性，人人都有這種本性，只不過賢人能夠保持不喪失罷了。"
+    },
+    "context": "如使人之所欲莫甚於生，則凡可以得生者，何不用也？使人之所惡莫甚於死者，則凡可以辟患者，何不為也？由是則生而有不用也，由是則可以辟患而有不為也，是故所欲有甚於生者，所惡有甚於死者。非獨賢者有是心也，人皆有之，賢者能勿喪耳。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[2].blocks[2]",
+        "section": "第1段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "q-e02-exp-006",
+      "full-a-e02-p02-b00-v00",
+      "full-a-e02-p02-b00-v02",
+      "full-a-e02-p02-b00-v07",
+      "full-a-e02-p02-b00-v08",
+      "full-a-e02-p02-b00-v09",
+      "full-a-e02-p02-b00-v10",
+      "full-a-e02-p02-b00-v11",
+      "full-a-e02-p02-b00-translation",
+      "full-a-e02-p06-b00-c03",
+      "full-a-e02-p07-b01-c02",
+      "full-a-e02-p09-b01-g01",
+      "full-a-e02-p09-b01-g07",
+      "full-a-e02-p09-b01-g09",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p06-b01-x002"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-89b3a278754e4869",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "如使",
+    "fields": {
+      "詞義": "假如"
+    },
+    "context": "如使人之所欲莫甚於生，則凡可以得生者，何不用也？使人之所惡莫甚於死者，則凡可以辟患者，何不為也？由是則生而有不用也，由是則可以辟患而有不為也，是故所欲有甚於生者，所惡有甚於死者。非獨賢者有是心也，人皆有之，賢者能勿喪耳。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[2].blocks[3][1][0]",
+        "section": "第1段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-61a5793a395ecfaf",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "欲",
+    "fields": {
+      "詞義": "想要"
+    },
+    "context": "如使人之所欲莫甚於生，則凡可以得生者，何不用也？使人之所惡莫甚於死者，則凡可以辟患者，何不為也？由是則生而有不用也，由是則可以辟患而有不為也，是故所欲有甚於生者，所惡有甚於死者。非獨賢者有是心也，人皆有之，賢者能勿喪耳。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[2].blocks[3][1][1]",
+        "section": "第1段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2fcef10de4d74d2b",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "莫",
+    "fields": {
+      "詞義": "沒有甚麼"
+    },
+    "context": "如使人之所欲莫甚於生，則凡可以得生者，何不用也？使人之所惡莫甚於死者，則凡可以辟患者，何不為也？由是則生而有不用也，由是則可以辟患而有不為也，是故所欲有甚於生者，所惡有甚於死者。非獨賢者有是心也，人皆有之，賢者能勿喪耳。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[2].blocks[3][1][2]",
+        "section": "第1段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9232a68f3ddac2be",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "甚",
+    "fields": {
+      "詞義": "超過"
+    },
+    "context": "如使人之所欲莫甚於生，則凡可以得生者，何不用也？使人之所惡莫甚於死者，則凡可以辟患者，何不為也？由是則生而有不用也，由是則可以辟患而有不為也，是故所欲有甚於生者，所惡有甚於死者。非獨賢者有是心也，人皆有之，賢者能勿喪耳。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[2].blocks[3][1][3]",
+        "section": "第1段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2585f7d6dda548a0",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "惡",
+    "fields": {
+      "詞義": "厭惡"
+    },
+    "context": "如使人之所欲莫甚於生，則凡可以得生者，何不用也？使人之所惡莫甚於死者，則凡可以辟患者，何不為也？由是則生而有不用也，由是則可以辟患而有不為也，是故所欲有甚於生者，所惡有甚於死者。非獨賢者有是心也，人皆有之，賢者能勿喪耳。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[2].blocks[3][1][4]",
+        "section": "第1段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d0e447ca463e97ce",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "辟",
+    "fields": {
+      "詞義": "通避，躲避"
+    },
+    "context": "如使人之所欲莫甚於生，則凡可以得生者，何不用也？使人之所惡莫甚於死者，則凡可以辟患者，何不為也？由是則生而有不用也，由是則可以辟患而有不為也，是故所欲有甚於生者，所惡有甚於死者。非獨賢者有是心也，人皆有之，賢者能勿喪耳。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[2].blocks[3][1][5]",
+        "section": "第1段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-aa83c31262322766",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "患",
+    "fields": {
+      "詞義": "禍患"
+    },
+    "context": "如使人之所欲莫甚於生，則凡可以得生者，何不用也？使人之所惡莫甚於死者，則凡可以辟患者，何不為也？由是則生而有不用也，由是則可以辟患而有不為也，是故所欲有甚於生者，所惡有甚於死者。非獨賢者有是心也，人皆有之，賢者能勿喪耳。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[2].blocks[3][1][6]",
+        "section": "第1段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2c6b60e198e7c1aa",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "由是",
+    "fields": {
+      "詞義": "依循這些方法"
+    },
+    "context": "如使人之所欲莫甚於生，則凡可以得生者，何不用也？使人之所惡莫甚於死者，則凡可以辟患者，何不為也？由是則生而有不用也，由是則可以辟患而有不為也，是故所欲有甚於生者，所惡有甚於死者。非獨賢者有是心也，人皆有之，賢者能勿喪耳。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[2].blocks[3][1][7]",
+        "section": "第1段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cf7e09460aa87994",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "非獨",
+    "fields": {
+      "詞義": "不僅"
+    },
+    "context": "如使人之所欲莫甚於生，則凡可以得生者，何不用也？使人之所惡莫甚於死者，則凡可以辟患者，何不為也？由是則生而有不用也，由是則可以辟患而有不為也，是故所欲有甚於生者，所惡有甚於死者。非獨賢者有是心也，人皆有之，賢者能勿喪耳。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[2].blocks[3][1][8]",
+        "section": "第1段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8656b53d77fd1999",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "是心",
+    "fields": {
+      "詞義": "重義的本心"
+    },
+    "context": "如使人之所欲莫甚於生，則凡可以得生者，何不用也？使人之所惡莫甚於死者，則凡可以辟患者，何不為也？由是則生而有不用也，由是則可以辟患而有不為也，是故所欲有甚於生者，所惡有甚於死者。非獨賢者有是心也，人皆有之，賢者能勿喪耳。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[2].blocks[3][1][9]",
+        "section": "第1段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2b0e028105b822e4",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "勿喪",
+    "fields": {
+      "詞義": "不喪失"
+    },
+    "context": "如使人之所欲莫甚於生，則凡可以得生者，何不用也？使人之所惡莫甚於死者，則凡可以辟患者，何不為也？由是則生而有不用也，由是則可以辟患而有不為也，是故所欲有甚於生者，所惡有甚於死者。非獨賢者有是心也，人皆有之，賢者能勿喪耳。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[2].blocks[3][1][10]",
+        "section": "第1段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-57abd92983c8a614",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "耳",
+    "fields": {
+      "詞義": "而已"
+    },
+    "context": "如使人之所欲莫甚於生，則凡可以得生者，何不用也？使人之所惡莫甚於死者，則凡可以辟患者，何不為也？由是則生而有不用也，由是則可以辟患而有不為也，是故所欲有甚於生者，所惡有甚於死者。非獨賢者有是心也，人皆有之，賢者能勿喪耳。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[2].blocks[3][1][11]",
+        "section": "第1段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4be0fe6ce9f6532a",
+    "chapterId": "essay-02",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "魚與熊掌對應生與義；論點成立的條件是二者不可兼得。賢者能保存本心，不等於只有賢者才有本心。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[2].blocks[4]",
+        "section": "第1段｜原文與語譯 2"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[109].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[224].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[225].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[226].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[227].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[228].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[229].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[230].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[416].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[452].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[456].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[513].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[516].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[518].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[521].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[522].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[523].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[645].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e02-exp-006",
+      "full-a-e02-p02-b00-v00",
+      "full-a-e02-p02-b00-v02",
+      "full-a-e02-p02-b00-v07",
+      "full-a-e02-p02-b00-v08",
+      "full-a-e02-p02-b00-v09",
+      "full-a-e02-p02-b00-v10",
+      "full-a-e02-p02-b00-v11",
+      "full-a-e02-p02-b00-translation",
+      "full-a-e02-p06-b00-c03",
+      "full-a-e02-p07-b01-c02",
+      "full-a-e02-p09-b01-g01",
+      "full-a-e02-p09-b01-g07",
+      "full-a-e02-p09-b01-g09",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p06-b01-x002"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c24c6b7fbafc8e94",
+    "chapterId": "essay-02",
+    "category": "theme",
+    "title": "句段核心：第2段｜原文與語譯 1",
+    "fields": {
+      "重點": "從拒食到受祿，以今昔反差揭露本心的喪失。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[3].core",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-04cd8a6b390fef7b",
+    "chapterId": "essay-02",
+    "category": "text",
+    "title": "第2段｜原文與語譯 1",
+    "fields": {
+      "原文": "一簞食，一豆羹，得之則生，弗得則死。嘑爾而與之，行道之人弗受；蹴爾而與之，乞人不屑也；萬鍾則不辯禮義而受之。萬鍾於我何加焉？為宮室之美、妻妾之奉、所識窮乏者得我與？"
+    },
+    "context": "一簞食，一豆羹，得之則生，弗得則死。嘑爾而與之，行道之人弗受；蹴爾而與之，乞人不屑也；萬鍾則不辯禮義而受之。萬鍾於我何加焉？為宮室之美、妻妾之奉、所識窮乏者得我與？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[3].blocks[0]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "q-e02-exp-003",
+      "q-e02-exp-004",
+      "full-a-e02-p03-b00-v00",
+      "full-a-e02-p03-b00-v02",
+      "full-a-e02-p03-b00-v03",
+      "full-a-e02-p03-b00-v04",
+      "full-a-e02-p03-b00-v05",
+      "full-a-e02-p03-b00-v06",
+      "full-a-e02-p03-b00-v07",
+      "full-a-e02-p03-b00-v08",
+      "full-a-e02-p03-b00-v09",
+      "full-a-e02-p03-b00-v10",
+      "full-a-e02-p03-b00-v11",
+      "full-a-e02-p03-b00-v14",
+      "full-a-e02-p03-b00-translation",
+      "full-a-e02-p06-b00-c04",
+      "full-a-e02-p07-b01-c01",
+      "full-a-e02-p07-b03-c04",
+      "full-a-e02-p09-b01-g10",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31",
+      "full-a-e02-p10-b00-g03",
+      "full-a-e02-p10-b00-g06",
+      "full-a-e02-p05-b02-x001",
+      "full-c-01-23-02-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d74ecb2a58884716",
+    "chapterId": "essay-02",
+    "category": "text",
+    "title": "第2段｜原文與語譯 1",
+    "fields": {
+      "語譯": "一竹筐食物，一木碗湯羹，得到它們就能生存，得不到它們就會餓死。大聲地呼喝着給人吃，路人不會接受；用腳踐踏着給人吃，乞丐也不屑接受；萬鍾的俸祿卻不分辨是否合於禮義就接受了。萬鍾的俸祿對我有甚麼增益呢？為了得到華美的居室、妻妾的侍奉、讓我認識的窮困者感激我的接濟嗎？"
+    },
+    "context": "一簞食，一豆羹，得之則生，弗得則死。嘑爾而與之，行道之人弗受；蹴爾而與之，乞人不屑也；萬鍾則不辯禮義而受之。萬鍾於我何加焉？為宮室之美、妻妾之奉、所識窮乏者得我與？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[3].blocks[2]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "q-e02-exp-003",
+      "q-e02-exp-004",
+      "full-a-e02-p03-b00-v00",
+      "full-a-e02-p03-b00-v02",
+      "full-a-e02-p03-b00-v03",
+      "full-a-e02-p03-b00-v04",
+      "full-a-e02-p03-b00-v05",
+      "full-a-e02-p03-b00-v06",
+      "full-a-e02-p03-b00-v07",
+      "full-a-e02-p03-b00-v08",
+      "full-a-e02-p03-b00-v09",
+      "full-a-e02-p03-b00-v10",
+      "full-a-e02-p03-b00-v11",
+      "full-a-e02-p03-b00-v14",
+      "full-a-e02-p03-b00-translation",
+      "full-a-e02-p06-b00-c04",
+      "full-a-e02-p07-b01-c01",
+      "full-a-e02-p07-b03-c04",
+      "full-a-e02-p09-b01-g10",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31",
+      "full-a-e02-p10-b00-g03",
+      "full-a-e02-p10-b00-g06",
+      "full-a-e02-p05-b02-x001",
+      "full-c-01-23-02-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ef4e84b8a48d19d6",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "簞",
+    "fields": {
+      "詞義": "竹製盛飯器"
+    },
+    "context": "一簞食，一豆羹，得之則生，弗得則死。嘑爾而與之，行道之人弗受；蹴爾而與之，乞人不屑也；萬鍾則不辯禮義而受之。萬鍾於我何加焉？為宮室之美、妻妾之奉、所識窮乏者得我與？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[3].blocks[3][1][0]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bce8a5b96cddf6d8",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "豆",
+    "fields": {
+      "詞義": "盛食物的器皿"
+    },
+    "context": "一簞食，一豆羹，得之則生，弗得則死。嘑爾而與之，行道之人弗受；蹴爾而與之，乞人不屑也；萬鍾則不辯禮義而受之。萬鍾於我何加焉？為宮室之美、妻妾之奉、所識窮乏者得我與？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[3].blocks[3][1][1]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-02fce0a1e5acf880",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "羹",
+    "fields": {
+      "詞義": "帶汁的食物、湯羹"
+    },
+    "context": "一簞食，一豆羹，得之則生，弗得則死。嘑爾而與之，行道之人弗受；蹴爾而與之，乞人不屑也；萬鍾則不辯禮義而受之。萬鍾於我何加焉？為宮室之美、妻妾之奉、所識窮乏者得我與？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[3].blocks[3][1][2]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-006a79477316ef73",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "弗",
+    "fields": {
+      "詞義": "不"
+    },
+    "context": "一簞食，一豆羹，得之則生，弗得則死。嘑爾而與之，行道之人弗受；蹴爾而與之，乞人不屑也；萬鍾則不辯禮義而受之。萬鍾於我何加焉？為宮室之美、妻妾之奉、所識窮乏者得我與？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[3].blocks[3][1][3]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bdb31ba136b08055",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "嘑",
+    "fields": {
+      "詞義": "同呼，呼喝"
+    },
+    "context": "一簞食，一豆羹，得之則生，弗得則死。嘑爾而與之，行道之人弗受；蹴爾而與之，乞人不屑也；萬鍾則不辯禮義而受之。萬鍾於我何加焉？為宮室之美、妻妾之奉、所識窮乏者得我與？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[3].blocks[3][1][4]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8501cb6204a13f56",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "爾",
+    "fields": {
+      "詞義": "表動作狀態"
+    },
+    "context": "一簞食，一豆羹，得之則生，弗得則死。嘑爾而與之，行道之人弗受；蹴爾而與之，乞人不屑也；萬鍾則不辯禮義而受之。萬鍾於我何加焉？為宮室之美、妻妾之奉、所識窮乏者得我與？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[3].blocks[3][1][5]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5c29831552620037",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "與",
+    "fields": {
+      "詞義": "給予"
+    },
+    "context": "一簞食，一豆羹，得之則生，弗得則死。嘑爾而與之，行道之人弗受；蹴爾而與之，乞人不屑也；萬鍾則不辯禮義而受之。萬鍾於我何加焉？為宮室之美、妻妾之奉、所識窮乏者得我與？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[3].blocks[3][1][6]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2c459351b8d0e597",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "蹴",
+    "fields": {
+      "詞義": "用腳踐踏"
+    },
+    "context": "一簞食，一豆羹，得之則生，弗得則死。嘑爾而與之，行道之人弗受；蹴爾而與之，乞人不屑也；萬鍾則不辯禮義而受之。萬鍾於我何加焉？為宮室之美、妻妾之奉、所識窮乏者得我與？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[3].blocks[3][1][7]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0320f7ad30131ae6",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "不屑",
+    "fields": {
+      "詞義": "認為不值得接受"
+    },
+    "context": "一簞食，一豆羹，得之則生，弗得則死。嘑爾而與之，行道之人弗受；蹴爾而與之，乞人不屑也；萬鍾則不辯禮義而受之。萬鍾於我何加焉？為宮室之美、妻妾之奉、所識窮乏者得我與？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[3].blocks[3][1][8]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2c73a5c87059bc33",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "萬鍾",
+    "fields": {
+      "詞義": "豐厚俸祿"
+    },
+    "context": "一簞食，一豆羹，得之則生，弗得則死。嘑爾而與之，行道之人弗受；蹴爾而與之，乞人不屑也；萬鍾則不辯禮義而受之。萬鍾於我何加焉？為宮室之美、妻妾之奉、所識窮乏者得我與？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[3].blocks[3][1][9]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c947d48e8032d55e",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "辯",
+    "fields": {
+      "詞義": "通辨，分辨"
+    },
+    "context": "一簞食，一豆羹，得之則生，弗得則死。嘑爾而與之，行道之人弗受；蹴爾而與之，乞人不屑也；萬鍾則不辯禮義而受之。萬鍾於我何加焉？為宮室之美、妻妾之奉、所識窮乏者得我與？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[3].blocks[3][1][10]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-da91ea2156a04764",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "加",
+    "fields": {
+      "詞義": "增益、好處"
+    },
+    "context": "一簞食，一豆羹，得之則生，弗得則死。嘑爾而與之，行道之人弗受；蹴爾而與之，乞人不屑也；萬鍾則不辯禮義而受之。萬鍾於我何加焉？為宮室之美、妻妾之奉、所識窮乏者得我與？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[3].blocks[3][1][11]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4d161c72ac6bc193",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "奉",
+    "fields": {
+      "詞義": "妻妾的侍奉；另有供養妻妾解"
+    },
+    "context": "一簞食，一豆羹，得之則生，弗得則死。嘑爾而與之，行道之人弗受；蹴爾而與之，乞人不屑也；萬鍾則不辯禮義而受之。萬鍾於我何加焉？為宮室之美、妻妾之奉、所識窮乏者得我與？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[3].blocks[3][1][12]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "multiple-interpretations",
+      "notes": [
+        "詞解本身明列異解：妻妾的侍奉；另有供養妻妾解；保留閱讀，不設唯一判分。"
+      ]
+    }
+  },
+  {
+    "id": "k-3969139c28b2d69c",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "得",
+    "fields": {
+      "詞義": "通德，感激"
+    },
+    "context": "一簞食，一豆羹，得之則生，弗得則死。嘑爾而與之，行道之人弗受；蹴爾而與之，乞人不屑也；萬鍾則不辯禮義而受之。萬鍾於我何加焉？為宮室之美、妻妾之奉、所識窮乏者得我與？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[3].blocks[3][1][13]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d2da0dda450be8af",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "與",
+    "fields": {
+      "詞義": "通歟，語氣助詞"
+    },
+    "context": "一簞食，一豆羹，得之則生，弗得則死。嘑爾而與之，行道之人弗受；蹴爾而與之，乞人不屑也；萬鍾則不辯禮義而受之。萬鍾於我何加焉？為宮室之美、妻妾之奉、所識窮乏者得我與？",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[3].blocks[3][1][14]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5c388a3688f9c077",
+    "chapterId": "essay-02",
+    "category": "theme",
+    "title": "句段核心：第2段｜原文與語譯 2",
+    "fields": {
+      "重點": "從拒食到受祿，以今昔反差揭露本心的喪失。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[4].core",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c831ddd81f1d7295",
+    "chapterId": "essay-02",
+    "category": "text",
+    "title": "第2段｜原文與語譯 2",
+    "fields": {
+      "原文": "鄉為身死而不受，今為宮室之美為之；鄉為身死而不受，今為妻妾之奉為之；鄉為身死而不受，今為所識窮乏者得我而為之，是亦不可以已乎？此之謂失其本心。」"
+    },
+    "context": "鄉為身死而不受，今為宮室之美為之；鄉為身死而不受，今為妻妾之奉為之；鄉為身死而不受，今為所識窮乏者得我而為之，是亦不可以已乎？此之謂失其本心。」",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[4].blocks[0]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "q-e02-exp-005",
+      "q-e02-exp-008",
+      "full-a-e02-p04-b00-v00",
+      "full-a-e02-p04-b00-v04",
+      "full-a-e02-p04-b00-translation",
+      "full-a-e02-p06-b00-c05",
+      "full-a-e02-p07-b03-c01",
+      "full-a-e02-p07-b03-c02",
+      "full-a-e02-p09-b01-g03",
+      "full-a-e02-p09-b01-g04",
+      "full-a-e02-p09-b01-g08",
+      "full-a-e02-p10-b00-g06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-41054b70107ab738",
+    "chapterId": "essay-02",
+    "category": "text",
+    "title": "第2段｜原文與語譯 2",
+    "fields": {
+      "語譯": "從前寧願死都不接受的，現在卻為了華美的居室而接受了；從前寧願死都不接受的，現在卻為了妻妾的侍奉而接受了；從前寧願死都不接受的，現在卻為了讓我認識的窮困者感激我而接受了，這些做法不可以停止嗎？這就叫喪失了人的本性。」"
+    },
+    "context": "鄉為身死而不受，今為宮室之美為之；鄉為身死而不受，今為妻妾之奉為之；鄉為身死而不受，今為所識窮乏者得我而為之，是亦不可以已乎？此之謂失其本心。」",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[4].blocks[2]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "q-e02-exp-005",
+      "q-e02-exp-008",
+      "full-a-e02-p04-b00-v00",
+      "full-a-e02-p04-b00-v04",
+      "full-a-e02-p04-b00-translation",
+      "full-a-e02-p06-b00-c05",
+      "full-a-e02-p07-b03-c01",
+      "full-a-e02-p07-b03-c02",
+      "full-a-e02-p09-b01-g03",
+      "full-a-e02-p09-b01-g04",
+      "full-a-e02-p09-b01-g08",
+      "full-a-e02-p10-b00-g06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8d195bc2a8bf04dd",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "鄉",
+    "fields": {
+      "詞義": "通向，從前"
+    },
+    "context": "鄉為身死而不受，今為宮室之美為之；鄉為身死而不受，今為妻妾之奉為之；鄉為身死而不受，今為所識窮乏者得我而為之，是亦不可以已乎？此之謂失其本心。」",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[4].blocks[3][1][0]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4cac83274985b031",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "奉",
+    "fields": {
+      "詞義": "妻妾的侍奉；另有供養妻妾解"
+    },
+    "context": "鄉為身死而不受，今為宮室之美為之；鄉為身死而不受，今為妻妾之奉為之；鄉為身死而不受，今為所識窮乏者得我而為之，是亦不可以已乎？此之謂失其本心。」",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[4].blocks[3][1][1]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "multiple-interpretations",
+      "notes": [
+        "詞解本身明列異解：妻妾的侍奉；另有供養妻妾解；保留閱讀，不設唯一判分。"
+      ]
+    }
+  },
+  {
+    "id": "k-8d0959709cb8be76",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "得",
+    "fields": {
+      "詞義": "通德，感激"
+    },
+    "context": "鄉為身死而不受，今為宮室之美為之；鄉為身死而不受，今為妻妾之奉為之；鄉為身死而不受，今為所識窮乏者得我而為之，是亦不可以已乎？此之謂失其本心。」",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[4].blocks[3][1][2]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a340198f8f92d7d1",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "已",
+    "fields": {
+      "詞義": "停止"
+    },
+    "context": "鄉為身死而不受，今為宮室之美為之；鄉為身死而不受，今為妻妾之奉為之；鄉為身死而不受，今為所識窮乏者得我而為之，是亦不可以已乎？此之謂失其本心。」",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[4].blocks[3][1][3]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-998dca90daa09234",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "本心",
+    "fields": {
+      "詞義": "與生俱來的重義良心"
+    },
+    "context": "鄉為身死而不受，今為宮室之美為之；鄉為身死而不受，今為妻妾之奉為之；鄉為身死而不受，今為所識窮乏者得我而為之，是亦不可以已乎？此之謂失其本心。」",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[4].blocks[3][1][4]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-dd711da61a884876",
+    "chapterId": "essay-02",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "一簞食、一豆羹雖少卻能救命；萬鍾雖多卻不是救命所必需。為享受和感激而不辨禮義，才是所批評的取捨。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[4].blocks[4]",
+        "section": "第2段｜原文與語譯 2"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[108].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[111].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[243].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[244].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[418].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[454].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[457].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[458].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[514].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[515].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[517].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[528].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e02-exp-005",
+      "q-e02-exp-008",
+      "full-a-e02-p04-b00-v00",
+      "full-a-e02-p04-b00-v04",
+      "full-a-e02-p04-b00-translation",
+      "full-a-e02-p06-b00-c05",
+      "full-a-e02-p07-b03-c01",
+      "full-a-e02-p07-b03-c02",
+      "full-a-e02-p09-b01-g03",
+      "full-a-e02-p09-b01-g04",
+      "full-a-e02-p09-b01-g08",
+      "full-a-e02-p10-b00-g06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-efeea8fa8d799d87",
+    "chapterId": "essay-02",
+    "category": "theme",
+    "title": "主旨、本心、義利與適用條件",
+    "fields": {
+      "內容": "中心是義比生命重要，當兩者不能兼得，應捨生取義；人皆有重義的本心，要保存它，警惕物欲使人不辨禮義。文章承認生命是「我所欲」，並非認為生命無價值，也不是凡有危險都須赴死。「所惡有甚於死者」指不義或失義比死亡更可厭惡；只有守義與保命不能兼得時，才形成文中的取捨。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[5].blocks[0]",
+        "section": "主旨、本心、義利與適用條件"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d9caf3c1a26a3c07",
+    "chapterId": "essay-02",
+    "category": "theme",
+    "title": "主旨、本心、義利與適用條件",
+    "fields": {
+      "內容": "人人都有重義的本心，但有本心不等於每次都能守住。賢者可貴之處是「能勿喪」：在生死或物欲壓力下，仍保有分辨禮義的能力。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[5].blocks[1]",
+        "section": "主旨、本心、義利與適用條件"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c06a306c27224335",
+    "chapterId": "essay-02",
+    "category": "theme",
+    "title": "主旨、本心、義利與適用條件",
+    "fields": {
+      "內容": "「所識窮乏者得我」寫希望受助者感激自己；問題在於為了這種回報而不辨禮義地受取萬鍾。批評的是取利時放棄原則，不是把幫助貧困者本身說成錯誤。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[5].blocks[2]",
+        "section": "主旨、本心、義利與適用條件"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p05-b02-x001"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-94186d779ebb5c19",
+    "chapterId": "essay-02",
+    "category": "structure",
+    "title": "建立尺度",
+    "fields": {
+      "原句依據": "二者不可得兼，舍魚而取熊掌者也。",
+      "如何支持主旨": "由熟悉的飲食取捨，類比生命與義不能兼得時取義。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[6].blocks[0][1][1]",
+        "section": "論證推進：由取捨到本心"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p06-b00-c01",
+      "full-a-e02-p06-b00-c02",
+      "full-a-e02-p06-b00-c03",
+      "full-a-e02-p06-b00-c04",
+      "full-a-e02-p06-b00-c05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a718fbabe16e6476",
+    "chapterId": "essay-02",
+    "category": "structure",
+    "title": "兩面推論",
+    "fields": {
+      "原句依據": "所欲有甚於生者；所惡有甚於死者。",
+      "如何支持主旨": "從欲生、惡死兩面說明，人仍有比求生避死更高的原則。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[6].blocks[0][1][2]",
+        "section": "論證推進：由取捨到本心"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p06-b00-c01",
+      "full-a-e02-p06-b00-c02",
+      "full-a-e02-p06-b00-c03",
+      "full-a-e02-p06-b00-c04",
+      "full-a-e02-p06-b00-c05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fff87118ed146def",
+    "chapterId": "essay-02",
+    "category": "structure",
+    "title": "反設檢驗",
+    "fields": {
+      "原句依據": "何不用也？……何不為也？",
+      "如何支持主旨": "若生命最高、死亡最可惡，理應不擇手段；實際卻有所不為，反證義更重要。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[6].blocks[0][1][3]",
+        "section": "論證推進：由取捨到本心"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p06-b00-c01",
+      "full-a-e02-p06-b00-c02",
+      "full-a-e02-p06-b00-c03",
+      "full-a-e02-p06-b00-c04",
+      "full-a-e02-p06-b00-c05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1a0ae8d84d6f373f",
+    "chapterId": "essay-02",
+    "category": "structure",
+    "title": "普通人亦能守義",
+    "fields": {
+      "原句依據": "行道之人弗受；乞人不屑也。",
+      "如何支持主旨": "連飢餓的路人、乞人都拒絕受辱，顯示本心並非賢者獨有。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[6].blocks[0][1][4]",
+        "section": "論證推進：由取捨到本心"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p06-b00-c01",
+      "full-a-e02-p06-b00-c02",
+      "full-a-e02-p06-b00-c03",
+      "full-a-e02-p06-b00-c04",
+      "full-a-e02-p06-b00-c05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-13580cf34750fd43",
+    "chapterId": "essay-02",
+    "category": "structure",
+    "title": "物欲使本心失守",
+    "fields": {
+      "原句依據": "萬鍾則不辯禮義而受之；鄉……今……",
+      "如何支持主旨": "先列受祿的誘惑，再揭示今昔選擇矛盾，歸結為失其本心。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[6].blocks[0][1][5]",
+        "section": "論證推進：由取捨到本心"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p06-b00-c01",
+      "full-a-e02-p06-b00-c02",
+      "full-a-e02-p06-b00-c03",
+      "full-a-e02-p06-b00-c04",
+      "full-a-e02-p06-b00-c05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-dc4fe0a128e1d226",
+    "chapterId": "essay-02",
+    "category": "structure",
+    "title": "論證推進：由取捨到本心",
+    "fields": {
+      "內容": "「人皆有之，賢者能勿喪耳」承上啟下：上承人人有重義本心，下啟能否保存的考驗。第二段不是另起無關故事，而是把抽象原則落實到拒食與受祿。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[6].blocks[1]",
+        "section": "論證推進：由取捨到本心"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p06-b01-x002"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e529a68ec860c51a",
+    "chapterId": "essay-02",
+    "category": "technique",
+    "title": "食物與俸祿",
+    "fields": {
+      "雙方表現與依據": "「一簞食，一豆羹」雖少卻能救命；「萬鍾」雖多，所求卻是宮室、妻妾與他人感激。",
+      "作用": "對照生存所需與物質誘惑，凸顯受取是否合義才是關鍵。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[7].blocks[1][1][1]",
+        "section": "關鍵比較與語言表達"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p07-b01-c01",
+      "full-a-e02-p07-b01-c02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f5809b07fe6fd745",
+    "chapterId": "essay-02",
+    "category": "technique",
+    "title": "不同人物",
+    "fields": {
+      "雙方表現與依據": "「行道之人弗受」「乞人不屑」；有人卻「不辯禮義而受之」。",
+      "作用": "地位卑微者也能守義，受厚祿者反失本心；不能以地位判定道德。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[7].blocks[1][1][2]",
+        "section": "關鍵比較與語言表達"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p07-b01-c01",
+      "full-a-e02-p07-b01-c02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f63ce64ab00d6b14",
+    "chapterId": "essay-02",
+    "category": "technique",
+    "title": "同一人的今昔",
+    "fields": {
+      "雙方表現與依據": "三組「鄉為身死而不受，今為……為之」。",
+      "作用": "昔日寧死不受，今日因物欲接受，揭示價值選擇前後矛盾。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[7].blocks[1][1][3]",
+        "section": "關鍵比較與語言表達"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p07-b01-c01",
+      "full-a-e02-p07-b01-c02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3901b2cb84502baa",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "排比",
+    "fields": {
+      "代表原句": "今為宮室之美為之；今為妻妾之奉為之；今為所識窮乏者得我而為之。",
+      "具體效果": "列出三種誘惑，條理清楚、語勢增強，集中揭露失義的動機。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[7].blocks[3][1][1]",
+        "section": "關鍵比較與語言表達"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p07-b03-c01",
+      "full-a-e02-p07-b03-c02",
+      "full-a-e02-p07-b03-c03",
+      "full-a-e02-p07-b03-c04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b78bc46fc57e7b31",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "反復",
+    "fields": {
+      "代表原句": "鄉為身死而不受",
+      "具體效果": "反覆提醒昔日守義的選擇，與今昔對比配合，形成警醒。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[7].blocks[3][1][2]",
+        "section": "關鍵比較與語言表達"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p07-b03-c01",
+      "full-a-e02-p07-b03-c02",
+      "full-a-e02-p07-b03-c03",
+      "full-a-e02-p07-b03-c04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8098ea83b3b50aa0",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "對偶",
+    "fields": {
+      "代表原句": "生亦我所欲也，義亦我所欲也。",
+      "具體效果": "兩句各六字，結構相同，把生命與道義並列，為下文二者不可兼得時的取捨作鋪墊。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[7].blocks[3][1][3]",
+        "section": "關鍵比較與語言表達"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p07-b03-c01",
+      "full-a-e02-p07-b03-c02",
+      "full-a-e02-p07-b03-c03",
+      "full-a-e02-p07-b03-c04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-522d1be1b775a667",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "反問",
+    "fields": {
+      "代表原句": "萬鍾於我何加焉？是亦不可以已乎？",
+      "具體效果": "追問受祿的實際增益，促使反思並停止失義行為；不是詢問未知事實。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[7].blocks[3][1][4]",
+        "section": "關鍵比較與語言表達"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p07-b03-c01",
+      "full-a-e02-p07-b03-c02",
+      "full-a-e02-p07-b03-c03",
+      "full-a-e02-p07-b03-c04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9418cc55597de1f6",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "延伸補充｜句式與文章氣勢",
+    "fields": {
+      "內容": "長短句、奇偶句交錯，使文章整齊中有變化、文氣流暢。這屬語言風格，與前面「論據如何支持論點」分開理解。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[8].blocks[0]",
+        "section": "延伸補充｜句式與文章氣勢"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p08-b00-concept"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7725c5c47ebf729f",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "延伸補充｜句式與文章氣勢",
+    "fields": {
+      "內容": "《孟子·公孫丑上》「我知言，我善養吾浩然之氣」及韓愈《答李翊書》「行之乎仁義之途，游之乎詩書之源」「氣盛則言之短長與聲之高下者皆宜」，可用來理解道德修養與文章氣勢的關係。這是延伸聯繫，不是本篇論證的一個步驟。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[8].blocks[1]",
+        "section": "延伸補充｜句式與文章氣勢"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-623742f7f49c490a",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "為",
+    "fields": {
+      "原文短語": "何不為也",
+      "本句意思／作用": "做、實行避患之事。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[1][1][1]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b01-g01",
+      "full-a-e02-p09-b01-g03",
+      "full-a-e02-p09-b01-g04",
+      "full-a-e02-p09-b01-g07",
+      "full-a-e02-p09-b01-g08",
+      "full-a-e02-p09-b01-g09",
+      "full-a-e02-p09-b01-g10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-be218b54b90b8ca2",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "為",
+    "fields": {
+      "原文短語": "鄉為身死而不受",
+      "本句意思／作用": "表原因；連句解為從前寧願身死也不接受。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[1][1][2]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b01-g01",
+      "full-a-e02-p09-b01-g03",
+      "full-a-e02-p09-b01-g04",
+      "full-a-e02-p09-b01-g07",
+      "full-a-e02-p09-b01-g08",
+      "full-a-e02-p09-b01-g09",
+      "full-a-e02-p09-b01-g10"
+    ],
+    "review": {
+      "status": "multiple-interpretations",
+      "notes": [
+        "「鄉為身死而不受」所連對象在pages[12]明列食物／萬鍾異讀，整句保留兩解，不強判唯一語譯。"
+      ]
+    }
+  },
+  {
+    "id": "k-c9cf3b1893c5f800",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "為",
+    "fields": {
+      "原文短語": "今為宮室之美為之（前為）",
+      "本句意思／作用": "為了，表示目的。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[1][1][3]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b01-g01",
+      "full-a-e02-p09-b01-g03",
+      "full-a-e02-p09-b01-g04",
+      "full-a-e02-p09-b01-g07",
+      "full-a-e02-p09-b01-g08",
+      "full-a-e02-p09-b01-g09",
+      "full-a-e02-p09-b01-g10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3a8af3950c856557",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "為",
+    "fields": {
+      "原文短語": "今為宮室之美為之（後為）",
+      "本句意思／作用": "做、接受。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[1][1][4]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b01-g01",
+      "full-a-e02-p09-b01-g03",
+      "full-a-e02-p09-b01-g04",
+      "full-a-e02-p09-b01-g07",
+      "full-a-e02-p09-b01-g08",
+      "full-a-e02-p09-b01-g09",
+      "full-a-e02-p09-b01-g10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b4a24f25850cc521",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "與",
+    "fields": {
+      "原文短語": "嘑爾而與之",
+      "本句意思／作用": "給予，動詞。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[1][1][5]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b01-g01",
+      "full-a-e02-p09-b01-g03",
+      "full-a-e02-p09-b01-g04",
+      "full-a-e02-p09-b01-g07",
+      "full-a-e02-p09-b01-g08",
+      "full-a-e02-p09-b01-g09",
+      "full-a-e02-p09-b01-g10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-15db6027695f0ff1",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "與",
+    "fields": {
+      "原文短語": "所識窮乏者得我與",
+      "本句意思／作用": "通歟，句末語氣助詞。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[1][1][6]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b01-g01",
+      "full-a-e02-p09-b01-g03",
+      "full-a-e02-p09-b01-g04",
+      "full-a-e02-p09-b01-g07",
+      "full-a-e02-p09-b01-g08",
+      "full-a-e02-p09-b01-g09",
+      "full-a-e02-p09-b01-g10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fa83bb6de135186e",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "之",
+    "fields": {
+      "原文短語": "人皆有之",
+      "本句意思／作用": "代上述重義的本心。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[1][1][7]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b01-g01",
+      "full-a-e02-p09-b01-g03",
+      "full-a-e02-p09-b01-g04",
+      "full-a-e02-p09-b01-g07",
+      "full-a-e02-p09-b01-g08",
+      "full-a-e02-p09-b01-g09",
+      "full-a-e02-p09-b01-g10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0095a23dbff00ac1",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "之",
+    "fields": {
+      "原文短語": "此之謂失其本心",
+      "本句意思／作用": "在「此之謂」結構中，協助表示「這就叫作」，不譯成它。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[1][1][8]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b01-g01",
+      "full-a-e02-p09-b01-g03",
+      "full-a-e02-p09-b01-g04",
+      "full-a-e02-p09-b01-g07",
+      "full-a-e02-p09-b01-g08",
+      "full-a-e02-p09-b01-g09",
+      "full-a-e02-p09-b01-g10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2e57fb25db0e0d7f",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "於",
+    "fields": {
+      "原文短語": "所欲有甚於生者",
+      "本句意思／作用": "比，引出比較對象。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[1][1][9]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b01-g01",
+      "full-a-e02-p09-b01-g03",
+      "full-a-e02-p09-b01-g04",
+      "full-a-e02-p09-b01-g07",
+      "full-a-e02-p09-b01-g08",
+      "full-a-e02-p09-b01-g09",
+      "full-a-e02-p09-b01-g10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-744ee29a8cf26fcf",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "於",
+    "fields": {
+      "原文短語": "萬鍾於我何加焉",
+      "本句意思／作用": "對於。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[1][1][10]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b01-g01",
+      "full-a-e02-p09-b01-g03",
+      "full-a-e02-p09-b01-g04",
+      "full-a-e02-p09-b01-g07",
+      "full-a-e02-p09-b01-g08",
+      "full-a-e02-p09-b01-g09",
+      "full-a-e02-p09-b01-g10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-66ba7e90a4b69f86",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "欲",
+    "fields": {
+      "原句定位": "我所欲也",
+      "意思與必要辨析": "想要、喜愛，動詞。「所欲／所大欲」整體屬名詞性結構，指想要的事物；「秦之所大欲」可譯為秦國最想得到的東西。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][1]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0a002fe3c826482d",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "兼",
+    "fields": {
+      "原句定位": "二者不可得兼",
+      "意思與必要辨析": "同時兼有。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][2]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-657892356b8d396c",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "舍通捨",
+    "fields": {
+      "原句定位": "舍魚而取熊掌者也",
+      "意思與必要辨析": "捨棄，舍通捨。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][3]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1d9503a78bc444d4",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "甚於生／死",
+    "fields": {
+      "原句定位": "甚於生／死",
+      "意思與必要辨析": "甚：超過；於引出比較對象「比」。所欲、所惡是「所＋動詞」名詞性結構。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][4]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8e601647e1c7f1b2",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "苟得",
+    "fields": {
+      "原句定位": "故不為苟得也",
+      "意思與必要辨析": "苟：隨便、輕率、苟且，苟得指苟且求生"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][5]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d5f985253072875e",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "惡",
+    "fields": {
+      "原句定位": "死亦我所惡",
+      "意思與必要辨析": "惡：厭惡。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][6]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d7e77206374a31cc",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "患",
+    "fields": {
+      "原句定位": "故患有所不辟也",
+      "意思與必要辨析": "禍患"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][7]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-dfbe3c62e25f1b8a",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "不辟",
+    "fields": {
+      "原句定位": "故患有所不辟也",
+      "意思與必要辨析": "不躲避，辟通避；有所不辟不等於全不避。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][8]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e3e4cd7e94623fb9",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "如使",
+    "fields": {
+      "原句定位": "如使人之所欲莫甚於生",
+      "意思與必要辨析": "如使／使：假如"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][9]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-83a1d2a07dd0fd66",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "莫",
+    "fields": {
+      "原句定位": "如使人之所欲莫甚於生",
+      "意思與必要辨析": "莫：沒有甚麼。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][10]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-482138c4dbcaef33",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "得生",
+    "fields": {
+      "原句定位": "則凡可以得生者",
+      "意思與必要辨析": "得生：獲得生存"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][11]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5261d0f473dc796d",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "用",
+    "fields": {
+      "原句定位": "何不用也",
+      "意思與必要辨析": "用：使用求生方法，亦釋選取、接受"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][12]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-113a324ecf7d4b58",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "為",
+    "fields": {
+      "原句定位": "何不為也",
+      "意思與必要辨析": "做、實行避患之事。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][13]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3f29d1b777843028",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "由是",
+    "fields": {
+      "原句定位": "由是則生而有不用也",
+      "意思與必要辨析": "由是：依循這些方法"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][14]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3fb5f654e3698e2e",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "是故",
+    "fields": {
+      "原句定位": "是故所欲有甚於生者",
+      "意思與必要辨析": "是故：因此。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][15]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8838107c71479f0d",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "是心",
+    "fields": {
+      "原句定位": "非獨賢者有是心也",
+      "意思與必要辨析": "這種本心"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][16]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cf158cf01d370da6",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "人皆有之",
+    "fields": {
+      "原句定位": "人皆有之",
+      "意思與必要辨析": "人人都有上述本心"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][17]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d65f8e7be3dd17cd",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "非獨",
+    "fields": {
+      "原句定位": "非獨賢者有是心也",
+      "意思與必要辨析": "不僅"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][18]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4860782bdb6dddd2",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "勿喪",
+    "fields": {
+      "原句定位": "賢者能勿喪耳",
+      "意思與必要辨析": "不喪失"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][19]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5873c13cfc058418",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "耳",
+    "fields": {
+      "原句定位": "賢者能勿喪耳",
+      "意思與必要辨析": "而已，句末語氣。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][20]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1c2b9dd24f47346b",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "簞",
+    "fields": {
+      "原句定位": "一簞食",
+      "意思與必要辨析": "竹製飯器。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][21]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-16b17908e95777d9",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "食",
+    "fields": {
+      "原句定位": "一簞食",
+      "意思與必要辨析": "飯食。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][22]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-87fc2b7de5807bd6",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "豆",
+    "fields": {
+      "原句定位": "一豆羹",
+      "意思與必要辨析": "高腳盛食器，從字形說明，譯木碗。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][23]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-05e65743c6ee545a",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "羹",
+    "fields": {
+      "原句定位": "一豆羹",
+      "意思與必要辨析": "帶汁肉食，語譯湯羹。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][24]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c2f1a2588dbafe38",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "弗",
+    "fields": {
+      "原句定位": "弗得則死",
+      "意思與必要辨析": "不，否定副詞。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][25]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-471395067f7a4db7",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "嘑同呼",
+    "fields": {
+      "原句定位": "嘑爾而與之",
+      "意思與必要辨析": "呼喝，嘑同呼。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][26]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-955aeccd8652f31f",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "爾",
+    "fields": {
+      "原句定位": "嘑爾而與之",
+      "意思與必要辨析": "動詞後表狀態的助詞，語譯「着」，可不另譯。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][27]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8233b0cb1a857aae",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "與",
+    "fields": {
+      "原句定位": "嘑爾而與之",
+      "意思與必要辨析": "給予，動詞。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][28]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-008855859bfb76c4",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "行道之人",
+    "fields": {
+      "原句定位": "行道之人弗受",
+      "意思與必要辨析": "路人，行為動詞、道為名詞。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][29]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7ad7ccf5479ce4a3",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "蹴",
+    "fields": {
+      "原句定位": "蹴爾而與之",
+      "意思與必要辨析": "用腳踐踏。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][30]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c413e304699f7b79",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "屑",
+    "fields": {
+      "原句定位": "乞人不屑也",
+      "意思與必要辨析": "認為值得。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][31]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5a0034b5d1084a66",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "不屑",
+    "fields": {
+      "原句定位": "乞人不屑也",
+      "意思與必要辨析": "認為不值得接受。路人面對呼喝、乞人面對踐踏，都拒絕受辱。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[9].blocks[2][1][32]",
+        "section": "字詞、通假與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b02-g01",
+      "full-a-e02-p09-b02-g11",
+      "full-a-e02-p09-b02-g12",
+      "full-a-e02-p09-b02-g15",
+      "full-a-e02-p09-b02-g22",
+      "full-a-e02-p09-b02-g29",
+      "full-a-e02-p09-b02-g31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f2bb5d0f55185df5",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "萬鍾",
+    "fields": {
+      "原句定位": "萬鍾則不辯禮義而受之",
+      "意思與必要辨析": "豐厚俸祿，鍾為容量單位，一鍾十釜，萬是約數"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[10].blocks[0][1][1]",
+        "section": "字詞、通假與語法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p10-b00-g03",
+      "full-a-e02-p10-b00-g06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-698c26e9fc303f44",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "辯",
+    "fields": {
+      "原句定位": "萬鍾則不辯禮義而受之",
+      "意思與必要辨析": "通辨，分辨"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[10].blocks[0][1][2]",
+        "section": "字詞、通假與語法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p10-b00-g03",
+      "full-a-e02-p10-b00-g06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d465445fe43aac69",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "禮義",
+    "fields": {
+      "原句定位": "萬鍾則不辯禮義而受之",
+      "意思與必要辨析": "合宜的道德原則，不只禮貌儀式。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[10].blocks[0][1][3]",
+        "section": "字詞、通假與語法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p10-b00-g03",
+      "full-a-e02-p10-b00-g06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b24f1997c8f8d8a9",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "於我",
+    "fields": {
+      "原句定位": "萬鍾於我何加焉",
+      "意思與必要辨析": "於：對於"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[10].blocks[0][1][4]",
+        "section": "字詞、通假與語法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p10-b00-g03",
+      "full-a-e02-p10-b00-g06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a5e3b3ba9945ea98",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "何加",
+    "fields": {
+      "原句定位": "萬鍾於我何加焉",
+      "意思與必要辨析": "加：增益、好處，不是增加數量而已。何：甚麼。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[10].blocks[0][1][5]",
+        "section": "字詞、通假與語法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p10-b00-g03",
+      "full-a-e02-p10-b00-g06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-be0b8afd689c1d02",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "宮室",
+    "fields": {
+      "原句定位": "為宮室之美、妻妾之奉、所識窮乏者得我與",
+      "意思與必要辨析": "居所，不限皇宮。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[10].blocks[0][1][6]",
+        "section": "字詞、通假與語法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p10-b00-g03",
+      "full-a-e02-p10-b00-g06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f2672e6c7da9b017",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "奉",
+    "fields": {
+      "原句定位": "為宮室之美、妻妾之奉、所識窮乏者得我與",
+      "意思與必要辨析": "侍奉，解妻妾對自己的侍奉；供養妻妾的另一解見爭議。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[10].blocks[0][1][7]",
+        "section": "字詞、通假與語法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p10-b00-g03",
+      "full-a-e02-p10-b00-g06"
+    ],
+    "review": {
+      "status": "multiple-interpretations",
+      "notes": [
+        "同篇pages[12]明列妻妾侍奉自己／供養妻妾兩解。"
+      ]
+    }
+  },
+  {
+    "id": "k-1f0da4b33d6d2fe7",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "得我",
+    "fields": {
+      "原句定位": "為宮室之美、妻妾之奉、所識窮乏者得我與",
+      "意思與必要辨析": "感激我，得通德"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[10].blocks[0][1][8]",
+        "section": "字詞、通假與語法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p10-b00-g03",
+      "full-a-e02-p10-b00-g06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4844ac6f0d73e1b6",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "與",
+    "fields": {
+      "原句定位": "所識窮乏者得我與",
+      "意思與必要辨析": "通歟，句末語氣。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[10].blocks[0][1][9]",
+        "section": "字詞、通假與語法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p10-b00-g03",
+      "full-a-e02-p10-b00-g06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0d67663f76092d1f",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "鄉",
+    "fields": {
+      "原句定位": "鄉為身死而不受",
+      "意思與必要辨析": "通向，從前"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[10].blocks[0][1][10]",
+        "section": "字詞、通假與語法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p10-b00-g03",
+      "full-a-e02-p10-b00-g06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-426dfd57b517df7d",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "已",
+    "fields": {
+      "原句定位": "是亦不可以已乎",
+      "意思與必要辨析": "停止。為的各句用法見逐句辨析。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[10].blocks[0][1][11]",
+        "section": "字詞、通假與語法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p10-b00-g03",
+      "full-a-e02-p10-b00-g06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a3e4b1db25fcab0c",
+    "chapterId": "essay-02",
+    "category": "vocabulary",
+    "title": "此之謂失其本心",
+    "fields": {
+      "原句定位": "此之謂失其本心",
+      "意思與必要辨析": "這就叫作喪失本心；須辨這裏的之與代詞「人皆有之」，不可一律譯它。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[10].blocks[0][1][12]",
+        "section": "字詞、通假與語法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p10-b00-g03",
+      "full-a-e02-p10-b00-g06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5452ed3ac7110083",
+    "chapterId": "essay-02",
+    "category": "exam",
+    "title": "歷年考查提示",
+    "fields": {
+      "內容": "下表列出歷年考查的知識方向；題目、答案與適用條件見配套考查索引。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[11].blocks[0]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d31ade447700b74f",
+    "chapterId": "essay-02",
+    "category": "exam",
+    "title": "2021",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "字詞：鄉"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[11].blocks[1][1][1]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a1e49ed8e18890d1",
+    "chapterId": "essay-02",
+    "category": "exam",
+    "title": "2022",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "虛詞比較：者的用法，含主句及跨篇選項；不代表每篇均為主考"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[11].blocks[1][1][2]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-44f938a11eb0f9ee",
+    "chapterId": "essay-02",
+    "category": "exam",
+    "title": "2022",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "論證：正反兩面論述義重於生"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[11].blocks[1][1][3]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1c9f68cfddeaa570",
+    "chapterId": "essay-02",
+    "category": "exam",
+    "title": "2022",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "概念：本心的意思；生活應用：保存本心對現代社會的提醒，須以教育現象為例"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[11].blocks[1][1][4]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5f4138ca9fbee4f1",
+    "chapterId": "essay-02",
+    "category": "exam",
+    "title": "2025",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "字詞：已"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[11].blocks[1][1][5]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-af358472b9da1d98",
+    "chapterId": "essay-02",
+    "category": "theme",
+    "title": "理解補充",
+    "fields": {
+      "內容": "「妻妾之奉」可理解為妻妾侍奉自己，也有供養妻妾之解。「鄉為身死而不受」按前文可連嗟來之食，也有連萬鍾的讀法。基本理解不變：過去重義，如今為利益放棄禮義，顯出本心失守。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[12].blocks[0]",
+        "section": "理解補充"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "multiple-interpretations",
+      "notes": [
+        "明列妻妾之奉與鄉為身死而不受的兩解，不強判單一語譯；共同的今昔失義由所列題覆蓋。"
+      ]
+    }
+  },
+  {
+    "id": "k-bf96c6f830d8bcac",
+    "chapterId": "essay-02",
+    "category": "structure",
+    "title": "章末串連｜重建全文",
+    "fields": {
+      "內容": "從取捨的原則，到生死考驗，再到日常物欲，全文追問同一件事：是否仍以義作判斷。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[13].blocks[0]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a275f96472d9a790",
+    "chapterId": "essay-02",
+    "category": "structure",
+    "title": "提出原則",
+    "fields": {
+      "怎樣連起來": "魚與熊掌難兼得，先示範取較可貴者；轉到生與義，提出捨生取義。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[13].blocks[1][1][1]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-51b9437c73ca8254",
+    "chapterId": "essay-02",
+    "category": "structure",
+    "title": "證明能做到",
+    "fields": {
+      "怎樣連起來": "欲生惡死都有更高界限；行人、乞人寧可不受侮辱之食，顯示人人有本心。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[13].blocks[1][1][2]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-43c08ff856356eac",
+    "chapterId": "essay-02",
+    "category": "structure",
+    "title": "揭示失守",
+    "fields": {
+      "怎樣連起來": "昔日寧死不受，如今為宮室、妻妾或感激而受萬鍾，前後反差證明本心會被物欲蒙蔽。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[1].pages[13].blocks[1][1][3]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-85fc1abbea976258",
+    "chapterId": "essay-02",
+    "category": "technique",
+    "title": "反問與設問",
+    "fields": {
+      "內容": "反問用疑問形式表達已確定的意思，通常不需回答，以加強語氣；設問先提出問題再作回答，引導讀者理解。判斷時看句子在上下文的作用，不能只憑問號。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[108].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[460].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[522].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e02-exp-005",
+      "full-a-e02-p07-b03-c04",
+      "full-a-e02-p09-b02-g12"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1877d5d1dd0eab07",
+    "chapterId": "essay-02",
+    "category": "theme",
+    "title": "被動句",
+    "fields": {
+      "內容": "被動句中主語是動作的承受者。文言可用「見」「於」「為……所……」等標誌，也可不帶標誌而由語意判斷。不能看見「於」或「為」就直接判作被動，須查明動作由誰發出、誰承受。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[513].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-a-e02-p09-b01-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  }
+]

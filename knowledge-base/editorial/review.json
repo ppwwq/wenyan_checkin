@@ -1,0 +1,437 @@
+{
+  "cards": [
+    {
+      "chapterId": "essay-01",
+      "title": "安仁與利仁：比較的是動機",
+      "quote": "仁者安仁，知者利仁",
+      "sourcePaths": [
+        "$[0].pages[1].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-01",
+      "title": "養與敬：孝的內外兩層",
+      "quote": "不敬，何以別乎",
+      "sourcePaths": [
+        "$[0].pages[6].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-01",
+      "title": "義、禮、孫、信：由原則到實踐",
+      "quote": "君子義以為質",
+      "sourcePaths": [
+        "$[0].pages[14].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-02",
+      "title": "捨生取義有前提",
+      "quote": "二者不可得兼",
+      "sourcePaths": [
+        "$[1].pages[1].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-02",
+      "title": "本心可以從行人、乞人看見",
+      "quote": "乞人不屑也",
+      "sourcePaths": [
+        "$[1].pages[3].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-02",
+      "title": "今昔對比揭示失義",
+      "quote": "此之謂失其本心",
+      "sourcePaths": [
+        "$[1].pages[4].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-03",
+      "title": "善假於物：外物擴大能力",
+      "quote": "善假於物也",
+      "sourcePaths": [
+        "$[2].pages[2].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-03",
+      "title": "積累、堅持、專一須分辨",
+      "quote": "學不可以已",
+      "sourcePaths": [
+        "$[2].pages[1].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-03",
+      "title": "論證層次與修辭可以並存",
+      "quote": "螾無爪牙之利",
+      "sourcePaths": [
+        "$[2].pages[4].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-04",
+      "title": "同一藥方，不同用法",
+      "quote": "所用之異也",
+      "sourcePaths": [
+        "$[3].pages[2].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-04",
+      "title": "大樹之無用，可以免害",
+      "quote": "無所可用，安所困苦哉",
+      "sourcePaths": [
+        "$[3].pages[5].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-04",
+      "title": "寓言要說清映照關係",
+      "quote": "不能執鼠",
+      "sourcePaths": [
+        "$[3].pages[5].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-05",
+      "title": "完璧歸趙：爭理和應變相配",
+      "quote": "寧許以負秦曲",
+      "sourcePaths": [
+        "$[4].pages[5].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-05",
+      "title": "澠池之會：行動維護對等",
+      "quote": "五步之內",
+      "sourcePaths": [
+        "$[4].pages[17].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-05",
+      "title": "先國後私：避讓的真正原因",
+      "quote": "以先國家之急而後私讎也",
+      "sourcePaths": [
+        "$[4].pages[21].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-06",
+      "title": "治國三策各有任務",
+      "quote": "親賢臣，遠小人",
+      "sourcePaths": [
+        "$[5].pages[5].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-06",
+      "title": "自述經歷用來說明責任",
+      "quote": "受任於敗軍之際",
+      "sourcePaths": [
+        "$[5].pages[6].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-06",
+      "title": "表：陳情與言事相連",
+      "quote": "臨表涕零",
+      "sourcePaths": [
+        "$[5].pages[8].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-07",
+      "title": "擇師看道，不看身份",
+      "quote": "道之所存，師之所存也",
+      "sourcePaths": [
+        "$[6].pages[2].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-07",
+      "title": "三組對比須一組一組對應",
+      "quote": "小學而大遺",
+      "sourcePaths": [
+        "$[6].pages[4].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-07",
+      "title": "孔子與李蟠的作用不同",
+      "quote": "不拘於時",
+      "sourcePaths": [
+        "$[6].pages[7].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-08",
+      "title": "舊遊廣泛，所得卻有限",
+      "quote": "恒惴慄",
+      "sourcePaths": [
+        "$[7].pages[1].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-08",
+      "title": "看見、登上、領悟逐步推進",
+      "quote": "始指異之",
+      "sourcePaths": [
+        "$[7].pages[2].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-08",
+      "title": "始得重在新境界",
+      "quote": "遊於是乎始",
+      "sourcePaths": [
+        "$[7].pages[5].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-09",
+      "title": "悲喜相反，依據卻相同",
+      "quote": "覽物之情，得無異乎",
+      "sourcePaths": [
+        "$[8].pages[2].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-09",
+      "title": "進退皆憂，關心君民",
+      "quote": "居廟堂之高則憂其民",
+      "sourcePaths": [
+        "$[8].pages[5].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-09",
+      "title": "先憂後樂是責任次序",
+      "quote": "先天下之憂而憂",
+      "sourcePaths": [
+        "$[8].pages[5].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-10",
+      "title": "賂與不賂，是兩條論證線",
+      "quote": "不賂者以賂者喪",
+      "sourcePaths": [
+        "$[9].pages[1].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-10",
+      "title": "以地求安，反使秦欲更甚",
+      "quote": "奉之彌繁，侵之愈急",
+      "sourcePaths": [
+        "$[9].pages[3].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-10",
+      "title": "借古諷今：重點落在當世",
+      "quote": "為國者無使為積威之所劫哉",
+      "sourcePaths": [
+        "$[9].pages[6].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-11",
+      "title": "空山的空是清幽",
+      "quote": "竹喧歸浣女",
+      "sourcePaths": [
+        "$[10].pages[2].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-11",
+      "title": "動靜和感官共同造境",
+      "quote": "明月松間照，清泉石上流",
+      "sourcePaths": [
+        "$[10].pages[1].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-11",
+      "title": "反用典故，完成留居選擇",
+      "quote": "王孫自可留",
+      "sourcePaths": [
+        "$[10].pages[2].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-12",
+      "title": "三人由想像形成",
+      "quote": "舉杯邀明月",
+      "sourcePaths": [
+        "$[11].pages[1].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-12",
+      "title": "不解、徒、暫揭示限制",
+      "quote": "月既不解飲",
+      "sourcePaths": [
+        "$[11].pages[1].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-12",
+      "title": "永與相期把希望推遠",
+      "quote": "相期邈雲漢",
+      "sourcePaths": [
+        "$[11].pages[3].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-13",
+      "title": "傷的根由在國難",
+      "quote": "萬方多難此登臨",
+      "sourcePaths": [
+        "$[12].pages[1].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-13",
+      "title": "江山將視野推至古今",
+      "quote": "錦江春色來天地",
+      "sourcePaths": [
+        "$[12].pages[1].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-13",
+      "title": "典故兼有諷今與自況",
+      "quote": "日暮聊為梁甫吟",
+      "sourcePaths": [
+        "$[12].pages[2].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-14",
+      "title": "雄奇江山引出英雄",
+      "quote": "江山如畫",
+      "sourcePaths": [
+        "$[13].pages[1].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-14",
+      "title": "兩個笑寫出人生落差",
+      "quote": "談笑間",
+      "sourcePaths": [
+        "$[13].pages[2].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-14",
+      "title": "酹月是複雜的排解",
+      "quote": "一尊還酹江月",
+      "sourcePaths": [
+        "$[13].pages[2].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-15",
+      "title": "七組疊字層層入心",
+      "quote": "尋尋覓覓",
+      "sourcePaths": [
+        "$[14].pages[1].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-15",
+      "title": "景物使往昔與眼前相接",
+      "quote": "卻是舊時相識",
+      "sourcePaths": [
+        "$[14].pages[1].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-15",
+      "title": "時間難熬，加深愁無可遣",
+      "quote": "怎一箇愁字了得",
+      "sourcePaths": [
+        "$[14].pages[2].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-16",
+      "title": "繁華為結尾那人作反襯",
+      "quote": "燈火闌珊處",
+      "sourcePaths": [
+        "$[15].pages[2].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-16",
+      "title": "千百度與驀然形成轉折",
+      "quote": "驀然迴首",
+      "sourcePaths": [
+        "$[15].pages[2].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    },
+    {
+      "chapterId": "essay-16",
+      "title": "字面尋人，寓意另作論證",
+      "quote": "那人卻在",
+      "sourcePaths": [
+        "$[15].pages[2].blocks[0]"
+      ],
+      "review": "編輯對照現有原文、篇章總覽及串連，核對概括條件、解釋界線與易錯點；非教師獨立審定。"
+    }
+  ],
+  "comparisonReview": "六組比較按共同角度與篇章不同目的整合，屬編輯複習框架，不冒充官方答案。"
+}

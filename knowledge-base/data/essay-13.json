@@ -1,0 +1,2970 @@
+[
+  {
+    "id": "k-3b6ce7b995c2d9c0",
+    "chapterId": "essay-13",
+    "category": "background",
+    "title": "作者與題旨",
+    "fields": {
+      "作者": "杜甫"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].author",
+        "section": "登樓"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a2121b9c009e0e8c",
+    "chapterId": "essay-13",
+    "category": "theme",
+    "title": "一句話題旨",
+    "fields": {
+      "題旨": "登臨家國"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].desc",
+        "section": "登樓"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-15c68809a9f595bf",
+    "chapterId": "essay-13",
+    "category": "background",
+    "title": "作者、時代與文體",
+    "fields": {
+      "資料": "杜甫｜唐代｜七言律詩"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[0].blocks[0]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0cf1ba3b8b93efbc",
+    "chapterId": "essay-13",
+    "category": "theme",
+    "title": "杜甫｜唐代｜七言律詩",
+    "fields": {
+      "內容": "登樓見春景，卻因國家多難而傷心；仍盼朝廷安定，感嘆報國無路。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[0].blocks[1]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-00-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4a3fadbb4c1759f8",
+    "chapterId": "essay-13",
+    "category": "structure",
+    "title": "內容線索",
+    "fields": {
+      "內容": "近花傷心→遠望山河→信念與警告→借典自傷"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[0].blocks[3]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-00-03-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8e6aced1d6020182",
+    "chapterId": "essay-13",
+    "category": "theme",
+    "title": "理解關鍵",
+    "fields": {
+      "內容": "繁花是美景，「傷」的原因在「萬方多難」，不是花凋謝。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[0].blocks[5]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-00-05-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-126549c9ef6370d0",
+    "chapterId": "essay-13",
+    "category": "background",
+    "title": "題解與文體",
+    "fields": {
+      "內容": "八句，每句七字；韻腳包括首句的心，以及臨、今、侵、吟。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[0].blocks[7]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-00-07-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cf2147ff238a91ba",
+    "chapterId": "essay-13",
+    "category": "theme",
+    "title": "句段核心：原文第1組｜原文與語譯",
+    "fields": {
+      "重點": "國難使美景反添悲情，視線由近花伸向遠方山河。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[1].core",
+        "section": "原文第1組｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-01c49cde6e86a19c",
+    "chapterId": "essay-13",
+    "category": "text",
+    "title": "原文第1組｜原文與語譯",
+    "fields": {
+      "原文": "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。"
+    },
+    "context": "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[1].blocks[0]",
+        "section": "原文第1組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e13-exp-001",
+      "q-e13-exp-002",
+      "q-e13-exp-006",
+      "q-e13-exp-008",
+      "q-appendix-002",
+      "q-appendix-004",
+      "full-c-13-01-03-02",
+      "full-c-13-01-03-03",
+      "full-c-13-01-03-04",
+      "full-c-13-01-03-05",
+      "full-c-13-01-03-06",
+      "full-c-13-01-03-07",
+      "full-c-13-01-00-90",
+      "full-c-12-10-00-80",
+      "full-c-13-00-01-80",
+      "full-c-13-00-03-80",
+      "full-c-13-00-05-80",
+      "full-c-13-00-07-80",
+      "full-c-13-01-04-80",
+      "full-c-13-03-00-01",
+      "full-c-13-03-00-02",
+      "full-c-13-03-00-06",
+      "full-c-13-03-00-07",
+      "full-c-13-03-00-09",
+      "full-c-13-03-00-10",
+      "full-c-13-03-00-12",
+      "full-c-13-03-00-13",
+      "full-c-13-03-00-15",
+      "full-c-13-03-00-17",
+      "full-c-13-04-00-01",
+      "full-c-13-04-00-02",
+      "full-c-13-05-00-01",
+      "full-c-13-05-00-02",
+      "full-c-13-05-00-03",
+      "full-c-13-05-00-04",
+      "full-c-13-05-01-80",
+      "full-c-13-06-00-80",
+      "full-c-13-06-02-80",
+      "full-c-13-07-00-01",
+      "full-c-13-07-00-02",
+      "full-c-13-07-00-03",
+      "full-c-13-07-00-04",
+      "full-c-13-07-00-06",
+      "full-c-13-07-00-07",
+      "full-c-13-07-00-08",
+      "full-c-13-07-00-09",
+      "full-c-13-07-00-10",
+      "full-c-13-08-00-01",
+      "full-c-13-08-00-02",
+      "full-c-13-08-00-03",
+      "full-c-13-08-00-04",
+      "full-c-13-10-00-80",
+      "full-c-13-10-01-01",
+      "full-c-13-10-01-02",
+      "full-c-13-10-01-03",
+      "full-c-13-10-01-04",
+      "full-c-13-10-01-05",
+      "full-c-14-09-00-80",
+      "dse-2024-1a-2-i",
+      "dse-2024-1a-2-ii",
+      "dse-2025-1a-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3ab638efdf5bef30",
+    "chapterId": "essay-13",
+    "category": "text",
+    "title": "原文第1組｜原文與語譯",
+    "fields": {
+      "語譯": "繁花在高樓近旁盛放，卻使我這客居異地的人傷心；天下到處災難重重，我在此時登樓遠望。錦江一帶的春色，從天地邊際鋪天蓋地湧來；玉壘山上的浮雲變幻不定，使人想到古往今來世事的變遷。"
+    },
+    "context": "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[1].blocks[2]",
+        "section": "原文第1組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e13-exp-001",
+      "q-e13-exp-002",
+      "q-e13-exp-006",
+      "q-e13-exp-008",
+      "q-appendix-002",
+      "q-appendix-004",
+      "full-c-13-01-03-02",
+      "full-c-13-01-03-03",
+      "full-c-13-01-03-04",
+      "full-c-13-01-03-05",
+      "full-c-13-01-03-06",
+      "full-c-13-01-03-07",
+      "full-c-13-01-00-90",
+      "full-c-12-10-00-80",
+      "full-c-13-00-01-80",
+      "full-c-13-00-03-80",
+      "full-c-13-00-05-80",
+      "full-c-13-00-07-80",
+      "full-c-13-01-04-80",
+      "full-c-13-03-00-01",
+      "full-c-13-03-00-02",
+      "full-c-13-03-00-06",
+      "full-c-13-03-00-07",
+      "full-c-13-03-00-09",
+      "full-c-13-03-00-10",
+      "full-c-13-03-00-12",
+      "full-c-13-03-00-13",
+      "full-c-13-03-00-15",
+      "full-c-13-03-00-17",
+      "full-c-13-04-00-01",
+      "full-c-13-04-00-02",
+      "full-c-13-05-00-01",
+      "full-c-13-05-00-02",
+      "full-c-13-05-00-03",
+      "full-c-13-05-00-04",
+      "full-c-13-05-01-80",
+      "full-c-13-06-00-80",
+      "full-c-13-06-02-80",
+      "full-c-13-07-00-01",
+      "full-c-13-07-00-02",
+      "full-c-13-07-00-03",
+      "full-c-13-07-00-04",
+      "full-c-13-07-00-06",
+      "full-c-13-07-00-07",
+      "full-c-13-07-00-08",
+      "full-c-13-07-00-09",
+      "full-c-13-07-00-10",
+      "full-c-13-08-00-01",
+      "full-c-13-08-00-02",
+      "full-c-13-08-00-03",
+      "full-c-13-08-00-04",
+      "full-c-13-10-00-80",
+      "full-c-13-10-01-01",
+      "full-c-13-10-01-02",
+      "full-c-13-10-01-03",
+      "full-c-13-10-01-04",
+      "full-c-13-10-01-05",
+      "full-c-14-09-00-80",
+      "dse-2024-1a-2-i",
+      "dse-2024-1a-2-ii",
+      "dse-2025-1a-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5ebc962a9a902822",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "客心",
+    "fields": {
+      "詞義": "客居異地的詩人之心"
+    },
+    "context": "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[1].blocks[3][1][0]",
+        "section": "原文第1組｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-438f5332819cc96f",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "萬方",
+    "fields": {
+      "詞義": "天下各處"
+    },
+    "context": "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[1].blocks[3][1][1]",
+        "section": "原文第1組｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1ca1ea5e9c958cdb",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "多難",
+    "fields": {
+      "詞義": "內憂外患眾多"
+    },
+    "context": "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[1].blocks[3][1][2]",
+        "section": "原文第1組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-01-03-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7e50bd296f498ac9",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "登臨",
+    "fields": {
+      "詞義": "登高遠望"
+    },
+    "context": "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[1].blocks[3][1][3]",
+        "section": "原文第1組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-01-03-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-215ed794a4d54259",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "錦江",
+    "fields": {
+      "詞義": "成都一帶的水道"
+    },
+    "context": "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[1].blocks[3][1][4]",
+        "section": "原文第1組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-01-03-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-89b59b653aaefd28",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "來",
+    "fields": {
+      "詞義": "湧來"
+    },
+    "context": "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[1].blocks[3][1][5]",
+        "section": "原文第1組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-01-03-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ff65eba32463c179",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "玉壘",
+    "fields": {
+      "詞義": "山名"
+    },
+    "context": "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[1].blocks[3][1][6]",
+        "section": "原文第1組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-01-03-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-61abf16fbf9af439",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "變",
+    "fields": {
+      "詞義": "變幻，引世事變遷"
+    },
+    "context": "花近高樓傷客心，萬方多難此登臨。錦江春色來天地，玉壘浮雲變古今。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[1].blocks[3][1][7]",
+        "section": "原文第1組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-01-03-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-77745019c938f370",
+    "chapterId": "essay-13",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "「萬方多難」說明傷心原因。頷聯一面拓開天地空間，一面由浮雲變化聯想到古今興亡。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[1].blocks[4]",
+        "section": "原文第1組｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[176].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[177].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[181].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[183].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1352].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1353].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1354].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1355].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1356].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1357].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1432].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1761].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e13-exp-001",
+      "q-e13-exp-002",
+      "q-e13-exp-006",
+      "q-e13-exp-008",
+      "full-c-13-01-03-02",
+      "full-c-13-01-03-03",
+      "full-c-13-01-03-04",
+      "full-c-13-01-03-05",
+      "full-c-13-01-03-06",
+      "full-c-13-01-03-07",
+      "full-c-13-01-00-90",
+      "full-c-13-01-04-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c1d3736593ccd3ed",
+    "chapterId": "essay-13",
+    "category": "theme",
+    "title": "句段核心：原文第2組｜原文與語譯",
+    "fields": {
+      "重點": "對唐室仍有信心，卻借後主與梁甫吟表達不遇。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[2].core",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c61db8275f564c4c",
+    "chapterId": "essay-13",
+    "category": "text",
+    "title": "原文第2組｜原文與語譯",
+    "fields": {
+      "原文": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。"
+    },
+    "context": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[2].blocks[0]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e13-exp-003",
+      "q-e13-exp-004",
+      "q-e13-exp-005",
+      "q-e13-exp-007",
+      "q-appendix-002",
+      "q-appendix-004",
+      "full-c-13-02-03-00",
+      "full-c-13-02-03-01",
+      "full-c-13-02-03-02",
+      "full-c-13-02-03-05",
+      "full-c-13-02-03-06",
+      "full-c-13-02-03-07",
+      "full-c-13-02-03-09",
+      "full-c-13-02-00-90",
+      "full-c-12-10-00-80",
+      "full-c-13-00-01-80",
+      "full-c-13-00-03-80",
+      "full-c-13-00-05-80",
+      "full-c-13-00-07-80",
+      "full-c-13-02-04-80",
+      "full-c-13-03-00-01",
+      "full-c-13-03-00-02",
+      "full-c-13-03-00-06",
+      "full-c-13-03-00-07",
+      "full-c-13-03-00-09",
+      "full-c-13-03-00-10",
+      "full-c-13-03-00-12",
+      "full-c-13-03-00-13",
+      "full-c-13-03-00-15",
+      "full-c-13-03-00-17",
+      "full-c-13-03-00-18",
+      "full-c-13-04-00-01",
+      "full-c-13-04-00-02",
+      "full-c-13-05-00-01",
+      "full-c-13-05-00-02",
+      "full-c-13-05-00-03",
+      "full-c-13-05-00-04",
+      "full-c-13-05-01-80",
+      "full-c-13-06-00-80",
+      "full-c-13-06-02-80",
+      "full-c-13-07-00-01",
+      "full-c-13-07-00-02",
+      "full-c-13-07-00-03",
+      "full-c-13-07-00-04",
+      "full-c-13-07-00-05",
+      "full-c-13-07-00-06",
+      "full-c-13-07-00-07",
+      "full-c-13-07-00-08",
+      "full-c-13-07-00-09",
+      "full-c-13-07-00-10",
+      "full-c-13-08-00-01",
+      "full-c-13-08-00-02",
+      "full-c-13-08-00-03",
+      "full-c-13-08-00-04",
+      "full-c-13-10-00-80",
+      "full-c-13-10-01-01",
+      "full-c-13-10-01-02",
+      "full-c-13-10-01-03",
+      "full-c-13-10-01-04",
+      "full-c-13-10-01-05",
+      "full-c-14-09-00-80",
+      "dse-2024-1a-2-i",
+      "dse-2024-1a-2-ii",
+      "dse-2025-1a-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-71c75622d0def3fc",
+    "chapterId": "essay-13",
+    "category": "text",
+    "title": "原文第2組｜原文與語譯",
+    "fields": {
+      "語譯": "唐朝朝廷終究會像北極星那樣穩定不移，西山的吐蕃侵略者不要再來侵犯。可嘆昏庸亡國的蜀漢後主，竟仍有祠廟供奉；日暮時分，我姑且吟誦《梁甫吟》，寄託感慨。"
+    },
+    "context": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[2].blocks[2]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e13-exp-003",
+      "q-e13-exp-004",
+      "q-e13-exp-005",
+      "q-e13-exp-007",
+      "q-appendix-002",
+      "q-appendix-004",
+      "full-c-13-02-03-00",
+      "full-c-13-02-03-01",
+      "full-c-13-02-03-02",
+      "full-c-13-02-03-05",
+      "full-c-13-02-03-06",
+      "full-c-13-02-03-07",
+      "full-c-13-02-03-09",
+      "full-c-13-02-00-90",
+      "full-c-12-10-00-80",
+      "full-c-13-00-01-80",
+      "full-c-13-00-03-80",
+      "full-c-13-00-05-80",
+      "full-c-13-00-07-80",
+      "full-c-13-02-04-80",
+      "full-c-13-03-00-01",
+      "full-c-13-03-00-02",
+      "full-c-13-03-00-06",
+      "full-c-13-03-00-07",
+      "full-c-13-03-00-09",
+      "full-c-13-03-00-10",
+      "full-c-13-03-00-12",
+      "full-c-13-03-00-13",
+      "full-c-13-03-00-15",
+      "full-c-13-03-00-17",
+      "full-c-13-03-00-18",
+      "full-c-13-04-00-01",
+      "full-c-13-04-00-02",
+      "full-c-13-05-00-01",
+      "full-c-13-05-00-02",
+      "full-c-13-05-00-03",
+      "full-c-13-05-00-04",
+      "full-c-13-05-01-80",
+      "full-c-13-06-00-80",
+      "full-c-13-06-02-80",
+      "full-c-13-07-00-01",
+      "full-c-13-07-00-02",
+      "full-c-13-07-00-03",
+      "full-c-13-07-00-04",
+      "full-c-13-07-00-05",
+      "full-c-13-07-00-06",
+      "full-c-13-07-00-07",
+      "full-c-13-07-00-08",
+      "full-c-13-07-00-09",
+      "full-c-13-07-00-10",
+      "full-c-13-08-00-01",
+      "full-c-13-08-00-02",
+      "full-c-13-08-00-03",
+      "full-c-13-08-00-04",
+      "full-c-13-10-00-80",
+      "full-c-13-10-01-01",
+      "full-c-13-10-01-02",
+      "full-c-13-10-01-03",
+      "full-c-13-10-01-04",
+      "full-c-13-10-01-05",
+      "full-c-14-09-00-80",
+      "dse-2024-1a-2-i",
+      "dse-2024-1a-2-ii",
+      "dse-2025-1a-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6f462957412eba29",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "北極",
+    "fields": {
+      "詞義": "北極星，喻朝廷"
+    },
+    "context": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[2].blocks[3][1][0]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-02-03-00"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d2914b831cd55990",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "終",
+    "fields": {
+      "詞義": "終究、始終"
+    },
+    "context": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[2].blocks[3][1][1]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-02-03-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bfc8860bde8e595f",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "寇盜",
+    "fields": {
+      "詞義": "指吐蕃侵略者"
+    },
+    "context": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[2].blocks[3][1][2]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-02-03-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bd0e6107d762ce51",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "莫",
+    "fields": {
+      "詞義": "不要"
+    },
+    "context": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[2].blocks[3][1][3]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6d4f1bdcadb10199",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "可憐",
+    "fields": {
+      "詞義": "可嘆"
+    },
+    "context": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[2].blocks[3][1][4]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d32b16c2b606fdb6",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "後主",
+    "fields": {
+      "詞義": "蜀漢後主劉禪"
+    },
+    "context": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[2].blocks[3][1][5]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-02-03-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8e2fd97a3c138872",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "還",
+    "fields": {
+      "詞義": "仍然、竟然還"
+    },
+    "context": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[2].blocks[3][1][6]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-02-03-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d1376d2c92fa3834",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "日暮",
+    "fields": {
+      "詞義": "傍晚"
+    },
+    "context": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[2].blocks[3][1][7]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-02-03-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-46c7176090fa6920",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "聊",
+    "fields": {
+      "詞義": "姑且"
+    },
+    "context": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[2].blocks[3][1][8]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d82ea1d8f91bfe4a",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "梁甫吟",
+    "fields": {
+      "詞義": "樂府篇名，聯繫諸葛亮"
+    },
+    "context": "北極朝廷終不改，西山寇盜莫相侵。可憐後主還祠廟，日暮聊為梁甫吟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[2].blocks[3][1][9]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-02-03-09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d4bf0ed6052c4f4b",
+    "chapterId": "essay-13",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "「終」表信念和祝願，「莫」含警告。尾聯諷昏君而思賢相，最後以「聊」寫只能吟詩自遣的無奈。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[2].blocks[4]",
+        "section": "原文第2組｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[178].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[179].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[180].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[182].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1358].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1359].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1360].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1361].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1362].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1363].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1364].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1433].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1762].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1773].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1787].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e13-exp-003",
+      "q-e13-exp-004",
+      "q-e13-exp-005",
+      "q-e13-exp-007",
+      "full-c-13-02-03-00",
+      "full-c-13-02-03-01",
+      "full-c-13-02-03-02",
+      "full-c-13-02-03-05",
+      "full-c-13-02-03-06",
+      "full-c-13-02-03-07",
+      "full-c-13-02-03-09",
+      "full-c-13-02-00-90",
+      "full-c-13-02-04-80",
+      "full-c-13-03-00-18",
+      "full-c-13-07-00-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6d97f1f4cdbc3328",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "花近高樓",
+    "fields": {
+      "原句定位": "花近高樓傷客心",
+      "意思與必要辨析": "高樓近處繁花盛放。「近」點出登樓所見的近景，與下文遠望相接。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[3].blocks[0][1][1]",
+        "section": "字詞、名物與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-03-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1b2d0c74cf8f1fba",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "客心",
+    "fields": {
+      "原句定位": "花近高樓傷客心",
+      "意思與必要辨析": "客居蜀地的詩人之心，包含漂泊身世之感；全詩憂傷又不止個人客愁。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[3].blocks[0][1][2]",
+        "section": "字詞、名物與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-03-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c6ea09c31f369c25",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "萬方",
+    "fields": {
+      "原句定位": "萬方多難此登臨",
+      "意思與必要辨析": "天下各處"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[3].blocks[0][1][3]",
+        "section": "字詞、名物與語法（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f1cce5586a572f20",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "多難",
+    "fields": {
+      "原句定位": "萬方多難此登臨",
+      "意思與必要辨析": "災難、禍患眾多，指內憂外患。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[3].blocks[0][1][4]",
+        "section": "字詞、名物與語法（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1a33e8bebefe4f28",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "登臨",
+    "fields": {
+      "原句定位": "萬方多難此登臨",
+      "意思與必要辨析": "登高遠望；此處指登樓覽景。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[3].blocks[0][1][5]",
+        "section": "字詞、名物與語法（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9689e50434d1b1ff",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "錦江",
+    "fields": {
+      "原句定位": "錦江春色來天地",
+      "意思與必要辨析": "岷江的支流，成都一帶水道。可用此交代眼前地景。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[3].blocks[0][1][6]",
+        "section": "字詞、名物與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-03-00-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2d439c3acf3566ee",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "玉壘",
+    "fields": {
+      "原句定位": "玉壘浮雲變古今",
+      "意思與必要辨析": "山名。詩人由山上浮雲的變化聯想到古今世事，重點在景物與時間感的連接。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[3].blocks[0][1][7]",
+        "section": "字詞、名物與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-03-00-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-37e23434d86df6fb",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "來",
+    "fields": {
+      "原句定位": "錦江春色來天地",
+      "意思與必要辨析": "來臨、湧來"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[3].blocks[0][1][8]",
+        "section": "字詞、名物與語法（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-70e0234c0005a81f",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "變",
+    "fields": {
+      "原句定位": "玉壘浮雲變古今",
+      "意思與必要辨析": "變化、變換不定。「來」寫春色迎面鋪展，「變」由浮雲變化聯想到古今世事。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[3].blocks[0][1][9]",
+        "section": "字詞、名物與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-03-00-09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7d58d8dda0e87af9",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "北極",
+    "fields": {
+      "原句定位": "北極朝廷終不改",
+      "意思與必要辨析": "本指北極星，詩中比喻朝廷地位穩定。不能直接把字面詞義與比喻所指混成一項。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[3].blocks[0][1][10]",
+        "section": "字詞、名物與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-03-00-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6cb78dcf621f6cd8",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "終",
+    "fields": {
+      "原句定位": "北極朝廷終不改",
+      "意思與必要辨析": "始終、自始至終"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[3].blocks[0][1][11]",
+        "section": "字詞、名物與語法（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5b64d07103fb6c0f",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "不",
+    "fields": {
+      "原句定位": "北極朝廷終不改",
+      "意思與必要辨析": "否定詞。合用表現對唐室的信心與祝願。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[3].blocks[0][1][12]",
+        "section": "字詞、名物與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-03-00-12"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-314ba6b9b724cccb",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "西山寇盜",
+    "fields": {
+      "原句定位": "西山寇盜莫相侵",
+      "意思與必要辨析": "指吐蕃侵略者；「西山」以地名代吐蕃一方，「寇盜」含斥責。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[3].blocks[0][1][13]",
+        "section": "字詞、名物與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-03-00-13"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9f367daf5388d62d",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "莫",
+    "fields": {
+      "原句定位": "西山寇盜莫相侵",
+      "意思與必要辨析": "莫：不要，含警告語氣"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[3].blocks[0][1][14]",
+        "section": "字詞、名物與語法（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-551050e3215ed82f",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "相",
+    "fields": {
+      "原句定位": "西山寇盜莫相侵",
+      "意思與必要辨析": "「相侵」在這裏指來侵犯唐朝。整句警告吐蕃不要入侵，並非雙方互相侵犯。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[3].blocks[0][1][15]",
+        "section": "字詞、名物與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-03-00-15"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-40f101769a61fd78",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "可憐",
+    "fields": {
+      "原句定位": "可憐後主還祠廟",
+      "意思與必要辨析": "可嘆"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[3].blocks[0][1][16]",
+        "section": "字詞、名物與語法（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ac834bfba7877a8a",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "後主",
+    "fields": {
+      "原句定位": "可憐後主還祠廟",
+      "意思與必要辨析": "蜀漢後主劉禪。此處「可憐」不是單純憐憫弱者。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[3].blocks[0][1][17]",
+        "section": "字詞、名物與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-03-00-17"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-535b48412af93c05",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "還",
+    "fields": {
+      "原句定位": "可憐後主還祠廟",
+      "意思與必要辨析": "仍然、仍有；含「不應如此而竟然如此」的不滿、輕蔑。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[3].blocks[0][1][18]",
+        "section": "字詞、名物與語法（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-03-00-18"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3d16aae7c95d4a57",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "日暮",
+    "fields": {
+      "原句定位": "日暮聊為梁甫吟",
+      "意思與必要辨析": "傍晚；亦可象徵年華老去。象徵解讀不能用來反推精確年齡。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[4].blocks[0][1][1]",
+        "section": "字詞、名物與語法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-04-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-de395ce3fc0f8636",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "為梁甫吟",
+    "fields": {
+      "原句定位": "日暮聊為梁甫吟",
+      "意思與必要辨析": "吟誦《梁甫吟》，與諸葛亮未出仕時的行為相聯。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[4].blocks[0][1][2]",
+        "section": "字詞、名物與語法（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-04-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7aefdf6969f063ab",
+    "chapterId": "essay-13",
+    "category": "structure",
+    "title": "首聯：登樓觸景，總提「傷」",
+    "fields": {
+      "內容及作用": "「花近高樓」交代環境與近景，「客心」點明客居身份，「萬方多難」揭示憂傷根由，「此登臨」扣題。繁花本可悅目，詩人卻因國難而傷心，奠定憂國傷時的基調。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[5].blocks[0][1][1]",
+        "section": "四聯結構、景象與情感推進"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-05-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-465ac561b9db8f80",
+    "chapterId": "essay-13",
+    "category": "structure",
+    "title": "頷聯：遠望山川，由景入思",
+    "fields": {
+      "內容及作用": "錦江春色蓬勃，從天地邊際湧來，空間廣闊；玉壘浮雲變幻，牽動古今興亡的聯想，時間悠長。既讚歎山河壯麗，又感慨春色依舊、人事全非，憂慮國家前途。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[5].blocks[0][1][2]",
+        "section": "四聯結構、景象與情感推進"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-05-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-649f758feec94a87",
+    "chapterId": "essay-13",
+    "category": "structure",
+    "title": "頸聯：面對國難，申明立場",
+    "fields": {
+      "內容及作用": "以北極比唐室，表示朝廷可望穩定、國祚長存的信心；斥責、警告吐蕃不要侵犯。既有對恢復秩序的欣慰，又有對侵擾、戰亂民苦的憂慮，表現忠心和抵禦外侮的決心。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[5].blocks[0][1][3]",
+        "section": "四聯結構、景象與情感推進"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-05-00-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f288d08f5bc7f711",
+    "chapterId": "essay-13",
+    "category": "structure",
+    "title": "尾聯：借古諷今，自傷不遇",
+    "fields": {
+      "內容及作用": "由附近後主廟想到昏庸君主仍受供奉，諷刺當朝信用宦官、治國無方，寄望任用賢才；再以諸葛亮未出仕時吟誦《梁甫吟》自況，慨歎年華老去、懷才不遇、報國無門，只能吟詩自遣。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[5].blocks[0][1][4]",
+        "section": "四聯結構、景象與情感推進"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-05-00-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-933a16b45cf792a7",
+    "chapterId": "essay-13",
+    "category": "vocabulary",
+    "title": "四聯結構、景象與情感推進",
+    "fields": {
+      "內容": "全詩由近景至遠景，由眼前山川至古今興亡，由國家命運至個人報國處境，景、事、情交織。憂國與自傷相聯；對唐室的信念與對當朝政治的諷刺可以並存，不能把詩人的態度簡化為全然樂觀或全然絕望。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[5].blocks[1]",
+        "section": "四聯結構、景象與情感推進"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-05-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6ea011b7a7982fe2",
+    "chapterId": "essay-13",
+    "category": "character",
+    "title": "典故及人物關係",
+    "fields": {
+      "內容": "「可憐後主還祠廟」寫昏庸亡國的劉禪竟仍受祭祀，「還」帶出不滿。這一典故可理解為借古諷今：批評君主不能善治、不能任賢，同時寄望賢才獲得重用。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[6].blocks[0]",
+        "section": "典故及人物關係"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-06-00-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f76cac6fe36be77e",
+    "chapterId": "essay-13",
+    "category": "character",
+    "title": "梁甫吟：借未遇的諸葛亮自況",
+    "fields": {
+      "內容": "諸葛亮未出仕時曾吟《梁甫吟》。杜甫以「聊為梁甫吟」把自己與尚未被任用的賢才相連：有報國之志，卻無從施展，只能姑且吟詩寄懷。「後主」諷昏君，「梁甫吟」思賢相，兩個典故一反一正，共同指向任賢與濟世。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[6].blocks[2]",
+        "section": "典故及人物關係"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-06-02-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4f0fe09fdb74db73",
+    "chapterId": "essay-13",
+    "category": "technique",
+    "title": "借景抒情",
+    "fields": {
+      "例句與具體作用": "繁花春色牽動國難之愁；玉壘浮雲牽動時局興亡之感；眼前後主廟引出对昏君的憤慨；日暮烘托年老不遇。須寫出「何景→何情」。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[7].blocks[0][1][1]",
+        "section": "手法、例句與效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-07-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-17097bc4329806fe",
+    "chapterId": "essay-13",
+    "category": "technique",
+    "title": "樂景反襯哀情",
+    "fields": {
+      "例句與具體作用": "「花近高樓傷客心」及「錦江春色來天地」以美好的春景反襯憂國傷時，樂景愈美，哀情愈深；不可說景物本身衰敗淒涼。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[7].blocks[0][1][2]",
+        "section": "手法、例句與效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-07-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fd15cffe20a743eb",
+    "chapterId": "essay-13",
+    "category": "technique",
+    "title": "頷聯對偶",
+    "fields": {
+      "例句與具體作用": "錦江／玉壘、春色／浮雲、天地／古今相對，景物相映，兼寫廣闊空間與悠長時間，造成雄渾氣象。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[7].blocks[0][1][3]",
+        "section": "手法、例句與效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-07-00-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d03aa77eeef18b55",
+    "chapterId": "essay-13",
+    "category": "technique",
+    "title": "頸聯對偶",
+    "fields": {
+      "例句與具體作用": "北極／西山、朝廷／寇盜等相對，對舉朝廷與侵略者，立場鮮明，語勢整飭。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[7].blocks[0][1][4]",
+        "section": "手法、例句與效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-07-00-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5169ed31cfdf66f4",
+    "chapterId": "essay-13",
+    "category": "technique",
+    "title": "比喻",
+    "fields": {
+      "例句與具體作用": "北極星的穩定比朝廷不改；星的穩定連到對唐室的信念。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[7].blocks[0][1][5]",
+        "section": "手法、例句與效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-07-00-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-def8d2cb6f553ce3",
+    "chapterId": "essay-13",
+    "category": "technique",
+    "title": "借代",
+    "fields": {
+      "例句與具體作用": "「西山」代指吐蕃一方，須結合背景說明所指，不能只答山名。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[7].blocks[0][1][6]",
+        "section": "手法、例句與效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-07-00-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3592ea6e27a5d1de",
+    "chapterId": "essay-13",
+    "category": "technique",
+    "title": "象徵／景中寓比",
+    "fields": {
+      "例句與具體作用": "浮雲變幻象徵世事不定；日暮象徵年華老去。也可以浮雲作景中寓比。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[7].blocks[0][1][7]",
+        "section": "手法、例句與效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-07-00-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-69df89bf09fb69ba",
+    "chapterId": "essay-13",
+    "category": "technique",
+    "title": "雙關",
+    "fields": {
+      "例句與具體作用": "「變」既寫浮雲形態改變，又引出古今世事變遷，將自然與人事相聯。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[7].blocks[0][1][8]",
+        "section": "手法、例句與效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-07-00-08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-af2f57ea667ec897",
+    "chapterId": "essay-13",
+    "category": "technique",
+    "title": "用典、借古諷今",
+    "fields": {
+      "例句與具體作用": "後主亡國而受祀，諷刺當朝信用宦官、治理失當；梁甫吟借諸葛亮未遇時的行為自況，表達有志難伸。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[7].blocks[0][1][9]",
+        "section": "手法、例句與效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-07-00-09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7391c52f26f86a78",
+    "chapterId": "essay-13",
+    "category": "technique",
+    "title": "呼應",
+    "fields": {
+      "例句與具體作用": "「西山寇盜」回應「萬方多難」；「錦江春色」接「花近高樓」。也可把奇數句的花、春色、朝廷與偶數句的多難、浮雲古今、寇盜分線相承。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[7].blocks[0][1][10]",
+        "section": "手法、例句與效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-07-00-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4915cf4f6d61873c",
+    "chapterId": "essay-13",
+    "category": "technique",
+    "title": "江山與人事對照",
+    "fields": {
+      "例句與具體作用": "常新、壯麗的山川，對照反覆多變的人事，使憂國傷時不局限於一時一地。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[8].blocks[0][1][1]",
+        "section": "手法、例句與效果（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-08-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b8fc0acf37014c2d",
+    "chapterId": "essay-13",
+    "category": "technique",
+    "title": "賦、比、興",
+    "fields": {
+      "例句與具體作用": "見花而起情，可從「興」理解；浮雲景中寓比；西山寇盜陳述現實，屬賦寫。此為官方賞析角度，與具體修辭名目並列理解。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[8].blocks[0][1][2]",
+        "section": "手法、例句與效果（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-08-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1110ec63d4866572",
+    "chapterId": "essay-13",
+    "category": "technique",
+    "title": "煉字",
+    "fields": {
+      "例句與具體作用": "「近」定近景、「暮」定時間並含老去之感；又以「近」引向錦江、玉壘遠景，以「暮」見詩人徜徉已久，兩字合見空間廣闊、時間綿長；「來」把春色寫得迎面湧來、鋪天蓋地；「變」連接時空與世事；「終」寫信念；「莫」帶警告與決心；「還」寫不應而竟然；「聊」寫不甘而只能如此。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[8].blocks[0][1][3]",
+        "section": "手法、例句與效果（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-08-00-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e8a44d25ca6aa1fd",
+    "chapterId": "essay-13",
+    "category": "technique",
+    "title": "語言與風格",
+    "fields": {
+      "例句與具體作用": "實詞密集，對仗凝練，時空交織，景中含情，意蘊沉鬱；不能以「沉鬱」取代具体情感分析。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[8].blocks[0][1][4]",
+        "section": "手法、例句與效果（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-08-00-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-744cd3eea2d1427a",
+    "chapterId": "essay-13",
+    "category": "exam",
+    "title": "歷年考查提示",
+    "fields": {
+      "內容": "下表列出歷年考查的知識方向；題目、答案與適用條件見配套考查索引。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[9].blocks[0]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2261c9932cad809a",
+    "chapterId": "essay-13",
+    "category": "exam",
+    "title": "2020",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "摘錄：氣象恢宏的景物詩句"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[9].blocks[1][1][1]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2a809f7a16a65202",
+    "chapterId": "essay-13",
+    "category": "exam",
+    "title": "2020",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "典故與情懷：後主、諸葛亮的典故內容與情懷"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[9].blocks[1][1][2]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bde00f90e5fcdd1c",
+    "chapterId": "essay-13",
+    "category": "exam",
+    "title": "2024",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "聲律：心、今是否韻腳"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[9].blocks[1][1][3]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-72148409fa2673bb",
+    "chapterId": "essay-13",
+    "category": "exam",
+    "title": "2025",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "詩歌形式：辨認兩詩的頸聯"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[9].blocks[1][1][4]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7d27b5e227073e34",
+    "chapterId": "essay-13",
+    "category": "structure",
+    "title": "章末串連｜重建全文",
+    "fields": {
+      "內容": "國難使美景變成傷心的觸媒，也使個人不遇成為報國無門的感慨。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[10].blocks[0]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-10-00-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-55639cf7719b754d",
+    "chapterId": "essay-13",
+    "category": "structure",
+    "title": "傷心有因",
+    "fields": {
+      "怎樣連起來": "「花近」是眼前近景，「萬方多難」才是傷的根由；遠景把思緒推至古今。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[10].blocks[1][1][1]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-10-01-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-629c7ef643fea5ab",
+    "chapterId": "essay-13",
+    "category": "structure",
+    "title": "信念未失",
+    "fields": {
+      "怎樣連起來": "「終不改」「莫相侵」表守護唐室的願望，與對政治失當的不滿並存。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[10].blocks[1][1][2]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-10-01-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a0be2a93fa433e01",
+    "chapterId": "essay-13",
+    "category": "structure",
+    "title": "典故收束",
+    "fields": {
+      "怎樣連起來": "後主引諷今，梁甫吟引自況；「聊」把宏大的國家關切收回無從施展的個人。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[10].blocks[1][1][3]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-10-01-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4a109a6d54d7a76d",
+    "chapterId": "essay-13",
+    "category": "structure",
+    "title": "兩個尺度",
+    "fields": {
+      "怎樣連起來": "天地是空間，古今是時間；近花與遠山、眼前与歷史相接，使一人的傷心擴成對天下興亡的關切。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[10].blocks[1][1][4]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-10-01-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-04b86fd317ab41c8",
+    "chapterId": "essay-13",
+    "category": "structure",
+    "title": "兩種態度相容",
+    "fields": {
+      "怎樣連起來": "信朝廷不改，是不願國家敗亡；諷昏君不任賢，是希望政治改善。忠於國家並不等於滿意一切現況。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[12].pages[10].blocks[1][1][5]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-10-01-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a7122709bcdd3568",
+    "chapterId": "essay-13",
+    "category": "technique",
+    "title": "用典",
+    "fields": {
+      "內容": "用典是引用或化用前人語句、故事，把既有含義帶入作品。分析時依次說明典故出處、原來意思、作者如何沿用或轉化，以及它表達的情感志趣。只寫「用了典故」未能交代作用。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[179].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1361].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1779].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1791].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e13-exp-004",
+      "full-c-13-02-03-05",
+      "full-c-13-05-00-04",
+      "full-c-13-07-00-09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c5bfe20c3bb61319",
+    "chapterId": "essay-13",
+    "category": "structure",
+    "title": "律詩四聯",
+    "fields": {
+      "內容": "律詩通常有八句，每兩句為一聯：第1–2句是首聯，第3–4句是頷聯，第5–6句是頸聯，第7–8句是尾聯。頷聯和頸聯通常要求對仗。判斷聯次須從全詩第一句數起，不能把題目節錄的次序當成全詩句次。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[182].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1360].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1432].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1433].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1758].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1760].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1770].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1777].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1779].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1788].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1790].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1791].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1793].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1796].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2159].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e13-exp-007",
+      "full-c-13-02-03-02",
+      "full-c-13-01-00-90",
+      "full-c-13-02-00-90",
+      "full-c-13-00-03-80",
+      "full-c-13-00-07-80",
+      "full-c-13-03-00-13",
+      "full-c-13-05-00-02",
+      "full-c-13-05-00-04",
+      "full-c-13-07-00-06",
+      "full-c-13-07-00-08",
+      "full-c-13-07-00-09",
+      "full-c-13-08-00-01",
+      "full-c-13-08-00-04",
+      "dse-2025-1a-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-26886c0f648f3ed1",
+    "chapterId": "essay-13",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "「萬方多難」說明傷心原因。頷聯一面拓開天地空間，一面由浮雲變化聯想到古今興亡。\n「終」表信念和祝願，「莫」含警告。尾聯諷昏君而思賢相，最後以「聊」寫只能吟詩自遣的無奈。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[209].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[211].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1757].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1758].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1759].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1760].learning.knowledge[2]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1763].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1764].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1765].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1766].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1767].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1768].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1769].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1770].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1771].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1772].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1774].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1775].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1776].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1777].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1778].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1779].learning.knowledge[2]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1780].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1781].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1782].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1783].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1784].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1785].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1786].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1788].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1789].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1790].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1791].learning.knowledge[2]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1792].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1793].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1794].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1795].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1796].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1797].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1798].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1799].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1800].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1801].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1802].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2151].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2152].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-appendix-002",
+      "q-appendix-004",
+      "full-c-13-00-01-80",
+      "full-c-13-00-03-80",
+      "full-c-13-00-05-80",
+      "full-c-13-00-07-80",
+      "full-c-13-03-00-01",
+      "full-c-13-03-00-02",
+      "full-c-13-03-00-06",
+      "full-c-13-03-00-07",
+      "full-c-13-03-00-09",
+      "full-c-13-03-00-10",
+      "full-c-13-03-00-12",
+      "full-c-13-03-00-13",
+      "full-c-13-03-00-15",
+      "full-c-13-03-00-17",
+      "full-c-13-04-00-01",
+      "full-c-13-04-00-02",
+      "full-c-13-05-00-01",
+      "full-c-13-05-00-02",
+      "full-c-13-05-00-03",
+      "full-c-13-05-00-04",
+      "full-c-13-05-01-80",
+      "full-c-13-06-00-80",
+      "full-c-13-06-02-80",
+      "full-c-13-07-00-01",
+      "full-c-13-07-00-02",
+      "full-c-13-07-00-03",
+      "full-c-13-07-00-04",
+      "full-c-13-07-00-06",
+      "full-c-13-07-00-07",
+      "full-c-13-07-00-08",
+      "full-c-13-07-00-09",
+      "full-c-13-07-00-10",
+      "full-c-13-08-00-01",
+      "full-c-13-08-00-02",
+      "full-c-13-08-00-03",
+      "full-c-13-08-00-04",
+      "full-c-13-10-00-80",
+      "full-c-13-10-01-01",
+      "full-c-13-10-01-02",
+      "full-c-13-10-01-03",
+      "full-c-13-10-01-04",
+      "full-c-13-10-01-05",
+      "dse-2024-1a-2-i",
+      "dse-2024-1a-2-ii"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b80ffaea621b9331",
+    "chapterId": "essay-13",
+    "category": "technique",
+    "title": "比喻",
+    "fields": {
+      "內容": "比喻把兩種不同而具有相似點的事物聯繫起來。本體是要說明的對象，喻體是用來作比的事物。明喻常用「如、似、猶」等喻詞；暗喻以「是、為」等把兩者連起來；借喻只出現喻體。辨析時須指出相似點和具體作用。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[211].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1358].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1768].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1787].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1794].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-appendix-004",
+      "full-c-13-02-03-00",
+      "full-c-13-03-00-10",
+      "full-c-13-07-00-05",
+      "full-c-13-08-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-495764ddd887e675",
+    "chapterId": "essay-13",
+    "category": "theme",
+    "title": "古詩、律詩、絕句與排律",
+    "fields": {
+      "內容": "古詩在句數、平仄和對仗方面較自由；律詩通常八句，絕句四句，排律在律詩格律基礎上延長至十句或以上。不能單憑每句五字或七字判定體裁，還要核對句數與格律。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1760].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-13-00-07-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7be0a962938b8d24",
+    "chapterId": "essay-13",
+    "category": "theme",
+    "title": "押韻與韻腳",
+    "fields": {
+      "內容": "韻腳是詩句末尾用來押韻的字。律詩一般偶數句押韻，首句可入韻，也可不入韻；不能把每句最後一字都當作韻腳。判斷古詩用韻要留意古音及韻部，不能只按現代普通話讀音。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2151].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2152].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "dse-2024-1a-2-i",
+      "dse-2024-1a-2-ii"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  }
+]

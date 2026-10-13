@@ -1,0 +1,3243 @@
+[
+  {
+    "id": "k-149b760b1315ba8e",
+    "chapterId": "essay-12",
+    "category": "background",
+    "title": "作者與題旨",
+    "fields": {
+      "作者": "李白"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].author",
+        "section": "月下獨酌"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f362170f7d9bbd38",
+    "chapterId": "essay-12",
+    "category": "theme",
+    "title": "一句話題旨",
+    "fields": {
+      "題旨": "月下獨酌"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].desc",
+        "section": "月下獨酌"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cb9e2932b927d332",
+    "chapterId": "essay-12",
+    "category": "background",
+    "title": "作者、時代與文體",
+    "fields": {
+      "資料": "李白｜唐代｜五言古詩"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[0].blocks[0]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3829e0bf8776948e",
+    "chapterId": "essay-12",
+    "category": "theme",
+    "title": "李白｜唐代｜五言古詩",
+    "fields": {
+      "內容": "現實中沒有知己，詩人想像月影相伴，在孤獨與自我排遣之間起伏。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[0].blocks[1]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-00-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b6da4e1c17706f07",
+    "chapterId": "essay-12",
+    "category": "structure",
+    "title": "內容線索",
+    "fields": {
+      "內容": "無伴→邀月影→發現不能相知→暫且行樂→醉散→相約再遊"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[0].blocks[3]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-00-03-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-477daa3ea9e1ca6f",
+    "chapterId": "essay-12",
+    "category": "theme",
+    "title": "理解關鍵",
+    "fields": {
+      "內容": "我、月、影是想像中的三人。「暫」與「永」分別指眼前相伴和未來願望。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[0].blocks[5]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-00-05-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7a83865c3020364c",
+    "chapterId": "essay-12",
+    "category": "background",
+    "title": "題解與文體",
+    "fields": {
+      "內容": "十四句，每句五字；屬古體詩，不能套用律詩四聯的名稱。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[0].blocks[7]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-00-07-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8b58f93dd3c54050",
+    "chapterId": "essay-12",
+    "category": "theme",
+    "title": "句段核心：原文第1組｜原文與語譯",
+    "fields": {
+      "重點": "由獨飲到想像三人，再發現月影不能相知。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[1].core",
+        "section": "原文第1組｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2e7b064cbc6176f6",
+    "chapterId": "essay-12",
+    "category": "text",
+    "title": "原文第1組｜原文與語譯",
+    "fields": {
+      "原文": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。"
+    },
+    "context": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[1].blocks[0]",
+        "section": "原文第1組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e12-exp-001",
+      "q-e12-exp-002",
+      "q-e12-exp-006",
+      "q-e12-exp-007",
+      "q-e12-exp-008",
+      "q-appendix-003",
+      "q-comparison-002",
+      "full-c-12-01-03-00",
+      "full-c-12-01-03-02",
+      "full-c-12-01-03-03",
+      "full-c-12-01-03-05",
+      "full-c-12-01-00-90",
+      "full-c-12-00-01-80",
+      "full-c-12-00-03-80",
+      "full-c-12-00-05-80",
+      "full-c-12-00-07-80",
+      "full-c-12-01-04-80",
+      "full-c-12-04-00-03",
+      "full-c-12-04-00-04",
+      "full-c-12-04-00-06",
+      "full-c-12-04-00-07",
+      "full-c-12-04-00-09",
+      "full-c-12-04-00-10",
+      "full-c-12-04-00-12",
+      "full-c-12-04-00-13",
+      "full-c-12-04-00-15",
+      "full-c-12-04-00-17",
+      "full-c-12-04-00-19",
+      "full-c-12-05-01-80",
+      "full-c-12-06-00-01",
+      "full-c-12-06-00-02",
+      "full-c-12-06-00-03",
+      "full-c-12-06-00-05",
+      "full-c-12-06-00-07",
+      "full-c-12-07-00-80",
+      "full-c-12-07-01-80",
+      "full-c-12-07-02-80",
+      "full-c-12-08-00-01",
+      "full-c-12-08-00-02",
+      "full-c-12-08-00-03",
+      "full-c-12-08-00-04",
+      "full-c-12-08-00-05",
+      "full-c-12-08-00-06",
+      "full-c-12-08-00-07",
+      "full-c-12-08-00-09",
+      "full-c-12-09-00-01",
+      "full-c-12-09-00-02",
+      "full-c-12-09-00-03",
+      "full-c-12-09-00-04",
+      "full-c-12-09-00-05",
+      "full-c-12-09-00-06",
+      "full-c-12-09-01-80",
+      "full-c-12-10-00-80",
+      "full-c-12-10-01-80",
+      "full-c-12-12-00-80",
+      "full-c-12-13-00-80",
+      "full-c-12-13-01-01",
+      "full-c-12-13-01-02",
+      "full-c-12-13-01-03",
+      "full-c-12-13-01-04",
+      "full-c-12-13-01-05",
+      "dse-2023-1a-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c79e6b1c181cd4bb",
+    "chapterId": "essay-12",
+    "category": "text",
+    "title": "原文第1組｜原文與語譯",
+    "fields": {
+      "語譯": "春夜花叢中放着一壺美酒，我自斟自飲，身邊沒有可以親近的友伴。我舉起酒杯邀請明月，對着自己的影子，湊成三人。可是月亮並不懂得飲酒的樂趣，影子也只是空隨我的身體。"
+    },
+    "context": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[1].blocks[2]",
+        "section": "原文第1組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e12-exp-001",
+      "q-e12-exp-002",
+      "q-e12-exp-006",
+      "q-e12-exp-007",
+      "q-e12-exp-008",
+      "q-appendix-003",
+      "q-comparison-002",
+      "full-c-12-01-03-00",
+      "full-c-12-01-03-02",
+      "full-c-12-01-03-03",
+      "full-c-12-01-03-05",
+      "full-c-12-01-00-90",
+      "full-c-12-00-01-80",
+      "full-c-12-00-03-80",
+      "full-c-12-00-05-80",
+      "full-c-12-00-07-80",
+      "full-c-12-01-04-80",
+      "full-c-12-04-00-03",
+      "full-c-12-04-00-04",
+      "full-c-12-04-00-06",
+      "full-c-12-04-00-07",
+      "full-c-12-04-00-09",
+      "full-c-12-04-00-10",
+      "full-c-12-04-00-12",
+      "full-c-12-04-00-13",
+      "full-c-12-04-00-15",
+      "full-c-12-04-00-17",
+      "full-c-12-04-00-19",
+      "full-c-12-05-01-80",
+      "full-c-12-06-00-01",
+      "full-c-12-06-00-02",
+      "full-c-12-06-00-03",
+      "full-c-12-06-00-05",
+      "full-c-12-06-00-07",
+      "full-c-12-07-00-80",
+      "full-c-12-07-01-80",
+      "full-c-12-07-02-80",
+      "full-c-12-08-00-01",
+      "full-c-12-08-00-02",
+      "full-c-12-08-00-03",
+      "full-c-12-08-00-04",
+      "full-c-12-08-00-05",
+      "full-c-12-08-00-06",
+      "full-c-12-08-00-07",
+      "full-c-12-08-00-09",
+      "full-c-12-09-00-01",
+      "full-c-12-09-00-02",
+      "full-c-12-09-00-03",
+      "full-c-12-09-00-04",
+      "full-c-12-09-00-05",
+      "full-c-12-09-00-06",
+      "full-c-12-09-01-80",
+      "full-c-12-10-00-80",
+      "full-c-12-10-01-80",
+      "full-c-12-12-00-80",
+      "full-c-12-13-00-80",
+      "full-c-12-13-01-01",
+      "full-c-12-13-01-02",
+      "full-c-12-13-01-03",
+      "full-c-12-13-01-04",
+      "full-c-12-13-01-05",
+      "dse-2023-1a-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d2bb6a19f3ff9ddc",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "酌",
+    "fields": {
+      "詞義": "飲酒"
+    },
+    "context": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[1].blocks[3][1][0]",
+        "section": "原文第1組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-01-03-00"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-18dbc28463cc83ca",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "相親",
+    "fields": {
+      "詞義": "親近的友伴"
+    },
+    "context": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[1].blocks[3][1][1]",
+        "section": "原文第1組｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9afcfa120af2d083",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "邀",
+    "fields": {
+      "詞義": "邀請"
+    },
+    "context": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[1].blocks[3][1][2]",
+        "section": "原文第1組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-01-03-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c52533238b56dafa",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "三人",
+    "fields": {
+      "詞義": "我、明月、影子"
+    },
+    "context": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[1].blocks[3][1][3]",
+        "section": "原文第1組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-01-03-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5db8f8b953dbc1c9",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "解",
+    "fields": {
+      "詞義": "懂得"
+    },
+    "context": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[1].blocks[3][1][4]",
+        "section": "原文第1組｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-456fbecabecf6868",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "徒",
+    "fields": {
+      "詞義": "只、僅；含徒然意"
+    },
+    "context": "花間一壺酒，獨酌無相親。舉杯邀明月，對影成三人。月既不解飲，影徒隨我身。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[1].blocks[3][1][5]",
+        "section": "原文第1組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-01-03-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-01e0f65878dd11b1",
+    "chapterId": "essay-12",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "「三人」是我、月、影，沒有真正來了兩位朋友。邀月的熱鬧與不解飲的失落，正構成情感起伏。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[1].blocks[4]",
+        "section": "原文第1組｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[168].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[169].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[173].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[174].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[175].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1340].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1341].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1342].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1343].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1429].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1706].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1752].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e12-exp-001",
+      "q-e12-exp-002",
+      "q-e12-exp-006",
+      "q-e12-exp-007",
+      "q-e12-exp-008",
+      "full-c-12-01-03-00",
+      "full-c-12-01-03-02",
+      "full-c-12-01-03-03",
+      "full-c-12-01-03-05",
+      "full-c-12-01-00-90",
+      "full-c-12-01-04-80",
+      "full-c-12-13-01-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-816b46e5fb18a764",
+    "chapterId": "essay-12",
+    "category": "theme",
+    "title": "句段核心：原文第2組｜原文與語譯",
+    "fields": {
+      "重點": "姑且行樂，暫得歡愉，醉後卻要分散。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[2].core",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1b54b3faf6cf59ae",
+    "chapterId": "essay-12",
+    "category": "text",
+    "title": "原文第2組｜原文與語譯",
+    "fields": {
+      "原文": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。"
+    },
+    "context": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[2].blocks[0]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e12-exp-003",
+      "q-e12-exp-004",
+      "q-appendix-003",
+      "full-c-12-02-03-00",
+      "full-c-12-02-03-03",
+      "full-c-12-02-03-04",
+      "full-c-12-02-03-05",
+      "full-c-12-02-00-90",
+      "full-c-12-00-01-80",
+      "full-c-12-00-03-80",
+      "full-c-12-00-05-80",
+      "full-c-12-00-07-80",
+      "full-c-12-02-04-80",
+      "full-c-12-04-00-03",
+      "full-c-12-04-00-04",
+      "full-c-12-04-00-06",
+      "full-c-12-04-00-07",
+      "full-c-12-04-00-09",
+      "full-c-12-04-00-10",
+      "full-c-12-04-00-12",
+      "full-c-12-04-00-13",
+      "full-c-12-04-00-15",
+      "full-c-12-04-00-17",
+      "full-c-12-04-00-19",
+      "full-c-12-05-01-80",
+      "full-c-12-06-00-01",
+      "full-c-12-06-00-02",
+      "full-c-12-06-00-03",
+      "full-c-12-06-00-04",
+      "full-c-12-06-00-05",
+      "full-c-12-06-00-06",
+      "full-c-12-06-00-07",
+      "full-c-12-07-00-80",
+      "full-c-12-07-01-80",
+      "full-c-12-07-02-80",
+      "full-c-12-08-00-01",
+      "full-c-12-08-00-02",
+      "full-c-12-08-00-03",
+      "full-c-12-08-00-04",
+      "full-c-12-08-00-05",
+      "full-c-12-08-00-06",
+      "full-c-12-08-00-07",
+      "full-c-12-08-00-08",
+      "full-c-12-08-00-09",
+      "full-c-12-09-00-01",
+      "full-c-12-09-00-02",
+      "full-c-12-09-00-03",
+      "full-c-12-09-00-04",
+      "full-c-12-09-00-05",
+      "full-c-12-09-00-06",
+      "full-c-12-09-01-80",
+      "full-c-12-10-00-80",
+      "full-c-12-10-01-80",
+      "full-c-12-12-00-80",
+      "full-c-12-13-00-80",
+      "full-c-12-13-01-02",
+      "full-c-12-13-01-03",
+      "full-c-12-13-01-04",
+      "full-c-12-13-01-05",
+      "dse-2023-1a-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d7b60faf2e402a8e",
+    "chapterId": "essay-12",
+    "category": "text",
+    "title": "原文第2組｜原文與語譯",
+    "fields": {
+      "語譯": "姑且暫時以月亮和影子為伴，趁着春夜良辰美景，及時行樂。我高歌，月亮彷彿為我徘徊、傾聽；我起舞，影子也跟着舞動，搖曳散亂。清醒時我們共同歡樂，醉倒後便各自離散。"
+    },
+    "context": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[2].blocks[2]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e12-exp-003",
+      "q-e12-exp-004",
+      "q-appendix-003",
+      "full-c-12-02-03-00",
+      "full-c-12-02-03-03",
+      "full-c-12-02-03-04",
+      "full-c-12-02-03-05",
+      "full-c-12-02-00-90",
+      "full-c-12-00-01-80",
+      "full-c-12-00-03-80",
+      "full-c-12-00-05-80",
+      "full-c-12-00-07-80",
+      "full-c-12-02-04-80",
+      "full-c-12-04-00-03",
+      "full-c-12-04-00-04",
+      "full-c-12-04-00-06",
+      "full-c-12-04-00-07",
+      "full-c-12-04-00-09",
+      "full-c-12-04-00-10",
+      "full-c-12-04-00-12",
+      "full-c-12-04-00-13",
+      "full-c-12-04-00-15",
+      "full-c-12-04-00-17",
+      "full-c-12-04-00-19",
+      "full-c-12-05-01-80",
+      "full-c-12-06-00-01",
+      "full-c-12-06-00-02",
+      "full-c-12-06-00-03",
+      "full-c-12-06-00-04",
+      "full-c-12-06-00-05",
+      "full-c-12-06-00-06",
+      "full-c-12-06-00-07",
+      "full-c-12-07-00-80",
+      "full-c-12-07-01-80",
+      "full-c-12-07-02-80",
+      "full-c-12-08-00-01",
+      "full-c-12-08-00-02",
+      "full-c-12-08-00-03",
+      "full-c-12-08-00-04",
+      "full-c-12-08-00-05",
+      "full-c-12-08-00-06",
+      "full-c-12-08-00-07",
+      "full-c-12-08-00-08",
+      "full-c-12-08-00-09",
+      "full-c-12-09-00-01",
+      "full-c-12-09-00-02",
+      "full-c-12-09-00-03",
+      "full-c-12-09-00-04",
+      "full-c-12-09-00-05",
+      "full-c-12-09-00-06",
+      "full-c-12-09-01-80",
+      "full-c-12-10-00-80",
+      "full-c-12-10-01-80",
+      "full-c-12-12-00-80",
+      "full-c-12-13-00-80",
+      "full-c-12-13-01-02",
+      "full-c-12-13-01-03",
+      "full-c-12-13-01-04",
+      "full-c-12-13-01-05",
+      "dse-2023-1a-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-701e8983e4fad838",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "暫",
+    "fields": {
+      "詞義": "姑且、暫時"
+    },
+    "context": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[2].blocks[3][1][0]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-02-03-00"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-44aeb690670b4c4e",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "將",
+    "fields": {
+      "詞義": "和"
+    },
+    "context": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[2].blocks[3][1][1]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a4c10ac7a6a6d8c4",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "及",
+    "fields": {
+      "詞義": "趁着"
+    },
+    "context": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[2].blocks[3][1][2]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6dac03ea47d9123f",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "徘徊",
+    "fields": {
+      "詞義": "往返流連"
+    },
+    "context": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[2].blocks[3][1][3]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-02-03-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d91444353ab521cc",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "零亂",
+    "fields": {
+      "詞義": "零散紛亂"
+    },
+    "context": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[2].blocks[3][1][4]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-02-03-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2994e4c74a6e6ee0",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "交歡",
+    "fields": {
+      "詞義": "共同歡樂"
+    },
+    "context": "暫伴月將影，行樂須及春。我歌月徘徊，我舞影零亂。醒時同交歡，醉後各分散。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[2].blocks[3][1][5]",
+        "section": "原文第2組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-02-03-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1512e31075fd4eea",
+    "chapterId": "essay-12",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "「暫」限定眼前相伴的時間；我歌我舞顯出主動排遣。月影的回應是想像，不能據此說現實孤獨已完全解除。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[2].blocks[4]",
+        "section": "原文第2組｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[170].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[171].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1344].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1345].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1346].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1347].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1430].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1707].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1725].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1727].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1739].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e12-exp-003",
+      "q-e12-exp-004",
+      "full-c-12-02-03-00",
+      "full-c-12-02-03-03",
+      "full-c-12-02-03-04",
+      "full-c-12-02-03-05",
+      "full-c-12-02-00-90",
+      "full-c-12-02-04-80",
+      "full-c-12-06-00-04",
+      "full-c-12-06-00-06",
+      "full-c-12-08-00-08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e9f9522a19230db4",
+    "chapterId": "essay-12",
+    "category": "theme",
+    "title": "句段核心：原文第3組｜原文與語譯",
+    "fields": {
+      "重點": "以永結和再會的願望，將想像推向遙遠天際。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[3].core",
+        "section": "原文第3組｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1aed7ddf3f73c91b",
+    "chapterId": "essay-12",
+    "category": "text",
+    "title": "原文第3組｜原文與語譯",
+    "fields": {
+      "原文": "永結無情遊，相期邈雲漢。"
+    },
+    "context": "永結無情遊，相期邈雲漢。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[3].blocks[0]",
+        "section": "原文第3組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e12-exp-005",
+      "q-appendix-003",
+      "full-c-12-03-03-00",
+      "full-c-12-03-03-01",
+      "full-c-12-03-03-02",
+      "full-c-12-03-03-03",
+      "full-c-12-03-00-90",
+      "full-c-12-00-01-80",
+      "full-c-12-00-03-80",
+      "full-c-12-00-05-80",
+      "full-c-12-00-07-80",
+      "full-c-12-03-04-80",
+      "full-c-12-04-00-03",
+      "full-c-12-04-00-04",
+      "full-c-12-04-00-06",
+      "full-c-12-04-00-07",
+      "full-c-12-04-00-09",
+      "full-c-12-04-00-10",
+      "full-c-12-04-00-12",
+      "full-c-12-04-00-13",
+      "full-c-12-04-00-15",
+      "full-c-12-04-00-17",
+      "full-c-12-04-00-19",
+      "full-c-12-05-00-01",
+      "full-c-12-05-01-80",
+      "full-c-12-06-00-01",
+      "full-c-12-06-00-02",
+      "full-c-12-06-00-03",
+      "full-c-12-06-00-05",
+      "full-c-12-06-00-07",
+      "full-c-12-07-00-80",
+      "full-c-12-07-01-80",
+      "full-c-12-07-02-80",
+      "full-c-12-08-00-01",
+      "full-c-12-08-00-02",
+      "full-c-12-08-00-03",
+      "full-c-12-08-00-04",
+      "full-c-12-08-00-05",
+      "full-c-12-08-00-06",
+      "full-c-12-08-00-07",
+      "full-c-12-08-00-09",
+      "full-c-12-09-00-01",
+      "full-c-12-09-00-02",
+      "full-c-12-09-00-03",
+      "full-c-12-09-00-04",
+      "full-c-12-09-00-05",
+      "full-c-12-09-00-06",
+      "full-c-12-09-01-80",
+      "full-c-12-10-00-80",
+      "full-c-12-10-01-80",
+      "full-c-12-12-00-80",
+      "full-c-12-13-00-80",
+      "full-c-12-13-01-02",
+      "full-c-12-13-01-03",
+      "full-c-12-13-01-04",
+      "full-c-12-13-01-05",
+      "dse-2023-1a-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4cf8d4270b2efe65",
+    "chapterId": "essay-12",
+    "category": "text",
+    "title": "原文第3組｜原文與語譯",
+    "fields": {
+      "語譯": "願永遠與月亮、影子結伴，作忘卻世情的逍遙遊，相約在遙遠銀河再會。"
+    },
+    "context": "永結無情遊，相期邈雲漢。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[3].blocks[2]",
+        "section": "原文第3組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e12-exp-005",
+      "q-appendix-003",
+      "full-c-12-03-03-00",
+      "full-c-12-03-03-01",
+      "full-c-12-03-03-02",
+      "full-c-12-03-03-03",
+      "full-c-12-03-00-90",
+      "full-c-12-00-01-80",
+      "full-c-12-00-03-80",
+      "full-c-12-00-05-80",
+      "full-c-12-00-07-80",
+      "full-c-12-03-04-80",
+      "full-c-12-04-00-03",
+      "full-c-12-04-00-04",
+      "full-c-12-04-00-06",
+      "full-c-12-04-00-07",
+      "full-c-12-04-00-09",
+      "full-c-12-04-00-10",
+      "full-c-12-04-00-12",
+      "full-c-12-04-00-13",
+      "full-c-12-04-00-15",
+      "full-c-12-04-00-17",
+      "full-c-12-04-00-19",
+      "full-c-12-05-00-01",
+      "full-c-12-05-01-80",
+      "full-c-12-06-00-01",
+      "full-c-12-06-00-02",
+      "full-c-12-06-00-03",
+      "full-c-12-06-00-05",
+      "full-c-12-06-00-07",
+      "full-c-12-07-00-80",
+      "full-c-12-07-01-80",
+      "full-c-12-07-02-80",
+      "full-c-12-08-00-01",
+      "full-c-12-08-00-02",
+      "full-c-12-08-00-03",
+      "full-c-12-08-00-04",
+      "full-c-12-08-00-05",
+      "full-c-12-08-00-06",
+      "full-c-12-08-00-07",
+      "full-c-12-08-00-09",
+      "full-c-12-09-00-01",
+      "full-c-12-09-00-02",
+      "full-c-12-09-00-03",
+      "full-c-12-09-00-04",
+      "full-c-12-09-00-05",
+      "full-c-12-09-00-06",
+      "full-c-12-09-01-80",
+      "full-c-12-10-00-80",
+      "full-c-12-10-01-80",
+      "full-c-12-12-00-80",
+      "full-c-12-13-00-80",
+      "full-c-12-13-01-02",
+      "full-c-12-13-01-03",
+      "full-c-12-13-01-04",
+      "full-c-12-13-01-05",
+      "dse-2023-1a-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8a9540fecdd3f109",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "永結",
+    "fields": {
+      "詞義": "永遠結伴的願望"
+    },
+    "context": "永結無情遊，相期邈雲漢。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[3].blocks[3][1][0]",
+        "section": "原文第3組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-03-03-00"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b023a230de14c455",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "無情遊",
+    "fields": {
+      "詞義": "忘卻世情的交遊；亦可指與無情月影為伴"
+    },
+    "context": "永結無情遊，相期邈雲漢。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[3].blocks[3][1][1]",
+        "section": "原文第3組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-03-03-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c2f71a54fd569098",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "相期",
+    "fields": {
+      "詞義": "相約"
+    },
+    "context": "永結無情遊，相期邈雲漢。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[3].blocks[3][1][2]",
+        "section": "原文第3組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-03-03-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-827d3ca86f71460b",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "邈",
+    "fields": {
+      "詞義": "遙遠"
+    },
+    "context": "永結無情遊，相期邈雲漢。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[3].blocks[3][1][3]",
+        "section": "原文第3組｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-03-03-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ac2ffcbddad51681",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "雲漢",
+    "fields": {
+      "詞義": "銀河"
+    },
+    "context": "永結無情遊，相期邈雲漢。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[3].blocks[3][1][4]",
+        "section": "原文第3組｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bacc894d467557d0",
+    "chapterId": "essay-12",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "「無情」可以指忘卻世情，也可從月影沒有感情理解。它不等於冷酷無情；「相期」仍是願望。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[3].blocks[4]",
+        "section": "原文第3組｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[172].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1348].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1349].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1350].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1351].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1431].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1708].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1720].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e12-exp-005",
+      "full-c-12-03-03-00",
+      "full-c-12-03-03-01",
+      "full-c-12-03-03-02",
+      "full-c-12-03-03-03",
+      "full-c-12-03-00-90",
+      "full-c-12-03-04-80",
+      "full-c-12-05-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8c27b7e9fd247376",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "酌",
+    "fields": {
+      "原句定位": "獨酌無相親",
+      "意思與必要辨析": "飲酒"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[4].blocks[0][1][1]",
+        "section": "字詞、語法與煉字（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fa4d6570819435f0",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "獨酌",
+    "fields": {
+      "原句定位": "獨酌無相親",
+      "意思與必要辨析": "獨自飲酒。題目即揭示現實無伴。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[4].blocks[0][1][2]",
+        "section": "字詞、語法與煉字（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2eb84d86429fb1ca",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "一壺",
+    "fields": {
+      "原句定位": "花間一壺酒",
+      "意思與必要辨析": "一壺酒，寫自斟慢酌的情態；用字平易而有韻味。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[4].blocks[0][1][3]",
+        "section": "字詞、語法與煉字（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-04-00-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-160d64cae528d80b",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "相親",
+    "fields": {
+      "原句定位": "獨酌無相親",
+      "意思與必要辨析": "互相親近；「無相親」指沒有可以親近的人、友伴，流露欲有人相親而不可得。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[4].blocks[0][1][4]",
+        "section": "字詞、語法與煉字（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-04-00-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2933f83713d98222",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "邀",
+    "fields": {
+      "原句定位": "舉杯邀明月",
+      "意思與必要辨析": "邀請"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[4].blocks[0][1][5]",
+        "section": "字詞、語法與煉字（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a5b9812da6d02e27",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "三人",
+    "fields": {
+      "原句定位": "對影成三人",
+      "意思與必要辨析": "我、月、影。把無生命的月影想像為朋友，從獨轉為似不獨。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[4].blocks[0][1][6]",
+        "section": "字詞、語法與煉字（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-04-00-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fe8c27e63e3bf695",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "既",
+    "fields": {
+      "原句定位": "月既不解飲",
+      "意思與必要辨析": "既然；與下句影徒相接，帶出月影不能相知的無奈。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[4].blocks[0][1][7]",
+        "section": "字詞、語法與煉字（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-04-00-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3d43bc3290e7d842",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "不解飲",
+    "fields": {
+      "原句定位": "月既不解飲",
+      "意思與必要辨析": "不懂得飲酒的樂趣。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[4].blocks[0][1][8]",
+        "section": "字詞、語法與煉字（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-43185e623cff488d",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "徒",
+    "fields": {
+      "原句定位": "影徒隨我身",
+      "意思與必要辨析": "只、僅，兼有徒然、白白相隨的意味。影子只能隨身，不能真正理解詩人的心情。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[4].blocks[0][1][9]",
+        "section": "字詞、語法與煉字（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-04-00-09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8774e3c1f9c0b2d5",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "暫",
+    "fields": {
+      "原句定位": "暫伴月將影",
+      "意思與必要辨析": "暫時、姑且，限定月影相伴只是片刻；由此說片刻解脫可貴而悲哀，2023另一可接受角度則說不求天長地久、享受當下。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[4].blocks[0][1][10]",
+        "section": "字詞、語法與煉字（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-04-00-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3436cdadd01df6b3",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "將",
+    "fields": {
+      "原句定位": "暫伴月將影",
+      "意思與必要辨析": "和，連接月與影，不能譯為將要。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[4].blocks[0][1][11]",
+        "section": "字詞、語法與煉字（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-817fe41e14d7b3fc",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "徘徊",
+    "fields": {
+      "原句定位": "我歌月徘徊",
+      "意思與必要辨析": "往返迴旋、流連不去；想像月亮傾聽歌聲。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[4].blocks[0][1][12]",
+        "section": "字詞、語法與煉字（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-04-00-12"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c4e8f47efb0a9544",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "零亂",
+    "fields": {
+      "原句定位": "我舞影零亂",
+      "意思與必要辨析": "零散、紛亂；影隨舞動搖曳。另列雙聲，兩字聲母相同，屬音韻特色。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[4].blocks[0][1][13]",
+        "section": "字詞、語法與煉字（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-04-00-13"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2f4ec24c243c7caa",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "交歡",
+    "fields": {
+      "原句定位": "醒時同交歡",
+      "意思與必要辨析": "共同歡樂"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[4].blocks[0][1][14]",
+        "section": "字詞、語法與煉字（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c75b05c7084930c4",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "分散",
+    "fields": {
+      "原句定位": "醉後各分散",
+      "意思與必要辨析": "別離。醒／醉、同／各、歡／散形成對照。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[4].blocks[0][1][15]",
+        "section": "字詞、語法與煉字（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-04-00-15"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f8d7c433d9d3812f",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "永結",
+    "fields": {
+      "原句定位": "永結無情遊",
+      "意思與必要辨析": "永遠結伴"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[4].blocks[0][1][16]",
+        "section": "字詞、語法與煉字（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-47089538327be36e",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "相期",
+    "fields": {
+      "原句定位": "相期邈雲漢",
+      "意思與必要辨析": "相約、約定。寫願望，不能直接當作已實現的事實。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[4].blocks[0][1][17]",
+        "section": "字詞、語法與煉字（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-04-00-17"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-071dc8dc3b6dcfd9",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "邈",
+    "fields": {
+      "原句定位": "相期邈雲漢",
+      "意思與必要辨析": "遙遠"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[4].blocks[0][1][18]",
+        "section": "字詞、語法與煉字（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4dd4f897f7e4ce29",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "雲漢",
+    "fields": {
+      "原句定位": "相期邈雲漢",
+      "意思與必要辨析": "銀河。想像由眼前拓展至天上、未來。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[4].blocks[0][1][19]",
+        "section": "字詞、語法與煉字（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-04-00-19"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4edd0f6da072640e",
+    "chapterId": "essay-12",
+    "category": "vocabulary",
+    "title": "無情遊",
+    "fields": {
+      "原句定位": "永結無情遊",
+      "意思與必要辨析": "忘卻世情、不受人間得失束縛的交遊；也可聯繫月影沒有人的情感來理解。此處指向超越俗情的相伴，不是冷酷待人。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[5].blocks[0][1][1]",
+        "section": "字詞、語法與煉字（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-05-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1320bf384adc8e58",
+    "chapterId": "essay-12",
+    "category": "technique",
+    "title": "字詞、語法與煉字",
+    "fields": {
+      "內容": "「無情」亦可反襯「我」有情：月影不識人意，我仍願邀其再遊，顯出深情與對陪伴的渴望。「徒」突顯無法改變事實的無奈；「暫」的悲哀讀法與享受當下讀法須依全篇立場論證，不混成唯一詞義。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[5].blocks[1]",
+        "section": "字詞、語法與煉字（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-05-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-35f1bbd53d508c6a",
+    "chapterId": "essay-12",
+    "category": "structure",
+    "title": "1—2：花間獨酌",
+    "fields": {
+      "行動、場景、情緒與作用": "繁花盛開，詩人獨自斟飲，無人相伴，孤獨寂寞。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[6].blocks[0][1][1]",
+        "section": "結構與情感起伏"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-06-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-caa6e29ba3720252",
+    "chapterId": "essay-12",
+    "category": "structure",
+    "title": "3—4：邀月對影",
+    "fields": {
+      "行動、場景、情緒與作用": "想像邀月影對飲，成三人，冷清轉熱鬧，似找到伴侶而獲慰藉；熱鬧出於想像，更顯現實無友。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[6].blocks[0][1][2]",
+        "section": "結構與情感起伏"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-06-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8582ecbadbd9e234",
+    "chapterId": "essay-12",
+    "category": "structure",
+    "title": "5—6：月影不解",
+    "fields": {
+      "行動、場景、情緒與作用": "月不懂飲酒，影只隨身而動，兩者不識人心、不解人意，詩人回落到失落、孤單與無奈。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[6].blocks[0][1][3]",
+        "section": "結構與情感起伏"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-06-00-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d9dd32f678a6fbe5",
+    "chapterId": "essay-12",
+    "category": "structure",
+    "title": "7—8：暫伴及春",
+    "fields": {
+      "行動、場景、情緒與作用": "不願辜負春夜良辰，姑且以月影為伴，及時行樂，自我開解；既可見曠達，亦可見聊勝於無、更添苦悶。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[6].blocks[0][1][4]",
+        "section": "結構與情感起伏"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-06-00-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2c3e1c8414c73ae9",
+    "chapterId": "essay-12",
+    "category": "structure",
+    "title": "9—10：歌舞共歡",
+    "fields": {
+      "行動、場景、情緒與作用": "月彷彿傾聽、影彷彿伴舞，場面熱鬧，情緒上揚、自得其樂；此為局部狀態，現實知己並未出現。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[6].blocks[0][1][5]",
+        "section": "結構與情感起伏"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-06-00-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-30a27d956f2a8ceb",
+    "chapterId": "essay-12",
+    "category": "structure",
+    "title": "11—12：醒歡醉散",
+    "fields": {
+      "行動、場景、情緒與作用": "清醒時同歡，醉倒後不省人事、與月影離別；歡樂不能長久，轉為失落惆悵。亦可依2023接受角度解作不執着聚散。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[6].blocks[0][1][6]",
+        "section": "結構與情感起伏"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-06-00-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8d1254829d8c18bc",
+    "chapterId": "essay-12",
+    "category": "structure",
+    "title": "13—14：相期雲漢",
+    "fields": {
+      "行動、場景、情緒與作用": "想像與月影永遠忘情同遊，相约銀河，失落化期盼，自我開解、曠達超脫；另一角度則認為只是對現實無法排憂的無奈逃避。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[6].blocks[0][1][7]",
+        "section": "結構與情感起伏"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-06-00-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fc8b7b24a756645f",
+    "chapterId": "essay-12",
+    "category": "theme",
+    "title": "主旨、人格與人生態度",
+    "fields": {
+      "內容": "詩人借春夜花月間獨飲，邀月影共飲、歌舞、相約同遊，抒發懷才不遇、抑鬱孤獨、知音難覓的心情，又企求解脫，不願被愁思束縛。現實孤獨、局部歡樂、自我排遣的努力與排遣是否成功，屬不同層次。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[7].blocks[0]",
+        "section": "主旨、人格與人生態度"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-07-00-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7bc5cd7e2090400c",
+    "chapterId": "essay-12",
+    "category": "theme",
+    "title": "主旨、人格與人生態度",
+    "fields": {
+      "內容": "<b>及時行樂</b>：「行樂須及春」，明知月影不能真正相知，仍暫以之為伴、且歌且舞，不辜負美好時光。<b>豁達超脫</b>：相約月影在遙遠銀河遊歷，超越人世得失，自我紓解。<b>高潔自持、鄙棄世俗</b>：月影是美好事物和感情寄託，與之親密歡洽，反襯人間知音難覓，也可表現對現實社會的憤懣、厭惡及遺世獨立的品格。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[7].blocks[1]",
+        "section": "主旨、人格與人生態度"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-07-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e8bbc0db22159a78",
+    "chapterId": "essay-12",
+    "category": "theme",
+    "title": "主旨、人格與人生態度",
+    "fields": {
+      "內容": "「詩仙」的作品依據有兩層：邀明月、對影成三人，把無伴冷清想成奇妙熱鬧，浪漫而富想像；永結無情遊、相期雲漢，表現道家順其自然、適性、忘情超脫的精神。不能只列稱號而沒有本詩例證。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[7].blocks[2]",
+        "section": "主旨、人格與人生態度"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-07-02-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-57295f420f8c3904",
+    "chapterId": "essay-12",
+    "category": "technique",
+    "title": "想像、構思精奇",
+    "fields": {
+      "具體例子與效果": "邀月對影成三人；月聽歌、影伴舞；醒同歡、醉分散；最後相期雲漢。從眼前邀伴推展到未來相約，意境愈轉愈奇，仍圍繞「獨」。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[8].blocks[0][1][1]",
+        "section": "手法與例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-08-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b587e6e19c29764e",
+    "chapterId": "essay-12",
+    "category": "technique",
+    "title": "擬人",
+    "fields": {
+      "具體例子與效果": "月影可受邀、傾聽、共舞、交歡、分散、相期；「月既不解飲，影徒隨我身」亦從人的知覺與回應能力描述月影。把物賦予人的動作、思想感情，使冷清場面在想像中轉熱鬧、生動。另形容為知己共聚、「把酒談天」；談天是對想像場面的展開，原詩未明記交談內容。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[8].blocks[0][1][2]",
+        "section": "手法與例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-08-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2403f87171e6e733",
+    "chapterId": "essay-12",
+    "category": "technique",
+    "title": "樂景反襯哀情／以景襯情",
+    "fields": {
+      "具體例子與效果": "花間月下、良辰美景、美酒當前，本宜歡暢，卻無友分享；景愈美好，孤寂苦悶愈鮮明。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[8].blocks[0][1][3]",
+        "section": "手法與例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-08-00-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cc6497719b93e9ce",
+    "chapterId": "essay-12",
+    "category": "technique",
+    "title": "以熱鬧反襯孤獨／以物襯情",
+    "fields": {
+      "具體例子與效果": "想像三人既歌且舞，熱鬧與現實獨酌形成反差；沒有真正知己，愈熱鬧愈顯孤獨。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[8].blocks[0][1][4]",
+        "section": "手法與例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-08-00-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-211d7c4cd2ce21ce",
+    "chapterId": "essay-12",
+    "category": "technique",
+    "title": "借景、借事、借物抒情",
+    "fields": {
+      "具體例子與效果": "花月之景襯孤寂；獨酌、邀伴、歌舞之事抒知己難求與自解；月影之物暫伴、醉後仍散，寄無奈。角度可交疊，不必互斥。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[8].blocks[0][1][5]",
+        "section": "手法與例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-08-00-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-80914b4d1ac91b7c",
+    "chapterId": "essay-12",
+    "category": "technique",
+    "title": "抑揚交錯、一波三折",
+    "fields": {
+      "具體例子與效果": "無伴→似有伴→月影不解→暫伴行樂→醉散→永結相期，悲喜交錯，心境往返「獨／不獨」，結構自然兼有跳躍感，引人入勝。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[8].blocks[0][1][6]",
+        "section": "手法與例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-08-00-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-38c9ddc80a01d77c",
+    "chapterId": "essay-12",
+    "category": "technique",
+    "title": "呼應一",
+    "fields": {
+      "具體例子與效果": "「花間一壺酒」與「行樂須及春」相應，春花盛放、及時行樂。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[8].blocks[0][1][7]",
+        "section": "手法與例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-08-00-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-deb565a7af9246ef",
+    "chapterId": "essay-12",
+    "category": "technique",
+    "title": "呼應二",
+    "fields": {
+      "具體例子與效果": "「行樂須及春」與「我歌月徘徊，我舞影零亂」相應，以歌舞具體說明行樂。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[8].blocks[0][1][8]",
+        "section": "手法與例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-08-00-08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-adecc23a2f1fa1b5",
+    "chapterId": "essay-12",
+    "category": "technique",
+    "title": "呼應三",
+    "fields": {
+      "具體例子與效果": "「月既不解飲，影徒隨我身」與「永結無情遊」相應，連接月影不解人意與無情交遊。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[8].blocks[0][1][9]",
+        "section": "手法與例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-08-00-09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-111fe0c8feff93a4",
+    "chapterId": "essay-12",
+    "category": "technique",
+    "title": "對偶",
+    "fields": {
+      "具體例子與效果": "「我歌／我舞、月／影、徘徊／零亂」；「醒時／醉後、同／各、交歡／分散」，結構整齊，節奏相稱。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[9].blocks[0][1][1]",
+        "section": "手法與例證（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-09-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7e367915cd9dbbe3",
+    "chapterId": "essay-12",
+    "category": "technique",
+    "title": "對比",
+    "fields": {
+      "具體例子與效果": "醒與醉、喜與悲、聚與散相對，使歡後孤獨鮮明；2023另一角度可分析不執着離合的自解。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[9].blocks[0][1][2]",
+        "section": "手法與例證（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-09-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8af6d2acd233aa5c",
+    "chapterId": "essay-12",
+    "category": "technique",
+    "title": "託物寄志、象徵",
+    "fields": {
+      "具體例子與效果": "月影象徵美好，寄寓思想感情，與之為友象徵鄙棄凡俗、孤清高潔。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[9].blocks[0][1][3]",
+        "section": "手法與例證（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-09-00-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-37819a500e16fe66",
+    "chapterId": "essay-12",
+    "category": "technique",
+    "title": "誇張筆法",
+    "fields": {
+      "具體例子與效果": "把月影寫成同宴友伴，想像超越現實，重點是想像超越現實，不能把「三人」當真實人数。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[9].blocks[0][1][4]",
+        "section": "手法與例證（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-09-00-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a6565739006bc911",
+    "chapterId": "essay-12",
+    "category": "technique",
+    "title": "雙聲",
+    "fields": {
+      "具體例子與效果": "「零亂」兩字聲母相同，為音韻觀察，與對偶的句法對稱分開。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[9].blocks[0][1][5]",
+        "section": "手法與例證（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-09-00-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-679a260b341f689c",
+    "chapterId": "essay-12",
+    "category": "technique",
+    "title": "語言質樸而精鍊",
+    "fields": {
+      "具體例子與效果": "淺白如話，少艱深字，沒有典故堆砌、辭藻雕飾，情感率真自然；首四句一氣呵成，「月、影、我」反覆而不呆板，像自然說話。「一壺、既、徒、暫、無情」皆可細析，平易不代表沒有煉字。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[9].blocks[0][1][6]",
+        "section": "手法與例證（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-09-00-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f957b67d61502565",
+    "chapterId": "essay-12",
+    "category": "technique",
+    "title": "手法與例證",
+    "fields": {
+      "內容": "詩題是「獨酌」，詩中卻想像出月、影兩位伴侶。人數由一變三，現實的孤獨仍未消失；正因真實無人可伴，這場想像的歡聚才格外動人。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[9].blocks[1]",
+        "section": "手法與例證（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-09-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-993802844ba2740d",
+    "chapterId": "essay-12",
+    "category": "comparison",
+    "title": "跨篇比較",
+    "fields": {
+      "內容": "《月下獨酌》與《登樓》都用美好花景襯托心事：李白苦於無相親，杜甫傷於萬方多難。結尾則不同：李白把相伴寄於雲漢的想像，杜甫以梁甫吟自況，仍想濟世卻未能施展。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[10].blocks[0]",
+        "section": "跨篇比較"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-10-00-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a885f120df39846f",
+    "chapterId": "essay-12",
+    "category": "comparison",
+    "title": "跨篇比較",
+    "fields": {
+      "內容": "<b>與《念奴嬌・赤壁懷古》</b>：可比较失意处境、月等自然意象、飲酒及精神自解；須分李白邀月影的想像交遊與蘇軾懷古、自傷、酹江月的過程。<b>與《聲聲慢・秋情》</b>：可比較尋求慰藉的方式與結果；李白主動想像同伴、心情反覆，李清照尋覓寄託而不得，酒、雁等又增愁。詳細各篇證據另見相應篇章及考卷卡，不以「都借酒消愁」抹平差異。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[10].blocks[1]",
+        "section": "跨篇比較"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-10-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1d8431e5e20afd04",
+    "chapterId": "essay-12",
+    "category": "exam",
+    "title": "歷年考查提示",
+    "fields": {
+      "內容": "下表列出歷年考查的知識方向；題目、答案與適用條件見配套考查索引。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[11].blocks[0]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5fcfbaac746403bd",
+    "chapterId": "essay-12",
+    "category": "exam",
+    "title": "2023",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "體裁：古詩、律詩、絕句、排律辨認"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[11].blocks[1][1][1]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4afe59cc0a6a0c99",
+    "chapterId": "essay-12",
+    "category": "exam",
+    "title": "2023",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "評價與情感：是否同意情感起伏而未能排解憂思"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[11].blocks[1][1][2]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f883b13a47780b9e",
+    "chapterId": "essay-12",
+    "category": "theme",
+    "title": "理解補充",
+    "fields": {
+      "內容": "全詩是否已排遣憂愁，可以有不同解讀。可由月影終不能相知、醉後分散，說憂仍存在；也可由及春行樂、永結無情遊，說詩人主動自解。兩種立場都要貫通全詩，不能只摘一句便斷定。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[12].blocks[0]",
+        "section": "理解補充"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-12-00-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f451457dc5b19953",
+    "chapterId": "essay-12",
+    "category": "structure",
+    "title": "章末串連｜重建全文",
+    "fields": {
+      "內容": "全詩反覆在獨與伴之間移動，想像既帶來安慰，也反照真實孤獨。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[13].blocks[0]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-13-00-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-65014d4b816e5441",
+    "chapterId": "essay-12",
+    "category": "structure",
+    "title": "由一到三",
+    "fields": {
+      "怎樣連起來": "「無相親」在先，舉杯邀月、對影在後；缺少知己才需要想像友伴。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[13].blocks[1][1][1]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-13-01-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bedbdb62184c9c44",
+    "chapterId": "essay-12",
+    "category": "structure",
+    "title": "歡聚有裂縫",
+    "fields": {
+      "怎樣連起來": "月不解飲、影徒隨身，揭示伴侶不能回應；暫伴行樂遂帶自解意味。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[13].blocks[1][1][2]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-13-01-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-915b551fbd5f7c0f",
+    "chapterId": "essay-12",
+    "category": "structure",
+    "title": "由散到遠約",
+    "fields": {
+      "怎樣連起來": "歌舞暫聚，醉後仍散；相期雲漢把相伴延至超越現實的想像，留曠達與孤寂兩層餘味。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[13].blocks[1][1][3]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-13-01-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b0cd8771f0f48ffd",
+    "chapterId": "essay-12",
+    "category": "structure",
+    "title": "關鍵轉折",
+    "fields": {
+      "怎樣連起來": "「不解」「徒」指出想像伴侶的限制，「暫」承認歡聚短促，「永結」「相期」才把希望推往超越現實的境地。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[13].blocks[1][1][4]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-13-01-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4107746e5dca0f88",
+    "chapterId": "essay-12",
+    "category": "structure",
+    "title": "兩層結尾",
+    "fields": {
+      "怎樣連起來": "若着眼相期雲漢，可見自我超越；若着眼現實仍無相親，可見孤獨未解。兩層理解各有全詩依據。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[11].pages[13].blocks[1][1][5]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-13-01-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0eb9e282fb092b33",
+    "chapterId": "essay-12",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "「三人」是我、月、影，沒有真正來了兩位朋友。邀月的熱鬧與不解飲的失落，正構成情感起伏。\n「暫」限定眼前相伴的時間；我歌我舞顯出主動排遣。月影的回應是想像，不能據此說現實孤獨已完全解除。\n「無情」可以指忘卻世情，也可從月影沒有感情理解。它不等於冷酷無情；「相期」仍是願望。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[210].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1702].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1703].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1704].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1705].learning.knowledge[2]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1709].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1710].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1711].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1712].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1713].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1714].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1715].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1716].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1717].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1718].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1719].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1721].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1722].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1723].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1724].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1726].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1728].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1729].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1730].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1731].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1732].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1733].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1734].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1735].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1736].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1737].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1738].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1740].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1741].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1742].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1743].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1744].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1745].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1746].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1747].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1750].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1751].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1753].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1754].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1755].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1756].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2150].learning.knowledge[2]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-appendix-003",
+      "full-c-12-00-01-80",
+      "full-c-12-00-03-80",
+      "full-c-12-00-05-80",
+      "full-c-12-00-07-80",
+      "full-c-12-04-00-03",
+      "full-c-12-04-00-04",
+      "full-c-12-04-00-06",
+      "full-c-12-04-00-07",
+      "full-c-12-04-00-09",
+      "full-c-12-04-00-10",
+      "full-c-12-04-00-12",
+      "full-c-12-04-00-13",
+      "full-c-12-04-00-15",
+      "full-c-12-04-00-17",
+      "full-c-12-04-00-19",
+      "full-c-12-05-01-80",
+      "full-c-12-06-00-01",
+      "full-c-12-06-00-02",
+      "full-c-12-06-00-03",
+      "full-c-12-06-00-05",
+      "full-c-12-06-00-07",
+      "full-c-12-07-00-80",
+      "full-c-12-07-01-80",
+      "full-c-12-07-02-80",
+      "full-c-12-08-00-01",
+      "full-c-12-08-00-02",
+      "full-c-12-08-00-03",
+      "full-c-12-08-00-04",
+      "full-c-12-08-00-05",
+      "full-c-12-08-00-06",
+      "full-c-12-08-00-07",
+      "full-c-12-08-00-09",
+      "full-c-12-09-00-01",
+      "full-c-12-09-00-02",
+      "full-c-12-09-00-03",
+      "full-c-12-09-00-04",
+      "full-c-12-09-00-05",
+      "full-c-12-09-00-06",
+      "full-c-12-09-01-80",
+      "full-c-12-12-00-80",
+      "full-c-12-13-00-80",
+      "full-c-12-13-01-02",
+      "full-c-12-13-01-03",
+      "full-c-12-13-01-04",
+      "full-c-12-13-01-05",
+      "dse-2023-1a-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c6be6290a616ef8d",
+    "chapterId": "essay-12",
+    "category": "structure",
+    "title": "律詩四聯",
+    "fields": {
+      "內容": "律詩通常有八句，每兩句為一聯：第1–2句是首聯，第3–4句是頷聯，第5–6句是頸聯，第7–8句是尾聯。頷聯和頸聯通常要求對仗。判斷聯次須從全詩第一句數起，不能把題目節錄的次序當成全詩句次。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1705].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-00-07-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-40da2a6def439e96",
+    "chapterId": "essay-12",
+    "category": "theme",
+    "title": "古詩、律詩、絕句與排律",
+    "fields": {
+      "內容": "古詩在句數、平仄和對仗方面較自由；律詩通常八句，絕句四句，排律在律詩格律基礎上延長至十句或以上。不能單憑每句五字或七字判定體裁，還要核對句數與格律。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1705].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2150].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-00-07-80",
+      "dse-2023-1a-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2d87939bcd126238",
+    "chapterId": "essay-12",
+    "category": "technique",
+    "title": "對比與襯托",
+    "fields": {
+      "內容": "對比把兩方並置，突出差異，兩方都參與表意；襯托有主次，以陪襯的一方突出主要對象。分析須指出哪兩方、在哪一方面形成關係，以及這個關係如何支持文意。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1727].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-06-00-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fc83a80239eb0faa",
+    "chapterId": "essay-12",
+    "category": "theme",
+    "title": "被動句",
+    "fields": {
+      "內容": "被動句中主語是動作的承受者。文言可用「見」「於」「為……所……」等標誌，也可不帶標誌而由語意判斷。不能看見「於」或「為」就直接判作被動，須查明動作由誰發出、誰承受。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1730].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-07-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-94e9f49a8b88063f",
+    "chapterId": "essay-12",
+    "category": "technique",
+    "title": "借代",
+    "fields": {
+      "內容": "借代利用事物之間的關聯，以特徵、部分、材料或相關事物代替本體。比喻依靠相似，借代依靠關聯。答題要說明代指對象及兩者關係。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1733].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-08-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-20f1a16691c49129",
+    "chapterId": "essay-12",
+    "category": "theme",
+    "title": "押韻與韻腳",
+    "fields": {
+      "內容": "韻腳是詩句末尾用來押韻的字。律詩一般偶數句押韻，首句可入韻，也可不入韻；不能把每句最後一字都當作韻腳。判斷古詩用韻要留意古音及韻部，不能只按現代普通話讀音。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2150].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "dse-2023-1a-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  }
+]

@@ -1,0 +1,7796 @@
+[
+  {
+    "id": "k-821549b9a666aec4",
+    "chapterId": "essay-06",
+    "category": "background",
+    "title": "作者與題旨",
+    "fields": {
+      "作者": "諸葛亮"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].author",
+        "section": "出師表"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-48f3549e805a46c5",
+    "chapterId": "essay-06",
+    "category": "theme",
+    "title": "一句話題旨",
+    "fields": {
+      "題旨": "忠誠與勸諫"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].desc",
+        "section": "出師表"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-dd30620c3c1d3c39",
+    "chapterId": "essay-06",
+    "category": "background",
+    "title": "作者、時代與文體",
+    "fields": {
+      "資料": "諸葛亮｜三國｜奏表"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[0].blocks[0]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-998de91520d7fe41",
+    "chapterId": "essay-06",
+    "category": "theme",
+    "title": "諸葛亮｜三國｜奏表",
+    "fields": {
+      "內容": "出師前勸後主廣開言路、賞罰公平、親賢遠佞，並表明報先帝、忠陛下的責任。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[0].blocks[1]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-27fb04a202f9d6d4",
+    "chapterId": "essay-06",
+    "category": "structure",
+    "title": "內容線索",
+    "fields": {
+      "內容": "危急而有人心→治國三策→自述受恩→出師條件→君臣問責"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[0].blocks[3]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-090ef5cdfa8d0c79",
+    "chapterId": "essay-06",
+    "category": "theme",
+    "title": "理解關鍵",
+    "fields": {
+      "內容": "薦才的品格、分工、預期好處與失職責任是不同層次；勸諫尚不等於已採納。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[0].blocks[5]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cb1ada47206e3efa",
+    "chapterId": "essay-06",
+    "category": "background",
+    "title": "題解與文體",
+    "fields": {
+      "內容": "表是臣下向君主陳情言事的文體；本篇議論、敘事和抒情交融。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[0].blocks[7]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-483811ba91747f7b",
+    "chapterId": "essay-06",
+    "category": "theme",
+    "title": "句段核心：第1段｜原文與語譯",
+    "fields": {
+      "重點": "形勢危急，仍可倚靠忠臣將士的人心。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[1].core",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-083e95a10803f830",
+    "chapterId": "essay-06",
+    "category": "text",
+    "title": "第1段｜原文與語譯",
+    "fields": {
+      "原文": "先帝創業未半，而中道崩殂；今天下三分，益州疲弊，此誠危急存亡之秋也﹗然侍衞之臣，不懈於內；忠志之士，忘身於外者，蓋追先帝之殊遇，欲報之於陛下也。"
+    },
+    "context": "先帝創業未半，而中道崩殂；今天下三分，益州疲弊，此誠危急存亡之秋也﹗然侍衞之臣，不懈於內；忠志之士，忘身於外者，蓋追先帝之殊遇，欲報之於陛下也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[1].blocks[0]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e06-exp-001",
+      "full-b-06-01-03-0",
+      "full-b-06-01-03-1",
+      "full-b-06-01-03-3",
+      "full-b-06-01-03-4",
+      "full-b-06-01-03-5",
+      "full-b-06-01-00-b",
+      "full-b-06-11-02-1",
+      "full-b-06-11-02-2",
+      "full-b-06-11-02-3",
+      "full-b-06-11-02-4",
+      "full-b-06-11-02-5",
+      "full-b-06-11-02-6",
+      "full-b-06-11-02-7",
+      "full-b-06-11-02-8",
+      "full-b-06-11-02-9",
+      "full-b-06-11-02-10",
+      "full-b-06-11-02-11",
+      "full-b-06-11-02-12",
+      "full-b-06-11-02-14",
+      "full-b-06-11-02-15",
+      "full-b-06-11-02-16",
+      "full-b-06-14-02-1",
+      "full-b-06-15-00-1",
+      "full-b-06-16-00-3",
+      "dse-2018-1a-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c7ab29ce4137a666",
+    "chapterId": "essay-06",
+    "category": "text",
+    "title": "第1段｜原文與語譯",
+    "fields": {
+      "語譯": "先帝創建統一大業還沒完成一半，卻中途去世。現在天下分裂為三部分，但蜀地國力困乏，這實在是國家危急存亡的關鍵時刻啊！然而侍奉皇帝起居飲食和負責警衞的官員，在朝廷以內毫不鬆懈地辦事；忠貞的將士，在朝廷以外奮不顧身地為國家作戰，都是為了追念先帝對大家的特殊恩遇，想要報答在陛下身上啊。"
+    },
+    "context": "先帝創業未半，而中道崩殂；今天下三分，益州疲弊，此誠危急存亡之秋也﹗然侍衞之臣，不懈於內；忠志之士，忘身於外者，蓋追先帝之殊遇，欲報之於陛下也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[1].blocks[2]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e06-exp-001",
+      "full-b-06-01-03-0",
+      "full-b-06-01-03-1",
+      "full-b-06-01-03-3",
+      "full-b-06-01-03-4",
+      "full-b-06-01-03-5",
+      "full-b-06-01-00-b",
+      "full-b-06-11-02-1",
+      "full-b-06-11-02-2",
+      "full-b-06-11-02-3",
+      "full-b-06-11-02-4",
+      "full-b-06-11-02-5",
+      "full-b-06-11-02-6",
+      "full-b-06-11-02-7",
+      "full-b-06-11-02-8",
+      "full-b-06-11-02-9",
+      "full-b-06-11-02-10",
+      "full-b-06-11-02-11",
+      "full-b-06-11-02-12",
+      "full-b-06-11-02-14",
+      "full-b-06-11-02-15",
+      "full-b-06-11-02-16",
+      "full-b-06-14-02-1",
+      "full-b-06-15-00-1",
+      "full-b-06-16-00-3",
+      "dse-2018-1a-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-05c0ef2c617abedf",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "崩殂",
+    "fields": {
+      "詞義": "帝王去世"
+    },
+    "context": "先帝創業未半，而中道崩殂；今天下三分，益州疲弊，此誠危急存亡之秋也﹗然侍衞之臣，不懈於內；忠志之士，忘身於外者，蓋追先帝之殊遇，欲報之於陛下也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[1].blocks[3][1][0]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-01-03-0"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d4e37e14ac024cf9",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "疲弊",
+    "fields": {
+      "詞義": "困乏衰弱"
+    },
+    "context": "先帝創業未半，而中道崩殂；今天下三分，益州疲弊，此誠危急存亡之秋也﹗然侍衞之臣，不懈於內；忠志之士，忘身於外者，蓋追先帝之殊遇，欲報之於陛下也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[1].blocks[3][1][1]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-01-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e5ee298b1c28ebdf",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "秋",
+    "fields": {
+      "詞義": "關鍵時刻"
+    },
+    "context": "先帝創業未半，而中道崩殂；今天下三分，益州疲弊，此誠危急存亡之秋也﹗然侍衞之臣，不懈於內；忠志之士，忘身於外者，蓋追先帝之殊遇，欲報之於陛下也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[1].blocks[3][1][2]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c5ec3c0dc8b6731b",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "懈",
+    "fields": {
+      "詞義": "鬆懈"
+    },
+    "context": "先帝創業未半，而中道崩殂；今天下三分，益州疲弊，此誠危急存亡之秋也﹗然侍衞之臣，不懈於內；忠志之士，忘身於外者，蓋追先帝之殊遇，欲報之於陛下也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[1].blocks[3][1][3]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-01-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-018d088dc4ab8ef7",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "忘身",
+    "fields": {
+      "詞義": "奮不顧身"
+    },
+    "context": "先帝創業未半，而中道崩殂；今天下三分，益州疲弊，此誠危急存亡之秋也﹗然侍衞之臣，不懈於內；忠志之士，忘身於外者，蓋追先帝之殊遇，欲報之於陛下也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[1].blocks[3][1][4]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-01-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-423136c850d13158",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "殊遇",
+    "fields": {
+      "詞義": "特殊恩遇"
+    },
+    "context": "先帝創業未半，而中道崩殂；今天下三分，益州疲弊，此誠危急存亡之秋也﹗然侍衞之臣，不懈於內；忠志之士，忘身於外者，蓋追先帝之殊遇，欲報之於陛下也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[1].blocks[3][1][5]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-01-03-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b21184e757ec988a",
+    "chapterId": "essay-06",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "先帝未成大業而亡、天下三分、益州疲弊是危機；內臣不懈、外士忘身是有利條件，並非全段只說悲觀。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[1].blocks[4]",
+        "section": "第1段｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[136].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[690].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[691].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[692].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[693].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[694].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[903].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[938].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[939].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[940].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[941].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[942].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[943].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[944].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[945].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[946].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[947].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[948].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[949].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[950].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[951].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[952].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1013].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1018].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1030].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e06-exp-001",
+      "full-b-06-01-03-0",
+      "full-b-06-01-03-1",
+      "full-b-06-01-03-3",
+      "full-b-06-01-03-4",
+      "full-b-06-01-03-5",
+      "full-b-06-01-00-b",
+      "full-b-06-11-02-1",
+      "full-b-06-11-02-2",
+      "full-b-06-11-02-3",
+      "full-b-06-11-02-4",
+      "full-b-06-11-02-5",
+      "full-b-06-11-02-6",
+      "full-b-06-11-02-7",
+      "full-b-06-11-02-8",
+      "full-b-06-11-02-9",
+      "full-b-06-11-02-10",
+      "full-b-06-11-02-11",
+      "full-b-06-11-02-12",
+      "full-b-06-11-02-14",
+      "full-b-06-11-02-15",
+      "full-b-06-11-02-16",
+      "full-b-06-14-02-1",
+      "full-b-06-15-00-1",
+      "full-b-06-16-00-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-861a92b4761236f1",
+    "chapterId": "essay-06",
+    "category": "theme",
+    "title": "句段核心：第2段｜原文與語譯",
+    "fields": {
+      "重點": "廣泛聽取意見，才可振奮士氣、接納忠諫。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[2].core",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b1cf0c499a6c91db",
+    "chapterId": "essay-06",
+    "category": "text",
+    "title": "第2段｜原文與語譯",
+    "fields": {
+      "原文": "誠宜開張聖聽，以光先帝遺德，恢弘志士之氣﹔不宜妄自菲薄，引喻失義，以塞忠諫之路也。"
+    },
+    "context": "誠宜開張聖聽，以光先帝遺德，恢弘志士之氣﹔不宜妄自菲薄，引喻失義，以塞忠諫之路也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[2].blocks[0]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e06-exp-002",
+      "full-b-06-02-03-1",
+      "full-b-06-02-03-2",
+      "full-b-06-02-03-3",
+      "full-b-06-02-03-4",
+      "full-b-06-02-00-b",
+      "full-b-06-11-02-17",
+      "full-b-06-11-02-19",
+      "full-b-06-11-02-20",
+      "full-b-06-11-02-21",
+      "full-b-06-11-02-23",
+      "full-b-06-14-02-4",
+      "full-b-06-15-00-2",
+      "dse-2018-1a-6",
+      "dse-2025-1a-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c74374c7a3d24e44",
+    "chapterId": "essay-06",
+    "category": "text",
+    "title": "第2段｜原文與語譯",
+    "fields": {
+      "語譯": "您實在應該廣泛地聽取意見，把先帝遺留下來的德行發揚光大，振作有志之士的士氣；不應該隨意輕視自己，引用一些不合義理的話，以致堵塞臣下忠心進諫的道路。"
+    },
+    "context": "誠宜開張聖聽，以光先帝遺德，恢弘志士之氣﹔不宜妄自菲薄，引喻失義，以塞忠諫之路也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[2].blocks[2]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e06-exp-002",
+      "full-b-06-02-03-1",
+      "full-b-06-02-03-2",
+      "full-b-06-02-03-3",
+      "full-b-06-02-03-4",
+      "full-b-06-02-00-b",
+      "full-b-06-11-02-17",
+      "full-b-06-11-02-19",
+      "full-b-06-11-02-20",
+      "full-b-06-11-02-21",
+      "full-b-06-11-02-23",
+      "full-b-06-14-02-4",
+      "full-b-06-15-00-2",
+      "dse-2018-1a-6",
+      "dse-2025-1a-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5c9a6494a5debf3b",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "開張",
+    "fields": {
+      "詞義": "擴大"
+    },
+    "context": "誠宜開張聖聽，以光先帝遺德，恢弘志士之氣﹔不宜妄自菲薄，引喻失義，以塞忠諫之路也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[2].blocks[3][1][0]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-196bec34e45c574b",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "光",
+    "fields": {
+      "詞義": "發揚光大"
+    },
+    "context": "誠宜開張聖聽，以光先帝遺德，恢弘志士之氣﹔不宜妄自菲薄，引喻失義，以塞忠諫之路也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[2].blocks[3][1][1]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-02-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f93478d9ae898fde",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "恢弘",
+    "fields": {
+      "詞義": "振奮、擴充"
+    },
+    "context": "誠宜開張聖聽，以光先帝遺德，恢弘志士之氣﹔不宜妄自菲薄，引喻失義，以塞忠諫之路也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[2].blocks[3][1][2]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-02-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1b14697a8162a7fd",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "菲薄",
+    "fields": {
+      "詞義": "輕視"
+    },
+    "context": "誠宜開張聖聽，以光先帝遺德，恢弘志士之氣﹔不宜妄自菲薄，引喻失義，以塞忠諫之路也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[2].blocks[3][1][3]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-02-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-55038f98a0a1174f",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "引喻失義",
+    "fields": {
+      "詞義": "說話引例不合義理"
+    },
+    "context": "誠宜開張聖聽，以光先帝遺德，恢弘志士之氣﹔不宜妄自菲薄，引喻失義，以塞忠諫之路也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[2].blocks[3][1][4]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-02-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-944c7ea9838ac8ce",
+    "chapterId": "essay-06",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "開張聖聽與妄自菲薄、引喻失義形成正反兩面。後兩者會堵塞忠諫之路，與求諫的目的相反。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[2].blocks[4]",
+        "section": "第2段｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[137].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[695].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[696].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[697].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[698].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[904].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[953].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[954].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[955].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[956].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[957].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1016].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1019].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e06-exp-002",
+      "full-b-06-02-03-1",
+      "full-b-06-02-03-2",
+      "full-b-06-02-03-3",
+      "full-b-06-02-03-4",
+      "full-b-06-02-00-b",
+      "full-b-06-11-02-17",
+      "full-b-06-11-02-19",
+      "full-b-06-11-02-20",
+      "full-b-06-11-02-21",
+      "full-b-06-11-02-23",
+      "full-b-06-14-02-4",
+      "full-b-06-15-00-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9d144b32e9c8fbb6",
+    "chapterId": "essay-06",
+    "category": "theme",
+    "title": "句段核心：第3段｜原文與語譯",
+    "fields": {
+      "重點": "宮府一體，賞罰應採同一公正標準。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[3].core",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2d5775b3585496ce",
+    "chapterId": "essay-06",
+    "category": "text",
+    "title": "第3段｜原文與語譯",
+    "fields": {
+      "原文": "宮中、府中，俱為一體；陟罰臧否，不宜異同。若有作姦、犯科，及為忠善者，宜付有司，論其刑賞，以昭陛下平明之治；不宜偏私，使內外異法也。"
+    },
+    "context": "宮中、府中，俱為一體；陟罰臧否，不宜異同。若有作姦、犯科，及為忠善者，宜付有司，論其刑賞，以昭陛下平明之治；不宜偏私，使內外異法也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[3].blocks[0]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e06-exp-006",
+      "full-b-06-03-03-0",
+      "full-b-06-03-03-1",
+      "full-b-06-03-03-2",
+      "full-b-06-03-03-3",
+      "full-b-06-03-03-4",
+      "full-b-06-03-00-b",
+      "full-b-06-11-02-24",
+      "full-b-06-11-02-25",
+      "full-b-06-11-02-27",
+      "full-b-06-11-02-28",
+      "full-b-06-11-02-29",
+      "full-b-06-11-02-30",
+      "full-b-06-11-02-31",
+      "full-b-06-11-02-32",
+      "full-b-06-11-02-33",
+      "full-b-06-11-02-34",
+      "full-b-06-11-02-35",
+      "full-b-06-15-00-3",
+      "dse-2018-1a-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6508084e9cbefb83",
+    "chapterId": "essay-06",
+    "category": "text",
+    "title": "第3段｜原文與語譯",
+    "fields": {
+      "語譯": "內廷裏的侍臣和外朝的官員，都屬於一個整體，賞善罰惡，不應該有差異。如果有幹壞事、觸犯國法的，以及盡忠為善的，應該交付主管部門，確定受罰或者受賞，來顯示您治國的公正英明，不宜有偏袒和私心，使內廷和外朝的法度不一致。"
+    },
+    "context": "宮中、府中，俱為一體；陟罰臧否，不宜異同。若有作姦、犯科，及為忠善者，宜付有司，論其刑賞，以昭陛下平明之治；不宜偏私，使內外異法也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[3].blocks[2]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e06-exp-006",
+      "full-b-06-03-03-0",
+      "full-b-06-03-03-1",
+      "full-b-06-03-03-2",
+      "full-b-06-03-03-3",
+      "full-b-06-03-03-4",
+      "full-b-06-03-00-b",
+      "full-b-06-11-02-24",
+      "full-b-06-11-02-25",
+      "full-b-06-11-02-27",
+      "full-b-06-11-02-28",
+      "full-b-06-11-02-29",
+      "full-b-06-11-02-30",
+      "full-b-06-11-02-31",
+      "full-b-06-11-02-32",
+      "full-b-06-11-02-33",
+      "full-b-06-11-02-34",
+      "full-b-06-11-02-35",
+      "full-b-06-15-00-3",
+      "dse-2018-1a-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-40b4d1f32f5de3ec",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "陟",
+    "fields": {
+      "詞義": "升賞"
+    },
+    "context": "宮中、府中，俱為一體；陟罰臧否，不宜異同。若有作姦、犯科，及為忠善者，宜付有司，論其刑賞，以昭陛下平明之治；不宜偏私，使內外異法也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[3].blocks[3][1][0]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-03-03-0"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-14264ebe66c2fe61",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "臧否",
+    "fields": {
+      "詞義": "善惡"
+    },
+    "context": "宮中、府中，俱為一體；陟罰臧否，不宜異同。若有作姦、犯科，及為忠善者，宜付有司，論其刑賞，以昭陛下平明之治；不宜偏私，使內外異法也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[3].blocks[3][1][1]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-03-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-09ba53ec3df352cc",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "有司",
+    "fields": {
+      "詞義": "主管官員"
+    },
+    "context": "宮中、府中，俱為一體；陟罰臧否，不宜異同。若有作姦、犯科，及為忠善者，宜付有司，論其刑賞，以昭陛下平明之治；不宜偏私，使內外異法也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[3].blocks[3][1][2]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-03-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f88eb6c4d2abccb6",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "昭",
+    "fields": {
+      "詞義": "顯示"
+    },
+    "context": "宮中、府中，俱為一體；陟罰臧否，不宜異同。若有作姦、犯科，及為忠善者，宜付有司，論其刑賞，以昭陛下平明之治；不宜偏私，使內外異法也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[3].blocks[3][1][3]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-03-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cd77cbd3a3e7e6ef",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "平明",
+    "fields": {
+      "詞義": "公正清明"
+    },
+    "context": "宮中、府中，俱為一體；陟罰臧否，不宜異同。若有作姦、犯科，及為忠善者，宜付有司，論其刑賞，以昭陛下平明之治；不宜偏私，使內外異法也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[3].blocks[3][1][4]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-03-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3cc6d917ada4dec1",
+    "chapterId": "essay-06",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "受賞或受罰都應交主管官員評議；「不宜異同」是不能有不同標準，不是善惡一概相同處理。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[3].blocks[4]",
+        "section": "第3段｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[141].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[699].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[700].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[701].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[702].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[703].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[905].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[958].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[959].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[960].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[961].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[962].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[963].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[964].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[965].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[966].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[967].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[968].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1020].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e06-exp-006",
+      "full-b-06-03-03-0",
+      "full-b-06-03-03-1",
+      "full-b-06-03-03-2",
+      "full-b-06-03-03-3",
+      "full-b-06-03-03-4",
+      "full-b-06-03-00-b",
+      "full-b-06-11-02-24",
+      "full-b-06-11-02-25",
+      "full-b-06-11-02-27",
+      "full-b-06-11-02-28",
+      "full-b-06-11-02-29",
+      "full-b-06-11-02-30",
+      "full-b-06-11-02-31",
+      "full-b-06-11-02-32",
+      "full-b-06-11-02-33",
+      "full-b-06-11-02-34",
+      "full-b-06-11-02-35",
+      "full-b-06-15-00-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0e6d978fff0214c7",
+    "chapterId": "essay-06",
+    "category": "theme",
+    "title": "句段核心：第4段｜原文與語譯",
+    "fields": {
+      "重點": "按才能分工，宮中和營中都應諮詢合適的人。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[4].core",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2aed13e0bb9f802f",
+    "chapterId": "essay-06",
+    "category": "text",
+    "title": "第4段｜原文與語譯",
+    "fields": {
+      "原文": "侍中、侍郎郭攸之、費禕、董允等，此皆良實，志慮忠純，是以先帝簡拔以遺陛下。愚以為宮中之事，事無大小，悉以咨之，然後施行，必能裨補闕漏，有所廣益。將軍向寵，性行淑均，曉暢軍事，試用於昔日，先帝稱之曰「能」，是以眾議舉寵為督。愚以為營中之事，悉以咨之，必能使行陣和睦，優劣得所。"
+    },
+    "context": "侍中、侍郎郭攸之、費禕、董允等，此皆良實，志慮忠純，是以先帝簡拔以遺陛下。愚以為宮中之事，事無大小，悉以咨之，然後施行，必能裨補闕漏，有所廣益。將軍向寵，性行淑均，曉暢軍事，試用於昔日，先帝稱之曰「能」，是以眾議舉寵為督。愚以為營中之事，悉以咨之，必能使行陣和睦，優劣得所。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[4].blocks[0]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e06-exp-003",
+      "full-b-06-04-03-1",
+      "full-b-06-04-03-2",
+      "full-b-06-04-03-3",
+      "full-b-06-04-03-4",
+      "full-b-06-04-03-5",
+      "full-b-06-04-03-6",
+      "full-b-06-04-03-7",
+      "full-b-06-04-03-8",
+      "full-b-06-04-03-9",
+      "full-b-06-04-00-b",
+      "full-b-06-09-02-1",
+      "full-b-06-09-02-2",
+      "full-b-06-11-01-1",
+      "full-b-06-11-01-2",
+      "full-b-06-11-01-3",
+      "full-b-06-11-02-36",
+      "full-b-06-11-02-37",
+      "full-b-06-11-02-38",
+      "full-b-06-11-02-39",
+      "full-b-06-12-00-2",
+      "full-b-06-12-00-4",
+      "full-b-06-12-00-5",
+      "full-b-06-12-00-7",
+      "full-b-06-12-00-9",
+      "full-b-06-14-02-2",
+      "full-b-06-16-00-1",
+      "dse-2018-1a-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0d17209782016aec",
+    "chapterId": "essay-06",
+    "category": "text",
+    "title": "第4段｜原文與語譯",
+    "fields": {
+      "語譯": "侍中郭攸之、費禕、侍郎董允等，這些都是善良誠實的人，志向和心思忠誠純正，因此先帝才挑選提拔出來留給您任用。我（老臣）認為宮裏的事情，不論大小，都應全部徵詢他們的意見，然後才去實行，這樣一定能夠彌補過失疏漏，得到更多的益處。將軍向寵，性格和善，處事公正，熟悉軍事，過去經過試用，先帝稱讚他說「能幹」，因此大家商議推舉向寵擔任中部督。我（老臣）認為軍營裏的事，都應該全部徵詢他，這樣一定能使軍隊和睦融洽，才能高低不同的將士可各得其所。"
+    },
+    "context": "侍中、侍郎郭攸之、費禕、董允等，此皆良實，志慮忠純，是以先帝簡拔以遺陛下。愚以為宮中之事，事無大小，悉以咨之，然後施行，必能裨補闕漏，有所廣益。將軍向寵，性行淑均，曉暢軍事，試用於昔日，先帝稱之曰「能」，是以眾議舉寵為督。愚以為營中之事，悉以咨之，必能使行陣和睦，優劣得所。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[4].blocks[2]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e06-exp-003",
+      "full-b-06-04-03-1",
+      "full-b-06-04-03-2",
+      "full-b-06-04-03-3",
+      "full-b-06-04-03-4",
+      "full-b-06-04-03-5",
+      "full-b-06-04-03-6",
+      "full-b-06-04-03-7",
+      "full-b-06-04-03-8",
+      "full-b-06-04-03-9",
+      "full-b-06-04-00-b",
+      "full-b-06-09-02-1",
+      "full-b-06-09-02-2",
+      "full-b-06-11-01-1",
+      "full-b-06-11-01-2",
+      "full-b-06-11-01-3",
+      "full-b-06-11-02-36",
+      "full-b-06-11-02-37",
+      "full-b-06-11-02-38",
+      "full-b-06-11-02-39",
+      "full-b-06-12-00-2",
+      "full-b-06-12-00-4",
+      "full-b-06-12-00-5",
+      "full-b-06-12-00-7",
+      "full-b-06-12-00-9",
+      "full-b-06-14-02-2",
+      "full-b-06-16-00-1",
+      "dse-2018-1a-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5f46704e2e348a9b",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "簡拔",
+    "fields": {
+      "詞義": "選拔"
+    },
+    "context": "侍中、侍郎郭攸之、費禕、董允等，此皆良實，志慮忠純，是以先帝簡拔以遺陛下。愚以為宮中之事，事無大小，悉以咨之，然後施行，必能裨補闕漏，有所廣益。將軍向寵，性行淑均，曉暢軍事，試用於昔日，先帝稱之曰「能」，是以眾議舉寵為督。愚以為營中之事，悉以咨之，必能使行陣和睦，優劣得所。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[4].blocks[3][1][0]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-947087d73b7a24db",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "遺",
+    "fields": {
+      "詞義": "留給"
+    },
+    "context": "侍中、侍郎郭攸之、費禕、董允等，此皆良實，志慮忠純，是以先帝簡拔以遺陛下。愚以為宮中之事，事無大小，悉以咨之，然後施行，必能裨補闕漏，有所廣益。將軍向寵，性行淑均，曉暢軍事，試用於昔日，先帝稱之曰「能」，是以眾議舉寵為督。愚以為營中之事，悉以咨之，必能使行陣和睦，優劣得所。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[4].blocks[3][1][1]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-04-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e0dca80e67ad9106",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "悉",
+    "fields": {
+      "詞義": "全部"
+    },
+    "context": "侍中、侍郎郭攸之、費禕、董允等，此皆良實，志慮忠純，是以先帝簡拔以遺陛下。愚以為宮中之事，事無大小，悉以咨之，然後施行，必能裨補闕漏，有所廣益。將軍向寵，性行淑均，曉暢軍事，試用於昔日，先帝稱之曰「能」，是以眾議舉寵為督。愚以為營中之事，悉以咨之，必能使行陣和睦，優劣得所。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[4].blocks[3][1][2]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-04-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-34ad2f7c7600ae86",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "咨",
+    "fields": {
+      "詞義": "詢問"
+    },
+    "context": "侍中、侍郎郭攸之、費禕、董允等，此皆良實，志慮忠純，是以先帝簡拔以遺陛下。愚以為宮中之事，事無大小，悉以咨之，然後施行，必能裨補闕漏，有所廣益。將軍向寵，性行淑均，曉暢軍事，試用於昔日，先帝稱之曰「能」，是以眾議舉寵為督。愚以為營中之事，悉以咨之，必能使行陣和睦，優劣得所。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[4].blocks[3][1][3]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-04-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-50410a45664bb3f8",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "裨補",
+    "fields": {
+      "詞義": "彌補"
+    },
+    "context": "侍中、侍郎郭攸之、費禕、董允等，此皆良實，志慮忠純，是以先帝簡拔以遺陛下。愚以為宮中之事，事無大小，悉以咨之，然後施行，必能裨補闕漏，有所廣益。將軍向寵，性行淑均，曉暢軍事，試用於昔日，先帝稱之曰「能」，是以眾議舉寵為督。愚以為營中之事，悉以咨之，必能使行陣和睦，優劣得所。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[4].blocks[3][1][4]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-04-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8bbaef12b381775d",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "闕漏",
+    "fields": {
+      "詞義": "缺失疏漏"
+    },
+    "context": "侍中、侍郎郭攸之、費禕、董允等，此皆良實，志慮忠純，是以先帝簡拔以遺陛下。愚以為宮中之事，事無大小，悉以咨之，然後施行，必能裨補闕漏，有所廣益。將軍向寵，性行淑均，曉暢軍事，試用於昔日，先帝稱之曰「能」，是以眾議舉寵為督。愚以為營中之事，悉以咨之，必能使行陣和睦，優劣得所。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[4].blocks[3][1][5]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-04-03-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4a3dab962005bc4b",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "淑均",
+    "fields": {
+      "詞義": "善良公正"
+    },
+    "context": "侍中、侍郎郭攸之、費禕、董允等，此皆良實，志慮忠純，是以先帝簡拔以遺陛下。愚以為宮中之事，事無大小，悉以咨之，然後施行，必能裨補闕漏，有所廣益。將軍向寵，性行淑均，曉暢軍事，試用於昔日，先帝稱之曰「能」，是以眾議舉寵為督。愚以為營中之事，悉以咨之，必能使行陣和睦，優劣得所。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[4].blocks[3][1][6]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-04-03-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ae4e4dc71414722f",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "曉暢",
+    "fields": {
+      "詞義": "熟悉通曉"
+    },
+    "context": "侍中、侍郎郭攸之、費禕、董允等，此皆良實，志慮忠純，是以先帝簡拔以遺陛下。愚以為宮中之事，事無大小，悉以咨之，然後施行，必能裨補闕漏，有所廣益。將軍向寵，性行淑均，曉暢軍事，試用於昔日，先帝稱之曰「能」，是以眾議舉寵為督。愚以為營中之事，悉以咨之，必能使行陣和睦，優劣得所。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[4].blocks[3][1][7]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-04-03-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e3cecbc823f88db8",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "行陣",
+    "fields": {
+      "詞義": "軍隊"
+    },
+    "context": "侍中、侍郎郭攸之、費禕、董允等，此皆良實，志慮忠純，是以先帝簡拔以遺陛下。愚以為宮中之事，事無大小，悉以咨之，然後施行，必能裨補闕漏，有所廣益。將軍向寵，性行淑均，曉暢軍事，試用於昔日，先帝稱之曰「能」，是以眾議舉寵為督。愚以為營中之事，悉以咨之，必能使行陣和睦，優劣得所。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[4].blocks[3][1][8]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-04-03-8"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-39a58fcae5ff62a6",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "得所",
+    "fields": {
+      "詞義": "得到合適安排"
+    },
+    "context": "侍中、侍郎郭攸之、費禕、董允等，此皆良實，志慮忠純，是以先帝簡拔以遺陛下。愚以為宮中之事，事無大小，悉以咨之，然後施行，必能裨補闕漏，有所廣益。將軍向寵，性行淑均，曉暢軍事，試用於昔日，先帝稱之曰「能」，是以眾議舉寵為督。愚以為營中之事，悉以咨之，必能使行陣和睦，優劣得所。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[4].blocks[3][1][9]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-04-03-9"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7be60907f06a0225",
+    "chapterId": "essay-06",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "郭攸之等忠純良實，向寵熟悉軍事；先交代理由，再說補漏、廣益或軍隊和睦等好處。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[4].blocks[4]",
+        "section": "第4段｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[138].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[704].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[705].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[706].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[707].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[708].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[709].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[710].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[711].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[712].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[906].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[930].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[931].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[933].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[934].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[935].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[969].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[970].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[971].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[972].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[973].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[974].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[975].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[976].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[977].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1014].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1028].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e06-exp-003",
+      "full-b-06-04-03-1",
+      "full-b-06-04-03-2",
+      "full-b-06-04-03-3",
+      "full-b-06-04-03-4",
+      "full-b-06-04-03-5",
+      "full-b-06-04-03-6",
+      "full-b-06-04-03-7",
+      "full-b-06-04-03-8",
+      "full-b-06-04-03-9",
+      "full-b-06-04-00-b",
+      "full-b-06-09-02-1",
+      "full-b-06-09-02-2",
+      "full-b-06-11-01-1",
+      "full-b-06-11-01-2",
+      "full-b-06-11-01-3",
+      "full-b-06-11-02-36",
+      "full-b-06-11-02-37",
+      "full-b-06-11-02-38",
+      "full-b-06-11-02-39",
+      "full-b-06-12-00-2",
+      "full-b-06-12-00-4",
+      "full-b-06-12-00-5",
+      "full-b-06-12-00-7",
+      "full-b-06-12-00-9",
+      "full-b-06-14-02-2",
+      "full-b-06-16-00-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-878e2e10f4723f3c",
+    "chapterId": "essay-06",
+    "category": "theme",
+    "title": "句段核心：第5段｜原文與語譯",
+    "fields": {
+      "重點": "兩漢興亡證明親賢遠佞關乎國運。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[5].core",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fe937030fbe0d67f",
+    "chapterId": "essay-06",
+    "category": "text",
+    "title": "第5段｜原文與語譯",
+    "fields": {
+      "原文": "親賢臣，遠小人，此先漢所以興隆也﹔親小人，遠賢臣，此後漢所以傾頹也。先帝在時，每與臣論此事，未嘗不歎息痛恨於桓、靈也！侍中、尚書、長史、參軍，此悉貞良死節之臣，願陛下親之、信之，則漢室之隆，可計日而待也。"
+    },
+    "context": "親賢臣，遠小人，此先漢所以興隆也﹔親小人，遠賢臣，此後漢所以傾頹也。先帝在時，每與臣論此事，未嘗不歎息痛恨於桓、靈也！侍中、尚書、長史、參軍，此悉貞良死節之臣，願陛下親之、信之，則漢室之隆，可計日而待也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[5].blocks[0]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e06-exp-004",
+      "q-e06-exp-008",
+      "full-b-06-05-03-0",
+      "full-b-06-05-03-1",
+      "full-b-06-05-03-2",
+      "full-b-06-05-03-4",
+      "full-b-06-05-03-5",
+      "full-b-06-05-00-b",
+      "full-b-06-09-02-3",
+      "full-b-06-12-00-12",
+      "full-b-06-12-00-13",
+      "full-b-06-12-00-14",
+      "full-b-06-12-00-16",
+      "full-b-06-12-00-17",
+      "full-b-06-14-02-3",
+      "full-b-06-15-00-7",
+      "full-b-06-16-00-4",
+      "dse-2018-1a-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e3c3a56228ca5d5f",
+    "chapterId": "essay-06",
+    "category": "text",
+    "title": "第5段｜原文與語譯",
+    "fields": {
+      "語譯": "親近賢臣，疏遠小人，這是前漢興盛的原因；親近小人，疏遠賢臣，這是後漢衰敗覆亡的原因。先帝在世的時候，每次和我（臣）談論到這些事，沒有不對桓、靈二帝深表歎息、痛感遺憾的!侍中郭攸之等人、尚書陳震、長史張裔、參軍蔣琬，這些都是堅貞忠良、能為節義而死的大臣，希望陛下親近他們，信任他們，那麼漢朝的復興，就可以計算到日子來等待了。"
+    },
+    "context": "親賢臣，遠小人，此先漢所以興隆也﹔親小人，遠賢臣，此後漢所以傾頹也。先帝在時，每與臣論此事，未嘗不歎息痛恨於桓、靈也！侍中、尚書、長史、參軍，此悉貞良死節之臣，願陛下親之、信之，則漢室之隆，可計日而待也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[5].blocks[2]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e06-exp-004",
+      "q-e06-exp-008",
+      "full-b-06-05-03-0",
+      "full-b-06-05-03-1",
+      "full-b-06-05-03-2",
+      "full-b-06-05-03-4",
+      "full-b-06-05-03-5",
+      "full-b-06-05-00-b",
+      "full-b-06-09-02-3",
+      "full-b-06-12-00-12",
+      "full-b-06-12-00-13",
+      "full-b-06-12-00-14",
+      "full-b-06-12-00-16",
+      "full-b-06-12-00-17",
+      "full-b-06-14-02-3",
+      "full-b-06-15-00-7",
+      "full-b-06-16-00-4",
+      "dse-2018-1a-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1b5914008e72faff",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "親",
+    "fields": {
+      "詞義": "親近"
+    },
+    "context": "親賢臣，遠小人，此先漢所以興隆也﹔親小人，遠賢臣，此後漢所以傾頹也。先帝在時，每與臣論此事，未嘗不歎息痛恨於桓、靈也！侍中、尚書、長史、參軍，此悉貞良死節之臣，願陛下親之、信之，則漢室之隆，可計日而待也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[5].blocks[3][1][0]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-05-03-0"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d06c4c627d78c319",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "遠",
+    "fields": {
+      "詞義": "疏遠"
+    },
+    "context": "親賢臣，遠小人，此先漢所以興隆也﹔親小人，遠賢臣，此後漢所以傾頹也。先帝在時，每與臣論此事，未嘗不歎息痛恨於桓、靈也！侍中、尚書、長史、參軍，此悉貞良死節之臣，願陛下親之、信之，則漢室之隆，可計日而待也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[5].blocks[3][1][1]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-05-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cf839464dc384663",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "所以",
+    "fields": {
+      "詞義": "……的原因"
+    },
+    "context": "親賢臣，遠小人，此先漢所以興隆也﹔親小人，遠賢臣，此後漢所以傾頹也。先帝在時，每與臣論此事，未嘗不歎息痛恨於桓、靈也！侍中、尚書、長史、參軍，此悉貞良死節之臣，願陛下親之、信之，則漢室之隆，可計日而待也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[5].blocks[3][1][2]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-05-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5bfa76ce4ce9b064",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "痛恨",
+    "fields": {
+      "詞義": "痛惜遺憾"
+    },
+    "context": "親賢臣，遠小人，此先漢所以興隆也﹔親小人，遠賢臣，此後漢所以傾頹也。先帝在時，每與臣論此事，未嘗不歎息痛恨於桓、靈也！侍中、尚書、長史、參軍，此悉貞良死節之臣，願陛下親之、信之，則漢室之隆，可計日而待也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[5].blocks[3][1][3]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7812d7d152a7f30b",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "悉",
+    "fields": {
+      "詞義": "全部"
+    },
+    "context": "親賢臣，遠小人，此先漢所以興隆也﹔親小人，遠賢臣，此後漢所以傾頹也。先帝在時，每與臣論此事，未嘗不歎息痛恨於桓、靈也！侍中、尚書、長史、參軍，此悉貞良死節之臣，願陛下親之、信之，則漢室之隆，可計日而待也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[5].blocks[3][1][4]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-05-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2a379a553bee6b36",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "死節",
+    "fields": {
+      "詞義": "為節義而死"
+    },
+    "context": "親賢臣，遠小人，此先漢所以興隆也﹔親小人，遠賢臣，此後漢所以傾頹也。先帝在時，每與臣論此事，未嘗不歎息痛恨於桓、靈也！侍中、尚書、長史、參軍，此悉貞良死節之臣，願陛下親之、信之，則漢室之隆，可計日而待也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[5].blocks[3][1][5]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-05-03-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9c727bfcd6bf10c9",
+    "chapterId": "essay-06",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "先漢興與後漢頹正反相對；再提先帝歎息，使歷史道理和父子情感一起支持勸諫。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[5].blocks[4]",
+        "section": "第5段｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[139].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[143].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[713].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[714].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[715].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[716].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[717].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[907].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[932].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[978].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[979].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[980].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[981].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[982].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1015].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1024].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1031].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e06-exp-004",
+      "q-e06-exp-008",
+      "full-b-06-05-03-0",
+      "full-b-06-05-03-1",
+      "full-b-06-05-03-2",
+      "full-b-06-05-03-4",
+      "full-b-06-05-03-5",
+      "full-b-06-05-00-b",
+      "full-b-06-09-02-3",
+      "full-b-06-12-00-12",
+      "full-b-06-12-00-13",
+      "full-b-06-12-00-14",
+      "full-b-06-12-00-16",
+      "full-b-06-12-00-17",
+      "full-b-06-14-02-3",
+      "full-b-06-15-00-7",
+      "full-b-06-16-00-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b165225dd9df66d3",
+    "chapterId": "essay-06",
+    "category": "theme",
+    "title": "句段核心：第6段｜原文與語譯 1",
+    "fields": {
+      "重點": "回顧受恩受命，說明出師的忠誠、準備與責任。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[6].core",
+        "section": "第6段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-eeff4db52756d4d2",
+    "chapterId": "essay-06",
+    "category": "text",
+    "title": "第6段｜原文與語譯 1",
+    "fields": {
+      "原文": "臣本布衣，躬耕於南陽，苟全性命於亂世，不求聞達於諸侯。先帝不以臣卑鄙，猥自枉屈，三顧臣於草廬之中，諮臣以當世之事；由是感激，遂許先帝以驅馳。後值傾覆，受任於敗軍之際，奉命於危難之間，爾來二十有一年矣。先帝知臣謹慎，故臨崩寄臣以大事也。"
+    },
+    "context": "臣本布衣，躬耕於南陽，苟全性命於亂世，不求聞達於諸侯。先帝不以臣卑鄙，猥自枉屈，三顧臣於草廬之中，諮臣以當世之事；由是感激，遂許先帝以驅馳。後值傾覆，受任於敗軍之際，奉命於危難之間，爾來二十有一年矣。先帝知臣謹慎，故臨崩寄臣以大事也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[6].blocks[0]",
+        "section": "第6段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "q-e06-exp-005",
+      "full-b-06-06-03-0",
+      "full-b-06-06-03-1",
+      "full-b-06-06-03-2",
+      "full-b-06-06-03-3",
+      "full-b-06-06-03-5",
+      "full-b-06-06-03-6",
+      "full-b-06-06-03-7",
+      "full-b-06-06-03-8",
+      "full-b-06-06-03-9",
+      "full-b-06-06-03-10",
+      "full-b-06-06-03-11",
+      "full-b-06-06-00-b",
+      "full-b-06-12-00-22",
+      "full-b-06-12-00-23",
+      "full-b-06-12-00-24",
+      "full-b-06-12-00-25",
+      "full-b-06-12-00-26",
+      "full-b-06-12-00-27",
+      "full-b-06-12-00-29",
+      "full-b-06-12-00-30",
+      "full-b-06-12-00-33",
+      "full-b-06-15-00-4",
+      "full-b-06-15-00-5",
+      "full-b-06-15-00-7",
+      "full-b-06-15-00-10",
+      "full-b-06-15-00-11",
+      "full-b-06-16-00-5",
+      "full-b-06-16-00-6",
+      "full-b-06-16-00-8",
+      "dse-2018-1a-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c6c0caf04eec335d",
+    "chapterId": "essay-06",
+    "category": "text",
+    "title": "第6段｜原文與語譯 1",
+    "fields": {
+      "語譯": "我（臣）本來是個平民，在南陽親自耕種，只希望能夠在亂世裏苟且保全性命，並不想在諸侯中揚名、顯貴。先帝不因為我身份卑微和見識鄙陋，委屈地貶抑自己的身份，三次到草廬探訪我，和我商議當時的天下大事；因此我很感動，就答應先帝為國事奔走效勞。後來國家遇到嚴重挫折，我在兵敗的時候接受委任，在危急的關頭接受使命，從那時到現在已有二十一年了。先帝知道我辦事謹慎，所以臨終時把輔助陛下復興漢朝的大事委託給我。"
+    },
+    "context": "臣本布衣，躬耕於南陽，苟全性命於亂世，不求聞達於諸侯。先帝不以臣卑鄙，猥自枉屈，三顧臣於草廬之中，諮臣以當世之事；由是感激，遂許先帝以驅馳。後值傾覆，受任於敗軍之際，奉命於危難之間，爾來二十有一年矣。先帝知臣謹慎，故臨崩寄臣以大事也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[6].blocks[2]",
+        "section": "第6段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "q-e06-exp-005",
+      "full-b-06-06-03-0",
+      "full-b-06-06-03-1",
+      "full-b-06-06-03-2",
+      "full-b-06-06-03-3",
+      "full-b-06-06-03-5",
+      "full-b-06-06-03-6",
+      "full-b-06-06-03-7",
+      "full-b-06-06-03-8",
+      "full-b-06-06-03-9",
+      "full-b-06-06-03-10",
+      "full-b-06-06-03-11",
+      "full-b-06-06-00-b",
+      "full-b-06-12-00-22",
+      "full-b-06-12-00-23",
+      "full-b-06-12-00-24",
+      "full-b-06-12-00-25",
+      "full-b-06-12-00-26",
+      "full-b-06-12-00-27",
+      "full-b-06-12-00-29",
+      "full-b-06-12-00-30",
+      "full-b-06-12-00-33",
+      "full-b-06-15-00-4",
+      "full-b-06-15-00-5",
+      "full-b-06-15-00-7",
+      "full-b-06-15-00-10",
+      "full-b-06-15-00-11",
+      "full-b-06-16-00-5",
+      "full-b-06-16-00-6",
+      "full-b-06-16-00-8",
+      "dse-2018-1a-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c4cfa17e92f74a51",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "布衣",
+    "fields": {
+      "詞義": "平民"
+    },
+    "context": "臣本布衣，躬耕於南陽，苟全性命於亂世，不求聞達於諸侯。先帝不以臣卑鄙，猥自枉屈，三顧臣於草廬之中，諮臣以當世之事；由是感激，遂許先帝以驅馳。後值傾覆，受任於敗軍之際，奉命於危難之間，爾來二十有一年矣。先帝知臣謹慎，故臨崩寄臣以大事也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[6].blocks[3][1][0]",
+        "section": "第6段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-06-03-0"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e6990f829e661e20",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "躬",
+    "fields": {
+      "詞義": "親自"
+    },
+    "context": "臣本布衣，躬耕於南陽，苟全性命於亂世，不求聞達於諸侯。先帝不以臣卑鄙，猥自枉屈，三顧臣於草廬之中，諮臣以當世之事；由是感激，遂許先帝以驅馳。後值傾覆，受任於敗軍之際，奉命於危難之間，爾來二十有一年矣。先帝知臣謹慎，故臨崩寄臣以大事也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[6].blocks[3][1][1]",
+        "section": "第6段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-06-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7fe362a689e51cb4",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "苟全",
+    "fields": {
+      "詞義": "苟且保全"
+    },
+    "context": "臣本布衣，躬耕於南陽，苟全性命於亂世，不求聞達於諸侯。先帝不以臣卑鄙，猥自枉屈，三顧臣於草廬之中，諮臣以當世之事；由是感激，遂許先帝以驅馳。後值傾覆，受任於敗軍之際，奉命於危難之間，爾來二十有一年矣。先帝知臣謹慎，故臨崩寄臣以大事也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[6].blocks[3][1][2]",
+        "section": "第6段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-06-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f72efc2875ecd0bc",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "聞達",
+    "fields": {
+      "詞義": "聞名顯達"
+    },
+    "context": "臣本布衣，躬耕於南陽，苟全性命於亂世，不求聞達於諸侯。先帝不以臣卑鄙，猥自枉屈，三顧臣於草廬之中，諮臣以當世之事；由是感激，遂許先帝以驅馳。後值傾覆，受任於敗軍之際，奉命於危難之間，爾來二十有一年矣。先帝知臣謹慎，故臨崩寄臣以大事也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[6].blocks[3][1][3]",
+        "section": "第6段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-06-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-baca33981f9808c8",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "卑鄙",
+    "fields": {
+      "詞義": "地位卑微、見識淺陋"
+    },
+    "context": "臣本布衣，躬耕於南陽，苟全性命於亂世，不求聞達於諸侯。先帝不以臣卑鄙，猥自枉屈，三顧臣於草廬之中，諮臣以當世之事；由是感激，遂許先帝以驅馳。後值傾覆，受任於敗軍之際，奉命於危難之間，爾來二十有一年矣。先帝知臣謹慎，故臨崩寄臣以大事也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[6].blocks[3][1][4]",
+        "section": "第6段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7319169a6968aa2f",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "猥自枉屈",
+    "fields": {
+      "詞義": "屈尊降低自己身分"
+    },
+    "context": "臣本布衣，躬耕於南陽，苟全性命於亂世，不求聞達於諸侯。先帝不以臣卑鄙，猥自枉屈，三顧臣於草廬之中，諮臣以當世之事；由是感激，遂許先帝以驅馳。後值傾覆，受任於敗軍之際，奉命於危難之間，爾來二十有一年矣。先帝知臣謹慎，故臨崩寄臣以大事也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[6].blocks[3][1][5]",
+        "section": "第6段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-06-03-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c6063df529bb69ca",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "顧",
+    "fields": {
+      "詞義": "探訪"
+    },
+    "context": "臣本布衣，躬耕於南陽，苟全性命於亂世，不求聞達於諸侯。先帝不以臣卑鄙，猥自枉屈，三顧臣於草廬之中，諮臣以當世之事；由是感激，遂許先帝以驅馳。後值傾覆，受任於敗軍之際，奉命於危難之間，爾來二十有一年矣。先帝知臣謹慎，故臨崩寄臣以大事也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[6].blocks[3][1][6]",
+        "section": "第6段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-06-03-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-55ef0e4f56a0a820",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "諮",
+    "fields": {
+      "詞義": "詢問"
+    },
+    "context": "臣本布衣，躬耕於南陽，苟全性命於亂世，不求聞達於諸侯。先帝不以臣卑鄙，猥自枉屈，三顧臣於草廬之中，諮臣以當世之事；由是感激，遂許先帝以驅馳。後值傾覆，受任於敗軍之際，奉命於危難之間，爾來二十有一年矣。先帝知臣謹慎，故臨崩寄臣以大事也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[6].blocks[3][1][7]",
+        "section": "第6段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-06-03-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0b6f0357790af5d2",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "感激",
+    "fields": {
+      "詞義": "感動奮發"
+    },
+    "context": "臣本布衣，躬耕於南陽，苟全性命於亂世，不求聞達於諸侯。先帝不以臣卑鄙，猥自枉屈，三顧臣於草廬之中，諮臣以當世之事；由是感激，遂許先帝以驅馳。後值傾覆，受任於敗軍之際，奉命於危難之間，爾來二十有一年矣。先帝知臣謹慎，故臨崩寄臣以大事也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[6].blocks[3][1][8]",
+        "section": "第6段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-06-03-8"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4ab7c78704840cb1",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "驅馳",
+    "fields": {
+      "詞義": "奔走效勞"
+    },
+    "context": "臣本布衣，躬耕於南陽，苟全性命於亂世，不求聞達於諸侯。先帝不以臣卑鄙，猥自枉屈，三顧臣於草廬之中，諮臣以當世之事；由是感激，遂許先帝以驅馳。後值傾覆，受任於敗軍之際，奉命於危難之間，爾來二十有一年矣。先帝知臣謹慎，故臨崩寄臣以大事也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[6].blocks[3][1][9]",
+        "section": "第6段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-06-03-9"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-046618fbd8133738",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "爾來",
+    "fields": {
+      "詞義": "從那時以來"
+    },
+    "context": "臣本布衣，躬耕於南陽，苟全性命於亂世，不求聞達於諸侯。先帝不以臣卑鄙，猥自枉屈，三顧臣於草廬之中，諮臣以當世之事；由是感激，遂許先帝以驅馳。後值傾覆，受任於敗軍之際，奉命於危難之間，爾來二十有一年矣。先帝知臣謹慎，故臨崩寄臣以大事也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[6].blocks[3][1][10]",
+        "section": "第6段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-06-03-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-91d619b76a9bbe39",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "有",
+    "fields": {
+      "詞義": "通又"
+    },
+    "context": "臣本布衣，躬耕於南陽，苟全性命於亂世，不求聞達於諸侯。先帝不以臣卑鄙，猥自枉屈，三顧臣於草廬之中，諮臣以當世之事；由是感激，遂許先帝以驅馳。後值傾覆，受任於敗軍之際，奉命於危難之間，爾來二十有一年矣。先帝知臣謹慎，故臨崩寄臣以大事也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[6].blocks[3][1][11]",
+        "section": "第6段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-06-03-11"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4ac76050d32350ba",
+    "chapterId": "essay-06",
+    "category": "theme",
+    "title": "句段核心：第6段｜原文與語譯 2",
+    "fields": {
+      "重點": "回顧受恩受命，說明出師的忠誠、準備與責任。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[7].core",
+        "section": "第6段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-22cbdcef2345aa27",
+    "chapterId": "essay-06",
+    "category": "text",
+    "title": "第6段｜原文與語譯 2",
+    "fields": {
+      "原文": "受命以來，夙夜憂歎，恐託付不效，以傷先帝之明。故五月渡瀘，深入不毛。今南方已定，兵甲已足，當獎率三軍，北定中原，庶竭駑鈍，攘除姦凶，興復漢室，還於舊都。此臣所以報先帝而忠陛下之職分也。至於斟酌損益，進盡忠言，則攸之、禕、允之任也。"
+    },
+    "context": "受命以來，夙夜憂歎，恐託付不效，以傷先帝之明。故五月渡瀘，深入不毛。今南方已定，兵甲已足，當獎率三軍，北定中原，庶竭駑鈍，攘除姦凶，興復漢室，還於舊都。此臣所以報先帝而忠陛下之職分也。至於斟酌損益，進盡忠言，則攸之、禕、允之任也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[7].blocks[0]",
+        "section": "第6段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "q-e06-exp-007",
+      "full-b-06-07-03-0",
+      "full-b-06-07-03-1",
+      "full-b-06-07-03-2",
+      "full-b-06-07-03-3",
+      "full-b-06-07-03-4",
+      "full-b-06-07-03-5",
+      "full-b-06-07-03-6",
+      "full-b-06-07-03-7",
+      "full-b-06-07-03-8",
+      "full-b-06-07-00-b",
+      "full-b-06-12-00-34",
+      "full-b-06-12-00-36",
+      "full-b-06-12-00-37",
+      "full-b-06-12-00-38",
+      "full-b-06-12-00-39",
+      "full-b-06-13-00-2",
+      "full-b-06-13-00-3",
+      "full-b-06-13-00-4",
+      "full-b-06-13-00-5",
+      "full-b-06-13-00-6",
+      "full-b-06-13-00-7",
+      "full-b-06-13-00-8",
+      "full-b-06-15-00-4",
+      "full-b-06-15-00-8",
+      "full-b-06-16-00-2",
+      "full-b-06-16-00-7",
+      "dse-2018-1a-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-82ebb170c824b0b3",
+    "chapterId": "essay-06",
+    "category": "text",
+    "title": "第6段｜原文與語譯 2",
+    "fields": {
+      "語譯": "自從我接受遺命以來，日夜憂愁歎息，恐怕所託付的大事沒有成效，因而損害了先帝的聖明。所以我在五月時（帶兵）渡過瀘水，深入荒涼貧瘠的地方作戰。現在南方諸郡已經平定，武器軍備已經充足，應當鼓勵並率領軍隊，北上平定中原，我希望竭盡自己庸劣的力量，剷除奸惡的國賊，復興漢朝的天下，回到舊都洛陽。這就是我用來報答先帝和效忠陛下所應盡的職責本分啊。至於在朝廷權衡施政的得失，毫無保留地提出忠誠的意見，那就是郭攸之、費禕和董允的責任了。"
+    },
+    "context": "受命以來，夙夜憂歎，恐託付不效，以傷先帝之明。故五月渡瀘，深入不毛。今南方已定，兵甲已足，當獎率三軍，北定中原，庶竭駑鈍，攘除姦凶，興復漢室，還於舊都。此臣所以報先帝而忠陛下之職分也。至於斟酌損益，進盡忠言，則攸之、禕、允之任也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[7].blocks[2]",
+        "section": "第6段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "q-e06-exp-007",
+      "full-b-06-07-03-0",
+      "full-b-06-07-03-1",
+      "full-b-06-07-03-2",
+      "full-b-06-07-03-3",
+      "full-b-06-07-03-4",
+      "full-b-06-07-03-5",
+      "full-b-06-07-03-6",
+      "full-b-06-07-03-7",
+      "full-b-06-07-03-8",
+      "full-b-06-07-00-b",
+      "full-b-06-12-00-34",
+      "full-b-06-12-00-36",
+      "full-b-06-12-00-37",
+      "full-b-06-12-00-38",
+      "full-b-06-12-00-39",
+      "full-b-06-13-00-2",
+      "full-b-06-13-00-3",
+      "full-b-06-13-00-4",
+      "full-b-06-13-00-5",
+      "full-b-06-13-00-6",
+      "full-b-06-13-00-7",
+      "full-b-06-13-00-8",
+      "full-b-06-15-00-4",
+      "full-b-06-15-00-8",
+      "full-b-06-16-00-2",
+      "full-b-06-16-00-7",
+      "dse-2018-1a-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f11a27d8dc072302",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "夙夜",
+    "fields": {
+      "詞義": "早晚、日夜"
+    },
+    "context": "受命以來，夙夜憂歎，恐託付不效，以傷先帝之明。故五月渡瀘，深入不毛。今南方已定，兵甲已足，當獎率三軍，北定中原，庶竭駑鈍，攘除姦凶，興復漢室，還於舊都。此臣所以報先帝而忠陛下之職分也。至於斟酌損益，進盡忠言，則攸之、禕、允之任也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[7].blocks[3][1][0]",
+        "section": "第6段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-07-03-0"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-79cb133ccc01e836",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "效",
+    "fields": {
+      "詞義": "實現、完成"
+    },
+    "context": "受命以來，夙夜憂歎，恐託付不效，以傷先帝之明。故五月渡瀘，深入不毛。今南方已定，兵甲已足，當獎率三軍，北定中原，庶竭駑鈍，攘除姦凶，興復漢室，還於舊都。此臣所以報先帝而忠陛下之職分也。至於斟酌損益，進盡忠言，則攸之、禕、允之任也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[7].blocks[3][1][1]",
+        "section": "第6段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-07-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a5568a0baee3fcde",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "不毛",
+    "fields": {
+      "詞義": "荒涼不生草木"
+    },
+    "context": "受命以來，夙夜憂歎，恐託付不效，以傷先帝之明。故五月渡瀘，深入不毛。今南方已定，兵甲已足，當獎率三軍，北定中原，庶竭駑鈍，攘除姦凶，興復漢室，還於舊都。此臣所以報先帝而忠陛下之職分也。至於斟酌損益，進盡忠言，則攸之、禕、允之任也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[7].blocks[3][1][2]",
+        "section": "第6段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-07-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8d09d2bc4545d3ed",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "獎率",
+    "fields": {
+      "詞義": "勉勵並率領"
+    },
+    "context": "受命以來，夙夜憂歎，恐託付不效，以傷先帝之明。故五月渡瀘，深入不毛。今南方已定，兵甲已足，當獎率三軍，北定中原，庶竭駑鈍，攘除姦凶，興復漢室，還於舊都。此臣所以報先帝而忠陛下之職分也。至於斟酌損益，進盡忠言，則攸之、禕、允之任也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[7].blocks[3][1][3]",
+        "section": "第6段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-07-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8dc4a49038b83680",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "庶",
+    "fields": {
+      "詞義": "希望"
+    },
+    "context": "受命以來，夙夜憂歎，恐託付不效，以傷先帝之明。故五月渡瀘，深入不毛。今南方已定，兵甲已足，當獎率三軍，北定中原，庶竭駑鈍，攘除姦凶，興復漢室，還於舊都。此臣所以報先帝而忠陛下之職分也。至於斟酌損益，進盡忠言，則攸之、禕、允之任也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[7].blocks[3][1][4]",
+        "section": "第6段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-07-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6405718363102023",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "駑鈍",
+    "fields": {
+      "詞義": "才能低下，自謙"
+    },
+    "context": "受命以來，夙夜憂歎，恐託付不效，以傷先帝之明。故五月渡瀘，深入不毛。今南方已定，兵甲已足，當獎率三軍，北定中原，庶竭駑鈍，攘除姦凶，興復漢室，還於舊都。此臣所以報先帝而忠陛下之職分也。至於斟酌損益，進盡忠言，則攸之、禕、允之任也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[7].blocks[3][1][5]",
+        "section": "第6段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-07-03-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9f5fa2ba31b54284",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "攘除",
+    "fields": {
+      "詞義": "排除"
+    },
+    "context": "受命以來，夙夜憂歎，恐託付不效，以傷先帝之明。故五月渡瀘，深入不毛。今南方已定，兵甲已足，當獎率三軍，北定中原，庶竭駑鈍，攘除姦凶，興復漢室，還於舊都。此臣所以報先帝而忠陛下之職分也。至於斟酌損益，進盡忠言，則攸之、禕、允之任也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[7].blocks[3][1][6]",
+        "section": "第6段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-07-03-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ece56d7eeaf5a262",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "所以",
+    "fields": {
+      "詞義": "用來……的"
+    },
+    "context": "受命以來，夙夜憂歎，恐託付不效，以傷先帝之明。故五月渡瀘，深入不毛。今南方已定，兵甲已足，當獎率三軍，北定中原，庶竭駑鈍，攘除姦凶，興復漢室，還於舊都。此臣所以報先帝而忠陛下之職分也。至於斟酌損益，進盡忠言，則攸之、禕、允之任也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[7].blocks[3][1][7]",
+        "section": "第6段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-07-03-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-97294570f404e36c",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "損益",
+    "fields": {
+      "詞義": "減少與增加"
+    },
+    "context": "受命以來，夙夜憂歎，恐託付不效，以傷先帝之明。故五月渡瀘，深入不毛。今南方已定，兵甲已足，當獎率三軍，北定中原，庶竭駑鈍，攘除姦凶，興復漢室，還於舊都。此臣所以報先帝而忠陛下之職分也。至於斟酌損益，進盡忠言，則攸之、禕、允之任也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[7].blocks[3][1][8]",
+        "section": "第6段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-07-03-8"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-572e7599db887849",
+    "chapterId": "essay-06",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "三顧、危難受任、臨崩託付連成報恩的原因；南方已定、兵甲已足是出師條件。「駑鈍」是自謙。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[7].blocks[4]",
+        "section": "第6段｜原文與語譯 2"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[142].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[729].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[730].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[731].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[732].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[733].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[734].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[735].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[736].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[737].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[909].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[992].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[993].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[994].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[995].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[996].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[997].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[998].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[999].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1000].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1001].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1002].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1003].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1021].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1025].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1029].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e06-exp-007",
+      "full-b-06-07-03-0",
+      "full-b-06-07-03-1",
+      "full-b-06-07-03-2",
+      "full-b-06-07-03-3",
+      "full-b-06-07-03-4",
+      "full-b-06-07-03-5",
+      "full-b-06-07-03-6",
+      "full-b-06-07-03-7",
+      "full-b-06-07-03-8",
+      "full-b-06-07-00-b",
+      "full-b-06-12-00-34",
+      "full-b-06-12-00-36",
+      "full-b-06-12-00-37",
+      "full-b-06-12-00-38",
+      "full-b-06-12-00-39",
+      "full-b-06-13-00-2",
+      "full-b-06-13-00-3",
+      "full-b-06-13-00-4",
+      "full-b-06-13-00-5",
+      "full-b-06-13-00-6",
+      "full-b-06-13-00-7",
+      "full-b-06-13-00-8",
+      "full-b-06-15-00-4",
+      "full-b-06-15-00-8",
+      "full-b-06-16-00-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-78cdd2b8b2f14a7b",
+    "chapterId": "essay-06",
+    "category": "theme",
+    "title": "句段核心：第7段｜原文與語譯",
+    "fields": {
+      "重點": "請命出師並分清責任，以真情收結。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[8].core",
+        "section": "第7段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-33ffb3a4c02015b4",
+    "chapterId": "essay-06",
+    "category": "text",
+    "title": "第7段｜原文與語譯",
+    "fields": {
+      "原文": "願陛下託臣以討賊興復之效；不效，則治臣之罪，以告先帝之靈。若無興德之言，則責攸之、禕、允等之慢，以彰其咎。陛下亦宜自謀，以諮諏善道，察納雅言，深追先帝遺詔。臣不勝受恩感激。今當遠離，臨表涕零，不知所言！"
+    },
+    "context": "願陛下託臣以討賊興復之效；不效，則治臣之罪，以告先帝之靈。若無興德之言，則責攸之、禕、允等之慢，以彰其咎。陛下亦宜自謀，以諮諏善道，察納雅言，深追先帝遺詔。臣不勝受恩感激。今當遠離，臨表涕零，不知所言！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[8].blocks[0]",
+        "section": "第7段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-08-03-0",
+      "full-b-06-08-03-1",
+      "full-b-06-08-03-2",
+      "full-b-06-08-03-3",
+      "full-b-06-08-03-4",
+      "full-b-06-08-03-5",
+      "full-b-06-08-03-6",
+      "full-b-06-08-03-7",
+      "full-b-06-08-03-8",
+      "full-b-06-08-03-9",
+      "full-b-06-08-03-10",
+      "full-b-06-08-00-b",
+      "full-b-06-11-01-5",
+      "full-b-06-11-01-6",
+      "full-b-06-13-00-9",
+      "full-b-06-13-00-10",
+      "full-b-06-13-00-11",
+      "full-b-06-13-00-13",
+      "full-b-06-13-00-15",
+      "full-b-06-13-00-16",
+      "full-b-06-13-00-17",
+      "full-b-06-13-00-18",
+      "full-b-06-13-00-19",
+      "full-b-06-14-02-5",
+      "full-b-06-15-00-6",
+      "full-b-06-16-00-7",
+      "dse-2018-1a-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1108e74a2e60771e",
+    "chapterId": "essay-06",
+    "category": "text",
+    "title": "第7段｜原文與語譯",
+    "fields": {
+      "語譯": "希望陛下委派我完成討伐漢賊、復興漢室的任務；如果沒有成功，就請治我的罪，用來告慰先帝在天之靈。如果沒有足以使陛下發揚聖德的忠言，那就責備郭攸之、費禕、董允等人的怠慢，來揭示他們的過失。陛下也應該多加考慮，向羣臣徵詢治國的良方，審察採納正確的意見，深深地追念先帝的遺詔。我深受先帝恩典，內心無限感激。現在我就要遠離陛下了，面對這份奏表，禁不住流下淚水，不知道自己說了些甚麼！"
+    },
+    "context": "願陛下託臣以討賊興復之效；不效，則治臣之罪，以告先帝之靈。若無興德之言，則責攸之、禕、允等之慢，以彰其咎。陛下亦宜自謀，以諮諏善道，察納雅言，深追先帝遺詔。臣不勝受恩感激。今當遠離，臨表涕零，不知所言！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[8].blocks[2]",
+        "section": "第7段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-08-03-0",
+      "full-b-06-08-03-1",
+      "full-b-06-08-03-2",
+      "full-b-06-08-03-3",
+      "full-b-06-08-03-4",
+      "full-b-06-08-03-5",
+      "full-b-06-08-03-6",
+      "full-b-06-08-03-7",
+      "full-b-06-08-03-8",
+      "full-b-06-08-03-9",
+      "full-b-06-08-03-10",
+      "full-b-06-08-00-b",
+      "full-b-06-11-01-5",
+      "full-b-06-11-01-6",
+      "full-b-06-13-00-9",
+      "full-b-06-13-00-10",
+      "full-b-06-13-00-11",
+      "full-b-06-13-00-13",
+      "full-b-06-13-00-15",
+      "full-b-06-13-00-16",
+      "full-b-06-13-00-17",
+      "full-b-06-13-00-18",
+      "full-b-06-13-00-19",
+      "full-b-06-14-02-5",
+      "full-b-06-15-00-6",
+      "full-b-06-16-00-7",
+      "dse-2018-1a-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8a1bfe17af34dfcb",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "託",
+    "fields": {
+      "詞義": "交付"
+    },
+    "context": "願陛下託臣以討賊興復之效；不效，則治臣之罪，以告先帝之靈。若無興德之言，則責攸之、禕、允等之慢，以彰其咎。陛下亦宜自謀，以諮諏善道，察納雅言，深追先帝遺詔。臣不勝受恩感激。今當遠離，臨表涕零，不知所言！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[8].blocks[3][1][0]",
+        "section": "第7段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-08-03-0"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0a6039bfa9d82ff5",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "效",
+    "fields": {
+      "詞義": "任務、重任"
+    },
+    "context": "願陛下託臣以討賊興復之效；不效，則治臣之罪，以告先帝之靈。若無興德之言，則責攸之、禕、允等之慢，以彰其咎。陛下亦宜自謀，以諮諏善道，察納雅言，深追先帝遺詔。臣不勝受恩感激。今當遠離，臨表涕零，不知所言！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[8].blocks[3][1][1]",
+        "section": "第7段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-08-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fedd850dce1c4f66",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "效",
+    "fields": {
+      "詞義": "成功、完成任務"
+    },
+    "context": "願陛下託臣以討賊興復之效；不效，則治臣之罪，以告先帝之靈。若無興德之言，則責攸之、禕、允等之慢，以彰其咎。陛下亦宜自謀，以諮諏善道，察納雅言，深追先帝遺詔。臣不勝受恩感激。今當遠離，臨表涕零，不知所言！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[8].blocks[3][1][2]",
+        "section": "第7段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-08-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-430e9eeae3c7837d",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "慢",
+    "fields": {
+      "詞義": "怠慢"
+    },
+    "context": "願陛下託臣以討賊興復之效；不效，則治臣之罪，以告先帝之靈。若無興德之言，則責攸之、禕、允等之慢，以彰其咎。陛下亦宜自謀，以諮諏善道，察納雅言，深追先帝遺詔。臣不勝受恩感激。今當遠離，臨表涕零，不知所言！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[8].blocks[3][1][3]",
+        "section": "第7段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-08-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9a7b8086f7daf53f",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "彰",
+    "fields": {
+      "詞義": "表明"
+    },
+    "context": "願陛下託臣以討賊興復之效；不效，則治臣之罪，以告先帝之靈。若無興德之言，則責攸之、禕、允等之慢，以彰其咎。陛下亦宜自謀，以諮諏善道，察納雅言，深追先帝遺詔。臣不勝受恩感激。今當遠離，臨表涕零，不知所言！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[8].blocks[3][1][4]",
+        "section": "第7段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-08-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d4e90d93bd458852",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "咎",
+    "fields": {
+      "詞義": "過失"
+    },
+    "context": "願陛下託臣以討賊興復之效；不效，則治臣之罪，以告先帝之靈。若無興德之言，則責攸之、禕、允等之慢，以彰其咎。陛下亦宜自謀，以諮諏善道，察納雅言，深追先帝遺詔。臣不勝受恩感激。今當遠離，臨表涕零，不知所言！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[8].blocks[3][1][5]",
+        "section": "第7段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-08-03-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a6324b943a6117e0",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "諮",
+    "fields": {
+      "詞義": "詢問"
+    },
+    "context": "願陛下託臣以討賊興復之效；不效，則治臣之罪，以告先帝之靈。若無興德之言，則責攸之、禕、允等之慢，以彰其咎。陛下亦宜自謀，以諮諏善道，察納雅言，深追先帝遺詔。臣不勝受恩感激。今當遠離，臨表涕零，不知所言！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[8].blocks[3][1][6]",
+        "section": "第7段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-08-03-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8efd355e0cd9df8b",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "諏",
+    "fields": {
+      "詞義": "詢問"
+    },
+    "context": "願陛下託臣以討賊興復之效；不效，則治臣之罪，以告先帝之靈。若無興德之言，則責攸之、禕、允等之慢，以彰其咎。陛下亦宜自謀，以諮諏善道，察納雅言，深追先帝遺詔。臣不勝受恩感激。今當遠離，臨表涕零，不知所言！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[8].blocks[3][1][7]",
+        "section": "第7段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-08-03-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-64f3709c8397c6df",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "雅言",
+    "fields": {
+      "詞義": "正確的言論"
+    },
+    "context": "願陛下託臣以討賊興復之效；不效，則治臣之罪，以告先帝之靈。若無興德之言，則責攸之、禕、允等之慢，以彰其咎。陛下亦宜自謀，以諮諏善道，察納雅言，深追先帝遺詔。臣不勝受恩感激。今當遠離，臨表涕零，不知所言！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[8].blocks[3][1][8]",
+        "section": "第7段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-08-03-8"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ce0a1fa7e8e583ee",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "感激",
+    "fields": {
+      "詞義": "感動奮發"
+    },
+    "context": "願陛下託臣以討賊興復之效；不效，則治臣之罪，以告先帝之靈。若無興德之言，則責攸之、禕、允等之慢，以彰其咎。陛下亦宜自謀，以諮諏善道，察納雅言，深追先帝遺詔。臣不勝受恩感激。今當遠離，臨表涕零，不知所言！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[8].blocks[3][1][9]",
+        "section": "第7段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-08-03-9"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4295c6afe7b54fd1",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "涕零",
+    "fields": {
+      "詞義": "流淚"
+    },
+    "context": "願陛下託臣以討賊興復之效；不效，則治臣之罪，以告先帝之靈。若無興德之言，則責攸之、禕、允等之慢，以彰其咎。陛下亦宜自謀，以諮諏善道，察納雅言，深追先帝遺詔。臣不勝受恩感激。今當遠離，臨表涕零，不知所言！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[8].blocks[3][1][10]",
+        "section": "第7段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-08-03-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4b5910449cb1de36",
+    "chapterId": "essay-06",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "自己負討賊興復責任，臣下須進盡忠言，後主也須自謀求諫。流淚臨表表現不捨與憂心，非只有個人悲傷。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[8].blocks[4]",
+        "section": "第7段｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[738].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[739].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[740].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[741].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[742].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[743].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[744].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[745].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[746].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[747].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[748].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[910].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[936].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[937].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1004].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1005].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1006].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1007].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1008].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1009].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1010].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1011].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1012].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1017].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1023].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-08-03-0",
+      "full-b-06-08-03-1",
+      "full-b-06-08-03-2",
+      "full-b-06-08-03-3",
+      "full-b-06-08-03-4",
+      "full-b-06-08-03-5",
+      "full-b-06-08-03-6",
+      "full-b-06-08-03-7",
+      "full-b-06-08-03-8",
+      "full-b-06-08-03-9",
+      "full-b-06-08-03-10",
+      "full-b-06-08-00-b",
+      "full-b-06-11-01-5",
+      "full-b-06-11-01-6",
+      "full-b-06-13-00-9",
+      "full-b-06-13-00-10",
+      "full-b-06-13-00-11",
+      "full-b-06-13-00-13",
+      "full-b-06-13-00-15",
+      "full-b-06-13-00-16",
+      "full-b-06-13-00-17",
+      "full-b-06-13-00-18",
+      "full-b-06-13-00-19",
+      "full-b-06-14-02-5",
+      "full-b-06-15-00-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6c4ae17a47c923a8",
+    "chapterId": "essay-06",
+    "category": "structure",
+    "title": "分析形勢",
+    "fields": {
+      "段落與內容": "第一段：先帝中崩、天下三分、益州疲弊；朝廷內外臣士盡忠",
+      "用意": "警醒後主危局，促其振作、整治內政，並指出尚有忠臣可用；不等於保證北伐必勝"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[9].blocks[0][1][1]",
+        "section": "結構、治國建議與責任（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-988a8942cac2fcc5",
+    "chapterId": "essay-06",
+    "category": "structure",
+    "title": "進言勸諫",
+    "fields": {
+      "段落與內容": "第二至五段：廣開言路、嚴明法度、薦用賢才、親賢遠佞",
+      "用意": "安頓後方，免北伐後顧之憂；三綱分法把薦才併入親賢，四項分法另列，不能漏實際任用安排"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[9].blocks[0][1][2]",
+        "section": "結構、治國建議與責任（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4855285cba0322e2",
+    "chapterId": "essay-06",
+    "category": "structure",
+    "title": "出師明志",
+    "fields": {
+      "段落與內容": "第六段：布衣本志、三顧受恩、臨危受任、託孤、夙夜憂歎、南征、北伐目標、與群臣分責",
+      "用意": "表白非求名利而報先帝忠後主，證明受信任及爭取後主支持；南定甲足说明時機"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[9].blocks[0][1][3]",
+        "section": "結構、治國建議與責任（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f3262f9e3d04d95c",
+    "chapterId": "essay-06",
+    "category": "structure",
+    "title": "臨別敘情",
+    "fields": {
+      "段落與內容": "第七段：自負討賊興復、群臣進言負責、後主自謀諮諏察納、臨表涕零",
+      "用意": "重申君臣各責、承先帝遺志，感情收束；交託文武不表示君主可以不理政"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[9].blocks[0][1][4]",
+        "section": "結構、治國建議與責任（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bebbbb91a31c387f",
+    "chapterId": "essay-06",
+    "category": "structure",
+    "title": "結構、治國建議與責任",
+    "fields": {
+      "內容": "廣開言路：「開張聖聽」可光先帝遺德、恢弘志士之氣；勿妄自菲薄、引喻失義，以免塞忠諫之路。賞罰公平：宮中與府中皆國家一體，作姦犯科者與盡忠為善者同交主管評定刑賞，不可偏私異法；是同一公平準則，並非善惡無別而同賞同罰。親賢遠佞：先漢因此興，後漢反之衰，以桓靈教訓警惕後主。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[9].blocks[1]",
+        "section": "結構、治國建議與責任（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-88264881889dac1d",
+    "chapterId": "essay-06",
+    "category": "structure",
+    "title": "宮中文臣",
+    "fields": {
+      "人選、資格和依據": "郭攸之、費禕、董允，良實忠純，先帝選拔留給後主",
+      "諮詢範圍與好處": "大小事悉咨後施行；彌補過失疏漏，政令更周詳完善、有所廣益"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[9].blocks[2][1][1]",
+        "section": "結構、治國建議與責任（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-09-02-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-49aa3dcf5750d407",
+    "chapterId": "essay-06",
+    "category": "structure",
+    "title": "營中武將",
+    "fields": {
+      "人選、資格和依據": "向寵性行淑均、曉暢軍事，先帝試用稱能，眾議舉督",
+      "諮詢範圍與好處": "軍事悉咨；行陣和睦、優劣得所，不同才能各獲合適崗位"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[9].blocks[2][1][2]",
+        "section": "結構、治國建議與責任（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-09-02-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fe77c89b03429d83",
+    "chapterId": "essay-06",
+    "category": "structure",
+    "title": "貞良死節諸臣",
+    "fields": {
+      "人選、資格和依據": "侍中、尚書、長史、參軍，忠貞能為節義而死",
+      "諮詢範圍與好處": "親近信任，可望漢室復興；不是只列名而不諮詢"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[9].blocks[2][1][3]",
+        "section": "結構、治國建議與責任（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-09-02-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2b8ad06239c1d320",
+    "chapterId": "essay-06",
+    "category": "structure",
+    "title": "結構、治國建議與責任",
+    "fields": {
+      "內容": "侍中、尚書、長史、參軍是可向後主進諫的臣職；前文薦才，這裏再要求向群臣諮詢。先帝尚在時也與諸葛亮談論桓、靈二帝的失政，藉共同反省的往事提醒後主親賢遠佞。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[10].blocks[0]",
+        "section": "結構、治國建議與責任（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-303853bf4f0e57be",
+    "chapterId": "essay-06",
+    "category": "structure",
+    "title": "結構、治國建議與責任",
+    "fields": {
+      "內容": "郭攸之等三次提及的作用：第四段安排出師後朝政，強調才幹忠貞、諮詢後施行；第六段定其斟酌政務損益、毫無保留進忠言的職責；第七段失職則問責、彰咎，呼應賞善罰惡並勸後主親賢納諫。推薦→分責→追責，有推進。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[10].blocks[1]",
+        "section": "結構、治國建議與責任（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4d7f99991eb358ae",
+    "chapterId": "essay-06",
+    "category": "structure",
+    "title": "結構、治國建議與責任",
+    "fields": {
+      "內容": "治國建議與北伐互相支持：後主廣開言路、賞罰公平、親賢遠佞，才能鞏固後方；諸葛亮則承擔討賊興漢的責任。受恩、受命的自述解釋他為何忠心報國，也使勸諫更真切。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[10].blocks[2]",
+        "section": "結構、治國建議與責任（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-162bc6ecff8c569b",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "之",
+    "fields": {
+      "原文短語": "宮中之事",
+      "本句意思／作用": "的。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[1][1][1]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-01-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1c0cffa613450ee7",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "之",
+    "fields": {
+      "原文短語": "悉以咨之（宮中之事）",
+      "本句意思／作用": "他們，指郭攸之、費禕、董允等。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[1][1][2]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-01-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8cbcaf34bdf18e3f",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "之",
+    "fields": {
+      "原文短語": "悉以咨之（營中之事）",
+      "本句意思／作用": "他，指向寵。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[1][1][3]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-01-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-113d55660c33a8ee",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "效",
+    "fields": {
+      "原文短語": "恐託付不效",
+      "本句意思／作用": "實現、完成；全句指恐怕不能完成先帝的託付。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[1][1][4]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-815f3e215c0af1e2",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "效",
+    "fields": {
+      "原文短語": "討賊興復之效",
+      "本句意思／作用": "任務、職責；按本句委託語境理解。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[1][1][5]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-01-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c079d445468034b0",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "效",
+    "fields": {
+      "原文短語": "不效，則治臣之罪",
+      "本句意思／作用": "成功。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[1][1][6]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-01-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-87dd4792b46015f8",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "所以",
+    "fields": {
+      "原文短語": "此先漢所以興隆也",
+      "本句意思／作用": "……的原因。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[1][1][7]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-61c19e0912fd39ca",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "所以",
+    "fields": {
+      "原文短語": "此臣所以報先帝而忠陛下之職分也",
+      "本句意思／作用": "用來……的；連句指報先帝、忠陛下的職責。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[1][1][8]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0301c04c2aa3996e",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "崩殂",
+    "fields": {
+      "原句定位": "而中道崩殂",
+      "意思與必要辨析": "皇帝死亡"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][1]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e7846bc31552dce1",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "中道",
+    "fields": {
+      "原句定位": "而中道崩殂",
+      "意思與必要辨析": "中途。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][2]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e786e8714e7f6727",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "創業",
+    "fields": {
+      "原句定位": "先帝創業未半",
+      "意思與必要辨析": "創建統一大業，非現代經商。劉備稱帝三年即亡"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][3]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-06376d5197c5748c",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "三分",
+    "fields": {
+      "原句定位": "今天下三分",
+      "意思與必要辨析": "魏蜀吳鼎立"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][4]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c627b8a332b89ef6",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "益州",
+    "fields": {
+      "原句定位": "益州疲弊",
+      "意思與必要辨析": "蜀漢所在地今四川一帶"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][5]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-90e17c3753c12a7f",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "疲弊",
+    "fields": {
+      "原句定位": "益州疲弊",
+      "意思與必要辨析": "人力物力／國力困乏"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][6]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6782972e8a0eb0fc",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "誠",
+    "fields": {
+      "原句定位": "此誠危急存亡之秋也",
+      "意思與必要辨析": "確實、實在"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][7]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2489cb7fc7370063",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "秋",
+    "fields": {
+      "原句定位": "此誠危急存亡之秋也",
+      "意思與必要辨析": "秋為時候、關鍵時刻，非本段季節"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][8]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-8"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fa6144520c5359c2",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "然",
+    "fields": {
+      "原句定位": "然侍衞之臣",
+      "意思與必要辨析": "然而"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][9]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-9"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7da84dc579e205e5",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "懈",
+    "fields": {
+      "原句定位": "不懈於內",
+      "意思與必要辨析": "懈怠"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][10]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-62677fcb8b0ecd98",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "內",
+    "fields": {
+      "原句定位": "不懈於內",
+      "意思與必要辨析": "朝廷內"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][11]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-11"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-34e89122ce718d97",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "忠志",
+    "fields": {
+      "原句定位": "忠志之士",
+      "意思與必要辨析": "忠誠"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][12]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-12"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-17a2bce9b9ff2af0",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "忘身",
+    "fields": {
+      "原句定位": "忘身於外者",
+      "意思與必要辨析": "奮不顧身、不怕犧牲"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][13]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9a19b82ecf151013",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "蓋",
+    "fields": {
+      "原句定位": "蓋追先帝之殊遇",
+      "意思與必要辨析": "蓋表原因，因為／由於"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][14]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-14"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-305438491d721da2",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "殊遇",
+    "fields": {
+      "原句定位": "蓋追先帝之殊遇",
+      "意思與必要辨析": "特別優厚待遇"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][15]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-15"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e60ee6ed775e5b23",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "欲報之於陛下",
+    "fields": {
+      "原句定位": "欲報之於陛下也",
+      "意思與必要辨析": "報答先帝恩遇在後主身上，先帝、陛下不混指"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][16]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-16"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3bf8b1bd871f0321",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "開張聖聽",
+    "fields": {
+      "原句定位": "誠宜開張聖聽",
+      "意思與必要辨析": "廣泛聽取群臣意見"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][17]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-17"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-04c98060ede2d710",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "光",
+    "fields": {
+      "原句定位": "以光先帝遺德",
+      "意思與必要辨析": "發揚光大。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][18]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e1d69468720fa1a7",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "恢弘",
+    "fields": {
+      "原句定位": "恢弘志士之氣",
+      "意思與必要辨析": "恢弘本大、此作動詞發揚擴大，激勵志士氣節"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][19]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-19"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3a1b260dcf51253f",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "妄",
+    "fields": {
+      "原句定位": "不宜妄自菲薄",
+      "意思與必要辨析": "胡亂"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][20]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-20"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4a22897b10682e58",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "自",
+    "fields": {
+      "原句定位": "不宜妄自菲薄",
+      "意思與必要辨析": "自己"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][21]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-21"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-41240cb4e9263349",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "菲薄",
+    "fields": {
+      "原句定位": "不宜妄自菲薄",
+      "意思與必要辨析": "輕視"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][22]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1ee1be7150938f36",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "引喻失義",
+    "fields": {
+      "原句定位": "引喻失義",
+      "意思與必要辨析": "引用不合道理的話，不可漏不合義理。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][23]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-23"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-242dea11407e8715",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "宮中",
+    "fields": {
+      "原句定位": "宮中、府中",
+      "意思與必要辨析": "內廷"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][24]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-24"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-25c976f2c796961a",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "府中",
+    "fields": {
+      "原句定位": "宮中、府中",
+      "意思與必要辨析": "丞相府，指外朝"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][25]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-25"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-63fefecd1bebaf73",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "有司",
+    "fields": {
+      "原句定位": "宜付有司",
+      "意思與必要辨析": "主管官員或部門"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][26]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cdb01ca04e83044f",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "異法",
+    "fields": {
+      "原句定位": "使內外異法也",
+      "意思與必要辨析": "採不同執法準則。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][27]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0a050d9b45537adf",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "陟罰臧否",
+    "fields": {
+      "原句定位": "陟罰臧否",
+      "意思與必要辨析": "交錯說「陟臧罰否」，賞善罰惡；陟升，罰懲罰；臧善或褒賞；否惡或貶斥，不作否定"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][28]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-adc95d0d0d96d365",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "作姦犯科",
+    "fields": {
+      "原句定位": "作姦犯科",
+      "意思與必要辨析": "為非作惡、干犯法紀"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][29]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-29"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cefe5412592bf650",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "姦",
+    "fields": {
+      "原句定位": "若有作姦、犯科",
+      "意思與必要辨析": "邪惡"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][30]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-30"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d5c06c5ca31d17d5",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "科",
+    "fields": {
+      "原句定位": "若有作姦、犯科",
+      "意思與必要辨析": "法律條文"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][31]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2de140883831cbde",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "為忠善",
+    "fields": {
+      "原句定位": "及為忠善者",
+      "意思與必要辨析": "盡忠為善。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][32]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-32"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5d8699e6c34f054a",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "昭",
+    "fields": {
+      "原句定位": "以昭陛下平明之治",
+      "意思與必要辨析": "彰顯"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][33]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-33"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-aed0a771e8210d6e",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "平明",
+    "fields": {
+      "原句定位": "以昭陛下平明之治",
+      "意思與必要辨析": "公正英明"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][34]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-34"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1c970508710c7901",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "治",
+    "fields": {
+      "原句定位": "以昭陛下平明之治",
+      "意思與必要辨析": "治理。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][35]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-86e1b4cfda775820",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "良實",
+    "fields": {
+      "原句定位": "此皆良實",
+      "意思與必要辨析": "善良忠實"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][36]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-36"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c4a1da78a505ddee",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "志慮",
+    "fields": {
+      "原句定位": "志慮忠純",
+      "意思與必要辨析": "志向心思"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][37]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-37"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f78baf76c8ef5b09",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "忠純",
+    "fields": {
+      "原句定位": "志慮忠純",
+      "意思與必要辨析": "忠誠純正"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][38]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-38"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e2ed811954606afe",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "簡拔",
+    "fields": {
+      "原句定位": "是以先帝簡拔以遺陛下",
+      "意思與必要辨析": "挑選提拔，簡通揀"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][39]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-39"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-00dba7327d8e373c",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "遺",
+    "fields": {
+      "原句定位": "簡拔以遺陛下",
+      "意思與必要辨析": "留給。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[11].blocks[2][1][40]",
+        "section": "字詞、語法與異文（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2714632513f7fb46",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "悉",
+    "fields": {
+      "原句定位": "悉以咨之",
+      "意思與必要辨析": "全部"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][1]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-06896f26d2cf1493",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "咨",
+    "fields": {
+      "原句定位": "悉以咨之",
+      "意思與必要辨析": "通諮，徵詢"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][2]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-12-00-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-025e998f8a616d68",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "裨補",
+    "fields": {
+      "原句定位": "必能裨補闕漏",
+      "意思與必要辨析": "彌補補益"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][3]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-27f50ec0f193937c",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "闕漏",
+    "fields": {
+      "原句定位": "必能裨補闕漏",
+      "意思與必要辨析": "缺憾與遺漏，闕通缺。之的指代見逐句辨析。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][4]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-12-00-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8c9a668411f59484",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "淑均",
+    "fields": {
+      "原句定位": "性行淑均",
+      "意思與必要辨析": "性情和善、品行公正"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][5]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-12-00-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-48aa13be239ed8a2",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "曉暢",
+    "fields": {
+      "原句定位": "曉暢軍事",
+      "意思與必要辨析": "熟悉通曉軍事"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][6]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-15c6d2671d022829",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "舉寵為督",
+    "fields": {
+      "原句定位": "是以眾議舉寵為督",
+      "意思與必要辨析": "推舉向寵擔任督，為是擔任。性行的行為品行"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][7]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-12-00-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-92fec18a7b041302",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "行陣",
+    "fields": {
+      "原句定位": "必能使行陣和睦",
+      "意思與必要辨析": "軍隊行列，指軍中將士。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][8]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-119aad5ca691e350",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "優劣得所",
+    "fields": {
+      "原句定位": "優劣得所",
+      "意思與必要辨析": "才能高低者各有適宜安排，非只用優者"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][9]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-12-00-9"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-906d230ae3652dbe",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "親",
+    "fields": {
+      "原句定位": "親賢臣",
+      "意思與必要辨析": "親近"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][10]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c55bdfd7664bf9a6",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "遠",
+    "fields": {
+      "原句定位": "遠小人",
+      "意思與必要辨析": "疏遠"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][11]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e1aee12a91c9ca8a",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "痛恨",
+    "fields": {
+      "原句定位": "未嘗不歎息痛恨於桓、靈也",
+      "意思與必要辨析": "痛心遺憾，不是仇恨。所以的關係見逐句辨析。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][12]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-12-00-12"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-06601362a1c5e3a8",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "桓、靈",
+    "fields": {
+      "原句定位": "未嘗不歎息痛恨於桓、靈也",
+      "意思與必要辨析": "東漢桓帝、靈帝"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][13]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-12-00-13"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-75925c3687cfb934",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "貞良",
+    "fields": {
+      "原句定位": "此悉貞良死節之臣",
+      "意思與必要辨析": "堅貞忠良"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][14]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-12-00-14"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-79619f4c4e875acc",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "死節",
+    "fields": {
+      "原句定位": "此悉貞良死節之臣",
+      "意思與必要辨析": "為節義而死"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][15]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1db53bb644ac2398",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "隆",
+    "fields": {
+      "原句定位": "此先漢所以興隆也",
+      "意思與必要辨析": "興盛"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][16]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-12-00-16"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9f8ed13ecee50382",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "計日",
+    "fields": {
+      "原句定位": "可計日而待也",
+      "意思與必要辨析": "計算日子，表示復興可期。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][17]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-12-00-17"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d01bec03f660ef27",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "布衣",
+    "fields": {
+      "原句定位": "臣本布衣",
+      "意思與必要辨析": "布衣是庶民衣服借代平民"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][18]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4579889c1fa610a9",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "躬",
+    "fields": {
+      "原句定位": "躬耕於南陽",
+      "意思與必要辨析": "躬親自"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][19]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a1b8b5d3a546d0f6",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "苟全",
+    "fields": {
+      "原句定位": "苟全性命於亂世",
+      "意思與必要辨析": "只求苟且保全性命"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][20]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-667b8b7d2a1445af",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "聞達",
+    "fields": {
+      "原句定位": "不求聞達於諸侯",
+      "意思與必要辨析": "聞名、顯達，不求名利"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][21]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4ebf0d907323a5f2",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "卑鄙",
+    "fields": {
+      "原句定位": "先帝不以臣卑鄙",
+      "意思與必要辨析": "卑鄙：地位低微、見識鄙陋"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][22]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-12-00-22"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3f41ffe179f244d7",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "猥",
+    "fields": {
+      "原句定位": "猥自枉屈",
+      "意思與必要辨析": "猥：謙辭，指降低身分"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][23]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-12-00-23"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4f154922921ce0cc",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "枉屈",
+    "fields": {
+      "原句定位": "猥自枉屈",
+      "意思與必要辨析": "枉屈：委屈、紆尊降貴"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][24]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-12-00-24"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a357d5d2aeaf9cf4",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "顧",
+    "fields": {
+      "原句定位": "三顧臣於草廬之中",
+      "意思與必要辨析": "顧：拜訪。「卑鄙」是自謙，並非現代品格惡劣之義。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][25]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-12-00-25"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-eecd6ffc24a23864",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "諮臣以當世之事",
+    "fields": {
+      "原句定位": "諮臣以當世之事",
+      "意思與必要辨析": "以當世之事諮臣，詢問天下大事"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][26]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-12-00-26"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5bdda2d114df0baa",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "感激",
+    "fields": {
+      "原句定位": "由是感激",
+      "意思與必要辨析": "感激古義感動激發、感動振奮"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][27]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-12-00-27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-aa7a1313f5a7cf2a",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "驅馳",
+    "fields": {
+      "原句定位": "遂許先帝以驅馳",
+      "意思與必要辨析": "驅馳奔走效勞"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][28]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c54f36604732c9ce",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "傾覆",
+    "fields": {
+      "原句定位": "後值傾覆",
+      "意思與必要辨析": "兵敗／遭嚴重挫折"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][29]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-12-00-29"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8df8826f2d9d726b",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "受任",
+    "fields": {
+      "原句定位": "受任於敗軍之際",
+      "意思與必要辨析": "接受委任。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][30]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-12-00-30"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a714d8388558758d",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "爾來",
+    "fields": {
+      "原句定位": "爾來二十有一年矣",
+      "意思與必要辨析": "從那時以來"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][31]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b4fcd73496ac401a",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "有",
+    "fields": {
+      "原句定位": "爾來二十有一年矣",
+      "意思與必要辨析": "通又，連接整數與零數。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][32]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-aa9da1eb04dc3a2d",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "臨崩寄臣以大事",
+    "fields": {
+      "原句定位": "故臨崩寄臣以大事也",
+      "意思與必要辨析": "臨終把大事託付我"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][33]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-12-00-33"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f8841628a2e5cda8",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "夙夜",
+    "fields": {
+      "原句定位": "夙夜憂歎",
+      "意思與必要辨析": "夙早，夙夜日夜"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][34]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-12-00-34"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-892dce728b5317f6",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "效",
+    "fields": {
+      "原句定位": "恐託付不效",
+      "意思與必要辨析": "實現、完成；全句指恐怕不能完成先帝的託付。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][35]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4b24259d226be204",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "明",
+    "fields": {
+      "原句定位": "以傷先帝之明",
+      "意思與必要辨析": "先帝知人之明。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][36]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-12-00-36"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6ecacf78273a6678",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "不毛",
+    "fields": {
+      "原句定位": "深入不毛",
+      "意思與必要辨析": "草木不生、荒涼貧瘠或未開發"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][37]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-12-00-37"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-215b971783ff34dc",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "兵甲",
+    "fields": {
+      "原句定位": "兵甲已足",
+      "意思與必要辨析": "武器軍備"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][38]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-12-00-38"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-87041164b8d365bc",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "獎率",
+    "fields": {
+      "原句定位": "當獎率三軍",
+      "意思與必要辨析": "鼓勵並率領"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[12].blocks[0][1][39]",
+        "section": "字詞、語法與異文（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-12-00-39"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e4b3b05a226a33b2",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "庶",
+    "fields": {
+      "原句定位": "庶竭駑鈍",
+      "意思與必要辨析": "希望"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[13].blocks[0][1][1]",
+        "section": "字詞、語法與異文（3）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ae17beddda907f70",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "竭",
+    "fields": {
+      "原句定位": "庶竭駑鈍",
+      "意思與必要辨析": "盡"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[13].blocks[0][1][2]",
+        "section": "字詞、語法與異文（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-13-00-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e4a5fdb8eb3f5231",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "駑鈍",
+    "fields": {
+      "原句定位": "庶竭駑鈍",
+      "意思與必要辨析": "比喻平庸才能，自謙"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[13].blocks[0][1][3]",
+        "section": "字詞、語法與異文（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-13-00-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9b39115a319ec176",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "攘除",
+    "fields": {
+      "原句定位": "攘除姦凶",
+      "意思與必要辨析": "剷除"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[13].blocks[0][1][4]",
+        "section": "字詞、語法與異文（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-13-00-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c4d78c95165310bf",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "姦凶",
+    "fields": {
+      "原句定位": "攘除姦凶",
+      "意思與必要辨析": "指曹魏勢力。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[13].blocks[0][1][5]",
+        "section": "字詞、語法與異文（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-13-00-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b725ac7dc68ba97f",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "舊都",
+    "fields": {
+      "原句定位": "還於舊都",
+      "意思與必要辨析": "舊日都城，本篇語譯採洛陽。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[13].blocks[0][1][6]",
+        "section": "字詞、語法與異文（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-13-00-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3630971f696fc059",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "斟酌損益",
+    "fields": {
+      "原句定位": "至於斟酌損益",
+      "意思與必要辨析": "反覆衡量取捨，損益指減少增加或利弊"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[13].blocks[0][1][7]",
+        "section": "字詞、語法與異文（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-13-00-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-63cf88712dad73c0",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "進盡忠言",
+    "fields": {
+      "原句定位": "進盡忠言",
+      "意思與必要辨析": "毫無保留地提出忠言。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[13].blocks[0][1][8]",
+        "section": "字詞、語法與異文（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-13-00-8"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-24661f11bbf3d122",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "討賊興復之效",
+    "fields": {
+      "原句定位": "願陛下託臣以討賊興復之效",
+      "意思與必要辨析": "討伐漢賊、復興漢室的任務或重任。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[13].blocks[0][1][9]",
+        "section": "字詞、語法與異文（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-13-00-9"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d318e8fddfd4d797",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "不效",
+    "fields": {
+      "原句定位": "不效，則治臣之罪",
+      "意思與必要辨析": "不成功。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[13].blocks[0][1][10]",
+        "section": "字詞、語法與異文（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-13-00-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e2fe3edbed23f4c5",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "興",
+    "fields": {
+      "原句定位": "若無興德之言",
+      "意思與必要辨析": "發揚德政。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[13].blocks[0][1][11]",
+        "section": "字詞、語法與異文（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-13-00-11"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3cfe76ec717c62b0",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "慢",
+    "fields": {
+      "原句定位": "則責攸之、禕、允等之慢",
+      "意思與必要辨析": "慢怠慢、失職"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[13].blocks[0][1][12]",
+        "section": "字詞、語法與異文（3）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ab907c1b424ec5b0",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "彰",
+    "fields": {
+      "原句定位": "以彰其咎",
+      "意思與必要辨析": "彰顯"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[13].blocks[0][1][13]",
+        "section": "字詞、語法與異文（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-13-00-13"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-510326757c38a0dd",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "咎",
+    "fields": {
+      "原句定位": "以彰其咎",
+      "意思與必要辨析": "咎過失。慢非速度慢"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[13].blocks[0][1][14]",
+        "section": "字詞、語法與異文（3）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-edbb16f54e536787",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "諮諏善道",
+    "fields": {
+      "原句定位": "以諮諏善道",
+      "意思與必要辨析": "詢問商討治國良策"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[13].blocks[0][1][15]",
+        "section": "字詞、語法與異文（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-13-00-15"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-80d106c368990f2e",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "察納雅言",
+    "fields": {
+      "原句定位": "察納雅言",
+      "意思與必要辨析": "審察採納正確合理的話，不只是文辭高雅。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[13].blocks[0][1][16]",
+        "section": "字詞、語法與異文（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-13-00-16"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b9582598fd5632cf",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "臨表",
+    "fields": {
+      "原句定位": "臨表涕零",
+      "意思與必要辨析": "面對奏表"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[13].blocks[0][1][17]",
+        "section": "字詞、語法與異文（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-13-00-17"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6b1c9167fd55a8ba",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "涕零",
+    "fields": {
+      "原句定位": "臨表涕零",
+      "意思與必要辨析": "涕眼淚、零落下"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[13].blocks[0][1][18]",
+        "section": "字詞、語法與異文（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-13-00-18"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-94c471871023f69d",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "不知所言",
+    "fields": {
+      "原句定位": "不知所言",
+      "意思與必要辨析": "臨別感激、思緒紛亂，不知說甚麼，是奏表的委婉結語。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[13].blocks[0][1][19]",
+        "section": "字詞、語法與異文（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-13-00-19"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3862284405323c11",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "字詞、語法與異文",
+    "fields": {
+      "內容": "常見句法關係："
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[13].blocks[1]",
+        "section": "字詞、語法與異文（3）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0ea3c8bcac538a5b",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "字詞、語法與異文",
+    "fields": {
+      "內容": "「是以眾議舉寵為督」是以＝因此，為＝擔任；「為國者無使為積威之所劫」第二為才表被動，「善為秦聲」為＝演奏。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[13].blocks[2]",
+        "section": "字詞、語法與異文（3）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d3b4852bab1c69f5",
+    "chapterId": "essay-06",
+    "category": "vocabulary",
+    "title": "字詞、語法與異文",
+    "fields": {
+      "內容": "「以光先帝遺德」的「以」表目的；「先帝不以臣卑鄙」的「以」表原因；「諮臣以當世之事」的「以」引出商議內容。同一字須連到整句的關係來判斷。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[13].blocks[3]",
+        "section": "字詞、語法與異文（3）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e5ece156940de522",
+    "chapterId": "essay-06",
+    "category": "character",
+    "title": "人物、情感、措辭與自述用意",
+    "fields": {
+      "內容": "諸葛亮四個性格角度各有事例：忠君愛國——受命以來鞠躬盡瘁怕負先帝託付；感恩圖報——蜀困乏仍奔走效勞、輔後主；知人善任——推薦忠貞文武並勸諮詢；處事謹慎——先平南方、再上表安排內政與薦才，解除北伐後顧之憂。三顧寫先帝禮待賢士、知人善用；託孤寫知人善用、胸懷大志，依事件分析，不能把全部美德不分事件填上。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[14].blocks[0]",
+        "section": "人物、情感、措辭與自述用意"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ff40912fbd19cc3f",
+    "chapterId": "essay-06",
+    "category": "character",
+    "title": "人物、情感、措辭與自述用意",
+    "fields": {
+      "內容": "反覆十三次「先帝」，連臣士報恩、先帝簡拔、先漢後漢教訓、三顧託孤和遺志：借嚴父威望使後主接納、自警；勉繼父志復漢；提示創業艱辛、危局須謹慎守業；把對先帝忠誠移到劉禪身上。末段「臨表涕零」表忠誠與離別不捨，真情服務進諫。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[14].blocks[1]",
+        "section": "人物、情感、措辭與自述用意"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-688063dd5f66ad62",
+    "chapterId": "essay-06",
+    "category": "character",
+    "title": "君臣語",
+    "fields": {
+      "具體句例": "「欲報之於陛下也」",
+      "身分、分寸與作用": "臣下報恩效忠令後主安心；又指出暗示臣士盡忠因先帝殊遇，不是後主已英明，有警醒繼業之意"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[14].blocks[2][1][1]",
+        "section": "人物、情感、措辭與自述用意"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-14-02-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3b039bd0b6fba0b6",
+    "chapterId": "essay-06",
+    "category": "character",
+    "title": "君臣語",
+    "fields": {
+      "具體句例": "「愚以為宮中之事……必能裨補闕漏」",
+      "身分、分寸與作用": "愚以為自謙、必能有信心，恭敬委婉又有力，非命令"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[14].blocks[2][1][2]",
+        "section": "人物、情感、措辭與自述用意"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-14-02-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3b2bda2e769221be",
+    "chapterId": "essay-06",
+    "category": "character",
+    "title": "君臣語",
+    "fields": {
+      "具體句例": "「願陛下親之、信之」",
+      "身分、分寸與作用": "尊君身份、恭敬表願，較易接受"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[14].blocks[2][1][3]",
+        "section": "人物、情感、措辭與自述用意"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-14-02-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-33d06547cae13f19",
+    "chapterId": "essay-06",
+    "category": "character",
+    "title": "父子語",
+    "fields": {
+      "具體句例": "「誠宜開張聖聽……不宜妄自菲薄」",
+      "身分、分寸與作用": "以長輩教治國之方，循循善誘，仍用宜／不宜而不恃先帝命嚴斥"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[14].blocks[2][1][4]",
+        "section": "人物、情感、措辭與自述用意"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-14-02-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6b6fbf3114fd1b14",
+    "chapterId": "essay-06",
+    "category": "character",
+    "title": "父子語",
+    "fields": {
+      "具體句例": "「陛下亦宜自謀……深追先帝遺詔」",
+      "身分、分寸與作用": "勸勉叮嚀、真切親近；雖有陛下，仍判父子語，不能只憑稱謂分類"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[14].blocks[2][1][5]",
+        "section": "人物、情感、措辭與自述用意"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-14-02-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-eaa064100ccd0990",
+    "chapterId": "essay-06",
+    "category": "character",
+    "title": "人物、情感、措辭與自述用意",
+    "fields": {
+      "內容": "兼臣子與長輩，令表既启發誘導、不失君臣禮，又能清楚談時局主張、不使後主不悅；不老氣橫秋，也不低聲下氣敷衍。浦起龍《古文眉詮》以伊尹頻稱先王、武鄉頻引先帝比較，說兼聖賢氣象與骨肉恩情，似老家人出外叮嚀幼主人、聲淚俱下。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[14].blocks[3]",
+        "section": "人物、情感、措辭與自述用意"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d7c039398e13228b",
+    "chapterId": "essay-06",
+    "category": "character",
+    "title": "人物、情感、措辭與自述用意",
+    "fields": {
+      "內容": "「深追先帝遺詔」把結尾再次連回先帝。「受恩感激」可從承受先帝知遇、對後主寄望兩方面理解；全文始終把報答先帝與輔助後主連在一起。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[14].blocks[4]",
+        "section": "人物、情感、措辭與自述用意"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1fe802b4c43babc2",
+    "chapterId": "essay-06",
+    "category": "technique",
+    "title": "說之以理、形勢分析",
+    "fields": {
+      "原句或例證": "先帝中崩、天下三分、益州疲弊及臣士盡忠",
+      "運用和效果": "以危局及可用條件警醒後主，因勢利導安內、為北伐鋪墊"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[15].blocks[0][1][1]",
+        "section": "手法、修辭、語言風格（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-15-00-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-73560b0642c7c8f0",
+    "chapterId": "essay-06",
+    "category": "technique",
+    "title": "正反論證／對比",
+    "fields": {
+      "原句或例證": "「誠宜開張聖聽」對「不宜妄自菲薄」",
+      "運用和效果": "正面指宜廣聽，反面戒堵言路，具體明示方法禁忌"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[15].blocks[0][1][2]",
+        "section": "手法、修辭、語言風格（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-15-00-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c877bd1081d7cddc",
+    "chapterId": "essay-06",
+    "category": "technique",
+    "title": "正反論證／對比",
+    "fields": {
+      "原句或例證": "「宜付有司，論其刑賞」對「不宜偏私」",
+      "運用和效果": "正面交主管公平評定，反面禁內外異法，強調公平準則"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[15].blocks[0][1][3]",
+        "section": "手法、修辭、語言風格（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-15-00-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2441ec86f21df43b",
+    "chapterId": "essay-06",
+    "category": "technique",
+    "title": "身世對比",
+    "fields": {
+      "原句或例證": "本為布衣、苟全不求聞達，對受命後夙夜憂歎",
+      "運用和效果": "由無意從政到盡忠效勞，顯知遇恩深與報恩決心"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[15].blocks[0][1][4]",
+        "section": "手法、修辭、語言風格（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-15-00-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1e24eb8c7533c527",
+    "chapterId": "essay-06",
+    "category": "technique",
+    "title": "動之以情、敘事抒情",
+    "fields": {
+      "原句或例證": "三顧、託孤、受任危難；十三次先帝",
+      "運用和效果": "以真摯報恩心跡及父子情打動後主，爭取信任與納諫"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[15].blocks[0][1][5]",
+        "section": "手法、修辭、語言風格（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-15-00-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a300329335cbb04f",
+    "chapterId": "essay-06",
+    "category": "technique",
+    "title": "直接抒情",
+    "fields": {
+      "原句或例證": "「今當遠離，臨表涕零，不知所言」",
+      "運用和效果": "直寫涕泣與不捨，忠誠真情流露"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[15].blocks[0][1][6]",
+        "section": "手法、修辭、語言風格（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-15-00-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-19724fb789e6540f",
+    "chapterId": "essay-06",
+    "category": "technique",
+    "title": "似離實接、先理後情",
+    "fields": {
+      "原句或例證": "由薦他人轉臣本布衣，由形勢建議轉自白",
+      "運用和效果": "看似國事轉私事，實以自白加強勸諫，層次分明、主次有序"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[15].blocks[0][1][7]",
+        "section": "手法、修辭、語言風格（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-15-00-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5be24a38908a3e11",
+    "chapterId": "essay-06",
+    "category": "technique",
+    "title": "借喻",
+    "fields": {
+      "原句或例證": "「庶竭駑鈍」",
+      "運用和效果": "駑馬、鈍刀比平庸才能，自謙而願盡力"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[15].blocks[0][1][8]",
+        "section": "手法、修辭、語言風格（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-15-00-8"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ef002ee0dc11a0b9",
+    "chapterId": "essay-06",
+    "category": "technique",
+    "title": "借喻（延伸理解）",
+    "fields": {
+      "原句或例證": "「危急存亡之秋」",
+      "運用和效果": "以農收秋季喻重要時期；詞解仍時候，不把秋景補入正文"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[15].blocks[0][1][9]",
+        "section": "手法、修辭、語言風格（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "multiple-interpretations",
+      "notes": [
+        "原书标作借喻的延伸理解；秋的时刻义另有词解题。修辞分类不作为唯一判分依据，保留此延伸说明待核。"
+      ]
+    }
+  },
+  {
+    "id": "k-c1b9ce6e52f5f3d0",
+    "chapterId": "essay-06",
+    "category": "technique",
+    "title": "借代",
+    "fields": {
+      "原句或例證": "益州、行陣、布衣、不毛、兵甲",
+      "運用和效果": "分代蜀漢、軍隊、平民、荒蕪之地、兵器裝備；"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[15].blocks[0][1][10]",
+        "section": "手法、修辭、語言風格（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-15-00-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4bc3d56575baa411",
+    "chapterId": "essay-06",
+    "category": "technique",
+    "title": "擬物",
+    "fields": {
+      "原句或例證": "「遂許先帝以驅馳」",
+      "運用和效果": "以馬匹車馬奔走形容自己效勞，表自謙報恩"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[15].blocks[0][1][11]",
+        "section": "手法、修辭、語言風格（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-15-00-11"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ddc00b62b8c2be2d",
+    "chapterId": "essay-06",
+    "category": "technique",
+    "title": "頂真",
+    "fields": {
+      "原句或例證": "「宮中之事，事無大小」",
+      "運用和效果": "事字銜接，連貫引出全面諮詢"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[16].blocks[0][1][1]",
+        "section": "手法、修辭、語言風格（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-16-00-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6d5d2b1466f40fb7",
+    "chapterId": "essay-06",
+    "category": "technique",
+    "title": "層遞",
+    "fields": {
+      "原句或例證": "獎率三軍、北定中原、攘除姦凶、興復漢室、還於舊都",
+      "運用和效果": "從率軍北上剷敵推進到復國返都，目標明確、條理清楚"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[16].blocks[0][1][2]",
+        "section": "手法、修辭、語言風格（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-16-00-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-daaadb61e7a9035c",
+    "chapterId": "essay-06",
+    "category": "technique",
+    "title": "對偶",
+    "fields": {
+      "原句或例證": "「侍衞之臣，不懈於內；忠志之士，忘身於外」",
+      "運用和效果": "內外盡忠相對，文勢整齊，呈臣士共同報恩"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[16].blocks[0][1][3]",
+        "section": "手法、修辭、語言風格（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-16-00-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0487dfd8cb83a5ba",
+    "chapterId": "essay-06",
+    "category": "technique",
+    "title": "對偶",
+    "fields": {
+      "原句或例證": "「親賢臣，遠小人……；親小人，遠賢臣……」",
+      "運用和效果": "相稱句式突出用人與國運截然不同"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[16].blocks[0][1][4]",
+        "section": "手法、修辭、語言風格（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-16-00-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cddfd38053fa62b0",
+    "chapterId": "essay-06",
+    "category": "technique",
+    "title": "對偶",
+    "fields": {
+      "原句或例證": "「苟全性命於亂世，不求聞達於諸侯」",
+      "運用和效果": "並呈保命不求名的淡泊原志"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[16].blocks[0][1][5]",
+        "section": "手法、修辭、語言風格（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-16-00-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2d9b7715af0b265f",
+    "chapterId": "essay-06",
+    "category": "technique",
+    "title": "對偶",
+    "fields": {
+      "原句或例證": "「受任於敗軍之際，奉命於危難之間」",
+      "運用和效果": "受任奉命及艱危時勢相對，顯患難承擔"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[16].blocks[0][1][6]",
+        "section": "手法、修辭、語言風格（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-16-00-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-905c67f5293062cb",
+    "chapterId": "essay-06",
+    "category": "technique",
+    "title": "寬對、駢散結合",
+    "fields": {
+      "原句或例證": "「南方已定，兵甲已足」「獎率三軍，北定中原」「庶竭駑鈍，攘除姦凶」「興復漢室，還於舊都」「諮諏善道，察納雅言」",
+      "運用和效果": "散文穿四字句、寬對，自然不刻意求工，莊雅多變、樸素淡雅"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[16].blocks[0][1][7]",
+        "section": "手法、修辭、語言風格（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-16-00-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4ac2607587b75b00",
+    "chapterId": "essay-06",
+    "category": "technique",
+    "title": "平實、不用典",
+    "fields": {
+      "原句或例證": "「臣本布衣……遂許先帝以驅馳」",
+      "運用和效果": "自述真实經歷，真厚無隱、不以典故藻飾堆砌；三顧是本人經歷，不同於後世詩引用此事作典"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[16].blocks[0][1][8]",
+        "section": "手法、修辭、語言風格（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-16-00-8"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-aa2e6b57cc1fa0f9",
+    "chapterId": "essay-06",
+    "category": "technique",
+    "title": "手法、修辭、語言風格",
+    "fields": {
+      "內容": "敘事交代受恩受命，議論提出治國與北伐建議，抒情表達報恩效忠，三者互相支持。理解心志時，應回到本篇的「報先帝而忠陛下」等原句。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[16].blocks[1]",
+        "section": "手法、修辭、語言風格（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-68b985aa1c4c9496",
+    "chapterId": "essay-06",
+    "category": "exam",
+    "title": "歷年考查提示",
+    "fields": {
+      "內容": "下表列出歷年考查的知識方向；題目、答案與適用條件見配套考查索引。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[17].blocks[0]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6916580838ce5cb0",
+    "chapterId": "essay-06",
+    "category": "exam",
+    "title": "2018",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "字詞：否的語境義"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[17].blocks[1][1][1]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-01c60edb53369a32",
+    "chapterId": "essay-06",
+    "category": "exam",
+    "title": "2018",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "內容與人物：重用人才對宮中、營中的好處"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[17].blocks[1][1][2]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2c82de65c7cd3aef",
+    "chapterId": "essay-06",
+    "category": "exam",
+    "title": "2018",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "推論判斷：從忠告反推後主缺失"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[17].blocks[1][1][3]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-96131a0eeb63cf77",
+    "chapterId": "essay-06",
+    "category": "exam",
+    "title": "2018",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "文體與表達：表的文體與個人感情，舉例說明用意"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[17].blocks[1][1][4]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c644fbbf5dd0341f",
+    "chapterId": "essay-06",
+    "category": "exam",
+    "title": "2019",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "字詞：躬"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[17].blocks[1][1][5]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-efbbdcf6f1be8c95",
+    "chapterId": "essay-06",
+    "category": "exam",
+    "title": "2020",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "字詞：悉"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[17].blocks[1][1][6]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c149b869a27d71a1",
+    "chapterId": "essay-06",
+    "category": "exam",
+    "title": "2022",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "虛詞比較：者的用法，含主句及跨篇選項；不代表每篇均為主考"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[17].blocks[1][1][7]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e15abf48bde7e2d2",
+    "chapterId": "essay-06",
+    "category": "exam",
+    "title": "2025",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "字詞：卑"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[17].blocks[1][1][8]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9d5f38ef60a9fb7a",
+    "chapterId": "essay-06",
+    "category": "exam",
+    "title": "2025",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "虛詞比較：以的用法，含四篇選項"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[17].blocks[1][1][9]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c1b14e9ba379e9a1",
+    "chapterId": "essay-06",
+    "category": "structure",
+    "title": "章末串連｜重建全文",
+    "fields": {
+      "內容": "內政、出征與報恩相連：後主治好國家，諸葛亮才可承命北伐，共同完成先帝遺志。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[18].blocks[0]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c5272f88c084105f",
+    "chapterId": "essay-06",
+    "category": "structure",
+    "title": "先定處境",
+    "fields": {
+      "怎樣連起來": "危急與忠臣不懈並寫，既說有危機，也說仍有可用之人。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[18].blocks[1][1][1]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bd883a3b7921f4e7",
+    "chapterId": "essay-06",
+    "category": "structure",
+    "title": "分工互補",
+    "fields": {
+      "怎樣連起來": "廣開言路、賞罰公平、親賢遠佞是後主之責；討賊興復是諸葛亮之任。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[18].blocks[1][1][2]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9c242afb56a1da72",
+    "chapterId": "essay-06",
+    "category": "structure",
+    "title": "以情支撐勸諫",
+    "fields": {
+      "怎樣連起來": "三顧、危難受命、臨終託付說明忠誠由來；結尾分列責任，再以流涕收束。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[5].pages[18].blocks[1][1][3]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ae3a1df7058961c0",
+    "chapterId": "essay-06",
+    "category": "technique",
+    "title": "比喻",
+    "fields": {
+      "內容": "比喻把兩種不同而具有相似點的事物聯繫起來。本體是要說明的對象，喻體是用來作比的事物。明喻常用「如、似、猶」等喻詞；暗喻以「是、為」等把兩者連起來；借喻只出現喻體。辨析時須指出相似點和具體作用。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[734].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[998].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-07-03-5",
+      "full-b-06-13-00-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-783766c65d3d9187",
+    "chapterId": "essay-06",
+    "category": "theme",
+    "title": "舉例與引用",
+    "fields": {
+      "內容": "舉例以具體事實、人物或事件支持道理；引用借用前人話語或文獻作依據。兩者可以在同一段並用，須按題目所問的範圍辨認，並說明例子或引語支持哪個論點。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[957].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-11-02-23"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a503e17e01a1b35d",
+    "chapterId": "essay-06",
+    "category": "technique",
+    "title": "借代",
+    "fields": {
+      "內容": "借代利用事物之間的關聯，以特徵、部分、材料或相關事物代替本體。比喻依靠相似，借代依靠關聯。答題要說明代指對象及兩者關係。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1026].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-15-00-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0c02a1666e5d3665",
+    "chapterId": "essay-06",
+    "category": "theme",
+    "title": "押韻與韻腳",
+    "fields": {
+      "內容": "韻腳是詩句末尾用來押韻的字。律詩一般偶數句押韻，首句可入韻，也可不入韻；不能把每句最後一字都當作韻腳。判斷古詩用韻要留意古音及韻部，不能只按現代普通話讀音。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1034].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-16-00-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-669bb56312e8fa6e",
+    "chapterId": "essay-06",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "三顧、危難受任、臨崩託付連成報恩的原因；南方已定、兵甲已足是出師條件。「駑鈍」是自謙。\n自己負討賊興復責任，臣下須進盡忠言，後主也須自謀求諫。流淚臨表表現不捨與憂心，非只有個人悲傷。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1034].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-16-00-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-807a1084752a325e",
+    "chapterId": "essay-06",
+    "category": "technique",
+    "title": "用典",
+    "fields": {
+      "內容": "用典是引用或化用前人語句、故事，把既有含義帶入作品。分析時依次說明典故出處、原來意思、作者如何沿用或轉化，以及它表達的情感志趣。只寫「用了典故」未能交代作用。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1035].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-06-16-00-8"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8f8ddc2e07002d6f",
+    "chapterId": "essay-06",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "先帝未成大業而亡、天下三分、益州疲弊是危機；內臣不懈、外士忘身是有利條件，並非全段只說悲觀。\n開張聖聽與妄自菲薄、引喻失義形成正反兩面。後兩者會堵塞忠諫之路，與求諫的目的相反。\n受賞或受罰都應交主管官員評議；「不宜異同」是不能有不同標準，不是善惡一概相同處理。\n郭攸之等忠純良實，向寵熟悉軍事；先交代理由，再說補漏、廣益或軍隊和睦等好處。\n先漢興與後漢頹正反相對；再提先帝歎息，使歷史道理和父子情感一起支持勸諫。\n三顧、危難受任、臨崩託付連成報恩的原因；南方已定、兵甲已足是出師條件。「駑鈍」是自謙。\n自己負討賊興復責任，臣下須進盡忠言，後主也須自謀求諫。流淚臨表表現不捨與憂心，非只有個人悲傷。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2135].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "dse-2018-1a-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  }
+]

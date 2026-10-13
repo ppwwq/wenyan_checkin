@@ -1,0 +1,6164 @@
+[
+  {
+    "id": "k-24892f3c6b643262",
+    "chapterId": "essay-03",
+    "category": "background",
+    "title": "作者與題旨",
+    "fields": {
+      "作者": "荀子"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].author",
+        "section": "勸學"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bcb79b23aa9fe654",
+    "chapterId": "essay-03",
+    "category": "theme",
+    "title": "一句話題旨",
+    "fields": {
+      "題旨": "學習與積累"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].desc",
+        "section": "勸學"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c85a08f78f21e90c",
+    "chapterId": "essay-03",
+    "category": "background",
+    "title": "作者、時代與文體",
+    "fields": {
+      "資料": "荀子｜戰國｜論說文"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[0].blocks[0]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-127b2fb030ce5c2f",
+    "chapterId": "essay-03",
+    "category": "theme",
+    "title": "荀子｜戰國｜論說文",
+    "fields": {
+      "內容": "學習不能停止；透過後天學習、借助外物、積累、恆心和專一來完善自己。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[0].blocks[1]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9efa8f6b81d5223f",
+    "chapterId": "essay-03",
+    "category": "structure",
+    "title": "內容線索",
+    "fields": {
+      "內容": "學習能改造提升→善假於物→積累、恆心、專一"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[0].blocks[3]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c82b030eabc55fd2",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "理解關鍵",
+    "fields": {
+      "內容": "天資不同不等於成就已定；反省和持續實踐不可省略。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[0].blocks[5]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-608c374f13cec590",
+    "chapterId": "essay-03",
+    "category": "background",
+    "title": "題解與文體",
+    "fields": {
+      "內容": "荀子重後天教育與修德；「偽」指人為努力，並非虛偽。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[0].blocks[7]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1f1520dac3ff306b",
+    "chapterId": "essay-03",
+    "category": "theme",
+    "title": "句段核心：第1段｜原文與語譯",
+    "fields": {
+      "重點": "後天學習能改造提升，博學反省使知明行無過。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[1].core",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-81daff23d62e7b3d",
+    "chapterId": "essay-03",
+    "category": "text",
+    "title": "第1段｜原文與語譯",
+    "fields": {
+      "原文": "君子曰：學不可以已。青，取之於藍，而青於藍；冰，水為之，而寒於水。木直中繩，輮以為輪，其曲中規；雖有槁暴、不復挺者，輮使之然也。故木受繩則直，金就礪則利，君子博學而日參省乎己，則知明而行無過矣。"
+    },
+    "context": "君子曰：學不可以已。青，取之於藍，而青於藍；冰，水為之，而寒於水。木直中繩，輮以為輪，其曲中規；雖有槁暴、不復挺者，輮使之然也。故木受繩則直，金就礪則利，君子博學而日參省乎己，則知明而行無過矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[1].blocks[0]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e03-exp-001",
+      "q-e03-exp-002",
+      "q-e03-exp-007",
+      "full-a-e03-p01-b00-v01",
+      "full-a-e03-p01-b00-v02",
+      "full-a-e03-p01-b00-v03",
+      "full-a-e03-p01-b00-v04",
+      "full-a-e03-p01-b00-v05",
+      "full-a-e03-p01-b00-v06",
+      "full-a-e03-p01-b00-v07",
+      "full-a-e03-p01-b00-v08",
+      "full-a-e03-p01-b00-v09",
+      "full-a-e03-p01-b00-v10",
+      "full-a-e03-p01-b00-v11",
+      "full-a-e03-p01-b00-v12",
+      "full-a-e03-p01-b00-v14",
+      "full-a-e03-p01-b00-v15",
+      "full-a-e03-p01-b00-v16",
+      "full-a-e03-p01-b00-v17",
+      "full-a-e03-p01-b00-v18",
+      "full-a-e03-p01-b00-v19",
+      "full-a-e03-p01-b00-translation",
+      "full-a-e03-p06-b00-c01",
+      "full-a-e03-p06-b00-c02",
+      "full-a-e03-p06-b00-c03",
+      "full-a-e03-p08-b03-concept",
+      "full-a-e03-p09-b01-g01",
+      "full-a-e03-p09-b01-g02",
+      "full-a-e03-p09-b01-g08",
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p05-b00-x003",
+      "dse-2018-1a-4",
+      "dse-2023-1a-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9065ff86ccd663fb",
+    "chapterId": "essay-03",
+    "category": "text",
+    "title": "第1段｜原文與語譯",
+    "fields": {
+      "語譯": "君子說：學習不可以停止。靛青色，是從蓼藍中提煉出來的，卻比蓼藍還要深；冰，由水凝結而成，卻比水還要冷。木材筆直符合墨線的標準，用火烘烤它使它彎曲成為車輪，它的彎度符合圓規的標準；即使再曬乾，也不會回復挺直，這是因為經過火烘烤使它變成這樣的。所以木材經過墨線校正就能取直，刀劍在磨刀石上磨過就變得鋒利，君子廣泛地學習並且每天檢驗反省自己，就能智慧聰明，行為不會有過失了。"
+    },
+    "context": "君子曰：學不可以已。青，取之於藍，而青於藍；冰，水為之，而寒於水。木直中繩，輮以為輪，其曲中規；雖有槁暴、不復挺者，輮使之然也。故木受繩則直，金就礪則利，君子博學而日參省乎己，則知明而行無過矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[1].blocks[2]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e03-exp-001",
+      "q-e03-exp-002",
+      "q-e03-exp-007",
+      "full-a-e03-p01-b00-v01",
+      "full-a-e03-p01-b00-v02",
+      "full-a-e03-p01-b00-v03",
+      "full-a-e03-p01-b00-v04",
+      "full-a-e03-p01-b00-v05",
+      "full-a-e03-p01-b00-v06",
+      "full-a-e03-p01-b00-v07",
+      "full-a-e03-p01-b00-v08",
+      "full-a-e03-p01-b00-v09",
+      "full-a-e03-p01-b00-v10",
+      "full-a-e03-p01-b00-v11",
+      "full-a-e03-p01-b00-v12",
+      "full-a-e03-p01-b00-v14",
+      "full-a-e03-p01-b00-v15",
+      "full-a-e03-p01-b00-v16",
+      "full-a-e03-p01-b00-v17",
+      "full-a-e03-p01-b00-v18",
+      "full-a-e03-p01-b00-v19",
+      "full-a-e03-p01-b00-translation",
+      "full-a-e03-p06-b00-c01",
+      "full-a-e03-p06-b00-c02",
+      "full-a-e03-p06-b00-c03",
+      "full-a-e03-p08-b03-concept",
+      "full-a-e03-p09-b01-g01",
+      "full-a-e03-p09-b01-g02",
+      "full-a-e03-p09-b01-g08",
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p05-b00-x003",
+      "dse-2018-1a-4",
+      "dse-2023-1a-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-31e8eb06ebef73d5",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "已",
+    "fields": {
+      "詞義": "停止"
+    },
+    "context": "君子曰：學不可以已。青，取之於藍，而青於藍；冰，水為之，而寒於水。木直中繩，輮以為輪，其曲中規；雖有槁暴、不復挺者，輮使之然也。故木受繩則直，金就礪則利，君子博學而日參省乎己，則知明而行無過矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[1].blocks[3][1][0]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e33aae1fa4d4dd6d",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "藍",
+    "fields": {
+      "詞義": "蓼藍草"
+    },
+    "context": "君子曰：學不可以已。青，取之於藍，而青於藍；冰，水為之，而寒於水。木直中繩，輮以為輪，其曲中規；雖有槁暴、不復挺者，輮使之然也。故木受繩則直，金就礪則利，君子博學而日參省乎己，則知明而行無過矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[1].blocks[3][1][1]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5ca62ffee89bec62",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "於",
+    "fields": {
+      "詞義": "比"
+    },
+    "context": "君子曰：學不可以已。青，取之於藍，而青於藍；冰，水為之，而寒於水。木直中繩，輮以為輪，其曲中規；雖有槁暴、不復挺者，輮使之然也。故木受繩則直，金就礪則利，君子博學而日參省乎己，則知明而行無過矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[1].blocks[3][1][2]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f3222a33f9583903",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "中",
+    "fields": {
+      "詞義": "符合"
+    },
+    "context": "君子曰：學不可以已。青，取之於藍，而青於藍；冰，水為之，而寒於水。木直中繩，輮以為輪，其曲中規；雖有槁暴、不復挺者，輮使之然也。故木受繩則直，金就礪則利，君子博學而日參省乎己，則知明而行無過矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[1].blocks[3][1][3]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-41bb0bf04824d1b9",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "繩",
+    "fields": {
+      "詞義": "墨線"
+    },
+    "context": "君子曰：學不可以已。青，取之於藍，而青於藍；冰，水為之，而寒於水。木直中繩，輮以為輪，其曲中規；雖有槁暴、不復挺者，輮使之然也。故木受繩則直，金就礪則利，君子博學而日參省乎己，則知明而行無過矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[1].blocks[3][1][4]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-700d15111a7cc58f",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "輮",
+    "fields": {
+      "詞義": "烘木使彎曲"
+    },
+    "context": "君子曰：學不可以已。青，取之於藍，而青於藍；冰，水為之，而寒於水。木直中繩，輮以為輪，其曲中規；雖有槁暴、不復挺者，輮使之然也。故木受繩則直，金就礪則利，君子博學而日參省乎己，則知明而行無過矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[1].blocks[3][1][5]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d44fb38c7a509747",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "規",
+    "fields": {
+      "詞義": "圓規"
+    },
+    "context": "君子曰：學不可以已。青，取之於藍，而青於藍；冰，水為之，而寒於水。木直中繩，輮以為輪，其曲中規；雖有槁暴、不復挺者，輮使之然也。故木受繩則直，金就礪則利，君子博學而日參省乎己，則知明而行無過矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[1].blocks[3][1][6]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-99f682ac55ff6743",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "雖",
+    "fields": {
+      "詞義": "即使"
+    },
+    "context": "君子曰：學不可以已。青，取之於藍，而青於藍；冰，水為之，而寒於水。木直中繩，輮以為輪，其曲中規；雖有槁暴、不復挺者，輮使之然也。故木受繩則直，金就礪則利，君子博學而日參省乎己，則知明而行無過矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[1].blocks[3][1][7]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-359cb7cd42ef7954",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "有",
+    "fields": {
+      "詞義": "通又，再"
+    },
+    "context": "君子曰：學不可以已。青，取之於藍，而青於藍；冰，水為之，而寒於水。木直中繩，輮以為輪，其曲中規；雖有槁暴、不復挺者，輮使之然也。故木受繩則直，金就礪則利，君子博學而日參省乎己，則知明而行無過矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[1].blocks[3][1][8]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ec0ff018a115347d",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "槁",
+    "fields": {
+      "詞義": "乾枯"
+    },
+    "context": "君子曰：學不可以已。青，取之於藍，而青於藍；冰，水為之，而寒於水。木直中繩，輮以為輪，其曲中規；雖有槁暴、不復挺者，輮使之然也。故木受繩則直，金就礪則利，君子博學而日參省乎己，則知明而行無過矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[1].blocks[3][1][9]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-29bb9f8c5930951e",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "暴",
+    "fields": {
+      "詞義": "通曝，日曬"
+    },
+    "context": "君子曰：學不可以已。青，取之於藍，而青於藍；冰，水為之，而寒於水。木直中繩，輮以為輪，其曲中規；雖有槁暴、不復挺者，輮使之然也。故木受繩則直，金就礪則利，君子博學而日參省乎己，則知明而行無過矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[1].blocks[3][1][10]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-20a098a138eb09fa",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "挺",
+    "fields": {
+      "詞義": "直"
+    },
+    "context": "君子曰：學不可以已。青，取之於藍，而青於藍；冰，水為之，而寒於水。木直中繩，輮以為輪，其曲中規；雖有槁暴、不復挺者，輮使之然也。故木受繩則直，金就礪則利，君子博學而日參省乎己，則知明而行無過矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[1].blocks[3][1][11]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-42c86984a6de95cf",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "然",
+    "fields": {
+      "詞義": "這樣"
+    },
+    "context": "君子曰：學不可以已。青，取之於藍，而青於藍；冰，水為之，而寒於水。木直中繩，輮以為輪，其曲中規；雖有槁暴、不復挺者，輮使之然也。故木受繩則直，金就礪則利，君子博學而日參省乎己，則知明而行無過矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[1].blocks[3][1][12]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2c3f56e63dc571d1",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "金",
+    "fields": {
+      "詞義": "金屬刀劍"
+    },
+    "context": "君子曰：學不可以已。青，取之於藍，而青於藍；冰，水為之，而寒於水。木直中繩，輮以為輪，其曲中規；雖有槁暴、不復挺者，輮使之然也。故木受繩則直，金就礪則利，君子博學而日參省乎己，則知明而行無過矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[1].blocks[3][1][13]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c748db2673283e21",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "就",
+    "fields": {
+      "詞義": "接近"
+    },
+    "context": "君子曰：學不可以已。青，取之於藍，而青於藍；冰，水為之，而寒於水。木直中繩，輮以為輪，其曲中規；雖有槁暴、不復挺者，輮使之然也。故木受繩則直，金就礪則利，君子博學而日參省乎己，則知明而行無過矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[1].blocks[3][1][14]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-85805b0caed3ac60",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "礪",
+    "fields": {
+      "詞義": "磨刀石"
+    },
+    "context": "君子曰：學不可以已。青，取之於藍，而青於藍；冰，水為之，而寒於水。木直中繩，輮以為輪，其曲中規；雖有槁暴、不復挺者，輮使之然也。故木受繩則直，金就礪則利，君子博學而日參省乎己，則知明而行無過矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[1].blocks[3][1][15]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-267565a800c75f24",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "博學",
+    "fields": {
+      "詞義": "廣泛學習"
+    },
+    "context": "君子曰：學不可以已。青，取之於藍，而青於藍；冰，水為之，而寒於水。木直中繩，輮以為輪，其曲中規；雖有槁暴、不復挺者，輮使之然也。故木受繩則直，金就礪則利，君子博學而日參省乎己，則知明而行無過矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[1].blocks[3][1][16]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-39ebea4725fb9c99",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "參省",
+    "fields": {
+      "詞義": "檢驗反省"
+    },
+    "context": "君子曰：學不可以已。青，取之於藍，而青於藍；冰，水為之，而寒於水。木直中繩，輮以為輪，其曲中規；雖有槁暴、不復挺者，輮使之然也。故木受繩則直，金就礪則利，君子博學而日參省乎己，則知明而行無過矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[1].blocks[3][1][17]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-aba48a7d6222bca8",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "知",
+    "fields": {
+      "詞義": "通智，智慧"
+    },
+    "context": "君子曰：學不可以已。青，取之於藍，而青於藍；冰，水為之，而寒於水。木直中繩，輮以為輪，其曲中規；雖有槁暴、不復挺者，輮使之然也。故木受繩則直，金就礪則利，君子博學而日參省乎己，則知明而行無過矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[1].blocks[3][1][18]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4d1fb540e9f82223",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "過",
+    "fields": {
+      "詞義": "過失"
+    },
+    "context": "君子曰：學不可以已。青，取之於藍，而青於藍；冰，水為之，而寒於水。木直中繩，輮以為輪，其曲中規；雖有槁暴、不復挺者，輮使之然也。故木受繩則直，金就礪則利，君子博學而日參省乎己，則知明而行無過矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[1].blocks[3][1][19]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-758c4ca0a4c44219",
+    "chapterId": "essay-03",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "青與冰說提升，輮木說加工改變，木金說受教磨礪。落到人身上，智慧明達與行為無過是兩個層面。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[1].blocks[4]",
+        "section": "第1段｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[112].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[113].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[118].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[245].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[246].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[247].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[248].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[249].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[250].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[251].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[252].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[253].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[254].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[255].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[256].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[257].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[258].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[259].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[260].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[261].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[262].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[419].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[462].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[463].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[464].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[476].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[529].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[530].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[532].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[533].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[534].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[535].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[536].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[537].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[538].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[539].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[540].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[541].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[646].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2148].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e03-exp-001",
+      "q-e03-exp-002",
+      "q-e03-exp-007",
+      "full-a-e03-p01-b00-v01",
+      "full-a-e03-p01-b00-v02",
+      "full-a-e03-p01-b00-v03",
+      "full-a-e03-p01-b00-v04",
+      "full-a-e03-p01-b00-v05",
+      "full-a-e03-p01-b00-v06",
+      "full-a-e03-p01-b00-v07",
+      "full-a-e03-p01-b00-v08",
+      "full-a-e03-p01-b00-v09",
+      "full-a-e03-p01-b00-v10",
+      "full-a-e03-p01-b00-v11",
+      "full-a-e03-p01-b00-v12",
+      "full-a-e03-p01-b00-v14",
+      "full-a-e03-p01-b00-v15",
+      "full-a-e03-p01-b00-v16",
+      "full-a-e03-p01-b00-v17",
+      "full-a-e03-p01-b00-v18",
+      "full-a-e03-p01-b00-v19",
+      "full-a-e03-p01-b00-translation",
+      "full-a-e03-p06-b00-c01",
+      "full-a-e03-p06-b00-c02",
+      "full-a-e03-p06-b00-c03",
+      "full-a-e03-p08-b03-concept",
+      "full-a-e03-p09-b01-g01",
+      "full-a-e03-p09-b01-g02",
+      "full-a-e03-p09-b01-g08",
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p05-b00-x003",
+      "dse-2023-1a-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ad099ee7f46606b7",
+    "chapterId": "essay-03",
+    "category": "theme",
+    "title": "句段核心：第2段｜原文與語譯",
+    "fields": {
+      "重點": "善借外物可以擴大能力，彌補自身限制。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[2].core",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-994f0c8a85c3f559",
+    "chapterId": "essay-03",
+    "category": "text",
+    "title": "第2段｜原文與語譯",
+    "fields": {
+      "原文": "吾嘗終日而思矣，不如須臾之所學也；吾嘗跂而望矣，不如登高之博見也。登高而招，臂非加長也，而見者遠。順風而呼，聲非加疾也，而聞者彰。假輿馬者，非利足也，而致千里；假舟楫者，非能水也，而絕江河。君子生非異也，善假於物也。"
+    },
+    "context": "吾嘗終日而思矣，不如須臾之所學也；吾嘗跂而望矣，不如登高之博見也。登高而招，臂非加長也，而見者遠。順風而呼，聲非加疾也，而聞者彰。假輿馬者，非利足也，而致千里；假舟楫者，非能水也，而絕江河。君子生非異也，善假於物也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[2].blocks[0]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e03-exp-003",
+      "q-e03-exp-004",
+      "q-e03-exp-006",
+      "full-a-e03-p02-b00-v00",
+      "full-a-e03-p02-b00-v01",
+      "full-a-e03-p02-b00-v02",
+      "full-a-e03-p02-b00-v03",
+      "full-a-e03-p02-b00-v05",
+      "full-a-e03-p02-b00-v06",
+      "full-a-e03-p02-b00-v07",
+      "full-a-e03-p02-b00-v08",
+      "full-a-e03-p02-b00-v09",
+      "full-a-e03-p02-b00-v10",
+      "full-a-e03-p02-b00-v11",
+      "full-a-e03-p02-b00-v13",
+      "full-a-e03-p02-b00-translation",
+      "full-a-e03-p06-b00-c04",
+      "full-a-e03-p06-b00-c05",
+      "full-a-e03-p06-b00-c06",
+      "full-a-e03-p06-b00-c07",
+      "full-a-e03-p06-b00-c08",
+      "full-a-e03-p08-b00-concept",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b01-x006",
+      "dse-2018-1a-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-60015a2296e8cc05",
+    "chapterId": "essay-03",
+    "category": "text",
+    "title": "第2段｜原文與語譯",
+    "fields": {
+      "語譯": "我曾經整天思索，卻比不上片刻學習到的知識；我曾經踮起腳遠望，卻比不上登上高處看得廣闊。登上高處招手，手臂並沒有加長，可是在遠處的人也能看見我。順着風呼喊，聲音並沒有加大，可是聽的人也能聽得很清楚。借助車馬的人，並不是行走快速，卻可以行到千里；借助船隻的人，並不是善於游泳，卻可以橫渡江河。君子的本性與一般人沒有差別，（只是君子）善於借助外物罷了。"
+    },
+    "context": "吾嘗終日而思矣，不如須臾之所學也；吾嘗跂而望矣，不如登高之博見也。登高而招，臂非加長也，而見者遠。順風而呼，聲非加疾也，而聞者彰。假輿馬者，非利足也，而致千里；假舟楫者，非能水也，而絕江河。君子生非異也，善假於物也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[2].blocks[2]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e03-exp-003",
+      "q-e03-exp-004",
+      "q-e03-exp-006",
+      "full-a-e03-p02-b00-v00",
+      "full-a-e03-p02-b00-v01",
+      "full-a-e03-p02-b00-v02",
+      "full-a-e03-p02-b00-v03",
+      "full-a-e03-p02-b00-v05",
+      "full-a-e03-p02-b00-v06",
+      "full-a-e03-p02-b00-v07",
+      "full-a-e03-p02-b00-v08",
+      "full-a-e03-p02-b00-v09",
+      "full-a-e03-p02-b00-v10",
+      "full-a-e03-p02-b00-v11",
+      "full-a-e03-p02-b00-v13",
+      "full-a-e03-p02-b00-translation",
+      "full-a-e03-p06-b00-c04",
+      "full-a-e03-p06-b00-c05",
+      "full-a-e03-p06-b00-c06",
+      "full-a-e03-p06-b00-c07",
+      "full-a-e03-p06-b00-c08",
+      "full-a-e03-p08-b00-concept",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b01-x006",
+      "dse-2018-1a-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-21d4f18d27d7cc35",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "嘗",
+    "fields": {
+      "詞義": "曾經"
+    },
+    "context": "吾嘗終日而思矣，不如須臾之所學也；吾嘗跂而望矣，不如登高之博見也。登高而招，臂非加長也，而見者遠。順風而呼，聲非加疾也，而聞者彰。假輿馬者，非利足也，而致千里；假舟楫者，非能水也，而絕江河。君子生非異也，善假於物也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[2].blocks[3][1][0]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6ec4e26657d58e98",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "須臾",
+    "fields": {
+      "詞義": "片刻"
+    },
+    "context": "吾嘗終日而思矣，不如須臾之所學也；吾嘗跂而望矣，不如登高之博見也。登高而招，臂非加長也，而見者遠。順風而呼，聲非加疾也，而聞者彰。假輿馬者，非利足也，而致千里；假舟楫者，非能水也，而絕江河。君子生非異也，善假於物也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[2].blocks[3][1][1]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6af7521c19fdae96",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "跂",
+    "fields": {
+      "詞義": "踮腳"
+    },
+    "context": "吾嘗終日而思矣，不如須臾之所學也；吾嘗跂而望矣，不如登高之博見也。登高而招，臂非加長也，而見者遠。順風而呼，聲非加疾也，而聞者彰。假輿馬者，非利足也，而致千里；假舟楫者，非能水也，而絕江河。君子生非異也，善假於物也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[2].blocks[3][1][2]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b17e1929379ec7c9",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "招",
+    "fields": {
+      "詞義": "招手"
+    },
+    "context": "吾嘗終日而思矣，不如須臾之所學也；吾嘗跂而望矣，不如登高之博見也。登高而招，臂非加長也，而見者遠。順風而呼，聲非加疾也，而聞者彰。假輿馬者，非利足也，而致千里；假舟楫者，非能水也，而絕江河。君子生非異也，善假於物也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[2].blocks[3][1][3]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e28dcf8c46fdc905",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "疾",
+    "fields": {
+      "詞義": "強、大"
+    },
+    "context": "吾嘗終日而思矣，不如須臾之所學也；吾嘗跂而望矣，不如登高之博見也。登高而招，臂非加長也，而見者遠。順風而呼，聲非加疾也，而聞者彰。假輿馬者，非利足也，而致千里；假舟楫者，非能水也，而絕江河。君子生非異也，善假於物也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[2].blocks[3][1][4]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-607ca0fe16800a89",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "彰",
+    "fields": {
+      "詞義": "清楚"
+    },
+    "context": "吾嘗終日而思矣，不如須臾之所學也；吾嘗跂而望矣，不如登高之博見也。登高而招，臂非加長也，而見者遠。順風而呼，聲非加疾也，而聞者彰。假輿馬者，非利足也，而致千里；假舟楫者，非能水也，而絕江河。君子生非異也，善假於物也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[2].blocks[3][1][5]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4b5de97dbf727640",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "假",
+    "fields": {
+      "詞義": "借助"
+    },
+    "context": "吾嘗終日而思矣，不如須臾之所學也；吾嘗跂而望矣，不如登高之博見也。登高而招，臂非加長也，而見者遠。順風而呼，聲非加疾也，而聞者彰。假輿馬者，非利足也，而致千里；假舟楫者，非能水也，而絕江河。君子生非異也，善假於物也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[2].blocks[3][1][6]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d74dbcd780f77405",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "輿",
+    "fields": {
+      "詞義": "車"
+    },
+    "context": "吾嘗終日而思矣，不如須臾之所學也；吾嘗跂而望矣，不如登高之博見也。登高而招，臂非加長也，而見者遠。順風而呼，聲非加疾也，而聞者彰。假輿馬者，非利足也，而致千里；假舟楫者，非能水也，而絕江河。君子生非異也，善假於物也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[2].blocks[3][1][7]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-008376fe612b4bc7",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "利足",
+    "fields": {
+      "詞義": "腳步快"
+    },
+    "context": "吾嘗終日而思矣，不如須臾之所學也；吾嘗跂而望矣，不如登高之博見也。登高而招，臂非加長也，而見者遠。順風而呼，聲非加疾也，而聞者彰。假輿馬者，非利足也，而致千里；假舟楫者，非能水也，而絕江河。君子生非異也，善假於物也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[2].blocks[3][1][8]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-16ab2685deb85b19",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "致",
+    "fields": {
+      "詞義": "到達"
+    },
+    "context": "吾嘗終日而思矣，不如須臾之所學也；吾嘗跂而望矣，不如登高之博見也。登高而招，臂非加長也，而見者遠。順風而呼，聲非加疾也，而聞者彰。假輿馬者，非利足也，而致千里；假舟楫者，非能水也，而絕江河。君子生非異也，善假於物也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[2].blocks[3][1][9]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2403c18c126fdc6d",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "舟楫",
+    "fields": {
+      "詞義": "船隻與槳，指船"
+    },
+    "context": "吾嘗終日而思矣，不如須臾之所學也；吾嘗跂而望矣，不如登高之博見也。登高而招，臂非加長也，而見者遠。順風而呼，聲非加疾也，而聞者彰。假輿馬者，非利足也，而致千里；假舟楫者，非能水也，而絕江河。君子生非異也，善假於物也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[2].blocks[3][1][10]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-91d006da93a7c777",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "水",
+    "fields": {
+      "詞義": "游泳"
+    },
+    "context": "吾嘗終日而思矣，不如須臾之所學也；吾嘗跂而望矣，不如登高之博見也。登高而招，臂非加長也，而見者遠。順風而呼，聲非加疾也，而聞者彰。假輿馬者，非利足也，而致千里；假舟楫者，非能水也，而絕江河。君子生非異也，善假於物也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[2].blocks[3][1][11]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-53ef8051f2fbcf3b",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "絕",
+    "fields": {
+      "詞義": "橫渡"
+    },
+    "context": "吾嘗終日而思矣，不如須臾之所學也；吾嘗跂而望矣，不如登高之博見也。登高而招，臂非加長也，而見者遠。順風而呼，聲非加疾也，而聞者彰。假輿馬者，非利足也，而致千里；假舟楫者，非能水也，而絕江河。君子生非異也，善假於物也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[2].blocks[3][1][12]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6a1c5b8fd94c8c23",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "生",
+    "fields": {
+      "詞義": "通性，本性"
+    },
+    "context": "吾嘗終日而思矣，不如須臾之所學也；吾嘗跂而望矣，不如登高之博見也。登高而招，臂非加長也，而見者遠。順風而呼，聲非加疾也，而聞者彰。假輿馬者，非利足也，而致千里；假舟楫者，非能水也，而絕江河。君子生非異也，善假於物也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[2].blocks[3][1][13]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a2b5a6d98d3be49f",
+    "chapterId": "essay-03",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "登高、順風、車馬、舟楫各有助益；君子並非天性不同，而是善於運用條件。思考不能脫離學習而獨行。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[2].blocks[4]",
+        "section": "第2段｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[114].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[115].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[117].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[263].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[264].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[265].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[266].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[267].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[268].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[269].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[270].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[271].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[272].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[273].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[274].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[420].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[465].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[466].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[467].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[468].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[469].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[475].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[542].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[543].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[544].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[649].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e03-exp-003",
+      "q-e03-exp-004",
+      "q-e03-exp-006",
+      "full-a-e03-p02-b00-v00",
+      "full-a-e03-p02-b00-v01",
+      "full-a-e03-p02-b00-v02",
+      "full-a-e03-p02-b00-v03",
+      "full-a-e03-p02-b00-v05",
+      "full-a-e03-p02-b00-v06",
+      "full-a-e03-p02-b00-v07",
+      "full-a-e03-p02-b00-v08",
+      "full-a-e03-p02-b00-v09",
+      "full-a-e03-p02-b00-v10",
+      "full-a-e03-p02-b00-v11",
+      "full-a-e03-p02-b00-v13",
+      "full-a-e03-p02-b00-translation",
+      "full-a-e03-p06-b00-c04",
+      "full-a-e03-p06-b00-c05",
+      "full-a-e03-p06-b00-c06",
+      "full-a-e03-p06-b00-c07",
+      "full-a-e03-p06-b00-c08",
+      "full-a-e03-p08-b00-concept",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b01-x006"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-103829a755e74a21",
+    "chapterId": "essay-03",
+    "category": "theme",
+    "title": "句段核心：第3段｜原文與語譯 1",
+    "fields": {
+      "重點": "積累、恆心、專一缺一不可。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[3].core",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7b9bd56add195fcf",
+    "chapterId": "essay-03",
+    "category": "text",
+    "title": "第3段｜原文與語譯 1",
+    "fields": {
+      "原文": "積土成山，風雨興焉；積水成淵，蛟龍生焉；積善成德，而神明自得，聖心備焉。故不積跬步，無以至千里；不積小流，無以成江海。騏驥一躍，不能十步；駑馬十駕，功在不舍。鍥而舍之，朽木不折；鍥而不舍，金石可鏤。"
+    },
+    "context": "積土成山，風雨興焉；積水成淵，蛟龍生焉；積善成德，而神明自得，聖心備焉。故不積跬步，無以至千里；不積小流，無以成江海。騏驥一躍，不能十步；駑馬十駕，功在不舍。鍥而舍之，朽木不折；鍥而不舍，金石可鏤。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[3].blocks[0]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "q-e03-exp-008",
+      "full-a-e03-p03-b00-v00",
+      "full-a-e03-p03-b00-v01",
+      "full-a-e03-p03-b00-v02",
+      "full-a-e03-p03-b00-v03",
+      "full-a-e03-p03-b00-v04",
+      "full-a-e03-p03-b00-v05",
+      "full-a-e03-p03-b00-v06",
+      "full-a-e03-p03-b00-v07",
+      "full-a-e03-p03-b00-v08",
+      "full-a-e03-p03-b00-v09",
+      "full-a-e03-p03-b00-v10",
+      "full-a-e03-p03-b00-v11",
+      "full-a-e03-p03-b00-v12",
+      "full-a-e03-p03-b00-v13",
+      "full-a-e03-p03-b00-translation",
+      "full-a-e03-p06-b00-c09",
+      "full-a-e03-p07-b00-c01",
+      "full-a-e03-p07-b00-c02",
+      "full-a-e03-p07-b00-c03",
+      "full-a-e03-p09-b01-g04",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p07-b01-x004",
+      "dse-2018-1a-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5230bf2980c0f42a",
+    "chapterId": "essay-03",
+    "category": "text",
+    "title": "第3段｜原文與語譯 1",
+    "fields": {
+      "語譯": "堆積土石成為高山，風雨就在那裏興起；匯聚水流成為深淵，蛟龍就在那裏生長；（一個人）積聚善行養成美德，就能神志從容，心智澄明，具備聖人的心志了。所以不一步步地累積，就沒有（方法）到達千里之遠；不匯聚細小水流，就沒有（方法）成為江海。駿馬一跳，也不超過十步的距離；劣馬能奔走十天的路程，牠的成功在於牠不放棄。只雕刻幾下就放棄，（即使是）腐爛的木材也不會折斷；不放棄地持續雕刻，（連）金石都可以雕鏤。"
+    },
+    "context": "積土成山，風雨興焉；積水成淵，蛟龍生焉；積善成德，而神明自得，聖心備焉。故不積跬步，無以至千里；不積小流，無以成江海。騏驥一躍，不能十步；駑馬十駕，功在不舍。鍥而舍之，朽木不折；鍥而不舍，金石可鏤。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[3].blocks[2]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "q-e03-exp-008",
+      "full-a-e03-p03-b00-v00",
+      "full-a-e03-p03-b00-v01",
+      "full-a-e03-p03-b00-v02",
+      "full-a-e03-p03-b00-v03",
+      "full-a-e03-p03-b00-v04",
+      "full-a-e03-p03-b00-v05",
+      "full-a-e03-p03-b00-v06",
+      "full-a-e03-p03-b00-v07",
+      "full-a-e03-p03-b00-v08",
+      "full-a-e03-p03-b00-v09",
+      "full-a-e03-p03-b00-v10",
+      "full-a-e03-p03-b00-v11",
+      "full-a-e03-p03-b00-v12",
+      "full-a-e03-p03-b00-v13",
+      "full-a-e03-p03-b00-translation",
+      "full-a-e03-p06-b00-c09",
+      "full-a-e03-p07-b00-c01",
+      "full-a-e03-p07-b00-c02",
+      "full-a-e03-p07-b00-c03",
+      "full-a-e03-p09-b01-g04",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p07-b01-x004",
+      "dse-2018-1a-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-787b08b68d6ffa43",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "焉",
+    "fields": {
+      "詞義": "於此，在那裏"
+    },
+    "context": "積土成山，風雨興焉；積水成淵，蛟龍生焉；積善成德，而神明自得，聖心備焉。故不積跬步，無以至千里；不積小流，無以成江海。騏驥一躍，不能十步；駑馬十駕，功在不舍。鍥而舍之，朽木不折；鍥而不舍，金石可鏤。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[3].blocks[3][1][0]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-abe0bcf1da615ba4",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "淵",
+    "fields": {
+      "詞義": "深水"
+    },
+    "context": "積土成山，風雨興焉；積水成淵，蛟龍生焉；積善成德，而神明自得，聖心備焉。故不積跬步，無以至千里；不積小流，無以成江海。騏驥一躍，不能十步；駑馬十駕，功在不舍。鍥而舍之，朽木不折；鍥而不舍，金石可鏤。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[3].blocks[3][1][1]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5a354bc4c269f72a",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "神明",
+    "fields": {
+      "詞義": "心智澄明"
+    },
+    "context": "積土成山，風雨興焉；積水成淵，蛟龍生焉；積善成德，而神明自得，聖心備焉。故不積跬步，無以至千里；不積小流，無以成江海。騏驥一躍，不能十步；駑馬十駕，功在不舍。鍥而舍之，朽木不折；鍥而不舍，金石可鏤。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[3].blocks[3][1][2]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8bc9492edca17659",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "焉",
+    "fields": {
+      "詞義": "句末語氣詞，可不譯"
+    },
+    "context": "積土成山，風雨興焉；積水成淵，蛟龍生焉；積善成德，而神明自得，聖心備焉。故不積跬步，無以至千里；不積小流，無以成江海。騏驥一躍，不能十步；駑馬十駕，功在不舍。鍥而舍之，朽木不折；鍥而不舍，金石可鏤。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[3].blocks[3][1][3]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-665eb4ed166d2d93",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "跬步",
+    "fields": {
+      "詞義": "半步，微小步伐"
+    },
+    "context": "積土成山，風雨興焉；積水成淵，蛟龍生焉；積善成德，而神明自得，聖心備焉。故不積跬步，無以至千里；不積小流，無以成江海。騏驥一躍，不能十步；駑馬十駕，功在不舍。鍥而舍之，朽木不折；鍥而不舍，金石可鏤。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[3].blocks[3][1][4]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-48156c8caa7b740b",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "無以",
+    "fields": {
+      "詞義": "沒有用來……的辦法"
+    },
+    "context": "積土成山，風雨興焉；積水成淵，蛟龍生焉；積善成德，而神明自得，聖心備焉。故不積跬步，無以至千里；不積小流，無以成江海。騏驥一躍，不能十步；駑馬十駕，功在不舍。鍥而舍之，朽木不折；鍥而不舍，金石可鏤。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[3].blocks[3][1][5]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-26c24c4df0d37dc5",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "騏驥",
+    "fields": {
+      "詞義": "駿馬"
+    },
+    "context": "積土成山，風雨興焉；積水成淵，蛟龍生焉；積善成德，而神明自得，聖心備焉。故不積跬步，無以至千里；不積小流，無以成江海。騏驥一躍，不能十步；駑馬十駕，功在不舍。鍥而舍之，朽木不折；鍥而不舍，金石可鏤。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[3].blocks[3][1][6]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fbf3c8a2f510cb3a",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "一",
+    "fields": {
+      "詞義": "一、一次"
+    },
+    "context": "積土成山，風雨興焉；積水成淵，蛟龍生焉；積善成德，而神明自得，聖心備焉。故不積跬步，無以至千里；不積小流，無以成江海。騏驥一躍，不能十步；駑馬十駕，功在不舍。鍥而舍之，朽木不折；鍥而不舍，金石可鏤。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[3].blocks[3][1][7]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9d33ac8f136d24f9",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "駑馬",
+    "fields": {
+      "詞義": "劣馬"
+    },
+    "context": "積土成山，風雨興焉；積水成淵，蛟龍生焉；積善成德，而神明自得，聖心備焉。故不積跬步，無以至千里；不積小流，無以成江海。騏驥一躍，不能十步；駑馬十駕，功在不舍。鍥而舍之，朽木不折；鍥而不舍，金石可鏤。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[3].blocks[3][1][8]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9aad181ba5d84608",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "十駕",
+    "fields": {
+      "詞義": "十天的行程"
+    },
+    "context": "積土成山，風雨興焉；積水成淵，蛟龍生焉；積善成德，而神明自得，聖心備焉。故不積跬步，無以至千里；不積小流，無以成江海。騏驥一躍，不能十步；駑馬十駕，功在不舍。鍥而舍之，朽木不折；鍥而不舍，金石可鏤。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[3].blocks[3][1][9]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e295efd13abd753d",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "舍",
+    "fields": {
+      "詞義": "通捨，放棄"
+    },
+    "context": "積土成山，風雨興焉；積水成淵，蛟龍生焉；積善成德，而神明自得，聖心備焉。故不積跬步，無以至千里；不積小流，無以成江海。騏驥一躍，不能十步；駑馬十駕，功在不舍。鍥而舍之，朽木不折；鍥而不舍，金石可鏤。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[3].blocks[3][1][10]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9e295e5a33aa2afb",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "鍥",
+    "fields": {
+      "詞義": "雕刻"
+    },
+    "context": "積土成山，風雨興焉；積水成淵，蛟龍生焉；積善成德，而神明自得，聖心備焉。故不積跬步，無以至千里；不積小流，無以成江海。騏驥一躍，不能十步；駑馬十駕，功在不舍。鍥而舍之，朽木不折；鍥而不舍，金石可鏤。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[3].blocks[3][1][11]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9142d0213727eb84",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "金",
+    "fields": {
+      "詞義": "金屬"
+    },
+    "context": "積土成山，風雨興焉；積水成淵，蛟龍生焉；積善成德，而神明自得，聖心備焉。故不積跬步，無以至千里；不積小流，無以成江海。騏驥一躍，不能十步；駑馬十駕，功在不舍。鍥而舍之，朽木不折；鍥而不舍，金石可鏤。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[3].blocks[3][1][12]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-84ab69e089b86e34",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "鏤",
+    "fields": {
+      "詞義": "雕鏤"
+    },
+    "context": "積土成山，風雨興焉；積水成淵，蛟龍生焉；積善成德，而神明自得，聖心備焉。故不積跬步，無以至千里；不積小流，無以成江海。騏驥一躍，不能十步；駑馬十駕，功在不舍。鍥而舍之，朽木不折；鍥而不舍，金石可鏤。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[3].blocks[3][1][13]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5c2826e93e2e4e79",
+    "chapterId": "essay-03",
+    "category": "theme",
+    "title": "句段核心：第3段｜原文與語譯 2",
+    "fields": {
+      "重點": "積累、恆心、專一缺一不可。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[4].core",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9ec09e3495f02802",
+    "chapterId": "essay-03",
+    "category": "text",
+    "title": "第3段｜原文與語譯 2",
+    "fields": {
+      "原文": "螾無爪牙之利，筋骨之強，上食埃土，下飲黃泉，用心一也。蟹六跪而二螯，非蛇蟺之穴無可寄託者，用心躁也。"
+    },
+    "context": "螾無爪牙之利，筋骨之強，上食埃土，下飲黃泉，用心一也。蟹六跪而二螯，非蛇蟺之穴無可寄託者，用心躁也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[4].blocks[0]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "q-e03-exp-005",
+      "full-a-e03-p04-b00-v00",
+      "full-a-e03-p04-b00-v01",
+      "full-a-e03-p04-b00-v02",
+      "full-a-e03-p04-b00-v03",
+      "full-a-e03-p04-b00-v05",
+      "full-a-e03-p04-b00-v06",
+      "full-a-e03-p04-b00-v07",
+      "full-a-e03-p04-b00-v08",
+      "full-a-e03-p04-b00-v09",
+      "full-a-e03-p04-b00-translation",
+      "full-a-e03-p07-b00-c04",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27",
+      "full-a-e03-p07-b01-x004",
+      "full-a-e03-p10-b01-x005",
+      "full-a-e03-p10-b01-x007",
+      "dse-2018-1a-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-60908049dae207e4",
+    "chapterId": "essay-03",
+    "category": "text",
+    "title": "第3段｜原文與語譯 2",
+    "fields": {
+      "語譯": "蚯蚓沒有鋒利的爪和牙，沒有強健的筋骨，卻能向上鑽食土壤，向下喝到泉水，這是因為牠用心專一。螃蟹有六隻蟹腳和兩隻蟹鉗，（但是）若不是蛇鱔的洞穴，就沒有可寄住的地方，這是因為牠心思浮躁、不專心。"
+    },
+    "context": "螾無爪牙之利，筋骨之強，上食埃土，下飲黃泉，用心一也。蟹六跪而二螯，非蛇蟺之穴無可寄託者，用心躁也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[4].blocks[2]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "q-e03-exp-005",
+      "full-a-e03-p04-b00-v00",
+      "full-a-e03-p04-b00-v01",
+      "full-a-e03-p04-b00-v02",
+      "full-a-e03-p04-b00-v03",
+      "full-a-e03-p04-b00-v05",
+      "full-a-e03-p04-b00-v06",
+      "full-a-e03-p04-b00-v07",
+      "full-a-e03-p04-b00-v08",
+      "full-a-e03-p04-b00-v09",
+      "full-a-e03-p04-b00-translation",
+      "full-a-e03-p07-b00-c04",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27",
+      "full-a-e03-p07-b01-x004",
+      "full-a-e03-p10-b01-x005",
+      "full-a-e03-p10-b01-x007",
+      "dse-2018-1a-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a0d17303d350693e",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "螾",
+    "fields": {
+      "詞義": "同蚓，蚯蚓"
+    },
+    "context": "螾無爪牙之利，筋骨之強，上食埃土，下飲黃泉，用心一也。蟹六跪而二螯，非蛇蟺之穴無可寄託者，用心躁也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[4].blocks[3][1][0]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c0358b5dcf2833fa",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "爪牙",
+    "fields": {
+      "詞義": "爪和牙"
+    },
+    "context": "螾無爪牙之利，筋骨之強，上食埃土，下飲黃泉，用心一也。蟹六跪而二螯，非蛇蟺之穴無可寄託者，用心躁也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[4].blocks[3][1][1]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-191a678665b79209",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "埃土",
+    "fields": {
+      "詞義": "泥土"
+    },
+    "context": "螾無爪牙之利，筋骨之強，上食埃土，下飲黃泉，用心一也。蟹六跪而二螯，非蛇蟺之穴無可寄託者，用心躁也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[4].blocks[3][1][2]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-473121bb04fa2b32",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "黃泉",
+    "fields": {
+      "詞義": "地下泉水"
+    },
+    "context": "螾無爪牙之利，筋骨之強，上食埃土，下飲黃泉，用心一也。蟹六跪而二螯，非蛇蟺之穴無可寄託者，用心躁也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[4].blocks[3][1][3]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8f94cf9c2a9c118a",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "一",
+    "fields": {
+      "詞義": "專一"
+    },
+    "context": "螾無爪牙之利，筋骨之強，上食埃土，下飲黃泉，用心一也。蟹六跪而二螯，非蛇蟺之穴無可寄託者，用心躁也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[4].blocks[3][1][4]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8185edc1d9ceb7aa",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "跪",
+    "fields": {
+      "詞義": "蟹腳"
+    },
+    "context": "螾無爪牙之利，筋骨之強，上食埃土，下飲黃泉，用心一也。蟹六跪而二螯，非蛇蟺之穴無可寄託者，用心躁也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[4].blocks[3][1][5]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d4364d9842535d80",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "螯",
+    "fields": {
+      "詞義": "蟹鉗"
+    },
+    "context": "螾無爪牙之利，筋骨之強，上食埃土，下飲黃泉，用心一也。蟹六跪而二螯，非蛇蟺之穴無可寄託者，用心躁也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[4].blocks[3][1][6]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-32536bd498a65569",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "蛇蟺",
+    "fields": {
+      "詞義": "蛇與鱔"
+    },
+    "context": "螾無爪牙之利，筋骨之強，上食埃土，下飲黃泉，用心一也。蟹六跪而二螯，非蛇蟺之穴無可寄託者，用心躁也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[4].blocks[3][1][7]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fe3e81d107d36369",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "寄託",
+    "fields": {
+      "詞義": "寄居"
+    },
+    "context": "螾無爪牙之利，筋骨之強，上食埃土，下飲黃泉，用心一也。蟹六跪而二螯，非蛇蟺之穴無可寄託者，用心躁也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[4].blocks[3][1][8]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a9f6f637d7d8ee0e",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "躁",
+    "fields": {
+      "詞義": "浮躁、不專心"
+    },
+    "context": "螾無爪牙之利，筋骨之強，上食埃土，下飲黃泉，用心一也。蟹六跪而二螯，非蛇蟺之穴無可寄託者，用心躁也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[4].blocks[3][1][9]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5690754498e45b4e",
+    "chapterId": "essay-03",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "土水累積說由小成大；駿馬劣馬與雕刻說不放棄；螾蟹對比說專心。螃蟹六跪沿用課文，不把古文描述當現代生物分類。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[4].blocks[4]",
+        "section": "第3段｜原文與語譯 2"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[116].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[289].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[290].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[291].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[292].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[293].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[294].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[295].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[296].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[297].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[422].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[474].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[550].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[551].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[552].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[647].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[648].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[650].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e03-exp-005",
+      "full-a-e03-p04-b00-v00",
+      "full-a-e03-p04-b00-v01",
+      "full-a-e03-p04-b00-v02",
+      "full-a-e03-p04-b00-v03",
+      "full-a-e03-p04-b00-v05",
+      "full-a-e03-p04-b00-v06",
+      "full-a-e03-p04-b00-v07",
+      "full-a-e03-p04-b00-v08",
+      "full-a-e03-p04-b00-v09",
+      "full-a-e03-p04-b00-translation",
+      "full-a-e03-p07-b00-c04",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27",
+      "full-a-e03-p07-b01-x004",
+      "full-a-e03-p10-b01-x005",
+      "full-a-e03-p10-b01-x007"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c9a28f2ed5236522",
+    "chapterId": "essay-03",
+    "category": "structure",
+    "title": "中心、結構與內在連接",
+    "fields": {
+      "內容": "「學不可以已」開門見山，提出全文中心論點，緊扣篇題、引領下文，立場清楚。第一段論學習的意義與好處：改變本質、提升水平、造就人才，博學日省使知明行無過。第二段由學與思的收穫比較，轉到借助外物擴大效能，歸結君子與常人本性無異，成就在善假於物。第三段從方法與態度論積累、恆心、專一，呼應不停止學習的中心。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[5].blocks[0]",
+        "section": "中心、結構與內在連接"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p05-b00-x003"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-403aa1ce40d177fd",
+    "chapterId": "essay-03",
+    "category": "structure",
+    "title": "中心、結構與內在連接",
+    "fields": {
+      "內容": "「終日而思」與「須臾之所學」比較投入時間和所得：長時間獨自思索，不及片刻學習的收穫。「跂而望」與「登高之博見」再用視野作比，說明借助外在條件可以擴大能力。這裏勸人把思考與學習結合，並非否定思考。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[5].blocks[1]",
+        "section": "中心、結構與內在連接"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a758e09a55130179",
+    "chapterId": "essay-03",
+    "category": "structure",
+    "title": "中心、結構與內在連接",
+    "fields": {
+      "內容": "文中所追求的「君子」「聖心」是修養、智慧與道德境界，人物並無情節化的喜怒轉折；文章的情感在勸勉、肯定後天努力和對讀者可成材的期望。善假於物須分字面借外在條件與所論借學習修身兩層，不把外物單限交通工具，也不說人的手臂、聲帶或本性天生優越。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[5].blocks[2]",
+        "section": "中心、結構與內在連接"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-954080a302bba42c",
+    "chapterId": "essay-03",
+    "category": "technique",
+    "title": "青取之於藍而青於藍；冰水為之而寒於水",
+    "fields": {
+      "變化或對比": "靛青由蓼藍提煉而顏色更深；冰由水凝成而更冷",
+      "論述目的及限制": "後天學習能改變、提高原有狀態，超越原來水平；藍是草，不是只指藍色。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[6].blocks[0][1][1]",
+        "section": "全部喻例與道理逐組對應（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p06-b00-c01",
+      "full-a-e03-p06-b00-c02",
+      "full-a-e03-p06-b00-c03",
+      "full-a-e03-p06-b00-c04",
+      "full-a-e03-p06-b00-c05",
+      "full-a-e03-p06-b00-c06",
+      "full-a-e03-p06-b00-c07",
+      "full-a-e03-p06-b00-c08",
+      "full-a-e03-p06-b00-c09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2dfc8c691163205b",
+    "chapterId": "essay-03",
+    "category": "technique",
+    "title": "木直中繩，輮以為輪；再曬不復挺",
+    "fields": {
+      "變化或對比": "原直木火烤加工成合圓規的輪，改造效果持久",
+      "論述目的及限制": "學習造就人才、改善本性。加工效果持久，喻學習和修養可以形成穩定的改變。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[6].blocks[0][1][2]",
+        "section": "全部喻例與道理逐組對應（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p06-b00-c01",
+      "full-a-e03-p06-b00-c02",
+      "full-a-e03-p06-b00-c03",
+      "full-a-e03-p06-b00-c04",
+      "full-a-e03-p06-b00-c05",
+      "full-a-e03-p06-b00-c06",
+      "full-a-e03-p06-b00-c07",
+      "full-a-e03-p06-b00-c08",
+      "full-a-e03-p06-b00-c09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-20def63ce5e556dd",
+    "chapterId": "essay-03",
+    "category": "technique",
+    "title": "木受繩則直；金就礪則利",
+    "fields": {
+      "變化或對比": "墨線校正取直；刀劍磨礪鋒利",
+      "論述目的及限制": "廣泛學習、每日反省，可改過遷善、合道德禮教，使智慧通達、行為無過。這是與輮木成曲不同的加工喻例。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[6].blocks[0][1][3]",
+        "section": "全部喻例與道理逐組對應（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p06-b00-c01",
+      "full-a-e03-p06-b00-c02",
+      "full-a-e03-p06-b00-c03",
+      "full-a-e03-p06-b00-c04",
+      "full-a-e03-p06-b00-c05",
+      "full-a-e03-p06-b00-c06",
+      "full-a-e03-p06-b00-c07",
+      "full-a-e03-p06-b00-c08",
+      "full-a-e03-p06-b00-c09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b2115b1c8949388d",
+    "chapterId": "essay-03",
+    "category": "technique",
+    "title": "終日思／須臾學；跂望／登高",
+    "fields": {
+      "變化或對比": "思索時間長而所得不及片刻學習；踮腳不如借高度看得廣",
+      "論述目的及限制": "學習助益，從獨力轉向善用條件；不等於思考一無是處。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[6].blocks[0][1][4]",
+        "section": "全部喻例與道理逐組對應（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p06-b00-c01",
+      "full-a-e03-p06-b00-c02",
+      "full-a-e03-p06-b00-c03",
+      "full-a-e03-p06-b00-c04",
+      "full-a-e03-p06-b00-c05",
+      "full-a-e03-p06-b00-c06",
+      "full-a-e03-p06-b00-c07",
+      "full-a-e03-p06-b00-c08",
+      "full-a-e03-p06-b00-c09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2c6d932fdcca0fa1",
+    "chapterId": "essay-03",
+    "category": "technique",
+    "title": "登高而招",
+    "fields": {
+      "變化或對比": "臂沒有加長，遠處卻能看見",
+      "論述目的及限制": "外在高度擴大視覺傳達效果，借物能事半功倍。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[6].blocks[0][1][5]",
+        "section": "全部喻例與道理逐組對應（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p06-b00-c01",
+      "full-a-e03-p06-b00-c02",
+      "full-a-e03-p06-b00-c03",
+      "full-a-e03-p06-b00-c04",
+      "full-a-e03-p06-b00-c05",
+      "full-a-e03-p06-b00-c06",
+      "full-a-e03-p06-b00-c07",
+      "full-a-e03-p06-b00-c08",
+      "full-a-e03-p06-b00-c09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-96dd007ba9d26b80",
+    "chapterId": "essay-03",
+    "category": "technique",
+    "title": "順風而呼",
+    "fields": {
+      "變化或對比": "聲音沒有更大，聽者卻更清楚",
+      "論述目的及限制": "借風改善聽覺效果，聲量與聽聞清晰度分開。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[6].blocks[0][1][6]",
+        "section": "全部喻例與道理逐組對應（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p06-b00-c01",
+      "full-a-e03-p06-b00-c02",
+      "full-a-e03-p06-b00-c03",
+      "full-a-e03-p06-b00-c04",
+      "full-a-e03-p06-b00-c05",
+      "full-a-e03-p06-b00-c06",
+      "full-a-e03-p06-b00-c07",
+      "full-a-e03-p06-b00-c08",
+      "full-a-e03-p06-b00-c09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2e595a36b54a7b09",
+    "chapterId": "essay-03",
+    "category": "technique",
+    "title": "假輿馬",
+    "fields": {
+      "變化或對比": "不以腳力快速見長而能到千里",
+      "論述目的及限制": "借外物彌補不足，資質一般者亦能有成就。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[6].blocks[0][1][7]",
+        "section": "全部喻例與道理逐組對應（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p06-b00-c01",
+      "full-a-e03-p06-b00-c02",
+      "full-a-e03-p06-b00-c03",
+      "full-a-e03-p06-b00-c04",
+      "full-a-e03-p06-b00-c05",
+      "full-a-e03-p06-b00-c06",
+      "full-a-e03-p06-b00-c07",
+      "full-a-e03-p06-b00-c08",
+      "full-a-e03-p06-b00-c09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-85486e9e2823a390",
+    "chapterId": "essay-03",
+    "category": "technique",
+    "title": "假舟楫",
+    "fields": {
+      "變化或對比": "不善游泳卻可橫渡江河",
+      "論述目的及限制": "借船比借學習，彌補不足、取得成就並修德成君子。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[6].blocks[0][1][8]",
+        "section": "全部喻例與道理逐組對應（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p06-b00-c01",
+      "full-a-e03-p06-b00-c02",
+      "full-a-e03-p06-b00-c03",
+      "full-a-e03-p06-b00-c04",
+      "full-a-e03-p06-b00-c05",
+      "full-a-e03-p06-b00-c06",
+      "full-a-e03-p06-b00-c07",
+      "full-a-e03-p06-b00-c08",
+      "full-a-e03-p06-b00-c09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f6532317917cb5f7",
+    "chapterId": "essay-03",
+    "category": "technique",
+    "title": "積土成山、風雨興；積水成淵、蛟龍生",
+    "fields": {
+      "變化或對比": "點滴累積成大並產生新效果",
+      "論述目的及限制": "由自然累積推到積善成德、神明自得、聖心備。「積善」是由自然現象推到人的修養，是此組要說明的道理。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[6].blocks[0][1][9]",
+        "section": "全部喻例與道理逐組對應（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p06-b00-c01",
+      "full-a-e03-p06-b00-c02",
+      "full-a-e03-p06-b00-c03",
+      "full-a-e03-p06-b00-c04",
+      "full-a-e03-p06-b00-c05",
+      "full-a-e03-p06-b00-c06",
+      "full-a-e03-p06-b00-c07",
+      "full-a-e03-p06-b00-c08",
+      "full-a-e03-p06-b00-c09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5ed0856c5ccc0a15",
+    "chapterId": "essay-03",
+    "category": "technique",
+    "title": "不積跬步／不積小流",
+    "fields": {
+      "變化或對比": "不累積則無法到千里／成江海",
+      "論述目的及限制": "反面證積累是必要條件，與積土、水、善的正面相配。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[7].blocks[0][1][1]",
+        "section": "全部喻例與道理逐組對應（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p07-b00-c01",
+      "full-a-e03-p07-b00-c02",
+      "full-a-e03-p07-b00-c03",
+      "full-a-e03-p07-b00-c04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a30a8a337cf1250d",
+    "chapterId": "essay-03",
+    "category": "technique",
+    "title": "騏驥一躍／駑馬十駕",
+    "fields": {
+      "變化或對比": "良馬只躍一次不足十步，劣馬持續十日可走遠",
+      "論述目的及限制": "先天優劣不能取代後天努力，關鍵在不放棄；此組重恆心與持續積累，不答專一。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[7].blocks[0][1][2]",
+        "section": "全部喻例與道理逐組對應（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p07-b00-c01",
+      "full-a-e03-p07-b00-c02",
+      "full-a-e03-p07-b00-c03",
+      "full-a-e03-p07-b00-c04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d0d5aff2e9eb4e5d",
+    "chapterId": "essay-03",
+    "category": "technique",
+    "title": "鍥而舍之／鍥而不舍",
+    "fields": {
+      "變化或對比": "易折的朽木因放棄而不折；堅硬金石因堅持而可刻",
+      "論述目的及限制": "難易不是決定因素，持之以恆方能克服困難；反對半途而廢。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[7].blocks[0][1][3]",
+        "section": "全部喻例與道理逐組對應（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p07-b00-c01",
+      "full-a-e03-p07-b00-c02",
+      "full-a-e03-p07-b00-c03",
+      "full-a-e03-p07-b00-c04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ad8ed488c4533dff",
+    "chapterId": "essay-03",
+    "category": "technique",
+    "title": "螾／蟹",
+    "fields": {
+      "變化或對比": "螾無鋒利爪牙、強健筋骨，卻可上下覓食；蟹有足螯而須借蛇鱔穴",
+      "論述目的及限制": "形體強弱與結果相反，差在專一與浮躁；此組重專心，不可省寫成螾完全無爪牙筋骨。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[7].blocks[0][1][4]",
+        "section": "全部喻例與道理逐組對應（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p07-b00-c01",
+      "full-a-e03-p07-b00-c02",
+      "full-a-e03-p07-b00-c03",
+      "full-a-e03-p07-b00-c04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c75f1055d494f643",
+    "chapterId": "essay-03",
+    "category": "technique",
+    "title": "全部喻例與道理逐組對應",
+    "fields": {
+      "內容": "第三段的三個重點彼此配合：積累使小量逐漸成大，恆心使積累不因中途放棄而中斷，專一使努力集中於目標。駑馬與鍥刻重在不捨，螾蟹重在用心一或躁；把例子連回各自的結果，便不易混淆。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[7].blocks[1]",
+        "section": "全部喻例與道理逐組對應（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p07-b01-x004"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fe5f82699a693cb7",
+    "chapterId": "essay-03",
+    "category": "comparison",
+    "title": "論證與修辭：同一例子的不同層次",
+    "fields": {
+      "內容": "比喻論證以生活、自然事物說抽象學習道理，形象、明白、有趣，所有組別見上表。類比論證另有兩組：由木受繩、金就礪推君子博學反省後知明行無過；由積土、積水推積善成德。分類着眼推論關係，與比喻的形象作用可並存。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[8].blocks[0]",
+        "section": "論證與修辭：同一例子的不同層次"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p08-b00-concept"
+    ],
+    "review": {
+      "status": "interpretation-note",
+      "notes": [
+        "原資料明示另一解讀；須連同語境閱讀。此為文字提示，未判定所有解釋同等成立。"
+      ]
+    }
+  },
+  {
+    "id": "k-0a80199feafe4a89",
+    "chapterId": "essay-03",
+    "category": "technique",
+    "title": "論證與修辭：同一例子的不同層次",
+    "fields": {
+      "內容": "「積土成山……積水成淵……積善成德……」構成三組排比，由自然現象推進到人的修養，語勢連貫。青與冰、騏驥與駑馬等則先看成兩相對照：分析時要說明各自怎樣支持學習的道理。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[8].blocks[1]",
+        "section": "論證與修辭：同一例子的不同層次"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-92c80c773048a379",
+    "chapterId": "essay-03",
+    "category": "technique",
+    "title": "論證與修辭：同一例子的不同層次",
+    "fields": {
+      "內容": "喻例的重點在事物的變化：青與冰由原料而提升，木材經加工改變，刀劍經磨礪變利，土水由小積大。這些形象把看不見的學習成效具體化，讓讀者從熟悉事物理解修身的方法。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[8].blocks[2]",
+        "section": "論證與修辭：同一例子的不同層次"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3b28f9182a61699b",
+    "chapterId": "essay-03",
+    "category": "technique",
+    "title": "論證與修辭：同一例子的不同層次",
+    "fields": {
+      "內容": "駢散互用：開頭「君子曰：學不可以已」及第二段末「君子生非異也，善假於物也」以散句突出主張，夾於大量偶句、排比之間；整齊對偶厚重典雅，非等長相對句增加變化，排比使語勢奔放。觀物入微在以招手、呼聲呈現抽象視聽效能，以螾蟹形體與活動空間展示專心的結果；各喻都扣學習，結構環環相扣，不是散亂堆例。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[8].blocks[3]",
+        "section": "論證與修辭：同一例子的不同層次"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p08-b03-concept"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-11799f8ca463b6fb",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "青",
+    "fields": {
+      "原文短語": "青，取之於藍",
+      "本句意思／作用": "靛青顏料，名詞。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[1][1][1]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b01-g01",
+      "full-a-e03-p09-b01-g02",
+      "full-a-e03-p09-b01-g04",
+      "full-a-e03-p09-b01-g08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e310ea1dbafbd304",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "青",
+    "fields": {
+      "原文短語": "而青於藍",
+      "本句意思／作用": "顏色深，形容詞。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[1][1][2]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b01-g01",
+      "full-a-e03-p09-b01-g02",
+      "full-a-e03-p09-b01-g04",
+      "full-a-e03-p09-b01-g08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8b833b08c5e38a4e",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "生",
+    "fields": {
+      "原文短語": "君子生非異也",
+      "本句意思／作用": "通性，本性。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[1][1][3]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b01-g01",
+      "full-a-e03-p09-b01-g02",
+      "full-a-e03-p09-b01-g04",
+      "full-a-e03-p09-b01-g08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a2c00ff2d89b058c",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "生",
+    "fields": {
+      "原文短語": "蛟龍生焉",
+      "本句意思／作用": "生長。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[1][1][4]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b01-g01",
+      "full-a-e03-p09-b01-g02",
+      "full-a-e03-p09-b01-g04",
+      "full-a-e03-p09-b01-g08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c715f405846e75fa",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "焉",
+    "fields": {
+      "原文短語": "風雨興焉",
+      "本句意思／作用": "於此、在那裏。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[1][1][5]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b01-g01",
+      "full-a-e03-p09-b01-g02",
+      "full-a-e03-p09-b01-g04",
+      "full-a-e03-p09-b01-g08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9c906abd318a5c6a",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "焉",
+    "fields": {
+      "原文短語": "蛟龍生焉",
+      "本句意思／作用": "於此、在那裏。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[1][1][6]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b01-g01",
+      "full-a-e03-p09-b01-g02",
+      "full-a-e03-p09-b01-g04",
+      "full-a-e03-p09-b01-g08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8dd3438079ff737e",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "焉",
+    "fields": {
+      "原文短語": "聖心備焉",
+      "本句意思／作用": "句末語氣，表示陳述。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[1][1][7]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b01-g01",
+      "full-a-e03-p09-b01-g02",
+      "full-a-e03-p09-b01-g04",
+      "full-a-e03-p09-b01-g08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b24a15c87198e5f5",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "利",
+    "fields": {
+      "原文短語": "金就礪則利",
+      "本句意思／作用": "鋒利。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[1][1][8]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b01-g01",
+      "full-a-e03-p09-b01-g02",
+      "full-a-e03-p09-b01-g04",
+      "full-a-e03-p09-b01-g08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b5f4b3fccdcc09ae",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "利",
+    "fields": {
+      "原文短語": "非利足也",
+      "本句意思／作用": "行走迅速。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[1][1][9]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b01-g01",
+      "full-a-e03-p09-b01-g02",
+      "full-a-e03-p09-b01-g04",
+      "full-a-e03-p09-b01-g08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a800123ca00dd03f",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "勸",
+    "fields": {
+      "原句定位": "篇題：勸學",
+      "意思與必要辨析": "勸勉。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][1]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7dadf88e88905049",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "已",
+    "fields": {
+      "原句定位": "學不可以已",
+      "意思與必要辨析": "已：停止，不是已經。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][2]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0aebc1986970f356",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "藍",
+    "fields": {
+      "原句定位": "取之於藍",
+      "意思與必要辨析": "蓼藍草"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][3]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bc2896f9b72e0c85",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "而青於藍",
+    "fields": {
+      "原句定位": "而青於藍",
+      "意思與必要辨析": "而含轉折，於為比；青的兩義見逐句辨析。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][4]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-953b04d6547d7822",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "中繩",
+    "fields": {
+      "原句定位": "木直中繩",
+      "意思與必要辨析": "符合墨線標準"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][5]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-41d78440af25f25b",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "中規",
+    "fields": {
+      "原句定位": "其曲中規",
+      "意思與必要辨析": "符合圓規標準"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][6]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4b52cee2927af71b",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "曲",
+    "fields": {
+      "原句定位": "其曲中規",
+      "意思與必要辨析": "彎曲程度。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][7]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d76244a55f9e7e5d",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "輮",
+    "fields": {
+      "原句定位": "輮以為輪",
+      "意思與必要辨析": "通煣，用火烘使木彎曲"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][8]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-70df420639a53159",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "挺",
+    "fields": {
+      "原句定位": "雖有槁暴、不復挺者",
+      "意思與必要辨析": "直"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][9]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e47feab21d2cb802",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "然",
+    "fields": {
+      "原句定位": "輮使之然也",
+      "意思與必要辨析": "這樣"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][10]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c01bf6707fda9db0",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "之",
+    "fields": {
+      "原句定位": "輮使之然也",
+      "意思與必要辨析": "它，代木材。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][11]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-22cc33bd80641bbc",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "雖有槁暴",
+    "fields": {
+      "原句定位": "雖有槁暴、不復挺者",
+      "意思與必要辨析": "雖：即使；有通又，再；槁：枯乾；暴通曝，日曬。這裏說木材即使再乾燥，也不會回復原來的直度；與「輮」用火加工使彎曲的動作不同。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][12]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fadfe4d073bc68e7",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "受繩",
+    "fields": {
+      "原句定位": "故木受繩則直",
+      "意思與必要辨析": "受墨繩校正"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][13]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-edde532e1bae7f07",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "金",
+    "fields": {
+      "原句定位": "金就礪則利",
+      "意思與必要辨析": "金指金屬刀劍，不是黃金"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][14]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-046296ccbb852aea",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "就",
+    "fields": {
+      "原句定位": "金就礪則利",
+      "意思與必要辨析": "就：接近"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][15]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ad6d7c9e83f0693b",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "礪",
+    "fields": {
+      "原句定位": "金就礪則利",
+      "意思與必要辨析": "礪：磨刀石"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][16]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5808bf91eaf04783",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "利",
+    "fields": {
+      "原句定位": "金就礪則利",
+      "意思與必要辨析": "利：鋒利。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][17]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4fb8f52ab612e85b",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "博學",
+    "fields": {
+      "原句定位": "君子博學而日參省乎己",
+      "意思與必要辨析": "廣泛學習"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][18]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f23d34896fe7e489",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "日",
+    "fields": {
+      "原句定位": "君子博學而日參省乎己",
+      "意思與必要辨析": "每天"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][19]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2e9afb4d124faa9e",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "參省",
+    "fields": {
+      "原句定位": "君子博學而日參省乎己",
+      "意思與必要辨析": "檢驗反省"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][20]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d118658e799014de",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "乎",
+    "fields": {
+      "原句定位": "君子博學而日參省乎己",
+      "意思與必要辨析": "對於"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][21]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-58d793db0b91786c",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "己",
+    "fields": {
+      "原句定位": "君子博學而日參省乎己",
+      "意思與必要辨析": "自己。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][22]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d2d6fe65f03664b3",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "知",
+    "fields": {
+      "原句定位": "則知明而行無過矣",
+      "意思與必要辨析": "通智，智慧"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][23]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e159a67d60c76ad5",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "明",
+    "fields": {
+      "原句定位": "則知明而行無過矣",
+      "意思與必要辨析": "通達"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][24]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-21529466429c15a2",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "行",
+    "fields": {
+      "原句定位": "則知明而行無過矣",
+      "意思與必要辨析": "行為"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][25]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-eeecda6ad03ce4f8",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "過",
+    "fields": {
+      "原句定位": "則知明而行無過矣",
+      "意思與必要辨析": "過失。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][26]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7db05ff6f1f07b66",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "嘗",
+    "fields": {
+      "原句定位": "吾嘗終日而思矣",
+      "意思與必要辨析": "嘗：曾經"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][27]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1fd1145aef5c5195",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "須臾",
+    "fields": {
+      "原句定位": "不如須臾之所學也",
+      "意思與必要辨析": "須臾：片刻、一會兒、短時間"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][28]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ef3f8a9c24c1fa81",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "跂",
+    "fields": {
+      "原句定位": "吾嘗跂而望矣",
+      "意思與必要辨析": "跂：踮腳、提起腳後跟"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][29]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6c9d16c8b423ea1b",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "博見",
+    "fields": {
+      "原句定位": "不如登高之博見也",
+      "意思與必要辨析": "博見：看得廣。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][30]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-13297289377b76a3",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "招",
+    "fields": {
+      "原句定位": "登高而招",
+      "意思與必要辨析": "招：招手"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][31]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c547dad153e168aa",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "疾",
+    "fields": {
+      "原句定位": "聲非加疾也",
+      "意思與必要辨析": "疾：強大、宏亮"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][32]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-884f487cad601475",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "彰",
+    "fields": {
+      "原句定位": "而聞者彰",
+      "意思與必要辨析": "彰：清楚。「聲非加疾」說聲音沒有更大，借風卻令聽者聽得清楚。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][33]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7aaa35660605bb17",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "假",
+    "fields": {
+      "原句定位": "假輿馬者",
+      "意思與必要辨析": "借助、憑藉、利用。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][34]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8a6d8b03c853a0e9",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "輿馬",
+    "fields": {
+      "原句定位": "假輿馬者",
+      "意思與必要辨析": "車馬。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][35]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ba3dbed12ea725a2",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "舟楫",
+    "fields": {
+      "原句定位": "假舟楫者",
+      "意思與必要辨析": "船與槳，此指船隻；檝是楫的字形。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[9].blocks[2][1][36]",
+        "section": "字詞、通假、活用與句式（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p09-b02-g04",
+      "full-a-e03-p09-b02-g07",
+      "full-a-e03-p09-b02-g11",
+      "full-a-e03-p09-b02-g13",
+      "full-a-e03-p09-b02-g19",
+      "full-a-e03-p09-b02-g21",
+      "full-a-e03-p09-b02-g22",
+      "full-a-e03-p09-b02-g24",
+      "full-a-e03-p09-b02-g25",
+      "full-a-e03-p09-b02-g30",
+      "full-a-e03-p09-b02-g01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3a9c7fbe6dc6f268",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "利足",
+    "fields": {
+      "原句定位": "非利足也",
+      "意思與必要辨析": "利足：行走迅速"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][1]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e050c84ee27dc3e1",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "致",
+    "fields": {
+      "原句定位": "而致千里",
+      "意思與必要辨析": "致：到達"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][2]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b385a5ecbb0d5e91",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "能水",
+    "fields": {
+      "原句定位": "非能水也",
+      "意思與必要辨析": "水：作動詞，游泳"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][3]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-18a88e97e585d334",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "絕",
+    "fields": {
+      "原句定位": "而絕江河",
+      "意思與必要辨析": "絕：橫渡。車馬、舟楫分別彌補腳力與游泳能力的限制。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][4]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a8ffa4fdc3add441",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "生",
+    "fields": {
+      "原句定位": "君子生非異也",
+      "意思與必要辨析": "生通性，本性"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][5]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5fa41c74d935b8a9",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "異",
+    "fields": {
+      "原句定位": "君子生非異也",
+      "意思與必要辨析": "異：不同"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][6]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e78791c57a09ea73",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "物",
+    "fields": {
+      "原句定位": "善假於物也",
+      "意思與必要辨析": "物：外物、客觀條件，所論層面指後天學習。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][7]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-240d778c7efbf07a",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "淵",
+    "fields": {
+      "原句定位": "積水成淵",
+      "意思與必要辨析": "深水處"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][8]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b9b21e6b1bf717f1",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "蛟龍",
+    "fields": {
+      "原句定位": "蛟龍生焉",
+      "意思與必要辨析": "傳說中的水中動物"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][9]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4a16631e3c89ce13",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "興",
+    "fields": {
+      "原句定位": "風雨興焉",
+      "意思與必要辨析": "興起。生、焉的各義見逐句辨析。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][10]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-68b4a18a716e892f",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "神明",
+    "fields": {
+      "原句定位": "而神明自得",
+      "意思與必要辨析": "神明：神志從容、心智澄明，不指神靈"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][11]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e4fc3be1c390d248",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "聖心",
+    "fields": {
+      "原句定位": "聖心備焉",
+      "意思與必要辨析": "聖心：聖人心志、精神境界。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][12]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a9d6340c6e3dc61a",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "跬步",
+    "fields": {
+      "原句定位": "故不積跬步",
+      "意思與必要辨析": "跬步：古人稱舉一足為跬，舉足兩次為步，因此跬相當於半步"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][13]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-356b320fd477b3fa",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "無以",
+    "fields": {
+      "原句定位": "無以至千里",
+      "意思與必要辨析": "沒有方法或憑藉。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][14]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cb21850318100ed9",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "騏驥",
+    "fields": {
+      "原句定位": "騏驥一躍",
+      "意思與必要辨析": "騏驥：駿馬"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][15]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4dfa8ee22477078c",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "駑馬",
+    "fields": {
+      "原句定位": "駑馬十駕",
+      "意思與必要辨析": "駑馬：劣馬、鈍馬"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][16]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fb4cd38f83db8df7",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "十駕",
+    "fields": {
+      "原句定位": "駑馬十駕",
+      "意思與必要辨析": "十駕：行走十日的路程"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][17]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4ef49fe3be9793df",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "功",
+    "fields": {
+      "原句定位": "功在不舍",
+      "意思與必要辨析": "功：功效、成功。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][18]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cf231399c074c34f",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "舍",
+    "fields": {
+      "原句定位": "功在不舍",
+      "意思與必要辨析": "舍：捨棄、放棄"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][19]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ffdd7eac437bd938",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "鍥",
+    "fields": {
+      "原句定位": "鍥而舍之",
+      "意思與必要辨析": "鍥：刻"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][20]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9176d9f7233b56ff",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "鏤",
+    "fields": {
+      "原句定位": "金石可鏤",
+      "意思與必要辨析": "鏤：雕刻"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][21]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-aeedc732a52ab3eb",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "朽",
+    "fields": {
+      "原句定位": "朽木不折",
+      "意思與必要辨析": "朽：腐爛。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][22]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3d1fab9e080dbb27",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "螾",
+    "fields": {
+      "原句定位": "螾無爪牙之利",
+      "意思與必要辨析": "螾：蚯蚓"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][23]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e99938a3d4fcffbf",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "爪牙",
+    "fields": {
+      "原句定位": "螾無爪牙之利",
+      "意思與必要辨析": "爪牙是爪與牙，非今義幫兇"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][24]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8af73ff5d1c55b5c",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "筋骨",
+    "fields": {
+      "原句定位": "筋骨之強",
+      "意思與必要辨析": "筋與骨；之強後置修飾，指強健的筋骨。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][25]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-df0690baa33937f2",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "上",
+    "fields": {
+      "原句定位": "上食埃土",
+      "意思與必要辨析": "向上"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][26]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d6232ca5d66262e8",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "下",
+    "fields": {
+      "原句定位": "下飲黃泉",
+      "意思與必要辨析": "向下"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][27]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-05c6f804a4ca3297",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "埃土",
+    "fields": {
+      "原句定位": "上食埃土",
+      "意思與必要辨析": "土壤"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][28]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e56d347b6a0dfd50",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "黃泉",
+    "fields": {
+      "原句定位": "下飲黃泉",
+      "意思與必要辨析": "地下泉水，不是陰間。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][29]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fb3f484a9e3d4adb",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "跪",
+    "fields": {
+      "原句定位": "蟹六跪而二螯",
+      "意思與必要辨析": "跪：蟹足"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][30]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7a41d34711b946c2",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "螯",
+    "fields": {
+      "原句定位": "蟹六跪而二螯",
+      "意思與必要辨析": "螯：蟹鉗"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][31]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8470e1e1a0bf9d69",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "蛇蟺",
+    "fields": {
+      "原句定位": "非蛇蟺之穴無可寄託者",
+      "意思與必要辨析": "蟺今作鱔"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][32]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d8c0bd243e76c1c6",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "寄託",
+    "fields": {
+      "原句定位": "非蛇蟺之穴無可寄託者",
+      "意思與必要辨析": "寄託：寄居、容身，不是現代寄託情感。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][33]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0c8d6f9c2b1dbd7d",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "一",
+    "fields": {
+      "原句定位": "用心一也",
+      "意思與必要辨析": "專一。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][34]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f88d3454c321f3e7",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "躁",
+    "fields": {
+      "原句定位": "用心躁也",
+      "意思與必要辨析": "躁：浮躁、不專心。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[0][1][35]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b00-g06",
+      "full-a-e03-p10-b00-g07",
+      "full-a-e03-p10-b00-g09",
+      "full-a-e03-p10-b00-g10",
+      "full-a-e03-p10-b00-g12",
+      "full-a-e03-p10-b00-g18",
+      "full-a-e03-p10-b00-g22",
+      "full-a-e03-p10-b00-g25",
+      "full-a-e03-p10-b00-g26",
+      "full-a-e03-p10-b00-g27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3358f21179ca9362",
+    "chapterId": "essay-03",
+    "category": "vocabulary",
+    "title": "字詞、通假、活用與句式",
+    "fields": {
+      "內容": "判斷、解釋句如「輮使之然也」「用心一也」「用心躁也」，須譯出原因；「非……也，而……」先否定自身條件變強，再轉折寫借物所得，否定字不能漏。「螾無爪牙之利」的無是否定有，仍須連鋒利、強健的修飾詞理解。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[10].blocks[1]",
+        "section": "字詞、通假、活用與句式（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p10-b01-x005",
+      "full-a-e03-p10-b01-x006",
+      "full-a-e03-p10-b01-x007"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bd68ef0f9211fefc",
+    "chapterId": "essay-03",
+    "category": "exam",
+    "title": "歷年考查提示",
+    "fields": {
+      "內容": "下表列出歷年考查的知識方向；題目、答案與適用條件見配套考查索引。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[11].blocks[0]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0da2577c212e5c18",
+    "chapterId": "essay-03",
+    "category": "exam",
+    "title": "2018",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "例證與道理：舟楫、騏驥的例子及所說明道理"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[11].blocks[1][1][1]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e34ccdeffb783448",
+    "chapterId": "essay-03",
+    "category": "exam",
+    "title": "2018",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "主旨與內容：不斷學習的好處"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[11].blocks[1][1][2]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5c8495edb3ee17ac",
+    "chapterId": "essay-03",
+    "category": "exam",
+    "title": "2018",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "論證：全文說理手法"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[11].blocks[1][1][3]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f94063b215da150a",
+    "chapterId": "essay-03",
+    "category": "exam",
+    "title": "2019",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "字詞：須臾"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[11].blocks[1][1][4]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-816ee5165f1ad26c",
+    "chapterId": "essay-03",
+    "category": "exam",
+    "title": "2023",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "字詞：中繩的中"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[11].blocks[1][1][5]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5e35a773ea0eebd9",
+    "chapterId": "essay-03",
+    "category": "structure",
+    "title": "章末串連｜重建全文",
+    "fields": {
+      "內容": "學習的成效、憑藉和方法共同支持「學不可以已」。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[12].blocks[0]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-67a642e6484d3f5c",
+    "chapterId": "essay-03",
+    "category": "structure",
+    "title": "為何學",
+    "fields": {
+      "怎樣連起來": "青冰、木金說明後天可改造提升；博學日省把變化落在智慧與品行。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[12].blocks[1][1][1]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b91cb86cb78fa566",
+    "chapterId": "essay-03",
+    "category": "structure",
+    "title": "怎樣擴大能力",
+    "fields": {
+      "怎樣連起來": "登高、顺風、車馬、舟楫說外物能補不足，歸結善假於物。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[12].blocks[1][1][2]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-77f7483981e94749",
+    "chapterId": "essay-03",
+    "category": "structure",
+    "title": "怎樣持續",
+    "fields": {
+      "怎樣連起來": "土水說積累，駑馬與鍥刻說不捨，螾蟹說專一；三者共同使努力有方向且不中斷。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[2].pages[12].blocks[1][1][3]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c2286ab41702b31e",
+    "chapterId": "essay-03",
+    "category": "technique",
+    "title": "對比與襯托",
+    "fields": {
+      "內容": "對比把兩方並置，突出差異，兩方都參與表意；襯托有主次，以陪襯的一方突出主要對象。分析須指出哪兩方、在哪一方面形成關係，以及這個關係如何支持文意。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[264].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[284].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[472].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[549].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2134].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p02-b00-v01",
+      "full-a-e03-p03-b00-v09",
+      "full-a-e03-p07-b00-c02",
+      "full-a-e03-p10-b00-g22",
+      "dse-2018-1a-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0c6f34fc31f65035",
+    "chapterId": "essay-03",
+    "category": "technique",
+    "title": "比喻",
+    "fields": {
+      "內容": "比喻把兩種不同而具有相似點的事物聯繫起來。本體是要說明的對象，喻體是用來作比的事物。明喻常用「如、似、猶」等喻詞；暗喻以「是、為」等把兩者連起來；借喻只出現喻體。辨析時須指出相似點和具體作用。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[290].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[475].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2134].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2148].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-a-e03-p04-b00-v01",
+      "full-a-e03-p08-b00-concept",
+      "dse-2018-1a-4",
+      "dse-2023-1a-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b3e836df2cc09a3a",
+    "chapterId": "essay-03",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "青與冰說提升，輮木說加工改變，木金說受教磨礪。落到人身上，智慧明達與行為無過是兩個層面。\n登高、順風、車馬、舟楫各有助益；君子並非天性不同，而是善於運用條件。思考不能脫離學習而獨行。\n土水累積說由小成大；駿馬劣馬與雕刻說不放棄；螾蟹對比說專心。螃蟹六跪沿用課文，不把古文描述當現代生物分類。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2134].learning.knowledge[2]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "dse-2018-1a-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  }
+]

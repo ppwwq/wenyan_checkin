@@ -1,0 +1,133 @@
+{
+  "version": "2026.10.13.1",
+  "bankVersion": "2026.10.11.1",
+  "questions": 2161,
+  "activeQuestions": 2160,
+  "authoredQuestions": 2134,
+  "pastPaperQuestions": 27,
+  "chapters": [
+    {
+      "id": "essay-01",
+      "title": "論仁、論孝、論君子",
+      "kind": "prose"
+    },
+    {
+      "id": "essay-02",
+      "title": "魚我所欲也",
+      "kind": "prose"
+    },
+    {
+      "id": "essay-03",
+      "title": "勸學",
+      "kind": "prose"
+    },
+    {
+      "id": "essay-04",
+      "title": "逍遙遊",
+      "kind": "prose"
+    },
+    {
+      "id": "essay-05",
+      "title": "廉頗藺相如列傳",
+      "kind": "prose"
+    },
+    {
+      "id": "essay-06",
+      "title": "出師表",
+      "kind": "prose"
+    },
+    {
+      "id": "essay-07",
+      "title": "師說",
+      "kind": "prose"
+    },
+    {
+      "id": "essay-08",
+      "title": "始得西山宴遊記",
+      "kind": "prose"
+    },
+    {
+      "id": "essay-09",
+      "title": "岳陽樓記",
+      "kind": "prose"
+    },
+    {
+      "id": "essay-10",
+      "title": "六國論",
+      "kind": "prose"
+    },
+    {
+      "id": "essay-11",
+      "title": "山居秋暝",
+      "kind": "poem"
+    },
+    {
+      "id": "essay-12",
+      "title": "月下獨酌",
+      "kind": "poem"
+    },
+    {
+      "id": "essay-13",
+      "title": "登樓",
+      "kind": "poem"
+    },
+    {
+      "id": "essay-14",
+      "title": "念奴嬌・赤壁懷古",
+      "kind": "poem"
+    },
+    {
+      "id": "essay-15",
+      "title": "聲聲慢・秋情",
+      "kind": "poem"
+    },
+    {
+      "id": "essay-16",
+      "title": "青玉案・元夕",
+      "kind": "poem"
+    }
+  ],
+  "knowledgeRecords": 3133,
+  "categories": {
+    "text": "原文與語譯",
+    "vocabulary": "字詞與句式",
+    "theme": "主旨與思想",
+    "structure": "結構與脈絡",
+    "character": "人物與情感",
+    "technique": "手法與賞析",
+    "comparison": "比較與應用",
+    "background": "背景與文體",
+    "exam": "考查紀錄"
+  },
+  "categoryCounts": {
+    "background": 56,
+    "theme": 423,
+    "comparison": 58,
+    "text": 192,
+    "vocabulary": 1576,
+    "exam": 118,
+    "character": 52,
+    "technique": 461,
+    "structure": 197
+  },
+  "extractedOccurrences": 3133,
+  "exactDuplicatesMerged": 0,
+  "concepts": 2267,
+  "repeatedHeadingsConsolidated": 866,
+  "disputedSourceLocations": 16,
+  "reviewStatusCounts": {
+    "organized": 3103,
+    "multiple-interpretations": 16,
+    "interpretation-note": 13,
+    "hold": 1
+  },
+  "guideComparisons": 6,
+  "wordComparisons": 11,
+  "sourceFiles": {
+    "web-study/content/sources/student-content.json": "e3209a86d49ec0b62d03f15296d62675c4b8e2aa80bebdd17303afc02feec491",
+    "web-study/content/sources/appendix-content.json": "854285f257f56c82955d54c645cfebfc272de6740428a6474fac7050f5148b15",
+    "web-study/content/bank.json": "28da4827469740cf77f5c206de70998a8d2b10bb206c27bd900390a931924f07",
+    "web-study/content/source-coverage.json": "a1e461804ed5a47bfa2d6fbdbb257f9ca82d56d4017b9ba6281ab3ac56592633",
+    "web-study/content/sources/revision-book.pdf": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa"
+  }
+}

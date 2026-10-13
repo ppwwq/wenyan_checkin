@@ -1,0 +1,5006 @@
+[
+  {
+    "id": "k-313c104d4707c505",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "比喻",
+    "fields": {
+      "定義與辨識": "利用本體與喻體的相似點，以具體、常見的事物說明抽象、生疏的事物或道理。\n明喻：本體＋喻詞（像、似、如、彷彿）＋喻體。\n暗喻：本體＋「是／為／變成／成為／當作」等＋喻體。\n借喻：只出現喻體，省略本體、喻詞；表達較含蓄隱晦。\n作用：使抽象事理具體、形象、易明；答案須指出本體、喻體及相似點。",
+      "例子與作用": "明喻：「沉澱着彩虹似的夢。」\n暗喻：「那河畔的金柳，是夕陽中的新娘。」（徐志摩《再別康橋》）\n借喻：「你不妨搖曳着一頭的蓬草。」以蓬草比喻頭髮。（徐志摩《翡冷翠山居閒話》）"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[0].rows[0]",
+        "section": "修辭｜形象與聯想"
+      }
+    ],
+    "questionIds": [
+      "full-d-00-00"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭"
+  },
+  {
+    "id": "k-e55446bdc8ad0582",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "比擬",
+    "fields": {
+      "定義與辨識": "借助想像，把物當人、把人當物，或把甲物當乙物。\n擬人：賦予物人的行動、言語、思想感情。\n擬物：把人當物，賦予物的特性或行為；也可把甲物當乙物。\n作用：突出形象或性格，令描寫生動，寄託感情；要說明被賦予甚麼特徵。",
+      "例子與作用": "擬人：「成羣的白鷺鷥在凝神養氣，誰也不叫一聲。」（梁容若《我看大明湖》）\n擬物：「十指在翻飛疾走，把驟雨潑落窗格和浮萍。」把十指當鳥和獸來寫。（黃國彬《聽陳蕾士的琴箏》）\n「月徘徊、影零亂」也把月、影人格化。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[0].rows[1]",
+        "section": "修辭｜形象與聯想"
+      }
+    ],
+    "questionIds": [
+      "q-appendix-003",
+      "full-d-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭"
+  },
+  {
+    "id": "k-1cb1981071e67133",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "借代",
+    "fields": {
+      "定義與辨識": "不用本名，借用與本體密切相關的事物代稱，例如部分代全體、具體代抽象、外表特徵代人物，亦可用工具、產物等代稱。關鍵是關聯替代。\n作用：語言簡潔而具體，突出特徵並引起聯想。",
+      "例子與作用": "「我為了明天的麵包及昨日的債務辛勞地工作。」（紀弦《存在主義》）以「麵包」替代糧食；在句中亦令人聯想到生計。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[0].rows[2]",
+        "section": "修辭｜形象與聯想"
+      }
+    ],
+    "questionIds": [
+      "full-d-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭"
+  },
+  {
+    "id": "k-d8aae1dc32b1f3a9",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "象徵",
+    "fields": {
+      "定義與辨識": "用容易引起聯想的具體符號、事物或形象，間接表現抽象情意、觀念、思想和感情。\n作用：表達含蓄，深化主題，增強感染力；須交代形象與象徵義的關係。",
+      "例子與作用": "「爸爸的花兒落了，我也不再是小孩子。」（林海音《爸爸的花兒落了》）花兒落了象徵爸爸去世；後句同時帶出人物成長。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[0].rows[3]",
+        "section": "修辭｜形象與聯想"
+      }
+    ],
+    "questionIds": [
+      "full-d-00-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭"
+  },
+  {
+    "id": "k-a88780197aa371e4",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "通感（移覺）",
+    "fields": {
+      "定義與辨識": "把一種感官的詞語移來描寫另一種感官，可與比喻同時出現。\n作用：使難以描摹的感受具體新鮮，擴闊聯想並增強感染力。",
+      "例子與作用": "以『渺茫的歌聲』寫清香：聽覺寫嗅覺。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[0].rows[4]",
+        "section": "修辭｜形象與聯想"
+      }
+    ],
+    "questionIds": [
+      "full-d-00-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭"
+  },
+  {
+    "id": "k-48a52696307b4300",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "對比（對照）",
+    "fields": {
+      "定義與辨識": "把對立的事物、觀念，或同一事物相反／相對的兩面並列比較，突出差異；分析時須說清雙方及比較角度。\n作用：使差異、優劣或正誤鮮明，突出觀點或情感。",
+      "例子與作用": "「朱門酒肉臭，路有凍死骨。」（杜甫《自京赴奉先縣詠懷五百字》）對比貴族奢華與百姓窮苦，揭露當時悲慘的社會狀況。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[1].rows[0]",
+        "section": "修辭｜對照與強調"
+      }
+    ],
+    "questionIds": [
+      "full-d-01-00"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭"
+  },
+  {
+    "id": "k-6720b5c7fac1bae4",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "襯托（映襯）",
+    "fields": {
+      "定義與辨識": "又稱烘托。有主體和陪襯物之分。\n正襯：用性質相近或相關的事物突出主體，如好的襯更好、大的襯更大。\n反襯：用性質相反或對立的事物突出主體，如壞的襯好、小的襯大。\n作用：令主體特徵更鮮明；答題要明說誰是主體、誰是陪襯。",
+      "例子與作用": "「窰裏靜悄悄的，只聽見鍋台後面那隻老黃貓的呼嚕聲。」（路遙《人生》）以聲音反襯窰裏寧靜。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[1].rows[1]",
+        "section": "修辭｜對照與強調"
+      }
+    ],
+    "questionIds": [
+      "full-d-01-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭"
+  },
+  {
+    "id": "k-81bd64ba66985749",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "誇張／誇飾",
+    "fields": {
+      "定義與辨識": "故意言過其實地描寫形象、特徵、作用或程度。\n擴大誇張：往多、快、高、長、強等方面誇大。\n縮小誇張：往少、慢、矮、短、弱等方面縮小。\n超前誇張：把後發生說成先發生或同時發生。\n作用：強化特徵與主觀感受，形成鮮明印象；不可把修辭數量當統計。",
+      "例子與作用": "「白髮三千丈，緣愁似个長。」（李白《秋浦歌》）誇大白髮長度，強化愁苦的主觀感受。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[1].rows[2]",
+        "section": "修辭｜對照與強調"
+      }
+    ],
+    "questionIds": [
+      "full-d-01-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭"
+  },
+  {
+    "id": "k-d608d4ce21cf9804",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "反語",
+    "fields": {
+      "定義與辨識": "字面意思與內心真意相反。\n反意正說：褒詞貶用，表面讚賞，實際責罵。\n正意反說：貶詞褒用，表面責罵，實際讚賞。\n作用：產生諷刺或幽默效果，曲折表達憤慨、不滿、自責等感情，引人深思，有時比正說更有力量。",
+      "例子與作用": "「我現在想想，那時真是太聰明了！」（朱自清《背影》）用「太聰明」反省自己當時自以為是。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[1].rows[3]",
+        "section": "修辭｜對照與強調"
+      }
+    ],
+    "questionIds": [
+      "full-d-01-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭"
+  },
+  {
+    "id": "k-0a998c3ce873c687",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "雙關",
+    "fields": {
+      "定義與辨識": "在特定語境中，使語句同時具有表面和內裏兩層意思。\n語義雙關：利用一詞多義。\n諧音雙關：利用同音或近音。\n作用：含蓄、風趣，增添言外之意；必須寫出兩層意思。",
+      "例子與作用": "「東邊日出西邊雨，道是無晴卻有晴。」（劉禹錫《竹枝詞》）「晴」雙關「情」：一層是天氣晴雨，一層是情感有無。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[1].rows[4]",
+        "section": "修辭｜對照與強調"
+      }
+    ],
+    "questionIds": [
+      "full-d-01-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭"
+  },
+  {
+    "id": "k-182d577a3a759275",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "設問",
+    "fields": {
+      "定義與辨識": "故意設置問題，引起注意、帶動思考；可自問自答、留待下文回答，也可提出問題而不予確定答案。\n作用：引起注意、啟發思考、帶出下文或轉換層次。",
+      "例子與作用": "「怎樣才能把一種勞作做到圓滿呢？惟一的祕訣就是忠實……」（梁啟超《敬業與樂業》）屬自問自答。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[2].rows[0]",
+        "section": "修辭｜語氣與引述"
+      }
+    ],
+    "questionIds": [
+      "q-appendix-008",
+      "full-d-02-00"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭"
+  },
+  {
+    "id": "k-f65d6cf04ce22631",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "反問（反詰）",
+    "fields": {
+      "定義與辨識": "只問不答，以問句表達已確定的意思。否定形式的反問可表肯定，肯定形式的反問可表否定；須按語境還原實意。\n作用：加強語氣，使立場鮮明、有不容置辯之感。",
+      "例子與作用": "「做工苦，難道不做工就不苦嗎？」（梁啟超《敬業與樂業》）實意是不做工也苦。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[2].rows[1]",
+        "section": "修辭｜語氣與引述"
+      }
+    ],
+    "questionIds": [
+      "full-d-02-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭"
+  },
+  {
+    "id": "k-86968871b7f8702e",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "引用",
+    "fields": {
+      "定義與辨識": "援引現成語句或資料，如名言、成語、諺語、格言、詩句、警句、典籍或他人話語。可以原文照錄，也可融入文字；可以註明或不註明出處。\n作用：闡明論點，表達思想感情，或說明內容；視引用材料增加說服力、可信度、權威感或文化意味。",
+      "例子與作用": "「陸放翁有一聯詩句：『傳呼快馬迎新月，卻上輕輿趁晚涼。』」（徐志摩《我所知道的康橋》）援引陸游詩句。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[2].rows[2]",
+        "section": "修辭｜語氣與引述"
+      }
+    ],
+    "questionIds": [
+      "full-d-02-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭"
+  },
+  {
+    "id": "k-f5f9844b50eb9c7f",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "用典",
+    "fields": {
+      "定義與辨識": "把古書故事、人物事跡或有來歷的詞語融入文句，通常不直接交代完整故事。\n作用：以少總多，含蓄寄託感情、處境或志向，增添歷史文化聯想。",
+      "例子與作用": "『梁甫吟』借諸葛亮典故寄託報國志向。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[2].rows[3]",
+        "section": "修辭｜語氣與引述"
+      }
+    ],
+    "questionIds": [
+      "q-appendix-002",
+      "full-d-02-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭"
+  },
+  {
+    "id": "k-b1e2d6b0c592f0c4",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "呼告",
+    "fields": {
+      "定義與辨識": "行文中直接呼喚人或物，再向其說話；可分呼人、呼物。可先叫對方引起注意，也可突然撇開一般敘述，向不在面前的人、物傾訴。\n作用：集中感情，增強抒情感染力與現場感。",
+      "例子與作用": "「諸君啊！醒醒罷！」（梁啟超《為學》）直接呼喚對方，加強感情與感染力。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[2].rows[4]",
+        "section": "修辭｜語氣與引述"
+      }
+    ],
+    "questionIds": [
+      "full-d-02-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭"
+  },
+  {
+    "id": "k-dca68d95ab67623d",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "對偶",
+    "fields": {
+      "定義與辨識": "把字數相等、結構相同或基本相同、意思密切相關的兩個短語或句子對稱排列。可分單句對偶、複句對偶；意思可相對或相反。\n作用：句式整齊勻稱，音律和諧，增強節奏，也可形成對照。",
+      "例子與作用": "「浮雲遊子意，落日故人情。」（李白《送友人》）兩句各五字，結構相應。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[3].rows[0]",
+        "section": "修辭｜句式與推進"
+      }
+    ],
+    "questionIds": [
+      "q-appendix-007",
+      "full-d-03-00"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭"
+  },
+  {
+    "id": "k-5e9aa8445b48af4f",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "排比",
+    "fields": {
+      "定義與辨識": "三個或以上結構相同／相似、語氣一致、意思密切相關的詞組、句子或段落連續排列。後面的句子常重複前句某些詞語。\n作用：強調內容，增強氣勢和節奏，表達強烈感情。",
+      "例子與作用": "「燕子去了，有再來的時候；楊柳枯了，有再青的時候；桃花謝了，有再開的時候。」（朱自清《匆匆》）三組句式連續排列。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[3].rows[1]",
+        "section": "修辭｜句式與推進"
+      }
+    ],
+    "questionIds": [
+      "full-d-03-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭"
+  },
+  {
+    "id": "k-a1ca809f913956f7",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "層遞",
+    "fields": {
+      "定義與辨識": "三項或以上按深淺、高低、大小、輕重、多少、遠近、本末、先後等次序遞升或遞降，逐層推進。\n作用：層次分明、環環緊扣、步步深入，形成漸進美；增強說理的說服力或抒情的感染力。",
+      "例子與作用": "「籬外有四野的山，繞山的水，抱住水的岸，以及抱住岸的草。」（張曉風《情懷》）由山、水、岸、草逐層推移。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[3].rows[2]",
+        "section": "修辭｜句式與推進"
+      }
+    ],
+    "questionIds": [
+      "full-d-03-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭"
+  },
+  {
+    "id": "k-1629e5189c88c2b6",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "反復",
+    "fields": {
+      "定義與辨識": "為表達需要，使同一詞語或句子一再出現。\n連續反復：接連出現。\n間隔反復：中間隔有其他語句，再次出現。\n作用：加強語勢，強調內容，集中或推進感情。",
+      "例子與作用": "「沉默啊，沉默啊！不在沉默中爆發，就在沉默中滅亡。」（魯迅《紀念劉和珍君》）以「沉默」反復強化感情。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[3].rows[3]",
+        "section": "修辭｜句式與推進"
+      }
+    ],
+    "questionIds": [
+      "full-d-03-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭"
+  },
+  {
+    "id": "k-e0c1e9b7ac8bb2a4",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "頂真（頂針／聯珠）",
+    "fields": {
+      "定義與辨識": "以上句末字／詞語作下句開頭，或以前段末句作後段首句，上遞下接，使前後首尾相連。\n作用：語氣連貫，意思環環相扣，音律流暢。",
+      "例子與作用": "「將軍百戰死，壯士十年歸。歸來見天子，天子坐明堂。」（《木蘭辭》）「歸／歸來」「天子／天子」接續。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[3].rows[4]",
+        "section": "修辭｜句式與推進"
+      }
+    ],
+    "questionIds": [
+      "q-appendix-006",
+      "full-d-03-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭"
+  },
+  {
+    "id": "k-27dfb29be1e4fac5",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "互文",
+    "fields": {
+      "定義與辨識": "相關意思分寫在上下兩句，理解時須把兩句成分互相補足。\n作用：文字精煉，句式整齊，語意含蓄完整；不能逐句割裂直譯。",
+      "例子與作用": "「不以物喜，不以己悲。」（《岳陽樓記》）上下句互相補足：不因外物或個人遭遇而或喜或悲。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[4].rows[0]",
+        "section": "修辭｜互文與聲律"
+      }
+    ],
+    "questionIds": [
+      "q-appendix-001",
+      "full-d-04-00"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭"
+  },
+  {
+    "id": "k-3b5a7d9448937ed2",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "疊字／疊詞",
+    "fields": {
+      "定義與辨識": "相同的字或詞直接重疊使用。\n作用：增強音韻節奏，突出程度、狀態或動作反覆。",
+      "例子與作用": "「舟遙遙以輕颺，風飄飄而吹衣。」（陶淵明《歸去來辭並序》）「遙遙」「飄飄」增強音韻，描寫狀態。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[4].rows[1]",
+        "section": "修辭｜互文與聲律"
+      }
+    ],
+    "questionIds": [
+      "full-d-04-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭"
+  },
+  {
+    "id": "k-648f6fd492752563",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "雙聲",
+    "fields": {
+      "定義與辨識": "兩個字的聲母相同，組成雙音詞。\n作用：使語音和諧，增強音樂感；辨認時須按讀音而非字形。",
+      "例子與作用": "「既自以心為形役，奚惆悵而獨悲。」（陶淵明《歸去來辭並序》）「惆悵」為雙聲例。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[4].rows[2]",
+        "section": "修辭｜互文與聲律"
+      }
+    ],
+    "questionIds": [
+      "full-d-04-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭"
+  },
+  {
+    "id": "k-c05e1e8da2e5bdb8",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "疊韻",
+    "fields": {
+      "定義與辨識": "兩個字的韻母相同，組成雙音詞。\n作用：使語音迴環和諧，增強音樂感。",
+      "例子與作用": "「景翳翳以將入，撫孤松而盤桓。」（陶淵明《歸去來辭並序》）「盤桓」為疊韻例。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[4].rows[3]",
+        "section": "修辭｜互文與聲律"
+      }
+    ],
+    "questionIds": [
+      "full-d-04-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭"
+  },
+  {
+    "id": "k-a5412238b6a8e566",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "比喻 vs 借代",
+    "fields": {
+      "定義與辨識": "相似關係 vs 關聯替代",
+      "例子與作用": "『北極』若把朝廷比作北極星，是借喻；『紅領巾』代學生，是借代。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[5].rows[0]",
+        "section": "修辭與結構｜易混淆速查"
+      }
+    ],
+    "questionIds": [
+      "q-appendix-004",
+      "full-d-05-00"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭與結構"
+  },
+  {
+    "id": "k-b1f7e932d4213aa5",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "對比 vs 襯托",
+    "fields": {
+      "定義與辨識": "並列比較差異 vs 用陪襯突出主體",
+      "例子與作用": "對比須交代雙方；襯托須進一步分清主體與陪襯物。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[5].rows[1]",
+        "section": "修辭與結構｜易混淆速查"
+      }
+    ],
+    "questionIds": [
+      "full-d-05-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭與結構"
+  },
+  {
+    "id": "k-f328f85ed83a8f90",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "設問 vs 反問",
+    "fields": {
+      "定義與辨識": "提出問題帶動思考 vs 問句包含確定意思",
+      "例子與作用": "設問可自答，也可不予確定答案；反問須還原已有的肯定或否定意思。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[5].rows[2]",
+        "section": "修辭與結構｜易混淆速查"
+      }
+    ],
+    "questionIds": [
+      "full-d-05-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭與結構"
+  },
+  {
+    "id": "k-250a9bedf2b6dc7d",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "排比 vs 層遞",
+    "fields": {
+      "定義與辨識": "三項以上重結構與氣勢 vs 三項以上有程度次序",
+      "例子與作用": "同一句可同時成立，但答案要分別指出結構與遞進尺度。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[5].rows[3]",
+        "section": "修辭與結構｜易混淆速查"
+      }
+    ],
+    "questionIds": [
+      "full-d-05-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭與結構"
+  },
+  {
+    "id": "k-1299b9d4db5485ae",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "引用 vs 用典",
+    "fields": {
+      "定義與辨識": "援引現成語句／資料 vs 融入有出處的故事或詞語",
+      "例子與作用": "關鍵是作者有沒有把典故壓縮進文句，讓背景意義參與表達。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[5].rows[4]",
+        "section": "修辭與結構｜易混淆速查"
+      }
+    ],
+    "questionIds": [
+      "full-d-05-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭與結構"
+  },
+  {
+    "id": "k-f496ab138ab1fa4f",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "疊字 vs 反復",
+    "fields": {
+      "定義與辨識": "字詞重疊形成語音形態 vs 為強調而讓語句再現",
+      "例子與作用": "『尋尋覓覓』偏疊詞；整句隔段再出現偏反復。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[5].rows[5]",
+        "section": "修辭與結構｜易混淆速查"
+      }
+    ],
+    "questionIds": [
+      "q-appendix-005",
+      "full-d-05-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭與結構"
+  },
+  {
+    "id": "k-04a96e7cd9b6ae20",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "伏筆 vs 鋪墊",
+    "fields": {
+      "定義與辨識": "留下後文線索 vs 為重點蓄勢",
+      "例子與作用": "伏筆重『日後會應驗』；鋪墊重『先準備氣氛／條件』。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[5].rows[6]",
+        "section": "修辭與結構｜易混淆速查"
+      }
+    ],
+    "questionIds": [
+      "full-d-05-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭與結構"
+  },
+  {
+    "id": "k-d2b6141dac27c5ff",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "插敘 vs 補敘",
+    "fields": {
+      "定義與辨識": "主線中插入相關片段後回主線 vs 後文補足前文漏項",
+      "例子與作用": "看是否暫時離開主線，以及補充發生在敘述的哪一點。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[5].rows[7]",
+        "section": "修辭與結構｜易混淆速查"
+      }
+    ],
+    "questionIds": [
+      "full-d-05-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "修辭與結構"
+  },
+  {
+    "id": "k-ced9e7627422ccda",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "順敘",
+    "fields": {
+      "定義與辨識": "按時間先後或事件發生、發展的順序敘述，是常見、基本的敘事方式。",
+      "例子與作用": "清楚交代來龍去脈。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[6].rows[0]",
+        "section": "記敘｜順序、人稱與線索"
+      }
+    ],
+    "questionIds": [
+      "full-d-06-00"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "記敘"
+  },
+  {
+    "id": "k-d4496808723430b7",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "倒敘",
+    "fields": {
+      "定義與辨識": "先寫結局、現況或最突出情節，再回頭按發展順序記述。",
+      "例子與作用": "突出中心，製造懸念，吸引閱讀，避免平鋪直敘。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[6].rows[1]",
+        "section": "記敘｜順序、人稱與線索"
+      }
+    ],
+    "questionIds": [
+      "full-d-06-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "記敘"
+  },
+  {
+    "id": "k-f185b0502261d060",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "插敘",
+    "fields": {
+      "定義與辨識": "主線暫停，插入相關的過去片段、補充或解釋，之後回到原敘述。",
+      "例子與作用": "豐富內容，增加層次，深化主題，使敘述有波瀾。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[6].rows[2]",
+        "section": "記敘｜順序、人稱與線索"
+      }
+    ],
+    "questionIds": [
+      "full-d-06-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "記敘"
+  },
+  {
+    "id": "k-8f6069c0d2374c5f",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "補敘",
+    "fields": {
+      "定義與辨識": "前文已提及事件，後文再補充資料或解釋。",
+      "例子與作用": "補足因果，揭開先前懸念，使情節完整合理。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[6].rows[3]",
+        "section": "記敘｜順序、人稱與線索"
+      }
+    ],
+    "questionIds": [
+      "full-d-06-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "記敘"
+  },
+  {
+    "id": "k-966be539a36ebd01",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "散敘",
+    "fields": {
+      "定義與辨識": "把時間不連貫但意義有聯繫的多件事組織起來。",
+      "例子與作用": "從不同側面展現、深化主題，增加深度和廣度。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[6].rows[4]",
+        "section": "記敘｜順序、人稱與線索"
+      }
+    ],
+    "questionIds": [
+      "full-d-06-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "記敘"
+  },
+  {
+    "id": "k-b06aab462a454a91",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "詳寫與略寫",
+    "fields": {
+      "定義與辨識": "詳寫是具體細緻地記事；略寫是粗略交代。與主題、高潮或人物轉變密切的情節詳寫；關係較小的略寫。",
+      "例子與作用": "略寫仍可作過渡或總結。詳略有致能突出中心，避免內容瑣碎煩冗。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[6].rows[5]",
+        "section": "記敘｜順序、人稱與線索"
+      }
+    ],
+    "questionIds": [
+      "full-d-06-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "記敘"
+  },
+  {
+    "id": "k-1dc57515584a8477",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "第一人稱",
+    "fields": {
+      "定義與辨識": "以當事人「我」的身分和角度記述親身經歷。",
+      "例子與作用": "真實、親切，便於直接抒情；視野受「我」所知限制。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[6].rows[6]",
+        "section": "記敘｜順序、人稱與線索"
+      }
+    ],
+    "questionIds": [
+      "full-d-06-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "記敘"
+  },
+  {
+    "id": "k-537258324f92932f",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "第三人稱",
+    "fields": {
+      "定義與辨識": "以旁觀者的身分和角度敘述人物、事件或別人的經歷。",
+      "例子與作用": "便於交代全貌，敘述範圍較廣。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[6].rows[7]",
+        "section": "記敘｜順序、人稱與線索"
+      }
+    ],
+    "questionIds": [
+      "full-d-06-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "記敘"
+  },
+  {
+    "id": "k-7ad521134feabe8a",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "選用敘事人稱",
+    "fields": {
+      "定義與辨識": "因應題材和內容選擇；一般維持同一敘事人稱，轉換時要交代清楚。",
+      "例子與作用": "避免敘事視角混亂。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[6].rows[8]",
+        "section": "記敘｜順序、人稱與線索"
+      }
+    ],
+    "questionIds": [
+      "full-d-06-08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "記敘"
+  },
+  {
+    "id": "k-794dfa85000fca04",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "時間線索",
+    "fields": {
+      "定義與辨識": "以時間推移串連人物經歷與事件。",
+      "例子與作用": "《一件小事》按「我」乘人力車遇意外、與車夫處理不同、最後結果的順序敘述。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[6].rows[9]",
+        "section": "記敘｜順序、人稱與線索"
+      }
+    ],
+    "questionIds": [
+      "full-d-06-09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "記敘"
+  },
+  {
+    "id": "k-aff5f2c0bec46e4f",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "空間線索",
+    "fields": {
+      "定義與辨識": "按空間位置的變換敘述。",
+      "例子與作用": "《大明湖》以不同景物帶讀者一步步遊覽。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[6].rows[10]",
+        "section": "記敘｜順序、人稱與線索"
+      }
+    ],
+    "questionIds": [
+      "full-d-06-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "記敘"
+  },
+  {
+    "id": "k-9b93949a3d0b521d",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "事物線索",
+    "fields": {
+      "定義與辨識": "圍繞具體事件或物件，組織相關人和事。",
+      "例子與作用": "《珍珠鳥》以人鳥相處帶出「信賴，往往能創造出美好的境界」。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[6].rows[11]",
+        "section": "記敘｜順序、人稱與線索"
+      }
+    ],
+    "questionIds": [
+      "full-d-06-11"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "記敘"
+  },
+  {
+    "id": "k-729f03bb542ead2d",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "人物線索",
+    "fields": {
+      "定義與辨識": "圍繞人物的性格或事跡組織材料。",
+      "例子與作用": "《楊修之死》以楊修的行事為人，揭示他被處死的原因。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[6].rows[12]",
+        "section": "記敘｜順序、人稱與線索"
+      }
+    ],
+    "questionIds": [
+      "full-d-06-12"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "記敘"
+  },
+  {
+    "id": "k-85beaa674c545888",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "思想感情線索",
+    "fields": {
+      "定義與辨識": "以一種感情，或感情的變化貫串全文。",
+      "例子與作用": "《鄉居閑情》以熱愛鄉居之情串連鄉間環境與生活。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[6].rows[13]",
+        "section": "記敘｜順序、人稱與線索"
+      }
+    ],
+    "questionIds": [
+      "full-d-06-13"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "記敘"
+  },
+  {
+    "id": "k-5bd021bd02a8748d",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "直接／正面描寫",
+    "fields": {
+      "定義與辨識": "直接描繪人物、事物或景物本身的形態和特徵。",
+      "例子與作用": "具體呈現對象；人物可分外貌、行動、語言、心理四項。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[7].rows[0]",
+        "section": "描寫｜人物與正側面"
+      }
+    ],
+    "questionIds": [
+      "full-d-07-00"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "描寫"
+  },
+  {
+    "id": "k-cb0f1798b9ade725",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "外貌／肖像描寫",
+    "fields": {
+      "定義與辨識": "寫容貌、神情、服飾、身材等外部特徵；也留意不同情況下的神態、表情變化。",
+      "例子與作用": "突出人物形象，表現性格；不能只列外表資料。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[7].rows[1]",
+        "section": "描寫｜人物與正側面"
+      }
+    ],
+    "questionIds": [
+      "full-d-07-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "描寫"
+  },
+  {
+    "id": "k-59316c69f487c797",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "行動描寫",
+    "fields": {
+      "定義與辨識": "描摹動作、行為舉止。",
+      "例子與作用": "從行動看背後的思想、動機及性格。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[7].rows[2]",
+        "section": "描寫｜人物與正側面"
+      }
+    ],
+    "questionIds": [
+      "full-d-07-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "描寫"
+  },
+  {
+    "id": "k-88391726f2b8a6a3",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "語言描寫",
+    "fields": {
+      "定義與辨識": "寫獨白或對話，包括說話的內容和語氣。",
+      "例子與作用": "呈現人物的思想感情、個性、身分和經歷；言為心聲。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[7].rows[3]",
+        "section": "描寫｜人物與正側面"
+      }
+    ],
+    "questionIds": [
+      "full-d-07-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "描寫"
+  },
+  {
+    "id": "k-6eee9677d4477989",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "心理描寫",
+    "fields": {
+      "定義與辨識": "寫特定環境中的感覺、心態、聯想等，可用人物內心獨白或敘述者描述。",
+      "例子與作用": "展示內心世界，了解性格及思想感情。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[7].rows[4]",
+        "section": "描寫｜人物與正側面"
+      }
+    ],
+    "questionIds": [
+      "full-d-07-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "描寫"
+  },
+  {
+    "id": "k-86d553f405bf30f0",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "間接／側面描寫",
+    "fields": {
+      "定義與辨識": "通過別人或其他事物，間接烘托主要對象。",
+      "例子與作用": "強化特徵，讓讀者聯想對象形象，增加閱讀趣味。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[7].rows[5]",
+        "section": "描寫｜人物與正側面"
+      }
+    ],
+    "questionIds": [
+      "full-d-07-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "描寫"
+  },
+  {
+    "id": "k-989aafa6674d2422",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "旁人反應作襯托",
+    "fields": {
+      "定義與辨識": "寫對象身邊人物對他的印象、感受，或周圍事物的反應。",
+      "例子與作用": "從側面突出主體形象；答題要交代誰烘托誰。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[7].rows[6]",
+        "section": "描寫｜人物與正側面"
+      }
+    ],
+    "questionIds": [
+      "full-d-07-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "描寫"
+  },
+  {
+    "id": "k-5c27db807a668ec8",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "環境烘托",
+    "fields": {
+      "定義與辨識": "在特定時間、地點，圍繞人物活動的場所和環境描寫。",
+      "例子與作用": "展現故事情節、人物動態，烘托人物形象或心情。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[7].rows[7]",
+        "section": "描寫｜人物與正側面"
+      }
+    ],
+    "questionIds": [
+      "full-d-07-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "描寫"
+  },
+  {
+    "id": "k-4590e60fb630ea71",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "白描法",
+    "fields": {
+      "定義與辨識": "抓住特徵，用簡潔質樸的文字勾勒本來面目，不依靠濃烈色彩字眼或比喻、比擬、誇張等修飾。",
+      "例子與作用": "簡潔、傳神。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[7].rows[8]",
+        "section": "描寫｜人物與正側面"
+      }
+    ],
+    "questionIds": [
+      "full-d-07-08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "描寫"
+  },
+  {
+    "id": "k-a21a5bf78aab847e",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "細描法",
+    "fields": {
+      "定義與辨識": "細緻刻畫，講究鋪陳、渲染，常用對比、比喻、擬人、誇張等手法。",
+      "例子與作用": "纖毫畢現、繪聲繪色，語言精細而富色彩。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[7].rows[9]",
+        "section": "描寫｜人物與正側面"
+      }
+    ],
+    "questionIds": [
+      "full-d-07-09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "描寫"
+  },
+  {
+    "id": "k-54756ca25da2ac59",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "動態描寫",
+    "fields": {
+      "定義與辨識": "寫活動或變化中的景物，也可賦予靜態事物動感。",
+      "例子與作用": "生動傳神，感染力較強。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[8].rows[0]",
+        "section": "描寫｜景物、觀察點與場面"
+      }
+    ],
+    "questionIds": [
+      "full-d-08-00"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "描寫"
+  },
+  {
+    "id": "k-1f8497378d7650a4",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "靜態描寫",
+    "fields": {
+      "定義與辨識": "寫靜止狀態或環境氛圍。",
+      "例子與作用": "精細刻畫特徵，使讀者注意力集中於景物。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[8].rows[1]",
+        "section": "描寫｜景物、觀察點與場面"
+      }
+    ],
+    "questionIds": [
+      "full-d-08-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "描寫"
+  },
+  {
+    "id": "k-e3d9b35b9ce95ad7",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "動靜結合",
+    "fields": {
+      "定義與辨識": "把動態與靜態描寫配合使用。",
+      "例子與作用": "畫面有層次；如用動襯靜，須交代動與靜的關係。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[8].rows[2]",
+        "section": "描寫｜景物、觀察點與場面"
+      }
+    ],
+    "questionIds": [
+      "full-d-08-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "描寫"
+  },
+  {
+    "id": "k-8e3a39d2f8ba0428",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "多感官描寫",
+    "fields": {
+      "定義與辨識": "運用視、聽、嗅、味、觸覺寫所見、所聞、所感。通常選其中兩三種，不必湊齊五種。",
+      "例子與作用": "例如沙灘的景色、海浪聲、腳踏沙粒的感覺、海水味道，使景物逼真，引起共鳴。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[8].rows[3]",
+        "section": "描寫｜景物、觀察點與場面"
+      }
+    ],
+    "questionIds": [
+      "full-d-08-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "描寫"
+  },
+  {
+    "id": "k-b1d699cd0da21020",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "多角度描寫",
+    "fields": {
+      "定義與辨識": "從仰望、俯瞰、平視、遠眺、近看，以及全景、局部等角度觀察。",
+      "例子與作用": "不同角度呈現不同面貌，增強空間層次與立體感。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[8].rows[4]",
+        "section": "描寫｜景物、觀察點與場面"
+      }
+    ],
+    "questionIds": [
+      "full-d-08-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "描寫"
+  },
+  {
+    "id": "k-24a3f103fef09a36",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "場面描寫",
+    "fields": {
+      "定義與辨識": "在特定時間、地點，鋪排周圍環境、景物及人物的行為、心理活動。",
+      "例子與作用": "營造氣氛，再現情境；須按內容判斷是否推動情節。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[8].rows[5]",
+        "section": "描寫｜景物、觀察點與場面"
+      }
+    ],
+    "questionIds": [
+      "full-d-08-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "描寫"
+  },
+  {
+    "id": "k-8893dcd99f72e1ed",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "步移法",
+    "fields": {
+      "定義與辨識": "觀察點隨人物移動，逐一描寫沿途所見。",
+      "例子與作用": "條理清楚，使讀者有隨作者同遊之感，引起共鳴與聯想。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[8].rows[6]",
+        "section": "描寫｜景物、觀察點與場面"
+      }
+    ],
+    "questionIds": [
+      "full-d-08-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "描寫"
+  },
+  {
+    "id": "k-c13f9f947348710f",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "定點描寫",
+    "fields": {
+      "定義與辨識": "立足點固定，按視線轉移，依次寫所見景物。",
+      "例子與作用": "固定的是觀察位置；視線仍可改變方向、遠近及高低。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[8].rows[7]",
+        "section": "描寫｜景物、觀察點與場面"
+      }
+    ],
+    "questionIds": [
+      "full-d-08-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "描寫"
+  },
+  {
+    "id": "k-dda06d0dec8260b7",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "隨時推移法",
+    "fields": {
+      "定義與辨識": "按早晚、不同日子、晴陰雨、春至冬、潮漲退、花開謝、日出落等時間或變化過程描寫。",
+      "例子與作用": "抓住同一景物在不同時間的特點，突出面貌變化。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[8].rows[8]",
+        "section": "描寫｜景物、觀察點與場面"
+      }
+    ],
+    "questionIds": [
+      "full-d-08-08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "描寫"
+  },
+  {
+    "id": "k-07fef67bb0356a1c",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "定義說明",
+    "fields": {
+      "定義與辨識": "用簡明、準確的語言指出對象的本質特徵。",
+      "例子與作用": "界定概念與範圍。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[9].rows[0]",
+        "section": "說明｜方法、順序與層次"
+      }
+    ],
+    "questionIds": [
+      "full-d-09-00"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "說明"
+  },
+  {
+    "id": "k-0e51ef3d151119a8",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "數字／數據說明",
+    "fields": {
+      "定義與辨識": "列出數量、比例、年份等，如城市人口年齡分布、市民平均收入。",
+      "例子與作用": "使資料準確、具體、可信；數據須可核實。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[9].rows[1]",
+        "section": "說明｜方法、順序與層次"
+      }
+    ],
+    "questionIds": [
+      "full-d-09-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "說明"
+  },
+  {
+    "id": "k-61bf52b2160b8921",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "舉例說明",
+    "fields": {
+      "定義與辨識": "用典型生活事例、歷史事例或明示的假設情況，說明抽象、生疏、複雜的事物。",
+      "例子與作用": "使形狀、性質、特徵、功效或用途具體清楚。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[9].rows[2]",
+        "section": "說明｜方法、順序與層次"
+      }
+    ],
+    "questionIds": [
+      "full-d-09-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "說明"
+  },
+  {
+    "id": "k-7e42c7e2ad9b46e7",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "分類說明",
+    "fields": {
+      "定義與辨識": "按形狀、性質、成因、功能等標準分門別類，再逐類說明。",
+      "例子與作用": "條理分明，容易掌握。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[9].rows[3]",
+        "section": "說明｜方法、順序與層次"
+      }
+    ],
+    "questionIds": [
+      "full-d-09-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "說明"
+  },
+  {
+    "id": "k-1f2211fed7c45c2f",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "引用說明",
+    "fields": {
+      "定義與辨識": "引用名言、詩詞、典故、典籍、諺語、文獻或資料記錄等。",
+      "例子與作用": "增加權威感、說服力及閱讀趣味。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[9].rows[4]",
+        "section": "說明｜方法、順序與層次"
+      }
+    ],
+    "questionIds": [
+      "full-d-09-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "說明"
+  },
+  {
+    "id": "k-d0bd8cd5525bec9d",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "比喻說明",
+    "fields": {
+      "定義與辨識": "以熟悉、具體、淺顯的事物，比喻抽象、陌生、複雜的事物或道理。",
+      "例子與作用": "化抽象為具體，使內容生動易明，增加趣味。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[9].rows[5]",
+        "section": "說明｜方法、順序與層次"
+      }
+    ],
+    "questionIds": [
+      "full-d-09-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "說明"
+  },
+  {
+    "id": "k-47bd4be6da2a1fc6",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "類比說明",
+    "fields": {
+      "定義與辨識": "以性質相近的另一事物說明事理。",
+      "例子與作用": "由已知通向未知，幫助掌握。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[9].rows[6]",
+        "section": "說明｜方法、順序與層次"
+      }
+    ],
+    "questionIds": [
+      "full-d-09-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "說明"
+  },
+  {
+    "id": "k-5d9a0d5f54cd02ad",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "比較說明",
+    "fields": {
+      "定義與辨識": "比較兩種或以上有關、相同或不同的事物。",
+      "例子與作用": "突出異同、特徵、差別、優劣或正誤。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[9].rows[7]",
+        "section": "說明｜方法、順序與層次"
+      }
+    ],
+    "questionIds": [
+      "full-d-09-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "說明"
+  },
+  {
+    "id": "k-25328a760ca2b294",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "描述說明",
+    "fields": {
+      "定義與辨識": "細緻描述對象某方面的形態、特徵、狀態或演變。",
+      "例子與作用": "使讀者具體了解對象。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[9].rows[8]",
+        "section": "說明｜方法、順序與層次"
+      }
+    ],
+    "questionIds": [
+      "full-d-09-08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "說明"
+  },
+  {
+    "id": "k-9cf4ca4393259bdb",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "時間順序",
+    "fields": {
+      "定義與辨識": "按發生、演變的先後，從先到後、早到晚、古到今、開始到結束說明。",
+      "例子與作用": "例如說明印刷術發展史。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[9].rows[9]",
+        "section": "說明｜方法、順序與層次"
+      }
+    ],
+    "questionIds": [
+      "full-d-09-09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "說明"
+  },
+  {
+    "id": "k-1d9ba3ddd3c7a57a",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "空間順序",
+    "fields": {
+      "定義與辨識": "依空間位置或構成組織，按上下、高低、前後、左右等方位說明。",
+      "例子與作用": "例如介紹公園設施。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[9].rows[10]",
+        "section": "說明｜方法、順序與層次"
+      }
+    ],
+    "questionIds": [
+      "full-d-09-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "說明"
+  },
+  {
+    "id": "k-a4e50b627e287ede",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "總分層次",
+    "fields": {
+      "定義與辨識": "「總」是綜合概述，「分」是分項說明。總分式先在開首綜合說明，再在各段分項展開。",
+      "例子與作用": "層次清楚，分項受總述統攝。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[9].rows[11]",
+        "section": "說明｜方法、順序與層次"
+      }
+    ],
+    "questionIds": [
+      "full-d-09-11"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "說明"
+  },
+  {
+    "id": "k-7d6f8672f0678a8e",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "其他組織方式",
+    "fields": {
+      "定義與辨識": "按需要使用分—總、總—分—總，或依事理邏輯安排。",
+      "例子與作用": "這是可選的組織方式，先看說明對象及全文實際安排。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[9].rows[12]",
+        "section": "說明｜方法、順序與層次"
+      }
+    ],
+    "questionIds": [
+      "full-d-09-12"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "說明"
+  },
+  {
+    "id": "k-f0f56ceef95d66d0",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "舉例論證／例證法",
+    "fields": {
+      "定義與辨識": "舉出真實、典型事例作證據；也可明示設想的情境作推論。",
+      "例子與作用": "具體有力；必須說明例子怎樣支持論點。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[10].rows[0]",
+        "section": "議論｜論證方法"
+      }
+    ],
+    "questionIds": [
+      "full-d-10-00"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "議論"
+  },
+  {
+    "id": "k-a8c14373c43ca0ef",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "引用論證",
+    "fields": {
+      "定義與辨識": "以古語、俗語、典籍、名言、偉人言論或公認道理為論據。",
+      "例子與作用": "以權威或常用言論增加說服力。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[10].rows[1]",
+        "section": "議論｜論證方法"
+      }
+    ],
+    "questionIds": [
+      "full-d-10-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "議論"
+  },
+  {
+    "id": "k-c946e32675c868de",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "對比論證",
+    "fields": {
+      "定義與辨識": "把互相對立的事物、道理對舉，比較它們的對立點。",
+      "例子與作用": "突出某些屬性及優劣、對錯，深入剖析觀點。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[10].rows[2]",
+        "section": "議論｜論證方法"
+      }
+    ],
+    "questionIds": [
+      "full-d-10-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "議論"
+  },
+  {
+    "id": "k-9164a367adeeac92",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "正反論證",
+    "fields": {
+      "定義與辨識": "從正反兩方面論證同一觀點。",
+      "例子與作用": "以一正一反的鮮明對比，清楚呈現立場；與對比論證部分重疊。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[10].rows[3]",
+        "section": "議論｜論證方法"
+      }
+    ],
+    "questionIds": [
+      "full-d-10-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "議論"
+  },
+  {
+    "id": "k-578ed29708b5b76f",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "比喻論證",
+    "fields": {
+      "定義與辨識": "以一種或幾種具體事物，比喻並論證抽象道理；本體與喻體須有相同或相似性質。",
+      "例子與作用": "要加上議論，說明比喻與道理的共同點，才能使論證淺白易懂。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[10].rows[4]",
+        "section": "議論｜論證方法"
+      }
+    ],
+    "questionIds": [
+      "full-d-10-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "議論"
+  },
+  {
+    "id": "k-fe1fafecd8330797",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "類比論證",
+    "fields": {
+      "定義與辨識": "比較兩種性質相同或相似的事物，抓住共通點，由已知一事推知或證明另一事。",
+      "例子與作用": "建立合理聯繫，幫助理解與接受觀點。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[10].rows[5]",
+        "section": "議論｜論證方法"
+      }
+    ],
+    "questionIds": [
+      "full-d-10-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "議論"
+  },
+  {
+    "id": "k-4477c189f9e6b435",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "因果論證",
+    "fields": {
+      "定義與辨識": "分析原因、結果及兩者關係以證明論點。",
+      "例子與作用": "揭示事理發展邏輯。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[10].rows[6]",
+        "section": "議論｜論證方法"
+      }
+    ],
+    "questionIds": [
+      "full-d-10-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "議論"
+  },
+  {
+    "id": "k-482d71e429069e6e",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "演繹論證",
+    "fields": {
+      "定義與辨識": "根據道理作符合邏輯的推論；常由一般原則推到個別結論。",
+      "例子與作用": "使推理清楚，增加說服力。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[10].rows[7]",
+        "section": "議論｜論證方法"
+      }
+    ],
+    "questionIds": [
+      "full-d-10-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "議論"
+  },
+  {
+    "id": "k-deba4065bf901d50",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "歸納論證",
+    "fields": {
+      "定義與辨識": "從多個事例的共通點得出一般結論。",
+      "例子與作用": "累積多項證據，增強說服力。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[10].rows[8]",
+        "section": "議論｜論證方法"
+      }
+    ],
+    "questionIds": [
+      "full-d-10-08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "議論"
+  },
+  {
+    "id": "k-c2ea4fcf31a9131b",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "借事說理",
+    "fields": {
+      "定義與辨識": "敘述具體事情以說明抽象道理，事與理須有緊密聯繫。",
+      "例子與作用": "以說理為主，記事不必鉅細無遺；使深奧道理易懂、易共鳴。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[10].rows[9]",
+        "section": "議論｜論證方法"
+      }
+    ],
+    "questionIds": [
+      "full-d-10-09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "議論"
+  },
+  {
+    "id": "k-20c3169a0b447bbf",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "託物說理",
+    "fields": {
+      "定義與辨識": "藉某物的特徵寄託道理、思想感情、品格或志向；可使事物帶有人格化色彩。",
+      "例子與作用": "含蓄、形象地表達。辨認時須交代物的特性與所寄託內容。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[10].rows[10]",
+        "section": "議論｜論證方法"
+      }
+    ],
+    "questionIds": [
+      "full-d-10-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "議論"
+  },
+  {
+    "id": "k-4359d923fb65fc9b",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "論點",
+    "fields": {
+      "定義與辨識": "作者提出的看法和主張：認同、要求、贊成或反對甚麼。",
+      "例子與作用": "回答「作者主張甚麼」。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[11].rows[0]",
+        "section": "議論｜論點、論據與例證分類"
+      }
+    ],
+    "questionIds": [
+      "full-d-11-00"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "議論"
+  },
+  {
+    "id": "k-bb138d4fc9bc5e62",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "中心論點",
+    "fields": {
+      "定義與辨識": "全文全力論證的總主張。",
+      "例子與作用": "統攝各部分論述。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[11].rows[1]",
+        "section": "議論｜論點、論據與例證分類"
+      }
+    ],
+    "questionIds": [
+      "full-d-11-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "議論"
+  },
+  {
+    "id": "k-2fbcea7d41b38aa5",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "分論點",
+    "fields": {
+      "定義與辨識": "從不同角度補充或支持中心論點的主張。",
+      "例子與作用": "各分論點須回到中心論點。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[11].rows[2]",
+        "section": "議論｜論點、論據與例證分類"
+      }
+    ],
+    "questionIds": [
+      "full-d-11-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "議論"
+  },
+  {
+    "id": "k-11778c11d52a1bbd",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "論據",
+    "fields": {
+      "定義與辨識": "用來印證論點的事實和理由。",
+      "例子與作用": "須真實可靠；假設情境要明示，不能冒充已發生的事實。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[11].rows[3]",
+        "section": "議論｜論點、論據與例證分類"
+      }
+    ],
+    "questionIds": [
+      "full-d-11-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "議論"
+  },
+  {
+    "id": "k-086e2092fe100419",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "事實論據",
+    "fields": {
+      "定義與辨識": "實際發生的事情，如歷史事件、統計數據、新聞時事。",
+      "例子與作用": "用具體材料支持主張。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[11].rows[4]",
+        "section": "議論｜論點、論據與例證分類"
+      }
+    ],
+    "questionIds": [
+      "full-d-11-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "議論"
+  },
+  {
+    "id": "k-bb07211a7e5edd10",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "道理論據",
+    "fields": {
+      "定義與辨識": "公認道理、名人言論、寓言故事、科學定理等。",
+      "例子與作用": "用道理或具有說理意義的材料支持主張。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[11].rows[5]",
+        "section": "議論｜論點、論據與例證分類"
+      }
+    ],
+    "questionIds": [
+      "full-d-11-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "議論"
+  },
+  {
+    "id": "k-7f01b7c450a979c8",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "事例",
+    "fields": {
+      "定義與辨識": "以當前、有代表性的事件作例證。",
+      "例子與作用": "區分例子的時代與代表性。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[11].rows[6]",
+        "section": "議論｜論點、論據與例證分類"
+      }
+    ],
+    "questionIds": [
+      "full-d-11-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "議論"
+  },
+  {
+    "id": "k-68a3d9f3c8cdd68a",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "史例",
+    "fields": {
+      "定義與辨識": "以歷史事件作例證。",
+      "例子與作用": "說明歷史事件與論點的聯繫。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[11].rows[7]",
+        "section": "議論｜論點、論據與例證分類"
+      }
+    ],
+    "questionIds": [
+      "full-d-11-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "議論"
+  },
+  {
+    "id": "k-d6829cef1e1dcab8",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "設例",
+    "fields": {
+      "定義與辨識": "以明示的假設情況作例證。",
+      "例子與作用": "用設想推演說理，不能當作史實。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[11].rows[8]",
+        "section": "議論｜論點、論據與例證分類"
+      }
+    ],
+    "questionIds": [
+      "full-d-11-08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "議論"
+  },
+  {
+    "id": "k-42b933272d656192",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "語例",
+    "fields": {
+      "定義與辨識": "以專家、學者、名人的話語，或精警格言、成語作例證。",
+      "例子與作用": "也可從援引言論的角度判作引用論證。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[11].rows[9]",
+        "section": "議論｜論點、論據與例證分類"
+      }
+    ],
+    "questionIds": [
+      "full-d-11-09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "議論"
+  },
+  {
+    "id": "k-15bf9b2d78d5bdf1",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "直接抒情",
+    "fields": {
+      "定義與辨識": "不借其他載體，直截了當地說出自己的感情。",
+      "例子與作用": "感情明確、直率，也可強烈集中；適用於不同文體。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[12].rows[0]",
+        "section": "抒情｜直接表達與景情關係"
+      }
+    ],
+    "questionIds": [
+      "full-d-12-00"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "抒情"
+  },
+  {
+    "id": "k-6f3836831f28a4fe",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "間接抒情",
+    "fields": {
+      "定義與辨識": "把感情滲透於敘事和描寫中，藉事件、景物、物件，也可藉旁人反應或環境表達。",
+      "例子與作用": "感情有依託，較含蓄而具體。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[12].rows[1]",
+        "section": "抒情｜直接表達與景情關係"
+      }
+    ],
+    "questionIds": [
+      "full-d-12-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "抒情"
+  },
+  {
+    "id": "k-d90c18d5f100cdf7",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "借事抒情",
+    "fields": {
+      "定義與辨識": "通過記述一件事或多件零碎事件，抒發感情和抱負。",
+      "例子與作用": "感情具體、真實，與選材及情節相連。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[12].rows[2]",
+        "section": "抒情｜直接表達與景情關係"
+      }
+    ],
+    "questionIds": [
+      "full-d-12-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "抒情"
+  },
+  {
+    "id": "k-972d1a2d4cbc5363",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "借景抒情",
+    "fields": {
+      "定義與辨識": "描寫客觀景物以抒發感情，可再按景與情的關係細分。",
+      "例子與作用": "《販夫風景》寫小販擺賣的熱鬧情景，反映對小攤子的喜愛。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[12].rows[3]",
+        "section": "抒情｜直接表達與景情關係"
+      }
+    ],
+    "questionIds": [
+      "full-d-12-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "抒情"
+  },
+  {
+    "id": "k-04cd7e90fbbe2ef6",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "借物抒情",
+    "fields": {
+      "定義與辨識": "描述物的外形、內在特徵，聯想到象徵意義或人物品格，寄託感情、抱負。",
+      "例子與作用": "感情含蓄而有具體依託，也可生動傳神。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[12].rows[4]",
+        "section": "抒情｜直接表達與景情關係"
+      }
+    ],
+    "questionIds": [
+      "full-d-12-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "抒情"
+  },
+  {
+    "id": "k-b81a76016dccd5f5",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "觸景生情／因景生情",
+    "fields": {
+      "定義與辨識": "看到外在景物，觸發心中情思；通常以先寫景、後抒情的結構表現。",
+      "例子與作用": "交代感受生起的經過，使情感脈絡清晰。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[12].rows[5]",
+        "section": "抒情｜直接表達與景情關係"
+      }
+    ],
+    "questionIds": [
+      "full-d-12-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "抒情"
+  },
+  {
+    "id": "k-cbb6281cab8c8f56",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "緣情寫景／融情入景",
+    "fields": {
+      "定義與辨識": "把主觀情感融入或投射於景物，寫景文字本身也是抒情文字。",
+      "例子與作用": "寓情於景、情景交融，使感情突出具體而含蓄。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[12].rows[6]",
+        "section": "抒情｜直接表達與景情關係"
+      }
+    ],
+    "questionIds": [
+      "full-d-12-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "抒情"
+  },
+  {
+    "id": "k-e361d854c1acbd0e",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "開門見山／下筆立論",
+    "fields": {
+      "定義與辨識": "開首先點題、解說題意、闡明主旨或提出觀點。",
+      "例子與作用": "明朗有力，讓讀者迅速了解意圖。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[13].rows[0]",
+        "section": "結構｜鋪排、轉折與呼應"
+      }
+    ],
+    "questionIds": [
+      "full-d-13-00"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "結構"
+  },
+  {
+    "id": "k-67ef9713df548fb5",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "設置懸念",
+    "fields": {
+      "定義與辨識": "先交代部分情節或設置疑團，後文再解釋。",
+      "例子與作用": "引起好奇，吸引追讀，使敘述有起伏。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[13].rows[1]",
+        "section": "結構｜鋪排、轉折與呼應"
+      }
+    ],
+    "questionIds": [
+      "full-d-13-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "結構"
+  },
+  {
+    "id": "k-06100053f8b1c50e",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "鋪墊",
+    "fields": {
+      "定義與辨識": "先鋪陳次要人物、事物、事件或背景，烘托後面要出現的重點。",
+      "例子與作用": "為主要內容蓄勢，使發展自然。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[13].rows[2]",
+        "section": "結構｜鋪排、轉折與呼應"
+      }
+    ],
+    "questionIds": [
+      "full-d-13-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "結構"
+  },
+  {
+    "id": "k-89d0449a9d015433",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "伏筆",
+    "fields": {
+      "定義與辨識": "前文為後文的人、事、情節留下含蓄的提示或線索。",
+      "例子與作用": "後文出現時不突兀，結構嚴密緊湊。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[13].rows[3]",
+        "section": "結構｜鋪排、轉折與呼應"
+      }
+    ],
+    "questionIds": [
+      "full-d-13-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "結構"
+  },
+  {
+    "id": "k-58587095e40961e1",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "首尾呼應",
+    "fields": {
+      "定義與辨識": "開頭交代、提示或埋下的伏筆，在結尾重申、補充或揭示。",
+      "例子與作用": "結構完整、統一連貫。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[13].rows[4]",
+        "section": "結構｜鋪排、轉折與呼應"
+      }
+    ],
+    "questionIds": [
+      "full-d-13-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "結構"
+  },
+  {
+    "id": "k-e1dfd87a5683c7b8",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "前後呼應",
+    "fields": {
+      "定義與辨識": "文章不同位置重提相近內容、回答前文問題或揭示伏筆；一篇可有多處呼應。",
+      "例子與作用": "使人物事件的出現自然合理，強調重要內容或主題。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[13].rows[5]",
+        "section": "結構｜鋪排、轉折與呼應"
+      }
+    ],
+    "questionIds": [
+      "full-d-13-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "結構"
+  },
+  {
+    "id": "k-4e6d36d4ce0e1425",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "承上啟下／過渡",
+    "fields": {
+      "定義與辨識": "以字詞、句子、段落或層次之間的銜接承轉，承接上文、開啟下文。",
+      "例子與作用": "像橋樑串連內容，使脈絡清晰、發展順暢。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[13].rows[6]",
+        "section": "結構｜鋪排、轉折與呼應"
+      }
+    ],
+    "questionIds": [
+      "full-d-13-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "結構"
+  },
+  {
+    "id": "k-df6d61d47e937d59",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "先抑後揚",
+    "fields": {
+      "定義與辨識": "先否定或貶低，再深入寫特徵、內在意義，予以肯定褒揚。",
+      "例子與作用": "突出值得肯定之處，形成轉折，印象深刻。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[13].rows[7]",
+        "section": "結構｜鋪排、轉折與呼應"
+      }
+    ],
+    "questionIds": [
+      "full-d-13-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "結構"
+  },
+  {
+    "id": "k-ccfbc2863592e669",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "先揚後抑",
+    "fields": {
+      "定義與辨識": "先肯定，再經描述加以否定或貶低。",
+      "例子與作用": "突出被否定之處，使文章有波瀾。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[13].rows[8]",
+        "section": "結構｜鋪排、轉折與呼應"
+      }
+    ],
+    "questionIds": [
+      "full-d-13-08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "結構"
+  },
+  {
+    "id": "k-1c74f21a1087853f",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "先破後立",
+    "fields": {
+      "定義與辨識": "先提出並駁斥錯誤觀點，再確立自己的主張。",
+      "例子與作用": "論證有針對性，立場突出。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[13].rows[9]",
+        "section": "結構｜鋪排、轉折與呼應"
+      }
+    ],
+    "questionIds": [
+      "full-d-13-09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "結構"
+  },
+  {
+    "id": "k-aa3134c1e963d6a7",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "層層遞進",
+    "fields": {
+      "定義與辨識": "按大小、高低、遠近、內外、整體到局部或相反方向，逐層描述或論說。",
+      "例子與作用": "條理分明，突出重點，使讀者逐步深入理解。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[13].rows[10]",
+        "section": "結構｜鋪排、轉折與呼應"
+      }
+    ],
+    "questionIds": [
+      "full-d-13-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "結構"
+  },
+  {
+    "id": "k-2a21bb77fc51a963",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "借古諷今",
+    "fields": {
+      "定義與辨識": "評論古代相類似的人事，含蓄影射現實狀況。",
+      "例子與作用": "以史為鑑，具體表達看法，增加說服力，達到意在言外的效果。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[13].rows[11]",
+        "section": "結構｜鋪排、轉折與呼應"
+      }
+    ],
+    "questionIds": [
+      "full-d-13-11"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "結構"
+  },
+  {
+    "id": "k-7b8f2ae11c779fd4",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "善用譬喻",
+    "fields": {
+      "定義與辨識": "適當用比喻表達內容。",
+      "例子與作用": "使內容具體、生動，增加趣味；可同時從修辭和篇章表達角度分析。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[13].rows[12]",
+        "section": "結構｜鋪排、轉折與呼應"
+      }
+    ],
+    "questionIds": [
+      "full-d-13-12"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "結構"
+  },
+  {
+    "id": "k-363eb907f3991193",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "善用想像",
+    "fields": {
+      "定義與辨識": "在已有材料和觀念上，聯想或創造新觀念、新情境。",
+      "例子與作用": "增加新鮮感、畫面感與趣味。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[13].rows[13]",
+        "section": "結構｜鋪排、轉折與呼應"
+      }
+    ],
+    "questionIds": [
+      "full-d-13-13"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "結構"
+  },
+  {
+    "id": "k-1e8981182fe64137",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "順敘起首",
+    "fields": {
+      "定義與辨識": "簡單交代時間、地點、人物等，直接帶出事件或場景。",
+      "例子與作用": "記敘抒情：迅速建立情境。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[14].rows[0]",
+        "section": "寫作實用｜九種開頭安排"
+      }
+    ],
+    "questionIds": [
+      "full-d-14-00"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "寫作實用"
+  },
+  {
+    "id": "k-0dd6d4c4640081f8",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "倒敘起首",
+    "fields": {
+      "定義與辨識": "先寫結果或現在情況，再回憶過去，引入主題。",
+      "例子與作用": "記敘抒情：突出重點或製造懸念。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[14].rows[1]",
+        "section": "寫作實用｜九種開頭安排"
+      }
+    ],
+    "questionIds": [
+      "full-d-14-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "寫作實用"
+  },
+  {
+    "id": "k-ecba9753502f45ca",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "景物描寫起首",
+    "fields": {
+      "定義與辨識": "描寫眼前景物以渲染氣氛，或由景觸發感情。",
+      "例子與作用": "記敘抒情：以環境、心境帶入主題。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[14].rows[2]",
+        "section": "寫作實用｜九種開頭安排"
+      }
+    ],
+    "questionIds": [
+      "full-d-14-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "寫作實用"
+  },
+  {
+    "id": "k-e5031f6355c259da",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "名言起首",
+    "fields": {
+      "定義與辨識": "引用與主題相關的名言、諺語或詩詞。",
+      "例子與作用": "記敘抒情：引入主題，不能只放一句無關引文。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[14].rows[3]",
+        "section": "寫作實用｜九種開頭安排"
+      }
+    ],
+    "questionIds": [
+      "full-d-14-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "寫作實用"
+  },
+  {
+    "id": "k-20c2447f7f72108b",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "開首設置懸念",
+    "fields": {
+      "定義與辨識": "先交代部分情節，讓讀者想了解事件全貌。",
+      "例子與作用": "記敘抒情：吸引閱讀下文。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[14].rows[4]",
+        "section": "寫作實用｜九種開頭安排"
+      }
+    ],
+    "questionIds": [
+      "full-d-14-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "寫作實用"
+  },
+  {
+    "id": "k-3e99722512bb1982",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "概括描寫起首",
+    "fields": {
+      "定義與辨識": "概括寫人物或場景，讓讀者對描寫對象有初步印象。",
+      "例子與作用": "記敘抒情：先建立整體輪廓。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[14].rows[5]",
+        "section": "寫作實用｜九種開頭安排"
+      }
+    ],
+    "questionIds": [
+      "full-d-14-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "寫作實用"
+  },
+  {
+    "id": "k-b798b537e773c80d",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "引用材料起首",
+    "fields": {
+      "定義與辨識": "用生活事例、名言、社會時事、故事等引入。",
+      "例子與作用": "論說：由材料帶出討論主題。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[14].rows[6]",
+        "section": "寫作實用｜九種開頭安排"
+      }
+    ],
+    "questionIds": [
+      "full-d-14-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "寫作實用"
+  },
+  {
+    "id": "k-72f989528a4fa272",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "定義起首",
+    "fields": {
+      "定義與辨識": "解釋關鍵詞句，設定論說範圍。",
+      "例子與作用": "論說：先界定要討論甚麼。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[14].rows[7]",
+        "section": "寫作實用｜九種開頭安排"
+      }
+    ],
+    "questionIds": [
+      "full-d-14-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "寫作實用"
+  },
+  {
+    "id": "k-08b845dcb64e770e",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "相反意見起首",
+    "fields": {
+      "定義與辨識": "先提出相反意見，明確表示反對，再表達個人立場。",
+      "例子與作用": "論說：建立論述針對性。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[14].rows[8]",
+        "section": "寫作實用｜九種開頭安排"
+      }
+    ],
+    "questionIds": [
+      "full-d-14-08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "寫作實用"
+  },
+  {
+    "id": "k-4d3e30cd924bc859",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "交代六要素",
+    "fields": {
+      "定義與辨識": "時間、地點、人物、起因、經過、結果。",
+      "例子與作用": "記敘抒情：以「經過」為敘事重心，分配較多篇幅。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[15].rows[0]",
+        "section": "寫作實用｜正文怎樣展開"
+      }
+    ],
+    "questionIds": [
+      "full-d-15-00"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "寫作實用"
+  },
+  {
+    "id": "k-7634ab804e0ce05f",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "情節起伏",
+    "fields": {
+      "定義與辨識": "安排變化、轉折及高潮，使重點帶來驚喜、意外或情感轉變。",
+      "例子與作用": "記敘抒情：使事件有發展，避免平鋪直敘。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[15].rows[1]",
+        "section": "寫作實用｜正文怎樣展開"
+      }
+    ],
+    "questionIds": [
+      "full-d-15-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "寫作實用"
+  },
+  {
+    "id": "k-8899002d660c3188",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "刻畫人物",
+    "fields": {
+      "定義與辨識": "按需要用肖像、行動、語言、心理描寫。",
+      "例子與作用": "記敘抒情：用細節反映性格。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[15].rows[2]",
+        "section": "寫作實用｜正文怎樣展開"
+      }
+    ],
+    "questionIds": [
+      "full-d-15-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "寫作實用"
+  },
+  {
+    "id": "k-5d9703375487b535",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "直接與間接抒情",
+    "fields": {
+      "定義與辨識": "可直接傾吐，也可寫別人反應、事件或環境來表達。",
+      "例子與作用": "記敘抒情：感情要與具體內容相連。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[15].rows[3]",
+        "section": "寫作實用｜正文怎樣展開"
+      }
+    ],
+    "questionIds": [
+      "full-d-15-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "寫作實用"
+  },
+  {
+    "id": "k-1d554d8410eb87e1",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "融情入景",
+    "fields": {
+      "定義與辨識": "把喜怒哀樂融於客觀景物。",
+      "例子與作用": "記敘抒情：用景物含蓄表達感情。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[15].rows[4]",
+        "section": "寫作實用｜正文怎樣展開"
+      }
+    ],
+    "questionIds": [
+      "full-d-15-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "寫作實用"
+  },
+  {
+    "id": "k-a30a86e9b3849d65",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "配合論證方法",
+    "fields": {
+      "定義與辨識": "按材料選用舉例、引用、對比等方法。",
+      "例子與作用": "論說：每種方法都要支持論點。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[15].rows[5]",
+        "section": "寫作實用｜正文怎樣展開"
+      }
+    ],
+    "questionIds": [
+      "full-d-15-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "寫作實用"
+  },
+  {
+    "id": "k-4e8fe4b202970c62",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "不同角度論證",
+    "fields": {
+      "定義與辨識": "可從個人、學校、家庭、社會等角度展開。",
+      "例子與作用": "論說：讓內容全面；各角度仍要回到中心。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[15].rows[6]",
+        "section": "寫作實用｜正文怎樣展開"
+      }
+    ],
+    "questionIds": [
+      "full-d-15-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "寫作實用"
+  },
+  {
+    "id": "k-ac2e0180151b5aba",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "正反論述",
+    "fields": {
+      "定義與辨識": "既分析反面，也分析正面。例：談戒煙，既論吸煙壞處，也論戒煙好處。",
+      "例子與作用": "論說：透過正反兩面把道理說完整。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[15].rows[7]",
+        "section": "寫作實用｜正文怎樣展開"
+      }
+    ],
+    "questionIds": [
+      "full-d-15-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "寫作實用"
+  },
+  {
+    "id": "k-a82b50e7df96e721",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "善用駁論",
+    "fields": {
+      "定義與辨識": "舉出相反意見，再分析其不足、加以反駁。",
+      "例子與作用": "論說：使觀點更明確。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[15].rows[8]",
+        "section": "寫作實用｜正文怎樣展開"
+      }
+    ],
+    "questionIds": [
+      "full-d-15-08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "寫作實用"
+  },
+  {
+    "id": "k-3f59b120934158d2",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "善用標示語",
+    "fields": {
+      "定義與辨識": "例如「首先」「其次」「另外」「最後」「總括而言」。",
+      "例子與作用": "論說：提示次序和層次；詞語須符合實際關係。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[15].rows[9]",
+        "section": "寫作實用｜正文怎樣展開"
+      }
+    ],
+    "questionIds": [
+      "full-d-15-09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "寫作實用"
+  },
+  {
+    "id": "k-a7f24eb3b99ee5af",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "善用主題句",
+    "fields": {
+      "定義與辨識": "在分論點起首或結尾，寫一句簡潔表達觀點的句子。",
+      "例子與作用": "論說：讓讀者清楚看見本段主張。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[15].rows[10]",
+        "section": "寫作實用｜正文怎樣展開"
+      }
+    ],
+    "questionIds": [
+      "full-d-15-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "寫作實用"
+  },
+  {
+    "id": "k-47180cb3cf09b209",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "首尾呼應作結",
+    "fields": {
+      "定義與辨識": "回應首段交代的人、事、景、疑問或伏筆。",
+      "例子與作用": "使文章完整嚴謹，重點更突出。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[16].rows[0]",
+        "section": "寫作實用｜結尾如何收束"
+      }
+    ],
+    "questionIds": [
+      "full-d-16-00"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "寫作實用"
+  },
+  {
+    "id": "k-db7e8c105c018e1d",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "展望作結",
+    "fields": {
+      "定義與辨識": "帶出正面展望，表達積極的人生觀。",
+      "例子與作用": "由當前經驗推向未來，延伸主題。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[16].rows[1]",
+        "section": "寫作實用｜結尾如何收束"
+      }
+    ],
+    "questionIds": [
+      "full-d-16-01"
+    ],
+    "review": {
+      "status": "hold",
+      "notes": [
+        "來源只給正面展望的寫作建議，未釐清它是一般定義還是正面寫法示例；不能把一般概念限為正面積極。暫停新抽題，保留歷史，待補證再重構。"
+      ]
+    },
+    "topic": "寫作實用"
+  },
+  {
+    "id": "k-9852174d19d30bda",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "名言作結",
+    "fields": {
+      "定義與辨識": "以相關名言、詩句畫龍點睛，回應主題。",
+      "例子與作用": "收束內容，留下餘韻。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[16].rows[2]",
+        "section": "寫作實用｜結尾如何收束"
+      }
+    ],
+    "questionIds": [
+      "full-d-16-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "寫作實用"
+  },
+  {
+    "id": "k-276795877dcf161c",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "反問作結",
+    "fields": {
+      "定義與辨識": "用包含確定意思的問句作結。",
+      "例子與作用": "加強語氣，引人深思；要與已有論述一致。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[16].rows[3]",
+        "section": "寫作實用｜結尾如何收束"
+      }
+    ],
+    "questionIds": [
+      "full-d-16-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "寫作實用"
+  },
+  {
+    "id": "k-411e5de514c81b9f",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "卒章顯志",
+    "fields": {
+      "定義與辨識": "經過前文描述或論述，在結尾點明全文主題、志向。",
+      "例子與作用": "自然點題，收畫龍點睛之效，留下深刻印象。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[16].rows[4]",
+        "section": "寫作實用｜結尾如何收束"
+      }
+    ],
+    "questionIds": [
+      "full-d-16-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "寫作實用"
+  },
+  {
+    "id": "k-25278b5073f6a4c5",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "總結全文",
+    "fields": {
+      "定義與辨識": "以簡明語句概括全篇的主張或主要內容。",
+      "例子與作用": "收束全文，強調重點。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[16].rows[5]",
+        "section": "寫作實用｜結尾如何收束"
+      }
+    ],
+    "questionIds": [
+      "full-d-16-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "寫作實用"
+  },
+  {
+    "id": "k-35f46d31141e7837",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "1 指出手法",
+    "fields": {
+      "定義與辨識": "寫完整名稱；需要時寫分型，如反襯、暗喻。",
+      "例子與作用": "避免只抄題目或羅列多個手法。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[17].rows[0]",
+        "section": "閱讀應用｜分析句與自查"
+      }
+    ],
+    "questionIds": [
+      "full-d-17-00"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "閱讀應用"
+  },
+  {
+    "id": "k-b90808eedef7381e",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "2 引文本證據",
+    "fields": {
+      "定義與辨識": "摘錄關鍵短語，或準確概括其安排。",
+      "例子與作用": "避免大段抄文而不分析。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[17].rows[1]",
+        "section": "閱讀應用｜分析句與自查"
+      }
+    ],
+    "questionIds": [
+      "full-d-17-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "閱讀應用"
+  },
+  {
+    "id": "k-6c7616c77d66befb",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "3 解釋如何成立",
+    "fields": {
+      "定義與辨識": "指出本體與喻體、比較雙方、遞進尺度、感官轉移等。",
+      "例子與作用": "避免只背定義或只寫「生動形象」。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[17].rows[2]",
+        "section": "閱讀應用｜分析句與自查"
+      }
+    ],
+    "questionIds": [
+      "full-d-17-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "閱讀應用"
+  },
+  {
+    "id": "k-06930dcb4053b1b4",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "4 寫具體作用",
+    "fields": {
+      "定義與辨識": "說明突出哪個特徵、感情、人物形象或觀點。",
+      "例子與作用": "避免把全部可能效果套上。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[17].rows[3]",
+        "section": "閱讀應用｜分析句與自查"
+      }
+    ],
+    "questionIds": [
+      "full-d-17-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "閱讀應用"
+  },
+  {
+    "id": "k-afaaad71570a27b1",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "5 扣連上下文",
+    "fields": {
+      "定義與辨識": "回到段旨、主旨、語氣、結構或作者態度。",
+      "例子與作用": "避免離開語境作空泛評價。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.sections[17].rows[4]",
+        "section": "閱讀應用｜分析句與自查"
+      }
+    ],
+    "questionIds": [
+      "full-d-17-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    },
+    "topic": "閱讀應用"
+  },
+  {
+    "id": "k-f61db3d4b0972180",
+    "chapterId": "general",
+    "category": "comparison",
+    "title": "中心自查",
+    "fields": {
+      "提問": "每種手法是否服務中心？"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.self_check[0]",
+        "section": "答題自查"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-241727309a43f98c",
+    "chapterId": "general",
+    "category": "comparison",
+    "title": "記敘自查",
+    "fields": {
+      "提問": "六要素是否清楚？高潮與轉變是否詳寫？"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.self_check[1]",
+        "section": "答題自查"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2eb1ada6c4421eee",
+    "chapterId": "general",
+    "category": "comparison",
+    "title": "描寫自查",
+    "fields": {
+      "提問": "是否有明確對象、觀察點與具體細節？"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.self_check[2]",
+        "section": "答題自查"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b7e6a546531af3f0",
+    "chapterId": "general",
+    "category": "comparison",
+    "title": "抒情自查",
+    "fields": {
+      "提問": "感情有沒有事件、景物或物件作依託？"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.self_check[3]",
+        "section": "答題自查"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-eec626710c4b3876",
+    "chapterId": "general",
+    "category": "comparison",
+    "title": "議論自查",
+    "fields": {
+      "提問": "每段是否有觀點—證據—分析—扣題？"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.self_check[4]",
+        "section": "答題自查"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fe7f20bad6a442c3",
+    "chapterId": "general",
+    "category": "comparison",
+    "title": "結構自查",
+    "fields": {
+      "提問": "過渡是否自然？伏筆是否照應？結尾是否真正收束全文？"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/appendix-content.json",
+        "path": "$appendix.self_check[5]",
+        "section": "答題自查"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3223c3aebfa2ac90",
+    "chapterId": "general",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "竹喧先聞聲、蓮動先見動，再帶出浣女和漁舟。尾聯反用「山中不可以久留」，不是因春花凋謝而感傷。\n「三人」是我、月、影，沒有真正來了兩位朋友。邀月的熱鬧與不解飲的失落，正構成情感起伏。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[217].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-comparison-002"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c913b460e583e0b6",
+    "chapterId": "general",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "「形釋」是形體束縛彷彿解開，不是身體消失。末段沒有睡醒才知天黑的情節。\n不以物喜、不以己悲分清憂樂的對象；先憂後樂再定次序。末句表達認同古仁人，也含對友人的勉勵。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1129].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-18-01-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d2073d3172fe18db",
+    "chapterId": "general",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "狸狌有捕捉本領卻死於機網；斄牛雖大亦不能捕鼠。用單一尺度評價萬物會有局限，樗不宜木作不等於毫無價值。\n「形釋」是形體束縛彷彿解開，不是身體消失。末段沒有睡醒才知天黑的情節。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1130].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-18-01-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9f503768c5c2f66b",
+    "chapterId": "general",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "「若垤若穴」既有比喻，又以周景之小反襯西山之高。「特立」可寄託不與世俗同流的志向。\n寫小喬初嫁與雄姿英發，是集中塑造春風得意的周瑜。詞中回想有藝術安排，不必把婚年和戰年當同一年。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1131].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-08-18-01-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d0e11af0f3f6a826",
+    "chapterId": "general",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "父母有過，子女應委婉規勸；未被接納，仍保持尊敬。「不違」此處採不冒犯的解釋，與第5則不違禮的「無違」分開。尊敬的態度不等於執行不當要求。\n「學者」是求學的人。三項師職包括做人所據的道理、課業和疑難；只教識字斷句，未涵蓋本篇所說的全部職責。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1512].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-01-22-02-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fe213899207f1043",
+    "chapterId": "general",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "孟懿子先問孝；孔子後向樊遲轉述，樊遲再追問。\n下文說生前、死後都要依禮，所以「無違」指不要違背禮。\n「皆通習之」先說六藝經傳全都學過，不能直接換成所有學問完全精通。「貽之」的之指李蟠。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1518].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-01-23-02-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-38ab1a24b2e34526",
+    "chapterId": "general",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "「恥」指因言語超過實際行動而感到羞愧。君子重視言行相符，說話謹慎，並努力履行承諾；當自己說得多、做得少時，會反省並補足行動。\n義是做事始終要守的根本；禮、謙遜和誠信是實踐中的要求。四項相互配合，不是做完第一步便可放下道義。三個「之」指按道義所做的事。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1562].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-01-28-03-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ac574a9c36addf58",
+    "chapterId": "general",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "君子反省言行而無愧，因而坦然；這份心安有道德標準。「不憂」不表示沒有任何煩惱或責任，也不取消對自身不足的警覺。不能憑一時焦慮便給人貼上「小人」標籤。\n不以物喜、不以己悲分清憂樂的對象；先憂後樂再定次序。末句表達認同古仁人，也含對友人的勉勵。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1564].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-01-28-06-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6af36a9441668c45",
+    "chapterId": "general",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "君子反省言行而無愧，因而坦然；這份心安有道德標準。「不憂」不表示沒有任何煩惱或責任，也不取消對自身不足的警覺。不能憑一時焦慮便給人貼上「小人」標籤。\n滕子京雖被貶仍政通人和；寫重修原因、擴建與刻詩賦，再以「屬予」轉到作者。\n銜吞寫湖勢，朝暉夕陰寫變化。前人已備述，所以本文轉向遷客騷人的心情，準備下文陰晴兩幅景。\n去國是離開京師，懷鄉是思念故鄉；憂讒畏譏關乎個人遭遇。景物層層變暗，使悲情有具體依據。\n浮光是水動映月，靜影是水靜月影；兩者狀態不同。寵辱皆忘是此時心情，不直接等於古仁人的長久原則。\n不以物喜、不以己悲分清憂樂的對象；先憂後樂再定次序。末句表達認同古仁人，也含對友人的勉勵。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1657].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-09-14-00-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-37e54b34276f2b73",
+    "chapterId": "general",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "「三人」是我、月、影，沒有真正來了兩位朋友。邀月的熱鬧與不解飲的失落，正構成情感起伏。\n「暫」限定眼前相伴的時間；我歌我舞顯出主動排遣。月影的回應是想像，不能據此說現實孤獨已完全解除。\n「無情」可以指忘卻世情，也可從月影沒有感情理解。它不等於冷酷無情；「相期」仍是願望。\n「萬方多難」說明傷心原因。頷聯一面拓開天地空間，一面由浮雲變化聯想到古今興亡。\n「終」表信念和祝願，「莫」含警告。尾聯諷昏君而思賢相，最後以「聊」寫只能吟詩自遣的無奈。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1748].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-10-00-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-677df97f64c30e03",
+    "chapterId": "general",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "「三人」是我、月、影，沒有真正來了兩位朋友。邀月的熱鬧與不解飲的失落，正構成情感起伏。\n「暫」限定眼前相伴的時間；我歌我舞顯出主動排遣。月影的回應是想像，不能據此說現實孤獨已完全解除。\n「無情」可以指忘卻世情，也可從月影沒有感情理解。它不等於冷酷無情；「相期」仍是願望。\n石的高峻、浪的強勁與浪花的白，合成雄奇景象。「人道是」保留相傳語氣，不是地點考證定論。\n寫小喬初嫁與雄姿英發，是集中塑造春風得意的周瑜。詞中回想有藝術安排，不必把婚年和戰年當同一年。\n開首十四疊字把動作、環境、內心逐層連起。大雁令人聯想舊時生活，但不能斷言飛過的必是同一隻雁。\n「怎生得黑」寫長日難熬；「更兼」又加一層雨聲。末句不是否認愁，而是說一個愁字容不下種種痛苦。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1749].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-12-10-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ec85b57cc03af621",
+    "chapterId": "general",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "「萬方多難」說明傷心原因。頷聯一面拓開天地空間，一面由浮雲變化聯想到古今興亡。\n「終」表信念和祝願，「莫」含警告。尾聯諷昏君而思賢相，最後以「聊」寫只能吟詩自遣的無奈。\n石的高峻、浪的強勁與浪花的白，合成雄奇景象。「人道是」保留相傳語氣，不是地點考證定論。\n寫小喬初嫁與雄姿英發，是集中塑造春風得意的周瑜。詞中回想有藝術安排，不必把婚年和戰年當同一年。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1850].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-14-09-00-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5e5ecd9028b29160",
+    "chapterId": "general",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "開首十四疊字把動作、環境、內心逐層連起。大雁令人聯想舊時生活，但不能斷言飛過的必是同一隻雁。\n「怎生得黑」寫長日難熬；「更兼」又加一層雨聲。末句不是否認愁，而是說一個愁字容不下種種痛苦。\n視覺、聽覺和嗅覺共同營造熱鬧；熱鬧寫得充分，才更能反襯最後燈火闌珊處的人。\n千百度極言尋找之多，驀然寫發現的突然。那人不在熱鬧中心，位置上的反差支持其孤高形象。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1967].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1968].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1969].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1970].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1972].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-09-01-01",
+      "full-c-16-09-01-02",
+      "full-c-16-09-01-03",
+      "full-c-16-09-01-04",
+      "full-c-16-09-03-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4b8a0bbdcfbe4f8f",
+    "chapterId": "general",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "石的高峻、浪的強勁與浪花的白，合成雄奇景象。「人道是」保留相傳語氣，不是地點考證定論。\n寫小喬初嫁與雄姿英發，是集中塑造春風得意的周瑜。詞中回想有藝術安排，不必把婚年和戰年當同一年。\n視覺、聽覺和嗅覺共同營造熱鬧；熱鬧寫得充分，才更能反襯最後燈火闌珊處的人。\n千百度極言尋找之多，驀然寫發現的突然。那人不在熱鬧中心，位置上的反差支持其孤高形象。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1971].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-09-03-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-083f957f78a4fae1",
+    "chapterId": "general",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "石的高峻、浪的強勁與浪花的白，合成雄奇景象。「人道是」保留相傳語氣，不是地點考證定論。\n寫小喬初嫁與雄姿英發，是集中塑造春風得意的周瑜。詞中回想有藝術安排，不必把婚年和戰年當同一年。\n開首十四疊字把動作、環境、內心逐層連起。大雁令人聯想舊時生活，但不能斷言飛過的必是同一隻雁。\n「怎生得黑」寫長日難熬；「更兼」又加一層雨聲。末句不是否認愁，而是說一個愁字容不下種種痛苦。\n視覺、聽覺和嗅覺共同營造熱鬧；熱鬧寫得充分，才更能反襯最後燈火闌珊處的人。\n千百度極言尋找之多，驀然寫發現的突然。那人不在熱鬧中心，位置上的反差支持其孤高形象。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1974].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-09-04-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-886e548992eb015d",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "比喻",
+    "fields": {
+      "內容": "比喻把兩種不同而具有相似點的事物聯繫起來。本體是要說明的對象，喻體是用來作比的事物。明喻常用「如、似、猶」等喻詞；暗喻以「是、為」等把兩者連起來；借喻只出現喻體。辨析時須指出相似點和具體作用。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1980].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1982].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2004].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2034].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2035].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2050].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2062].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2098].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2126].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2134].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2139].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2148].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2155].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2156].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-d-00-00",
+      "full-d-00-02",
+      "full-d-05-00",
+      "full-d-07-08",
+      "full-d-07-09",
+      "full-d-09-05",
+      "full-d-10-04",
+      "full-d-13-12",
+      "full-d-17-00",
+      "dse-2018-1a-4",
+      "dse-2020-1a-5-i",
+      "dse-2023-1a-2",
+      "dse-2024-1a-6-i",
+      "dse-2024-1a-6-ii"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7a398be46a6ae029",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "借代",
+    "fields": {
+      "內容": "借代利用事物之間的關聯，以特徵、部分、材料或相關事物代替本體。比喻依靠相似，借代依靠關聯。答題要說明代指對象及兩者關係。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1982].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2004].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-d-00-02",
+      "full-d-05-00"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8b75bb1bf8e9a0f4",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "對比與襯托",
+    "fields": {
+      "內容": "對比把兩方並置，突出差異，兩方都參與表意；襯托有主次，以陪襯的一方突出主要對象。分析須指出哪兩方、在哪一方面形成關係，以及這個關係如何支持文意。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1985].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1986].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2005].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2032].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2035].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2060].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2061].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2114].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2134].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-d-01-00",
+      "full-d-01-01",
+      "full-d-05-01",
+      "full-d-07-06",
+      "full-d-07-09",
+      "full-d-10-02",
+      "full-d-10-03",
+      "full-d-15-05",
+      "dse-2018-1a-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f495a9f17a92e873",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "反問與設問",
+    "fields": {
+      "內容": "反問用疑問形式表達已確定的意思，通常不需回答，以加強語氣；設問先提出問題再作回答，引導讀者理解。判斷時看句子在上下文的作用，不能只憑問號。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1990].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1991].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2006].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2123].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-d-02-00",
+      "full-d-02-01",
+      "full-d-05-02",
+      "full-d-16-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cfdf06e8e394f844",
+    "chapterId": "general",
+    "category": "theme",
+    "title": "舉例與引用",
+    "fields": {
+      "內容": "舉例以具體事實、人物或事件支持道理；引用借用前人話語或文獻作依據。兩者可以在同一段並用，須按題目所問的範圍辨認，並說明例子或引語支持哪個論點。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1992].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2008].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2047].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2049].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2058].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2059].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2078].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2103].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2106].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2114].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2139].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-d-02-02",
+      "full-d-05-04",
+      "full-d-09-02",
+      "full-d-09-04",
+      "full-d-10-00",
+      "full-d-10-01",
+      "full-d-11-09",
+      "full-d-14-03",
+      "full-d-14-06",
+      "full-d-15-05",
+      "dse-2020-1a-5-i"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-148798ee1b1e36b8",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "用典",
+    "fields": {
+      "內容": "用典是引用或化用前人語句、故事，把既有含義帶入作品。分析時依次說明典故出處、原來意思、作者如何沿用或轉化，以及它表達的情感志趣。只寫「用了典故」未能交代作用。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1993].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2008].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2047].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2049].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2160].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-d-02-03",
+      "full-d-05-04",
+      "full-d-09-02",
+      "full-d-09-04",
+      "dse-2025-1a-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-162600afe3f92678",
+    "chapterId": "general",
+    "category": "technique",
+    "title": "借景抒情",
+    "fields": {
+      "內容": "借景抒情把感情寄寓在景物描寫之中。先指出景物的色彩、聲音、動靜或氣氛，再連繫人物處境與上下文，說明景物如何呈現情感；不能只列景物名稱便當作完成分析。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2082].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2085].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-d-12-03",
+      "full-d-12-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-403a22333b360c19",
+    "chapterId": "general",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "「克己」是約束自己，結合語境指克制私欲；「為仁由己」說行仁要由自己實踐。兩處「己」都指自己，但不能把後一句理解成依靠私欲。四勿把克己復禮落實到視、聽、言、動。\n不以物喜、不以己悲分清憂樂的對象；先憂後樂再定次序。末句表達認同古仁人，也含對友人的勉勵。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2131].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "confusable-gui-lunyu-yueyang"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6ec9fd59ff5d3453",
+    "chapterId": "general",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "「克己」是約束自己，結合語境指克制私欲；「為仁由己」說行仁要由自己實踐。兩處「己」都指自己，但不能把後一句理解成依靠私欲。四勿把克己復禮落實到視、聽、言、動。\n竹喧先聞聲、蓮動先見動，再帶出浣女和漁舟。尾聯反用「山中不可以久留」，不是因春花凋謝而感傷。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2132].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "confusable-gui-lunyu-shanju"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-17d72ab7c094c067",
+    "chapterId": "general",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "不以物喜、不以己悲分清憂樂的對象；先憂後樂再定次序。末句表達認同古仁人，也含對友人的勉勵。\n竹喧先聞聲、蓮動先見動，再帶出浣女和漁舟。尾聯反用「山中不可以久留」，不是因春花凋謝而感傷。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2133].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "confusable-gui-yueyang-shanju"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f92e8695d8a8ff27",
+    "chapterId": "general",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "安仁：把仁德當作自己應守的道理，自然願意實踐，不以利益作前提。利仁：認識到行仁有長遠利益或價值，因而實踐。比較的是行仁動機和道德自覺，不是誰會思考。知者也行仁，不等於不仁。\n人都希望富有、地位高，不想貧窮、地位低。孔子認為這很正常，但不能為此做不仁的事。\n「克己」是約束自己，結合語境指克制私欲；「為仁由己」說行仁要由自己實踐。兩處「己」都指自己，但不能把後一句理解成依靠私欲。四勿把克己復禮落實到視、聽、言、動。\n如果保住生命就會損害仁德，君子寧可犧牲自己，也不做違背仁德的事。「殺身」指犧牲自己的生命。\n孟懿子先問孝；孔子後向樊遲轉述，樊遲再追問。\n下文說生前、死後都要依禮，所以「無違」指不要違背禮。\n養，是給父母衣食和生活照顧；敬，是心裏真正尊重父母。狗和馬也能得到食物，因此只讓父母吃飽，還不算做到孝。\n父母有過，子女應委婉規勸；未被接納，仍保持尊敬。「不違」此處採不冒犯的解釋，與第5則不違禮的「無違」分開。尊敬的態度不等於執行不當要求。\n知年不是只背出歲數，而是把父母放在心上：喜其長壽，憂其衰老，珍惜相處。\n擇友重在向善，可以與志同道合的人互相砥礪、學習長處。這是修養上的意思，不是按財富、成績或身分把人分高低，也不是拒絕與其他人友善相處。\n不能因一時焦慮便斷定一個人是小人。本文對比修養及心境，不是替所有情緒貼人格標籤。\n君子反省言行而無愧，因而坦然；這份心安有道德標準。「不憂」不表示沒有任何煩惱或責任，也不取消對自身不足的警覺。不能憑一時焦慮便給人貼上「小人」標籤。\n「成人之美」是幫人做好事；若事情本身不善，不能為了討好對方而助長過錯。\n「恥」指因言語超過實際行動而感到羞愧。君子重視言行相符，說話謹慎，並努力履行承諾；當自己說得多、做得少時，會反省並補足行動。\n義是做事始終要守的根本；禮、謙遜和誠信是實踐中的要求。四項相互配合，不是做完第一步便可放下道義。三個「之」指按道義所做的事。\n否定的是為別人不了解自己而憂慮，不是否定所有擔憂。「病無能」本身就是自我警覺。\n病無能：在意自身能力不足，而非只埋怨別人不了解自己。求諸己：把要求先放在自己身上，改進能改進的地方；不等於凡事都是自己的錯，也不排除合理求助或指出他人的責任。\n廉頗已立戰功、位居上卿，相如還是門客。這一高一下的起點，為後來相如升遷與廉頗不平作鋪墊。\n相如曾分析燕趙強弱、勸繆賢請罪，先以小事顯智。對秦則答應換璧，使違約時理虧落在秦方。\n稱璧有瑕是取回璧的策略；倚柱欲碎璧抓住秦王求璧之心。齋戒九賓既爭禮節，也爭時間；相如沒有相信秦王的假承諾。\n先說秦歷來不守約，再說秦強不必怕趙失信，最後願就湯鑊。請求受刑是表態，不是實際已被烹煮。\n石城與兩萬人的記述簡短，仍交代秦趙衝突持續；完璧成功不等於此後秦從未攻趙。\n相如讓秦王擊缻並記錄，抵消趙王被令鼓瑟的羞辱；咸陽祝壽回敬索城。三十日另立太子是預案，未說已執行。\n門客誤以為畏懼，相如以曾叱秦王證自己不怯，再說兩人同在足以制秦。「先國後私」解釋讓步動機。\n滕子京雖被貶仍政通人和；寫重修原因、擴建與刻詩賦，再以「屬予」轉到作者。\n銜吞寫湖勢，朝暉夕陰寫變化。前人已備述，所以本文轉向遷客騷人的心情，準備下文陰晴兩幅景。\n去國是離開京師，懷鄉是思念故鄉；憂讒畏譏關乎個人遭遇。景物層層變暗，使悲情有具體依據。\n浮光是水動映月，靜影是水靜月影；兩者狀態不同。寵辱皆忘是此時心情，不直接等於古仁人的長久原則。\n不以物喜、不以己悲分清憂樂的對象；先憂後樂再定次序。末句表達認同古仁人，也含對友人的勉勵。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2146].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "dse-2022-1a-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-34bb76e573e78ae5",
+    "chapterId": "general",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "開張聖聽與妄自菲薄、引喻失義形成正反兩面。後兩者會堵塞忠諫之路，與求諫的目的相反。\n不以物喜、不以己悲分清憂樂的對象；先憂後樂再定次序。末句表達認同古仁人，也含對友人的勉勵。\n割地者國力耗損；不割地者失去援國而難獨存。設問預先處理「是否全都賂秦」的疑問，使論述更周密。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2157].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "dse-2025-1a-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2a4a50dfef5a79c0",
+    "chapterId": "general",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "「空」寫清幽，不否定下文有人居住。月照偏靜，泉流是動態；局部流水襯出整體寧靜。\n竹喧先聞聲、蓮動先見動，再帶出浣女和漁舟。尾聯反用「山中不可以久留」，不是因春花凋謝而感傷。\n「萬方多難」說明傷心原因。頷聯一面拓開天地空間，一面由浮雲變化聯想到古今興亡。\n「終」表信念和祝願，「莫」含警告。尾聯諷昏君而思賢相，最後以「聊」寫只能吟詩自遣的無奈。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2159].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "dse-2025-1a-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "version": "2026.10.13.1",
+  "result": "PASS",
+  "scope": "全量結構與來源定位；自編題逐題PDF文字錨點。篇首提要、六組比較及既有異解另作編輯審讀；不是全部知識逐條獨立學術終核。",
+  "coreCardsOriginalQuotesChecked": 48,
+  "knowledgeRecords": 3133,
+  "concepts": 2267,
+  "sourceFactsExpected": 2997,
+  "sourceFactsMapped": 2997,
+  "provenanceLocationsResolved": 4874,
+  "questionLinks": 2161,
+  "pdfPages": 260,
+  "authoredQuestionPdfAnchorsChecked": 2134,
+  "existingDisputedLocationsPreserved": 16,
+  "markdownLinksChecked": 3026,
+  "reviewStates": {
+    "organized": 3103,
+    "multiple-interpretations": 16,
+    "interpretation-note": 13,
+    "hold": 1
+  },
+  "notIndependentlyRechecked": [
+    "27道DSE原題的外部原卷和評分文件",
+    "全部細項與獨立權威版本的逐條語義核對",
+    "歷年考查提示中的全部年份和題號"
+  ],
+  "sourceFiles": {
+    "web-study/content/sources/student-content.json": "e3209a86d49ec0b62d03f15296d62675c4b8e2aa80bebdd17303afc02feec491",
+    "web-study/content/sources/appendix-content.json": "854285f257f56c82955d54c645cfebfc272de6740428a6474fac7050f5148b15",
+    "web-study/content/bank.json": "28da4827469740cf77f5c206de70998a8d2b10bb206c27bd900390a931924f07",
+    "web-study/content/source-coverage.json": "a1e461804ed5a47bfa2d6fbdbb257f9ca82d56d4017b9ba6281ab3ac56592633",
+    "web-study/content/sources/revision-book.pdf": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa"
+  },
+  "errors": []
+}

@@ -1,0 +1,172 @@
+[
+  {
+    "kind": "existing-dispute",
+    "knowledgeIds": [
+      "k-4d161c72ac6bc193"
+    ],
+    "sourcePath": "$[1].pages[3].blocks[3][1][12]",
+    "questionIds": [],
+    "status": "disputed",
+    "reason": "詞解本身明列異解：妻妾的侍奉；另有供養妻妾解；保留閱讀，不設唯一判分。"
+  },
+  {
+    "kind": "existing-dispute",
+    "knowledgeIds": [
+      "k-4cac83274985b031"
+    ],
+    "sourcePath": "$[1].pages[4].blocks[3][1][1]",
+    "questionIds": [],
+    "status": "disputed",
+    "reason": "詞解本身明列異解：妻妾的侍奉；另有供養妻妾解；保留閱讀，不設唯一判分。"
+  },
+  {
+    "kind": "existing-dispute",
+    "knowledgeIds": [
+      "k-f8e0922012a94fb9"
+    ],
+    "sourcePath": "$[3].pages[1].blocks[3][1][6]",
+    "questionIds": [],
+    "status": "disputed",
+    "reason": "詞解本身明列異解：大而平淺；另有廓落難容解；保留閱讀，不設唯一判分。"
+  },
+  {
+    "kind": "existing-dispute",
+    "knowledgeIds": [
+      "k-846073306d01377e"
+    ],
+    "sourcePath": "$[3].pages[1].blocks[3][1][12]",
+    "questionIds": [],
+    "status": "disputed",
+    "reason": "詞解本身明列異解：漂洗絲絮；絖另有棉絮解；保留閱讀，不設唯一判分。"
+  },
+  {
+    "kind": "existing-dispute",
+    "knowledgeIds": [
+      "k-db8c59baab43bd15"
+    ],
+    "sourcePath": "$[3].pages[2].blocks[3][1][0]",
+    "questionIds": [],
+    "status": "disputed",
+    "reason": "詞解本身明列異解：漂洗絲絮；絖另有棉絮解；保留閱讀，不設唯一判分。"
+  },
+  {
+    "kind": "existing-dispute",
+    "knowledgeIds": [
+      "k-ed13e32e9ea08583"
+    ],
+    "sourcePath": "$[3].pages[3].blocks[3][1][4]",
+    "questionIds": [],
+    "status": "disputed",
+    "reason": "詞解本身明列異解：大而平淺；另有廓落難容解；保留閱讀，不設唯一判分。"
+  },
+  {
+    "kind": "existing-dispute",
+    "knowledgeIds": [
+      "k-be218b54b90b8ca2"
+    ],
+    "sourcePath": "$[1].pages[9].blocks[1][1][2]",
+    "questionIds": [],
+    "status": "disputed",
+    "reason": "「鄉為身死而不受」所連對象在pages[12]明列食物／萬鍾異讀，整句保留兩解，不強判唯一語譯。"
+  },
+  {
+    "kind": "existing-dispute",
+    "knowledgeIds": [
+      "k-f2672e6c7da9b017"
+    ],
+    "sourcePath": "$[1].pages[10].blocks[0][1][7]",
+    "questionIds": [],
+    "status": "disputed",
+    "reason": "同篇pages[12]明列妻妾侍奉自己／供養妻妾兩解。"
+  },
+  {
+    "kind": "existing-dispute",
+    "knowledgeIds": [
+      "k-b1d9845aeda4c5cf"
+    ],
+    "sourcePath": "$[3].pages[9].blocks[2][1][9]",
+    "questionIds": [],
+    "status": "disputed",
+    "reason": "本行明列平淺不容物／太大無處安置兩解。"
+  },
+  {
+    "kind": "existing-dispute",
+    "knowledgeIds": [
+      "k-4d71f002988f0b0e"
+    ],
+    "sourcePath": "$[3].pages[9].blocks[2][1][18]",
+    "questionIds": [],
+    "status": "disputed",
+    "reason": "annot詞解另列絖為絲絮／棉絮，本表只列絲絮，不以省略另一說強判。"
+  },
+  {
+    "kind": "existing-dispute",
+    "knowledgeIds": [
+      "k-f09c5213a21e2c76"
+    ],
+    "sourcePath": "$[3].pages[9].blocks[2][1][36]",
+    "questionIds": [],
+    "status": "disputed",
+    "reason": "annot釋慮為綴結繫結，本表又寫考慮繫着，保留表述差異；已審字面題不被默改。"
+  },
+  {
+    "kind": "existing-dispute",
+    "knowledgeIds": [
+      "k-af358472b9da1d98"
+    ],
+    "sourcePath": "$[1].pages[12].blocks[0]",
+    "questionIds": [
+      "q-e02-exp-008"
+    ],
+    "status": "disputed",
+    "reason": "明列妻妾之奉與鄉為身死而不受的兩解，不強判單一語譯；共同的今昔失義由所列題覆蓋。"
+  },
+  {
+    "kind": "existing-dispute",
+    "knowledgeIds": [
+      "k-ef002ee0dc11a0b9"
+    ],
+    "sourcePath": "$[5].pages[15].blocks[0][1][9]",
+    "questionIds": [],
+    "status": "disputed",
+    "reason": "原书标作借喻的延伸理解；秋的时刻义另有词解题。修辞分类不作为唯一判分依据，保留此延伸说明待核。"
+  },
+  {
+    "kind": "existing-dispute",
+    "knowledgeIds": [
+      "k-9476a0ebd56c7c87"
+    ],
+    "sourcePath": "$[9].pages[10].blocks[2][1][1]",
+    "questionIds": [],
+    "status": "disputed",
+    "reason": "原书同时列兵器字面义及军队兵力借代义；不能把两种成立解释并列判一错，保留待复核。"
+  },
+  {
+    "kind": "existing-dispute",
+    "knowledgeIds": [
+      "k-4238b4a140cd9d55"
+    ],
+    "sourcePath": "$[0].pages[7].blocks[1][1][5]",
+    "questionIds": [],
+    "status": "disputed",
+    "reason": "來源另列異解：「不違」本書採不觸忤父母，考查語境另作不違父母意願；不與第5則無違禮混同。"
+  },
+  {
+    "kind": "existing-dispute",
+    "knowledgeIds": [
+      "k-fe1b51eaa7031f13"
+    ],
+    "sourcePath": "$[0].pages[9].blocks[1][1][2]",
+    "questionIds": [],
+    "status": "disputed",
+    "reason": "來源另列異解：「固」本書主解鞏固，另列閉塞淺陋解；保留異說閱讀，不作無限定唯一詞義題。"
+  },
+  {
+    "kind": "held-definition",
+    "knowledgeIds": [
+      "k-db7e8c105c018e1d"
+    ],
+    "questionId": "full-d-16-01",
+    "reason": "來源只給正面展望的寫作建議，未釐清它是一般定義還是正面寫法示例；不能把一般概念限為正面積極。暫停新抽題，保留歷史，待補證再重構。"
+  }
+]

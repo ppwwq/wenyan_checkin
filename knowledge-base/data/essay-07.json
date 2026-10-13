@@ -1,0 +1,5598 @@
+[
+  {
+    "id": "k-4b6a65ab357c6304",
+    "chapterId": "essay-07",
+    "category": "background",
+    "title": "作者與題旨",
+    "fields": {
+      "作者": "韓愈"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].author",
+        "section": "師說"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-34563a5247a56ef7",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "一句話題旨",
+    "fields": {
+      "題旨": "從師與求道"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].desc",
+        "section": "師說"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4407e5ed5f06ee26",
+    "chapterId": "essay-07",
+    "category": "background",
+    "title": "作者、時代與文體",
+    "fields": {
+      "資料": "韓愈｜唐代｜論辯體"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[0].blocks[0]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c173e51f545b2038",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "韓愈｜唐代｜論辯體",
+    "fields": {
+      "內容": "有疑惑就需要從師；擇師看道理和專長，不看年齡、地位。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[0].blocks[1]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-76b6034e925a3275",
+    "chapterId": "essay-07",
+    "category": "structure",
+    "title": "內容線索",
+    "fields": {
+      "內容": "從師必要→擇師準則→三組恥師對比→孔子例→贈李蟠"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[0].blocks[3]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-00bb2f877da43b35",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "理解關鍵",
+    "fields": {
+      "內容": "老師的傳道、受業、解惑彼此相連。「小學大遺」批評成人只重句讀、卻放棄求道解惑的取捨。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[0].blocks[5]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f2adb3892d7b623e",
+    "chapterId": "essay-07",
+    "category": "background",
+    "title": "題解與文體",
+    "fields": {
+      "內容": "古文運動重內容與載道；本文反對恥於從師的風氣。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[0].blocks[7]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cd72abbf2a85625c",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "句段核心：第1段｜原文與語譯",
+    "fields": {
+      "重點": "人人有惑，從師才能解惑。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[1].core",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8e7462052b690e89",
+    "chapterId": "essay-07",
+    "category": "text",
+    "title": "第1段｜原文與語譯",
+    "fields": {
+      "原文": "古之學者必有師。師者，所以傳道、受業、解惑也。人非生而知之者，孰能無惑？惑而不從師，其為惑也終不解矣。"
+    },
+    "context": "古之學者必有師。師者，所以傳道、受業、解惑也。人非生而知之者，孰能無惑？惑而不從師，其為惑也終不解矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[1].blocks[0]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e07-exp-001",
+      "q-e07-exp-002",
+      "full-b-07-01-03-1",
+      "full-b-07-01-03-3",
+      "full-b-07-01-03-4",
+      "full-b-07-01-00-b",
+      "full-b-07-10-00-1",
+      "full-b-07-13-00-1",
+      "full-b-07-13-00-5",
+      "full-b-07-13-00-6",
+      "full-b-07-15-00-1",
+      "full-b-07-15-00-2",
+      "full-b-07-15-00-6",
+      "full-b-07-18-00-4",
+      "full-b-07-19-01-1",
+      "full-c-01-22-02-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ff8fe90ba2e567c0",
+    "chapterId": "essay-07",
+    "category": "text",
+    "title": "第1段｜原文與語譯",
+    "fields": {
+      "語譯": "古代求學的人必定有老師。老師，是傳授儒家道統、講授課業、解答疑惑的人。人不是生下來就有知識的，誰能沒有疑惑？有疑惑卻不跟從老師學習，那些成為疑惑的東西最終都不能解決了。"
+    },
+    "context": "古之學者必有師。師者，所以傳道、受業、解惑也。人非生而知之者，孰能無惑？惑而不從師，其為惑也終不解矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[1].blocks[2]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e07-exp-001",
+      "q-e07-exp-002",
+      "full-b-07-01-03-1",
+      "full-b-07-01-03-3",
+      "full-b-07-01-03-4",
+      "full-b-07-01-00-b",
+      "full-b-07-10-00-1",
+      "full-b-07-13-00-1",
+      "full-b-07-13-00-5",
+      "full-b-07-13-00-6",
+      "full-b-07-15-00-1",
+      "full-b-07-15-00-2",
+      "full-b-07-15-00-6",
+      "full-b-07-18-00-4",
+      "full-b-07-19-01-1",
+      "full-c-01-22-02-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bd34d6295b4591d4",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "學者",
+    "fields": {
+      "詞義": "求學的人"
+    },
+    "context": "古之學者必有師。師者，所以傳道、受業、解惑也。人非生而知之者，孰能無惑？惑而不從師，其為惑也終不解矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[1].blocks[3][1][0]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c61f4182a8a75f8a",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "所以",
+    "fields": {
+      "詞義": "用來……的"
+    },
+    "context": "古之學者必有師。師者，所以傳道、受業、解惑也。人非生而知之者，孰能無惑？惑而不從師，其為惑也終不解矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[1].blocks[3][1][1]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-01-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-887d4d999caf9950",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "受",
+    "fields": {
+      "詞義": "通授，傳授"
+    },
+    "context": "古之學者必有師。師者，所以傳道、受業、解惑也。人非生而知之者，孰能無惑？惑而不從師，其為惑也終不解矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[1].blocks[3][1][2]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-59b88f1f6cd35d1f",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "孰",
+    "fields": {
+      "詞義": "誰"
+    },
+    "context": "古之學者必有師。師者，所以傳道、受業、解惑也。人非生而知之者，孰能無惑？惑而不從師，其為惑也終不解矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[1].blocks[3][1][3]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-01-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-06c6aedf134aea07",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "惑",
+    "fields": {
+      "詞義": "疑惑"
+    },
+    "context": "古之學者必有師。師者，所以傳道、受業、解惑也。人非生而知之者，孰能無惑？惑而不從師，其為惑也終不解矣。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[1].blocks[3][1][4]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-01-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a6e768223382af9f",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "「學者」是求學的人。三項師職包括做人所據的道理、課業和疑難；只教識字斷句，未涵蓋本篇所說的全部職責。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[1].blocks[4]",
+        "section": "第1段｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[144].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[145].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[749].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[750].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[751].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[911].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1047].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1051].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1052].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1061].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1062].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1064].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1089].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1090].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e07-exp-001",
+      "q-e07-exp-002",
+      "full-b-07-01-03-1",
+      "full-b-07-01-03-3",
+      "full-b-07-01-03-4",
+      "full-b-07-01-00-b",
+      "full-b-07-13-00-1",
+      "full-b-07-13-00-5",
+      "full-b-07-13-00-6",
+      "full-b-07-15-00-1",
+      "full-b-07-15-00-2",
+      "full-b-07-15-00-6",
+      "full-b-07-18-00-4",
+      "full-b-07-19-01-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-77bdb6b58cf730b2",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "句段核心：第2段｜原文與語譯",
+    "fields": {
+      "重點": "擇師以聞道為準，不受年齡與地位限制。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[2].core",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f5b461b590df5e39",
+    "chapterId": "essay-07",
+    "category": "text",
+    "title": "第2段｜原文與語譯",
+    "fields": {
+      "原文": "生乎吾前，其聞道也，固先乎吾，吾從而師之；生乎吾後，其聞道也，亦先乎吾，吾從而師之。吾師道也，夫庸知其年之先後生於吾乎？是故無貴無賤，無長無少，道之所存，師之所存也。"
+    },
+    "context": "生乎吾前，其聞道也，固先乎吾，吾從而師之；生乎吾後，其聞道也，亦先乎吾，吾從而師之。吾師道也，夫庸知其年之先後生於吾乎？是故無貴無賤，無長無少，道之所存，師之所存也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[2].blocks[0]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e07-exp-007",
+      "full-b-07-02-03-0",
+      "full-b-07-02-03-1",
+      "full-b-07-02-03-2",
+      "full-b-07-02-03-3",
+      "full-b-07-02-03-4",
+      "full-b-07-02-00-b",
+      "full-b-07-10-00-2",
+      "full-b-07-10-00-3",
+      "full-b-07-10-00-4",
+      "full-b-07-13-00-2",
+      "full-b-07-15-00-3",
+      "full-b-07-15-00-10",
+      "full-b-07-15-00-13",
+      "full-b-07-15-00-14",
+      "full-b-07-16-00-4",
+      "full-b-07-19-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-01b63b80294e2c95",
+    "chapterId": "essay-07",
+    "category": "text",
+    "title": "第2段｜原文與語譯",
+    "fields": {
+      "語譯": "出生在我之前的人，他領會道理的時間本來就比我早，我應該跟從他學習；出生在我之後的人，如果他領會道理的時間亦比我早，我也應該跟從他學習。我拜師學習道理，何必去計較他的出生年份比我早還是比我晚呢？因此無論地位高低貴賤，無論年長年幼，道理存在的地方，就是老師所在的地方了。"
+    },
+    "context": "生乎吾前，其聞道也，固先乎吾，吾從而師之；生乎吾後，其聞道也，亦先乎吾，吾從而師之。吾師道也，夫庸知其年之先後生於吾乎？是故無貴無賤，無長無少，道之所存，師之所存也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[2].blocks[2]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e07-exp-007",
+      "full-b-07-02-03-0",
+      "full-b-07-02-03-1",
+      "full-b-07-02-03-2",
+      "full-b-07-02-03-3",
+      "full-b-07-02-03-4",
+      "full-b-07-02-00-b",
+      "full-b-07-10-00-2",
+      "full-b-07-10-00-3",
+      "full-b-07-10-00-4",
+      "full-b-07-13-00-2",
+      "full-b-07-15-00-3",
+      "full-b-07-15-00-10",
+      "full-b-07-15-00-13",
+      "full-b-07-15-00-14",
+      "full-b-07-16-00-4",
+      "full-b-07-19-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7bb3be29ec614d4d",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "固",
+    "fields": {
+      "詞義": "本來"
+    },
+    "context": "生乎吾前，其聞道也，固先乎吾，吾從而師之；生乎吾後，其聞道也，亦先乎吾，吾從而師之。吾師道也，夫庸知其年之先後生於吾乎？是故無貴無賤，無長無少，道之所存，師之所存也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[2].blocks[3][1][0]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-02-03-0"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-eada7a454be84a28",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "師",
+    "fields": {
+      "詞義": "以他為師"
+    },
+    "context": "生乎吾前，其聞道也，固先乎吾，吾從而師之；生乎吾後，其聞道也，亦先乎吾，吾從而師之。吾師道也，夫庸知其年之先後生於吾乎？是故無貴無賤，無長無少，道之所存，師之所存也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[2].blocks[3][1][1]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-02-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-14f5ccf332f29382",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "師",
+    "fields": {
+      "詞義": "學習"
+    },
+    "context": "生乎吾前，其聞道也，固先乎吾，吾從而師之；生乎吾後，其聞道也，亦先乎吾，吾從而師之。吾師道也，夫庸知其年之先後生於吾乎？是故無貴無賤，無長無少，道之所存，師之所存也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[2].blocks[3][1][2]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-02-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-770a3236edc0d7ae",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "庸",
+    "fields": {
+      "詞義": "何必"
+    },
+    "context": "生乎吾前，其聞道也，固先乎吾，吾從而師之；生乎吾後，其聞道也，亦先乎吾，吾從而師之。吾師道也，夫庸知其年之先後生於吾乎？是故無貴無賤，無長無少，道之所存，師之所存也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[2].blocks[3][1][3]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-02-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-74e1878245a99d92",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "無",
+    "fields": {
+      "詞義": "無論、不分"
+    },
+    "context": "生乎吾前，其聞道也，固先乎吾，吾從而師之；生乎吾後，其聞道也，亦先乎吾，吾從而師之。吾師道也，夫庸知其年之先後生於吾乎？是故無貴無賤，無長無少，道之所存，師之所存也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[2].blocks[3][1][4]",
+        "section": "第2段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-02-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7cc0f97633432e10",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "先出生不等於先聞道。只要對方領會道理在先，即使年紀較小也可以向他學習；「無」在此是無論。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[2].blocks[4]",
+        "section": "第2段｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[150].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[752].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[753].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[754].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[755].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[756].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[912].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1048].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1063].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1065].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1066].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1067].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1070].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1094].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e07-exp-007",
+      "full-b-07-02-03-0",
+      "full-b-07-02-03-1",
+      "full-b-07-02-03-2",
+      "full-b-07-02-03-3",
+      "full-b-07-02-03-4",
+      "full-b-07-02-00-b",
+      "full-b-07-13-00-2",
+      "full-b-07-15-00-3",
+      "full-b-07-15-00-10",
+      "full-b-07-15-00-13",
+      "full-b-07-15-00-14",
+      "full-b-07-16-00-4",
+      "full-b-07-19-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-951dcae8d9e60aa4",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "句段核心：第3段｜原文與語譯",
+    "fields": {
+      "重點": "是否願意從師，使聖愚差距擴大。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[3].core",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-857c70c77842b33e",
+    "chapterId": "essay-07",
+    "category": "text",
+    "title": "第3段｜原文與語譯",
+    "fields": {
+      "原文": "嗟乎！師道之不傳也久矣！欲人之無惑也難矣！古之聖人，其出人也遠矣，猶且從師而問焉；今之眾人，其下聖人也亦遠矣，而恥學於師；是故聖益聖，愚益愚，聖人之所以為聖，愚人之所以為愚，其皆出於此乎！"
+    },
+    "context": "嗟乎！師道之不傳也久矣！欲人之無惑也難矣！古之聖人，其出人也遠矣，猶且從師而問焉；今之眾人，其下聖人也亦遠矣，而恥學於師；是故聖益聖，愚益愚，聖人之所以為聖，愚人之所以為愚，其皆出於此乎！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[3].blocks[0]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e07-exp-008",
+      "full-b-07-03-03-0",
+      "full-b-07-03-03-1",
+      "full-b-07-03-03-2",
+      "full-b-07-03-03-3",
+      "full-b-07-03-03-4",
+      "full-b-07-03-03-5",
+      "full-b-07-03-03-6",
+      "full-b-07-03-00-b",
+      "full-b-07-11-00-1",
+      "full-b-07-12-03-1",
+      "full-b-07-12-03-2",
+      "full-b-07-13-00-3",
+      "full-b-07-13-00-10",
+      "full-b-07-14-00-2",
+      "full-b-07-14-00-4",
+      "full-b-07-16-00-1",
+      "full-b-07-16-00-2",
+      "full-b-07-19-01-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4e7e1ae4ae0a5e47",
+    "chapterId": "essay-07",
+    "category": "text",
+    "title": "第3段｜原文與語譯",
+    "fields": {
+      "語譯": "唉！從師學習的正確態度已經很久沒有流傳了！想人們沒有疑惑也很難了！古代的聖人，他們（的才智學問）超越一般人已經很遠了，尚且要跟從老師並向他們請教學問；現在的一般人，他們（的才智學問）不及聖人亦已經很遠了，卻恥於跟從老師學習；因此聖人更加聖明，愚人更加愚昧；聖人之所以成為聖人，愚人之所以成為愚人，大概都出於這個原因吧！"
+    },
+    "context": "嗟乎！師道之不傳也久矣！欲人之無惑也難矣！古之聖人，其出人也遠矣，猶且從師而問焉；今之眾人，其下聖人也亦遠矣，而恥學於師；是故聖益聖，愚益愚，聖人之所以為聖，愚人之所以為愚，其皆出於此乎！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[3].blocks[2]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e07-exp-008",
+      "full-b-07-03-03-0",
+      "full-b-07-03-03-1",
+      "full-b-07-03-03-2",
+      "full-b-07-03-03-3",
+      "full-b-07-03-03-4",
+      "full-b-07-03-03-5",
+      "full-b-07-03-03-6",
+      "full-b-07-03-00-b",
+      "full-b-07-11-00-1",
+      "full-b-07-12-03-1",
+      "full-b-07-12-03-2",
+      "full-b-07-13-00-3",
+      "full-b-07-13-00-10",
+      "full-b-07-14-00-2",
+      "full-b-07-14-00-4",
+      "full-b-07-16-00-1",
+      "full-b-07-16-00-2",
+      "full-b-07-19-01-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-af3f3aa5fecc939e",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "師道",
+    "fields": {
+      "詞義": "從師學習的風尚"
+    },
+    "context": "嗟乎！師道之不傳也久矣！欲人之無惑也難矣！古之聖人，其出人也遠矣，猶且從師而問焉；今之眾人，其下聖人也亦遠矣，而恥學於師；是故聖益聖，愚益愚，聖人之所以為聖，愚人之所以為愚，其皆出於此乎！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[3].blocks[3][1][0]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-03-03-0"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a776e8c1a3610329",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "出",
+    "fields": {
+      "詞義": "超越"
+    },
+    "context": "嗟乎！師道之不傳也久矣！欲人之無惑也難矣！古之聖人，其出人也遠矣，猶且從師而問焉；今之眾人，其下聖人也亦遠矣，而恥學於師；是故聖益聖，愚益愚，聖人之所以為聖，愚人之所以為愚，其皆出於此乎！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[3].blocks[3][1][1]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-03-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9c4378c87525e1e9",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "下",
+    "fields": {
+      "詞義": "不及"
+    },
+    "context": "嗟乎！師道之不傳也久矣！欲人之無惑也難矣！古之聖人，其出人也遠矣，猶且從師而問焉；今之眾人，其下聖人也亦遠矣，而恥學於師；是故聖益聖，愚益愚，聖人之所以為聖，愚人之所以為愚，其皆出於此乎！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[3].blocks[3][1][2]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-03-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4cba9656a6678033",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "恥",
+    "fields": {
+      "詞義": "以……為恥"
+    },
+    "context": "嗟乎！師道之不傳也久矣！欲人之無惑也難矣！古之聖人，其出人也遠矣，猶且從師而問焉；今之眾人，其下聖人也亦遠矣，而恥學於師；是故聖益聖，愚益愚，聖人之所以為聖，愚人之所以為愚，其皆出於此乎！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[3].blocks[3][1][3]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-03-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d895c8216bbf4f86",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "益",
+    "fields": {
+      "詞義": "更加"
+    },
+    "context": "嗟乎！師道之不傳也久矣！欲人之無惑也難矣！古之聖人，其出人也遠矣，猶且從師而問焉；今之眾人，其下聖人也亦遠矣，而恥學於師；是故聖益聖，愚益愚，聖人之所以為聖，愚人之所以為愚，其皆出於此乎！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[3].blocks[3][1][4]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-03-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c0dcc98259342335",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "所以",
+    "fields": {
+      "詞義": "……的原因"
+    },
+    "context": "嗟乎！師道之不傳也久矣！欲人之無惑也難矣！古之聖人，其出人也遠矣，猶且從師而問焉；今之眾人，其下聖人也亦遠矣，而恥學於師；是故聖益聖，愚益愚，聖人之所以為聖，愚人之所以為愚，其皆出於此乎！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[3].blocks[3][1][5]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-03-03-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-74504e5b0851d511",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "其",
+    "fields": {
+      "詞義": "大概，表推測"
+    },
+    "context": "嗟乎！師道之不傳也久矣！欲人之無惑也難矣！古之聖人，其出人也遠矣，猶且從師而問焉；今之眾人，其下聖人也亦遠矣，而恥學於師；是故聖益聖，愚益愚，聖人之所以為聖，愚人之所以為愚，其皆出於此乎！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[3].blocks[3][1][6]",
+        "section": "第3段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-03-03-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-55f9b41311f0240c",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "古聖本已勝人仍求師，今眾本不及人卻恥師。先對照態度，再見聖益聖、愚益愚的結果，批評才有依據。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[3].blocks[4]",
+        "section": "第3段｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[151].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[757].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[758].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[759].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[760].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[761].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[762].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[763].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[913].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1040].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1043].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1044].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1049].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1056].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1068].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1069].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1091].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e07-exp-008",
+      "full-b-07-03-03-0",
+      "full-b-07-03-03-1",
+      "full-b-07-03-03-2",
+      "full-b-07-03-03-3",
+      "full-b-07-03-03-4",
+      "full-b-07-03-03-5",
+      "full-b-07-03-03-6",
+      "full-b-07-03-00-b",
+      "full-b-07-11-00-1",
+      "full-b-07-12-03-1",
+      "full-b-07-12-03-2",
+      "full-b-07-13-00-3",
+      "full-b-07-13-00-10",
+      "full-b-07-16-00-1",
+      "full-b-07-16-00-2",
+      "full-b-07-19-01-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c3b805f9ce47f13d",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "句段核心：第4段｜原文與語譯",
+    "fields": {
+      "重點": "成人為子擇師，自己卻恥師，是輕重倒置。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[4].core",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9a5eac99855262de",
+    "chapterId": "essay-07",
+    "category": "text",
+    "title": "第4段｜原文與語譯",
+    "fields": {
+      "原文": "愛其子，擇師而教之，於其身也則恥師焉，惑矣！彼童子之師，授之書而習其句讀者，非吾所謂傳其道、解其惑者也。句讀之不知，惑之不解，或師焉，或不焉，小學而大遺，吾未見其明也。"
+    },
+    "context": "愛其子，擇師而教之，於其身也則恥師焉，惑矣！彼童子之師，授之書而習其句讀者，非吾所謂傳其道、解其惑者也。句讀之不知，惑之不解，或師焉，或不焉，小學而大遺，吾未見其明也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[4].blocks[0]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e07-exp-003",
+      "full-b-07-04-03-0",
+      "full-b-07-04-03-1",
+      "full-b-07-04-03-2",
+      "full-b-07-04-03-3",
+      "full-b-07-04-03-5",
+      "full-b-07-04-00-b",
+      "full-b-07-10-00-1",
+      "full-b-07-11-00-2",
+      "full-b-07-14-00-1",
+      "full-b-07-14-00-2",
+      "full-b-07-16-00-5",
+      "full-b-07-16-00-7",
+      "full-b-07-16-00-10",
+      "full-b-07-16-00-11",
+      "full-b-07-16-00-12",
+      "full-b-07-16-00-13",
+      "full-b-07-19-01-3",
+      "full-b-07-19-03-2",
+      "full-b-07-19-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c15fecbea2e01889",
+    "chapterId": "essay-07",
+    "category": "text",
+    "title": "第4段｜原文與語譯",
+    "fields": {
+      "語譯": "愛惜自己的孩子，選擇老師來教他們；對於自己本身卻以跟從老師學習為恥辱，真是糊塗啊！那些孩子的老師，是向孩子講授經書從而讓孩子學習書中文句語法的人，不是我所說的傳授儒家道統、解答疑惑的人。（孩子）不知道句讀標點，（成人）不能解決疑惑，前者跟從老師學習，後者卻不學，小事從師學習而大事遺棄不學，我不認為這種人是明白事理的。"
+    },
+    "context": "愛其子，擇師而教之，於其身也則恥師焉，惑矣！彼童子之師，授之書而習其句讀者，非吾所謂傳其道、解其惑者也。句讀之不知，惑之不解，或師焉，或不焉，小學而大遺，吾未見其明也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[4].blocks[2]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e07-exp-003",
+      "full-b-07-04-03-0",
+      "full-b-07-04-03-1",
+      "full-b-07-04-03-2",
+      "full-b-07-04-03-3",
+      "full-b-07-04-03-5",
+      "full-b-07-04-00-b",
+      "full-b-07-10-00-1",
+      "full-b-07-11-00-2",
+      "full-b-07-14-00-1",
+      "full-b-07-14-00-2",
+      "full-b-07-16-00-5",
+      "full-b-07-16-00-7",
+      "full-b-07-16-00-10",
+      "full-b-07-16-00-11",
+      "full-b-07-16-00-12",
+      "full-b-07-16-00-13",
+      "full-b-07-19-01-3",
+      "full-b-07-19-03-2",
+      "full-b-07-19-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b32df496befed9af",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "恥",
+    "fields": {
+      "詞義": "以……為恥"
+    },
+    "context": "愛其子，擇師而教之，於其身也則恥師焉，惑矣！彼童子之師，授之書而習其句讀者，非吾所謂傳其道、解其惑者也。句讀之不知，惑之不解，或師焉，或不焉，小學而大遺，吾未見其明也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[4].blocks[3][1][0]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-04-03-0"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a3389d4d741b3c19",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "惑",
+    "fields": {
+      "詞義": "糊塗、不明智"
+    },
+    "context": "愛其子，擇師而教之，於其身也則恥師焉，惑矣！彼童子之師，授之書而習其句讀者，非吾所謂傳其道、解其惑者也。句讀之不知，惑之不解，或師焉，或不焉，小學而大遺，吾未見其明也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[4].blocks[3][1][1]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-04-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-79fb7d1f24df30a3",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "句讀",
+    "fields": {
+      "詞義": "文句的停頓"
+    },
+    "context": "愛其子，擇師而教之，於其身也則恥師焉，惑矣！彼童子之師，授之書而習其句讀者，非吾所謂傳其道、解其惑者也。句讀之不知，惑之不解，或師焉，或不焉，小學而大遺，吾未見其明也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[4].blocks[3][1][2]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-04-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1cde5f2b84a6dc3f",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "或",
+    "fields": {
+      "詞義": "有的方面"
+    },
+    "context": "愛其子，擇師而教之，於其身也則恥師焉，惑矣！彼童子之師，授之書而習其句讀者，非吾所謂傳其道、解其惑者也。句讀之不知，惑之不解，或師焉，或不焉，小學而大遺，吾未見其明也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[4].blocks[3][1][3]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-04-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c63c79cf8e4c773c",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "小學",
+    "fields": {
+      "詞義": "小的方面學習"
+    },
+    "context": "愛其子，擇師而教之，於其身也則恥師焉，惑矣！彼童子之師，授之書而習其句讀者，非吾所謂傳其道、解其惑者也。句讀之不知，惑之不解，或師焉，或不焉，小學而大遺，吾未見其明也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[4].blocks[3][1][4]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-711b46b7b43e5e2d",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "大遺",
+    "fields": {
+      "詞義": "大的方面放棄"
+    },
+    "context": "愛其子，擇師而教之，於其身也則恥師焉，惑矣！彼童子之師，授之書而習其句讀者，非吾所謂傳其道、解其惑者也。句讀之不知，惑之不解，或師焉，或不焉，小學而大遺，吾未見其明也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[4].blocks[3][1][5]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-04-03-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-41b405127f70bf06",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "小學指學句讀，大遺指放棄求道解惑。「惑矣」是在批評這種取捨不明智，不是單說心中有疑問。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[4].blocks[4]",
+        "section": "第4段｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[146].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[764].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[765].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[766].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[767].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[768].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[914].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1041].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1057].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1071].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1072].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1074].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1075].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1076].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1077].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1092].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1095].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1096].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e07-exp-003",
+      "full-b-07-04-03-0",
+      "full-b-07-04-03-1",
+      "full-b-07-04-03-2",
+      "full-b-07-04-03-3",
+      "full-b-07-04-03-5",
+      "full-b-07-04-00-b",
+      "full-b-07-11-00-2",
+      "full-b-07-14-00-1",
+      "full-b-07-16-00-5",
+      "full-b-07-16-00-7",
+      "full-b-07-16-00-10",
+      "full-b-07-16-00-11",
+      "full-b-07-16-00-12",
+      "full-b-07-16-00-13",
+      "full-b-07-19-01-3",
+      "full-b-07-19-03-2",
+      "full-b-07-19-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1c33cde777ab8815",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "句段核心：第5段｜原文與語譯",
+    "fields": {
+      "重點": "士大夫以身分推拒求師，智慧反不及百工。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[5].core",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0dc0726a1810362d",
+    "chapterId": "essay-07",
+    "category": "text",
+    "title": "第5段｜原文與語譯",
+    "fields": {
+      "原文": "巫、醫、樂師、百工之人，不恥相師；士大夫之族，曰師、曰弟子云者，則羣聚而笑之。問之，則曰︰「彼與彼年相若也，道相似也。」位卑則足羞，官盛則近諛。嗚呼！師道之不復，可知矣。巫、醫、樂師、百工之人，君子不齒，今其智乃反不能及，其可怪也歟！"
+    },
+    "context": "巫、醫、樂師、百工之人，不恥相師；士大夫之族，曰師、曰弟子云者，則羣聚而笑之。問之，則曰︰「彼與彼年相若也，道相似也。」位卑則足羞，官盛則近諛。嗚呼！師道之不復，可知矣。巫、醫、樂師、百工之人，君子不齒，今其智乃反不能及，其可怪也歟！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[5].blocks[0]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-05-03-0",
+      "full-b-07-05-03-1",
+      "full-b-07-05-03-2",
+      "full-b-07-05-03-3",
+      "full-b-07-05-03-4",
+      "full-b-07-05-03-5",
+      "full-b-07-05-03-6",
+      "full-b-07-05-00-b",
+      "full-b-07-10-00-2",
+      "full-b-07-11-00-3",
+      "full-b-07-12-03-3",
+      "full-b-07-12-03-4",
+      "full-b-07-13-00-4",
+      "full-b-07-14-00-2",
+      "full-b-07-14-00-3",
+      "full-b-07-14-00-4",
+      "full-b-07-17-00-2",
+      "full-b-07-17-00-4",
+      "full-b-07-17-00-5",
+      "full-b-07-19-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9cb92979562828da",
+    "chapterId": "essay-07",
+    "category": "text",
+    "title": "第5段｜原文與語譯",
+    "fields": {
+      "語譯": "神巫、醫生、樂師、各種工匠，他們不以互相拜師學習為可恥；做官讀書的名門望族，每聽到有人說「老師」、說「弟子」等等，就聚在一起譏笑別人。問他們笑甚麼，他們便回答說：「他跟他年紀差不多，道德學問也差不多啊。拜地位低的人為師就感到羞恥，拜官職高的人為師就近乎諂媚。」唉！從師學習的正確態度不能恢復，由此可以知道了。神巫、醫生、樂師、各種工匠，君子都不屑與他們等列，現在君子的智慧竟反而及不上他們，這可真是奇怪啊！"
+    },
+    "context": "巫、醫、樂師、百工之人，不恥相師；士大夫之族，曰師、曰弟子云者，則羣聚而笑之。問之，則曰︰「彼與彼年相若也，道相似也。」位卑則足羞，官盛則近諛。嗚呼！師道之不復，可知矣。巫、醫、樂師、百工之人，君子不齒，今其智乃反不能及，其可怪也歟！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[5].blocks[2]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-05-03-0",
+      "full-b-07-05-03-1",
+      "full-b-07-05-03-2",
+      "full-b-07-05-03-3",
+      "full-b-07-05-03-4",
+      "full-b-07-05-03-5",
+      "full-b-07-05-03-6",
+      "full-b-07-05-00-b",
+      "full-b-07-10-00-2",
+      "full-b-07-11-00-3",
+      "full-b-07-12-03-3",
+      "full-b-07-12-03-4",
+      "full-b-07-13-00-4",
+      "full-b-07-14-00-2",
+      "full-b-07-14-00-3",
+      "full-b-07-14-00-4",
+      "full-b-07-17-00-2",
+      "full-b-07-17-00-4",
+      "full-b-07-17-00-5",
+      "full-b-07-19-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8540e87f49d38c4f",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "恥",
+    "fields": {
+      "詞義": "以……為恥"
+    },
+    "context": "巫、醫、樂師、百工之人，不恥相師；士大夫之族，曰師、曰弟子云者，則羣聚而笑之。問之，則曰︰「彼與彼年相若也，道相似也。」位卑則足羞，官盛則近諛。嗚呼！師道之不復，可知矣。巫、醫、樂師、百工之人，君子不齒，今其智乃反不能及，其可怪也歟！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[5].blocks[3][1][0]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-05-03-0"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0433713f10e2f099",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "族",
+    "fields": {
+      "詞義": "類"
+    },
+    "context": "巫、醫、樂師、百工之人，不恥相師；士大夫之族，曰師、曰弟子云者，則羣聚而笑之。問之，則曰︰「彼與彼年相若也，道相似也。」位卑則足羞，官盛則近諛。嗚呼！師道之不復，可知矣。巫、醫、樂師、百工之人，君子不齒，今其智乃反不能及，其可怪也歟！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[5].blocks[3][1][1]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-05-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f11f6c0eda28ce12",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "相若",
+    "fields": {
+      "詞義": "相近"
+    },
+    "context": "巫、醫、樂師、百工之人，不恥相師；士大夫之族，曰師、曰弟子云者，則羣聚而笑之。問之，則曰︰「彼與彼年相若也，道相似也。」位卑則足羞，官盛則近諛。嗚呼！師道之不復，可知矣。巫、醫、樂師、百工之人，君子不齒，今其智乃反不能及，其可怪也歟！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[5].blocks[3][1][2]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-05-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-827ae78e089ebf15",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "諛",
+    "fields": {
+      "詞義": "諂媚"
+    },
+    "context": "巫、醫、樂師、百工之人，不恥相師；士大夫之族，曰師、曰弟子云者，則羣聚而笑之。問之，則曰︰「彼與彼年相若也，道相似也。」位卑則足羞，官盛則近諛。嗚呼！師道之不復，可知矣。巫、醫、樂師、百工之人，君子不齒，今其智乃反不能及，其可怪也歟！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[5].blocks[3][1][3]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-05-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a2d020a1251c630a",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "師道",
+    "fields": {
+      "詞義": "從師學習的風尚"
+    },
+    "context": "巫、醫、樂師、百工之人，不恥相師；士大夫之族，曰師、曰弟子云者，則羣聚而笑之。問之，則曰︰「彼與彼年相若也，道相似也。」位卑則足羞，官盛則近諛。嗚呼！師道之不復，可知矣。巫、醫、樂師、百工之人，君子不齒，今其智乃反不能及，其可怪也歟！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[5].blocks[3][1][4]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-05-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a1eb595d29dc80bd",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "不齒",
+    "fields": {
+      "詞義": "不屑並列"
+    },
+    "context": "巫、醫、樂師、百工之人，不恥相師；士大夫之族，曰師、曰弟子云者，則羣聚而笑之。問之，則曰︰「彼與彼年相若也，道相似也。」位卑則足羞，官盛則近諛。嗚呼！師道之不復，可知矣。巫、醫、樂師、百工之人，君子不齒，今其智乃反不能及，其可怪也歟！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[5].blocks[3][1][5]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-05-03-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0ac9ef8f58102231",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "乃",
+    "fields": {
+      "詞義": "竟然"
+    },
+    "context": "巫、醫、樂師、百工之人，不恥相師；士大夫之族，曰師、曰弟子云者，則羣聚而笑之。問之，則曰︰「彼與彼年相若也，道相似也。」位卑則足羞，官盛則近諛。嗚呼！師道之不復，可知矣。巫、醫、樂師、百工之人，君子不齒，今其智乃反不能及，其可怪也歟！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[5].blocks[3][1][6]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-05-03-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2e30e389dd6a7a8c",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "位卑便嫌可羞，官高又嫌近諛，無論高低都找藉口。百工不恥相師的態度，反過來顯出士大夫的局限。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[5].blocks[4]",
+        "section": "第5段｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[769].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[770].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[771].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[772].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[773].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[774].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[775].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[915].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1042].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1045].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1046].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1050].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1059].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1078].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1079].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1080].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1097].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-05-03-0",
+      "full-b-07-05-03-1",
+      "full-b-07-05-03-2",
+      "full-b-07-05-03-3",
+      "full-b-07-05-03-4",
+      "full-b-07-05-03-5",
+      "full-b-07-05-03-6",
+      "full-b-07-05-00-b",
+      "full-b-07-11-00-3",
+      "full-b-07-12-03-3",
+      "full-b-07-12-03-4",
+      "full-b-07-13-00-4",
+      "full-b-07-14-00-3",
+      "full-b-07-17-00-2",
+      "full-b-07-17-00-4",
+      "full-b-07-17-00-5",
+      "full-b-07-19-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d1a8984413dc80d5",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "句段核心：第6段｜原文與語譯",
+    "fields": {
+      "重點": "各有所長，所以聖人無固定的老師。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[6].core",
+        "section": "第6段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d78604b2a7f858e3",
+    "chapterId": "essay-07",
+    "category": "text",
+    "title": "第6段｜原文與語譯",
+    "fields": {
+      "原文": "聖人無常師，孔子師郯子、萇弘、師襄、老聃。郯子之徒，其賢不及孔子。孔子曰︰「三人行，則必有我師。」是故弟子不必不如師，師不必賢於弟子；聞道有先後，術業有專攻，如是而已。"
+    },
+    "context": "聖人無常師，孔子師郯子、萇弘、師襄、老聃。郯子之徒，其賢不及孔子。孔子曰︰「三人行，則必有我師。」是故弟子不必不如師，師不必賢於弟子；聞道有先後，術業有專攻，如是而已。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[6].blocks[0]",
+        "section": "第6段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e07-exp-004",
+      "q-e07-exp-006",
+      "full-b-07-06-03-0",
+      "full-b-07-06-03-1",
+      "full-b-07-06-03-3",
+      "full-b-07-06-00-b",
+      "full-b-07-10-00-3",
+      "full-b-07-10-00-4",
+      "full-b-07-13-00-7",
+      "full-b-07-13-00-8",
+      "full-b-07-13-00-9",
+      "full-b-07-17-00-7",
+      "full-b-07-17-00-8",
+      "full-b-07-17-00-9",
+      "dse-2024-1a-3-i",
+      "dse-2024-1a-3-ii"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c12dd7cabd9e8caa",
+    "chapterId": "essay-07",
+    "category": "text",
+    "title": "第6段｜原文與語譯",
+    "fields": {
+      "語譯": "聖人沒有固定的老師，孔子曾拜郯子、萇弘、師襄、老聃為師。郯子這些人，他們的賢能及不上孔子。孔子說：「三個人走在一起，其中必定有可以當我老師的人。」因此學生不一定比不上老師，老師不必事事都比學生賢能；領會道理的時間有先有後，本領學問各有各的專長，就是這樣罷了。"
+    },
+    "context": "聖人無常師，孔子師郯子、萇弘、師襄、老聃。郯子之徒，其賢不及孔子。孔子曰︰「三人行，則必有我師。」是故弟子不必不如師，師不必賢於弟子；聞道有先後，術業有專攻，如是而已。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[6].blocks[2]",
+        "section": "第6段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e07-exp-004",
+      "q-e07-exp-006",
+      "full-b-07-06-03-0",
+      "full-b-07-06-03-1",
+      "full-b-07-06-03-3",
+      "full-b-07-06-00-b",
+      "full-b-07-10-00-3",
+      "full-b-07-10-00-4",
+      "full-b-07-13-00-7",
+      "full-b-07-13-00-8",
+      "full-b-07-13-00-9",
+      "full-b-07-17-00-7",
+      "full-b-07-17-00-8",
+      "full-b-07-17-00-9",
+      "dse-2024-1a-3-i",
+      "dse-2024-1a-3-ii"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-95a65fd879d1abe4",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "常師",
+    "fields": {
+      "詞義": "固定的老師"
+    },
+    "context": "聖人無常師，孔子師郯子、萇弘、師襄、老聃。郯子之徒，其賢不及孔子。孔子曰︰「三人行，則必有我師。」是故弟子不必不如師，師不必賢於弟子；聞道有先後，術業有專攻，如是而已。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[6].blocks[3][1][0]",
+        "section": "第6段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-06-03-0"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7616f7b91264c6dc",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "徒",
+    "fields": {
+      "詞義": "這些人"
+    },
+    "context": "聖人無常師，孔子師郯子、萇弘、師襄、老聃。郯子之徒，其賢不及孔子。孔子曰︰「三人行，則必有我師。」是故弟子不必不如師，師不必賢於弟子；聞道有先後，術業有專攻，如是而已。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[6].blocks[3][1][1]",
+        "section": "第6段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-06-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e8da75c807ab6f31",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "不必",
+    "fields": {
+      "詞義": "不一定"
+    },
+    "context": "聖人無常師，孔子師郯子、萇弘、師襄、老聃。郯子之徒，其賢不及孔子。孔子曰︰「三人行，則必有我師。」是故弟子不必不如師，師不必賢於弟子；聞道有先後，術業有專攻，如是而已。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[6].blocks[3][1][2]",
+        "section": "第6段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-800203ff94ddc031",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "專攻",
+    "fields": {
+      "詞義": "專門研究"
+    },
+    "context": "聖人無常師，孔子師郯子、萇弘、師襄、老聃。郯子之徒，其賢不及孔子。孔子曰︰「三人行，則必有我師。」是故弟子不必不如師，師不必賢於弟子；聞道有先後，術業有專攻，如是而已。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[6].blocks[3][1][3]",
+        "section": "第6段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-06-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c2bdde9228d9754c",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "四人的整體賢能不及孔子，仍有專長可學。「不必」是不一定，不是必定不如；整體高下與局部專長不能混為一談。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[6].blocks[4]",
+        "section": "第6段｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[147].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[149].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[776].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[777].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[778].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[916].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1053].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1054].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1055].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1081].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1082].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1083].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2153].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2154].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e07-exp-004",
+      "q-e07-exp-006",
+      "full-b-07-06-03-0",
+      "full-b-07-06-03-1",
+      "full-b-07-06-03-3",
+      "full-b-07-06-00-b",
+      "full-b-07-13-00-7",
+      "full-b-07-13-00-8",
+      "full-b-07-13-00-9",
+      "full-b-07-17-00-7",
+      "full-b-07-17-00-8",
+      "full-b-07-17-00-9",
+      "dse-2024-1a-3-i",
+      "dse-2024-1a-3-ii"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-107f07c88d78343c",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "句段核心：第7段｜原文與語譯",
+    "fields": {
+      "重點": "讚許李蟠不受時俗拘束，重申從師之道。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[7].core",
+        "section": "第7段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e7065671cced8306",
+    "chapterId": "essay-07",
+    "category": "text",
+    "title": "第7段｜原文與語譯",
+    "fields": {
+      "原文": "李氏子蟠，年十七，好古文，六藝經傳，皆通習之；不拘於時，學於余。余嘉其能行古道，作《師說》以貽之。"
+    },
+    "context": "李氏子蟠，年十七，好古文，六藝經傳，皆通習之；不拘於時，學於余。余嘉其能行古道，作《師說》以貽之。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[7].blocks[0]",
+        "section": "第7段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e07-exp-005",
+      "full-b-07-07-03-0",
+      "full-b-07-07-03-1",
+      "full-b-07-07-03-2",
+      "full-b-07-07-03-3",
+      "full-b-07-07-03-4",
+      "full-b-07-07-00-b",
+      "full-b-07-16-00-8",
+      "full-b-07-17-00-10",
+      "full-b-07-17-00-11",
+      "full-b-07-17-00-12",
+      "full-b-07-18-00-2",
+      "full-b-07-18-00-3",
+      "full-b-07-19-01-4",
+      "full-b-07-19-03-5",
+      "full-b-07-19-03-6",
+      "full-c-01-23-02-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2b6fbd44be3a8c09",
+    "chapterId": "essay-07",
+    "category": "text",
+    "title": "第7段｜原文與語譯",
+    "fields": {
+      "語譯": "李家孩子名叫蟠的，十七歲，喜歡古文，六藝的經文和注疏，全都學習過了，他不拘泥時俗，向我學習。我讚許他能夠遵行古人從師的道理，寫了這篇《師說》送給他。"
+    },
+    "context": "李氏子蟠，年十七，好古文，六藝經傳，皆通習之；不拘於時，學於余。余嘉其能行古道，作《師說》以貽之。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[7].blocks[2]",
+        "section": "第7段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e07-exp-005",
+      "full-b-07-07-03-0",
+      "full-b-07-07-03-1",
+      "full-b-07-07-03-2",
+      "full-b-07-07-03-3",
+      "full-b-07-07-03-4",
+      "full-b-07-07-00-b",
+      "full-b-07-16-00-8",
+      "full-b-07-17-00-10",
+      "full-b-07-17-00-11",
+      "full-b-07-17-00-12",
+      "full-b-07-18-00-2",
+      "full-b-07-18-00-3",
+      "full-b-07-19-01-4",
+      "full-b-07-19-03-5",
+      "full-b-07-19-03-6",
+      "full-c-01-23-02-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f84ccd9baaf6c9f4",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "經傳",
+    "fields": {
+      "詞義": "經文與注疏"
+    },
+    "context": "李氏子蟠，年十七，好古文，六藝經傳，皆通習之；不拘於時，學於余。余嘉其能行古道，作《師說》以貽之。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[7].blocks[3][1][0]",
+        "section": "第7段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-07-03-0"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-45b92cd0a704b397",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "通習",
+    "fields": {
+      "詞義": "全都學習"
+    },
+    "context": "李氏子蟠，年十七，好古文，六藝經傳，皆通習之；不拘於時，學於余。余嘉其能行古道，作《師說》以貽之。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[7].blocks[3][1][1]",
+        "section": "第7段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-07-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f7a137f4f06e2118",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "拘",
+    "fields": {
+      "詞義": "拘束"
+    },
+    "context": "李氏子蟠，年十七，好古文，六藝經傳，皆通習之；不拘於時，學於余。余嘉其能行古道，作《師說》以貽之。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[7].blocks[3][1][2]",
+        "section": "第7段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-07-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-edfdcadc14797ac5",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "時",
+    "fields": {
+      "詞義": "時俗"
+    },
+    "context": "李氏子蟠，年十七，好古文，六藝經傳，皆通習之；不拘於時，學於余。余嘉其能行古道，作《師說》以貽之。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[7].blocks[3][1][3]",
+        "section": "第7段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-07-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2d3fa78e7b309f41",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "嘉",
+    "fields": {
+      "詞義": "讚許"
+    },
+    "context": "李氏子蟠，年十七，好古文，六藝經傳，皆通習之；不拘於時，學於余。余嘉其能行古道，作《師說》以貽之。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[7].blocks[3][1][4]",
+        "section": "第7段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-07-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-acf6bf433a0677d5",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "貽",
+    "fields": {
+      "詞義": "贈送"
+    },
+    "context": "李氏子蟠，年十七，好古文，六藝經傳，皆通習之；不拘於時，學於余。余嘉其能行古道，作《師說》以貽之。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[7].blocks[3][1][5]",
+        "section": "第7段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d78204bfcf7681bd",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "「皆通習之」先說六藝經傳全都學過，不能直接換成所有學問完全精通。「貽之」的之指李蟠。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[7].blocks[4]",
+        "section": "第7段｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[148].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[779].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[780].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[781].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[782].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[783].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[917].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1073].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1084].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1085].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1086].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1087].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1088].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1093].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1098].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1099].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e07-exp-005",
+      "full-b-07-07-03-0",
+      "full-b-07-07-03-1",
+      "full-b-07-07-03-2",
+      "full-b-07-07-03-3",
+      "full-b-07-07-03-4",
+      "full-b-07-07-00-b",
+      "full-b-07-16-00-8",
+      "full-b-07-17-00-10",
+      "full-b-07-17-00-11",
+      "full-b-07-17-00-12",
+      "full-b-07-18-00-2",
+      "full-b-07-18-00-3",
+      "full-b-07-19-01-4",
+      "full-b-07-19-03-5",
+      "full-b-07-19-03-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-434267d70a58bfd3",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "為何必須從師",
+    "fields": {
+      "內容": "全文以「古之學者必有師」立論：人並非生而知之，必有疑惑；有惑卻不從師，疑惑終不能解決，所以從師有其必要。韓愈藉古今、父子學習取捨和社會階層的對照，批評恥於從師、固步自封的風氣，倡導謙虛求學。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[8].blocks[1]",
+        "section": "主旨、老師職責與擇師準則"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-72ee6c0036ac0c35",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "教師三項職責如何相連",
+    "fields": {
+      "內容": "「道」是本文要學習的儒家道理；「業」是經書課業及相關學問；「惑」是學習道、業時遇到的疑難。「受」通「授」，指傳授。三項相連，說明教師不只教人讀通字句，更要幫助學生理解道理。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[8].blocks[3]",
+        "section": "主旨、老師職責與擇師準則"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8f8de6724793673c",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "擇師的標準",
+    "fields": {
+      "內容": "擇師以「道之所存，師之所存也」為準：不分地位貴賤、年齡長幼，只要對方聞道在先或有值得學習的專長，便可從學。出生早晚不是判斷學問先後的可靠標準；生於我後而聞道在先的人也可為師。官位高低亦不能成為拒絕從師的藉口。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[8].blocks[5]",
+        "section": "主旨、老師職責與擇師準則"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-eea566b63a6782ce",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "為何可以互相學習",
+    "fields": {
+      "內容": "「聖人無常師」指沒有固定不變的一位老師，並非不需要老師。「弟子不必不如師，師不必賢於弟子」的「不必」是不一定；老師不必事事勝過學生，因為「聞道有先後，術業有專攻」。整體賢能高下與局部專長有別，可以互相學習；先聞道與有專長也不必機械理解成兩項必須同時具備的門檻。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[8].blocks[7]",
+        "section": "主旨、老師職責與擇師準則"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e1d1f7ca8ecaa50e",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "全文論點與局部論點",
+    "fields": {
+      "內容": "<b>全文與局部論點</b>：全文從師必要；孔子段進一步說明「學習不應只限於以某一人為師」「為師不必限於優勝過自己的人」。孔子博學、不恥下問是事實或論據，不能代替該段所論的道理；「集思廣益」亦不是此段論證重點。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[8].blocks[9]",
+        "section": "主旨、老師職責與擇師準則"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-920cdbbd3f24f5a3",
+    "chapterId": "essay-07",
+    "category": "structure",
+    "title": "1「古之學者必有師」起",
+    "fields": {
+      "內容、論證及結構作用": "開門見山立論，提綱挈領；說明三項師職，由非生知、有惑推到從師必要。",
+      "四個結構段": "第一部分：正面立論、職責和準則。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[9].blocks[0][1][1]",
+        "section": "結構、段旨、推進與前後呼應（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-96b8978f9b45e951",
+    "chapterId": "essay-07",
+    "category": "structure",
+    "title": "2「生乎吾前」起",
+    "fields": {
+      "內容、論證及結構作用": "承接上文，確立不分貴賤長幼、唯道是從的擇師原則。",
+      "四個結構段": "同上。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[9].blocks[0][1][2]",
+        "section": "結構、段旨、推進與前後呼應（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1d711f86524df79a",
+    "chapterId": "essay-07",
+    "category": "structure",
+    "title": "3「嗟乎」起",
+    "fields": {
+      "內容、論證及結構作用": "古聖從師對今眾恥師，結果聖益聖、愚益愚；借古諷今，從反面支持中心。",
+      "四個結構段": "第二部分：三組對比批評師道不傳。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[9].blocks[0][1][3]",
+        "section": "結構、段旨、推進與前後呼應（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2053b78fd7960fb9",
+    "chapterId": "essay-07",
+    "category": "structure",
+    "title": "4「愛其子」起",
+    "fields": {
+      "內容、論證及結構作用": "同一成人為孩子擇師，對自身卻恥師；小學大遺，本末倒置。",
+      "四個結構段": "同上。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[9].blocks[0][1][4]",
+        "section": "結構、段旨、推進與前後呼應（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f0ed6ac8b922609c",
+    "chapterId": "essay-07",
+    "category": "structure",
+    "title": "5「巫、醫、樂師、百工」起",
+    "fields": {
+      "內容、論證及結構作用": "百工不恥相師，士大夫恥師、譏笑他人，又反不及百工明智；階層對比加深批評。",
+      "四個結構段": "同上。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[9].blocks[0][1][5]",
+        "section": "結構、段旨、推進與前後呼應（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1bbcbd95f5938641",
+    "chapterId": "essay-07",
+    "category": "structure",
+    "title": "6「聖人無常師」起",
+    "fields": {
+      "內容、論證及結構作用": "孔子言行作論據，引出師生不必有固定高下，重申聞道先後、術業專攻；收束主要論證，照應首兩段。",
+      "四個結構段": "第三部分：孔子例及擇師原則。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[9].blocks[0][1][6]",
+        "section": "結構、段旨、推進與前後呼應（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-32e4f7a2a436572c",
+    "chapterId": "essay-07",
+    "category": "structure",
+    "title": "7「李氏子蟠」起",
+    "fields": {
+      "內容、論證及結構作用": "交代贈文，嘉許李蟠好學尊師、不流於俗，重申師道，照應開首而收結。",
+      "四個結構段": "第四部分：緣起、勉勵及重申立場。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[9].blocks[0][1][7]",
+        "section": "結構、段旨、推進與前後呼應（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-84d8062b088e49e6",
+    "chapterId": "essay-07",
+    "category": "technique",
+    "title": "結構、段旨、推進與前後呼應",
+    "fields": {
+      "內容": "按論證關係可分四部分：先確立從師必要和擇師原則，再批評恥於從師，以孔子的實例支持從師之道，最後交代為李蟠作文章的原因。孔子一節收束主要論證，李蟠一節讓主張落在當時仍肯從師的具體人物身上。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[9].blocks[1]",
+        "section": "結構、段旨、推進與前後呼應（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2f73a81875b96754",
+    "chapterId": "essay-07",
+    "category": "structure",
+    "title": "「非吾所謂傳其道、解其惑者也」呼應「師者，所以傳道、受業、解惑也」",
+    "fields": {
+      "具體關係": "對童子之師的限定，回應開首對真正師職的界定。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[10].blocks[0][1][1]",
+        "section": "結構、段旨、推進與前後呼應（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-10-00-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ded48fd21b10b634",
+    "chapterId": "essay-07",
+    "category": "structure",
+    "title": "百工與士大夫的恥師差異呼應「無貴無賤」",
+    "fields": {
+      "具體關係": "用社會階層的實際態度說明地位不能作擇師標準。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[10].blocks[0][1][2]",
+        "section": "結構、段旨、推進與前後呼應（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-10-00-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f1ca0c980eea12e2",
+    "chapterId": "essay-07",
+    "category": "structure",
+    "title": "「聖人無常師」呼應「道之所存，師之所存也」",
+    "fields": {
+      "具體關係": "道或專長所在皆有可學者，不能固定只向一師學習。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[10].blocks[0][1][3]",
+        "section": "結構、段旨、推進與前後呼應（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-10-00-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b9761caa76a203f3",
+    "chapterId": "essay-07",
+    "category": "structure",
+    "title": "「聞道有先後」呼應「生乎吾前／後……吾從而師之」",
+    "fields": {
+      "具體關係": "聞道先後與出生先後分開。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[10].blocks[0][1][4]",
+        "section": "結構、段旨、推進與前後呼應（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-10-00-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0eb89fbd2d480ad7",
+    "chapterId": "essay-07",
+    "category": "character",
+    "title": "古之聖人／今之眾人；不同時代",
+    "fields": {
+      "各方表現": "聖人才智超越一般人仍虛心從師；今眾遠不及聖人卻恥於問學。",
+      "結果、批評及推論": "聖益聖、愚益愚；是否從師拉大差距。聖人尚且學，一般人更應學；諷刺今人不及古人謙虛。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[11].blocks[0][1][1]",
+        "section": "三組對比與人物態度"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-11-00-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fc74799543acfa3c",
+    "chapterId": "essay-07",
+    "category": "character",
+    "title": "成人對孩子／對自身；事情輕重",
+    "fields": {
+      "各方表現": "愛子而擇師教句讀；對自身求道解惑卻不從師。",
+      "結果、批評及推論": "小的方面學，大的方面遺棄，本末倒置、言行不一、不明智。責備的是成人的兩種選擇，非孩子學習有錯。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[11].blocks[0][1][2]",
+        "section": "三組對比與人物態度"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-11-00-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c166254168ce5a61",
+    "chapterId": "essay-07",
+    "category": "character",
+    "title": "百工／士大夫；社會階層",
+    "fields": {
+      "各方表現": "巫、醫、樂師、工匠地位較低仍樂於切磋相師；士大夫群聚嘲笑師弟子，藉年齡相若、道相似、位卑可羞、官盛近諛拒絕問學。",
+      "結果、批評及推論": "士大夫不屑與百工並列，智慧卻反不及他們，顯出愚昧、膚淺和固步自封；反襯百工更明智，支持不以地位年齡擇師。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[11].blocks[0][1][3]",
+        "section": "三組對比與人物態度"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-11-00-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-24bf3b9fd4656b56",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "三組對比與人物態度",
+    "fields": {
+      "內容": "三組比較由古今人物，轉入士大夫自身的矛盾，再及他們所輕視的百工。比較範圍愈來愈貼近士大夫的生活，使恥於從師的荒謬逐層顯出，也增強批評的說服力。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[11].blocks[1]",
+        "section": "三組對比與人物態度"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-441e522514f41d37",
+    "chapterId": "essay-07",
+    "category": "character",
+    "title": "孔子、李蟠的論據與語氣情感",
+    "fields": {
+      "內容": "孔子曾向郯子、萇弘、師襄、老聃學習。他們整體的賢能未必及孔子，卻各有所長。這證明擇師應看對方有甚麼值得學習，不必先要求對方在所有方面都勝過自己。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[12].blocks[0]",
+        "section": "孔子、李蟠的論據與語氣情感"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6f23af292994acd4",
+    "chapterId": "essay-07",
+    "category": "character",
+    "title": "孔子、李蟠的論據與語氣情感",
+    "fields": {
+      "內容": "「三人行，則必有我師」說同行者中必有可學之處，重點不在恰好三人的數目。孔子的言語提供道理，從師的行動提供例證，兩者共同支持「師不必賢於弟子」和「術業有專攻」。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[12].blocks[1]",
+        "section": "孔子、李蟠的論據與語氣情感"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6a96483385319f74",
+    "chapterId": "essay-07",
+    "category": "character",
+    "title": "孔子、李蟠的論據與語氣情感",
+    "fields": {
+      "內容": "李蟠是另一正面人物：好古文、通習經傳、不拘時俗、尊師好學，得到韓愈讚許與勉勵。韓愈對恥師風氣則有感慨、憤慨、不滿、諷刺，並以堅定語氣提出主張。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[12].blocks[2]",
+        "section": "孔子、李蟠的論據與語氣情感"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-93164fe14b5ca157",
+    "chapterId": "essay-07",
+    "category": "character",
+    "title": "「嗟乎！師道之不傳也久矣！欲人之無惑也難矣！」",
+    "fields": {
+      "語氣與情感": "感嘆師道久不傳，肯定陳述當前難以解惑的狀況。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[12].blocks[3][1][1]",
+        "section": "孔子、李蟠的論據與語氣情感"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-12-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0ac527242a48cec7",
+    "chapterId": "essay-07",
+    "category": "character",
+    "title": "「其皆出於此乎！」",
+    "fields": {
+      "語氣與情感": "「其」表大概、推斷，推論聖愚差異的原因。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[12].blocks[3][1][2]",
+        "section": "孔子、李蟠的論據與語氣情感"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-12-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-93f8c07b7ac58e68",
+    "chapterId": "essay-07",
+    "category": "character",
+    "title": "「嗚呼！師道之不復，可知矣。」",
+    "fields": {
+      "語氣與情感": "肯定而感嘆師道難以恢復，含不滿。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[12].blocks[3][1][3]",
+        "section": "孔子、李蟠的論據與語氣情感"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-12-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-54b10ec4b382872b",
+    "chapterId": "essay-07",
+    "category": "character",
+    "title": "「今其智乃反不能及，其可怪也歟！」",
+    "fields": {
+      "語氣與情感": "驚詫中帶諷刺，突出士大夫反不如百工的荒謬。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[12].blocks[3][1][4]",
+        "section": "孔子、李蟠的論據與語氣情感"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-12-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-aa56fd56fd860733",
+    "chapterId": "essay-07",
+    "category": "technique",
+    "title": "反問",
+    "fields": {
+      "例句／內容": "「人非生而知之者，孰能無惑？」",
+      "分析、效果與限制": "用問句表示人人必有疑惑的確定意思，加強語氣，突出從師解惑必要。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[13].blocks[0][1][1]",
+        "section": "修辭、論證與語言效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-13-00-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-345b061cc0525d1f",
+    "chapterId": "essay-07",
+    "category": "technique",
+    "title": "反問",
+    "fields": {
+      "例句／內容": "「夫庸知其年之先後生於吾乎？」",
+      "分析、效果與限制": "強調求道不必計較出生早晚，更堅定地否定年齡限制。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[13].blocks[0][1][2]",
+        "section": "修辭、論證與語言效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-13-00-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-aba9c681ef29d77a",
+    "chapterId": "essay-07",
+    "category": "technique",
+    "title": "對偶",
+    "fields": {
+      "例句／內容": "「聖益聖，愚益愚」及「聖人之所以為聖，愚人之所以為愚」",
+      "分析、效果與限制": "成對句式呈現聖愚結果及成因，便於比較，語勢鮮明。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[13].blocks[0][1][3]",
+        "section": "修辭、論證與語言效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-13-00-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c39b8f184fbf0b64",
+    "chapterId": "essay-07",
+    "category": "technique",
+    "title": "對偶",
+    "fields": {
+      "例句／內容": "「位卑則足羞，官盛則近諛」",
+      "分析、效果與限制": "諷刺士大夫無論地位高低皆找藉口拒絕問學；句式勻稱、音節和諧、琅琅上口且有氣勢。後幾項是對對偶的一般效果，仍須扣本例內容。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[13].blocks[0][1][4]",
+        "section": "修辭、論證與語言效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-13-00-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9efc4e4000b57956",
+    "chapterId": "essay-07",
+    "category": "technique",
+    "title": "頂真",
+    "fields": {
+      "例句／內容": "「古之學者必有師。師者……」",
+      "分析、效果與限制": "上句末「師」接下句首「師」，文氣連貫，從必有師自然轉入師職。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[13].blocks[0][1][5]",
+        "section": "修辭、論證與語言效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-13-00-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3a0c79770dd1b949",
+    "chapterId": "essay-07",
+    "category": "technique",
+    "title": "頂真",
+    "fields": {
+      "例句／內容": "「……孰能無惑？惑而不從師……」",
+      "分析、效果與限制": "「惑」首尾相接，語勢緊湊，突出有惑須從師。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[13].blocks[0][1][6]",
+        "section": "修辭、論證與語言效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-13-00-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a96faabaf552ea0e",
+    "chapterId": "essay-07",
+    "category": "technique",
+    "title": "頂真",
+    "fields": {
+      "例句／內容": "「弟子不必不如師，師不必賢於弟子」",
+      "分析、效果與限制": "「師」承接，語句流暢而緊密，推進師生高下的論述。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[13].blocks[0][1][7]",
+        "section": "修辭、論證與語言效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-13-00-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-15036940451ed676",
+    "chapterId": "essay-07",
+    "category": "technique",
+    "title": "明引／引用論證",
+    "fields": {
+      "例句／內容": "孔子曰：「三人行，則必有我師。」",
+      "分析、效果與限制": "引用名言支持人人有所長、可互相學習；權威性增強說服力。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[13].blocks[0][1][8]",
+        "section": "修辭、論證與語言效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-13-00-8"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-90fd81cc7b4a6201",
+    "chapterId": "essay-07",
+    "category": "technique",
+    "title": "舉例／事例論證",
+    "fields": {
+      "例句／內容": "孔子師郯子等四人；孔子言行合觀",
+      "分析、效果與限制": "用具代表性人物事跡支持從師必要與擇師準則；史例、語例及直接引用有不同分析範圍。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[13].blocks[0][1][9]",
+        "section": "修辭、論證與語言效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-13-00-9"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-40b59e16f5c94c40",
+    "chapterId": "essay-07",
+    "category": "technique",
+    "title": "借古諷今",
+    "fields": {
+      "例句／內容": "古聖從師與今眾恥師",
+      "分析、效果與限制": "藉古人的謙虛諷刺當時士大夫固步自封；與對比論證相連。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[13].blocks[0][1][10]",
+        "section": "修辭、論證與語言效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-13-00-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-112dde9c360cd27a",
+    "chapterId": "essay-07",
+    "category": "technique",
+    "title": "借代",
+    "fields": {
+      "例句／內容": "「授之書而習其句讀者」",
+      "分析、效果與限制": "以本指文句停頓的「句讀」借代基本文句知識；字面詞解與手法分析各有層次。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[14].blocks[0][1][1]",
+        "section": "修辭、論證與語言效果（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-14-00-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4821a8729f0a5542",
+    "chapterId": "essay-07",
+    "category": "technique",
+    "title": "層遞兼襯托",
+    "fields": {
+      "例句／內容": "古聖人→自身→巫醫樂師百工",
+      "分析、效果與限制": "由高至低、多層比較，突出士大夫不及百工的荒謬；與三組對比同參。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[14].blocks[0][1][2]",
+        "section": "修辭、論證與語言效果（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-14-00-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e44dac90c678d874",
+    "chapterId": "essay-07",
+    "category": "technique",
+    "title": "示現",
+    "fields": {
+      "例句／內容": "士大夫「羣聚而笑之」，問之則說「彼與彼年相若也，道相似也」",
+      "分析、效果與限制": "以想像和形象化描寫，使不在眼前的場面如見如聞；具體呈现士大夫言行，增加臨場感與感染力。不是額外證明韓愈逐字記錄了某一次真實對話。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[14].blocks[0][1][3]",
+        "section": "修辭、論證與語言效果（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-14-00-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-dce9805344c7e518",
+    "chapterId": "essay-07",
+    "category": "technique",
+    "title": "感嘆",
+    "fields": {
+      "例句／內容": "嗟乎、嗚呼，以及乎、歟、矣所連語句",
+      "分析、效果與限制": "肯定、推斷、驚詫的細分見上表；突出感慨、憤慨、不滿，增強感染力。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[14].blocks[0][1][4]",
+        "section": "修辭、論證與語言效果（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-14-00-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a46465bd18650219",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "學者",
+    "fields": {
+      "原句定位": "古之學者必有師",
+      "意思與必要辨析": "求學的人。 非專指現代的學術研究者。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[15].blocks[0][1][1]",
+        "section": "字詞訓詁、古今差異與語法指代（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-15-00-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8aa50235f37da697",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "師",
+    "fields": {
+      "原句定位": "古之學者必有師",
+      "意思與必要辨析": "老師，名詞。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[15].blocks[0][1][2]",
+        "section": "字詞訓詁、古今差異與語法指代（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-15-00-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0a015c7385440da2",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "師之",
+    "fields": {
+      "原句定位": "吾從而師之",
+      "意思與必要辨析": "以他為師，動詞。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[15].blocks[0][1][3]",
+        "section": "字詞訓詁、古今差異與語法指代（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-15-00-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1b946743f82c6e70",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "師",
+    "fields": {
+      "原句定位": "吾師道也",
+      "意思與必要辨析": "學習，動詞。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[15].blocks[0][1][4]",
+        "section": "字詞訓詁、古今差異與語法指代（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6a67a3511dec2065",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "所以",
+    "fields": {
+      "原句定位": "所以傳道、受業、解惑也",
+      "意思與必要辨析": "用來……的。 「師者，所以……也」說明老師職責；不可直接套現代因果連詞。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[15].blocks[0][1][5]",
+        "section": "字詞訓詁、古今差異與語法指代（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-db801b39ee475ca5",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "受",
+    "fields": {
+      "原句定位": "所以傳道、受業、解惑也",
+      "意思與必要辨析": "通「授」，傳授。 原文寫「受」，通「授」，意思是傳授。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[15].blocks[0][1][6]",
+        "section": "字詞訓詁、古今差異與語法指代（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-15-00-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c1f05ac57765f993",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "孰",
+    "fields": {
+      "原句定位": "孰能無惑",
+      "意思與必要辨析": "誰。 「孰能無惑」用反問肯定人人有惑。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[15].blocks[0][1][7]",
+        "section": "字詞訓詁、古今差異與語法指代（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-abf7d21d234f760d",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "惑",
+    "fields": {
+      "原句定位": "孰能無惑",
+      "意思與必要辨析": "疑惑、疑難。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[15].blocks[0][1][8]",
+        "section": "字詞訓詁、古今差異與語法指代（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b0b8451d507774f4",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "惑",
+    "fields": {
+      "原句定位": "惑矣",
+      "意思與必要辨析": "糊塗、不明智，批評輕重倒置。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[15].blocks[0][1][9]",
+        "section": "字詞訓詁、古今差異與語法指代（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c5b36958c05f2ae9",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "聞道",
+    "fields": {
+      "原句定位": "其聞道也",
+      "意思與必要辨析": "領會、懂得道理。 有「學識、學問」、有「知識」的展開，須連儒道範圍。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[15].blocks[0][1][10]",
+        "section": "字詞訓詁、古今差異與語法指代（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-15-00-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-af7834b180d2551e",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "固",
+    "fields": {
+      "原句定位": "固先乎吾",
+      "意思與必要辨析": "本來；兼列「當然」。 語氣依句意；不是堅固。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[15].blocks[0][1][11]",
+        "section": "字詞訓詁、古今差異與語法指代（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7422c94f3db8041b",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "庸",
+    "fields": {
+      "原句定位": "夫庸知其年之先後生於吾乎",
+      "意思與必要辨析": "何必、哪用；反問何必計較年齡。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[15].blocks[0][1][12]",
+        "section": "字詞訓詁、古今差異與語法指代（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e87b719099fb0972",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "是故",
+    "fields": {
+      "原句定位": "是故無貴無賤",
+      "意思與必要辨析": "因此。 連結推論。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[15].blocks[0][1][13]",
+        "section": "字詞訓詁、古今差異與語法指代（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-15-00-13"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-14756f1d18449de4",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "無貴無賤，無長無少",
+    "fields": {
+      "原句定位": "無貴無賤，無長無少",
+      "意思與必要辨析": "不論地位高低，不分年紀大小。 「無」表無論、不分；不是世上沒有貴賤長幼。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[15].blocks[0][1][14]",
+        "section": "字詞訓詁、古今差異與語法指代（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-15-00-14"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e1db72b1061d2492",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "師道",
+    "fields": {
+      "原句定位": "師道之不傳也久矣",
+      "意思與必要辨析": "從師學習的道理、正確態度、傳統或風尚。 本篇批評師道不傳，不只一般職業道德。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[15].blocks[0][1][15]",
+        "section": "字詞訓詁、古今差異與語法指代（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b64cf61c984edba3",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "出人",
+    "fields": {
+      "原句定位": "其出人也遠矣",
+      "意思與必要辨析": "才智學問超越一般人。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[16].blocks[0][1][1]",
+        "section": "字詞訓詁、古今差異與語法指代（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-16-00-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f4d0842dfad2d7bb",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "下聖人",
+    "fields": {
+      "原句定位": "其下聖人也亦遠矣",
+      "意思與必要辨析": "才智學問不及聖人。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[16].blocks[0][1][2]",
+        "section": "字詞訓詁、古今差異與語法指代（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-16-00-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3d50083233e6c471",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "益",
+    "fields": {
+      "原句定位": "是故聖益聖",
+      "意思與必要辨析": "更加、越發。 「聖益聖，愚益愚」比較結果。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[16].blocks[0][1][3]",
+        "section": "字詞訓詁、古今差異與語法指代（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d0797aa1ddc99598",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "其",
+    "fields": {
+      "原句定位": "其聞道也",
+      "意思與必要辨析": "他，指相關的人。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[16].blocks[0][1][4]",
+        "section": "字詞訓詁、古今差異與語法指代（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-16-00-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-010daf48b65b8c31",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "其",
+    "fields": {
+      "原句定位": "於其身也則恥師焉",
+      "意思與必要辨析": "自己。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[16].blocks[0][1][5]",
+        "section": "字詞訓詁、古今差異與語法指代（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-16-00-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-57dad79f2968e1be",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "其",
+    "fields": {
+      "原句定位": "其皆出於此乎",
+      "意思與必要辨析": "大概，表推測。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[16].blocks[0][1][6]",
+        "section": "字詞訓詁、古今差異與語法指代（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c5cd4c741b12f792",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "之",
+    "fields": {
+      "原句定位": "擇師而教之",
+      "意思與必要辨析": "他，指孩子。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[16].blocks[0][1][7]",
+        "section": "字詞訓詁、古今差異與語法指代（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-16-00-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5371d2db5b1b5964",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "之",
+    "fields": {
+      "原句定位": "作《師說》以貽之",
+      "意思與必要辨析": "他，指李蟠。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[16].blocks[0][1][8]",
+        "section": "字詞訓詁、古今差異與語法指代（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-16-00-8"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3774c5a01751ae3b",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "句讀",
+    "fields": {
+      "原句定位": "授之書而習其句讀者",
+      "意思與必要辨析": "文句的斷句、停頓；語譯有書中文句語法、句讀標點的說明。 屬童子啟蒙、基本文句知識；借代分析另見修辭表。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[16].blocks[0][1][9]",
+        "section": "字詞訓詁、古今差異與語法指代（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ba181962ccf8389a",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "句讀之不知，惑之不解",
+    "fields": {
+      "原句定位": "句讀之不知，惑之不解",
+      "意思與必要辨析": "所不知的是句讀，未解的是疑惑；「句讀」「惑」在前突出。 合讀下句分清小學／大遺；不能理解成同一件事的同義重複。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[16].blocks[0][1][10]",
+        "section": "字詞訓詁、古今差異與語法指代（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-16-00-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-27bd7c0c9325a5a5",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "或師焉，或不焉",
+    "fields": {
+      "原句定位": "或師焉，或不焉",
+      "意思與必要辨析": "一方面從師，一方面不從師；句讀從師、求道解惑不從師。 一方面從師，一方面不從師，具體指句讀從師、求道解惑卻不從師。「不」也作「否」理解，表示否定。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[16].blocks[0][1][11]",
+        "section": "字詞訓詁、古今差異與語法指代（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-16-00-11"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-adacedc424eb6bdc",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "小學而大遺",
+    "fields": {
+      "原句定位": "小學而大遺",
+      "意思與必要辨析": "小的方面學習，大的方面遺棄；只重句讀等次要知識，忽略求道解惑。 非現代小學階段；「大」的儒道、道德範圍及「人生道路、解答疑難」的較泛說法並存，見異說表。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[16].blocks[0][1][12]",
+        "section": "字詞訓詁、古今差異與語法指代（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-16-00-12"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4a6a4ef16bb22317",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "吾未見其明也",
+    "fields": {
+      "原句定位": "吾未見其明也",
+      "意思與必要辨析": "我看不出這是明智的／不認為這種人明白事理。 是批評成人本末倒置。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[16].blocks[0][1][13]",
+        "section": "字詞訓詁、古今差異與語法指代（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-16-00-13"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7a89a864dcf90c7a",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "族",
+    "fields": {
+      "原句定位": "士大夫之族",
+      "意思與必要辨析": "一類。 「做官讀書的名門望族」是士大夫群體的語境展開。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[17].blocks[0][1][1]",
+        "section": "字詞訓詁、古今差異與語法指代（3）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2098c1e64ad60f54",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "羞",
+    "fields": {
+      "原句定位": "位卑則足羞",
+      "意思與必要辨析": "羞恥、恥辱。 「位卑則足羞」是被批評的士大夫觀點。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[17].blocks[0][1][2]",
+        "section": "字詞訓詁、古今差異與語法指代（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-17-00-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7d390e8273820c0f",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "諛",
+    "fields": {
+      "原句定位": "官盛則近諛",
+      "意思與必要辨析": "阿諛、奉承、諂媚。 與「官盛」的藉口相連。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[17].blocks[0][1][3]",
+        "section": "字詞訓詁、古今差異與語法指代（3）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-53b622d8ed9120a7",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "不齒",
+    "fields": {
+      "原句定位": "君子不齒",
+      "意思與必要辨析": "不屑與之並列。 不屑與之並列；句中是士大夫輕視巫醫、樂師、百工。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[17].blocks[0][1][4]",
+        "section": "字詞訓詁、古今差異與語法指代（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-17-00-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-68ac7256d1221e4e",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "其可怪也歟",
+    "fields": {
+      "原句定位": "其可怪也歟",
+      "意思與必要辨析": "這真是奇怪啊。 驚詫且含諷刺。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[17].blocks[0][1][5]",
+        "section": "字詞訓詁、古今差異與語法指代（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-17-00-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-067a7ca21c2ccfd4",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "常師",
+    "fields": {
+      "原句定位": "聖人無常師",
+      "意思與必要辨析": "固定的老師。 無常師≠無師。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[17].blocks[0][1][6]",
+        "section": "字詞訓詁、古今差異與語法指代（3）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a1e7e0182315c75c",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "不必",
+    "fields": {
+      "原句定位": "是故弟子不必不如師",
+      "意思與必要辨析": "不一定。 師生不必在所有方面有固定優劣。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[17].blocks[0][1][7]",
+        "section": "字詞訓詁、古今差異與語法指代（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-17-00-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1703f3268cf36a8b",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "專攻",
+    "fields": {
+      "原句定位": "術業有專攻",
+      "意思與必要辨析": "在某學問、技藝上專門鑽研。 有從事／鑽研，強調各有專門。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[17].blocks[0][1][8]",
+        "section": "字詞訓詁、古今差異與語法指代（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-17-00-8"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-88823ac2cd857873",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "如是而已",
+    "fields": {
+      "原句定位": "如是而已",
+      "意思與必要辨析": "不過如此罷了／只是這樣而已。 收束聞道先後及專攻。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[17].blocks[0][1][9]",
+        "section": "字詞訓詁、古今差異與語法指代（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-17-00-9"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ecd2bd5266b06129",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "好",
+    "fields": {
+      "原句定位": "好古文",
+      "意思與必要辨析": "愛好、喜歡。 李蟠好古文。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[17].blocks[0][1][10]",
+        "section": "字詞訓詁、古今差異與語法指代（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-17-00-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7f8e2cf2fe8d7ace",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "六藝",
+    "fields": {
+      "原句定位": "六藝經傳",
+      "意思與必要辨析": "此處為《詩》《書》《禮》《樂》《易》《春秋》六經。 不套禮、樂、射、御、書、數的另一六藝義。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[17].blocks[0][1][11]",
+        "section": "字詞訓詁、古今差異與語法指代（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-17-00-11"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-158da82c33a4fe6b",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "經傳",
+    "fields": {
+      "原句定位": "六藝經傳",
+      "意思與必要辨析": "經文及解說經文的傳文、注疏。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[17].blocks[0][1][12]",
+        "section": "字詞訓詁、古今差異與語法指代（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-17-00-12"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ed0024f9da38ca97",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "通習",
+    "fields": {
+      "原句定位": "皆通習之",
+      "意思與必要辨析": "普遍學習、全都學習過。 普遍學習、全都學習過；「通」強調所學範圍廣，並不單憑此字斷定已精通每一部經書。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[17].blocks[0][1][13]",
+        "section": "字詞訓詁、古今差異與語法指代（3）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-250fcd5c4f16b82a",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "拘",
+    "fields": {
+      "原句定位": "不拘於時",
+      "意思與必要辨析": "拘束、限制。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[17].blocks[0][1][14]",
+        "section": "字詞訓詁、古今差異與語法指代（3）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1fc27c3face710a7",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "時",
+    "fields": {
+      "原句定位": "不拘於時",
+      "意思與必要辨析": "當時恥師的時俗。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[17].blocks[0][1][15]",
+        "section": "字詞訓詁、古今差異與語法指代（3）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f8fa7e59fb5cbe05",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "嘉",
+    "fields": {
+      "原句定位": "余嘉其能行古道",
+      "意思與必要辨析": "讚許、嘉許。 嘉許其行古人從師之道。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[18].blocks[0][1][1]",
+        "section": "字詞訓詁、古今差異與語法指代（4）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d0ba1e486defc1e9",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "余",
+    "fields": {
+      "原句定位": "學於余",
+      "意思與必要辨析": "我，韓愈自稱。 學於余是向韓愈學習。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[18].blocks[0][1][2]",
+        "section": "字詞訓詁、古今差異與語法指代（4）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-18-00-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-468c76703d67d076",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "貽",
+    "fields": {
+      "原句定位": "作《師說》以貽之",
+      "意思與必要辨析": "贈送。 作文以貽之的受贈者為李蟠。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[18].blocks[0][1][3]",
+        "section": "字詞訓詁、古今差異與語法指代（4）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-18-00-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e9630e663f959af8",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "從",
+    "fields": {
+      "原句定位": "惑而不從師",
+      "意思與必要辨析": "跟從。 「惑而不從師」與《廉頗藺相如列傳》的跟從義同類，不同於「從此以往」的起點介詞。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[18].blocks[0][1][4]",
+        "section": "字詞訓詁、古今差異與語法指代（4）"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-18-00-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8788675e6d6ee485",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "師者，所以傳道、受業、解惑也",
+    "fields": {
+      "作用及理解": "「者……也」界定老師；「所以」表示用來。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[19].blocks[1][1][1]",
+        "section": "句法作用、指代與跨篇比較"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-19-01-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-59dbbf0b734a9123",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "聖人之所以為聖",
+    "fields": {
+      "作用及理解": "「所以」表示原因。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[19].blocks[1][1][2]",
+        "section": "句法作用、指代與跨篇比較"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-19-01-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6c8032893ffd5543",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "句讀之不知，惑之不解",
+    "fields": {
+      "作用及理解": "賓語前置，還原為「不知句讀、不解惑」。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[19].blocks[1][1][3]",
+        "section": "句法作用、指代與跨篇比較"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-19-01-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5882a22f8ff1c3b7",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "不拘於時，學於余",
+    "fields": {
+      "作用及理解": "前一「於」引出被動關係；後一「於」表示向。不能譯成自己不拘小節。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[19].blocks[1][1][4]",
+        "section": "句法作用、指代與跨篇比較"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-19-01-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b9e89c4b570945aa",
+    "chapterId": "essay-07",
+    "category": "comparison",
+    "title": "其聞道／吾從而師之",
+    "fields": {
+      "指代對象": "相關年長或年幼而先聞道的人。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[19].blocks[3][1][1]",
+        "section": "句法作用、指代與跨篇比較"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-19-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-46885d466ce33b6b",
+    "chapterId": "essay-07",
+    "category": "comparison",
+    "title": "擇師而教之／授之書",
+    "fields": {
+      "指代對象": "孩子。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[19].blocks[3][1][2]",
+        "section": "句法作用、指代與跨篇比較"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-19-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8de9d73677d8bfaf",
+    "chapterId": "essay-07",
+    "category": "comparison",
+    "title": "於其身",
+    "fields": {
+      "指代對象": "成人自身。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[19].blocks[3][1][3]",
+        "section": "句法作用、指代與跨篇比較"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-19-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-686f8a07c618d8bc",
+    "chapterId": "essay-07",
+    "category": "comparison",
+    "title": "今其智乃反不能及",
+    "fields": {
+      "指代對象": "「其」指士大夫；「及」的對象是百工。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[19].blocks[3][1][4]",
+        "section": "句法作用、指代與跨篇比較"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-19-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-88985133aa59849b",
+    "chapterId": "essay-07",
+    "category": "comparison",
+    "title": "六藝經傳，皆通習之",
+    "fields": {
+      "指代對象": "六藝經傳。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[19].blocks[3][1][5]",
+        "section": "句法作用、指代與跨篇比較"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-19-03-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b05cb3b09b90554a",
+    "chapterId": "essay-07",
+    "category": "comparison",
+    "title": "作《師說》以貽之",
+    "fields": {
+      "指代對象": "李蟠。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[19].blocks[3][1][6]",
+        "section": "句法作用、指代與跨篇比較"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-19-03-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-51b32d55a8cefdc7",
+    "chapterId": "essay-07",
+    "category": "comparison",
+    "title": "延伸補充：與《勸學》對讀",
+    "fields": {
+      "內容": "可按學習必要、方法、態度比較：《師說》重從師、擇師和求道，《勸學》重後天改造、善假於物、積累、恆心、專一。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[19].blocks[5]",
+        "section": "句法作用、指代與跨篇比較"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bd5ea82485940a7e",
+    "chapterId": "essay-07",
+    "category": "vocabulary",
+    "title": "延伸補充：與《勸學》對讀",
+    "fields": {
+      "內容": "本篇可分析駢散、排偶、句式節奏及語勢。論證可從「正面立論→反面破弊→正面孔子例申論」看全篇；從師必要的推導則看因果推論，兩者分析層次不同。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[19].blocks[6]",
+        "section": "句法作用、指代與跨篇比較"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e8d3bf55ec6aaf00",
+    "chapterId": "essay-07",
+    "category": "exam",
+    "title": "歷年考查提示",
+    "fields": {
+      "內容": "下表列出歷年考查的知識方向；題目、答案與適用條件見配套考查索引。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[20].blocks[0]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-979ab4adc74695fe",
+    "chapterId": "essay-07",
+    "category": "exam",
+    "title": "2018",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "字詞：孰的語境義"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[20].blocks[1][1][1]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-54d5c6c200ac69f9",
+    "chapterId": "essay-07",
+    "category": "exam",
+    "title": "2020",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "字詞：庸"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[20].blocks[1][1][2]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-717d51123746e960",
+    "chapterId": "essay-07",
+    "category": "exam",
+    "title": "2024",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "論證：孔子從師一段的說理手法；論點辨認：最主要論點：不只限一人為師、從師不必限於勝己者；已由原卷補回提取稿漏項"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[20].blocks[1][1][3]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bc82cd4090e8ad96",
+    "chapterId": "essay-07",
+    "category": "exam",
+    "title": "2024",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "概念與句意：大遺的意思"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[20].blocks[1][1][4]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-50e66125ec28c766",
+    "chapterId": "essay-07",
+    "category": "exam",
+    "title": "2024",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "學習應用：小學而大遺的啟發，須举學習例子"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[20].blocks[1][1][5]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5af394ef4357cb30",
+    "chapterId": "essay-07",
+    "category": "technique",
+    "title": "章末串連｜重建全文",
+    "fields": {
+      "內容": "從師的必要、擇師原則、三組對比和寫作緣由，是同一條論證鏈。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[21].blocks[0]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-69d8e894de1f718d",
+    "chapterId": "essay-07",
+    "category": "structure",
+    "title": "必要與原則",
+    "fields": {
+      "怎樣連起來": "人必有惑，教師傳道、受業、解惑，因此應從師；「道之所存，師之所存」把標準定在有道。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[21].blocks[1][1][1]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b455f760ea2daf0b",
+    "chapterId": "essay-07",
+    "category": "structure",
+    "title": "三組對比",
+    "fields": {
+      "怎樣連起來": "古聖人／今眾人比較結果；為子擇師／自己恥師揭示矛盾；百工／士大夫顯示地位與智慧不相等。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[21].blocks[1][1][2]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c7e5f46189853b81",
+    "chapterId": "essay-07",
+    "category": "structure",
+    "title": "正面證明",
+    "fields": {
+      "怎樣連起來": "孔子向各有所長的人學習，印證擇師不拘年齡地位，也不要求老師樣樣勝過弟子。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[21].blocks[1][1][3]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4ecdb025b5997c93",
+    "chapterId": "essay-07",
+    "category": "structure",
+    "title": "寫作落點",
+    "fields": {
+      "怎樣連起來": "李蟠不拘於時、能行古道，具體實踐前文原則；寫給他的文章也批評當時的恥師風氣。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[6].pages[21].blocks[1][1][4]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2c5cd2a4dd1b8f1f",
+    "chapterId": "essay-07",
+    "category": "technique",
+    "title": "反問與設問",
+    "fields": {
+      "內容": "反問用疑問形式表達已確定的意思，通常不需回答，以加強語氣；設問先提出問題再作回答，引導讀者理解。判斷時看句子在上下文的作用，不能只憑問號。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[750].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[755].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1047].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1048].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1052].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-01-03-3",
+      "full-b-07-02-03-3",
+      "full-b-07-13-00-1",
+      "full-b-07-13-00-2",
+      "full-b-07-13-00-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-88d84883e99fae7e",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "「學者」是求學的人。三項師職包括做人所據的道理、課業和疑難；只教識字斷句，未涵蓋本篇所說的全部職責。\n小學指學句讀，大遺指放棄求道解惑。「惑矣」是在批評這種取捨不明智，不是單說心中有疑問。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1036].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-10-00-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-63b06a932b9c9da8",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "先出生不等於先聞道。只要對方領會道理在先，即使年紀較小也可以向他學習；「無」在此是無論。\n位卑便嫌可羞，官高又嫌近諛，無論高低都找藉口。百工不恥相師的態度，反過來顯出士大夫的局限。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1037].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-10-00-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-64cdd6d7a177be2f",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "先出生不等於先聞道。只要對方領會道理在先，即使年紀較小也可以向他學習；「無」在此是無論。\n四人的整體賢能不及孔子，仍有專長可學。「不必」是不一定，不是必定不如；整體高下與局部專長不能混為一談。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1038].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1039].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-10-00-3",
+      "full-b-07-10-00-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c21e518a2c421513",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "舉例與引用",
+    "fields": {
+      "內容": "舉例以具體事實、人物或事件支持道理；引用借用前人話語或文獻作依據。兩者可以在同一段並用，須按題目所問的範圍辨認，並說明例子或引語支持哪個論點。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1055].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-13-00-9"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-252d104603369875",
+    "chapterId": "essay-07",
+    "category": "technique",
+    "title": "對比與襯托",
+    "fields": {
+      "內容": "對比把兩方並置，突出差異，兩方都參與表意；襯托有主次，以陪襯的一方突出主要對象。分析須指出哪兩方、在哪一方面形成關係，以及這個關係如何支持文意。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1056].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-13-00-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-57bcbe154fe8d664",
+    "chapterId": "essay-07",
+    "category": "technique",
+    "title": "借代",
+    "fields": {
+      "內容": "借代利用事物之間的關聯，以特徵、部分、材料或相關事物代替本體。比喻依靠相似，借代依靠關聯。答題要說明代指對象及兩者關係。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1057].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-14-00-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fd613fd00bc7f241",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "古聖本已勝人仍求師，今眾本不及人卻恥師。先對照態度，再見聖益聖、愚益愚的結果，批評才有依據。\n小學指學句讀，大遺指放棄求道解惑。「惑矣」是在批評這種取捨不明智，不是單說心中有疑問。\n位卑便嫌可羞，官高又嫌近諛，無論高低都找藉口。百工不恥相師的態度，反過來顯出士大夫的局限。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1058].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-14-00-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ed6526609e41517a",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "古聖本已勝人仍求師，今眾本不及人卻恥師。先對照態度，再見聖益聖、愚益愚的結果，批評才有依據。\n位卑便嫌可羞，官高又嫌近諛，無論高低都找藉口。百工不恥相師的態度，反過來顯出士大夫的局限。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1060].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-14-00-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-dad50ef19923f306",
+    "chapterId": "essay-07",
+    "category": "theme",
+    "title": "被動句",
+    "fields": {
+      "內容": "被動句中主語是動作的承受者。文言可用「見」「於」「為……所……」等標誌，也可不帶標誌而由語意判斷。不能看見「於」或「為」就直接判作被動，須查明動作由誰發出、誰承受。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1090].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1093].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1518].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-07-19-01-1",
+      "full-b-07-19-01-4",
+      "full-c-01-23-02-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  }
+]

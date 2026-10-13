@@ -1,0 +1,3243 @@
+[
+  {
+    "id": "k-10f795a694083ffb",
+    "chapterId": "essay-16",
+    "category": "background",
+    "title": "作者與題旨",
+    "fields": {
+      "作者": "辛棄疾"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].author",
+        "section": "青玉案・元夕"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d26d33c9f48116ed",
+    "chapterId": "essay-16",
+    "category": "theme",
+    "title": "一句話題旨",
+    "fields": {
+      "題旨": "燈火與尋覓"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].desc",
+        "section": "青玉案・元夕"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-428ba0e7923e8cf1",
+    "chapterId": "essay-16",
+    "category": "background",
+    "title": "作者、時代與文體",
+    "fields": {
+      "資料": "辛棄疾｜南宋｜詞"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[0].blocks[0]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3ed471d666af21cf",
+    "chapterId": "essay-16",
+    "category": "technique",
+    "title": "辛棄疾｜南宋｜詞",
+    "fields": {
+      "內容": "以元宵繁華熱鬧反襯燈火闌珊處的那人，突出不隨流俗的形象和追尋。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[0].blocks[1]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-00-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-27b1f596f693e6f8",
+    "chapterId": "essay-16",
+    "category": "structure",
+    "title": "內容線索",
+    "fields": {
+      "內容": "燈火車馬→音樂魚龍→盛裝女子→千百尋找→驀然得見"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[0].blocks[3]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-00-03-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-30901b8f54196bb3",
+    "chapterId": "essay-16",
+    "category": "theme",
+    "title": "理解關鍵",
+    "fields": {
+      "內容": "那人的孤高可作寄託解讀；不能直接把尋人敘事改成已證實的生平事件。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[0].blocks[5]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-00-05-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-746c5284f7c0610f",
+    "chapterId": "essay-16",
+    "category": "background",
+    "title": "題解與文體",
+    "fields": {
+      "內容": "青玉案是詞牌，元夕是元宵夜；星、玉壺有異解，本篇以煙花、明月主線解說。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[0].blocks[7]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-00-07-80"
+    ],
+    "review": {
+      "status": "interpretation-note",
+      "notes": [
+        "原資料明示另一解讀；須連同語境閱讀。此為文字提示，未判定所有解釋同等成立。"
+      ]
+    }
+  },
+  {
+    "id": "k-2854e644e15e3b6b",
+    "chapterId": "essay-16",
+    "category": "theme",
+    "title": "句段核心：上片｜原文與語譯",
+    "fields": {
+      "重點": "燈火、車馬、音樂與魚龍舞，合寫元夕的繁華。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[1].core",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0119073eb53999e8",
+    "chapterId": "essay-16",
+    "category": "text",
+    "title": "上片｜原文與語譯",
+    "fields": {
+      "原文": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。"
+    },
+    "context": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[1].blocks[0]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e16-exp-001",
+      "full-c-16-01-03-00",
+      "full-c-16-01-03-01",
+      "full-c-16-01-03-02",
+      "full-c-16-01-03-04",
+      "full-c-16-01-03-05",
+      "full-c-16-01-03-06",
+      "full-c-16-01-03-07",
+      "full-c-16-01-03-08",
+      "full-c-16-01-00-90",
+      "full-c-16-00-01-80",
+      "full-c-16-00-05-80",
+      "full-c-16-00-07-80",
+      "full-c-16-01-04-80",
+      "full-c-16-03-00-01",
+      "full-c-16-03-00-02",
+      "full-c-16-03-00-04",
+      "full-c-16-03-00-05",
+      "full-c-16-03-00-08",
+      "full-c-16-03-00-10",
+      "full-c-16-03-00-11",
+      "full-c-16-03-00-12",
+      "full-c-16-03-00-13",
+      "full-c-16-03-00-14",
+      "full-c-16-03-00-15",
+      "full-c-16-03-00-17",
+      "full-c-16-03-00-18",
+      "full-c-16-04-00-01",
+      "full-c-16-04-00-02",
+      "full-c-16-04-00-06",
+      "full-c-16-04-00-07",
+      "full-c-16-04-00-08",
+      "full-c-16-04-01-80",
+      "full-c-16-05-00-01",
+      "full-c-16-05-00-02",
+      "full-c-16-05-00-03",
+      "full-c-16-05-00-04",
+      "full-c-16-05-00-05",
+      "full-c-16-05-01-80",
+      "full-c-16-06-00-80",
+      "full-c-16-06-01-80",
+      "full-c-16-07-00-01",
+      "full-c-16-07-00-02",
+      "full-c-16-07-00-03",
+      "full-c-16-07-00-04",
+      "full-c-16-07-00-06",
+      "full-c-16-07-00-07",
+      "full-c-16-07-00-08",
+      "full-c-16-07-00-09",
+      "full-c-16-07-00-10",
+      "full-c-16-07-00-11",
+      "full-c-16-08-00-01",
+      "full-c-16-08-00-02",
+      "full-c-16-08-00-03",
+      "full-c-16-08-00-04",
+      "full-c-16-08-00-05",
+      "full-c-16-09-01-01",
+      "full-c-16-09-01-02",
+      "full-c-16-09-01-03",
+      "full-c-16-09-01-04",
+      "full-c-16-09-03-01",
+      "full-c-16-09-03-02",
+      "full-c-16-09-03-03",
+      "full-c-16-09-04-80",
+      "full-c-16-11-00-80",
+      "full-c-16-12-00-80",
+      "full-c-16-12-01-01",
+      "full-c-16-12-01-02",
+      "full-c-16-12-01-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d979c50dd5aed959",
+    "chapterId": "essay-16",
+    "category": "text",
+    "title": "上片｜原文與語譯",
+    "fields": {
+      "語譯": "春風吹拂的夜晚，滿城花燈像千樹繁花一下盛放，又像吹落了如雨點般的煙花。名貴駿馬拉着華麗雕車經過，路上瀰漫車中人的衣鬢香氣。簫樂四處繚繞，月光照射的位置隨時間轉移，魚形、龍形的彩燈整夜舞動。"
+    },
+    "context": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[1].blocks[2]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e16-exp-001",
+      "full-c-16-01-03-00",
+      "full-c-16-01-03-01",
+      "full-c-16-01-03-02",
+      "full-c-16-01-03-04",
+      "full-c-16-01-03-05",
+      "full-c-16-01-03-06",
+      "full-c-16-01-03-07",
+      "full-c-16-01-03-08",
+      "full-c-16-01-00-90",
+      "full-c-16-00-01-80",
+      "full-c-16-00-05-80",
+      "full-c-16-00-07-80",
+      "full-c-16-01-04-80",
+      "full-c-16-03-00-01",
+      "full-c-16-03-00-02",
+      "full-c-16-03-00-04",
+      "full-c-16-03-00-05",
+      "full-c-16-03-00-08",
+      "full-c-16-03-00-10",
+      "full-c-16-03-00-11",
+      "full-c-16-03-00-12",
+      "full-c-16-03-00-13",
+      "full-c-16-03-00-14",
+      "full-c-16-03-00-15",
+      "full-c-16-03-00-17",
+      "full-c-16-03-00-18",
+      "full-c-16-04-00-01",
+      "full-c-16-04-00-02",
+      "full-c-16-04-00-06",
+      "full-c-16-04-00-07",
+      "full-c-16-04-00-08",
+      "full-c-16-04-01-80",
+      "full-c-16-05-00-01",
+      "full-c-16-05-00-02",
+      "full-c-16-05-00-03",
+      "full-c-16-05-00-04",
+      "full-c-16-05-00-05",
+      "full-c-16-05-01-80",
+      "full-c-16-06-00-80",
+      "full-c-16-06-01-80",
+      "full-c-16-07-00-01",
+      "full-c-16-07-00-02",
+      "full-c-16-07-00-03",
+      "full-c-16-07-00-04",
+      "full-c-16-07-00-06",
+      "full-c-16-07-00-07",
+      "full-c-16-07-00-08",
+      "full-c-16-07-00-09",
+      "full-c-16-07-00-10",
+      "full-c-16-07-00-11",
+      "full-c-16-08-00-01",
+      "full-c-16-08-00-02",
+      "full-c-16-08-00-03",
+      "full-c-16-08-00-04",
+      "full-c-16-08-00-05",
+      "full-c-16-09-01-01",
+      "full-c-16-09-01-02",
+      "full-c-16-09-01-03",
+      "full-c-16-09-01-04",
+      "full-c-16-09-03-01",
+      "full-c-16-09-03-02",
+      "full-c-16-09-03-03",
+      "full-c-16-09-04-80",
+      "full-c-16-11-00-80",
+      "full-c-16-12-00-80",
+      "full-c-16-12-01-01",
+      "full-c-16-12-01-02",
+      "full-c-16-12-01-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-33aa626a974f609d",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "東風",
+    "fields": {
+      "詞義": "春風"
+    },
+    "context": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[1].blocks[3][1][0]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-01-03-00"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2ae8f568e6bf3e71",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "花千樹",
+    "fields": {
+      "詞義": "花燈如千樹繁花"
+    },
+    "context": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[1].blocks[3][1][1]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-01-03-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bd652b278ec3e404",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "星如雨",
+    "fields": {
+      "詞義": "煙花如雨；另有燈說"
+    },
+    "context": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[1].blocks[3][1][2]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-01-03-02"
+    ],
+    "review": {
+      "status": "interpretation-note",
+      "notes": [
+        "原資料明示另一解讀；須連同語境閱讀。此為文字提示，未判定所有解釋同等成立。"
+      ]
+    }
+  },
+  {
+    "id": "k-6a7fde7a234b2a27",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "寶馬",
+    "fields": {
+      "詞義": "名貴駿馬"
+    },
+    "context": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[1].blocks[3][1][3]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ec546e9568d4311b",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "雕車",
+    "fields": {
+      "詞義": "裝飾華麗的車"
+    },
+    "context": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[1].blocks[3][1][4]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-01-03-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fbce796db7468001",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "鳳簫",
+    "fields": {
+      "詞義": "簫的美稱；亦說排簫"
+    },
+    "context": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[1].blocks[3][1][5]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-01-03-05"
+    ],
+    "review": {
+      "status": "interpretation-note",
+      "notes": [
+        "原資料明示另一解讀；須連同語境閱讀。此為文字提示，未判定所有解釋同等成立。"
+      ]
+    }
+  },
+  {
+    "id": "k-765cdc475183a055",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "玉壺",
+    "fields": {
+      "詞義": "主解明月；另有燈、漏壺說"
+    },
+    "context": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[1].blocks[3][1][6]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-01-03-06"
+    ],
+    "review": {
+      "status": "interpretation-note",
+      "notes": [
+        "原資料明示另一解讀；須連同語境閱讀。此為文字提示，未判定所有解釋同等成立。"
+      ]
+    }
+  },
+  {
+    "id": "k-e94cced3d63d1423",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "光轉",
+    "fields": {
+      "詞義": "光照位置隨時間轉移"
+    },
+    "context": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[1].blocks[3][1][7]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-01-03-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c1dbce8a52206660",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "魚龍舞",
+    "fields": {
+      "詞義": "魚龍形彩燈舞動"
+    },
+    "context": "東風夜放花千樹，更吹落、星如雨。寶馬雕車香滿路。鳳簫聲動，玉壺光轉，一夜魚龍舞。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[1].blocks[3][1][8]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-01-03-08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1bf436488bf16ae2",
+    "chapterId": "essay-16",
+    "category": "technique",
+    "title": "語譯",
+    "fields": {
+      "內容": "視覺、聽覺和嗅覺共同營造熱鬧；熱鬧寫得充分，才更能反襯最後燈火闌珊處的人。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[1].blocks[4]",
+        "section": "上片｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[200].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1393].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1394].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1395].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1396].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1397].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1398].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1399].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1400].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1438].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1921].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1975].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e16-exp-001",
+      "full-c-16-01-03-00",
+      "full-c-16-01-03-01",
+      "full-c-16-01-03-02",
+      "full-c-16-01-03-04",
+      "full-c-16-01-03-05",
+      "full-c-16-01-03-06",
+      "full-c-16-01-03-07",
+      "full-c-16-01-03-08",
+      "full-c-16-01-00-90",
+      "full-c-16-01-04-80",
+      "full-c-16-11-00-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cc8dfff7e3b9736d",
+    "chapterId": "essay-16",
+    "category": "theme",
+    "title": "句段核心：下片｜原文與語譯",
+    "fields": {
+      "重點": "盛裝人群襯出那人的不同，尋找由反覆轉為驀然得見。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[2].core",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c75768bbb0f7e6b1",
+    "chapterId": "essay-16",
+    "category": "text",
+    "title": "下片｜原文與語譯",
+    "fields": {
+      "原文": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。"
+    },
+    "context": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[2].blocks[0]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e16-exp-002",
+      "q-e16-exp-003",
+      "q-e16-exp-004",
+      "q-e16-exp-005",
+      "q-e16-exp-006",
+      "q-e16-exp-007",
+      "q-e16-exp-008",
+      "full-c-16-02-03-01",
+      "full-c-16-02-03-02",
+      "full-c-16-02-03-03",
+      "full-c-16-02-03-04",
+      "full-c-16-02-03-07",
+      "full-c-16-02-00-90",
+      "full-c-16-00-01-80",
+      "full-c-16-00-03-80",
+      "full-c-16-00-05-80",
+      "full-c-16-00-07-80",
+      "full-c-16-02-04-80",
+      "full-c-16-03-00-01",
+      "full-c-16-03-00-02",
+      "full-c-16-03-00-04",
+      "full-c-16-03-00-05",
+      "full-c-16-03-00-08",
+      "full-c-16-03-00-10",
+      "full-c-16-03-00-11",
+      "full-c-16-03-00-12",
+      "full-c-16-03-00-13",
+      "full-c-16-03-00-14",
+      "full-c-16-03-00-15",
+      "full-c-16-03-00-17",
+      "full-c-16-03-00-18",
+      "full-c-16-04-00-01",
+      "full-c-16-04-00-02",
+      "full-c-16-04-00-03",
+      "full-c-16-04-00-06",
+      "full-c-16-04-00-07",
+      "full-c-16-04-00-08",
+      "full-c-16-04-01-80",
+      "full-c-16-05-00-01",
+      "full-c-16-05-00-02",
+      "full-c-16-05-00-03",
+      "full-c-16-05-00-04",
+      "full-c-16-05-00-05",
+      "full-c-16-05-01-80",
+      "full-c-16-06-00-80",
+      "full-c-16-06-01-80",
+      "full-c-16-07-00-01",
+      "full-c-16-07-00-02",
+      "full-c-16-07-00-03",
+      "full-c-16-07-00-04",
+      "full-c-16-07-00-05",
+      "full-c-16-07-00-06",
+      "full-c-16-07-00-07",
+      "full-c-16-07-00-08",
+      "full-c-16-07-00-09",
+      "full-c-16-07-00-10",
+      "full-c-16-07-00-11",
+      "full-c-16-08-00-01",
+      "full-c-16-08-00-02",
+      "full-c-16-08-00-03",
+      "full-c-16-08-00-04",
+      "full-c-16-08-00-05",
+      "full-c-16-09-01-01",
+      "full-c-16-09-01-02",
+      "full-c-16-09-01-03",
+      "full-c-16-09-01-04",
+      "full-c-16-09-03-01",
+      "full-c-16-09-03-02",
+      "full-c-16-09-03-03",
+      "full-c-16-09-04-80",
+      "full-c-16-12-00-80",
+      "full-c-16-12-01-01",
+      "full-c-16-12-01-02",
+      "full-c-16-12-01-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0e66b50369dfb863",
+    "chapterId": "essay-16",
+    "category": "text",
+    "title": "下片｜原文與語譯",
+    "fields": {
+      "語譯": "婦女戴着蛾兒、雪柳、金縷等華美頭飾，儀態美好，帶着笑語、幽香從眼前經過。我在人群中反覆尋她千百次；忽然回頭，才發現那個人獨自站在燈火稀疏暗淡的地方。"
+    },
+    "context": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[2].blocks[2]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e16-exp-002",
+      "q-e16-exp-003",
+      "q-e16-exp-004",
+      "q-e16-exp-005",
+      "q-e16-exp-006",
+      "q-e16-exp-007",
+      "q-e16-exp-008",
+      "full-c-16-02-03-01",
+      "full-c-16-02-03-02",
+      "full-c-16-02-03-03",
+      "full-c-16-02-03-04",
+      "full-c-16-02-03-07",
+      "full-c-16-02-00-90",
+      "full-c-16-00-01-80",
+      "full-c-16-00-03-80",
+      "full-c-16-00-05-80",
+      "full-c-16-00-07-80",
+      "full-c-16-02-04-80",
+      "full-c-16-03-00-01",
+      "full-c-16-03-00-02",
+      "full-c-16-03-00-04",
+      "full-c-16-03-00-05",
+      "full-c-16-03-00-08",
+      "full-c-16-03-00-10",
+      "full-c-16-03-00-11",
+      "full-c-16-03-00-12",
+      "full-c-16-03-00-13",
+      "full-c-16-03-00-14",
+      "full-c-16-03-00-15",
+      "full-c-16-03-00-17",
+      "full-c-16-03-00-18",
+      "full-c-16-04-00-01",
+      "full-c-16-04-00-02",
+      "full-c-16-04-00-03",
+      "full-c-16-04-00-06",
+      "full-c-16-04-00-07",
+      "full-c-16-04-00-08",
+      "full-c-16-04-01-80",
+      "full-c-16-05-00-01",
+      "full-c-16-05-00-02",
+      "full-c-16-05-00-03",
+      "full-c-16-05-00-04",
+      "full-c-16-05-00-05",
+      "full-c-16-05-01-80",
+      "full-c-16-06-00-80",
+      "full-c-16-06-01-80",
+      "full-c-16-07-00-01",
+      "full-c-16-07-00-02",
+      "full-c-16-07-00-03",
+      "full-c-16-07-00-04",
+      "full-c-16-07-00-05",
+      "full-c-16-07-00-06",
+      "full-c-16-07-00-07",
+      "full-c-16-07-00-08",
+      "full-c-16-07-00-09",
+      "full-c-16-07-00-10",
+      "full-c-16-07-00-11",
+      "full-c-16-08-00-01",
+      "full-c-16-08-00-02",
+      "full-c-16-08-00-03",
+      "full-c-16-08-00-04",
+      "full-c-16-08-00-05",
+      "full-c-16-09-01-01",
+      "full-c-16-09-01-02",
+      "full-c-16-09-01-03",
+      "full-c-16-09-01-04",
+      "full-c-16-09-03-01",
+      "full-c-16-09-03-02",
+      "full-c-16-09-03-03",
+      "full-c-16-09-04-80",
+      "full-c-16-12-00-80",
+      "full-c-16-12-01-01",
+      "full-c-16-12-01-02",
+      "full-c-16-12-01-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-619f03e7c61bf939",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "蛾兒",
+    "fields": {
+      "詞義": "蛾蝶形頭飾"
+    },
+    "context": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[2].blocks[3][1][0]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ad0f0a3ea19f5ada",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "雪柳",
+    "fields": {
+      "詞義": "柳狀頭飾"
+    },
+    "context": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[2].blocks[3][1][1]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-02-03-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-22498185fc3564d1",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "黃金縷",
+    "fields": {
+      "詞義": "金色頭飾"
+    },
+    "context": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[2].blocks[3][1][2]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-02-03-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-17d8f7e8c48a049b",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "盈盈",
+    "fields": {
+      "詞義": "儀態輕盈美好"
+    },
+    "context": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[2].blocks[3][1][3]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-02-03-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7bde122a61ebd334",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "暗香",
+    "fields": {
+      "詞義": "幽香"
+    },
+    "context": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[2].blocks[3][1][4]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-02-03-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5e739d5d295aa041",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "千百度",
+    "fields": {
+      "詞義": "千百次，極言多次"
+    },
+    "context": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[2].blocks[3][1][5]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-055a000e06719788",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "驀然",
+    "fields": {
+      "詞義": "突然、忽然"
+    },
+    "context": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[2].blocks[3][1][6]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0372d14ca3637705",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "迴首",
+    "fields": {
+      "詞義": "回頭"
+    },
+    "context": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[2].blocks[3][1][7]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-02-03-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2a2f692a884335d3",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "闌珊",
+    "fields": {
+      "詞義": "稀疏、暗淡"
+    },
+    "context": "蛾兒雪柳黃金縷，笑語盈盈暗香去。眾裏尋他千百度；驀然迴首，那人卻在、燈火闌珊處。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[2].blocks[3][1][8]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-958a586b2bd20277",
+    "chapterId": "essay-16",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "千百度極言尋找之多，驀然寫發現的突然。那人不在熱鬧中心，位置上的反差支持其孤高形象。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[2].blocks[4]",
+        "section": "下片｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[201].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[202].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[203].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[204].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[205].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[206].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[207].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1401].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1402].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1403].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1404].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1405].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1439].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1918].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1922].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1938].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1955].learning.knowledge[2]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e16-exp-002",
+      "q-e16-exp-003",
+      "q-e16-exp-004",
+      "q-e16-exp-005",
+      "q-e16-exp-006",
+      "q-e16-exp-007",
+      "q-e16-exp-008",
+      "full-c-16-02-03-01",
+      "full-c-16-02-03-02",
+      "full-c-16-02-03-03",
+      "full-c-16-02-03-04",
+      "full-c-16-02-03-07",
+      "full-c-16-02-00-90",
+      "full-c-16-00-03-80",
+      "full-c-16-02-04-80",
+      "full-c-16-04-00-03",
+      "full-c-16-07-00-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-09a33fe38a3a4c19",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "青玉案",
+    "fields": {
+      "原句定位": "青玉案",
+      "意思與必要辨析": "這裏是詞牌名，並非正文所寫器物；「元夕」才點明元宵夜的題材。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[3].blocks[0][1][1]",
+        "section": "題解、字詞與節俗（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-03-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7335a64f1aa09230",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "元夕",
+    "fields": {
+      "原句定位": "元夕",
+      "意思與必要辨析": "農曆正月十五上元節之夜，又稱元夜、元宵；題目寫春天節夜燈市。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[3].blocks[0][1][2]",
+        "section": "題解、字詞與節俗（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-03-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8ebb16715158547a",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "東風",
+    "fields": {
+      "原句定位": "東風夜放花千樹",
+      "意思與必要辨析": "春風"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[3].blocks[0][1][3]",
+        "section": "題解、字詞與節俗（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2b6818937221fbd3",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "花千樹",
+    "fields": {
+      "原句定位": "東風夜放花千樹",
+      "意思與必要辨析": "花燈繁多如千樹花開，不是實際千棵花樹的數目統計。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[3].blocks[0][1][4]",
+        "section": "題解、字詞與節俗（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-03-00-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bb099c1948f6a7f5",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "星如雨",
+    "fields": {
+      "原句定位": "更吹落、星如雨",
+      "意思與必要辨析": "煙花密集落下，如雨點一般，突出燦爛繁盛；也有把「星」理解為花燈的讀法。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[3].blocks[0][1][5]",
+        "section": "題解、字詞與節俗（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-03-00-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-86f9a6510097abe1",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "寶馬",
+    "fields": {
+      "原句定位": "寶馬雕車香滿路",
+      "意思與必要辨析": "名貴駿馬"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[3].blocks[0][1][6]",
+        "section": "題解、字詞與節俗（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6999055699df11ee",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "雕車",
+    "fields": {
+      "原句定位": "寶馬雕車香滿路",
+      "意思與必要辨析": "有雕花彩繪的華麗車"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[3].blocks[0][1][7]",
+        "section": "題解、字詞與節俗（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b91795a5c4fbb1d6",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "香",
+    "fields": {
+      "原句定位": "寶馬雕車香滿路",
+      "意思與必要辨析": "車中人的衣鬢香氣。帶出富貴遊人，不是只寫馬車的木料香。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[3].blocks[0][1][8]",
+        "section": "題解、字詞與節俗（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-03-00-08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-74c763b764eff354",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "鳳簫",
+    "fields": {
+      "原句定位": "鳳簫聲動",
+      "意思與必要辨析": "排簫，也有作簫的美稱的解釋。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[3].blocks[0][1][9]",
+        "section": "題解、字詞與節俗（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4838db7b24946d0f",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "聲動",
+    "fields": {
+      "原句定位": "鳳簫聲動",
+      "意思與必要辨析": "樂聲四處繚繞。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[3].blocks[0][1][10]",
+        "section": "題解、字詞與節俗（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-03-00-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b73d58f05dee8009",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "玉壺",
+    "fields": {
+      "原句定位": "玉壺光轉",
+      "意思與必要辨析": "玉壺可比喻明月，取圓潤晶亮的相似點"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[3].blocks[0][1][11]",
+        "section": "題解、字詞與節俗（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-03-00-11"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-70195404aa06025b",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "光轉",
+    "fields": {
+      "原句定位": "玉壺光轉",
+      "意思與必要辨析": "光轉寫月照位置改變，帶出時間推移。補充理解：玉壺另有白玉燈、計時漏壺兩說。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[3].blocks[0][1][12]",
+        "section": "題解、字詞與節俗（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-03-00-12"
+    ],
+    "review": {
+      "status": "interpretation-note",
+      "notes": [
+        "原資料明示另一解讀；須連同語境閱讀。此為文字提示，未判定所有解釋同等成立。"
+      ]
+    }
+  },
+  {
+    "id": "k-43a10ed882e936b7",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "魚龍舞",
+    "fields": {
+      "原句定位": "一夜魚龍舞",
+      "意思與必要辨析": "舞動魚形、龍形彩燈。另連彩燈百戲表演、走馬燈動態，屬延伸理解，不作真魚龍活動。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[3].blocks[0][1][13]",
+        "section": "題解、字詞與節俗（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-03-00-13"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1ebbb6605f1a0ef3",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "蛾兒",
+    "fields": {
+      "原句定位": "蛾兒雪柳黃金縷",
+      "意思與必要辨析": "元宵前後婦女插戴的烏金紙剪成蝶、蛾狀頭飾。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[3].blocks[0][1][14]",
+        "section": "題解、字詞與節俗（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-03-00-14"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f128f06b9c73d0f6",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "雪柳",
+    "fields": {
+      "原句定位": "蛾兒雪柳黃金縷",
+      "意思與必要辨析": "宋代婦女立春、元宵所戴，絹或紙製成的頭花，呈柳條形。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[3].blocks[0][1][15]",
+        "section": "題解、字詞與節俗（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-03-00-15"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c9978bd00f22bf6d",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "黃金縷",
+    "fields": {
+      "原句定位": "蛾兒雪柳黃金縷",
+      "意思與必要辨析": "金色頭飾"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[3].blocks[0][1][16]",
+        "section": "題解、字詞與節俗（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c9c27799e9926fc0",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "縷",
+    "fields": {
+      "原句定位": "蛾兒雪柳黃金縷",
+      "意思與必要辨析": "縷泛指線狀物。三種頭飾亦借代盛裝女子。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[3].blocks[0][1][17]",
+        "section": "題解、字詞與節俗（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-03-00-17"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-48535285a87d2dc0",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "盈盈",
+    "fields": {
+      "原句定位": "笑語盈盈暗香去",
+      "意思與必要辨析": "儀態輕盈美好、微笑含情；連「笑語」兼有聲音與神態。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[3].blocks[0][1][18]",
+        "section": "題解、字詞與節俗（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-03-00-18"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-63fb9bb1aaef8866",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "暗香去",
+    "fields": {
+      "原句定位": "笑語盈盈暗香去",
+      "意思與必要辨析": "女子帶着幽香經過而遠去，聲影氣味隨步伐轉移。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[4].blocks[0][1][1]",
+        "section": "題解、字詞與節俗（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-04-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-53cf1d4d13bf2e41",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "度",
+    "fields": {
+      "原句定位": "眾裏尋他千百度",
+      "意思與必要辨析": "次、回"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[4].blocks[0][1][2]",
+        "section": "題解、字詞與節俗（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-04-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b1b63442dbba7b95",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "千百度",
+    "fields": {
+      "原句定位": "眾裏尋他千百度",
+      "意思與必要辨析": "反覆多次尋找，突出熱切，不是實數。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[4].blocks[0][1][3]",
+        "section": "題解、字詞與節俗（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-04-00-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b14dc1adcceb977f",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "驀然",
+    "fields": {
+      "原句定位": "驀然迴首",
+      "意思與必要辨析": "突然、忽然"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[4].blocks[0][1][4]",
+        "section": "題解、字詞與節俗（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-993a0510710dffbd",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "迴首",
+    "fields": {
+      "原句定位": "驀然迴首",
+      "意思與必要辨析": "回頭，迴另作回。得見具有意外性。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[4].blocks[0][1][5]",
+        "section": "題解、字詞與節俗（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-72bc432be8620216",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "闌珊",
+    "fields": {
+      "原句定位": "那人卻在、燈火闌珊處",
+      "意思與必要辨析": "暗淡、零落、稀疏；作將盡，落在燈火語境，與繁華燈市相對。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[4].blocks[0][1][6]",
+        "section": "題解、字詞與節俗（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-04-00-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b0c369a8b156857e",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "他",
+    "fields": {
+      "原句定位": "眾裏尋他千百度",
+      "意思與必要辨析": "詞面為作者所尋對象，譯文作她、意中人"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[4].blocks[0][1][7]",
+        "section": "題解、字詞與節俗（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-04-00-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-51f8506335cd3457",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "那人",
+    "fields": {
+      "原句定位": "那人卻在、燈火闌珊處",
+      "意思與必要辨析": "作者所尋的人；字面人物與理想人格的寄託解讀分開。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[4].blocks[0][1][8]",
+        "section": "題解、字詞與節俗（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-04-00-08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-78f662ea315f166e",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "題解、字詞與節俗",
+    "fields": {
+      "內容": "先按煙花、明月理解上片，畫面便是花燈繁盛、煙花密集、月光流轉。補充理解：「星」也有花燈說，「玉壺」也有燈和漏壺說；採用另一說時，相應的形象分析也要一致。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[4].blocks[1]",
+        "section": "題解、字詞與節俗（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-04-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3963e88f238deb18",
+    "chapterId": "essay-16",
+    "category": "structure",
+    "title": "上片寫盛景",
+    "fields": {
+      "內容與作用": "燈火燦爛、遊人不絕、樂聲飄揚、魚龍燈舞，營造繁華熱鬧。不同感官和動態交錯，使人目不暇給、耳不暇接。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[5].blocks[0][1][1]",
+        "section": "結構、敘事與情感"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-05-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4e1b3ea59d300f83",
+    "chapterId": "essay-16",
+    "category": "structure",
+    "title": "下片首兩句寫仕女",
+    "fields": {
+      "內容與作用": "頭飾華美，笑語含情，幽香隨人遠去；承接賞燈盛況，過渡由寫景到写人、引出尋覓。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[5].blocks[0][1][2]",
+        "section": "結構、敘事與情感"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-05-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6a37a4b8bd55636e",
+    "chapterId": "essay-16",
+    "category": "structure",
+    "title": "眾裏尋他",
+    "fields": {
+      "內容與作用": "反覆尋覓，熱切焦急，遍尋不見而失落惆悵。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[5].blocks[0][1][3]",
+        "section": "結構、敘事與情感"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-05-00-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-62e7db52e64dd9fe",
+    "chapterId": "essay-16",
+    "category": "structure",
+    "title": "驀然回首",
+    "fields": {
+      "內容與作用": "突然得見，喜出望外、愉悅滿足。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[5].blocks[0][1][4]",
+        "section": "結構、敘事與情感"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-05-00-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7218592bc2c3ca64",
+    "chapterId": "essay-16",
+    "category": "structure",
+    "title": "闌珊處那人",
+    "fields": {
+      "內容與作用": "不在爭妍人群而獨處暗淡角落，凸顯淡泊清高；另說驚喜很快又轉孤清，留幽遠意境。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[5].blocks[0][1][5]",
+        "section": "結構、敘事與情感"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-05-00-05"
+    ],
+    "review": {
+      "status": "interpretation-note",
+      "notes": [
+        "原資料明示另一解讀；須連同語境閱讀。此為文字提示，未判定所有解釋同等成立。"
+      ]
+    }
+  },
+  {
+    "id": "k-1587b1b090810877",
+    "chapterId": "essay-16",
+    "category": "structure",
+    "title": "結構、敘事與情感",
+    "fields": {
+      "內容": "末四句連轉三次：繁華景象之後忽然集中寫尋人；千百次尋覓之後忽然回首得見；以為那人會在熱鬧中心，卻發現在燈火疏落處。視線愈收愈窄，最後全部落在那人的孤高形象上。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[5].blocks[1]",
+        "section": "結構、敘事與情感"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-05-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-36009fff7df0a552",
+    "chapterId": "essay-16",
+    "category": "theme",
+    "title": "主旨、那人形象與不同解釋",
+    "fields": {
+      "內容": "詞面為元夕尋人。常見寄託是以那人不慕繁華、自甘寂寞、孤高耿介，表作者不隨波逐流、不與世俗同流的品格；也可說盼望高潔知己、不滿國家動盪而人們沉醉逸樂苟安。那人與眾女不同：眾女盛裝嫵媚、穿梭擁擠喧鬧人群；她獨站燈火疏落處，不為繁華所動。這是孤高脫俗，不能改成高傲冷漠或若即若離。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[6].blocks[0]",
+        "section": "主旨、那人形象與不同解釋"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-06-00-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8e51d760b6d9bc5d",
+    "chapterId": "essay-16",
+    "category": "theme",
+    "title": "主旨、那人形象與不同解釋",
+    "fields": {
+      "內容": "補充理解：尋人也可讀成追求知己或理想。詞人沒有直接宣布寓意，而是讓繁華人群與闌珊處的那人形成反差；因此，解釋孤高自持時，要從這個反差說起。得見的驚喜與末景的幽靜可以並存。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[6].blocks[1]",
+        "section": "主旨、那人形象與不同解釋"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-06-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4736fe00e8d649d4",
+    "chapterId": "essay-16",
+    "category": "technique",
+    "title": "比喻與想像",
+    "fields": {
+      "具體運用和作用": "春風吹花燈如千樹繁花、又吹落煙花如雨，將東風、燈、煙花扣連，華麗景致變得生動，領起繁盛基調。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[7].blocks[0][1][1]",
+        "section": "手法、感官與例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-07-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fcedbaa1f611b223",
+    "chapterId": "essay-16",
+    "category": "technique",
+    "title": "玉壺比喻",
+    "fields": {
+      "具體運用和作用": "採明月說，以圓狀、晶亮比明月；採燈或漏壺說時，不沿用月之相似點而不交代。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[7].blocks[0][1][2]",
+        "section": "手法、感官與例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-07-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ea309eeed45351f3",
+    "chapterId": "essay-16",
+    "category": "technique",
+    "title": "魚龍形象",
+    "fields": {
+      "具體運用和作用": "以魚龍形狀寫彩燈舞動，列比喻／百戲，可從形象理解；具體名物首先是魚龍形燈。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[7].blocks[0][1][3]",
+        "section": "手法、感官與例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-07-00-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-43b146c2fcba4e4c",
+    "chapterId": "essay-16",
+    "category": "technique",
+    "title": "誇張",
+    "fields": {
+      "具體運用和作用": "花千樹寫燈多；星如雨寫密集璀璨；香滿路誇寫車中衣鬢幽香遍路；千百度寫尋人之切。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[7].blocks[0][1][4]",
+        "section": "手法、感官與例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-07-00-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-476eb7d2d4a16811",
+    "chapterId": "essay-16",
+    "category": "technique",
+    "title": "借代",
+    "fields": {
+      "具體運用和作用": "寶馬雕車帶出富貴人家出遊賞燈；蛾兒雪柳黃金縷以頭飾代華麗女子。物象所指與作用分別交代。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[7].blocks[0][1][5]",
+        "section": "手法、感官與例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-07-00-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-497b974e9c41b202",
+    "chapterId": "essay-16",
+    "category": "technique",
+    "title": "反襯一",
+    "fields": {
+      "具體運用和作用": "盛裝眾女爭妍，反襯那人自甘寂寞、不慕繁華。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[7].blocks[0][1][6]",
+        "section": "手法、感官與例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-07-00-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-175c95771590c276",
+    "chapterId": "essay-16",
+    "category": "technique",
+    "title": "反襯二",
+    "fields": {
+      "具體運用和作用": "燈市繁華熱鬧，反襯闌珊處幽暗冷落，突出那人遠離世俗、孤高清潔。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[7].blocks[0][1][7]",
+        "section": "手法、感官與例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-07-00-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6cf6b373e1babf02",
+    "chapterId": "essay-16",
+    "category": "technique",
+    "title": "直接與間接描寫",
+    "fields": {
+      "具體運用和作用": "直接鋪寫節夜場景、車馬仕女活動；大篇幅盛況間接襯出末句那人形象。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[7].blocks[0][1][8]",
+        "section": "手法、感官與例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-07-00-08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b6683cab05b17d29",
+    "chapterId": "essay-16",
+    "category": "technique",
+    "title": "視覺",
+    "fields": {
+      "具體運用和作用": "花燈、煙花、車馬、月光、魚龍燈、女子頭飾，層層變換。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[7].blocks[0][1][9]",
+        "section": "手法、感官與例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-07-00-09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5a6e546950bc6fbc",
+    "chapterId": "essay-16",
+    "category": "technique",
+    "title": "聽覺",
+    "fields": {
+      "具體運用和作用": "鳳簫聲動、笑語盈盈。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[7].blocks[0][1][10]",
+        "section": "手法、感官與例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-07-00-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-259e2b96cd94bc4d",
+    "chapterId": "essay-16",
+    "category": "technique",
+    "title": "嗅覺",
+    "fields": {
+      "具體運用和作用": "香滿路、暗香去；前者與車馬的視覺合寫，後者隨女子遠去，使動作可感。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[7].blocks[0][1][11]",
+        "section": "手法、感官與例證（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-07-00-11"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d0f1aa446396e008",
+    "chapterId": "essay-16",
+    "category": "technique",
+    "title": "動靜對照",
+    "fields": {
+      "具體運用和作用": "夜放、吹落、車行、聲動、光轉、魚龍舞、暗香去、尋他、回首均動；那人獨立為靜。唯一靜態使前面的動景似退去，讀者視線聚焦那人。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[8].blocks[0][1][1]",
+        "section": "手法、感官與例證（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-08-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-72d4d96777225f4b",
+    "chapterId": "essay-16",
+    "category": "technique",
+    "title": "對偶",
+    "fields": {
+      "具體運用和作用": "「鳳簫聲動，玉壺光轉」聲／光、動／轉相映，節奏整齊。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[8].blocks[0][1][2]",
+        "section": "手法、感官與例證（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-08-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a325784d34ca95e6",
+    "chapterId": "essay-16",
+    "category": "technique",
+    "title": "疊字",
+    "fields": {
+      "具體運用和作用": "「盈盈」寫女子儀態微笑，增輕柔韻味，與全詞清麗描寫相配。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[8].blocks[0][1][3]",
+        "section": "手法、感官與例證（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-08-00-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cecc3780413c895a",
+    "chapterId": "essay-16",
+    "category": "technique",
+    "title": "象徵、自況",
+    "fields": {
+      "具體運用和作用": "那人可寄理想人格或高潔知己，須透過她與繁華的反差論證。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[8].blocks[0][1][4]",
+        "section": "手法、感官與例證（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-08-00-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ecbabcc27688a23e",
+    "chapterId": "essay-16",
+    "category": "technique",
+    "title": "清麗詞藻與白描",
+    "fields": {
+      "具體運用和作用": "寶馬雕車、鳳簫、玉壺、蛾兒雪柳黃金縷、盈盈配繁華景致；末四句純用白描，簡筆勾出孤高形象，詞藻與詞意各相配。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[8].blocks[0][1][5]",
+        "section": "手法、感官與例證（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-08-00-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-365772278b7882ed",
+    "chapterId": "essay-16",
+    "category": "comparison",
+    "title": "共同點",
+    "fields": {
+      "《聲聲慢》": "都由尋覓寫內心需要，景物與尋者感受相連。",
+      "《青玉案》": "都由尋覓寫內心需要，景物與尋者感受相連。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[9].blocks[1][1][1]",
+        "section": "跨篇比較及應用"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-09-01-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d5da18269ae6a25b",
+    "chapterId": "essay-16",
+    "category": "comparison",
+    "title": "所尋與依據",
+    "fields": {
+      "《聲聲慢》": "「尋尋覓覓」沒有點明具體對象，可理解為尋求安慰和精神寄託。",
+      "《青玉案》": "「眾裏尋他千百度」直接寫在人群中尋找那人。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[9].blocks[1][1][2]",
+        "section": "跨篇比較及應用"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-09-01-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-214ec686fea465cb",
+    "chapterId": "essay-16",
+    "category": "comparison",
+    "title": "結果與依據",
+    "fields": {
+      "《聲聲慢》": "接着是「冷冷清清，悽悽慘慘戚戚」，可見未得慰藉。",
+      "《青玉案》": "「驀然迴首，那人卻在、燈火闌珊處」，終於得見。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[9].blocks[1][1][3]",
+        "section": "跨篇比較及應用"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-09-01-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f7a567a81eb8609c",
+    "chapterId": "essay-16",
+    "category": "comparison",
+    "title": "感受",
+    "fields": {
+      "《聲聲慢》": "尋而不得，孤寂與悲愁加深。",
+      "《青玉案》": "反覆尋找後突然得見，形成驚喜；末景又留下幽靜的餘味。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[9].blocks[1][1][4]",
+        "section": "跨篇比較及應用"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-09-01-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ccabdf6c4c9aec10",
+    "chapterId": "essay-16",
+    "category": "technique",
+    "title": "《念奴嬌》",
+    "fields": {
+      "時間、地點、人物與事情": "蘇軾面對赤壁江山，追想三國周瑜的戰功；觀景者生活於北宋。",
+      "關係與情感": "今人懷古，再以英雄反照自己的處境，從仰慕走向自傷、自解。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[9].blocks[3][1][1]",
+        "section": "跨篇比較及應用"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-09-03-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-dc7b2d021abef291",
+    "chapterId": "essay-16",
+    "category": "technique",
+    "title": "《聲聲慢》",
+    "fields": {
+      "時間、地點、人物與事情": "秋日居處，詞人獨自面對酒、雁、黃花、梧桐細雨。",
+      "關係與情感": "眼前景物逐層牽動舊事，愁緒難以排遣。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[9].blocks[3][1][2]",
+        "section": "跨篇比較及應用"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-09-03-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a34e57c666d0e30a",
+    "chapterId": "essay-16",
+    "category": "technique",
+    "title": "《青玉案》",
+    "fields": {
+      "時間、地點、人物與事情": "春天元夕夜的燈市，賞燈人群中尋覓那人。",
+      "關係與情感": "繁華熱鬧與闌珊處相對，突出所尋者的不同。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[9].blocks[3][1][3]",
+        "section": "跨篇比較及應用"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-09-03-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e4d764532b72ff9e",
+    "chapterId": "essay-16",
+    "category": "vocabulary",
+    "title": "宋詞三首：時間、場景與人物如何服務抒情",
+    "fields": {
+      "內容": "共同點是把外在場景變成內心感受的依據；差異在於《念奴嬌》往返古今，《聲聲慢》由眼前觸發往事，《青玉案》沿尋人過程推進。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[9].blocks[4]",
+        "section": "跨篇比較及應用"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-09-04-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a9e625621959432b",
+    "chapterId": "essay-16",
+    "category": "exam",
+    "title": "歷年考查提示",
+    "fields": {
+      "內容": "下表列出歷年考查的知識方向；題目、答案與適用條件見配套考查索引。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[10].blocks[0]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ea78bc7548a41e5d",
+    "chapterId": "essay-16",
+    "category": "exam",
+    "title": "2018",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "摘錄：找到心上人的時刻、地方；情懷與手法：綜合情懷及抒述方式"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[10].blocks[1][1][1]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b3dd67a1aa3eee8f",
+    "chapterId": "essay-16",
+    "category": "theme",
+    "title": "理解補充",
+    "fields": {
+      "內容": "本篇主線以「星」為煙花、「玉壺」為明月；另有花燈、漏壺等解釋。那人可從愛情尋覓理解，也可寄託不隨俗的高潔理想；後者是寓意解讀，不抹去詞面尋人的故事。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[11].blocks[0]",
+        "section": "理解補充"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-11-00-80"
+    ],
+    "review": {
+      "status": "interpretation-note",
+      "notes": [
+        "原資料明示另一解讀；須連同語境閱讀。此為文字提示，未判定所有解釋同等成立。"
+      ]
+    }
+  },
+  {
+    "id": "k-d88d13379932da35",
+    "chapterId": "essay-16",
+    "category": "structure",
+    "title": "章末串連｜重建全文",
+    "fields": {
+      "內容": "前面愈繁華，結尾那人愈突出；全词的重心由滿城燈市逐漸收在一個人身上。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[12].blocks[0]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-12-00-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-06e0b3be25aeb953",
+    "chapterId": "essay-16",
+    "category": "structure",
+    "title": "先寫眾",
+    "fields": {
+      "怎樣連起來": "燈、車、樂、舞與盛裝女子，從多感官建立熱鬧世界。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[12].blocks[1][1][1]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-12-01-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4f122e92b0e93fea",
+    "chapterId": "essay-16",
+    "category": "structure",
+    "title": "再寫尋",
+    "fields": {
+      "怎樣連起來": "千百度寫反覆與熱切，驀然寫發現的突然，形成敘事轉折。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[12].blocks[1][1][2]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-12-01-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8e4aaeff4f5b9465",
+    "chapterId": "essay-16",
+    "category": "structure",
+    "title": "最後定形象",
+    "fields": {
+      "怎樣連起來": "那人在闌珊處，與人群、亮處成反差；孤高自持的寓意由位置和氛圍支撐。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[15].pages[12].blocks[1][1][3]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-12-01-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ce6014e60b1fc733",
+    "chapterId": "essay-16",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "視覺、聽覺和嗅覺共同營造熱鬧；熱鬧寫得充分，才更能反襯最後燈火闌珊處的人。\n千百度極言尋找之多，驀然寫發現的突然。那人不在熱鬧中心，位置上的反差支持其孤高形象。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1917].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1919].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1920].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1923].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1924].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1925].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1926].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1927].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1928].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1929].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1930].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1931].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1932].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1933].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1934].learning.knowledge[2]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1935].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1936].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1937].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1939].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1940].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1941].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1942].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1943].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1944].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1945].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1946].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1947].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1948].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1949].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1950].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1951].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1952].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1953].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1954].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1956].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1957].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1958].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1959].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1960].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1961].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1962].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1963].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1964].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1965].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1966].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1973].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1976].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1977].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1978].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1979].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-00-01-80",
+      "full-c-16-00-05-80",
+      "full-c-16-00-07-80",
+      "full-c-16-03-00-01",
+      "full-c-16-03-00-02",
+      "full-c-16-03-00-04",
+      "full-c-16-03-00-05",
+      "full-c-16-03-00-08",
+      "full-c-16-03-00-10",
+      "full-c-16-03-00-11",
+      "full-c-16-03-00-12",
+      "full-c-16-03-00-13",
+      "full-c-16-03-00-14",
+      "full-c-16-03-00-15",
+      "full-c-16-03-00-17",
+      "full-c-16-03-00-18",
+      "full-c-16-04-00-01",
+      "full-c-16-04-00-02",
+      "full-c-16-04-00-06",
+      "full-c-16-04-00-07",
+      "full-c-16-04-00-08",
+      "full-c-16-04-01-80",
+      "full-c-16-05-00-01",
+      "full-c-16-05-00-02",
+      "full-c-16-05-00-03",
+      "full-c-16-05-00-04",
+      "full-c-16-05-00-05",
+      "full-c-16-05-01-80",
+      "full-c-16-06-00-80",
+      "full-c-16-06-01-80",
+      "full-c-16-07-00-01",
+      "full-c-16-07-00-02",
+      "full-c-16-07-00-03",
+      "full-c-16-07-00-04",
+      "full-c-16-07-00-06",
+      "full-c-16-07-00-07",
+      "full-c-16-07-00-08",
+      "full-c-16-07-00-09",
+      "full-c-16-07-00-10",
+      "full-c-16-07-00-11",
+      "full-c-16-08-00-01",
+      "full-c-16-08-00-02",
+      "full-c-16-08-00-03",
+      "full-c-16-08-00-04",
+      "full-c-16-08-00-05",
+      "full-c-16-09-03-03",
+      "full-c-16-12-00-80",
+      "full-c-16-12-01-01",
+      "full-c-16-12-01-02",
+      "full-c-16-12-01-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c5b3371e258237dd",
+    "chapterId": "essay-16",
+    "category": "technique",
+    "title": "比喻",
+    "fields": {
+      "內容": "比喻把兩種不同而具有相似點的事物聯繫起來。本體是要說明的對象，喻體是用來作比的事物。明喻常用「如、似、猶」等喻詞；暗喻以「是、為」等把兩者連起來；借喻只出現喻體。辨析時須指出相似點和具體作用。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1925].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1929].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1934].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1951].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1952].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1955].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-03-00-04",
+      "full-c-16-03-00-11",
+      "full-c-16-03-00-17",
+      "full-c-16-07-00-01",
+      "full-c-16-07-00-02",
+      "full-c-16-07-00-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b88ba68a98b315e9",
+    "chapterId": "essay-16",
+    "category": "technique",
+    "title": "借代",
+    "fields": {
+      "內容": "借代利用事物之間的關聯，以特徵、部分、材料或相關事物代替本體。比喻依靠相似，借代依靠關聯。答題要說明代指對象及兩者關係。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1934].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1955].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-16-03-00-17",
+      "full-c-16-07-00-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  }
+]

@@ -1,0 +1,6528 @@
+[
+  {
+    "id": "k-dbf6d177d51420a2",
+    "chapterId": "essay-10",
+    "category": "background",
+    "title": "作者與題旨",
+    "fields": {
+      "作者": "蘇洵"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].author",
+        "section": "六國論"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-25543727c59458c4",
+    "chapterId": "essay-10",
+    "category": "theme",
+    "title": "一句話題旨",
+    "fields": {
+      "題旨": "史論與借鑑"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].desc",
+        "section": "六國論"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-dbc68ce7c8deb596",
+    "chapterId": "essay-10",
+    "category": "background",
+    "title": "作者、時代與文體",
+    "fields": {
+      "資料": "蘇洵｜北宋｜史論"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[0].blocks[0]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6506f80e1a3d3227",
+    "chapterId": "essay-10",
+    "category": "theme",
+    "title": "蘇洵｜北宋｜史論",
+    "fields": {
+      "內容": "六國滅亡的關鍵在賂秦；不賂者亦因失去援助而亡，治國者不可被積威脅迫。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[0].blocks[1]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f9024074a6d944cc",
+    "chapterId": "essay-10",
+    "category": "structure",
+    "title": "內容線索",
+    "fields": {
+      "內容": "總論賂秦→賂者力虧→不賂者失援→用才合力→借古諷今"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[0].blocks[3]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f6edd294513ccba6",
+    "chapterId": "essay-10",
+    "category": "theme",
+    "title": "理解關鍵",
+    "fields": {
+      "內容": "齊燕趙的個別敗因和共同失援處境要分開；不是六國全都直接賂秦。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[0].blocks[5]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-25432ad7cf8961c3",
+    "chapterId": "essay-10",
+    "category": "background",
+    "title": "題解與文體",
+    "fields": {
+      "內容": "借六國往事警惕北宋；宋向遼、西夏輸送歲幣，不直接等於割地。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[0].blocks[7]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-81e1baae64afffba",
+    "chapterId": "essay-10",
+    "category": "theme",
+    "title": "句段核心：第1段｜原文與語譯",
+    "fields": {
+      "重點": "先排除兵器、作戰之說，提出賂秦的兩條亡國路徑。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[1].core",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-15eddba948ad04d8",
+    "chapterId": "essay-10",
+    "category": "text",
+    "title": "第1段｜原文與語譯",
+    "fields": {
+      "原文": "六國破滅，非兵不利，戰不善，弊在賂秦。賂秦而力虧，破滅之道也。或曰：「六國互喪，率賂秦耶？」曰：「不賂者以賂者喪。」蓋失強援，不能獨完，故曰「弊在賂秦」也。"
+    },
+    "context": "六國破滅，非兵不利，戰不善，弊在賂秦。賂秦而力虧，破滅之道也。或曰：「六國互喪，率賂秦耶？」曰：「不賂者以賂者喪。」蓋失強援，不能獨完，故曰「弊在賂秦」也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[1].blocks[0]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e10-exp-001",
+      "q-e10-exp-006",
+      "q-appendix-006",
+      "q-appendix-008",
+      "full-b-10-01-03-1",
+      "full-b-10-01-03-2",
+      "full-b-10-01-03-3",
+      "full-b-10-01-03-4",
+      "full-b-10-01-03-5",
+      "full-b-10-01-03-6",
+      "full-b-10-01-03-7",
+      "full-b-10-01-03-8",
+      "full-b-10-01-03-9",
+      "full-b-10-01-00-b",
+      "full-b-10-10-02-3",
+      "full-b-10-10-02-4",
+      "full-b-10-10-02-5",
+      "full-b-10-10-02-6",
+      "full-b-10-10-02-8",
+      "full-b-10-10-02-10",
+      "full-b-10-10-02-11",
+      "full-b-10-10-02-12",
+      "full-b-10-10-02-13",
+      "full-b-10-13-00-1",
+      "full-b-10-13-00-2",
+      "full-b-10-13-00-3",
+      "dse-2025-1a-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-80c2ac586808921f",
+    "chapterId": "essay-10",
+    "category": "text",
+    "title": "第1段｜原文與語譯",
+    "fields": {
+      "語譯": "六國破敗滅亡，不是兵器不鋒利，作戰不得法，弊病在於割地賄賂秦國。賄賂秦國而令自己的國力損耗，這是破敗滅亡的原因啊。有人問：「六國相繼滅亡，全都是因為賄賂秦國嗎？」回答說：「不賄賂秦的國家因為賄賂秦的國家而亡，因失去了強大的援助，自然不能獨個兒保全，所以說弊病就在賄賂秦國。」"
+    },
+    "context": "六國破滅，非兵不利，戰不善，弊在賂秦。賂秦而力虧，破滅之道也。或曰：「六國互喪，率賂秦耶？」曰：「不賂者以賂者喪。」蓋失強援，不能獨完，故曰「弊在賂秦」也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[1].blocks[2]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e10-exp-001",
+      "q-e10-exp-006",
+      "q-appendix-006",
+      "q-appendix-008",
+      "full-b-10-01-03-1",
+      "full-b-10-01-03-2",
+      "full-b-10-01-03-3",
+      "full-b-10-01-03-4",
+      "full-b-10-01-03-5",
+      "full-b-10-01-03-6",
+      "full-b-10-01-03-7",
+      "full-b-10-01-03-8",
+      "full-b-10-01-03-9",
+      "full-b-10-01-00-b",
+      "full-b-10-10-02-3",
+      "full-b-10-10-02-4",
+      "full-b-10-10-02-5",
+      "full-b-10-10-02-6",
+      "full-b-10-10-02-8",
+      "full-b-10-10-02-10",
+      "full-b-10-10-02-11",
+      "full-b-10-10-02-12",
+      "full-b-10-10-02-13",
+      "full-b-10-13-00-1",
+      "full-b-10-13-00-2",
+      "full-b-10-13-00-3",
+      "dse-2025-1a-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6a4d060572020e8c",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "兵",
+    "fields": {
+      "詞義": "兵器"
+    },
+    "context": "六國破滅，非兵不利，戰不善，弊在賂秦。賂秦而力虧，破滅之道也。或曰：「六國互喪，率賂秦耶？」曰：「不賂者以賂者喪。」蓋失強援，不能獨完，故曰「弊在賂秦」也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[1].blocks[3][1][0]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5dd2f59bf1c68f07",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "利",
+    "fields": {
+      "詞義": "鋒利"
+    },
+    "context": "六國破滅，非兵不利，戰不善，弊在賂秦。賂秦而力虧，破滅之道也。或曰：「六國互喪，率賂秦耶？」曰：「不賂者以賂者喪。」蓋失強援，不能獨完，故曰「弊在賂秦」也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[1].blocks[3][1][1]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-01-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-40cee1e15217e095",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "賂",
+    "fields": {
+      "詞義": "割地賄賂"
+    },
+    "context": "六國破滅，非兵不利，戰不善，弊在賂秦。賂秦而力虧，破滅之道也。或曰：「六國互喪，率賂秦耶？」曰：「不賂者以賂者喪。」蓋失強援，不能獨完，故曰「弊在賂秦」也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[1].blocks[3][1][2]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-01-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f68524b0cae004af",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "力虧",
+    "fields": {
+      "詞義": "國力耗損"
+    },
+    "context": "六國破滅，非兵不利，戰不善，弊在賂秦。賂秦而力虧，破滅之道也。或曰：「六國互喪，率賂秦耶？」曰：「不賂者以賂者喪。」蓋失強援，不能獨完，故曰「弊在賂秦」也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[1].blocks[3][1][3]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-01-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a1cc3f3463101e2a",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "道",
+    "fields": {
+      "詞義": "原因"
+    },
+    "context": "六國破滅，非兵不利，戰不善，弊在賂秦。賂秦而力虧，破滅之道也。或曰：「六國互喪，率賂秦耶？」曰：「不賂者以賂者喪。」蓋失強援，不能獨完，故曰「弊在賂秦」也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[1].blocks[3][1][4]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-01-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-10509617dab0b41b",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "或",
+    "fields": {
+      "詞義": "有人"
+    },
+    "context": "六國破滅，非兵不利，戰不善，弊在賂秦。賂秦而力虧，破滅之道也。或曰：「六國互喪，率賂秦耶？」曰：「不賂者以賂者喪。」蓋失強援，不能獨完，故曰「弊在賂秦」也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[1].blocks[3][1][5]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-01-03-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0990d0b2083ad59d",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "互喪",
+    "fields": {
+      "詞義": "相繼滅亡"
+    },
+    "context": "六國破滅，非兵不利，戰不善，弊在賂秦。賂秦而力虧，破滅之道也。或曰：「六國互喪，率賂秦耶？」曰：「不賂者以賂者喪。」蓋失強援，不能獨完，故曰「弊在賂秦」也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[1].blocks[3][1][6]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-01-03-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-04af25d8d3ed0fd1",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "率",
+    "fields": {
+      "詞義": "全都"
+    },
+    "context": "六國破滅，非兵不利，戰不善，弊在賂秦。賂秦而力虧，破滅之道也。或曰：「六國互喪，率賂秦耶？」曰：「不賂者以賂者喪。」蓋失強援，不能獨完，故曰「弊在賂秦」也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[1].blocks[3][1][7]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-01-03-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-334c56ec27f6b7f0",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "以",
+    "fields": {
+      "詞義": "因為"
+    },
+    "context": "六國破滅，非兵不利，戰不善，弊在賂秦。賂秦而力虧，破滅之道也。或曰：「六國互喪，率賂秦耶？」曰：「不賂者以賂者喪。」蓋失強援，不能獨完，故曰「弊在賂秦」也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[1].blocks[3][1][8]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-01-03-8"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-797891106f1316eb",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "完",
+    "fields": {
+      "詞義": "保全"
+    },
+    "context": "六國破滅，非兵不利，戰不善，弊在賂秦。賂秦而力虧，破滅之道也。或曰：「六國互喪，率賂秦耶？」曰：「不賂者以賂者喪。」蓋失強援，不能獨完，故曰「弊在賂秦」也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[1].blocks[3][1][9]",
+        "section": "第1段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-01-03-9"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d80eac84f55c7916",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "語譯",
+    "fields": {
+      "內容": "割地者國力耗損；不割地者失去援國而難獨存。設問預先處理「是否全都賂秦」的疑問，使論述更周密。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[1].blocks[4]",
+        "section": "第1段｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[160].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[165].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[213].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[215].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[854].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[855].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[856].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[857].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[858].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[859].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[860].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[861].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[862].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[923].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1161].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1162].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1163].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1164].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1165].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1166].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1167].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1168].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1169].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1228].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1229].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1230].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e10-exp-001",
+      "q-e10-exp-006",
+      "q-appendix-006",
+      "q-appendix-008",
+      "full-b-10-01-03-1",
+      "full-b-10-01-03-2",
+      "full-b-10-01-03-3",
+      "full-b-10-01-03-4",
+      "full-b-10-01-03-5",
+      "full-b-10-01-03-6",
+      "full-b-10-01-03-7",
+      "full-b-10-01-03-8",
+      "full-b-10-01-03-9",
+      "full-b-10-01-00-b",
+      "full-b-10-10-02-3",
+      "full-b-10-10-02-4",
+      "full-b-10-10-02-5",
+      "full-b-10-10-02-6",
+      "full-b-10-10-02-8",
+      "full-b-10-10-02-10",
+      "full-b-10-10-02-11",
+      "full-b-10-10-02-12",
+      "full-b-10-10-02-13",
+      "full-b-10-13-00-1",
+      "full-b-10-13-00-2",
+      "full-b-10-13-00-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a776b5da1af19a0d",
+    "chapterId": "essay-10",
+    "category": "theme",
+    "title": "句段核心：第2段｜原文與語譯 1",
+    "fields": {
+      "重點": "有限土地滿足不了秦國無限貪欲，割地只會助長侵略。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[2].core",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3a07bf9a04884fc5",
+    "chapterId": "essay-10",
+    "category": "text",
+    "title": "第2段｜原文與語譯 1",
+    "fields": {
+      "原文": "秦以攻取之外，小則獲邑，大則得城，較秦之所得與戰勝而得者，其實百倍；諸侯之所亡與戰敗而亡者，其實亦百倍。則秦之所大欲，諸侯之所大患，固不在戰矣。思厥先祖父，暴霜露，斬荊棘，以有尺寸之地。子孫視之不甚惜，舉以予人，如棄草芥。"
+    },
+    "context": "秦以攻取之外，小則獲邑，大則得城，較秦之所得與戰勝而得者，其實百倍；諸侯之所亡與戰敗而亡者，其實亦百倍。則秦之所大欲，諸侯之所大患，固不在戰矣。思厥先祖父，暴霜露，斬荊棘，以有尺寸之地。子孫視之不甚惜，舉以予人，如棄草芥。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[2].blocks[0]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "q-e10-exp-002",
+      "full-b-10-02-03-0",
+      "full-b-10-02-03-1",
+      "full-b-10-02-03-2",
+      "full-b-10-02-03-3",
+      "full-b-10-02-03-4",
+      "full-b-10-02-03-5",
+      "full-b-10-02-03-6",
+      "full-b-10-02-03-8",
+      "full-b-10-02-00-b",
+      "full-b-10-10-02-14",
+      "full-b-10-10-02-15",
+      "full-b-10-10-02-16",
+      "full-b-10-10-02-17",
+      "full-b-10-10-02-18",
+      "full-b-10-10-02-19",
+      "full-b-10-10-02-20",
+      "full-b-10-10-02-21",
+      "full-b-10-10-02-22",
+      "full-b-10-10-02-24",
+      "full-b-10-10-02-25",
+      "full-b-10-10-02-26",
+      "full-b-10-10-02-27",
+      "full-b-10-10-02-28",
+      "full-b-10-10-02-29",
+      "full-b-10-13-00-4",
+      "full-b-10-13-00-5",
+      "full-b-10-14-00-1",
+      "full-b-10-14-00-4",
+      "full-b-10-14-00-5",
+      "full-b-10-14-00-9",
+      "full-b-10-15-00-1",
+      "full-b-10-15-00-2",
+      "full-b-10-15-00-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d46b9fdbd0d7733d",
+    "chapterId": "essay-10",
+    "category": "text",
+    "title": "第2段｜原文與語譯 1",
+    "fields": {
+      "語譯": "秦國用武力奪取土地之外，小則得到城邑，大則得到城池。秦國受賄賂得到的土地，跟戰勝而得到的土地相比，實際要多百倍；六國賄賂秦國所喪失的土地，跟戰敗而喪失的土地相比，實際也多百倍；那麼秦國最大的慾望，六國最大的禍患，根本就不在於戰爭了。六國的祖輩，冒着風霜雨露，披荊斬棘，才佔有很少的一點土地。子孫卻不怎麼愛惜這些土地，把土地全部送給別人，好像拋棄小草一樣。"
+    },
+    "context": "秦以攻取之外，小則獲邑，大則得城，較秦之所得與戰勝而得者，其實百倍；諸侯之所亡與戰敗而亡者，其實亦百倍。則秦之所大欲，諸侯之所大患，固不在戰矣。思厥先祖父，暴霜露，斬荊棘，以有尺寸之地。子孫視之不甚惜，舉以予人，如棄草芥。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[2].blocks[2]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "q-e10-exp-002",
+      "full-b-10-02-03-0",
+      "full-b-10-02-03-1",
+      "full-b-10-02-03-2",
+      "full-b-10-02-03-3",
+      "full-b-10-02-03-4",
+      "full-b-10-02-03-5",
+      "full-b-10-02-03-6",
+      "full-b-10-02-03-8",
+      "full-b-10-02-00-b",
+      "full-b-10-10-02-14",
+      "full-b-10-10-02-15",
+      "full-b-10-10-02-16",
+      "full-b-10-10-02-17",
+      "full-b-10-10-02-18",
+      "full-b-10-10-02-19",
+      "full-b-10-10-02-20",
+      "full-b-10-10-02-21",
+      "full-b-10-10-02-22",
+      "full-b-10-10-02-24",
+      "full-b-10-10-02-25",
+      "full-b-10-10-02-26",
+      "full-b-10-10-02-27",
+      "full-b-10-10-02-28",
+      "full-b-10-10-02-29",
+      "full-b-10-13-00-4",
+      "full-b-10-13-00-5",
+      "full-b-10-14-00-1",
+      "full-b-10-14-00-4",
+      "full-b-10-14-00-5",
+      "full-b-10-14-00-9",
+      "full-b-10-15-00-1",
+      "full-b-10-15-00-2",
+      "full-b-10-15-00-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f8c961db658f91d3",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "邑",
+    "fields": {
+      "詞義": "小城邑"
+    },
+    "context": "秦以攻取之外，小則獲邑，大則得城，較秦之所得與戰勝而得者，其實百倍；諸侯之所亡與戰敗而亡者，其實亦百倍。則秦之所大欲，諸侯之所大患，固不在戰矣。思厥先祖父，暴霜露，斬荊棘，以有尺寸之地。子孫視之不甚惜，舉以予人，如棄草芥。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[2].blocks[3][1][0]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-02-03-0"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3f86acdbbbe179ad",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "其實",
+    "fields": {
+      "詞義": "實際上數量"
+    },
+    "context": "秦以攻取之外，小則獲邑，大則得城，較秦之所得與戰勝而得者，其實百倍；諸侯之所亡與戰敗而亡者，其實亦百倍。則秦之所大欲，諸侯之所大患，固不在戰矣。思厥先祖父，暴霜露，斬荊棘，以有尺寸之地。子孫視之不甚惜，舉以予人，如棄草芥。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[2].blocks[3][1][1]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-02-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-01cb1fdd9c4ce6e4",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "亡",
+    "fields": {
+      "詞義": "失去"
+    },
+    "context": "秦以攻取之外，小則獲邑，大則得城，較秦之所得與戰勝而得者，其實百倍；諸侯之所亡與戰敗而亡者，其實亦百倍。則秦之所大欲，諸侯之所大患，固不在戰矣。思厥先祖父，暴霜露，斬荊棘，以有尺寸之地。子孫視之不甚惜，舉以予人，如棄草芥。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[2].blocks[3][1][2]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-02-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4ee563853b881189",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "固",
+    "fields": {
+      "詞義": "本來"
+    },
+    "context": "秦以攻取之外，小則獲邑，大則得城，較秦之所得與戰勝而得者，其實百倍；諸侯之所亡與戰敗而亡者，其實亦百倍。則秦之所大欲，諸侯之所大患，固不在戰矣。思厥先祖父，暴霜露，斬荊棘，以有尺寸之地。子孫視之不甚惜，舉以予人，如棄草芥。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[2].blocks[3][1][3]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-02-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c769804a01407b99",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "厥",
+    "fields": {
+      "詞義": "其，他們的"
+    },
+    "context": "秦以攻取之外，小則獲邑，大則得城，較秦之所得與戰勝而得者，其實百倍；諸侯之所亡與戰敗而亡者，其實亦百倍。則秦之所大欲，諸侯之所大患，固不在戰矣。思厥先祖父，暴霜露，斬荊棘，以有尺寸之地。子孫視之不甚惜，舉以予人，如棄草芥。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[2].blocks[3][1][4]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-02-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f91139900989bc1b",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "先祖父",
+    "fields": {
+      "詞義": "祖輩父輩"
+    },
+    "context": "秦以攻取之外，小則獲邑，大則得城，較秦之所得與戰勝而得者，其實百倍；諸侯之所亡與戰敗而亡者，其實亦百倍。則秦之所大欲，諸侯之所大患，固不在戰矣。思厥先祖父，暴霜露，斬荊棘，以有尺寸之地。子孫視之不甚惜，舉以予人，如棄草芥。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[2].blocks[3][1][5]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-02-03-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4c0be4cfe61694c7",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "暴",
+    "fields": {
+      "詞義": "冒着"
+    },
+    "context": "秦以攻取之外，小則獲邑，大則得城，較秦之所得與戰勝而得者，其實百倍；諸侯之所亡與戰敗而亡者，其實亦百倍。則秦之所大欲，諸侯之所大患，固不在戰矣。思厥先祖父，暴霜露，斬荊棘，以有尺寸之地。子孫視之不甚惜，舉以予人，如棄草芥。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[2].blocks[3][1][6]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-02-03-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-44bd5937e7b810c1",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "舉",
+    "fields": {
+      "詞義": "全部拿出"
+    },
+    "context": "秦以攻取之外，小則獲邑，大則得城，較秦之所得與戰勝而得者，其實百倍；諸侯之所亡與戰敗而亡者，其實亦百倍。則秦之所大欲，諸侯之所大患，固不在戰矣。思厥先祖父，暴霜露，斬荊棘，以有尺寸之地。子孫視之不甚惜，舉以予人，如棄草芥。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[2].blocks[3][1][7]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-eca10ae8f8d01ab6",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "草芥",
+    "fields": {
+      "詞義": "小草"
+    },
+    "context": "秦以攻取之外，小則獲邑，大則得城，較秦之所得與戰勝而得者，其實百倍；諸侯之所亡與戰敗而亡者，其實亦百倍。則秦之所大欲，諸侯之所大患，固不在戰矣。思厥先祖父，暴霜露，斬荊棘，以有尺寸之地。子孫視之不甚惜，舉以予人，如棄草芥。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[2].blocks[3][1][8]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-02-03-8"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-64ce2adafe61a1de",
+    "chapterId": "essay-10",
+    "category": "theme",
+    "title": "句段核心：第2段｜原文與語譯 2",
+    "fields": {
+      "重點": "有限土地滿足不了秦國無限貪欲，割地只會助長侵略。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[3].core",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-92bc28888a9a9ccc",
+    "chapterId": "essay-10",
+    "category": "text",
+    "title": "第2段｜原文與語譯 2",
+    "fields": {
+      "原文": "今日割五城，明日割十城，然後得一夕安寢；起視四境，而秦兵又至矣。然則諸侯之地有限，暴秦之欲無厭，奉之彌繁，侵之愈急，故不戰而強弱勝負已判矣。至於顛覆，理固宜然。古人云：「以地事秦，猶抱薪救火，薪不盡，火不滅。」此言得之。"
+    },
+    "context": "今日割五城，明日割十城，然後得一夕安寢；起視四境，而秦兵又至矣。然則諸侯之地有限，暴秦之欲無厭，奉之彌繁，侵之愈急，故不戰而強弱勝負已判矣。至於顛覆，理固宜然。古人云：「以地事秦，猶抱薪救火，薪不盡，火不滅。」此言得之。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[3].blocks[0]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "q-e10-exp-003",
+      "q-e10-exp-008",
+      "full-b-10-03-03-0",
+      "full-b-10-03-03-1",
+      "full-b-10-03-03-3",
+      "full-b-10-03-03-4",
+      "full-b-10-03-03-5",
+      "full-b-10-03-03-6",
+      "full-b-10-03-03-7",
+      "full-b-10-03-00-b",
+      "full-b-10-10-01-9",
+      "full-b-10-10-02-31",
+      "full-b-10-10-02-32",
+      "full-b-10-10-02-33",
+      "full-b-10-10-02-34",
+      "full-b-10-10-02-35",
+      "full-b-10-10-02-37",
+      "full-b-10-13-00-6",
+      "full-b-10-13-00-7",
+      "full-b-10-13-00-8",
+      "full-b-10-13-00-9",
+      "full-b-10-14-00-6",
+      "full-b-10-15-00-1",
+      "full-b-10-15-00-3",
+      "dse-2020-1a-5-i"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b828f6d88d19f5f7",
+    "chapterId": "essay-10",
+    "category": "text",
+    "title": "第2段｜原文與語譯 2",
+    "fields": {
+      "語譯": "今天割讓五座城池，明天割讓十座城池，然後才換得一夜的安睡。可是起來看看四周邊境，秦國的軍隊又來了。但是六國的土地有限，強暴的秦國的貪慾無窮，你送給他愈多，他侵略你就愈厲害，所以不用戰爭，誰強誰弱，誰勝誰負已能清楚分辨了。終於弄到滅亡的結局，是順理成章的。古人說：「拿土地侍奉秦國，就好比抱着木柴去救火，柴沒燒完，火不熄滅。」這話真有道理。"
+    },
+    "context": "今日割五城，明日割十城，然後得一夕安寢；起視四境，而秦兵又至矣。然則諸侯之地有限，暴秦之欲無厭，奉之彌繁，侵之愈急，故不戰而強弱勝負已判矣。至於顛覆，理固宜然。古人云：「以地事秦，猶抱薪救火，薪不盡，火不滅。」此言得之。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[3].blocks[2]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "q-e10-exp-003",
+      "q-e10-exp-008",
+      "full-b-10-03-03-0",
+      "full-b-10-03-03-1",
+      "full-b-10-03-03-3",
+      "full-b-10-03-03-4",
+      "full-b-10-03-03-5",
+      "full-b-10-03-03-6",
+      "full-b-10-03-03-7",
+      "full-b-10-03-00-b",
+      "full-b-10-10-01-9",
+      "full-b-10-10-02-31",
+      "full-b-10-10-02-32",
+      "full-b-10-10-02-33",
+      "full-b-10-10-02-34",
+      "full-b-10-10-02-35",
+      "full-b-10-10-02-37",
+      "full-b-10-13-00-6",
+      "full-b-10-13-00-7",
+      "full-b-10-13-00-8",
+      "full-b-10-13-00-9",
+      "full-b-10-14-00-6",
+      "full-b-10-15-00-1",
+      "full-b-10-15-00-3",
+      "dse-2020-1a-5-i"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0a898c2b88d091eb",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "然後",
+    "fields": {
+      "詞義": "這樣以後"
+    },
+    "context": "今日割五城，明日割十城，然後得一夕安寢；起視四境，而秦兵又至矣。然則諸侯之地有限，暴秦之欲無厭，奉之彌繁，侵之愈急，故不戰而強弱勝負已判矣。至於顛覆，理固宜然。古人云：「以地事秦，猶抱薪救火，薪不盡，火不滅。」此言得之。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[3].blocks[3][1][0]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-03-03-0"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-921394f2e9b426fd",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "兵",
+    "fields": {
+      "詞義": "軍隊"
+    },
+    "context": "今日割五城，明日割十城，然後得一夕安寢；起視四境，而秦兵又至矣。然則諸侯之地有限，暴秦之欲無厭，奉之彌繁，侵之愈急，故不戰而強弱勝負已判矣。至於顛覆，理固宜然。古人云：「以地事秦，猶抱薪救火，薪不盡，火不滅。」此言得之。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[3].blocks[3][1][1]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-03-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8953b1f08a7e1945",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "厭",
+    "fields": {
+      "詞義": "滿足"
+    },
+    "context": "今日割五城，明日割十城，然後得一夕安寢；起視四境，而秦兵又至矣。然則諸侯之地有限，暴秦之欲無厭，奉之彌繁，侵之愈急，故不戰而強弱勝負已判矣。至於顛覆，理固宜然。古人云：「以地事秦，猶抱薪救火，薪不盡，火不滅。」此言得之。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[3].blocks[3][1][2]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-764a163717346b7f",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "彌",
+    "fields": {
+      "詞義": "更加"
+    },
+    "context": "今日割五城，明日割十城，然後得一夕安寢；起視四境，而秦兵又至矣。然則諸侯之地有限，暴秦之欲無厭，奉之彌繁，侵之愈急，故不戰而強弱勝負已判矣。至於顛覆，理固宜然。古人云：「以地事秦，猶抱薪救火，薪不盡，火不滅。」此言得之。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[3].blocks[3][1][3]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-03-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8a9e4912e7e83f3e",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "判",
+    "fields": {
+      "詞義": "判定、分明"
+    },
+    "context": "今日割五城，明日割十城，然後得一夕安寢；起視四境，而秦兵又至矣。然則諸侯之地有限，暴秦之欲無厭，奉之彌繁，侵之愈急，故不戰而強弱勝負已判矣。至於顛覆，理固宜然。古人云：「以地事秦，猶抱薪救火，薪不盡，火不滅。」此言得之。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[3].blocks[3][1][4]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-03-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b39da0c339a78658",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "顛覆",
+    "fields": {
+      "詞義": "滅亡"
+    },
+    "context": "今日割五城，明日割十城，然後得一夕安寢；起視四境，而秦兵又至矣。然則諸侯之地有限，暴秦之欲無厭，奉之彌繁，侵之愈急，故不戰而強弱勝負已判矣。至於顛覆，理固宜然。古人云：「以地事秦，猶抱薪救火，薪不盡，火不滅。」此言得之。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[3].blocks[3][1][5]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-03-03-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0646c5a89c48c301",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "固",
+    "fields": {
+      "詞義": "本來"
+    },
+    "context": "今日割五城，明日割十城，然後得一夕安寢；起視四境，而秦兵又至矣。然則諸侯之地有限，暴秦之欲無厭，奉之彌繁，侵之愈急，故不戰而強弱勝負已判矣。至於顛覆，理固宜然。古人云：「以地事秦，猶抱薪救火，薪不盡，火不滅。」此言得之。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[3].blocks[3][1][6]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-03-03-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c183774bafe99151",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "薪",
+    "fields": {
+      "詞義": "柴草"
+    },
+    "context": "今日割五城，明日割十城，然後得一夕安寢；起視四境，而秦兵又至矣。然則諸侯之地有限，暴秦之欲無厭，奉之彌繁，侵之愈急，故不戰而強弱勝負已判矣。至於顛覆，理固宜然。古人云：「以地事秦，猶抱薪救火，薪不盡，火不滅。」此言得之。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[3].blocks[3][1][7]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-03-03-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0f03cbb7d229b127",
+    "chapterId": "essay-10",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "祖先取得土地艱辛，子孫卻輕易送出；割地多而安寧短。「抱薪救火」以柴助火，具體說明方法令禍患加劇。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[3].blocks[4]",
+        "section": "第2段｜原文與語譯 2"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[162].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[167].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[871].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[872].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[873].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[874].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[875].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[876].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[877].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[925].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1160].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1185].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1186].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1187].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1188].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1189].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1190].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1233].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1234].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1235].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1236].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1242].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1247].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1249].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2139].learning.knowledge[2]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e10-exp-003",
+      "q-e10-exp-008",
+      "full-b-10-03-03-0",
+      "full-b-10-03-03-1",
+      "full-b-10-03-03-3",
+      "full-b-10-03-03-4",
+      "full-b-10-03-03-5",
+      "full-b-10-03-03-6",
+      "full-b-10-03-03-7",
+      "full-b-10-03-00-b",
+      "full-b-10-10-01-9",
+      "full-b-10-10-02-31",
+      "full-b-10-10-02-32",
+      "full-b-10-10-02-33",
+      "full-b-10-10-02-34",
+      "full-b-10-10-02-35",
+      "full-b-10-10-02-37",
+      "full-b-10-13-00-6",
+      "full-b-10-13-00-7",
+      "full-b-10-13-00-8",
+      "full-b-10-13-00-9",
+      "full-b-10-14-00-6",
+      "full-b-10-15-00-1",
+      "full-b-10-15-00-3",
+      "dse-2020-1a-5-i"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e4b835bb08ec8149",
+    "chapterId": "essay-10",
+    "category": "theme",
+    "title": "句段核心：第3段｜原文與語譯 1",
+    "fields": {
+      "重點": "齊燕趙各有失策，又同處失援孤危之境。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[4].core",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-24831f7cb30adceb",
+    "chapterId": "essay-10",
+    "category": "text",
+    "title": "第3段｜原文與語譯 1",
+    "fields": {
+      "原文": "齊人未嘗賂秦，終繼五國遷滅，何哉？與嬴而不助五國也。五國既喪，齊亦不免矣。燕趙之君，始有遠略，能守其土，義不賂秦。是故燕雖小國而後亡，斯用兵之效也。至丹以荊卿為計，始速禍焉。"
+    },
+    "context": "齊人未嘗賂秦，終繼五國遷滅，何哉？與嬴而不助五國也。五國既喪，齊亦不免矣。燕趙之君，始有遠略，能守其土，義不賂秦。是故燕雖小國而後亡，斯用兵之效也。至丹以荊卿為計，始速禍焉。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[4].blocks[0]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-04-03-0",
+      "full-b-10-04-03-1",
+      "full-b-10-04-03-2",
+      "full-b-10-04-03-3",
+      "full-b-10-04-03-4",
+      "full-b-10-04-03-5",
+      "full-b-10-04-00-b",
+      "full-b-10-10-01-3",
+      "full-b-10-10-01-4",
+      "full-b-10-11-00-1",
+      "full-b-10-11-00-2",
+      "full-b-10-11-00-3",
+      "full-b-10-11-00-4",
+      "full-b-10-11-00-5",
+      "full-b-10-11-00-6",
+      "full-b-10-11-00-7",
+      "full-b-10-11-00-8",
+      "full-b-10-13-00-2",
+      "full-b-10-14-00-2",
+      "full-b-10-14-00-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f3bc4c4989aefd05",
+    "chapterId": "essay-10",
+    "category": "text",
+    "title": "第3段｜原文與語譯 1",
+    "fields": {
+      "語譯": "齊國從來不曾賄賂秦國，最後也隨着五國滅亡，為甚麼呢？這是親附秦國而不幫助五國的緣故。五國已經滅亡，齊國也就不能倖免了。燕國、趙國的國君，起初還有遠大的謀略，能守住自己的國土，堅持原則不賄賂秦國。所以燕國雖然是小國而能較後才滅亡，這就是用兵的效果。到了太子丹以荊軻刺秦王作為對付秦的策略，才招致滅亡的禍患。"
+    },
+    "context": "齊人未嘗賂秦，終繼五國遷滅，何哉？與嬴而不助五國也。五國既喪，齊亦不免矣。燕趙之君，始有遠略，能守其土，義不賂秦。是故燕雖小國而後亡，斯用兵之效也。至丹以荊卿為計，始速禍焉。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[4].blocks[2]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-04-03-0",
+      "full-b-10-04-03-1",
+      "full-b-10-04-03-2",
+      "full-b-10-04-03-3",
+      "full-b-10-04-03-4",
+      "full-b-10-04-03-5",
+      "full-b-10-04-00-b",
+      "full-b-10-10-01-3",
+      "full-b-10-10-01-4",
+      "full-b-10-11-00-1",
+      "full-b-10-11-00-2",
+      "full-b-10-11-00-3",
+      "full-b-10-11-00-4",
+      "full-b-10-11-00-5",
+      "full-b-10-11-00-6",
+      "full-b-10-11-00-7",
+      "full-b-10-11-00-8",
+      "full-b-10-13-00-2",
+      "full-b-10-14-00-2",
+      "full-b-10-14-00-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8ca8c168192ead68",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "賂",
+    "fields": {
+      "詞義": "割地賄賂"
+    },
+    "context": "齊人未嘗賂秦，終繼五國遷滅，何哉？與嬴而不助五國也。五國既喪，齊亦不免矣。燕趙之君，始有遠略，能守其土，義不賂秦。是故燕雖小國而後亡，斯用兵之效也。至丹以荊卿為計，始速禍焉。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[4].blocks[3][1][0]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-04-03-0"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f931a0825122bedd",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "與",
+    "fields": {
+      "詞義": "親附"
+    },
+    "context": "齊人未嘗賂秦，終繼五國遷滅，何哉？與嬴而不助五國也。五國既喪，齊亦不免矣。燕趙之君，始有遠略，能守其土，義不賂秦。是故燕雖小國而後亡，斯用兵之效也。至丹以荊卿為計，始速禍焉。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[4].blocks[3][1][1]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-04-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2d08598031416e6c",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "義",
+    "fields": {
+      "詞義": "守義，堅持原則"
+    },
+    "context": "齊人未嘗賂秦，終繼五國遷滅，何哉？與嬴而不助五國也。五國既喪，齊亦不免矣。燕趙之君，始有遠略，能守其土，義不賂秦。是故燕雖小國而後亡，斯用兵之效也。至丹以荊卿為計，始速禍焉。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[4].blocks[3][1][2]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-04-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c5d5ae89d913bc22",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "亡",
+    "fields": {
+      "詞義": "滅亡"
+    },
+    "context": "齊人未嘗賂秦，終繼五國遷滅，何哉？與嬴而不助五國也。五國既喪，齊亦不免矣。燕趙之君，始有遠略，能守其土，義不賂秦。是故燕雖小國而後亡，斯用兵之效也。至丹以荊卿為計，始速禍焉。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[4].blocks[3][1][3]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-04-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a066bbab42e12c8d",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "兵",
+    "fields": {
+      "詞義": "軍隊；用兵指用兵作戰"
+    },
+    "context": "齊人未嘗賂秦，終繼五國遷滅，何哉？與嬴而不助五國也。五國既喪，齊亦不免矣。燕趙之君，始有遠略，能守其土，義不賂秦。是故燕雖小國而後亡，斯用兵之效也。至丹以荊卿為計，始速禍焉。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[4].blocks[3][1][4]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-04-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-63cdeebd8fd8ff9b",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "速",
+    "fields": {
+      "詞義": "招致"
+    },
+    "context": "齊人未嘗賂秦，終繼五國遷滅，何哉？與嬴而不助五國也。五國既喪，齊亦不免矣。燕趙之君，始有遠略，能守其土，義不賂秦。是故燕雖小國而後亡，斯用兵之效也。至丹以荊卿為計，始速禍焉。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[4].blocks[3][1][5]",
+        "section": "第3段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-04-03-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e003606a3c21344b",
+    "chapterId": "essay-10",
+    "category": "theme",
+    "title": "句段核心：第3段｜原文與語譯 2",
+    "fields": {
+      "重點": "齊燕趙各有失策，又同處失援孤危之境。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[5].core",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ee0078d8857a7b36",
+    "chapterId": "essay-10",
+    "category": "text",
+    "title": "第3段｜原文與語譯 2",
+    "fields": {
+      "原文": "趙嘗五戰于秦，二敗而三勝；後秦擊趙者再，李牧連卻之；洎牧以讒誅，邯鄲為郡，惜其用武而不終也。且燕趙處秦革滅殆盡之際，可謂智力孤危，戰敗而亡，誠不得已。向使三國各愛其地，齊人勿附於秦，刺客不行，良將猶在，則勝負之數，存亡之理，當與秦相較，或未易量。"
+    },
+    "context": "趙嘗五戰于秦，二敗而三勝；後秦擊趙者再，李牧連卻之；洎牧以讒誅，邯鄲為郡，惜其用武而不終也。且燕趙處秦革滅殆盡之際，可謂智力孤危，戰敗而亡，誠不得已。向使三國各愛其地，齊人勿附於秦，刺客不行，良將猶在，則勝負之數，存亡之理，當與秦相較，或未易量。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[5].blocks[0]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "q-e10-exp-004",
+      "full-b-10-05-03-1",
+      "full-b-10-05-03-2",
+      "full-b-10-05-03-3",
+      "full-b-10-05-03-4",
+      "full-b-10-05-03-5",
+      "full-b-10-05-03-6",
+      "full-b-10-05-03-7",
+      "full-b-10-05-03-8",
+      "full-b-10-05-03-9",
+      "full-b-10-05-00-b",
+      "full-b-10-10-01-2",
+      "full-b-10-10-01-5",
+      "full-b-10-11-00-9",
+      "full-b-10-11-00-10",
+      "full-b-10-11-00-11",
+      "full-b-10-11-00-12",
+      "full-b-10-11-00-13",
+      "full-b-10-11-00-14",
+      "full-b-10-11-00-15",
+      "full-b-10-11-00-16",
+      "full-b-10-11-00-17",
+      "full-b-10-11-00-18",
+      "full-b-10-11-00-19",
+      "full-b-10-11-00-20",
+      "full-b-10-11-00-21",
+      "full-b-10-11-00-22",
+      "full-b-10-11-00-23",
+      "full-b-10-11-00-25",
+      "full-b-10-14-00-2",
+      "full-b-10-14-00-3",
+      "full-b-10-14-00-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8b49bd0134cf1a55",
+    "chapterId": "essay-10",
+    "category": "text",
+    "title": "第3段｜原文與語譯 2",
+    "fields": {
+      "語譯": "趙國曾五次跟秦國作戰，兩次失敗而三次勝利。後來秦國兩次攻打趙國，李牧接連擊退了秦軍。及至李牧因遭受讒言誣陷而被殺，邯鄲就變成秦國的一個郡了，真可惜趙國用武力抗秦卻不能堅持到底。況且燕、趙兩國處於秦國快要把其他國家消滅淨盡的時候，可說智謀和軍力都很單薄，被打敗而亡國，確實是不得已的事。假使三國都愛惜自己的國土，齊國人不要去親附秦國，荊軻不去刺秦王，李牧這樣的良將還在，那麼勝敗的運數，存亡的因素，假使跟秦國相比，或許還不容易估量。"
+    },
+    "context": "趙嘗五戰于秦，二敗而三勝；後秦擊趙者再，李牧連卻之；洎牧以讒誅，邯鄲為郡，惜其用武而不終也。且燕趙處秦革滅殆盡之際，可謂智力孤危，戰敗而亡，誠不得已。向使三國各愛其地，齊人勿附於秦，刺客不行，良將猶在，則勝負之數，存亡之理，當與秦相較，或未易量。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[5].blocks[2]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "q-e10-exp-004",
+      "full-b-10-05-03-1",
+      "full-b-10-05-03-2",
+      "full-b-10-05-03-3",
+      "full-b-10-05-03-4",
+      "full-b-10-05-03-5",
+      "full-b-10-05-03-6",
+      "full-b-10-05-03-7",
+      "full-b-10-05-03-8",
+      "full-b-10-05-03-9",
+      "full-b-10-05-00-b",
+      "full-b-10-10-01-2",
+      "full-b-10-10-01-5",
+      "full-b-10-11-00-9",
+      "full-b-10-11-00-10",
+      "full-b-10-11-00-11",
+      "full-b-10-11-00-12",
+      "full-b-10-11-00-13",
+      "full-b-10-11-00-14",
+      "full-b-10-11-00-15",
+      "full-b-10-11-00-16",
+      "full-b-10-11-00-17",
+      "full-b-10-11-00-18",
+      "full-b-10-11-00-19",
+      "full-b-10-11-00-20",
+      "full-b-10-11-00-21",
+      "full-b-10-11-00-22",
+      "full-b-10-11-00-23",
+      "full-b-10-11-00-25",
+      "full-b-10-14-00-2",
+      "full-b-10-14-00-3",
+      "full-b-10-14-00-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0005b87e93beae12",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "再",
+    "fields": {
+      "詞義": "兩次"
+    },
+    "context": "趙嘗五戰于秦，二敗而三勝；後秦擊趙者再，李牧連卻之；洎牧以讒誅，邯鄲為郡，惜其用武而不終也。且燕趙處秦革滅殆盡之際，可謂智力孤危，戰敗而亡，誠不得已。向使三國各愛其地，齊人勿附於秦，刺客不行，良將猶在，則勝負之數，存亡之理，當與秦相較，或未易量。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[5].blocks[3][1][0]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-59b40dd7ef860626",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "卻",
+    "fields": {
+      "詞義": "擊退"
+    },
+    "context": "趙嘗五戰于秦，二敗而三勝；後秦擊趙者再，李牧連卻之；洎牧以讒誅，邯鄲為郡，惜其用武而不終也。且燕趙處秦革滅殆盡之際，可謂智力孤危，戰敗而亡，誠不得已。向使三國各愛其地，齊人勿附於秦，刺客不行，良將猶在，則勝負之數，存亡之理，當與秦相較，或未易量。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[5].blocks[3][1][1]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-05-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7f6f9b466209cf5f",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "洎",
+    "fields": {
+      "詞義": "及至"
+    },
+    "context": "趙嘗五戰于秦，二敗而三勝；後秦擊趙者再，李牧連卻之；洎牧以讒誅，邯鄲為郡，惜其用武而不終也。且燕趙處秦革滅殆盡之際，可謂智力孤危，戰敗而亡，誠不得已。向使三國各愛其地，齊人勿附於秦，刺客不行，良將猶在，則勝負之數，存亡之理，當與秦相較，或未易量。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[5].blocks[3][1][2]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-05-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fb716c797442ba49",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "以",
+    "fields": {
+      "詞義": "因為"
+    },
+    "context": "趙嘗五戰于秦，二敗而三勝；後秦擊趙者再，李牧連卻之；洎牧以讒誅，邯鄲為郡，惜其用武而不終也。且燕趙處秦革滅殆盡之際，可謂智力孤危，戰敗而亡，誠不得已。向使三國各愛其地，齊人勿附於秦，刺客不行，良將猶在，則勝負之數，存亡之理，當與秦相較，或未易量。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[5].blocks[3][1][3]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-05-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9496b14741a7ef53",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "殆",
+    "fields": {
+      "詞義": "幾乎"
+    },
+    "context": "趙嘗五戰于秦，二敗而三勝；後秦擊趙者再，李牧連卻之；洎牧以讒誅，邯鄲為郡，惜其用武而不終也。且燕趙處秦革滅殆盡之際，可謂智力孤危，戰敗而亡，誠不得已。向使三國各愛其地，齊人勿附於秦，刺客不行，良將猶在，則勝負之數，存亡之理，當與秦相較，或未易量。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[5].blocks[3][1][4]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-05-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6e5a3a7170cf0aca",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "智力",
+    "fields": {
+      "詞義": "智謀和力量"
+    },
+    "context": "趙嘗五戰于秦，二敗而三勝；後秦擊趙者再，李牧連卻之；洎牧以讒誅，邯鄲為郡，惜其用武而不終也。且燕趙處秦革滅殆盡之際，可謂智力孤危，戰敗而亡，誠不得已。向使三國各愛其地，齊人勿附於秦，刺客不行，良將猶在，則勝負之數，存亡之理，當與秦相較，或未易量。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[5].blocks[3][1][5]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-05-03-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-487d0e6f2fbd12ca",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "亡",
+    "fields": {
+      "詞義": "滅亡"
+    },
+    "context": "趙嘗五戰于秦，二敗而三勝；後秦擊趙者再，李牧連卻之；洎牧以讒誅，邯鄲為郡，惜其用武而不終也。且燕趙處秦革滅殆盡之際，可謂智力孤危，戰敗而亡，誠不得已。向使三國各愛其地，齊人勿附於秦，刺客不行，良將猶在，則勝負之數，存亡之理，當與秦相較，或未易量。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[5].blocks[3][1][6]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-05-03-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-976bbea73d371493",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "向使",
+    "fields": {
+      "詞義": "假使"
+    },
+    "context": "趙嘗五戰于秦，二敗而三勝；後秦擊趙者再，李牧連卻之；洎牧以讒誅，邯鄲為郡，惜其用武而不終也。且燕趙處秦革滅殆盡之際，可謂智力孤危，戰敗而亡，誠不得已。向使三國各愛其地，齊人勿附於秦，刺客不行，良將猶在，則勝負之數，存亡之理，當與秦相較，或未易量。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[5].blocks[3][1][7]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-05-03-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-30154f77b2282c89",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "當",
+    "fields": {
+      "詞義": "倘若"
+    },
+    "context": "趙嘗五戰于秦，二敗而三勝；後秦擊趙者再，李牧連卻之；洎牧以讒誅，邯鄲為郡，惜其用武而不終也。且燕趙處秦革滅殆盡之際，可謂智力孤危，戰敗而亡，誠不得已。向使三國各愛其地，齊人勿附於秦，刺客不行，良將猶在，則勝負之數，存亡之理，當與秦相較，或未易量。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[5].blocks[3][1][8]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-05-03-8"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7ab7496e455967c8",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "量",
+    "fields": {
+      "詞義": "估量"
+    },
+    "context": "趙嘗五戰于秦，二敗而三勝；後秦擊趙者再，李牧連卻之；洎牧以讒誅，邯鄲為郡，惜其用武而不終也。且燕趙處秦革滅殆盡之際，可謂智力孤危，戰敗而亡，誠不得已。向使三國各愛其地，齊人勿附於秦，刺客不行，良將猶在，則勝負之數，存亡之理，當與秦相較，或未易量。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[5].blocks[3][1][9]",
+        "section": "第3段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-05-03-9"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cd07164a5b35f1b4",
+    "chapterId": "essay-10",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "燕曾守土有效，後用刺客招禍；趙曾屢退秦軍，後殺李牧。段末是假設另一種選擇，不是記載六國實際合力取勝。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[5].blocks[4]",
+        "section": "第3段｜原文與語譯 2"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[163].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[884].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[885].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[886].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[887].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[888].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[889].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[890].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[891].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[892].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[927].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1155].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1158].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1199].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1200].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1201].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1202].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1203].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1204].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1205].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1206].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1207].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1208].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1209].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1210].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1211].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1212].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1213].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1214].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1238].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1243].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e10-exp-004",
+      "full-b-10-05-03-1",
+      "full-b-10-05-03-2",
+      "full-b-10-05-03-3",
+      "full-b-10-05-03-4",
+      "full-b-10-05-03-5",
+      "full-b-10-05-03-6",
+      "full-b-10-05-03-7",
+      "full-b-10-05-03-8",
+      "full-b-10-05-03-9",
+      "full-b-10-05-00-b",
+      "full-b-10-10-01-2",
+      "full-b-10-10-01-5",
+      "full-b-10-11-00-9",
+      "full-b-10-11-00-10",
+      "full-b-10-11-00-11",
+      "full-b-10-11-00-12",
+      "full-b-10-11-00-13",
+      "full-b-10-11-00-14",
+      "full-b-10-11-00-15",
+      "full-b-10-11-00-16",
+      "full-b-10-11-00-17",
+      "full-b-10-11-00-18",
+      "full-b-10-11-00-19",
+      "full-b-10-11-00-20",
+      "full-b-10-11-00-21",
+      "full-b-10-11-00-22",
+      "full-b-10-11-00-23",
+      "full-b-10-11-00-25",
+      "full-b-10-14-00-2",
+      "full-b-10-14-00-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-215822f04cccd2a0",
+    "chapterId": "essay-10",
+    "category": "theme",
+    "title": "句段核心：第4段｜原文與語譯",
+    "fields": {
+      "重點": "用地封臣、以心禮才、合力抗秦，本有另一條路。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[6].core",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9b4508a3f7110179",
+    "chapterId": "essay-10",
+    "category": "text",
+    "title": "第4段｜原文與語譯",
+    "fields": {
+      "原文": "嗚呼！以賂秦之地，封天下之謀臣；以事秦之心，禮天下之奇才；幷力西嚮，則吾恐秦人食之不得下嚥也。悲夫！有如此之勢，而為秦人積威之所劫，日削月割，以趨於亡！為國者無使為積威之所劫哉！"
+    },
+    "context": "嗚呼！以賂秦之地，封天下之謀臣；以事秦之心，禮天下之奇才；幷力西嚮，則吾恐秦人食之不得下嚥也。悲夫！有如此之勢，而為秦人積威之所劫，日削月割，以趨於亡！為國者無使為積威之所劫哉！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[6].blocks[0]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-06-03-0",
+      "full-b-10-06-03-1",
+      "full-b-10-06-03-2",
+      "full-b-10-06-03-3",
+      "full-b-10-06-03-4",
+      "full-b-10-06-03-5",
+      "full-b-10-06-03-6",
+      "full-b-10-06-03-7",
+      "full-b-10-06-00-b",
+      "full-b-10-10-01-7",
+      "full-b-10-11-00-27",
+      "full-b-10-11-00-28",
+      "full-b-10-11-00-29",
+      "full-b-10-11-00-30",
+      "full-b-10-11-00-31",
+      "full-b-10-11-00-32",
+      "full-b-10-11-00-34",
+      "full-b-10-12-00-1",
+      "full-b-10-14-00-3",
+      "full-b-10-14-00-8",
+      "full-b-10-15-00-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-32423aaf2780cab4",
+    "chapterId": "essay-10",
+    "category": "text",
+    "title": "第4段｜原文與語譯",
+    "fields": {
+      "語譯": "唉！如果用賄賂秦國的土地，封賞給天下有謀略的大臣；用侍奉秦國的心意，禮遇天下才智出眾的人才；合力向西抵禦秦國，那麼我恐怕秦國的人連飯也吃不下去了。這多麼可悲啊！六國有這樣的形勢，卻被秦國久積的威勢所脅迫，土地一天天、一月月地割削，以致走向滅亡。治理國家的人不要被別人積累的威勢所脅迫啊！"
+    },
+    "context": "嗚呼！以賂秦之地，封天下之謀臣；以事秦之心，禮天下之奇才；幷力西嚮，則吾恐秦人食之不得下嚥也。悲夫！有如此之勢，而為秦人積威之所劫，日削月割，以趨於亡！為國者無使為積威之所劫哉！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[6].blocks[2]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-06-03-0",
+      "full-b-10-06-03-1",
+      "full-b-10-06-03-2",
+      "full-b-10-06-03-3",
+      "full-b-10-06-03-4",
+      "full-b-10-06-03-5",
+      "full-b-10-06-03-6",
+      "full-b-10-06-03-7",
+      "full-b-10-06-00-b",
+      "full-b-10-10-01-7",
+      "full-b-10-11-00-27",
+      "full-b-10-11-00-28",
+      "full-b-10-11-00-29",
+      "full-b-10-11-00-30",
+      "full-b-10-11-00-31",
+      "full-b-10-11-00-32",
+      "full-b-10-11-00-34",
+      "full-b-10-12-00-1",
+      "full-b-10-14-00-3",
+      "full-b-10-14-00-8",
+      "full-b-10-15-00-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-165f17a804c7173d",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "賂",
+    "fields": {
+      "詞義": "割地賄賂"
+    },
+    "context": "嗚呼！以賂秦之地，封天下之謀臣；以事秦之心，禮天下之奇才；幷力西嚮，則吾恐秦人食之不得下嚥也。悲夫！有如此之勢，而為秦人積威之所劫，日削月割，以趨於亡！為國者無使為積威之所劫哉！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[6].blocks[3][1][0]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-06-03-0"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-79c3e1665dae65bb",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "禮",
+    "fields": {
+      "詞義": "禮遇"
+    },
+    "context": "嗚呼！以賂秦之地，封天下之謀臣；以事秦之心，禮天下之奇才；幷力西嚮，則吾恐秦人食之不得下嚥也。悲夫！有如此之勢，而為秦人積威之所劫，日削月割，以趨於亡！為國者無使為積威之所劫哉！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[6].blocks[3][1][1]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-06-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-36a8930bc1fe6411",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "幷力",
+    "fields": {
+      "詞義": "合力"
+    },
+    "context": "嗚呼！以賂秦之地，封天下之謀臣；以事秦之心，禮天下之奇才；幷力西嚮，則吾恐秦人食之不得下嚥也。悲夫！有如此之勢，而為秦人積威之所劫，日削月割，以趨於亡！為國者無使為積威之所劫哉！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[6].blocks[3][1][2]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-06-03-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0541757ffc3250d6",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "西嚮",
+    "fields": {
+      "詞義": "向西抗秦"
+    },
+    "context": "嗚呼！以賂秦之地，封天下之謀臣；以事秦之心，禮天下之奇才；幷力西嚮，則吾恐秦人食之不得下嚥也。悲夫！有如此之勢，而為秦人積威之所劫，日削月割，以趨於亡！為國者無使為積威之所劫哉！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[6].blocks[3][1][3]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-06-03-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e53384e58fb2d0a1",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "劫",
+    "fields": {
+      "詞義": "脅迫"
+    },
+    "context": "嗚呼！以賂秦之地，封天下之謀臣；以事秦之心，禮天下之奇才；幷力西嚮，則吾恐秦人食之不得下嚥也。悲夫！有如此之勢，而為秦人積威之所劫，日削月割，以趨於亡！為國者無使為積威之所劫哉！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[6].blocks[3][1][4]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-06-03-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-50439d4b80580a85",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "日",
+    "fields": {
+      "詞義": "每天"
+    },
+    "context": "嗚呼！以賂秦之地，封天下之謀臣；以事秦之心，禮天下之奇才；幷力西嚮，則吾恐秦人食之不得下嚥也。悲夫！有如此之勢，而為秦人積威之所劫，日削月割，以趨於亡！為國者無使為積威之所劫哉！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[6].blocks[3][1][5]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-06-03-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-662990916d3a753c",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "亡",
+    "fields": {
+      "詞義": "滅亡"
+    },
+    "context": "嗚呼！以賂秦之地，封天下之謀臣；以事秦之心，禮天下之奇才；幷力西嚮，則吾恐秦人食之不得下嚥也。悲夫！有如此之勢，而為秦人積威之所劫，日削月割，以趨於亡！為國者無使為積威之所劫哉！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[6].blocks[3][1][6]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-06-03-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4e01df5f9ab503ff",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "為",
+    "fields": {
+      "詞義": "治理"
+    },
+    "context": "嗚呼！以賂秦之地，封天下之謀臣；以事秦之心，禮天下之奇才；幷力西嚮，則吾恐秦人食之不得下嚥也。悲夫！有如此之勢，而為秦人積威之所劫，日削月割，以趨於亡！為國者無使為積威之所劫哉！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[6].blocks[3][1][7]",
+        "section": "第4段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-06-03-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-953c3e5ddb91d662",
+    "chapterId": "essay-10",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "與割地事秦相比，同樣土地和心力可以轉向用才自強。「為國者」把教訓推廣到治國者，也為末段諷今鋪路。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[6].blocks[4]",
+        "section": "第4段｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[893].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[894].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[895].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[896].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[897].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[898].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[899].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[900].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[928].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1159].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1215].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1216].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1217].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1218].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1219].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1220].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1221].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1222].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1244].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1250].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-06-03-0",
+      "full-b-10-06-03-1",
+      "full-b-10-06-03-2",
+      "full-b-10-06-03-3",
+      "full-b-10-06-03-4",
+      "full-b-10-06-03-5",
+      "full-b-10-06-03-6",
+      "full-b-10-06-03-7",
+      "full-b-10-06-00-b",
+      "full-b-10-10-01-7",
+      "full-b-10-11-00-27",
+      "full-b-10-11-00-28",
+      "full-b-10-11-00-29",
+      "full-b-10-11-00-30",
+      "full-b-10-11-00-31",
+      "full-b-10-11-00-32",
+      "full-b-10-11-00-34",
+      "full-b-10-12-00-1",
+      "full-b-10-14-00-8",
+      "full-b-10-15-00-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e03cea4f09b72211",
+    "chapterId": "essay-10",
+    "category": "theme",
+    "title": "句段核心：第5段｜原文與語譯",
+    "fields": {
+      "重點": "統一大國若重蹈六國覆轍，處境更可悲。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[7].core",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1cb9de32db99f912",
+    "chapterId": "essay-10",
+    "category": "text",
+    "title": "第5段｜原文與語譯",
+    "fields": {
+      "原文": "夫六國與秦皆諸侯，其勢弱於秦，而猶有可以不賂而勝之之勢；茍以天下之大，而從六國破亡之故事，是又在六國下矣！"
+    },
+    "context": "夫六國與秦皆諸侯，其勢弱於秦，而猶有可以不賂而勝之之勢；茍以天下之大，而從六國破亡之故事，是又在六國下矣！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[7].blocks[0]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e10-exp-005",
+      "q-e10-exp-007",
+      "full-b-10-07-03-0",
+      "full-b-10-07-03-1",
+      "full-b-10-07-00-b",
+      "full-b-10-12-00-2",
+      "full-b-10-12-00-3",
+      "full-b-10-12-00-4",
+      "full-b-10-12-00-5",
+      "full-b-10-12-00-6",
+      "full-b-10-15-00-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ae6a062e5eddcf95",
+    "chapterId": "essay-10",
+    "category": "text",
+    "title": "第5段｜原文與語譯",
+    "fields": {
+      "語譯": "六國跟秦國一樣是諸侯國，他們的勢力比秦國弱，尚且還有可以不用賄賂而戰勝秦國的形勢。如果以一統天下的大國，卻跟隨六國滅亡的舊事，這就連六國也不如了。"
+    },
+    "context": "夫六國與秦皆諸侯，其勢弱於秦，而猶有可以不賂而勝之之勢；茍以天下之大，而從六國破亡之故事，是又在六國下矣！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[7].blocks[2]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e10-exp-005",
+      "q-e10-exp-007",
+      "full-b-10-07-03-0",
+      "full-b-10-07-03-1",
+      "full-b-10-07-00-b",
+      "full-b-10-12-00-2",
+      "full-b-10-12-00-3",
+      "full-b-10-12-00-4",
+      "full-b-10-12-00-5",
+      "full-b-10-12-00-6",
+      "full-b-10-15-00-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-348327ad520a1efb",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "賂",
+    "fields": {
+      "詞義": "割地賄賂"
+    },
+    "context": "夫六國與秦皆諸侯，其勢弱於秦，而猶有可以不賂而勝之之勢；茍以天下之大，而從六國破亡之故事，是又在六國下矣！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[7].blocks[3][1][0]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-07-03-0"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-79e21b41765f6d03",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "亡",
+    "fields": {
+      "詞義": "滅亡"
+    },
+    "context": "夫六國與秦皆諸侯，其勢弱於秦，而猶有可以不賂而勝之之勢；茍以天下之大，而從六國破亡之故事，是又在六國下矣！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[7].blocks[3][1][1]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-07-03-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8b65345056bfe1bc",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "故事",
+    "fields": {
+      "詞義": "舊事、先例"
+    },
+    "context": "夫六國與秦皆諸侯，其勢弱於秦，而猶有可以不賂而勝之之勢；茍以天下之大，而從六國破亡之故事，是又在六國下矣！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[7].blocks[3][1][2]",
+        "section": "第5段｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b29719cc2d2f1934",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "語譯",
+    "fields": {
+      "內容": "六國只是分立諸侯，尚可不賂而勝；北宋以天下之大仍循舊事，反襯警告的迫切。「故事」是舊事。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[7].blocks[4]",
+        "section": "第5段｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[164].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[166].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[901].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[902].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[929].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1223].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1224].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1225].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1226].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1227].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1251].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e10-exp-005",
+      "q-e10-exp-007",
+      "full-b-10-07-03-0",
+      "full-b-10-07-03-1",
+      "full-b-10-07-00-b",
+      "full-b-10-12-00-2",
+      "full-b-10-12-00-3",
+      "full-b-10-12-00-4",
+      "full-b-10-12-00-5",
+      "full-b-10-12-00-6",
+      "full-b-10-15-00-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-18c15727e3c485b0",
+    "chapterId": "essay-10",
+    "category": "structure",
+    "title": "一",
+    "fields": {
+      "內容與層次": "先否定兵不利、戰不善，再立「弊在賂秦」；分賂秦力虧、不賂失援兩線",
+      "作用及不同分法": "總論；開門見山、下筆立論、先破後立。設問預先回應「六國是否全賂秦」的質疑，論點直接明確、給人先入印象，後文可從容反覆論證"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[8].blocks[0][1][1]",
+        "section": "逐段結構、主旨與論證關係（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-75dcde905d77970e",
+    "chapterId": "essay-10",
+    "category": "structure",
+    "title": "二",
+    "fields": {
+      "內容與層次": "韓魏楚賂秦：秦受賄所得多於戰勝所得，諸侯賂秦所失多於戰敗所失；祖先艱辛、子孫轻棄；割地多而安寧短；有限國土不能滿足無限秦欲",
+      "作用及不同分法": "本論的正面申論；「抱薪救火」引用鎖住全段，回應賂秦力虧"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[8].blocks[0][1][2]",
+        "section": "逐段結構、主旨與論證關係（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b235bd24c5724a53",
+    "chapterId": "essay-10",
+    "category": "structure",
+    "title": "三",
+    "fields": {
+      "內容與層次": "齊附秦不援；燕先守土後派刺客；趙先抗秦後殺良將；失援造成孤危。末反設韓魏楚惜地、齊不附秦、燕不用刺客、趙良將仍在",
+      "作用及不同分法": "本論另一線，反面申論不賂者仍亡；既遙應首段失援，又由賂秦轉至抗秦。燕趙曾抗秦有效，亦呼應非兵不利、戰不善"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[8].blocks[0][1][3]",
+        "section": "逐段結構、主旨與論證關係（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2400251c2bef4f5f",
+    "chapterId": "essay-10",
+    "category": "structure",
+    "title": "四",
+    "fields": {
+      "內容與層次": "封謀臣、禮奇才、並力西向；感歎本有形勢卻為秦威所劫，告誡為國者",
+      "作用及不同分法": "總結前面的分析：吸取歷史教訓、總結論點、回應總論。「為國者」既指六國，也泛指治國者，預開下段諷今"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[8].blocks[0][1][4]",
+        "section": "逐段結構、主旨與論證關係（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-726efebdc05efc42",
+    "chapterId": "essay-10",
+    "category": "structure",
+    "title": "五",
+    "fields": {
+      "內容與層次": "比較六國分裂諸侯與北宋統一大國；勢較有利仍循破亡舊事，更不如六國",
+      "作用及不同分法": "從六國轉到當世，明示借古諷今、警誡北宋的目的。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[8].blocks[0][1][5]",
+        "section": "逐段結構、主旨與論證關係（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4da89652c0f802c4",
+    "chapterId": "essay-10",
+    "category": "structure",
+    "title": "逐段結構、主旨與論證關係",
+    "fields": {
+      "內容": "總論點的完整摘句是「六國破滅，非兵不利，戰不善，弊在賂秦。」兩分論點是「賂秦而力虧，破滅之道也」和「不賂者以賂者喪」，後者須接「失強援，不能獨完」。不能把六國一概寫成直接割地賂秦。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[8].blocks[1]",
+        "section": "逐段結構、主旨與論證關係（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3e61fb7c50e205d1",
+    "chapterId": "essay-10",
+    "category": "structure",
+    "title": "逐段結構、主旨與論證關係",
+    "fields": {
+      "內容": "齊、燕、趙的個別敗因與共同敗因須分開：齊親秦而不援其他五國，五國亡後不能倖免；燕太子丹派荊軻刺秦引禍，破壞早先守土方略；趙聽讒殺李牧，不能堅持用武。共同處境是賂秦諸侯先亡、失去鄰國後援、勢寡力弱。因此「不賂秦」並不足夠，尚須惜地、用才、團結及堅持抗敵。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[8].blocks[2]",
+        "section": "逐段結構、主旨與論證關係（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-37010c738f2a53b7",
+    "chapterId": "essay-10",
+    "category": "structure",
+    "title": "逐段結構、主旨與論證關係",
+    "fields": {
+      "內容": "第三段末「向使」反設已述錯誤；第四段再把事秦的土地與心力轉作封臣禮才、合力抗秦。兩個都是未實行的方案，不能寫成真實史例；「或未易量」只說尚難估量勝負，不保證必勝。結構表把兩假設併列第四段，是分析欄合併，並非原文段落位置。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[9].blocks[0]",
+        "section": "逐段結構、主旨與論證關係（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-28d928545046e9e4",
+    "chapterId": "essay-10",
+    "category": "structure",
+    "title": "逐段結構、主旨與論證關係",
+    "fields": {
+      "內容": "主旨：以六國因賂秦而亡的歷史教訓，說屈辱求和會自招敗亡，委婉諷諫北宋以史為鑑，改變對遼、西夏輸歲幣苟安的政策，善用人才、備戰禦侮、保國長治久安。六國亡因本來複雜，本文為政論的選材和立意服務，不是完整歷史定論。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[9].blocks[1]",
+        "section": "逐段結構、主旨與論證關係（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-00beb92f04951ecc",
+    "chapterId": "essay-10",
+    "category": "structure",
+    "title": "延伸補充：評論與文章特色",
+    "fields": {
+      "內容": "馬位《秋窗隨筆》評蘇老泉《權書》是借六國發議以刺時事；《文心雕龍·論說篇》的「義貴圓通，辭忌枝碎」可說明本文論旨周密、用辭不繁碎的特色。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[9].blocks[3]",
+        "section": "逐段結構、主旨與論證關係（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a9756cfc86bde1bb",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "或",
+    "fields": {
+      "原文短語": "或曰",
+      "本句意思／作用": "有人。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[1][1][1]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-788721775f88e1d4",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "或",
+    "fields": {
+      "原文短語": "或未易量",
+      "本句意思／作用": "也許。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[1][1][2]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-01-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-90f2ee4fd2cd5be6",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "始",
+    "fields": {
+      "原文短語": "始有遠略",
+      "本句意思／作用": "起初。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[1][1][3]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-01-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-66fbe51bcdf76ca2",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "始",
+    "fields": {
+      "原文短語": "始速禍焉",
+      "本句意思／作用": "才。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[1][1][4]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-01-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-081ff3eb276cc276",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "為",
+    "fields": {
+      "原文短語": "邯鄲為郡",
+      "本句意思／作用": "成為。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[1][1][5]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-01-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-991da9e36a07e4a8",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "為",
+    "fields": {
+      "原文短語": "為國者",
+      "本句意思／作用": "治理。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[1][1][6]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0a8348562e13a585",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "為",
+    "fields": {
+      "原文短語": "為積威之所劫",
+      "本句意思／作用": "與所配合表示被動。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[1][1][7]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-01-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-577c7279896fe12d",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "暴",
+    "fields": {
+      "原文短語": "暴霜露",
+      "本句意思／作用": "冒着、暴露於；通曝。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[1][1][8]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-57642904d02ca104",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "暴",
+    "fields": {
+      "原文短語": "暴秦之欲無厭",
+      "本句意思／作用": "殘暴。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[1][1][9]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-01-9"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9476a0ebd56c7c87",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "兵",
+    "fields": {
+      "原句定位": "非兵不利",
+      "意思與必要辨析": "兵：兵器，也可由兵器借代軍隊兵力"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][1]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "multiple-interpretations",
+      "notes": [
+        "原书同时列兵器字面义及军队兵力借代义；不能把两种成立解释并列判一错，保留待复核。"
+      ]
+    }
+  },
+  {
+    "id": "k-a183d91f822f40f5",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "利",
+    "fields": {
+      "原句定位": "非兵不利",
+      "意思與必要辨析": "利：鋒利、厲害"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][2]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f70bbc86af3c4b45",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "戰不善",
+    "fields": {
+      "原句定位": "戰不善",
+      "意思與必要辨析": "戰不善：作戰不得法。開首先否定兵器和作戰為根本敗因。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][3]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-80678f977be80955",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "弊",
+    "fields": {
+      "原句定位": "弊在賂秦",
+      "意思與必要辨析": "弊端、癥結"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][4]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-51c3071eeb6744ee",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "賂",
+    "fields": {
+      "原句定位": "弊在賂秦",
+      "意思與必要辨析": "送財物討好，此處割地"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][5]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7ef9d8ea3d4a7676",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "力虧",
+    "fields": {
+      "原句定位": "賂秦而力虧",
+      "意思與必要辨析": "國力損耗"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][6]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a4091384ea1d835a",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "道",
+    "fields": {
+      "原句定位": "破滅之道也",
+      "意思與必要辨析": "原因、理由。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][7]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0f0e8cdb4362966a",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "或曰",
+    "fields": {
+      "原句定位": "或曰",
+      "意思與必要辨析": "有人說"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][8]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-8"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ba515c1a3eb6314d",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "互喪",
+    "fields": {
+      "原句定位": "六國互喪",
+      "意思與必要辨析": "相繼滅亡"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][9]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e56363b91f7cfcbf",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "率",
+    "fields": {
+      "原句定位": "率賂秦耶",
+      "意思與必要辨析": "全部"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][10]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-acd972150725a998",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "蓋",
+    "fields": {
+      "原句定位": "蓋失強援",
+      "意思與必要辨析": "因為"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][11]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-11"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-462f3652438d7c0e",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "獨完",
+    "fields": {
+      "原句定位": "不能獨完",
+      "意思與必要辨析": "獨自保全。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][12]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-12"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1621d37700d747c4",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "不賂者以賂者喪",
+    "fields": {
+      "原句定位": "不賂者以賂者喪",
+      "意思與必要辨析": "以：因為，介詞表原因；不賂者因賂者亡國而失援，不是自己也賂秦"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][13]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-13"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-61603d7e25c55378",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "攻取",
+    "fields": {
+      "原句定位": "秦以攻取之外",
+      "意思與必要辨析": "以戰爭侵佔、獲取"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][14]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-14"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8b7a10c0325cbf7f",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "邑",
+    "fields": {
+      "原句定位": "小則獲邑",
+      "意思與必要辨析": "邑可指邑鎮／小城市，說大城市稱都、小城市稱邑，引申城市"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][15]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-15"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5fc9e41284a67b7a",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "城",
+    "fields": {
+      "原句定位": "大則得城",
+      "意思與必要辨析": "城：城池"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][16]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-16"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-aac5337ea545ed35",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "所得",
+    "fields": {
+      "原句定位": "較秦之所得與戰勝而得者",
+      "意思與必要辨析": "秦受賄得到的土地"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][17]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-17"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fbb377af46b66295",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "所亡",
+    "fields": {
+      "原句定位": "諸侯之所亡與戰敗而亡者",
+      "意思與必要辨析": "諸侯賂秦失去的土地"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][18]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-18"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4e4ff51ee6015612",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "其實",
+    "fields": {
+      "原句定位": "其實百倍",
+      "意思與必要辨析": "其指它們，實指實際，不是現代轉折詞"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][19]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-19"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8be6c384d5ec1b90",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "則",
+    "fields": {
+      "原句定位": "則秦之所大欲",
+      "意思與必要辨析": "那麼，承接推論。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][20]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-20"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a78a215a84964e1e",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "欲",
+    "fields": {
+      "原句定位": "則秦之所大欲",
+      "意思與必要辨析": "慾望"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][21]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-21"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-48c4be73da1c7804",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "患",
+    "fields": {
+      "原句定位": "諸侯之所大患",
+      "意思與必要辨析": "禍患"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][22]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-22"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4f2af73e8371e442",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "固",
+    "fields": {
+      "原句定位": "固不在戰矣",
+      "意思與必要辨析": "本來、根本。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][23]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2f0805ab13d05d3b",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "思厥先祖父",
+    "fields": {
+      "原句定位": "思厥先祖父",
+      "意思與必要辨析": "思：想到；厥：其、他們的；先：敬稱已去世的尊長；祖父：祖輩父輩，泛指祖先。整句引讀者想到祖先創業的艱難。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][24]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-24"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d51e5c8f84e7605f",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "暴霜露",
+    "fields": {
+      "原句定位": "暴霜露",
+      "意思與必要辨析": "暴通曝，暴露／冒風霜雨露"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][25]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-25"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-93e3c736dc35ae20",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "斬荊棘",
+    "fields": {
+      "原句定位": "斬荊棘",
+      "意思與必要辨析": "斬除荊棘引申開墾荒蕪，寫立國創業難"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][26]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-26"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-111e041632fbfa30",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "尺寸",
+    "fields": {
+      "原句定位": "以有尺寸之地",
+      "意思與必要辨析": "尺寸形容土地小。暴秦的暴則為殘暴，不同義"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][27]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-795843b2223dd218",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "舉",
+    "fields": {
+      "原句定位": "舉以予人",
+      "意思與必要辨析": "舉：全部"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][28]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4e9ca8b2430fee16",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "予",
+    "fields": {
+      "原句定位": "舉以予人",
+      "意思與必要辨析": "予：給予"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][29]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-29"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a6bfb7ca1d92060b",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "草芥",
+    "fields": {
+      "原句定位": "如棄草芥",
+      "意思與必要辨析": "草芥：小草，比喻輕賤之物"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][30]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-35cbc2c77780e84e",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "事秦",
+    "fields": {
+      "原句定位": "以地事秦",
+      "意思與必要辨析": "事：侍奉。「如棄草芥」突出子孫割地輕率。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][31]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f7ce69a9b81ce5b3",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "厭",
+    "fields": {
+      "原句定位": "暴秦之欲無厭",
+      "意思與必要辨析": "厭通饜：滿足"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][32]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-32"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-76fc5ee5d63279b1",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "彌",
+    "fields": {
+      "原句定位": "奉之彌繁",
+      "意思與必要辨析": "彌：越加、更甚，注日益"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][33]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-33"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-646a8af337aa81b2",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "愈",
+    "fields": {
+      "原句定位": "侵之愈急",
+      "意思與必要辨析": "愈：越"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][34]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-34"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4b2618502f3f51ac",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "判",
+    "fields": {
+      "原句定位": "故不戰而強弱勝負已判矣",
+      "意思與必要辨析": "判：清晰分明"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][35]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-118956cb322a11d1",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "顛覆",
+    "fields": {
+      "原句定位": "至於顛覆",
+      "意思與必要辨析": "顛覆：敗亡、滅亡"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][36]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4844b20f75ecccb8",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "此言得之",
+    "fields": {
+      "原句定位": "此言得之",
+      "意思與必要辨析": "這話說出了其中道理；「此言」承抱薪救火的古語"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[10].blocks[2][1][37]",
+        "section": "字詞、語法與名物（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-10-02-37"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-132c055ff5c511a9",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "未嘗",
+    "fields": {
+      "原句定位": "齊人未嘗賂秦",
+      "意思與必要辨析": "從來不曾"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][1]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e5671d0f849f75f8",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "遷滅",
+    "fields": {
+      "原句定位": "終繼五國遷滅",
+      "意思與必要辨析": "滅亡"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][2]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b9b94de9f6353315",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "與嬴",
+    "fields": {
+      "原句定位": "與嬴而不助五國也",
+      "意思與必要辨析": "親附秦國，嬴代秦"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][3]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8120450bb22594b9",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "既",
+    "fields": {
+      "原句定位": "五國既喪",
+      "意思與必要辨析": "已經。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][4]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8f0d9358daf98586",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "始有遠略",
+    "fields": {
+      "原句定位": "始有遠略",
+      "意思與必要辨析": "起初有長遠謀略"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][5]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c86fb7ec4a12acd7",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "義不賂秦",
+    "fields": {
+      "原句定位": "義不賂秦",
+      "意思與必要辨析": "以不賂秦為合義原則"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][6]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cee056593a680cfa",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "斯",
+    "fields": {
+      "原句定位": "斯用兵之效也",
+      "意思與必要辨析": "這。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][7]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-56fdf86875b1956c",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "始速禍",
+    "fields": {
+      "原句定位": "始速禍焉",
+      "意思與必要辨析": "才招致禍患"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][8]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-8"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f5dc8f3ec04d19f4",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "再",
+    "fields": {
+      "原句定位": "後秦擊趙者再",
+      "意思與必要辨析": "兩次"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][9]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-9"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cd5022144fab9782",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "連卻",
+    "fields": {
+      "原句定位": "李牧連卻之",
+      "意思與必要辨析": "接連擊退。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][10]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-477f728f2c668b49",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "洎牧以讒誅",
+    "fields": {
+      "原句定位": "洎牧以讒誅",
+      "意思與必要辨析": "及至李牧因讒言被殺，洎為及至，以表原因"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][11]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-11"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f3f2584228f09cf5",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "邯鄲為郡",
+    "fields": {
+      "原句定位": "邯鄲為郡",
+      "意思與必要辨析": "邯鄲成為秦的郡，借指趙亡。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][12]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-12"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6b10069e9ba7da50",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "用武不終",
+    "fields": {
+      "原句定位": "惜其用武而不終也",
+      "意思與必要辨析": "武力抗秦未堅持到底。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][13]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-13"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b6e72099244aebbb",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "革滅殆盡",
+    "fields": {
+      "原句定位": "且燕趙處秦革滅殆盡之際",
+      "意思與必要辨析": "幾乎消滅淨盡"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][14]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-14"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9c964bed037a452d",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "智力孤危",
+    "fields": {
+      "原句定位": "可謂智力孤危",
+      "意思與必要辨析": "智謀軍力孤立單薄，非智商"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][15]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-15"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ac05b85e788d0ed2",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "誠",
+    "fields": {
+      "原句定位": "誠不得已",
+      "意思與必要辨析": "確實。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][16]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-16"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-47628c2b148041af",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "向使",
+    "fields": {
+      "原句定位": "向使三國各愛其地",
+      "意思與必要辨析": "假如當初"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][17]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-17"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a96650861c8771d5",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "三國",
+    "fields": {
+      "原句定位": "向使三國各愛其地",
+      "意思與必要辨析": "三國韓魏楚"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][18]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-18"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cfc02d1d2925b25d",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "愛",
+    "fields": {
+      "原句定位": "向使三國各愛其地",
+      "意思與必要辨析": "愛：愛惜、憐惜"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][19]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-19"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a8b6daa7a5331d79",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "刺客不行",
+    "fields": {
+      "原句定位": "刺客不行",
+      "意思與必要辨析": "不行：不用／不實行刺秦計，非不走路"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][20]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-20"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bb935efeb5215558",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "良將",
+    "fields": {
+      "原句定位": "良將猶在",
+      "意思與必要辨析": "良將指李牧"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][21]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-21"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5bcd54b84c66f0ec",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "數",
+    "fields": {
+      "原句定位": "則勝負之數",
+      "意思與必要辨析": "數：命運／運數"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][22]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-22"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a0702f2d495bf130",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "理",
+    "fields": {
+      "原句定位": "存亡之理",
+      "意思與必要辨析": "因素、道理，連同勝負之數說存亡勝負的情勢。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][23]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-23"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f712f364812adaf5",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "當",
+    "fields": {
+      "原句定位": "當與秦相較",
+      "意思與必要辨析": "當：假如／倘若"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][24]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-83fc240b8c8ee119",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "或",
+    "fields": {
+      "原句定位": "或未易量",
+      "意思與必要辨析": "也許。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][25]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-25"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a6d94f18e9118256",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "量",
+    "fields": {
+      "原句定位": "或未易量",
+      "意思與必要辨析": "量：估量、測度、判斷"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][26]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5ae8d4099e0aba37",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "封",
+    "fields": {
+      "原句定位": "封天下之謀臣",
+      "意思與必要辨析": "封賞"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][27]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0a02d843e281a238",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "禮",
+    "fields": {
+      "原句定位": "禮天下之奇才",
+      "意思與必要辨析": "禮待，動詞"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][28]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f5653928f4fae235",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "奇才",
+    "fields": {
+      "原句定位": "禮天下之奇才",
+      "意思與必要辨析": "才智出眾的人"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][29]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-29"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-79663b44390a7885",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "幷力西嚮",
+    "fields": {
+      "原句定位": "幷力西嚮",
+      "意思與必要辨析": "合力向西抗秦，嚮通向。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][30]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-30"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4b451c6cab0f3091",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "食之不得下嚥",
+    "fields": {
+      "原句定位": "則吾恐秦人食之不得下嚥也",
+      "意思與必要辨析": "飯無法吞下，寫秦人惶恐、寢食難安；嚥通咽"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][31]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-31"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ba7ef74ebc138105",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "積威",
+    "fields": {
+      "原句定位": "而為秦人積威之所劫",
+      "意思與必要辨析": "長期積累的強大威勢"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][32]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-32"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b1ec036ff1a2f4a5",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "劫",
+    "fields": {
+      "原句定位": "而為秦人積威之所劫",
+      "意思與必要辨析": "脅迫、懾服"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][33]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-11d28dd5b00529d9",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "日削月割",
+    "fields": {
+      "原句定位": "日削月割",
+      "意思與必要辨析": "日、月作狀語，一天天一月月割削，強調不斷失地"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[11].blocks[0][1][34]",
+        "section": "字詞、語法與名物（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-11-00-34"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b5db5b4ba9c6a9cd",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "為國者無使為積威之所劫",
+    "fields": {
+      "原句定位": "為國者無使為積威之所劫哉",
+      "意思與必要辨析": "第一個為：治理；第二個為與所構成被動。無：不要，不是語譯的無須；整句勸治國者不要被別人積威懾服"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[12].blocks[0][1][1]",
+        "section": "字詞、語法與名物（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-12-00-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3b3abd34a4036e42",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "其勢弱於秦",
+    "fields": {
+      "原句定位": "其勢弱於秦",
+      "意思與必要辨析": "勢力比秦弱，於表比較"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[12].blocks[0][1][2]",
+        "section": "字詞、語法與名物（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-12-00-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4ae45d790e33b8fc",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "苟以天下之大",
+    "fields": {
+      "原句定位": "茍以天下之大",
+      "意思與必要辨析": "假如憑天下大國的條件。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[12].blocks[0][1][3]",
+        "section": "字詞、語法與名物（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-12-00-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3e326a7a44fa16ae",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "從",
+    "fields": {
+      "原句定位": "而從六國破亡之故事",
+      "意思與必要辨析": "從：跟從"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[12].blocks[0][1][4]",
+        "section": "字詞、語法與名物（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-12-00-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-635186af6f2dea2b",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "故事",
+    "fields": {
+      "原句定位": "而從六國破亡之故事",
+      "意思與必要辨析": "故事：舊事、前例，強調此处為敗績、帶貶義"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[12].blocks[0][1][5]",
+        "section": "字詞、語法與名物（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-12-00-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-459f005e92064c0f",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "下",
+    "fields": {
+      "原句定位": "是又在六國下矣",
+      "意思與必要辨析": "更不如。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[12].blocks[0][1][6]",
+        "section": "字詞、語法與名物（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-12-00-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-58473b9586cd6e8a",
+    "chapterId": "essay-10",
+    "category": "comparison",
+    "title": "字詞、語法與名物",
+    "fields": {
+      "內容": "跨篇同字辨析："
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[12].blocks[1]",
+        "section": "字詞、語法與名物（3）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6634608a85515929",
+    "chapterId": "essay-10",
+    "category": "vocabulary",
+    "title": "字詞、語法與名物",
+    "fields": {
+      "內容": "「或未易量」和「或異二者之為」都是或許；「而或長煙一空」是有時；「或以封，或不免於洴澼絖」是有人。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[12].blocks[2]",
+        "section": "字詞、語法與名物（3）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ab42fc1a36ca4ffc",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "下筆立論、先破後立",
+    "fields": {
+      "原句／運用": "「非兵不利，戰不善，弊在賂秦」",
+      "知識與表達效果": "先破一般兵器戰術解釋，再立賂秦敗因；使論點鮮明、設想較全面，開門見山統領全文。不是先抑後揚"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[13].blocks[0][1][1]",
+        "section": "手法、修辭、效果與語言風格（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-13-00-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bd56d807d334ada8",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "兩重設問",
+    "fields": {
+      "原句／運用": "「六國互喪，率賂秦耶？」自答不賂因賂者而亡；「何哉？」自答與嬴不援",
+      "知識與表達效果": "第一重預答反對意見補足總論，第二重引個別因果，論證周密"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[13].blocks[0][1][2]",
+        "section": "手法、修辭、效果與語言風格（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-13-00-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8381f96479d3a30b",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "頂真",
+    "fields": {
+      "原句／運用": "「弊在賂秦。賂秦而力虧」",
+      "知識與表達效果": "賂秦接續前後句，連起中心論點與結果，文氣緊密"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[13].blocks[0][1][3]",
+        "section": "手法、修辭、效果與語言風格（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-13-00-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a6d82153b41bba31",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "土地得失對比",
+    "fields": {
+      "原句／運用": "秦受賄所得／戰勝所得；諸侯賂秦所失／戰敗所失",
+      "知識與表達效果": "兩組均寫前者百倍，說壯敵自弱、此消彼長，禍患不在戰爭。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[13].blocks[0][1][4]",
+        "section": "手法、修辭、效果與語言風格（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-13-00-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0f9493b645651f25",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "祖先子孫對比、動之以情",
+    "fields": {
+      "原句／運用": "「暴霜露，斬荊棘」對「舉以予人，如棄草芥」",
+      "知識與表達效果": "創業艱辛對輕率棄地，責子孫不孝、不肖，激起痛惜，引君主勿重蹈覆轍"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[13].blocks[0][1][5]",
+        "section": "手法、修辭、效果與語言風格（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-13-00-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5047b959b661f9cd",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "代價收益對比",
+    "fields": {
+      "原句／運用": "「今日割五城，明日割十城」對「一夕安寢」",
+      "知識與表達效果": "割地多、快、頻繁卻只短安，顯畏秦情態與策略不智"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[13].blocks[0][1][6]",
+        "section": "手法、修辭、效果與語言風格（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-13-00-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cd7a7a770575c3c3",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "有限無限對比",
+    "fields": {
+      "原句／運用": "「諸侯之地有限，暴秦之欲無厭」",
+      "知識與表達效果": "有限土地不能滿足無窮欲望，指出妥協不能長保國家"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[13].blocks[0][1][7]",
+        "section": "手法、修辭、效果與語言風格（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-13-00-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-97e565951279fd1d",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "獻地侵略對比",
+    "fields": {
+      "原句／運用": "「奉之彌繁，侵之愈急」",
+      "知識與表達效果": "獻地越多，侵略越急，與求安目的相反，反助敵欲"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[13].blocks[0][1][8]",
+        "section": "手法、修辭、效果與語言風格（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-13-00-8"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d9ec655f1141db9d",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "引用、比喻論證",
+    "fields": {
+      "原句／運用": "「以地事秦，猶抱薪救火，薪不盡，火不滅」",
+      "知識與表達效果": "薪＝土地，火＝秦的侵略野心，救火＝阻止侵略求安；割地如添柴，反增秦欲與秦力，地盡而亡。古人之言使論據有依，形象化抽象道理"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[13].blocks[0][1][9]",
+        "section": "手法、修辭、效果與語言風格（1）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-13-00-9"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9b00ab406fe83942",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "明喻",
+    "fields": {
+      "原句／運用": "「舉以予人，如棄草芥」",
+      "知識與表達效果": "割地如扔不值錢小草，活現子孫不惜祖業"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[14].blocks[0][1][1]",
+        "section": "手法、修辭、效果與語言風格（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-14-00-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cb5cd515b3e82aff",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "舉史例",
+    "fields": {
+      "原句／運用": "齊附秦、燕用刺客、趙殺李牧",
+      "知識與表達效果": "分說不團結與決策失誤；燕趙先抗秦有效，反證兵不利戰不善不是要害"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[14].blocks[0][1][2]",
+        "section": "手法、修辭、效果與語言風格（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-14-00-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-dc11b23a595503a0",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "反面設例／假設",
+    "fields": {
+      "原句／運用": "第三段惜地、不附秦、不刺秦、良將在；第四段封臣禮才合力",
+      "知識與表達效果": "逐一假設六國採取不同做法，展示抗秦的另一條路。這些是假設方案，與前文已發生的史例不同；把兩者分清，才看得出作者既分析敗因，也提出補救方向。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[14].blocks[0][1][3]",
+        "section": "手法、修辭、效果與語言風格（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-14-00-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4a2dc3cbd163cd5d",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "對偶",
+    "fields": {
+      "原句／運用": "「小則獲邑，大則得城」",
+      "知識與表達效果": "小大、邑城對舉，具體寫非戰所得規模"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[14].blocks[0][1][4]",
+        "section": "手法、修辭、效果與語言風格（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-14-00-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2eafb6c9ccc6deaf",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "對偶",
+    "fields": {
+      "原句／運用": "「暴霜露，斬荊棘」",
+      "知識與表達效果": "兩動賓短句寫創業動作，凝練鮮明"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[14].blocks[0][1][5]",
+        "section": "手法、修辭、效果與語言風格（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-14-00-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-27af414033d1247a",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "對偶",
+    "fields": {
+      "原句／運用": "「奉之彌繁，侵之愈急」",
+      "知識與表達效果": "以彌／愈對舉加劇，節奏緊迫、凝練因果"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[14].blocks[0][1][6]",
+        "section": "手法、修辭、效果與語言風格（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-14-00-6"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-73c28a4cf858876c",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "對偶",
+    "fields": {
+      "原句／運用": "「刺客不行，良將猶在」",
+      "知識與表達效果": "並列燕趙有利條件，反設前文錯誤"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[14].blocks[0][1][7]",
+        "section": "手法、修辭、效果與語言風格（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-14-00-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5cf9e4abad1343bc",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "對偶",
+    "fields": {
+      "原句／運用": "「以賂秦之地，封天下之謀臣；以事秦之心，禮天下之奇才」",
+      "知識與表達效果": "地與心、封與禮、謀臣與奇才相稱，工整有力，突出用才抗秦"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[14].blocks[0][1][8]",
+        "section": "手法、修辭、效果與語言風格（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-14-00-8"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-89d47a9c0ff23b8f",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "排偶",
+    "fields": {
+      "原句／運用": "「較秦之所得與戰勝而得者，其實百倍；諸侯之所亡與戰敗而亡者，其實亦百倍」",
+      "知識與表達效果": "兩長句相稱，強調損己益敵兩端"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[14].blocks[0][1][9]",
+        "section": "手法、修辭、效果與語言風格（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-14-00-9"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-629c0eb4d803f466",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "借代",
+    "fields": {
+      "原句／運用": "「嬴」代秦國；「兵」由兵器借代軍隊兵力",
+      "知識與表達效果": "前者以君王姓氏代國，後者保存字面兵器義與延伸軍事義"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[14].blocks[0][1][10]",
+        "section": "手法、修辭、效果與語言風格（2）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-14-00-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cad55d4a2f7f1280",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "誇張",
+    "fields": {
+      "原句／運用": "百倍；尺寸；草芥；五城十城一夕",
+      "知識與表達效果": "百倍放大得失懸殊；尺寸縮小得地以顯艱難；草芥兼明喻寫輕棄；五城十城誇頻繁大量割地卻只短安。非經核實統計"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[15].blocks[0][1][1]",
+        "section": "手法、修辭、效果與語言風格（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-15-00-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1224ec780c5dee2a",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "虛引、泛寫",
+    "fields": {
+      "原句／運用": "不實列韓魏楚割地地名數量，概言獲邑得城",
+      "知識與表達效果": "概括賂秦弊，讓讀者由古事聯想到北宋；虛引是概說，不能逕稱捏造史事"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[15].blocks[0][1][2]",
+        "section": "手法、修辭、效果與語言風格（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-15-00-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5b24829d86854198",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "鋪張／鋪陳",
+    "fields": {
+      "原句／運用": "祖先創業、子孫敗國、反覆割地等情態",
+      "知識與表達效果": "展開描寫增感染力，借泛寫暗傳諷今寄意"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[15].blocks[0][1][3]",
+        "section": "手法、修辭、效果與語言風格（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-15-00-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f7409ac8185822a0",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "感歎、褒貶",
+    "fields": {
+      "原句／運用": "「嗚呼」「悲夫」「為國者無使……哉」",
+      "知識與表達效果": "由感慨惋惜，到本可勝卻亡的沉痛悲憤，再語重心長告誡；非只一個籠統悲字"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[15].blocks[0][1][4]",
+        "section": "手法、修辭、效果與語言風格（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-15-00-4"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8244c4c343f9ac37",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "借古諷今",
+    "fields": {
+      "原句／運用": "六國分裂且弱秦尚能抗秦，北宋統一而循敗轍更不如",
+      "知識與表達效果": "委婉含蓄而文意清晰，歷史類比增深度及說服力；避免直諫激怒君主，收「言之者無罪，聞之者足戒」效果"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[15].blocks[0][1][5]",
+        "section": "手法、修辭、效果與語言風格（3）"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-15-00-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-84a99b6d28ffa516",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "手法、修辭、效果與語言風格",
+    "fields": {
+      "內容": "語言兼說服力與感染力：開首斷言、末段總括帶出觀點；中間鋪張描寫見艱辛與不肖；比喻、排偶、設問使內容鮮明生動；褒貶、感歎使史論情理兼備。所有手法須連原句和具體作用，不能只列名稱。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[15].blocks[1]",
+        "section": "手法、修辭、效果與語言風格（3）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a3146522c553fe1c",
+    "chapterId": "essay-10",
+    "category": "exam",
+    "title": "歷年考查提示",
+    "fields": {
+      "內容": "下表列出歷年考查的知識方向；題目、答案與適用條件見配套考查索引。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[16].blocks[0]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3c23663e482eeb1b",
+    "chapterId": "essay-10",
+    "category": "exam",
+    "title": "2018",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "字詞：固的語境義"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[16].blocks[1][1][1]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4b4b35ce07d1556f",
+    "chapterId": "essay-10",
+    "category": "exam",
+    "title": "2020",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "論證：引文的說理手法；喻證：抱薪救火與賂秦道理的對應"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[16].blocks[1][1][2]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2bd39a06d062a943",
+    "chapterId": "essay-10",
+    "category": "exam",
+    "title": "2024",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "字詞：率"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[16].blocks[1][1][3]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fda7108b9cfa632c",
+    "chapterId": "essay-10",
+    "category": "exam",
+    "title": "2025",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "虛詞比較：以的用法，含四篇選項"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[16].blocks[1][1][4]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-81b407585b8ea9d3",
+    "chapterId": "essay-10",
+    "category": "exam",
+    "title": "2025",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "情理與游說：情與理各舉一例說明"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[16].blocks[1][1][5]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-35f563e1c50521a2",
+    "chapterId": "essay-10",
+    "category": "structure",
+    "title": "章末串連｜重建全文",
+    "fields": {
+      "內容": "個別亡國原因不同，卻可放回賂秦削弱共同抗秦力量的整體解釋。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[17].blocks[0]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-50d265d13f5a07a0",
+    "chapterId": "essay-10",
+    "category": "structure",
+    "title": "確立總論",
+    "fields": {
+      "怎樣連起來": "先否定兵、戰為根本原因，再以「賂秦而力虧」和「不賂者以賂者喪」統領。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[17].blocks[1][1][1]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-566aab0cc29646bf",
+    "chapterId": "essay-10",
+    "category": "structure",
+    "title": "分開證明",
+    "fields": {
+      "怎樣連起來": "韓魏楚以地求安，秦欲愈甚；齊不援、燕行刺、趙失良將，兼失強援而亡。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[17].blocks[1][1][2]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a795d678ab0136f4",
+    "chapterId": "essay-10",
+    "category": "structure",
+    "title": "轉向當世",
+    "fields": {
+      "怎樣連起來": "假設封謀臣、禮奇才、合力抗秦，提出另一條路；最後警告北宋勿重蹈覆轍。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[9].pages[17].blocks[1][1][3]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c0b05852813d8677",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "反問與設問",
+    "fields": {
+      "內容": "反問用疑問形式表達已確定的意思，通常不需回答，以加強語氣；設問先提出問題再作回答，引導讀者理解。判斷時看句子在上下文的作用，不能只憑問號。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[215].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[858].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[859].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[860].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-appendix-008",
+      "full-b-10-01-03-5",
+      "full-b-10-01-03-6",
+      "full-b-10-01-03-7"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1f36d13737e65b52",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "對比與襯托",
+    "fields": {
+      "內容": "對比把兩方並置，突出差異，兩方都參與表意；襯托有主次，以陪襯的一方突出主要對象。分析須指出哪兩方、在哪一方面形成關係，以及這個關係如何支持文意。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[867].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[929].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1182].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-02-03-4",
+      "full-b-10-07-00-b",
+      "full-b-10-10-02-27"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a143e19239fe51c9",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "比喻",
+    "fields": {
+      "內容": "比喻把兩種不同而具有相似點的事物聯繫起來。本體是要說明的對象，喻體是用來作比的事物。明喻常用「如、似、猶」等喻詞；暗喻以「是、為」等把兩者連起來；借喻只出現喻體。辨析時須指出相似點和具體作用。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[870].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[877].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1246].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2139].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-02-03-8",
+      "full-b-10-03-03-7",
+      "full-b-10-14-00-10",
+      "dse-2020-1a-5-i"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cb313cca0d9140c2",
+    "chapterId": "essay-10",
+    "category": "theme",
+    "title": "被動句",
+    "fields": {
+      "內容": "被動句中主語是動作的承受者。文言可用「見」「於」「為……所……」等標誌，也可不帶標誌而由語意判斷。不能看見「於」或「為」就直接判作被動，須查明動作由誰發出、誰承受。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[900].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1158].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1159].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1222].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-06-03-7",
+      "full-b-10-10-01-5",
+      "full-b-10-10-01-7",
+      "full-b-10-12-00-1"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-82e065f96435ad1d",
+    "chapterId": "essay-10",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "燕曾守土有效，後用刺客招禍；趙曾屢退秦軍，後殺李牧。段末是假設另一種選擇，不是記載六國實際合力取勝。\n與割地事秦相比，同樣土地和心力可以轉向用才自強。「為國者」把教訓推廣到治國者，也為末段諷今鋪路。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1239].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-14-00-3"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-dab5d08694c35cf2",
+    "chapterId": "essay-10",
+    "category": "theme",
+    "title": "舉例與引用",
+    "fields": {
+      "內容": "舉例以具體事實、人物或事件支持道理；引用借用前人話語或文獻作依據。兩者可以在同一段並用，須按題目所問的範圍辨認，並說明例子或引語支持哪個論點。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1246].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2139].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-14-00-10",
+      "dse-2020-1a-5-i"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-84a3752bb007d959",
+    "chapterId": "essay-10",
+    "category": "technique",
+    "title": "借代",
+    "fields": {
+      "內容": "借代利用事物之間的關聯，以特徵、部分、材料或相關事物代替本體。比喻依靠相似，借代依靠關聯。答題要說明代指對象及兩者關係。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1246].learning.knowledge[2]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-b-10-14-00-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  }
+]

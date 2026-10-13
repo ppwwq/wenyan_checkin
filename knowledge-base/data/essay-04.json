@@ -1,0 +1,5864 @@
+[
+  {
+    "id": "k-9b0545df0e68a2e8",
+    "chapterId": "essay-04",
+    "category": "background",
+    "title": "作者與題旨",
+    "fields": {
+      "作者": "莊子"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].author",
+        "section": "逍遙遊"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-89941c496e25bde0",
+    "chapterId": "essay-04",
+    "category": "theme",
+    "title": "一句話題旨",
+    "fields": {
+      "題旨": "用與無用的思辨"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].desc",
+        "section": "逍遙遊"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b0da58d2e1d1172a",
+    "chapterId": "essay-04",
+    "category": "background",
+    "title": "作者、時代與文體",
+    "fields": {
+      "資料": "莊子｜戰國｜寓言說理選段"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[0].blocks[0]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e9a80f0d31a3d2ee",
+    "chapterId": "essay-04",
+    "category": "theme",
+    "title": "莊子｜戰國｜寓言說理選段",
+    "fields": {
+      "內容": "突破單一的有用標準，順應事物本性，從別用走向無用而免害的自由。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[0].blocks[1]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6d93bb3e7dfcc848",
+    "chapterId": "essay-04",
+    "category": "structure",
+    "title": "內容線索",
+    "fields": {
+      "內容": "惠子毀瓠→同藥異用→大瓠腰舟→樗樹遭棄→狸牛比較→樹下逍遙"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[0].blocks[3]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1417f582c594ec04",
+    "chapterId": "essay-04",
+    "category": "theme",
+    "title": "理解關鍵",
+    "fields": {
+      "內容": "藥方本來有用，故事直接說明用法不同；樗樹才進一步呈現無用之用。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[0].blocks[5]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p00-b05-x008"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-80ef92de355a162f",
+    "chapterId": "essay-04",
+    "category": "background",
+    "title": "題解與文體",
+    "fields": {
+      "內容": "本節錄只有惠莊兩輪問答；人物在寓言中的立場，不代表其全部歷史思想。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[0].blocks[7]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d48741fc0b036ca1",
+    "chapterId": "essay-04",
+    "category": "theme",
+    "title": "句段核心：第1段｜原文與語譯 1",
+    "fields": {
+      "重點": "大瓠沒有常用小用途，仍可改作適合的大用途。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[1].core",
+        "section": "第1段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9129a67b37e7d1b8",
+    "chapterId": "essay-04",
+    "category": "text",
+    "title": "第1段｜原文與語譯 1",
+    "fields": {
+      "原文": "惠子謂莊子曰：「魏王貽我大瓠之種，我樹之成而實五石。以盛水漿，其堅不能自舉也。剖之以為瓢，則瓠落無所容。非不呺然大也，吾為其無用而掊之。」莊子曰：「夫子固拙於用大矣！宋人有善為不龜手之藥者，世世以洴澼絖為事。客聞之，請買其方百金。"
+    },
+    "context": "惠子謂莊子曰：「魏王貽我大瓠之種，我樹之成而實五石。以盛水漿，其堅不能自舉也。剖之以為瓢，則瓠落無所容。非不呺然大也，吾為其無用而掊之。」莊子曰：「夫子固拙於用大矣！宋人有善為不龜手之藥者，世世以洴澼絖為事。客聞之，請買其方百金。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[1].blocks[0]",
+        "section": "第1段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "q-e04-exp-001",
+      "q-e04-exp-002",
+      "q-e04-exp-003",
+      "full-a-e04-p01-b00-v01",
+      "full-a-e04-p01-b00-v03",
+      "full-a-e04-p01-b00-v04",
+      "full-a-e04-p01-b00-v05",
+      "full-a-e04-p01-b00-v07",
+      "full-a-e04-p01-b00-v09",
+      "full-a-e04-p01-b00-v10",
+      "full-a-e04-p01-b00-v11",
+      "full-a-e04-p04-b00-v00",
+      "full-a-e04-p04-b00-v02",
+      "full-a-e04-p04-b00-v03",
+      "full-a-e04-p01-b00-translation",
+      "full-a-e04-p06-b00-c01",
+      "full-a-e04-p11-b00-c01",
+      "full-a-e04-p11-b00-c02",
+      "full-a-e04-p11-b00-c03",
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p08-b00-x010",
+      "dse-2021-1a-3",
+      "dse-2021-1a-4-i",
+      "dse-2021-1a-4-ii",
+      "dse-2021-1a-5",
+      "dse-2025-1a-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bec5e2b89c932275",
+    "chapterId": "essay-04",
+    "category": "text",
+    "title": "第1段｜原文與語譯 1",
+    "fields": {
+      "語譯": "惠子對莊子說：「魏王送我一顆大葫蘆的種子，我種下它後，結出的果實有五石的容量。用它來盛水，它的堅固程度卻（因不能承受水的重量而）不能提舉起來。把它剖開做瓢，它就又大而平淺得無法容納東西。這個葫蘆不是不大呀，我認為它沒有用處，便把它擊碎了。」莊子說：「你實在不善於使用大的東西啊！宋國有一個善於製造防止皮膚凍壞的藥的人，他的家族世世代代以漂洗絲絮為業。有一個客人聽說了這件事，願意用百金來購買他的藥方。"
+    },
+    "context": "惠子謂莊子曰：「魏王貽我大瓠之種，我樹之成而實五石。以盛水漿，其堅不能自舉也。剖之以為瓢，則瓠落無所容。非不呺然大也，吾為其無用而掊之。」莊子曰：「夫子固拙於用大矣！宋人有善為不龜手之藥者，世世以洴澼絖為事。客聞之，請買其方百金。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[1].blocks[2]",
+        "section": "第1段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "q-e04-exp-001",
+      "q-e04-exp-002",
+      "q-e04-exp-003",
+      "full-a-e04-p01-b00-v01",
+      "full-a-e04-p01-b00-v03",
+      "full-a-e04-p01-b00-v04",
+      "full-a-e04-p01-b00-v05",
+      "full-a-e04-p01-b00-v07",
+      "full-a-e04-p01-b00-v09",
+      "full-a-e04-p01-b00-v10",
+      "full-a-e04-p01-b00-v11",
+      "full-a-e04-p04-b00-v00",
+      "full-a-e04-p04-b00-v02",
+      "full-a-e04-p04-b00-v03",
+      "full-a-e04-p01-b00-translation",
+      "full-a-e04-p06-b00-c01",
+      "full-a-e04-p11-b00-c01",
+      "full-a-e04-p11-b00-c02",
+      "full-a-e04-p11-b00-c03",
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p08-b00-x010",
+      "dse-2021-1a-3",
+      "dse-2021-1a-4-i",
+      "dse-2021-1a-4-ii",
+      "dse-2021-1a-5",
+      "dse-2025-1a-2"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5594c1928b59894e",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "貽",
+    "fields": {
+      "詞義": "贈送"
+    },
+    "context": "惠子謂莊子曰：「魏王貽我大瓠之種，我樹之成而實五石。以盛水漿，其堅不能自舉也。剖之以為瓢，則瓠落無所容。非不呺然大也，吾為其無用而掊之。」莊子曰：「夫子固拙於用大矣！宋人有善為不龜手之藥者，世世以洴澼絖為事。客聞之，請買其方百金。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[1].blocks[3][1][0]",
+        "section": "第1段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3122bf473ef939e8",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "瓠",
+    "fields": {
+      "詞義": "葫蘆"
+    },
+    "context": "惠子謂莊子曰：「魏王貽我大瓠之種，我樹之成而實五石。以盛水漿，其堅不能自舉也。剖之以為瓢，則瓠落無所容。非不呺然大也，吾為其無用而掊之。」莊子曰：「夫子固拙於用大矣！宋人有善為不龜手之藥者，世世以洴澼絖為事。客聞之，請買其方百金。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[1].blocks[3][1][1]",
+        "section": "第1段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6c4da6fe85363d79",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "樹",
+    "fields": {
+      "詞義": "種植"
+    },
+    "context": "惠子謂莊子曰：「魏王貽我大瓠之種，我樹之成而實五石。以盛水漿，其堅不能自舉也。剖之以為瓢，則瓠落無所容。非不呺然大也，吾為其無用而掊之。」莊子曰：「夫子固拙於用大矣！宋人有善為不龜手之藥者，世世以洴澼絖為事。客聞之，請買其方百金。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[1].blocks[3][1][2]",
+        "section": "第1段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cbb00cfab55f18a9",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "實",
+    "fields": {
+      "詞義": "結果實"
+    },
+    "context": "惠子謂莊子曰：「魏王貽我大瓠之種，我樹之成而實五石。以盛水漿，其堅不能自舉也。剖之以為瓢，則瓠落無所容。非不呺然大也，吾為其無用而掊之。」莊子曰：「夫子固拙於用大矣！宋人有善為不龜手之藥者，世世以洴澼絖為事。客聞之，請買其方百金。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[1].blocks[3][1][3]",
+        "section": "第1段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b69f05855670e1ea",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "五石",
+    "fields": {
+      "詞義": "容量大"
+    },
+    "context": "惠子謂莊子曰：「魏王貽我大瓠之種，我樹之成而實五石。以盛水漿，其堅不能自舉也。剖之以為瓢，則瓠落無所容。非不呺然大也，吾為其無用而掊之。」莊子曰：「夫子固拙於用大矣！宋人有善為不龜手之藥者，世世以洴澼絖為事。客聞之，請買其方百金。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[1].blocks[3][1][4]",
+        "section": "第1段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cccc84b342566197",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "自舉",
+    "fields": {
+      "詞義": "自行承重提起"
+    },
+    "context": "惠子謂莊子曰：「魏王貽我大瓠之種，我樹之成而實五石。以盛水漿，其堅不能自舉也。剖之以為瓢，則瓠落無所容。非不呺然大也，吾為其無用而掊之。」莊子曰：「夫子固拙於用大矣！宋人有善為不龜手之藥者，世世以洴澼絖為事。客聞之，請買其方百金。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[1].blocks[3][1][5]",
+        "section": "第1段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f8e0922012a94fb9",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "瓠落",
+    "fields": {
+      "詞義": "大而平淺；另有廓落難容解"
+    },
+    "context": "惠子謂莊子曰：「魏王貽我大瓠之種，我樹之成而實五石。以盛水漿，其堅不能自舉也。剖之以為瓢，則瓠落無所容。非不呺然大也，吾為其無用而掊之。」莊子曰：「夫子固拙於用大矣！宋人有善為不龜手之藥者，世世以洴澼絖為事。客聞之，請買其方百金。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[1].blocks[3][1][6]",
+        "section": "第1段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "multiple-interpretations",
+      "notes": [
+        "詞解本身明列異解：大而平淺；另有廓落難容解；保留閱讀，不設唯一判分。"
+      ]
+    }
+  },
+  {
+    "id": "k-1b4a2df6fe9896fb",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "呺然",
+    "fields": {
+      "詞義": "空大貌"
+    },
+    "context": "惠子謂莊子曰：「魏王貽我大瓠之種，我樹之成而實五石。以盛水漿，其堅不能自舉也。剖之以為瓢，則瓠落無所容。非不呺然大也，吾為其無用而掊之。」莊子曰：「夫子固拙於用大矣！宋人有善為不龜手之藥者，世世以洴澼絖為事。客聞之，請買其方百金。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[1].blocks[3][1][7]",
+        "section": "第1段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4a609fcc15b206bf",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "掊",
+    "fields": {
+      "詞義": "擊破"
+    },
+    "context": "惠子謂莊子曰：「魏王貽我大瓠之種，我樹之成而實五石。以盛水漿，其堅不能自舉也。剖之以為瓢，則瓠落無所容。非不呺然大也，吾為其無用而掊之。」莊子曰：「夫子固拙於用大矣！宋人有善為不龜手之藥者，世世以洴澼絖為事。客聞之，請買其方百金。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[1].blocks[3][1][8]",
+        "section": "第1段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d668f9dd4230091d",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "固",
+    "fields": {
+      "詞義": "實在、本來"
+    },
+    "context": "惠子謂莊子曰：「魏王貽我大瓠之種，我樹之成而實五石。以盛水漿，其堅不能自舉也。剖之以為瓢，則瓠落無所容。非不呺然大也，吾為其無用而掊之。」莊子曰：「夫子固拙於用大矣！宋人有善為不龜手之藥者，世世以洴澼絖為事。客聞之，請買其方百金。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[1].blocks[3][1][9]",
+        "section": "第1段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-af8aa02db605bdb9",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "拙",
+    "fields": {
+      "詞義": "不善於"
+    },
+    "context": "惠子謂莊子曰：「魏王貽我大瓠之種，我樹之成而實五石。以盛水漿，其堅不能自舉也。剖之以為瓢，則瓠落無所容。非不呺然大也，吾為其無用而掊之。」莊子曰：「夫子固拙於用大矣！宋人有善為不龜手之藥者，世世以洴澼絖為事。客聞之，請買其方百金。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[1].blocks[3][1][10]",
+        "section": "第1段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-dfb4b13e2e6f5ec6",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "龜",
+    "fields": {
+      "詞義": "通皸，皮膚凍裂"
+    },
+    "context": "惠子謂莊子曰：「魏王貽我大瓠之種，我樹之成而實五石。以盛水漿，其堅不能自舉也。剖之以為瓢，則瓠落無所容。非不呺然大也，吾為其無用而掊之。」莊子曰：「夫子固拙於用大矣！宋人有善為不龜手之藥者，世世以洴澼絖為事。客聞之，請買其方百金。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[1].blocks[3][1][11]",
+        "section": "第1段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-846073306d01377e",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "洴澼絖",
+    "fields": {
+      "詞義": "漂洗絲絮；絖另有棉絮解"
+    },
+    "context": "惠子謂莊子曰：「魏王貽我大瓠之種，我樹之成而實五石。以盛水漿，其堅不能自舉也。剖之以為瓢，則瓠落無所容。非不呺然大也，吾為其無用而掊之。」莊子曰：「夫子固拙於用大矣！宋人有善為不龜手之藥者，世世以洴澼絖為事。客聞之，請買其方百金。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[1].blocks[3][1][12]",
+        "section": "第1段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "multiple-interpretations",
+      "notes": [
+        "詞解本身明列異解：漂洗絲絮；絖另有棉絮解；保留閱讀，不設唯一判分。"
+      ]
+    }
+  },
+  {
+    "id": "k-db45e71a8f68281c",
+    "chapterId": "essay-04",
+    "category": "theme",
+    "title": "句段核心：第1段｜原文與語譯 2",
+    "fields": {
+      "重點": "大瓠沒有常用小用途，仍可改作適合的大用途。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[2].core",
+        "section": "第1段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5a5c3216f3be449f",
+    "chapterId": "essay-04",
+    "category": "text",
+    "title": "第1段｜原文與語譯 2",
+    "fields": {
+      "原文": "聚族而謀曰：『我世世為洴澼絖，不過數金；今一朝而鬻技百金，請與之。』客得之，以說吳王。越有難，吳王使之將，冬與越人水戰，大敗越人，裂地而封之。能不龜手一也；或以封，或不免於洴澼絖，則所用之異也。"
+    },
+    "context": "聚族而謀曰：『我世世為洴澼絖，不過數金；今一朝而鬻技百金，請與之。』客得之，以說吳王。越有難，吳王使之將，冬與越人水戰，大敗越人，裂地而封之。能不龜手一也；或以封，或不免於洴澼絖，則所用之異也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[2].blocks[0]",
+        "section": "第1段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "q-e04-exp-004",
+      "q-e04-exp-006",
+      "full-a-e04-p02-b00-v02",
+      "full-a-e04-p02-b00-v03",
+      "full-a-e04-p02-b00-v04",
+      "full-a-e04-p02-b00-v05",
+      "full-a-e04-p02-b00-v07",
+      "full-a-e04-p02-b00-translation",
+      "full-a-e04-p06-b00-c02",
+      "full-a-e04-p11-b00-c01",
+      "full-a-e04-p11-b00-c02",
+      "full-a-e04-p11-b00-c04",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35",
+      "dse-2021-1a-3",
+      "dse-2021-1a-4-i",
+      "dse-2021-1a-4-ii",
+      "dse-2021-1a-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3d61cfba252bdd31",
+    "chapterId": "essay-04",
+    "category": "text",
+    "title": "第1段｜原文與語譯 2",
+    "fields": {
+      "語譯": "他召集全個家族的人來商量說：『我們世世代代漂洗絲絮，所得的不過數金；現在一下子賣出藥方就可以獲得百金，請答允他吧。』客人得到這個藥方，便用來游說吳王。正巧越國入侵吳國，吳王派他統率大軍，冬天與越軍在水上交戰，大敗越軍，吳王劃地封賞他。能使手不龜裂的藥方是相同的；有的人用它獲得封賞，有的人卻只能靠它在水中漂洗絲絮，這就是使用方法的不同。"
+    },
+    "context": "聚族而謀曰：『我世世為洴澼絖，不過數金；今一朝而鬻技百金，請與之。』客得之，以說吳王。越有難，吳王使之將，冬與越人水戰，大敗越人，裂地而封之。能不龜手一也；或以封，或不免於洴澼絖，則所用之異也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[2].blocks[2]",
+        "section": "第1段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "q-e04-exp-004",
+      "q-e04-exp-006",
+      "full-a-e04-p02-b00-v02",
+      "full-a-e04-p02-b00-v03",
+      "full-a-e04-p02-b00-v04",
+      "full-a-e04-p02-b00-v05",
+      "full-a-e04-p02-b00-v07",
+      "full-a-e04-p02-b00-translation",
+      "full-a-e04-p06-b00-c02",
+      "full-a-e04-p11-b00-c01",
+      "full-a-e04-p11-b00-c02",
+      "full-a-e04-p11-b00-c04",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35",
+      "dse-2021-1a-3",
+      "dse-2021-1a-4-i",
+      "dse-2021-1a-4-ii",
+      "dse-2021-1a-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-db8c59baab43bd15",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "洴澼絖",
+    "fields": {
+      "詞義": "漂洗絲絮；絖另有棉絮解"
+    },
+    "context": "聚族而謀曰：『我世世為洴澼絖，不過數金；今一朝而鬻技百金，請與之。』客得之，以說吳王。越有難，吳王使之將，冬與越人水戰，大敗越人，裂地而封之。能不龜手一也；或以封，或不免於洴澼絖，則所用之異也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[2].blocks[3][1][0]",
+        "section": "第1段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "multiple-interpretations",
+      "notes": [
+        "詞解本身明列異解：漂洗絲絮；絖另有棉絮解；保留閱讀，不設唯一判分。"
+      ]
+    }
+  },
+  {
+    "id": "k-bb3635c4fc39d640",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "鬻",
+    "fields": {
+      "詞義": "賣"
+    },
+    "context": "聚族而謀曰：『我世世為洴澼絖，不過數金；今一朝而鬻技百金，請與之。』客得之，以說吳王。越有難，吳王使之將，冬與越人水戰，大敗越人，裂地而封之。能不龜手一也；或以封，或不免於洴澼絖，則所用之異也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[2].blocks[3][1][1]",
+        "section": "第1段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9a27ac428671b6cb",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "說",
+    "fields": {
+      "詞義": "游說"
+    },
+    "context": "聚族而謀曰：『我世世為洴澼絖，不過數金；今一朝而鬻技百金，請與之。』客得之，以說吳王。越有難，吳王使之將，冬與越人水戰，大敗越人，裂地而封之。能不龜手一也；或以封，或不免於洴澼絖，則所用之異也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[2].blocks[3][1][2]",
+        "section": "第1段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e44a06f8cbf534c4",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "難",
+    "fields": {
+      "詞義": "外敵侵擾"
+    },
+    "context": "聚族而謀曰：『我世世為洴澼絖，不過數金；今一朝而鬻技百金，請與之。』客得之，以說吳王。越有難，吳王使之將，冬與越人水戰，大敗越人，裂地而封之。能不龜手一也；或以封，或不免於洴澼絖，則所用之異也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[2].blocks[3][1][3]",
+        "section": "第1段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-67743fafcae9599d",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "將",
+    "fields": {
+      "詞義": "統率軍隊"
+    },
+    "context": "聚族而謀曰：『我世世為洴澼絖，不過數金；今一朝而鬻技百金，請與之。』客得之，以說吳王。越有難，吳王使之將，冬與越人水戰，大敗越人，裂地而封之。能不龜手一也；或以封，或不免於洴澼絖，則所用之異也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[2].blocks[3][1][4]",
+        "section": "第1段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9214c0c7022ea15c",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "裂地",
+    "fields": {
+      "詞義": "劃分土地"
+    },
+    "context": "聚族而謀曰：『我世世為洴澼絖，不過數金；今一朝而鬻技百金，請與之。』客得之，以說吳王。越有難，吳王使之將，冬與越人水戰，大敗越人，裂地而封之。能不龜手一也；或以封，或不免於洴澼絖，則所用之異也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[2].blocks[3][1][5]",
+        "section": "第1段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5f6aa1475553c2dd",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "龜",
+    "fields": {
+      "詞義": "通皸，皮膚凍裂"
+    },
+    "context": "聚族而謀曰：『我世世為洴澼絖，不過數金；今一朝而鬻技百金，請與之。』客得之，以說吳王。越有難，吳王使之將，冬與越人水戰，大敗越人，裂地而封之。能不龜手一也；或以封，或不免於洴澼絖，則所用之異也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[2].blocks[3][1][6]",
+        "section": "第1段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d81492ddbd0860e8",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "一",
+    "fields": {
+      "詞義": "相同"
+    },
+    "context": "聚族而謀曰：『我世世為洴澼絖，不過數金；今一朝而鬻技百金，請與之。』客得之，以說吳王。越有難，吳王使之將，冬與越人水戰，大敗越人，裂地而封之。能不龜手一也；或以封，或不免於洴澼絖，則所用之異也。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[2].blocks[3][1][7]",
+        "section": "第1段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-07fc40fe534b5cb0",
+    "chapterId": "essay-04",
+    "category": "theme",
+    "title": "句段核心：第1段｜原文與語譯 3",
+    "fields": {
+      "重點": "大瓠沒有常用小用途，仍可改作適合的大用途。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[3].core",
+        "section": "第1段｜原文與語譯 3"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-390b1d937f34acb1",
+    "chapterId": "essay-04",
+    "category": "text",
+    "title": "第1段｜原文與語譯 3",
+    "fields": {
+      "原文": "今子有五石之瓠，何不慮以為大樽而浮於江湖，而憂其瓠落無所容，則夫子猶有蓬之心也夫！」"
+    },
+    "context": "今子有五石之瓠，何不慮以為大樽而浮於江湖，而憂其瓠落無所容，則夫子猶有蓬之心也夫！」",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[3].blocks[0]",
+        "section": "第1段｜原文與語譯 3"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p03-b00-v02",
+      "full-a-e04-p03-b00-v03",
+      "full-a-e04-p03-b00-v05",
+      "full-a-e04-p03-b00-translation",
+      "full-a-e04-p06-b00-c02",
+      "full-a-e04-p11-b00-c01",
+      "full-a-e04-p11-b00-c02",
+      "full-a-e04-p11-b00-c05",
+      "full-a-e04-p00-b05-x008",
+      "dse-2021-1a-3",
+      "dse-2021-1a-4-i",
+      "dse-2021-1a-4-ii",
+      "dse-2021-1a-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5e5b19f0bb080549",
+    "chapterId": "essay-04",
+    "category": "text",
+    "title": "第1段｜原文與語譯 3",
+    "fields": {
+      "語譯": "現在你有五石容量的大葫蘆，為甚麼不繫着它當腰舟，而浮游於江湖之上，反而擔憂它太大而無法容納東西呢？可見你的心還是茅塞不通啊！」"
+    },
+    "context": "今子有五石之瓠，何不慮以為大樽而浮於江湖，而憂其瓠落無所容，則夫子猶有蓬之心也夫！」",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[3].blocks[2]",
+        "section": "第1段｜原文與語譯 3"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p03-b00-v02",
+      "full-a-e04-p03-b00-v03",
+      "full-a-e04-p03-b00-v05",
+      "full-a-e04-p03-b00-translation",
+      "full-a-e04-p06-b00-c02",
+      "full-a-e04-p11-b00-c01",
+      "full-a-e04-p11-b00-c02",
+      "full-a-e04-p11-b00-c05",
+      "full-a-e04-p00-b05-x008",
+      "dse-2021-1a-3",
+      "dse-2021-1a-4-i",
+      "dse-2021-1a-4-ii",
+      "dse-2021-1a-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e817bbecf1c1f977",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "五石",
+    "fields": {
+      "詞義": "容量大"
+    },
+    "context": "今子有五石之瓠，何不慮以為大樽而浮於江湖，而憂其瓠落無所容，則夫子猶有蓬之心也夫！」",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[3].blocks[3][1][0]",
+        "section": "第1段｜原文與語譯 3"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ee9e75a3b9165527",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "瓠",
+    "fields": {
+      "詞義": "葫蘆"
+    },
+    "context": "今子有五石之瓠，何不慮以為大樽而浮於江湖，而憂其瓠落無所容，則夫子猶有蓬之心也夫！」",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[3].blocks[3][1][1]",
+        "section": "第1段｜原文與語譯 3"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-df45ab1d0bc5009e",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "慮",
+    "fields": {
+      "詞義": "綴結、繫結"
+    },
+    "context": "今子有五石之瓠，何不慮以為大樽而浮於江湖，而憂其瓠落無所容，則夫子猶有蓬之心也夫！」",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[3].blocks[3][1][2]",
+        "section": "第1段｜原文與語譯 3"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-67822da9bb2e2a42",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "大樽",
+    "fields": {
+      "詞義": "腰舟，浮水工具"
+    },
+    "context": "今子有五石之瓠，何不慮以為大樽而浮於江湖，而憂其瓠落無所容，則夫子猶有蓬之心也夫！」",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[3].blocks[3][1][3]",
+        "section": "第1段｜原文與語譯 3"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ed13e32e9ea08583",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "瓠落",
+    "fields": {
+      "詞義": "大而平淺；另有廓落難容解"
+    },
+    "context": "今子有五石之瓠，何不慮以為大樽而浮於江湖，而憂其瓠落無所容，則夫子猶有蓬之心也夫！」",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[3].blocks[3][1][4]",
+        "section": "第1段｜原文與語譯 3"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "multiple-interpretations",
+      "notes": [
+        "詞解本身明列異解：大而平淺；另有廓落難容解；保留閱讀，不設唯一判分。"
+      ]
+    }
+  },
+  {
+    "id": "k-2ea22b0e979128f5",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "蓬之心",
+    "fields": {
+      "詞義": "茅塞不通的心思"
+    },
+    "context": "今子有五石之瓠，何不慮以為大樽而浮於江湖，而憂其瓠落無所容，則夫子猶有蓬之心也夫！」",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[3].blocks[3][1][5]",
+        "section": "第1段｜原文與語譯 3"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-709b6b23925b82ec",
+    "chapterId": "essay-04",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "同一藥方，宋人以漂絮為業，客人用於水戰而受封；差別在用法，不在改良藥方。這為腰舟的建議提供類比。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[3].blocks[4]",
+        "section": "第1段｜原文與語譯 3"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[311].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[312].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[313].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[425].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[478].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[485].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p03-b00-v02",
+      "full-a-e04-p03-b00-v03",
+      "full-a-e04-p03-b00-v05",
+      "full-a-e04-p03-b00-translation",
+      "full-a-e04-p06-b00-c02",
+      "full-a-e04-p11-b00-c05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4d5e4d162ff33024",
+    "chapterId": "essay-04",
+    "category": "theme",
+    "title": "句段核心：第2段｜原文與語譯 1",
+    "fields": {
+      "重點": "無用可避斧害，樗樹反成自在遊臥的所在。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[4].core",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-99db834cbf45c120",
+    "chapterId": "essay-04",
+    "category": "text",
+    "title": "第2段｜原文與語譯 1",
+    "fields": {
+      "原文": "惠子謂莊子曰：「吾有大樹，人謂之樗；其大本擁腫而不中繩墨，其小枝卷曲而不中規矩。立之塗，匠者不顧。今子之言，大而無用，衆所同去也。」莊子曰：「子獨不見狸狌乎？卑身而伏，以候敖者；東西跳梁，不辟高下，中於機辟，死於罔罟。"
+    },
+    "context": "惠子謂莊子曰：「吾有大樹，人謂之樗；其大本擁腫而不中繩墨，其小枝卷曲而不中規矩。立之塗，匠者不顧。今子之言，大而無用，衆所同去也。」莊子曰：「子獨不見狸狌乎？卑身而伏，以候敖者；東西跳梁，不辟高下，中於機辟，死於罔罟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[4].blocks[0]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "q-e04-exp-001",
+      "q-e04-exp-002",
+      "q-e04-exp-005",
+      "full-a-e04-p01-b00-v01",
+      "full-a-e04-p01-b00-v03",
+      "full-a-e04-p01-b00-v04",
+      "full-a-e04-p01-b00-v05",
+      "full-a-e04-p04-b00-v00",
+      "full-a-e04-p04-b00-v02",
+      "full-a-e04-p04-b00-v03",
+      "full-a-e04-p04-b00-v04",
+      "full-a-e04-p04-b00-v05",
+      "full-a-e04-p04-b00-v06",
+      "full-a-e04-p04-b00-v07",
+      "full-a-e04-p04-b00-v08",
+      "full-a-e04-p04-b00-v09",
+      "full-a-e04-p04-b00-v10",
+      "full-a-e04-p04-b00-v11",
+      "full-a-e04-p04-b00-v12",
+      "full-a-e04-p04-b00-v13",
+      "full-a-e04-p04-b00-v14",
+      "full-a-e04-p04-b00-translation",
+      "full-a-e04-p06-b00-c03",
+      "full-a-e04-p11-b00-c01",
+      "full-a-e04-p11-b00-c02",
+      "full-a-e04-p11-b00-c03",
+      "full-a-e04-p11-b00-c07",
+      "full-a-e04-p09-b01-g02",
+      "full-a-e04-p09-b01-g04",
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p07-b00-x009",
+      "dse-2021-1a-3",
+      "dse-2021-1a-4-i",
+      "dse-2021-1a-4-ii",
+      "dse-2021-1a-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0b7af5ec2a59b49e",
+    "chapterId": "essay-04",
+    "category": "text",
+    "title": "第2段｜原文與語譯 1",
+    "fields": {
+      "語譯": "惠子對莊子說：「我有一棵大樹，人們叫它做『樗』。它的樹幹長了很多木瘤，不符合繩墨取直的要求，它的樹枝彎彎曲曲，不符合圓規和角尺的標準。它生長在路邊，經過的木匠都不會回頭看它。現在你的言論，大而無用，因此大家都鄙棄了。」莊子說：「你沒有看見過野貓和黃鼠狼嗎？牠們低着身伏在地，等候出洞遊逛的小動物；東西跳躍，不避高低，結果踏中機關陷阱，死於獵網之中。"
+    },
+    "context": "惠子謂莊子曰：「吾有大樹，人謂之樗；其大本擁腫而不中繩墨，其小枝卷曲而不中規矩。立之塗，匠者不顧。今子之言，大而無用，衆所同去也。」莊子曰：「子獨不見狸狌乎？卑身而伏，以候敖者；東西跳梁，不辟高下，中於機辟，死於罔罟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[4].blocks[2]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [
+      "q-e04-exp-001",
+      "q-e04-exp-002",
+      "q-e04-exp-005",
+      "full-a-e04-p01-b00-v01",
+      "full-a-e04-p01-b00-v03",
+      "full-a-e04-p01-b00-v04",
+      "full-a-e04-p01-b00-v05",
+      "full-a-e04-p04-b00-v00",
+      "full-a-e04-p04-b00-v02",
+      "full-a-e04-p04-b00-v03",
+      "full-a-e04-p04-b00-v04",
+      "full-a-e04-p04-b00-v05",
+      "full-a-e04-p04-b00-v06",
+      "full-a-e04-p04-b00-v07",
+      "full-a-e04-p04-b00-v08",
+      "full-a-e04-p04-b00-v09",
+      "full-a-e04-p04-b00-v10",
+      "full-a-e04-p04-b00-v11",
+      "full-a-e04-p04-b00-v12",
+      "full-a-e04-p04-b00-v13",
+      "full-a-e04-p04-b00-v14",
+      "full-a-e04-p04-b00-translation",
+      "full-a-e04-p06-b00-c03",
+      "full-a-e04-p11-b00-c01",
+      "full-a-e04-p11-b00-c02",
+      "full-a-e04-p11-b00-c03",
+      "full-a-e04-p11-b00-c07",
+      "full-a-e04-p09-b01-g02",
+      "full-a-e04-p09-b01-g04",
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p07-b00-x009",
+      "dse-2021-1a-3",
+      "dse-2021-1a-4-i",
+      "dse-2021-1a-4-ii",
+      "dse-2021-1a-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fb15bb88f4d22c63",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "樗",
+    "fields": {
+      "詞義": "木名，形質不宜作材"
+    },
+    "context": "惠子謂莊子曰：「吾有大樹，人謂之樗；其大本擁腫而不中繩墨，其小枝卷曲而不中規矩。立之塗，匠者不顧。今子之言，大而無用，衆所同去也。」莊子曰：「子獨不見狸狌乎？卑身而伏，以候敖者；東西跳梁，不辟高下，中於機辟，死於罔罟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[4].blocks[3][1][0]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8a1694e8886073cd",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "本",
+    "fields": {
+      "詞義": "樹幹"
+    },
+    "context": "惠子謂莊子曰：「吾有大樹，人謂之樗；其大本擁腫而不中繩墨，其小枝卷曲而不中規矩。立之塗，匠者不顧。今子之言，大而無用，衆所同去也。」莊子曰：「子獨不見狸狌乎？卑身而伏，以候敖者；東西跳梁，不辟高下，中於機辟，死於罔罟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[4].blocks[3][1][1]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-574ae6b1c6fa1cd3",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "擁腫",
+    "fields": {
+      "詞義": "粗大多瘤"
+    },
+    "context": "惠子謂莊子曰：「吾有大樹，人謂之樗；其大本擁腫而不中繩墨，其小枝卷曲而不中規矩。立之塗，匠者不顧。今子之言，大而無用，衆所同去也。」莊子曰：「子獨不見狸狌乎？卑身而伏，以候敖者；東西跳梁，不辟高下，中於機辟，死於罔罟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[4].blocks[3][1][2]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d33b44584a97fc63",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "中",
+    "fields": {
+      "詞義": "符合"
+    },
+    "context": "惠子謂莊子曰：「吾有大樹，人謂之樗；其大本擁腫而不中繩墨，其小枝卷曲而不中規矩。立之塗，匠者不顧。今子之言，大而無用，衆所同去也。」莊子曰：「子獨不見狸狌乎？卑身而伏，以候敖者；東西跳梁，不辟高下，中於機辟，死於罔罟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[4].blocks[3][1][3]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-97580a42587c1126",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "規矩",
+    "fields": {
+      "詞義": "圓規和角尺"
+    },
+    "context": "惠子謂莊子曰：「吾有大樹，人謂之樗；其大本擁腫而不中繩墨，其小枝卷曲而不中規矩。立之塗，匠者不顧。今子之言，大而無用，衆所同去也。」莊子曰：「子獨不見狸狌乎？卑身而伏，以候敖者；東西跳梁，不辟高下，中於機辟，死於罔罟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[4].blocks[3][1][4]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fdfdf5f6be25375b",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "塗",
+    "fields": {
+      "詞義": "通途，道路"
+    },
+    "context": "惠子謂莊子曰：「吾有大樹，人謂之樗；其大本擁腫而不中繩墨，其小枝卷曲而不中規矩。立之塗，匠者不顧。今子之言，大而無用，衆所同去也。」莊子曰：「子獨不見狸狌乎？卑身而伏，以候敖者；東西跳梁，不辟高下，中於機辟，死於罔罟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[4].blocks[3][1][5]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-990f959e14cd22cb",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "顧",
+    "fields": {
+      "詞義": "看"
+    },
+    "context": "惠子謂莊子曰：「吾有大樹，人謂之樗；其大本擁腫而不中繩墨，其小枝卷曲而不中規矩。立之塗，匠者不顧。今子之言，大而無用，衆所同去也。」莊子曰：「子獨不見狸狌乎？卑身而伏，以候敖者；東西跳梁，不辟高下，中於機辟，死於罔罟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[4].blocks[3][1][6]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bd6b9e72d9be7b6a",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "去",
+    "fields": {
+      "詞義": "鄙棄"
+    },
+    "context": "惠子謂莊子曰：「吾有大樹，人謂之樗；其大本擁腫而不中繩墨，其小枝卷曲而不中規矩。立之塗，匠者不顧。今子之言，大而無用，衆所同去也。」莊子曰：「子獨不見狸狌乎？卑身而伏，以候敖者；東西跳梁，不辟高下，中於機辟，死於罔罟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[4].blocks[3][1][7]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-818578f6f7a01929",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "狸狌",
+    "fields": {
+      "詞義": "野貓、黃鼠狼一類"
+    },
+    "context": "惠子謂莊子曰：「吾有大樹，人謂之樗；其大本擁腫而不中繩墨，其小枝卷曲而不中規矩。立之塗，匠者不顧。今子之言，大而無用，衆所同去也。」莊子曰：「子獨不見狸狌乎？卑身而伏，以候敖者；東西跳梁，不辟高下，中於機辟，死於罔罟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[4].blocks[3][1][8]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bfc07f6d7807d08a",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "卑",
+    "fields": {
+      "詞義": "低下"
+    },
+    "context": "惠子謂莊子曰：「吾有大樹，人謂之樗；其大本擁腫而不中繩墨，其小枝卷曲而不中規矩。立之塗，匠者不顧。今子之言，大而無用，衆所同去也。」莊子曰：「子獨不見狸狌乎？卑身而伏，以候敖者；東西跳梁，不辟高下，中於機辟，死於罔罟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[4].blocks[3][1][9]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0f3212e925a39de6",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "敖",
+    "fields": {
+      "詞義": "通遨，遊走"
+    },
+    "context": "惠子謂莊子曰：「吾有大樹，人謂之樗；其大本擁腫而不中繩墨，其小枝卷曲而不中規矩。立之塗，匠者不顧。今子之言，大而無用，衆所同去也。」莊子曰：「子獨不見狸狌乎？卑身而伏，以候敖者；東西跳梁，不辟高下，中於機辟，死於罔罟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[4].blocks[3][1][10]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a5166ac72360816a",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "跳梁",
+    "fields": {
+      "詞義": "跳躍"
+    },
+    "context": "惠子謂莊子曰：「吾有大樹，人謂之樗；其大本擁腫而不中繩墨，其小枝卷曲而不中規矩。立之塗，匠者不顧。今子之言，大而無用，衆所同去也。」莊子曰：「子獨不見狸狌乎？卑身而伏，以候敖者；東西跳梁，不辟高下，中於機辟，死於罔罟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[4].blocks[3][1][11]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e6a8bd6afc409e62",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "辟",
+    "fields": {
+      "詞義": "通避，躲避"
+    },
+    "context": "惠子謂莊子曰：「吾有大樹，人謂之樗；其大本擁腫而不中繩墨，其小枝卷曲而不中規矩。立之塗，匠者不顧。今子之言，大而無用，衆所同去也。」莊子曰：「子獨不見狸狌乎？卑身而伏，以候敖者；東西跳梁，不辟高下，中於機辟，死於罔罟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[4].blocks[3][1][12]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e50aa714d5e5a9cb",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "機辟",
+    "fields": {
+      "詞義": "機關陷阱"
+    },
+    "context": "惠子謂莊子曰：「吾有大樹，人謂之樗；其大本擁腫而不中繩墨，其小枝卷曲而不中規矩。立之塗，匠者不顧。今子之言，大而無用，衆所同去也。」莊子曰：「子獨不見狸狌乎？卑身而伏，以候敖者；東西跳梁，不辟高下，中於機辟，死於罔罟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[4].blocks[3][1][13]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c4c85d270aca528c",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "罔罟",
+    "fields": {
+      "詞義": "捕獸網"
+    },
+    "context": "惠子謂莊子曰：「吾有大樹，人謂之樗；其大本擁腫而不中繩墨，其小枝卷曲而不中規矩。立之塗，匠者不顧。今子之言，大而無用，衆所同去也。」莊子曰：「子獨不見狸狌乎？卑身而伏，以候敖者；東西跳梁，不辟高下，中於機辟，死於罔罟。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[4].blocks[3][1][14]",
+        "section": "第2段｜原文與語譯 1"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-034d2aca4a4910dd",
+    "chapterId": "essay-04",
+    "category": "theme",
+    "title": "句段核心：第2段｜原文與語譯 2",
+    "fields": {
+      "重點": "無用可避斧害，樗樹反成自在遊臥的所在。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[5].core",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-28419f3caa2d74b0",
+    "chapterId": "essay-04",
+    "category": "text",
+    "title": "第2段｜原文與語譯 2",
+    "fields": {
+      "原文": "今夫斄牛，其大若垂天之雲；此能為大矣，而不能執鼠。今子有大樹，患其無用，何不樹之於無何有之鄉，廣莫之野，彷徨乎無為其側，逍遙乎寢臥其下；不夭斤斧，物無害者。無所可用，安所困苦哉？」"
+    },
+    "context": "今夫斄牛，其大若垂天之雲；此能為大矣，而不能執鼠。今子有大樹，患其無用，何不樹之於無何有之鄉，廣莫之野，彷徨乎無為其側，逍遙乎寢臥其下；不夭斤斧，物無害者。無所可用，安所困苦哉？」",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[5].blocks[0]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "q-e04-exp-007",
+      "q-e04-exp-008",
+      "full-a-e04-p05-b00-v00",
+      "full-a-e04-p05-b00-v01",
+      "full-a-e04-p05-b00-v03",
+      "full-a-e04-p05-b00-v04",
+      "full-a-e04-p05-b00-v05",
+      "full-a-e04-p05-b00-v06",
+      "full-a-e04-p05-b00-v07",
+      "full-a-e04-p05-b00-v08",
+      "full-a-e04-p05-b00-translation",
+      "full-a-e04-p06-b00-c04",
+      "full-a-e04-p11-b00-c01",
+      "full-a-e04-p11-b00-c02",
+      "full-a-e04-p11-b00-c06",
+      "full-a-e04-p11-b00-c08",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28",
+      "full-a-e04-p00-b05-x008",
+      "full-b-08-18-01-2",
+      "dse-2021-1a-3",
+      "dse-2021-1a-4-i",
+      "dse-2021-1a-4-ii",
+      "dse-2021-1a-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5efcba97baa42f60",
+    "chapterId": "essay-04",
+    "category": "text",
+    "title": "第2段｜原文與語譯 2",
+    "fields": {
+      "語譯": "現在那些犛牛，牠龐大的身體就像掛在天邊的雲；牠的身形可以說大了，但不能捕捉老鼠。現在你有這棵大樹，卻擔憂它沒有用，為甚麼不把它種在一無所有的地方，無邊無際的曠野裏，無所事事地在樹旁徘徊，優遊自在地躺在樹下；（這棵大樹）不會遭到斧頭砍伐，沒有東西能傷害它。沒有甚麼可用之處，哪裏會有甚麼困苦禍害呢？」"
+    },
+    "context": "今夫斄牛，其大若垂天之雲；此能為大矣，而不能執鼠。今子有大樹，患其無用，何不樹之於無何有之鄉，廣莫之野，彷徨乎無為其側，逍遙乎寢臥其下；不夭斤斧，物無害者。無所可用，安所困苦哉？」",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[5].blocks[2]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [
+      "q-e04-exp-007",
+      "q-e04-exp-008",
+      "full-a-e04-p05-b00-v00",
+      "full-a-e04-p05-b00-v01",
+      "full-a-e04-p05-b00-v03",
+      "full-a-e04-p05-b00-v04",
+      "full-a-e04-p05-b00-v05",
+      "full-a-e04-p05-b00-v06",
+      "full-a-e04-p05-b00-v07",
+      "full-a-e04-p05-b00-v08",
+      "full-a-e04-p05-b00-translation",
+      "full-a-e04-p06-b00-c04",
+      "full-a-e04-p11-b00-c01",
+      "full-a-e04-p11-b00-c02",
+      "full-a-e04-p11-b00-c06",
+      "full-a-e04-p11-b00-c08",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28",
+      "full-a-e04-p00-b05-x008",
+      "full-b-08-18-01-2",
+      "dse-2021-1a-3",
+      "dse-2021-1a-4-i",
+      "dse-2021-1a-4-ii",
+      "dse-2021-1a-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9fd967668e391102",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "斄牛",
+    "fields": {
+      "詞義": "犛牛"
+    },
+    "context": "今夫斄牛，其大若垂天之雲；此能為大矣，而不能執鼠。今子有大樹，患其無用，何不樹之於無何有之鄉，廣莫之野，彷徨乎無為其側，逍遙乎寢臥其下；不夭斤斧，物無害者。無所可用，安所困苦哉？」",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[5].blocks[3][1][0]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-971ac14716bb9179",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "執",
+    "fields": {
+      "詞義": "捕捉"
+    },
+    "context": "今夫斄牛，其大若垂天之雲；此能為大矣，而不能執鼠。今子有大樹，患其無用，何不樹之於無何有之鄉，廣莫之野，彷徨乎無為其側，逍遙乎寢臥其下；不夭斤斧，物無害者。無所可用，安所困苦哉？」",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[5].blocks[3][1][1]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3fa5e9aba7728ec3",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "樹",
+    "fields": {
+      "詞義": "種植"
+    },
+    "context": "今夫斄牛，其大若垂天之雲；此能為大矣，而不能執鼠。今子有大樹，患其無用，何不樹之於無何有之鄉，廣莫之野，彷徨乎無為其側，逍遙乎寢臥其下；不夭斤斧，物無害者。無所可用，安所困苦哉？」",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[5].blocks[3][1][2]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9994efa68dce36ac",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "無何有之鄉",
+    "fields": {
+      "詞義": "一無所有的地方"
+    },
+    "context": "今夫斄牛，其大若垂天之雲；此能為大矣，而不能執鼠。今子有大樹，患其無用，何不樹之於無何有之鄉，廣莫之野，彷徨乎無為其側，逍遙乎寢臥其下；不夭斤斧，物無害者。無所可用，安所困苦哉？」",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[5].blocks[3][1][3]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9f9826aef3697358",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "廣莫",
+    "fields": {
+      "詞義": "廣闊無邊"
+    },
+    "context": "今夫斄牛，其大若垂天之雲；此能為大矣，而不能執鼠。今子有大樹，患其無用，何不樹之於無何有之鄉，廣莫之野，彷徨乎無為其側，逍遙乎寢臥其下；不夭斤斧，物無害者。無所可用，安所困苦哉？」",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[5].blocks[3][1][4]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-72e0f1810dde586e",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "彷徨",
+    "fields": {
+      "詞義": "徘徊遊走"
+    },
+    "context": "今夫斄牛，其大若垂天之雲；此能為大矣，而不能執鼠。今子有大樹，患其無用，何不樹之於無何有之鄉，廣莫之野，彷徨乎無為其側，逍遙乎寢臥其下；不夭斤斧，物無害者。無所可用，安所困苦哉？」",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[5].blocks[3][1][5]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-83981a3063f03e61",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "夭",
+    "fields": {
+      "詞義": "摧折、夭折"
+    },
+    "context": "今夫斄牛，其大若垂天之雲；此能為大矣，而不能執鼠。今子有大樹，患其無用，何不樹之於無何有之鄉，廣莫之野，彷徨乎無為其側，逍遙乎寢臥其下；不夭斤斧，物無害者。無所可用，安所困苦哉？」",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[5].blocks[3][1][6]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6d6c72cc312afdff",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "斤斧",
+    "fields": {
+      "詞義": "斧頭"
+    },
+    "context": "今夫斄牛，其大若垂天之雲；此能為大矣，而不能執鼠。今子有大樹，患其無用，何不樹之於無何有之鄉，廣莫之野，彷徨乎無為其側，逍遙乎寢臥其下；不夭斤斧，物無害者。無所可用，安所困苦哉？」",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[5].blocks[3][1][7]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bd0a1cb7c39bcc1a",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "安",
+    "fields": {
+      "詞義": "哪裏、怎麼"
+    },
+    "context": "今夫斄牛，其大若垂天之雲；此能為大矣，而不能執鼠。今子有大樹，患其無用，何不樹之於無何有之鄉，廣莫之野，彷徨乎無為其側，逍遙乎寢臥其下；不夭斤斧，物無害者。無所可用，安所困苦哉？」",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[5].blocks[3][1][8]",
+        "section": "第2段｜原文與語譯 2"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-11a47312e55acf4a",
+    "chapterId": "essay-04",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "狸狌有捕捉本領卻死於機網；斄牛雖大亦不能捕鼠。用單一尺度評價萬物會有局限，樗不宜木作不等於毫無價值。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[5].blocks[4]",
+        "section": "第2段｜原文與語譯 2"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[126].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[127].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[328].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[329].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[330].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[331].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[332].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[333].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[334].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[335].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[427].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[480].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[486].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[488].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[579].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[580].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[581].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[582].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e04-exp-007",
+      "q-e04-exp-008",
+      "full-a-e04-p05-b00-v00",
+      "full-a-e04-p05-b00-v01",
+      "full-a-e04-p05-b00-v03",
+      "full-a-e04-p05-b00-v04",
+      "full-a-e04-p05-b00-v05",
+      "full-a-e04-p05-b00-v06",
+      "full-a-e04-p05-b00-v07",
+      "full-a-e04-p05-b00-v08",
+      "full-a-e04-p05-b00-translation",
+      "full-a-e04-p06-b00-c04",
+      "full-a-e04-p11-b00-c06",
+      "full-a-e04-p11-b00-c08",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-852152a3b29a59a2",
+    "chapterId": "essay-04",
+    "category": "theme",
+    "title": "惠子論瓠",
+    "fields": {
+      "事件與看法": "魏王贈種，種成大瓠；盛水不能承重，剖瓢大而平淺／難安置，故擊碎",
+      "論證作用": "把大物限制於慣常小用途，呈現「大而無用」判斷"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[6].blocks[0][1][1]",
+        "section": "主旨與四層辯論"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p06-b00-c01",
+      "full-a-e04-p06-b00-c02",
+      "full-a-e04-p06-b00-c03",
+      "full-a-e04-p06-b00-c04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6cc2be8f00e7b1db",
+    "chapterId": "essay-04",
+    "category": "theme",
+    "title": "莊子答瓠",
+    "fields": {
+      "事件與看法": "先責拙於用大，再說宋人與客人同藥異用，最後提議繫作腰舟浮江湖、批有蓬之心",
+      "論證作用": "故事—總結—應用，駁斥無用判斷，指出用法和觀念可改"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[6].blocks[0][1][2]",
+        "section": "主旨與四層辯論"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p06-b00-c01",
+      "full-a-e04-p06-b00-c02",
+      "full-a-e04-p06-b00-c03",
+      "full-a-e04-p06-b00-c04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7bae0e697c875c9a",
+    "chapterId": "essay-04",
+    "category": "theme",
+    "title": "惠子論樗",
+    "fields": {
+      "事件與看法": "幹腫枝曲不合木工標準、工匠不顧；比擬莊言大而無用、眾所鄙棄",
+      "論證作用": "以日常用途和他人取捨作價值尺度，暗諷莊言"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[6].blocks[0][1][3]",
+        "section": "主旨與四層辯論"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p06-b00-c01",
+      "full-a-e04-p06-b00-c02",
+      "full-a-e04-p06-b00-c03",
+      "full-a-e04-p06-b00-c04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bb40da444f457176",
+    "chapterId": "essay-04",
+    "category": "theme",
+    "title": "莊子答樗",
+    "fields": {
+      "事件與看法": "狸狌能捕小動物而陷機網；斄牛巨大不能捕鼠；樗植曠野，人可遊臥，樹免斧害",
+      "論證作用": "揭有用可能受害、無用可保全，以自然自在反轉功利成見"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[6].blocks[0][1][4]",
+        "section": "主旨與四層辯論"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p06-b00-c01",
+      "full-a-e04-p06-b00-c02",
+      "full-a-e04-p06-b00-c03",
+      "full-a-e04-p06-b00-c04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d51973e5c79d58ab",
+    "chapterId": "essay-04",
+    "category": "theme",
+    "title": "主旨與四層辯論",
+    "fields": {
+      "內容": "兩輪問答各有兩步。大瓠一輪先講不龜手藥的不同用途，再建議把大瓠作浮水工具；大樹一輪先比狸狌與斄牛，再建議植樹於曠野、逍遙其下。故事鬆動成見，建議把新觀點落到惠子的難題上。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[6].blocks[1]",
+        "section": "主旨與四層辯論"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5828705f2780b611",
+    "chapterId": "essay-04",
+    "category": "theme",
+    "title": "四組寓言的細節、對應與界線",
+    "fields": {
+      "內容": "大瓠以盛水、作瓢都不合要求，被惠子擊碎；莊子沒有否認巨大，而是指出何不改繫腰間作浮水之舟。惠子就物論實用，莊子因物本性尋別用。大瓠與樗都可喻莊子看似宏大而不合世用的言論；樗的比擬由「今子之言」明說，大瓠的比擬屬延伸理解。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[7].blocks[0]",
+        "section": "四組寓言的細節、對應與界線"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p07-b00-x009"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-eb51833ba1823cf9",
+    "chapterId": "essay-04",
+    "category": "theme",
+    "title": "四組寓言的細節、對應與界線",
+    "fields": {
+      "內容": "狸狌擅長捕獵、靈活跳躍，卻可能死於機網；斄牛大如天邊的雲，卻不能捕鼠。比較顯示能力各有適用範圍，並不是凡有某種本領便必定安全。回到樗樹：不合木匠用途，反使它免受斧斤之害，可供人逍遙休息。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[7].blocks[1]",
+        "section": "四組寓言的細節、對應與界線"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8c1feb212d1a77c1",
+    "chapterId": "essay-04",
+    "category": "character",
+    "title": "人物、語氣與思想形象",
+    "fields": {
+      "內容": "惠子接連以自己種瓠、有樹的經驗設難，重現成實用標準、看重工匠和眾人的評價；莊子善辯、善用寓言，能換角度思考，以反問、對比與具體建議化解批評，表現曠達、超然與智慧。分析人物不能只列標籤：例如以惠子因兩用途失敗而擊瓠證觀念受限，以莊子提出腰舟證靈活。2021評卷強調充分說明特點，並非每題固定須列兩個特點。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[8].blocks[0]",
+        "section": "人物、語氣與思想形象"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p08-b00-x010"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c5aaef5e976d7be3",
+    "chapterId": "essay-04",
+    "category": "character",
+    "title": "人物、語氣與思想形象",
+    "fields": {
+      "內容": "「夫子固拙於用大矣」「猶有蓬之心也夫」有直率批評、感歎語氣；「子獨不見」「何不」「安所困苦」反問引導惠子改變看法。結尾的悠然遊臥形象，把抽象自由變成可感生活場景，不只是辯贏對手。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[8].blocks[1]",
+        "section": "人物、語氣與思想形象"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-64539868304c08a8",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "樹",
+    "fields": {
+      "原文短語": "我樹之",
+      "本句意思／作用": "栽種，動詞。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[1][1][1]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b01-g02",
+      "full-a-e04-p09-b01-g04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-05f353cbe43a428e",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "樹",
+    "fields": {
+      "原文短語": "吾有大樹",
+      "本句意思／作用": "樹木，名詞。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[1][1][2]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b01-g02",
+      "full-a-e04-p09-b01-g04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1229231e2f6dcc2b",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "辟",
+    "fields": {
+      "原文短語": "不辟高下",
+      "本句意思／作用": "通避，避開。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[1][1][3]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b01-g02",
+      "full-a-e04-p09-b01-g04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ae21d3bac70a6ff3",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "辟",
+    "fields": {
+      "原文短語": "中於機辟",
+      "本句意思／作用": "捕獸的機關、陷阱。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[1][1][4]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b01-g02",
+      "full-a-e04-p09-b01-g04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-62f9eeb8001635b4",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "貽",
+    "fields": {
+      "原句定位": "魏王貽我大瓠之種",
+      "意思與必要辨析": "贈送"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][1]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7d3b1453ada1d127",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "種",
+    "fields": {
+      "原句定位": "魏王貽我大瓠之種",
+      "意思與必要辨析": "種子"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][2]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-21e599f85e2df82b",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "樹",
+    "fields": {
+      "原句定位": "我樹之成而實五石",
+      "意思與必要辨析": "樹之為栽種動詞，吾有大樹為樹木名詞"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][3]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-73818bda93bb92dc",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "實",
+    "fields": {
+      "原句定位": "我樹之成而實五石",
+      "意思與必要辨析": "實指果實／結實，整句果實容量五石，非五個果實。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][4]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8dc25ac77bc254c9",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "堅",
+    "fields": {
+      "原句定位": "其堅不能自舉也",
+      "意思與必要辨析": "堅固程度"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][5]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-08acc08c1749cace",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "自舉",
+    "fields": {
+      "原句定位": "其堅不能自舉也",
+      "意思與必要辨析": "能承水重量而提舉"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][6]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ee99ba0619a55879",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "剖",
+    "fields": {
+      "原句定位": "剖之以為瓢",
+      "意思與必要辨析": "剖開"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][7]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2f3114ec77bda4eb",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "瓢",
+    "fields": {
+      "原句定位": "剖之以為瓢",
+      "意思與必要辨析": "舀水器。不能自舉非瓜自己舉自己。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][8]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b1d9845aeda4c5cf",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "瓠落",
+    "fields": {
+      "原句定位": "則瓠落無所容",
+      "意思與必要辨析": "瓠落兩說：大而平淺容不下東西／太大無處安置"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][9]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "multiple-interpretations",
+      "notes": [
+        "本行明列平淺不容物／太大無處安置兩解。"
+      ]
+    }
+  },
+  {
+    "id": "k-d78e99a01712006a",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "呺然",
+    "fields": {
+      "原句定位": "非不呺然大也",
+      "意思與必要辨析": "呺然虛空而巨大"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][10]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c9ab2fe44d8c611c",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "掊",
+    "fields": {
+      "原句定位": "吾為其無用而掊之",
+      "意思與必要辨析": "掊擊碎。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][11]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-68415d8530243b33",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "夫子",
+    "fields": {
+      "原句定位": "夫子固拙於用大矣",
+      "意思與必要辨析": "夫子尊稱你"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][12]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0adfd5702da7d0e9",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "固",
+    "fields": {
+      "原句定位": "夫子固拙於用大矣",
+      "意思與必要辨析": "固實在／確實"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][13]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d54da7512aac6800",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "拙",
+    "fields": {
+      "原句定位": "夫子固拙於用大矣",
+      "意思與必要辨析": "拙不善於"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][14]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3a56ba6507b50856",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "用大",
+    "fields": {
+      "原句定位": "夫子固拙於用大矣",
+      "意思與必要辨析": "大形容詞名物化，大的事物"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][15]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-39f26a614f0c4f53",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "善",
+    "fields": {
+      "原句定位": "宋人有善為不龜手之藥者",
+      "意思與必要辨析": "善擅長。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][16]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-92172add95ce8c82",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "龜",
+    "fields": {
+      "原句定位": "宋人有善為不龜手之藥者",
+      "意思與必要辨析": "通皸，皮膚凍裂"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][17]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4d71f002988f0b0e",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "洴澼絖",
+    "fields": {
+      "原句定位": "世世以洴澼絖為事",
+      "意思與必要辨析": "漂洗絲絮"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][18]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "multiple-interpretations",
+      "notes": [
+        "annot詞解另列絖為絲絮／棉絮，本表只列絲絮，不以省略另一說強判。"
+      ]
+    }
+  },
+  {
+    "id": "k-e4ef10db3286c796",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "方",
+    "fields": {
+      "原句定位": "請買其方百金",
+      "意思與必要辨析": "藥方"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][19]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3af9ad7b3fc76ba0",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "族",
+    "fields": {
+      "原句定位": "聚族而謀曰",
+      "意思與必要辨析": "家族"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][20]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-bd85a31f5d4a2a40",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "謀",
+    "fields": {
+      "原句定位": "聚族而謀曰",
+      "意思與必要辨析": "商議。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][21]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-753d2a0d37019a27",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "世世",
+    "fields": {
+      "原句定位": "世世以洴澼絖為事",
+      "意思與必要辨析": "世世代代"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][22]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-811931b4ce56ce07",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "一朝",
+    "fields": {
+      "原句定位": "今一朝而鬻技百金",
+      "意思與必要辨析": "一下子"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][23]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-796ed12c9743f1d5",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "鬻",
+    "fields": {
+      "原句定位": "今一朝而鬻技百金",
+      "意思與必要辨析": "出售"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][24]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4ce93655c624eb30",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "與",
+    "fields": {
+      "原句定位": "請與之",
+      "意思與必要辨析": "請與之為答允／給予他"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][25]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a94cbe9e13b2a80b",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "說",
+    "fields": {
+      "原句定位": "以說吳王",
+      "意思與必要辨析": "說游說，非高興。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][26]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3c1f942d6264f759",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "難",
+    "fields": {
+      "原句定位": "越有難",
+      "意思與必要辨析": "越有難指來犯／兵難"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][27]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-821d00bba3c5ec53",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "使",
+    "fields": {
+      "原句定位": "吳王使之將",
+      "意思與必要辨析": "使派遣"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][28]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-47d5a184ca5a5111",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "將",
+    "fields": {
+      "原句定位": "吳王使之將",
+      "意思與必要辨析": "將統率軍隊，名詞活用動詞"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][29]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-05f94ae7ac6cf2d3",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "敗",
+    "fields": {
+      "原句定位": "大敗越人",
+      "意思與必要辨析": "敗使敵敗"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][30]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6d32ff4198e73f61",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "裂",
+    "fields": {
+      "原句定位": "裂地而封之",
+      "意思與必要辨析": "裂劃分土地"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][31]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c6e53cc48a8e868d",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "封",
+    "fields": {
+      "原句定位": "裂地而封之",
+      "意思與必要辨析": "封封賞。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][32]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c72be020ca878ab4",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "一",
+    "fields": {
+      "原句定位": "能不龜手一也",
+      "意思與必要辨析": "相同，指防手皸裂功用相同。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][33]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1f73d97567f7cfc6",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "或",
+    "fields": {
+      "原句定位": "或以封",
+      "意思與必要辨析": "或有人，不是或許"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][34]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6fc6fcd452ad2ee0",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "則",
+    "fields": {
+      "原句定位": "則所用之異也",
+      "意思與必要辨析": "表示判斷、歸因：是使用方式不同。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][35]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f09c5213a21e2c76",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "慮",
+    "fields": {
+      "原句定位": "何不慮以為大樽而浮於江湖",
+      "意思與必要辨析": "慮繫，作考慮繫着"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][36]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "multiple-interpretations",
+      "notes": [
+        "annot釋慮為綴結繫結，本表又寫考慮繫着，保留表述差異；已審字面題不被默改。"
+      ]
+    }
+  },
+  {
+    "id": "k-3488a645261bc39a",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "大樽",
+    "fields": {
+      "原句定位": "何不慮以為大樽而浮於江湖",
+      "意思與必要辨析": "大樽形似酒器的浮水工具腰舟，不譯大酒杯拿來喝酒。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][37]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-18c9c6a3ea2602ca",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "蓬之心",
+    "fields": {
+      "原句定位": "則夫子猶有蓬之心也夫",
+      "意思與必要辨析": "心塞蓬草／心如卷曲不直的蓬草兩說，都喻閉塞不通；以柔細彎曲蓬草說明成見。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[9].blocks[2][1][38]",
+        "section": "字詞、名物、句法與讀音（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p09-b02-g02",
+      "full-a-e04-p09-b02-g05",
+      "full-a-e04-p09-b02-g07",
+      "full-a-e04-p09-b02-g08",
+      "full-a-e04-p09-b02-g12",
+      "full-a-e04-p09-b02-g15",
+      "full-a-e04-p09-b02-g16",
+      "full-a-e04-p09-b02-g19",
+      "full-a-e04-p09-b02-g20",
+      "full-a-e04-p09-b02-g21",
+      "full-a-e04-p09-b02-g22",
+      "full-a-e04-p09-b02-g23",
+      "full-a-e04-p09-b02-g25",
+      "full-a-e04-p09-b02-g28",
+      "full-a-e04-p09-b02-g30",
+      "full-a-e04-p09-b02-g32",
+      "full-a-e04-p09-b02-g34",
+      "full-a-e04-p09-b02-g35"
+    ],
+    "review": {
+      "status": "interpretation-note",
+      "notes": [
+        "原資料明示另一解讀；須連同語境閱讀。此為文字提示，未判定所有解釋同等成立。"
+      ]
+    }
+  },
+  {
+    "id": "k-e94c0a22b2801ec9",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "本",
+    "fields": {
+      "原句定位": "其大本擁腫而不中繩墨",
+      "意思與必要辨析": "本樹幹"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][1]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-81649bf14430ca36",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "擁腫",
+    "fields": {
+      "原句定位": "其大本擁腫而不中繩墨",
+      "意思與必要辨析": "擁通臃，木瘤不平"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][2]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-33061451e8df7c0b",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "中",
+    "fields": {
+      "原句定位": "其大本擁腫而不中繩墨",
+      "意思與必要辨析": "中符合"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][3]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f32899d9a2b93f3e",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "繩墨",
+    "fields": {
+      "原句定位": "其大本擁腫而不中繩墨",
+      "意思與必要辨析": "繩墨木工取直工具"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][4]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-200487e32d09b849",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "規矩",
+    "fields": {
+      "原句定位": "其小枝卷曲而不中規矩",
+      "意思與必要辨析": "規圓規、矩角尺，非僅現代規則。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][5]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8ef72ea1197c7890",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "塗",
+    "fields": {
+      "原句定位": "立之塗",
+      "意思與必要辨析": "塗通途道路"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][6]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-66a46b7fd57d64f4",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "匠",
+    "fields": {
+      "原句定位": "匠者不顧",
+      "意思與必要辨析": "木匠"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][7]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-56f38e66ae7c4831",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "顧",
+    "fields": {
+      "原句定位": "匠者不顧",
+      "意思與必要辨析": "回頭看"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][8]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f139cbb40012f90d",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "去",
+    "fields": {
+      "原句定位": "衆所同去也",
+      "意思與必要辨析": "去鄙棄／拋棄，非此處離開。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][9]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f654ce1f090c3825",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "獨",
+    "fields": {
+      "原句定位": "子獨不見狸狌乎",
+      "意思與必要辨析": "獨難道"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][10]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3002947d115ab711",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "卑",
+    "fields": {
+      "原句定位": "卑身而伏",
+      "意思與必要辨析": "卑低下身子"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][11]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fa8c8cc05b6d2eaa",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "伏",
+    "fields": {
+      "原句定位": "卑身而伏",
+      "意思與必要辨析": "伏趴伏"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][12]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c5ef476f1199ecea",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "候",
+    "fields": {
+      "原句定位": "以候敖者",
+      "意思與必要辨析": "候等待"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][13]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-17de788a8a36fc52",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "敖者",
+    "fields": {
+      "原句定位": "以候敖者",
+      "意思與必要辨析": "敖通遨，游逛者，語譯補小動物。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][14]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cc9a041d9f5e1ec2",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "東西",
+    "fields": {
+      "原句定位": "東西跳梁",
+      "意思與必要辨析": "東西方向狀語"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][15]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6b6795dd1868be87",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "跳梁",
+    "fields": {
+      "原句定位": "東西跳梁",
+      "意思與必要辨析": "梁通踉，跳躍"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][16]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b05a27a5740966a5",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "不辟",
+    "fields": {
+      "原句定位": "不辟高下",
+      "意思與必要辨析": "辟通避，避開"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][17]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-48846d2a04feee0b",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "機辟",
+    "fields": {
+      "原句定位": "中於機辟",
+      "意思與必要辨析": "機辟捕獸機關陷阱，兩辟異義"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][18]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-73c05fdb234d952f",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "罔罟",
+    "fields": {
+      "原句定位": "死於罔罟",
+      "意思與必要辨析": "罔通網，罟亦網。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][19]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7b6e0f9f37184de0",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "斄牛",
+    "fields": {
+      "原句定位": "今夫斄牛",
+      "意思與必要辨析": "犛牛"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][20]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-01ac3af46f535c52",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "執",
+    "fields": {
+      "原句定位": "而不能執鼠",
+      "意思與必要辨析": "捕捉"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][21]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-aa473318d6c945af",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "患",
+    "fields": {
+      "原句定位": "患其無用",
+      "意思與必要辨析": "擔憂"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][22]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f512184bc560f579",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "樹之",
+    "fields": {
+      "原句定位": "何不樹之於無何有之鄉",
+      "意思與必要辨析": "把它種下，之指大樹。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][23]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a3a5765304e530ca",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "無何有之鄉",
+    "fields": {
+      "原句定位": "何不樹之於無何有之鄉",
+      "意思與必要辨析": "一無所有的地方"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][24]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1a5f8b54b84bbddf",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "廣莫之野",
+    "fields": {
+      "原句定位": "廣莫之野",
+      "意思與必要辨析": "廣漠曠野，莫通漠，不是真實地名。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][25]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-766d1b6f58c97f5e",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "彷徨",
+    "fields": {
+      "原句定位": "彷徨乎無為其側",
+      "意思與必要辨析": "彷徨：縱任不拘地遊"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][26]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-dbe8f6a71158e282",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "逍遙",
+    "fields": {
+      "原句定位": "逍遙乎寢臥其下",
+      "意思與必要辨析": "逍遙：優游自在"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][27]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d74a8ef639aa95e8",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "寢臥",
+    "fields": {
+      "原句定位": "逍遙乎寢臥其下",
+      "意思與必要辨析": "寢臥：躺臥。整體表現安閒自由，與現代「彷徨」常含焦慮猶豫的意思不同。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][28]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e981ebb4328865d2",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "夭",
+    "fields": {
+      "原句定位": "不夭斤斧",
+      "意思與必要辨析": "夭摧折、遭砍伐"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][29]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-699138d3c73d3e9f",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "斤斧",
+    "fields": {
+      "原句定位": "不夭斤斧",
+      "意思與必要辨析": "斤斧斧頭"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][30]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1183eeb052147959",
+    "chapterId": "essay-04",
+    "category": "vocabulary",
+    "title": "安",
+    "fields": {
+      "原句定位": "安所困苦哉",
+      "意思與必要辨析": "安哪裏／怎麼，安所困苦反問不會受困害。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[10].blocks[0][1][31]",
+        "section": "字詞、名物、句法與讀音（2）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p10-b00-g04",
+      "full-a-e04-p10-b00-g07",
+      "full-a-e04-p10-b00-g10",
+      "full-a-e04-p10-b00-g12",
+      "full-a-e04-p10-b00-g13",
+      "full-a-e04-p10-b00-g15",
+      "full-a-e04-p10-b00-g22",
+      "full-a-e04-p10-b00-g23",
+      "full-a-e04-p10-b00-g27",
+      "full-a-e04-p10-b00-g28"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6ea02c2d9b814488",
+    "chapterId": "essay-04",
+    "category": "technique",
+    "title": "問答論辯",
+    "fields": {
+      "具體例證與作用": "惠子設難、莊子反駁兩輪，人物聲口分明，現場感、可讀性強；抽象思想具體化，顯示莊子辯才。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[11].blocks[0][1][1]",
+        "section": "手法、例句與效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p11-b00-c01",
+      "full-a-e04-p11-b00-c02",
+      "full-a-e04-p11-b00-c03",
+      "full-a-e04-p11-b00-c04",
+      "full-a-e04-p11-b00-c05",
+      "full-a-e04-p11-b00-c06",
+      "full-a-e04-p11-b00-c07",
+      "full-a-e04-p11-b00-c08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0a56f1dfccb069e6",
+    "chapterId": "essay-04",
+    "category": "technique",
+    "title": "寓言說理、故事套故事",
+    "fields": {
+      "具體例證與作用": "大瓠、宋客藥方、樗樹、狸狌與斄牛四組寓言；宋人聚族之語嵌於莊子之語，層次豐富、趣味生動，故事支持道理。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[11].blocks[0][1][2]",
+        "section": "手法、例句與效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p11-b00-c01",
+      "full-a-e04-p11-b00-c02",
+      "full-a-e04-p11-b00-c03",
+      "full-a-e04-p11-b00-c04",
+      "full-a-e04-p11-b00-c05",
+      "full-a-e04-p11-b00-c06",
+      "full-a-e04-p11-b00-c07",
+      "full-a-e04-p11-b00-c08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-60b6cd7e1566da3e",
+    "chapterId": "essay-04",
+    "category": "technique",
+    "title": "舉例論證",
+    "fields": {
+      "具體例證與作用": "惠子用種瓠、有樹的自身經驗支持無用判斷。稱真實事例是對話角色陳述層次；稱整體寓言是作品層次，兩者不必刪其一。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[11].blocks[0][1][3]",
+        "section": "手法、例句與效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p11-b00-c01",
+      "full-a-e04-p11-b00-c02",
+      "full-a-e04-p11-b00-c03",
+      "full-a-e04-p11-b00-c04",
+      "full-a-e04-p11-b00-c05",
+      "full-a-e04-p11-b00-c06",
+      "full-a-e04-p11-b00-c07",
+      "full-a-e04-p11-b00-c08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7217bfc71294cc3b",
+    "chapterId": "essay-04",
+    "category": "technique",
+    "title": "對比",
+    "fields": {
+      "具體例證與作用": "宋人數金與客人封地、同物異用效果不同；狸有捕獵之能而受害與牛不能執鼠形成反差；惠莊同物異評；蓬草閉塞與江湖曠闊襯思想狹窄與開放。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[11].blocks[0][1][4]",
+        "section": "手法、例句與效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p11-b00-c01",
+      "full-a-e04-p11-b00-c02",
+      "full-a-e04-p11-b00-c03",
+      "full-a-e04-p11-b00-c04",
+      "full-a-e04-p11-b00-c05",
+      "full-a-e04-p11-b00-c06",
+      "full-a-e04-p11-b00-c07",
+      "full-a-e04-p11-b00-c08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9483ed6d7aa5e14e",
+    "chapterId": "essay-04",
+    "category": "technique",
+    "title": "比喻與象徵",
+    "fields": {
+      "具體例證與作用": "大瓠、樗喻莊言；蓬心喻閉塞成見；狸狌喻有才機巧者，斄牛喻看似大無用之言／也可解無才者；繩墨規矩象徵世俗成功尺度，斤斧可引申仕途人事之爭害，後兩項是延伸而非字面翻譯。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[11].blocks[0][1][5]",
+        "section": "手法、例句與效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p11-b00-c01",
+      "full-a-e04-p11-b00-c02",
+      "full-a-e04-p11-b00-c03",
+      "full-a-e04-p11-b00-c04",
+      "full-a-e04-p11-b00-c05",
+      "full-a-e04-p11-b00-c06",
+      "full-a-e04-p11-b00-c07",
+      "full-a-e04-p11-b00-c08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-67891c90b75294dc",
+    "chapterId": "essay-04",
+    "category": "technique",
+    "title": "誇張、明喻",
+    "fields": {
+      "具體例證與作用": "大瓠五石誇其巨大，並可作莊言之喻；其大若垂天之雲，以雲明喻牛且誇大體量，突出大與不能執鼠反差。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[11].blocks[0][1][6]",
+        "section": "手法、例句與效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p11-b00-c01",
+      "full-a-e04-p11-b00-c02",
+      "full-a-e04-p11-b00-c03",
+      "full-a-e04-p11-b00-c04",
+      "full-a-e04-p11-b00-c05",
+      "full-a-e04-p11-b00-c06",
+      "full-a-e04-p11-b00-c07",
+      "full-a-e04-p11-b00-c08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3c85f9dc17e5c1a2",
+    "chapterId": "essay-04",
+    "category": "technique",
+    "title": "對偶",
+    "fields": {
+      "具體例證與作用": "「其大本擁腫而不中繩墨，其小枝卷曲而不中規矩」幹枝並列；「中於機辟，死於罔罟」結構整齊強調危害；「彷徨乎無為其側，逍遙乎寢臥其下」呈現閒適自在，語勢和諧。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[11].blocks[0][1][7]",
+        "section": "手法、例句與效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p11-b00-c01",
+      "full-a-e04-p11-b00-c02",
+      "full-a-e04-p11-b00-c03",
+      "full-a-e04-p11-b00-c04",
+      "full-a-e04-p11-b00-c05",
+      "full-a-e04-p11-b00-c06",
+      "full-a-e04-p11-b00-c07",
+      "full-a-e04-p11-b00-c08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b3c01ff4c4508caf",
+    "chapterId": "essay-04",
+    "category": "technique",
+    "title": "反問",
+    "fields": {
+      "具體例證與作用": "「何不慮以為大樽而浮於江湖」「子獨不見狸狌乎」「何不樹之於無何有之鄉」「安所困苦哉」引人反思、增肯定語勢，最後顛轉把無用當缺點的看法。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[11].blocks[0][1][8]",
+        "section": "手法、例句與效果（1）"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p11-b00-c01",
+      "full-a-e04-p11-b00-c02",
+      "full-a-e04-p11-b00-c03",
+      "full-a-e04-p11-b00-c04",
+      "full-a-e04-p11-b00-c05",
+      "full-a-e04-p11-b00-c06",
+      "full-a-e04-p11-b00-c07",
+      "full-a-e04-p11-b00-c08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6238d8d804619b06",
+    "chapterId": "essay-04",
+    "category": "technique",
+    "title": "手法、例句與效果",
+    "fields": {
+      "內容": "本文藉寓言說理：人物問答和具體故事承載抽象觀念，讓讀者先看見不同選擇的結果，再反思「有用」的標準。誇張、比喻等手法令故事生動，但各例仍要按原句辨認。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[11].blocks[1]",
+        "section": "手法、例句與效果（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ee087566032203d8",
+    "chapterId": "essay-04",
+    "category": "exam",
+    "title": "歷年考查提示",
+    "fields": {
+      "內容": "下表列出歷年考查的知識方向；題目、答案與適用條件見配套考查索引。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[13].blocks[0]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-51c5bdd5de3423ff",
+    "chapterId": "essay-04",
+    "category": "exam",
+    "title": "2018",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "字詞：患的語境義"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[13].blocks[1][1][1]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-22aee4c900083ae6",
+    "chapterId": "essay-04",
+    "category": "exam",
+    "title": "2021",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "字詞：樹"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[13].blocks[1][1][2]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2912e5c28ffd3eab",
+    "chapterId": "essay-04",
+    "category": "exam",
+    "title": "2021",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "喻證與用意：惠子以大瓠為喻的目的"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[13].blocks[1][1][3]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b902b0318a4ac29b",
+    "chapterId": "essay-04",
+    "category": "exam",
+    "title": "2021",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "判斷：宋人客人拙於用大、擅於用大或無從判斷"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[13].blocks[1][1][4]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-68e7e353e872a09a",
+    "chapterId": "essay-04",
+    "category": "exam",
+    "title": "2021",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "喻證：狸狌所說明的道理"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[13].blocks[1][1][5]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f72b11a59c9821eb",
+    "chapterId": "essay-04",
+    "category": "exam",
+    "title": "2021",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "主旨與喻證：以樗樹抒發人生感悟"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[13].blocks[1][1][6]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-581715d958785ad6",
+    "chapterId": "essay-04",
+    "category": "exam",
+    "title": "2022",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "字詞：去"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[13].blocks[1][1][7]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-864681d538b7b82c",
+    "chapterId": "essay-04",
+    "category": "exam",
+    "title": "2022",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "虛詞比較：者的用法，含主句及跨篇選項；不代表每篇均為主考"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[13].blocks[1][1][8]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6d137d408b7b64eb",
+    "chapterId": "essay-04",
+    "category": "exam",
+    "title": "2025",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "虛詞比較：以的用法，含四篇選項"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[13].blocks[1][1][9]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-58084d47576f3156",
+    "chapterId": "essay-04",
+    "category": "structure",
+    "title": "章末串連｜重建全文",
+    "fields": {
+      "內容": "兩次問難都由「沒有通常用途」開始，由改換觀點而獲得另一種可能。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[14].blocks[0]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-37018d82e281ce5c",
+    "chapterId": "essay-04",
+    "category": "structure",
+    "title": "大瓠之問",
+    "fields": {
+      "怎樣連起來": "不龜手藥在不同用法下帶來不同結果，證明用途不只一種；腰舟建議回應大瓠的難題。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[14].blocks[1][1][1]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d61dab8085df4212",
+    "chapterId": "essay-04",
+    "category": "structure",
+    "title": "大樹之問",
+    "fields": {
+      "怎樣連起來": "狸狌有技巧仍可能受害，斄牛大卻不能捕鼠，說明能力和用途各有限度。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[14].blocks[1][1][2]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6c0e8c07fb61b454",
+    "chapterId": "essay-04",
+    "category": "structure",
+    "title": "觀念收束",
+    "fields": {
+      "怎樣連起來": "植樹曠野、逍遙其下：不合木匠標準，反可免害供休息，帶出不受單一尺度束縛。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[3].pages[14].blocks[1][1][3]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-95cc525d4c4fba6b",
+    "chapterId": "essay-04",
+    "category": "technique",
+    "title": "比喻",
+    "fields": {
+      "內容": "比喻把兩種不同而具有相似點的事物聯繫起來。本體是要說明的對象，喻體是用來作比的事物。明喻常用「如、似、猶」等喻詞；暗喻以「是、為」等把兩者連起來；借喻只出現喻體。辨析時須指出相似點和具體作用。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[313].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[320].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[328].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[426].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[485].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[486].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p03-b00-v05",
+      "full-a-e04-p04-b00-v07",
+      "full-a-e04-p05-b00-v00",
+      "full-a-e04-p04-b00-translation",
+      "full-a-e04-p11-b00-c05",
+      "full-a-e04-p11-b00-c06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-cba102e6136e8719",
+    "chapterId": "essay-04",
+    "category": "technique",
+    "title": "反問與設問",
+    "fields": {
+      "內容": "反問用疑問形式表達已確定的意思，通常不需回答，以加強語氣；設問先提出問題再作回答，引導讀者理解。判斷時看句子在上下文的作用，不能只憑問號。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[335].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[488].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[575].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p05-b00-v08",
+      "full-a-e04-p11-b00-c08",
+      "full-a-e04-p10-b00-g10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6ac371f0f520ae13",
+    "chapterId": "essay-04",
+    "category": "theme",
+    "title": "舉例與引用",
+    "fields": {
+      "內容": "舉例以具體事實、人物或事件支持道理；引用借用前人話語或文獻作依據。兩者可以在同一段並用，須按題目所問的範圍辨認，並說明例子或引語支持哪個論點。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[481].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p11-b00-c01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3bf6ed56f873c4b4",
+    "chapterId": "essay-04",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "同一藥方，宋人以漂絮為業，客人用於水戰而受封；差別在用法，不在改良藥方。這為腰舟的建議提供類比。\n狸狌有捕捉本領卻死於機網；斄牛雖大亦不能捕鼠。用單一尺度評價萬物會有局限，樗不宜木作不等於毫無價值。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[481].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[482].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[651].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2141].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2142].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2143].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2144].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p11-b00-c01",
+      "full-a-e04-p11-b00-c02",
+      "full-a-e04-p00-b05-x008",
+      "dse-2021-1a-3",
+      "dse-2021-1a-4-i",
+      "dse-2021-1a-4-ii",
+      "dse-2021-1a-5"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-db44dba923405360",
+    "chapterId": "essay-04",
+    "category": "technique",
+    "title": "對比與襯托",
+    "fields": {
+      "內容": "對比把兩方並置，突出差異，兩方都參與表意；襯托有主次，以陪襯的一方突出主要對象。分析須指出哪兩方、在哪一方面形成關係，以及這個關係如何支持文意。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[484].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[566].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-a-e04-p11-b00-c04",
+      "full-a-e04-p09-b02-g23"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  }
+]

@@ -1,0 +1,3305 @@
+[
+  {
+    "id": "k-8e1f5a0ee75b0540",
+    "chapterId": "essay-15",
+    "category": "background",
+    "title": "作者與題旨",
+    "fields": {
+      "作者": "李清照"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].author",
+        "section": "聲聲慢・秋情"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d1265fe30bf003a0",
+    "chapterId": "essay-15",
+    "category": "theme",
+    "title": "一句話題旨",
+    "fields": {
+      "題旨": "秋情與愁思"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].desc",
+        "section": "聲聲慢・秋情"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a80ac47b50adfa27",
+    "chapterId": "essay-15",
+    "category": "background",
+    "title": "作者、時代與文體",
+    "fields": {
+      "資料": "李清照｜宋代｜詞"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[0].blocks[0]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1a92e317a5fe78cd",
+    "chapterId": "essay-15",
+    "category": "theme",
+    "title": "李清照｜宋代｜詞",
+    "fields": {
+      "內容": "尋覓無所得，風雁花雨逐層觸發家國、身世與悼亡之愁，一個愁字不足概括。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[0].blocks[1]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-00-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6e6565cca7dd6cde",
+    "chapterId": "essay-15",
+    "category": "structure",
+    "title": "內容線索",
+    "fields": {
+      "內容": "尋覓冷清→酒淡風急→雁過傷心→黃花憔悴→守窗雨滴→愁難盡言"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[0].blocks[3]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-00-03-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4575f8cdff77d628",
+    "chapterId": "essay-15",
+    "category": "theme",
+    "title": "理解關鍵",
+    "fields": {
+      "內容": "本篇採「晚來」底本；黃花與憔悴另有花、人兩路解釋，不能混在同一句語譯。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[0].blocks[5]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-00-05-80"
+    ],
+    "review": {
+      "status": "interpretation-note",
+      "notes": [
+        "原資料明示另一解讀；須連同語境閱讀。此為文字提示，未判定所有解釋同等成立。"
+      ]
+    }
+  },
+  {
+    "id": "k-373171294fd150b4",
+    "chapterId": "essay-15",
+    "category": "background",
+    "title": "題解與文體",
+    "fields": {
+      "內容": "聲聲慢是詞牌；疊字、意象和反問相互配合，使孤獨與長日難熬具體可感。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[0].blocks[7]",
+        "section": "全篇總覽"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-00-07-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f102da21f7f981af",
+    "chapterId": "essay-15",
+    "category": "theme",
+    "title": "句段核心：上片｜原文與語譯",
+    "fields": {
+      "重點": "由尋覓到冷清悲戚，再由風和雁加深傷心。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[1].core",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-64185870ba6c8ba0",
+    "chapterId": "essay-15",
+    "category": "text",
+    "title": "上片｜原文與語譯",
+    "fields": {
+      "原文": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。"
+    },
+    "context": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[1].blocks[0]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e15-exp-001",
+      "q-e15-exp-002",
+      "q-e15-exp-008",
+      "q-appendix-005",
+      "full-c-15-01-03-00",
+      "full-c-15-01-03-01",
+      "full-c-15-01-03-02",
+      "full-c-15-01-03-03",
+      "full-c-15-01-03-05",
+      "full-c-15-01-03-07",
+      "full-c-15-01-03-08",
+      "full-c-15-01-00-90",
+      "full-c-12-10-01-80",
+      "full-c-15-00-01-80",
+      "full-c-15-00-03-80",
+      "full-c-15-00-05-80",
+      "full-c-15-00-07-80",
+      "full-c-15-01-04-80",
+      "full-c-15-03-00-01",
+      "full-c-15-03-00-02",
+      "full-c-15-03-00-04",
+      "full-c-15-03-00-06",
+      "full-c-15-03-00-07",
+      "full-c-15-03-00-09",
+      "full-c-15-03-00-10",
+      "full-c-15-03-00-11",
+      "full-c-15-03-00-13",
+      "full-c-15-03-00-15",
+      "full-c-15-03-00-17",
+      "full-c-15-04-00-01",
+      "full-c-15-04-00-03",
+      "full-c-15-04-00-04",
+      "full-c-15-04-01-80",
+      "full-c-15-05-00-01",
+      "full-c-15-05-00-02",
+      "full-c-15-05-00-03",
+      "full-c-15-05-00-04",
+      "full-c-15-05-00-05",
+      "full-c-15-05-00-06",
+      "full-c-15-05-00-07",
+      "full-c-15-05-01-80",
+      "full-c-15-06-00-80",
+      "full-c-15-06-01-80",
+      "full-c-15-06-02-80",
+      "full-c-15-07-05-80",
+      "full-c-15-07-06-80",
+      "full-c-15-07-07-80",
+      "full-c-15-08-00-01",
+      "full-c-15-08-00-03",
+      "full-c-15-08-00-04",
+      "full-c-15-08-00-05",
+      "full-c-15-08-00-06",
+      "full-c-15-08-00-07",
+      "full-c-15-08-00-08",
+      "full-c-15-08-00-09",
+      "full-c-15-08-00-10",
+      "full-c-15-08-00-11",
+      "full-c-15-08-00-12",
+      "full-c-15-09-00-01",
+      "full-c-15-09-00-02",
+      "full-c-15-09-01-80",
+      "full-c-15-11-00-80",
+      "full-c-15-12-00-80",
+      "full-c-15-12-01-01",
+      "full-c-15-12-01-02",
+      "full-c-15-12-01-03",
+      "full-c-15-12-01-04",
+      "full-c-15-12-01-05",
+      "full-c-16-09-01-01",
+      "full-c-16-09-01-02",
+      "full-c-16-09-01-03",
+      "full-c-16-09-01-04",
+      "full-c-16-09-03-02",
+      "full-c-16-09-04-80",
+      "dse-2022-1a-6-ii"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e32c8bf2b031de5d",
+    "chapterId": "essay-15",
+    "category": "text",
+    "title": "上片｜原文與語譯",
+    "fields": {
+      "語譯": "我若有所失地到處尋找，找到的卻是眼前一片冷清，不由湧起陣陣悽慘悲戚。在這忽暖忽冷的時候，最難調養休息。喝下幾杯淡酒，怎能抵擋傍晚的急風！天上有一行雁兒飛過，又勾起我的傷心，原來牠們是舊日的老相識。"
+    },
+    "context": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[1].blocks[2]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e15-exp-001",
+      "q-e15-exp-002",
+      "q-e15-exp-008",
+      "q-appendix-005",
+      "full-c-15-01-03-00",
+      "full-c-15-01-03-01",
+      "full-c-15-01-03-02",
+      "full-c-15-01-03-03",
+      "full-c-15-01-03-05",
+      "full-c-15-01-03-07",
+      "full-c-15-01-03-08",
+      "full-c-15-01-00-90",
+      "full-c-12-10-01-80",
+      "full-c-15-00-01-80",
+      "full-c-15-00-03-80",
+      "full-c-15-00-05-80",
+      "full-c-15-00-07-80",
+      "full-c-15-01-04-80",
+      "full-c-15-03-00-01",
+      "full-c-15-03-00-02",
+      "full-c-15-03-00-04",
+      "full-c-15-03-00-06",
+      "full-c-15-03-00-07",
+      "full-c-15-03-00-09",
+      "full-c-15-03-00-10",
+      "full-c-15-03-00-11",
+      "full-c-15-03-00-13",
+      "full-c-15-03-00-15",
+      "full-c-15-03-00-17",
+      "full-c-15-04-00-01",
+      "full-c-15-04-00-03",
+      "full-c-15-04-00-04",
+      "full-c-15-04-01-80",
+      "full-c-15-05-00-01",
+      "full-c-15-05-00-02",
+      "full-c-15-05-00-03",
+      "full-c-15-05-00-04",
+      "full-c-15-05-00-05",
+      "full-c-15-05-00-06",
+      "full-c-15-05-00-07",
+      "full-c-15-05-01-80",
+      "full-c-15-06-00-80",
+      "full-c-15-06-01-80",
+      "full-c-15-06-02-80",
+      "full-c-15-07-05-80",
+      "full-c-15-07-06-80",
+      "full-c-15-07-07-80",
+      "full-c-15-08-00-01",
+      "full-c-15-08-00-03",
+      "full-c-15-08-00-04",
+      "full-c-15-08-00-05",
+      "full-c-15-08-00-06",
+      "full-c-15-08-00-07",
+      "full-c-15-08-00-08",
+      "full-c-15-08-00-09",
+      "full-c-15-08-00-10",
+      "full-c-15-08-00-11",
+      "full-c-15-08-00-12",
+      "full-c-15-09-00-01",
+      "full-c-15-09-00-02",
+      "full-c-15-09-01-80",
+      "full-c-15-11-00-80",
+      "full-c-15-12-00-80",
+      "full-c-15-12-01-01",
+      "full-c-15-12-01-02",
+      "full-c-15-12-01-03",
+      "full-c-15-12-01-04",
+      "full-c-15-12-01-05",
+      "full-c-16-09-01-01",
+      "full-c-16-09-01-02",
+      "full-c-16-09-01-03",
+      "full-c-16-09-01-04",
+      "full-c-16-09-03-02",
+      "full-c-16-09-04-80",
+      "dse-2022-1a-6-ii"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-522d81c1133d041c",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "尋尋覓覓",
+    "fields": {
+      "詞義": "反覆尋找、若有所失"
+    },
+    "context": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[1].blocks[3][1][0]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-01-03-00"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4b71e138dd9ee1f9",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "冷冷清清",
+    "fields": {
+      "詞義": "環境寂靜冷落"
+    },
+    "context": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[1].blocks[3][1][1]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-01-03-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1341057186e4ba39",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "悽悽慘慘戚戚",
+    "fields": {
+      "詞義": "內心悽慘悲戚"
+    },
+    "context": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[1].blocks[3][1][2]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-01-03-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-dd30c7752e3a99a2",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "乍煖還寒",
+    "fields": {
+      "詞義": "剛暖又寒，冷暖不定"
+    },
+    "context": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[1].blocks[3][1][3]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-01-03-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6d00f4344c0f830e",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "將息",
+    "fields": {
+      "詞義": "調養休息"
+    },
+    "context": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[1].blocks[3][1][4]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-622cc73a8ca4623b",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "淡酒",
+    "fields": {
+      "詞義": "無力禦寒解愁的酒"
+    },
+    "context": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[1].blocks[3][1][5]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-01-03-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-47b1527e29496c44",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "敵",
+    "fields": {
+      "詞義": "抵擋"
+    },
+    "context": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[1].blocks[3][1][6]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e62ce56413d3028f",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "晚來",
+    "fields": {
+      "詞義": "傍晚；另本作曉來"
+    },
+    "context": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[1].blocks[3][1][7]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-01-03-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1185ac57a9b91219",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "舊時相識",
+    "fields": {
+      "詞義": "熟悉的大雁"
+    },
+    "context": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。乍煖還寒時候，最難將息。三杯兩盞淡酒，怎敵他晚來風急！雁過也，正傷心，卻是舊時相識。",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[1].blocks[3][1][8]",
+        "section": "上片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-01-03-08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-fe2ad597d50444f3",
+    "chapterId": "essay-15",
+    "category": "comparison",
+    "title": "語譯",
+    "fields": {
+      "內容": "開首十四疊字把動作、環境、內心逐層連起。大雁令人聯想舊時生活，但不能斷言飛過的必是同一隻雁。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[1].blocks[4]",
+        "section": "上片｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[192].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[193].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[199].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1380].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1381].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1382].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1383].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1384].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1385].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1386].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1436].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1862].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1879].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1881].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1888].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1889].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e15-exp-001",
+      "q-e15-exp-002",
+      "q-e15-exp-008",
+      "full-c-15-01-03-00",
+      "full-c-15-01-03-01",
+      "full-c-15-01-03-02",
+      "full-c-15-01-03-03",
+      "full-c-15-01-03-05",
+      "full-c-15-01-03-07",
+      "full-c-15-01-03-08",
+      "full-c-15-01-00-90",
+      "full-c-15-01-04-80",
+      "full-c-15-04-01-80",
+      "full-c-15-05-00-02",
+      "full-c-15-06-00-80",
+      "full-c-15-06-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-730316e1ae6cd068",
+    "chapterId": "essay-15",
+    "category": "theme",
+    "title": "句段核心：下片｜原文與語譯",
+    "fields": {
+      "重點": "黃花、獨守和雨聲層層疊愁，結尾說愁難盡言。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[2].core",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e40349aec9737a5f",
+    "chapterId": "essay-15",
+    "category": "text",
+    "title": "下片｜原文與語譯",
+    "fields": {
+      "原文": "滿地黃花堆積，憔悴損，如今有誰堪摘？守着窗兒，獨自怎生得黑！梧桐更兼細雨，到黃昏、點點滴滴。這次第，怎一箇愁字了得！"
+    },
+    "context": "滿地黃花堆積，憔悴損，如今有誰堪摘？守着窗兒，獨自怎生得黑！梧桐更兼細雨，到黃昏、點點滴滴。這次第，怎一箇愁字了得！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[2].blocks[0]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e15-exp-003",
+      "q-e15-exp-004",
+      "q-e15-exp-005",
+      "q-e15-exp-006",
+      "q-e15-exp-007",
+      "q-appendix-005",
+      "full-c-15-02-03-01",
+      "full-c-15-02-03-02",
+      "full-c-15-02-03-03",
+      "full-c-15-02-03-04",
+      "full-c-15-02-03-05",
+      "full-c-15-02-03-07",
+      "full-c-15-02-00-90",
+      "full-c-12-10-01-80",
+      "full-c-15-00-01-80",
+      "full-c-15-00-03-80",
+      "full-c-15-00-05-80",
+      "full-c-15-00-07-80",
+      "full-c-15-02-04-80",
+      "full-c-15-03-00-01",
+      "full-c-15-03-00-02",
+      "full-c-15-03-00-04",
+      "full-c-15-03-00-06",
+      "full-c-15-03-00-07",
+      "full-c-15-03-00-09",
+      "full-c-15-03-00-10",
+      "full-c-15-03-00-11",
+      "full-c-15-03-00-13",
+      "full-c-15-03-00-14",
+      "full-c-15-03-00-15",
+      "full-c-15-03-00-17",
+      "full-c-15-04-00-01",
+      "full-c-15-04-00-03",
+      "full-c-15-04-00-04",
+      "full-c-15-05-00-01",
+      "full-c-15-05-00-03",
+      "full-c-15-05-00-04",
+      "full-c-15-05-00-05",
+      "full-c-15-05-00-06",
+      "full-c-15-05-00-07",
+      "full-c-15-05-01-80",
+      "full-c-15-06-02-80",
+      "full-c-15-07-00-80",
+      "full-c-15-07-05-80",
+      "full-c-15-07-06-80",
+      "full-c-15-07-07-80",
+      "full-c-15-08-00-01",
+      "full-c-15-08-00-02",
+      "full-c-15-08-00-03",
+      "full-c-15-08-00-04",
+      "full-c-15-08-00-05",
+      "full-c-15-08-00-06",
+      "full-c-15-08-00-07",
+      "full-c-15-08-00-08",
+      "full-c-15-08-00-09",
+      "full-c-15-08-00-10",
+      "full-c-15-08-00-11",
+      "full-c-15-08-00-12",
+      "full-c-15-09-00-01",
+      "full-c-15-09-00-02",
+      "full-c-15-09-01-80",
+      "full-c-15-11-00-80",
+      "full-c-15-12-00-80",
+      "full-c-15-12-01-01",
+      "full-c-15-12-01-02",
+      "full-c-15-12-01-03",
+      "full-c-15-12-01-04",
+      "full-c-15-12-01-05",
+      "full-c-16-09-01-01",
+      "full-c-16-09-01-02",
+      "full-c-16-09-01-03",
+      "full-c-16-09-01-04",
+      "full-c-16-09-03-02",
+      "full-c-16-09-04-80",
+      "dse-2022-1a-6-ii"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-8e780ae19b391a49",
+    "chapterId": "essay-15",
+    "category": "text",
+    "title": "下片｜原文與語譯",
+    "fields": {
+      "語譯": "到處堆積着黃色菊花，已凋謝枯萎，如今還有誰可以和我一同採摘呢？我守在窗邊，孤獨一人，怎樣才能熬到天黑！細雨灑在梧桐葉上，到了黃昏仍點點滴滴地下個不停。這種種光景，豈是一個「愁」字就能概括！"
+    },
+    "context": "滿地黃花堆積，憔悴損，如今有誰堪摘？守着窗兒，獨自怎生得黑！梧桐更兼細雨，到黃昏、點點滴滴。這次第，怎一箇愁字了得！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[2].blocks[2]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "q-e15-exp-003",
+      "q-e15-exp-004",
+      "q-e15-exp-005",
+      "q-e15-exp-006",
+      "q-e15-exp-007",
+      "q-appendix-005",
+      "full-c-15-02-03-01",
+      "full-c-15-02-03-02",
+      "full-c-15-02-03-03",
+      "full-c-15-02-03-04",
+      "full-c-15-02-03-05",
+      "full-c-15-02-03-07",
+      "full-c-15-02-00-90",
+      "full-c-12-10-01-80",
+      "full-c-15-00-01-80",
+      "full-c-15-00-03-80",
+      "full-c-15-00-05-80",
+      "full-c-15-00-07-80",
+      "full-c-15-02-04-80",
+      "full-c-15-03-00-01",
+      "full-c-15-03-00-02",
+      "full-c-15-03-00-04",
+      "full-c-15-03-00-06",
+      "full-c-15-03-00-07",
+      "full-c-15-03-00-09",
+      "full-c-15-03-00-10",
+      "full-c-15-03-00-11",
+      "full-c-15-03-00-13",
+      "full-c-15-03-00-14",
+      "full-c-15-03-00-15",
+      "full-c-15-03-00-17",
+      "full-c-15-04-00-01",
+      "full-c-15-04-00-03",
+      "full-c-15-04-00-04",
+      "full-c-15-05-00-01",
+      "full-c-15-05-00-03",
+      "full-c-15-05-00-04",
+      "full-c-15-05-00-05",
+      "full-c-15-05-00-06",
+      "full-c-15-05-00-07",
+      "full-c-15-05-01-80",
+      "full-c-15-06-02-80",
+      "full-c-15-07-00-80",
+      "full-c-15-07-05-80",
+      "full-c-15-07-06-80",
+      "full-c-15-07-07-80",
+      "full-c-15-08-00-01",
+      "full-c-15-08-00-02",
+      "full-c-15-08-00-03",
+      "full-c-15-08-00-04",
+      "full-c-15-08-00-05",
+      "full-c-15-08-00-06",
+      "full-c-15-08-00-07",
+      "full-c-15-08-00-08",
+      "full-c-15-08-00-09",
+      "full-c-15-08-00-10",
+      "full-c-15-08-00-11",
+      "full-c-15-08-00-12",
+      "full-c-15-09-00-01",
+      "full-c-15-09-00-02",
+      "full-c-15-09-01-80",
+      "full-c-15-11-00-80",
+      "full-c-15-12-00-80",
+      "full-c-15-12-01-01",
+      "full-c-15-12-01-02",
+      "full-c-15-12-01-03",
+      "full-c-15-12-01-04",
+      "full-c-15-12-01-05",
+      "full-c-16-09-01-01",
+      "full-c-16-09-01-02",
+      "full-c-16-09-01-03",
+      "full-c-16-09-01-04",
+      "full-c-16-09-03-02",
+      "full-c-16-09-04-80",
+      "dse-2022-1a-6-ii"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f8a41b3a35a9fbb9",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "黃花",
+    "fields": {
+      "詞義": "菊花"
+    },
+    "context": "滿地黃花堆積，憔悴損，如今有誰堪摘？守着窗兒，獨自怎生得黑！梧桐更兼細雨，到黃昏、點點滴滴。這次第，怎一箇愁字了得！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[2].blocks[3][1][0]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5fd8c29451e2d69a",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "憔悴損",
+    "fields": {
+      "詞義": "憔悴得厲害；花人兩解"
+    },
+    "context": "滿地黃花堆積，憔悴損，如今有誰堪摘？守着窗兒，獨自怎生得黑！梧桐更兼細雨，到黃昏、點點滴滴。這次第，怎一箇愁字了得！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[2].blocks[3][1][1]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-02-03-01"
+    ],
+    "review": {
+      "status": "interpretation-note",
+      "notes": [
+        "原資料明示另一解讀；須連同語境閱讀。此為文字提示，未判定所有解釋同等成立。"
+      ]
+    }
+  },
+  {
+    "id": "k-ba6d9198affccb5b",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "堪",
+    "fields": {
+      "詞義": "可以"
+    },
+    "context": "滿地黃花堆積，憔悴損，如今有誰堪摘？守着窗兒，獨自怎生得黑！梧桐更兼細雨，到黃昏、點點滴滴。這次第，怎一箇愁字了得！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[2].blocks[3][1][2]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-02-03-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-88582aaa8f53feeb",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "怎生",
+    "fields": {
+      "詞義": "怎樣"
+    },
+    "context": "滿地黃花堆積，憔悴損，如今有誰堪摘？守着窗兒，獨自怎生得黑！梧桐更兼細雨，到黃昏、點點滴滴。這次第，怎一箇愁字了得！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[2].blocks[3][1][3]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-02-03-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-2da393c29622364d",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "得黑",
+    "fields": {
+      "詞義": "熬到天黑"
+    },
+    "context": "滿地黃花堆積，憔悴損，如今有誰堪摘？守着窗兒，獨自怎生得黑！梧桐更兼細雨，到黃昏、點點滴滴。這次第，怎一箇愁字了得！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[2].blocks[3][1][4]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-02-03-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3d1b9560ef679931",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "更兼",
+    "fields": {
+      "詞義": "更加上"
+    },
+    "context": "滿地黃花堆積，憔悴損，如今有誰堪摘？守着窗兒，獨自怎生得黑！梧桐更兼細雨，到黃昏、點點滴滴。這次第，怎一箇愁字了得！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[2].blocks[3][1][5]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-02-03-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-52f5c38aeb539373",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "次第",
+    "fields": {
+      "詞義": "光景、情形"
+    },
+    "context": "滿地黃花堆積，憔悴損，如今有誰堪摘？守着窗兒，獨自怎生得黑！梧桐更兼細雨，到黃昏、點點滴滴。這次第，怎一箇愁字了得！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[2].blocks[3][1][6]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e050dd7a086e43c8",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "箇",
+    "fields": {
+      "詞義": "同個"
+    },
+    "context": "滿地黃花堆積，憔悴損，如今有誰堪摘？守着窗兒，獨自怎生得黑！梧桐更兼細雨，到黃昏、點點滴滴。這次第，怎一箇愁字了得！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[2].blocks[3][1][7]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-02-03-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a7f58affdac54f32",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "了得",
+    "fields": {
+      "詞義": "概括、說盡"
+    },
+    "context": "滿地黃花堆積，憔悴損，如今有誰堪摘？守着窗兒，獨自怎生得黑！梧桐更兼細雨，到黃昏、點點滴滴。這次第，怎一箇愁字了得！",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[2].blocks[3][1][8]",
+        "section": "下片｜原文與語譯"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-65fb39023290b078",
+    "chapterId": "essay-15",
+    "category": "theme",
+    "title": "語譯",
+    "fields": {
+      "內容": "「怎生得黑」寫長日難熬；「更兼」又加一層雨聲。末句不是否認愁，而是說一個愁字容不下種種痛苦。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[2].blocks[4]",
+        "section": "下片｜原文與語譯"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[194].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[195].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[196].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[197].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[198].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1387].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1388].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1389].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1390].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1391].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1392].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1437].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1863].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1873].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1891].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1896].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e15-exp-003",
+      "q-e15-exp-004",
+      "q-e15-exp-005",
+      "q-e15-exp-006",
+      "q-e15-exp-007",
+      "full-c-15-02-03-01",
+      "full-c-15-02-03-02",
+      "full-c-15-02-03-03",
+      "full-c-15-02-03-04",
+      "full-c-15-02-03-05",
+      "full-c-15-02-03-07",
+      "full-c-15-02-00-90",
+      "full-c-15-02-04-80",
+      "full-c-15-03-00-14",
+      "full-c-15-07-00-80",
+      "full-c-15-08-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0fb87493df49735b",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "尋尋覓覓",
+    "fields": {
+      "原句定位": "尋尋覓覓",
+      "意思與必要辨析": "到處反覆尋找，若有所失，希望尋回美好往昔或精神寄託，卻無所得。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[3].blocks[0][1][1]",
+        "section": "字詞、通假及語氣（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-03-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1a871e8dee8f4caf",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "冷冷清清",
+    "fields": {
+      "原句定位": "冷冷清清",
+      "意思與必要辨析": "環境寂靜冷落，又映出內心的孤冷；不是只報天氣溫度。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[3].blocks[0][1][2]",
+        "section": "字詞、通假及語氣（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-03-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-920bc82d201dba11",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "悽悽慘慘戚戚",
+    "fields": {
+      "原句定位": "悽悽慘慘戚戚",
+      "意思與必要辨析": "內心悽慘悲戚，情感逐層加深。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[3].blocks[0][1][3]",
+        "section": "字詞、通假及語氣（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-487a3baf93226bf9",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "乍煖還寒",
+    "fields": {
+      "原句定位": "乍煖還寒時候",
+      "意思與必要辨析": "乍：剛、忽然；煖同暖；還寒：又轉寒。句中寫秋日冷暖不定的感受，與下文風急相連。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[3].blocks[0][1][4]",
+        "section": "字詞、通假及語氣（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-03-00-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3589704435bb3b24",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "將息",
+    "fields": {
+      "原句定位": "最難將息",
+      "意思與必要辨析": "調養、休息，不只是不能忍受天氣。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[3].blocks[0][1][5]",
+        "section": "字詞、通假及語氣（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-574bc5f09c8b7803",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "三杯兩盞",
+    "fields": {
+      "原句定位": "三杯兩盞淡酒",
+      "意思與必要辨析": "少量酒"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[3].blocks[0][1][6]",
+        "section": "字詞、通假及語氣（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-03-00-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d667ceabb7a7e407",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "淡酒",
+    "fields": {
+      "原句定位": "三杯兩盞淡酒",
+      "意思與必要辨析": "酒不足禦寒，亦不能排解深愁。不可只歸因酒精濃度低。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[3].blocks[0][1][7]",
+        "section": "字詞、通假及語氣（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-03-00-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e2e8082fd4e76b0d",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "敵",
+    "fields": {
+      "原句定位": "怎敵他晚來風急",
+      "意思與必要辨析": "抵擋"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[3].blocks[0][1][8]",
+        "section": "字詞、通假及語氣（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1d9420f963c1193f",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "正",
+    "fields": {
+      "原句定位": "正傷心",
+      "意思與必要辨析": "正當。正傷心時又見雁，愁上加愁。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[3].blocks[0][1][9]",
+        "section": "字詞、通假及語氣（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-03-00-09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-859e5b6cb77b430a",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "晚來",
+    "fields": {
+      "原句定位": "怎敵他晚來風急",
+      "意思與必要辨析": "傍晚時。注釋把晚來解作曉來；採晚來並譯晚上，說寒涼晚風。正文用晚，注列「曉來風急」「晚來風力」異本；曉是另一版本，不能把晚直接訓作早晨。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[3].blocks[0][1][10]",
+        "section": "字詞、通假及語氣（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-03-00-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-803879b267504f88",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "舊時相識",
+    "fields": {
+      "原句定位": "卻是舊時相識",
+      "意思與必要辨析": "曾熟悉的大雁，引往日生活、家國與亡夫之思。說故鄉認識的「那隻」雁，是其語譯增添個體指認，原詞不能確定同一隻。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[3].blocks[0][1][11]",
+        "section": "字詞、通假及語氣（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-03-00-11"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f57a91dfffce498b",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "黃花",
+    "fields": {
+      "原句定位": "滿地黃花堆積",
+      "意思與必要辨析": "菊花。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[3].blocks[0][1][12]",
+        "section": "字詞、通假及語氣（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-3fe90d0e6fa0db90",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "誰",
+    "fields": {
+      "原句定位": "如今有誰堪摘",
+      "意思與必要辨析": "誰指人"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[3].blocks[0][1][13]",
+        "section": "字詞、通假及語氣（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-03-00-13"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b582c124b8043166",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "堪",
+    "fields": {
+      "原句定位": "如今有誰堪摘",
+      "意思與必要辨析": "堪為可以、能夠。堪摘涉及花可不可摘、人有無心情、是否有同摘或可贈之人，須按解讀分開。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[3].blocks[0][1][14]",
+        "section": "字詞、通假及語氣（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-03-00-14"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-421c156b6868d16a",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "怎生得黑",
+    "fields": {
+      "原句定位": "獨自怎生得黑",
+      "意思與必要辨析": "怎樣才能熬到天黑，長日難熬、度日如年。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[3].blocks[0][1][15]",
+        "section": "字詞、通假及語氣（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-03-00-15"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-deb56aa2057a2ced",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "更兼",
+    "fields": {
+      "原句定位": "梧桐更兼細雨",
+      "意思與必要辨析": "更加上"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[3].blocks[0][1][16]",
+        "section": "字詞、通假及語氣（1）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-de331b05120e2924",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "到",
+    "fields": {
+      "原句定位": "到黃昏、點點滴滴",
+      "意思與必要辨析": "到黃昏，突出雨聲延續之久。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[3].blocks[0][1][17]",
+        "section": "字詞、通假及語氣（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-03-00-17"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0438972eef1713d7",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "點點滴滴",
+    "fields": {
+      "原句定位": "到黃昏、點點滴滴",
+      "意思與必要辨析": "雨滴反覆不斷的聲音，亦延長愁思。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[4].blocks[0][1][1]",
+        "section": "字詞、通假及語氣（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-04-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-34afeb37a8bde89f",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "次第",
+    "fields": {
+      "原句定位": "這次第",
+      "意思與必要辨析": "光景、情況、一連串情形"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[4].blocks[0][1][2]",
+        "section": "字詞、通假及語氣（2）"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a981284ecc37480f",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "了得",
+    "fields": {
+      "原句定位": "怎一箇愁字了得",
+      "意思與必要辨析": "概括得了。結尾回收全部處境，不是再添一件孤立事件。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[4].blocks[0][1][3]",
+        "section": "字詞、通假及語氣（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-04-00-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-a0517cdb7d3baaf3",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "箇",
+    "fields": {
+      "原句定位": "怎一箇愁字了得",
+      "意思與必要辨析": "個的字形；誦讀摘錄依所採版本，評卷容許字形另見下文。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[4].blocks[0][1][4]",
+        "section": "字詞、通假及語氣（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-04-00-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-876f177c0240de81",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "字詞、通假及語氣",
+    "fields": {
+      "內容": "提到「乍暖還寒」若形容季節一般使人聯想到春天，但本詞明言秋情，學者因而解作一天內氣溫乍暖乍寒，言之成理；不能為套季節常語，把本詞改判春景。曉本與晚本也不能不加說明地拼成唯一時間線。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[4].blocks[1]",
+        "section": "字詞、通假及語氣（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-04-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-02f4f0aa6b18f089",
+    "chapterId": "essay-15",
+    "category": "technique",
+    "title": "開首七組疊字",
+    "fields": {
+      "內容及作用": "尋覓動作→外在冷清→內心悽戚，由外而內、由弱到強、由聲及心，失落→悽戚→悲痛，反覆迴旋。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[5].blocks[0][1][1]",
+        "section": "結構、情感與主旨"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-05-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-22700ca0fe7809bb",
+    "chapterId": "essay-15",
+    "category": "structure",
+    "title": "冷暖、淡酒急風",
+    "fields": {
+      "內容及作用": "寒暖不定而難調養，秋風中獨自飲酒，酒既不能禦寒，更不敵內心淒寒；塑敏感纖弱形象，清冷襯孤寂。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[5].blocks[0][1][2]",
+        "section": "結構、情感與主旨"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-05-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-e64aa749f6f43e81",
+    "chapterId": "essay-15",
+    "category": "structure",
+    "title": "過雁",
+    "fields": {
+      "內容及作用": "見北雁南飛，牽動故國之思、身世飄零及喪夫之痛，愁上加愁。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[5].blocks[0][1][3]",
+        "section": "結構、情感與主旨"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-05-00-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-d3a8e53c6e968497",
+    "chapterId": "essay-15",
+    "category": "structure",
+    "title": "黃花",
+    "fields": {
+      "內容及作用": "借花況與人況相照，憐惜身世、思夫懷鄉、感今非昔比；不同花況分列。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[5].blocks[0][1][4]",
+        "section": "結構、情感與主旨"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-05-00-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-16be30cba9a50692",
+    "chapterId": "essay-15",
+    "category": "structure",
+    "title": "守窗待黑",
+    "fields": {
+      "內容及作用": "孤身無聊，渴望時間過去而度日如年，不是感慨光陰飛逝，也不是單說害怕黑夜。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[5].blocks[0][1][5]",
+        "section": "結構、情感與主旨"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-05-00-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0232637f2221f1f4",
+    "chapterId": "essay-15",
+    "category": "structure",
+    "title": "梧桐細雨",
+    "fields": {
+      "內容及作用": "視景兼聽聲，細雨延綿、點滴入耳，清冷寂靜中愁思更深。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[5].blocks[0][1][6]",
+        "section": "結構、情感與主旨"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-05-00-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ff48f2cbaa285045",
+    "chapterId": "essay-15",
+    "category": "structure",
+    "title": "結尾",
+    "fields": {
+      "內容及作用": "「這次第」總括種種光景，一個愁字不足道盡，與開首悽戚呼應，讓難排遣、難言盡的悲苦達到收束。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[5].blocks[0][1][7]",
+        "section": "結構、情感與主旨"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-05-00-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ce6e6ed9c227a8f7",
+    "chapterId": "essay-15",
+    "category": "structure",
+    "title": "結構、情感與主旨",
+    "fields": {
+      "內容": "上片由秋景、天候及雁寫離鄉飄零與家國之思；下片轉庭院黃花、守窗、梧桐雨，寫孀居孤寂、悼亡自傷。尋求慰藉卻無所獲，酒不能消愁，景物又引往事，愁一層緊逼一層。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[5].blocks[1]",
+        "section": "結構、情感與主旨"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-05-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4dd8b48cbc52920a",
+    "chapterId": "essay-15",
+    "category": "technique",
+    "title": "鴻雁意象：家國、身世與悼亡",
+    "fields": {
+      "內容": "鴻雁為群居候鳥，隨季節遷徙，春北秋南，常象徵遊子思鄉、羈旅漂泊、無依悲苦。古人以雁書寄思親懷鄉，鴻雁因而可喻家書；群雁排「人」字，也可隱喻思念對象。這是2022評卷列出的意象途徑，不須把全部象徵堆在一個答案。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[6].blocks[0]",
+        "section": "鴻雁意象：家國、身世與悼亡"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-06-00-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-356acb5fdd697a27",
+    "chapterId": "essay-15",
+    "category": "character",
+    "title": "鴻雁意象：家國、身世與悼亡",
+    "fields": {
+      "內容": "雁曾是傳書寄情的形象，如今雁過而音訊難通，又勾起流落南方、懷念故國與亡夫的心情。「舊時相識」把眼前秋雁連到過去，令「正傷心」更加深重。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[6].blocks[1]",
+        "section": "鴻雁意象：家國、身世與悼亡"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-06-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-1611f39115865bed",
+    "chapterId": "essay-15",
+    "category": "character",
+    "title": "鴻雁意象：家國、身世與悼亡",
+    "fields": {
+      "內容": "<b>喪夫之痛</b>：雁可傳信，如今與丈夫生死永隔，再不能收其消息；「舊時相識」亦喚起昔日相伴的美好生活。引她早期《一剪梅》「雲中誰寄錦書來？雁字回時，月滿西樓」，對比當時雁帶丈夫消息、如今捎信者已不在。雁成為「所遇無故物」生活中的舊相識，卻無知無識、一掠而過，徒增傷心。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[6].blocks[2]",
+        "section": "鴻雁意象：家國、身世與悼亡"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-06-02-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-dbde7811d58b7c2e",
+    "chapterId": "essay-15",
+    "category": "character",
+    "title": "梧桐細雨、詩詞互照與時間",
+    "fields": {
+      "內容": "雨打梧桐是孤寂、哀愁的傳統意象組合。以下詩句有助理解它的文化聯想："
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[7].blocks[0]",
+        "section": "梧桐細雨、詩詞互照與時間"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-07-00-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5d6f09796bdaed7d",
+    "chapterId": "essay-15",
+    "category": "character",
+    "title": "梧桐細雨、詩詞互照與時間",
+    "fields": {
+      "內容": "白居易《長恨歌》：「春風桃李花開日，秋雨梧桐葉落時。」"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[7].blocks[1]",
+        "section": "梧桐細雨、詩詞互照與時間"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9f0e2cc2ecc95679",
+    "chapterId": "essay-15",
+    "category": "character",
+    "title": "梧桐細雨、詩詞互照與時間",
+    "fields": {
+      "內容": "溫庭筠《更漏子》：「梧桐樹，三更雨，不道離情正苦。一葉葉，一聲聲，空階滴到明。」"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[7].blocks[2]",
+        "section": "梧桐細雨、詩詞互照與時間"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f73afd8c2f7d5332",
+    "chapterId": "essay-15",
+    "category": "character",
+    "title": "梧桐細雨、詩詞互照與時間",
+    "fields": {
+      "內容": "晏殊《踏莎行》：「高樓目盡欲黃昏，梧桐葉上蕭蕭雨。」"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[7].blocks[3]",
+        "section": "梧桐細雨、詩詞互照與時間"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-b83f297468693f46",
+    "chapterId": "essay-15",
+    "category": "character",
+    "title": "梧桐細雨、詩詞互照與時間",
+    "fields": {
+      "內容": "歐陽修《一落索》：「窗在梧桐葉底，更黃昏雨細。」"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[7].blocks[4]",
+        "section": "梧桐細雨、詩詞互照與時間"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7f2d2e629327ecd2",
+    "chapterId": "essay-15",
+    "category": "vocabulary",
+    "title": "梧桐細雨、詩詞互照與時間",
+    "fields": {
+      "內容": "李清照沿用意象組合而改變句式，置於孀居語境，點滴之聲如打在心間。又以後來白樸《梧桐雨》的「驚魂破夢，助恨添愁，徹夜連宵」形容聽雨滋味。這是文學互照，不是李清照引用後世作品。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[7].blocks[5]",
+        "section": "梧桐細雨、詩詞互照與時間"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-07-05-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-078eb610206e4a26",
+    "chapterId": "essay-15",
+    "category": "character",
+    "title": "梧桐細雨、詩詞互照與時間",
+    "fields": {
+      "內容": "「到黃昏」寫等待時間漫長，雨聲仍不停歇，使愁情延續。可以由此聯想到難眠的長夜，但先要分清詞中明寫的是黃昏。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[7].blocks[6]",
+        "section": "梧桐細雨、詩詞互照與時間"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-07-06-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5e0df4d2b8b6b76f",
+    "chapterId": "essay-15",
+    "category": "character",
+    "title": "梧桐細雨、詩詞互照與時間",
+    "fields": {
+      "內容": "梧桐、細雨先營造清冷環境；「點點滴滴」把零碎卻不斷的雨聲寫得可聞。「到黃昏」顯出難熬的一天仍在延續，外面的雨聲與內心哀愁互相加深，最後匯入「怎一個愁字了得」。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[7].blocks[7]",
+        "section": "梧桐細雨、詩詞互照與時間"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-07-07-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5d7e80e046f25d3c",
+    "chapterId": "essay-15",
+    "category": "technique",
+    "title": "疊字、層遞",
+    "fields": {
+      "例子與作用": "七組為尋尋、覓覓、冷冷、清清、悽悽、慘慘、戚戚，組成三段音調轉折，情感從失落至悽戚至悲痛。另說大量舌齒音、齊微韻，由聲及心，沉痛有力。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[8].blocks[0][1][1]",
+        "section": "手法、感官與語言（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-08-00-01"
+    ],
+    "review": {
+      "status": "interpretation-note",
+      "notes": [
+        "原資料明示另一解讀；須連同語境閱讀。此為文字提示，未判定所有解釋同等成立。"
+      ]
+    }
+  },
+  {
+    "id": "k-9e3b5cfb4f43c60b",
+    "chapterId": "essay-15",
+    "category": "technique",
+    "title": "聲音反覆",
+    "fields": {
+      "例子與作用": "「點點滴滴」模擬雨聲延綿，孤獨中的時間更加難熬。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[8].blocks[0][1][2]",
+        "section": "手法、感官與語言（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-08-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-5daf8612ea7a309c",
+    "chapterId": "essay-15",
+    "category": "technique",
+    "title": "觸覺",
+    "fields": {
+      "例子與作用": "乍暖還寒、酒不能抵晚風的寒意，顯身心脆弱、清冷。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[8].blocks[0][1][3]",
+        "section": "手法、感官與語言（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-08-00-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ac84ad3ff496ade8",
+    "chapterId": "essay-15",
+    "category": "technique",
+    "title": "視覺",
+    "fields": {
+      "例子與作用": "過雁、黃花、梧桐細雨的景象，與故國、衰老、孤寂相聯。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[8].blocks[0][1][4]",
+        "section": "手法、感官與語言（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-08-00-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-15325e172e129375",
+    "chapterId": "essay-15",
+    "category": "technique",
+    "title": "聽覺",
+    "fields": {
+      "例子與作用": "雨滴梧桐滴答不歇，清冷蕭瑟，襯難排的寂寞愁苦。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[8].blocks[0][1][5]",
+        "section": "手法、感官與語言（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-08-00-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-7a55a5fbf098fa97",
+    "chapterId": "essay-15",
+    "category": "technique",
+    "title": "仰視、俯視",
+    "fields": {
+      "例子與作用": "仰見北雁，聯顛沛流離、故國之思；俯見凋菊，聯暮年容顏憔悴、更添愁苦。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[8].blocks[0][1][6]",
+        "section": "手法、感官與語言（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-08-00-06"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4d16fdc29979e127",
+    "chapterId": "essay-15",
+    "category": "technique",
+    "title": "觸景生情",
+    "fields": {
+      "例子與作用": "先見北雁南飛，觸發內心家國故鄉之思。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[8].blocks[0][1][7]",
+        "section": "手法、感官與語言（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-08-00-07"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-4d17d11e9d7b411d",
+    "chapterId": "essay-15",
+    "category": "technique",
+    "title": "緣情寫景、融情入景",
+    "fields": {
+      "例子與作用": "內有身世悲感，描寫黃花凋殘，把人之衰老、飄泊、無人憐惜融入花況，既寫景又自喻。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[8].blocks[0][1][8]",
+        "section": "手法、感官與語言（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-08-00-08"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-29b2d2fb29a7e4f9",
+    "chapterId": "essay-15",
+    "category": "technique",
+    "title": "借景抒情、運用意象",
+    "fields": {
+      "例子與作用": "雁、黃花、梧桐雨各有象徵聯想；須說景的特點與情感關係。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[8].blocks[0][1][9]",
+        "section": "手法、感官與語言（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-08-00-09"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-00002c04c30681c5",
+    "chapterId": "essay-15",
+    "category": "technique",
+    "title": "直接抒情",
+    "fields": {
+      "例子與作用": "「悽悽慘慘戚戚」「正傷心」「怎一箇愁字了得」直接吐露悲苦、難言之愁；亦與景中含情結合。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[8].blocks[0][1][10]",
+        "section": "手法、感官與語言（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-08-00-10"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-f76f646274fc6cbe",
+    "chapterId": "essay-15",
+    "category": "technique",
+    "title": "對比",
+    "fields": {
+      "例子與作用": "依盛花解，黃花繁盛對人憔悴；依前後期作品比較，昔日相思與如今離亂喪夫不同。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[8].blocks[0][1][11]",
+        "section": "手法、感官與語言（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-08-00-11"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-adff3fa24cd283e0",
+    "chapterId": "essay-15",
+    "category": "technique",
+    "title": "反問",
+    "fields": {
+      "例子與作用": "「如今有誰堪摘」「怎一箇愁字了得」強化無人可伴／可贈及愁難盡言。其他疑問句須按具體語氣解釋，不把全詞疑問一概硬套同名。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[8].blocks[0][1][12]",
+        "section": "手法、感官與語言（1）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-08-00-12"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-0de08088f3d485bc",
+    "chapterId": "essay-15",
+    "category": "technique",
+    "title": "白描、口語、直抒胸臆",
+    "fields": {
+      "例子與作用": "語言淺易自然，近口語訴說，無須華麗辭藻而曲折含蓄；入聲險韻令長調讀來急促，聲情並茂，極盡低迴抑塞。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[9].blocks[0][1][1]",
+        "section": "手法、感官與語言（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-09-00-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6bfcda2d3c515273",
+    "chapterId": "essay-15",
+    "category": "technique",
+    "title": "首尾呼應、承上啟下",
+    "fields": {
+      "例子與作用": "過雁承前愁情根源、啟下身世；結尾概括光景、回應開首悲戚。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[9].blocks[0][1][2]",
+        "section": "手法、感官與語言（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-09-00-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ce62ca068031a16d",
+    "chapterId": "essay-15",
+    "category": "technique",
+    "title": "手法、感官與語言",
+    "fields": {
+      "內容": "《聲聲慢》多用淺近語言，卻寫出深重的哀愁。「守着窗兒」把孤獨落在日常動作，「怎一個愁字了得」用近於口語的反問收束，真切而有餘味。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[9].blocks[1]",
+        "section": "手法、感官與語言（2）"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-09-01-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-86ed22db04d6790a",
+    "chapterId": "essay-15",
+    "category": "exam",
+    "title": "歷年考查提示",
+    "fields": {
+      "內容": "下表列出歷年考查的知識方向；題目、答案與適用條件見配套考查索引。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[10].blocks[0]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-562f49c85a2cb031",
+    "chapterId": "essay-15",
+    "category": "exam",
+    "title": "2022",
+    "fields": {
+      "已收錄考查角度（包括跨篇選項）": "摘錄：開端七組疊字；語言與情感：疊字的特色；意象與情懷：鴻雁勾起的愁緒及原因"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[10].blocks[1][1][1]",
+        "section": "歷年考查提示"
+      }
+    ],
+    "questionIds": [],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c57e8436372b3b2b",
+    "chapterId": "essay-15",
+    "category": "theme",
+    "title": "理解補充",
+    "fields": {
+      "內容": "本篇語譯採花已凋謝、無人同摘一路。另一解以黃花盛開、人已憔悴而無心賞摘或無人可贈，突出物是人非。兩路都指向孤獨悼亡；分析時花的狀態、憔悴主體與「誰堪摘」要相互配合。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[11].blocks[0]",
+        "section": "理解補充"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-11-00-80"
+    ],
+    "review": {
+      "status": "interpretation-note",
+      "notes": [
+        "原資料明示另一解讀；須連同語境閱讀。此為文字提示，未判定所有解釋同等成立。"
+      ]
+    }
+  },
+  {
+    "id": "k-5d615d4aee4dd3ee",
+    "chapterId": "essay-15",
+    "category": "structure",
+    "title": "章末串連｜重建全文",
+    "fields": {
+      "內容": "從尋求慰藉到處處觸愁，結尾一個愁字不足以概括，是逐層累積的結果。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[12].blocks[0]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-12-00-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-52a343e0fb122198",
+    "chapterId": "essay-15",
+    "category": "structure",
+    "title": "開首先定內心",
+    "fields": {
+      "怎樣連起來": "尋覓而冷清，冷清而悽慘，疊字把行動、環境和內心連起來。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[12].blocks[1][1][1]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-12-01-01"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-24948fd75d080530",
+    "chapterId": "essay-15",
+    "category": "structure",
+    "title": "景物逐層觸發",
+    "fields": {
+      "怎樣連起來": "淡酒難抵風，雁引舊憶，黃花牽憔悴，獨守窗前使時間難捱。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[12].blocks[1][1][2]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-12-01-02"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-ff3e3fdc2e4fd08f",
+    "chapterId": "essay-15",
+    "category": "structure",
+    "title": "聲音推至結尾",
+    "fields": {
+      "怎樣連起來": "梧桐細雨點滴不停，到黃昏仍愁；反問把眼前苦況和身世之痛一併收束。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[12].blocks[1][1][3]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-12-01-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-053b59526ec09a58",
+    "chapterId": "essay-15",
+    "category": "structure",
+    "title": "時間與愁深",
+    "fields": {
+      "怎樣連起來": "「最難將息」「怎生得黑」「到黃昏」共同写時間難熬；愁不只是某一刻的情緒，而是整日無法排遣。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[12].blocks[1][1][4]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-12-01-04"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-9d88db50bd62b6a2",
+    "chapterId": "essay-15",
+    "category": "structure",
+    "title": "眼前與往昔",
+    "fields": {
+      "怎樣連起來": "「舊時相識」由雁接回從前，黃花又映照今日憔悴；舊日生活與眼前孤獨的落差，使景物格外傷人。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/sources/student-content.json",
+        "path": "$[14].pages[12].blocks[1][1][5]",
+        "section": "章末串連｜重建全文"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-12-01-05"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-c93cbf598267cf53",
+    "chapterId": "essay-15",
+    "category": "technique",
+    "title": "反問與設問",
+    "fields": {
+      "內容": "反問用疑問形式表達已確定的意思，通常不需回答，以加強語氣；設問先提出問題再作回答，引導讀者理解。判斷時看句子在上下文的作用，不能只憑問號。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[193].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[196].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[198].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1392].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1858].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1861].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1877].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1886].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1906].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1907].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1909].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1914].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-e15-exp-002",
+      "q-e15-exp-005",
+      "q-e15-exp-007",
+      "full-c-15-02-03-07",
+      "full-c-15-00-01-80",
+      "full-c-15-00-07-80",
+      "full-c-15-04-00-03",
+      "full-c-15-05-00-07",
+      "full-c-15-08-00-12",
+      "full-c-15-09-00-01",
+      "full-c-15-09-01-80",
+      "full-c-15-12-01-03"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-dfaa28b08d58417a",
+    "chapterId": "essay-15",
+    "category": "theme",
+    "title": "本句的理解要點",
+    "fields": {
+      "內容": "開首十四疊字把動作、環境、內心逐層連起。大雁令人聯想舊時生活，但不能斷言飛過的必是同一隻雁。\n「怎生得黑」寫長日難熬；「更兼」又加一層雨聲。末句不是否認愁，而是說一個愁字容不下種種痛苦。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[212].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1858].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1859].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1860].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1861].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1864].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1865].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1866].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1867].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1868].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1869].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1870].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1871].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1872].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1874].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1875].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1876].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1877].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1878].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1880].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1882].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1883].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1884].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1885].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1886].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1887].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1890].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1892].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1893].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1894].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1895].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1897].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1898].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1899].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1900].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1901].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1902].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1903].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1904].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1905].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1906].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1907].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1908].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1909].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1910].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1911].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1912].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1913].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1914].learning.knowledge[1]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1915].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1916].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[2147].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "q-appendix-005",
+      "full-c-15-00-01-80",
+      "full-c-15-00-03-80",
+      "full-c-15-00-05-80",
+      "full-c-15-00-07-80",
+      "full-c-15-03-00-01",
+      "full-c-15-03-00-02",
+      "full-c-15-03-00-04",
+      "full-c-15-03-00-06",
+      "full-c-15-03-00-07",
+      "full-c-15-03-00-09",
+      "full-c-15-03-00-10",
+      "full-c-15-03-00-11",
+      "full-c-15-03-00-13",
+      "full-c-15-03-00-15",
+      "full-c-15-03-00-17",
+      "full-c-15-04-00-01",
+      "full-c-15-04-00-03",
+      "full-c-15-04-00-04",
+      "full-c-15-05-00-01",
+      "full-c-15-05-00-03",
+      "full-c-15-05-00-04",
+      "full-c-15-05-00-05",
+      "full-c-15-05-00-06",
+      "full-c-15-05-00-07",
+      "full-c-15-05-01-80",
+      "full-c-15-06-02-80",
+      "full-c-15-07-05-80",
+      "full-c-15-07-06-80",
+      "full-c-15-07-07-80",
+      "full-c-15-08-00-01",
+      "full-c-15-08-00-03",
+      "full-c-15-08-00-04",
+      "full-c-15-08-00-05",
+      "full-c-15-08-00-06",
+      "full-c-15-08-00-07",
+      "full-c-15-08-00-08",
+      "full-c-15-08-00-09",
+      "full-c-15-08-00-10",
+      "full-c-15-08-00-11",
+      "full-c-15-08-00-12",
+      "full-c-15-09-00-01",
+      "full-c-15-09-00-02",
+      "full-c-15-09-01-80",
+      "full-c-15-11-00-80",
+      "full-c-15-12-00-80",
+      "full-c-15-12-01-01",
+      "full-c-15-12-01-02",
+      "full-c-15-12-01-03",
+      "full-c-15-12-01-04",
+      "full-c-15-12-01-05",
+      "dse-2022-1a-6-ii"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-6c3b28e0a66a1cd8",
+    "chapterId": "essay-15",
+    "category": "theme",
+    "title": "舉例與引用",
+    "fields": {
+      "內容": "舉例以具體事實、人物或事件支持道理；引用借用前人話語或文獻作依據。兩者可以在同一段並用，須按題目所問的範圍辨認，並說明例子或引語支持哪個論點。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1385].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1892].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-01-03-07",
+      "full-c-15-07-05-80"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  },
+  {
+    "id": "k-45e76ee5372e36fa",
+    "chapterId": "essay-15",
+    "category": "technique",
+    "title": "對比與襯托",
+    "fields": {
+      "內容": "對比把兩方並置，突出差異，兩方都參與表意；襯托有主次，以陪襯的一方突出主要對象。分析須指出哪兩方、在哪一方面形成關係，以及這個關係如何支持文意。"
+    },
+    "context": "",
+    "evidence": [
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1902].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      },
+      {
+        "file": "web-study/content/bank.json",
+        "path": "$.questions[1905].learning.knowledge[0]",
+        "section": "題庫補充知識"
+      }
+    ],
+    "questionIds": [
+      "full-c-15-08-00-08",
+      "full-c-15-08-00-11"
+    ],
+    "review": {
+      "status": "organized",
+      "notes": []
+    }
+  }
+]
