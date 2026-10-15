@@ -55,7 +55,10 @@ export function validateBackup(data,userId){
   }
   if(e.type==='assessment')check(safeId(p.attemptId,300)&&typeof p.correct==='boolean','自查格式無效');
   if(e.type==='favorite')check(safeId(p.questionId)&&typeof p.saved==='boolean','收藏格式無效');
-  if(e.type==='browse')check(safeId(p.questionId),'瀏覽格式無效');
+  if(e.type==='browse'){
+   check(safeId(p.questionId),'瀏覽格式無效');
+   if(p.purpose==='practice')check(safeId(p.memoryId)&&safeId(p.sessionId)&&(p.practiceGroup===undefined||typeof p.practiceGroup==='string'&&p.practiceGroup.length<=200),'出題記錄無效');
+  }
   if(e.type==='report')check(safeId(p.questionId)&&Number.isInteger(p.questionVersion)&&p.questionVersion>0&&text(p.category,100)&&typeof p.detail==='string'&&p.detail.length<=5000,'回報格式無效');
   if(e.type==='session')session(p.session);
   if(e.type==='settings'){

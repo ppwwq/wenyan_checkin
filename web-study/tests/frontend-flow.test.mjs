@@ -47,7 +47,7 @@ test('added reading appears only after answering, with long context collapsed',(
  for(const q of bank.questions){
   const html=practiceView(bank,make(q),project([]));
   const material=questionMaterialView(q);
-  assert.equal(material,q.quote?.trim()?'<div class="reading-passage"><p class="passage-label">題目引文</p><blockquote>'+quote(q)+'</blockquote></div>':'',q.id);
+  assert.equal(material,q.quote?.trim()?'<div class="reading-passage"><p class="passage-label">'+(q.provenance?.kind==='authored'?'練習例句':'題目引文')+'</p><blockquote>'+quote(q)+'</blockquote></div>':'',q.id);
   assert.ok(!html.includes('source-background')&&!html.includes('answer-context')&&!html.includes('reading-passage"><p class="passage-label">《'),q.id);
  }
  const long=bank.questions.find(q=>q.id==='dse-2025-1a-2');

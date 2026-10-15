@@ -1,0 +1,16 @@
+{
+  "result": "PASS",
+  "uiVersion": "2026.10.15.1",
+  "bankVersion": "2026.10.15.1",
+  "checks": [
+    "Report visible before answering; submission preserves unanswered state",
+    "Offline reload and resume retain draft; skipped question is replaced; report remains visible after correct answer",
+    "Wrong answer is not offered again today; skip does not inflate the daily count",
+    "Offline events and pre-answer report reach the local server/admin exactly once",
+    "Manual practice excludes all previously displayed daily questions, including skipped work",
+    "A second browser receives presentation records and excludes questions already seen in other sessions",
+    "DSE-only filter displays original wording and fixed option order"
+  ],
+  "errors": [],
+  "scope": "Isolated in-memory local accounts; Chromium 390x844 and 768x1024; offline service worker and second-browser sync. No production data accessed."
+}

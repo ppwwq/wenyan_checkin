@@ -1,6 +1,7 @@
-import {hkDay,effectiveAttempts} from './review.mjs';
+import {hkDay,effectiveAttempts,questionMistakes} from './review.mjs';
 export {effectiveAttempts,questionMistakes} from './review.mjs';
 import {queue,available} from './queue.mjs';
+import {seenInPractice,wasSeen} from './daily-availability.mjs';
 
 export const trainingAbilities=['vocabulary','meaning','theme','technique'];
 export function validTraining(plan){
@@ -15,15 +16,9 @@ export function dailyProgress(state,today=hkDay()){
 }
 export function retryQuestions(questions,state,today=hkDay()){
  const plan=state.settings.training;if(!validTraining(plan)||!plan.retry)return [];
- const groups=new Map();
- for(const a of effectiveAttempts(state).filter(a=>a.day===today)){if(!groups.has(a.memoryId))groups.set(a.memoryId,[]);groups.get(a.memoryId).push(a);}
- const ids=new Set();
- for(const rows of groups.values()){
-  const firstFailure=rows.findIndex(a=>a.trainingPolicy===2&&a.correct===false);
-  // Any subsequent submission is already a retry, including a pending self-check.
-  if(firstFailure>=0&&firstFailure===rows.length-1)ids.add(rows[firstFailure].questionId);
- }
- return available(questions,{...trainingOptions(plan),questionIds:[...ids]});
+ const ids=[...questionMistakes(state)].filter(([,a])=>a.day<today).map(([id])=>id);
+ const seen=seenInPractice(state,questions,today);
+ return available(questions,{...trainingOptions(plan),questionIds:ids}).filter(q=>!wasSeen(q,seen));
 }
 export function dailyQuestions(questions,state,today=hkDay()){
  const plan=state.settings.training;if(!validTraining(plan))return [];
@@ -31,31 +26,44 @@ export function dailyQuestions(questions,state,today=hkDay()){
  return queue(questions,{...trainingOptions(plan),count:progress.remaining,rotation:state.settings.rotation||0,excludeMemoryIds:[...progress.seen],priorityMode:'daily'},state,today);
 }
 
-// Rebuild only unfinished daily/retry work; submitted snapshots remain intact.
+// Reconcile all unfinished queues against today's presentations and bank revisions.
+// Submitted snapshots and unfinished self-assessment remain intact.
 export function refreshTrainingSession(questions,state,original,today=hkDay()){
  const plan=state.settings.training;
- if(original.completed||!['daily','retry'].includes(original.kind)||!validTraining(plan))return original;
+ if(original.completed)return original;
+ const training=['daily','retry'].includes(original.kind);
+ if(training&&!validTraining(plan))return original;
  const progress=dailyProgress(state,today);
- if(JSON.stringify(original.trainingSnapshot)===JSON.stringify(plan)&&original.goalDay===today&&original.goalSnapshot===progress.goal)return original;
  const session=structuredClone(original),answers=session.answers||={};
  for(const a of state.attempts.filter(e=>e.payload.sessionId===session.id))answers[a.payload.questionId]=a.id;
  const answered=session.questions.filter(q=>answers[q.id]),current=session.questions[session.index];
- const skipped=questions.filter(q=>(session.skippedIds||[]).includes(q.id));
+ const skipped=questions.filter(q=>[...(session.skippedIds||[]),...(session.skipped||[])].includes(q.id));
  const excludedMemories=new Set([...answered,...skipped].map(q=>q.memoryId));
  const excludedGroups=new Set([...answered,...skipped].map(q=>q.practiceGroup).filter(Boolean));
- const opts=trainingOptions(plan),pool=(session.kind==='retry'?retryQuestions(questions,state,today):available(questions,opts).filter(q=>!progress.seen.has(q.memoryId))).filter(q=>!answers[q.id]&&!excludedMemories.has(q.memoryId)&&(!q.practiceGroup||!excludedGroups.has(q.practiceGroup)));
- const capacity=Math.max(0,Math.min(100-answered.length,session.kind==='daily'?progress.remaining:100));
- const pending=capacity&&current&&pool.some(q=>q.id===current.id)?[current]:[];
- const rest=pool.filter(q=>!pending.some(p=>p.memoryId===q.memoryId||(p.practiceGroup&&p.practiceGroup===q.practiceGroup)));
+ const opts=training?trainingOptions(plan):session.selection||{essayIds:session.essayIds||[...new Set(session.questions.flatMap(q=>q.essayIds))],questionIds:session.questions.map(q=>q.id),appendix:session.questions.some(q=>q.tags?.includes('appendix')),scope:'all'};
+ const continuation=current&&!answers[current.id]&&!skipped.some(q=>q.id===current.id)?{sessionId:session.id,questionId:current.id}:{};
+ const seen=seenInPractice(state,questions,today,continuation);
+ const mistakes=questionMistakes(state);
+ const retryIds=new Set([...mistakes].filter(([,a])=>a.day<today).map(([id])=>id));
+ const pool=available(questions,opts).filter(q=>(opts.scope!=='wrong'||mistakes.has(q.id))&&!wasSeen(q,seen)&&!answers[q.id]&&!excludedMemories.has(q.memoryId)&&(!q.practiceGroup||!excludedGroups.has(q.practiceGroup))&&(session.kind!=='retry'||plan.retry&&retryIds.has(q.id)));
+ const capacity=Math.max(0,Math.min(100-answered.length,session.kind==='daily'?progress.remaining:(session.targetCount??original.questions.length)-answered.length));
  const previous=new Map(session.questions.map(q=>[q.id,q]));
- if(capacity>pending.length)pending.push(...queue(rest,{...opts,count:capacity-pending.length,rotation:state.settings.rotation||0,priorityMode:'daily'},state,today).map(q=>previous.get(q.id)||q));
- if(session.selection){session.selection=structuredClone(opts);session.targetCount=Math.max(1,Math.min(100,answered.length+(session.kind==='daily'?progress.remaining:pending.length)));}
- session.questions=[...answered,...pending];session.essayIds=opts.essayIds;session.trainingSnapshot=structuredClone(plan);session.goalDay=today;session.goalSnapshot=progress.goal;
+ const retain=q=>{
+  const old=previous.get(q.id);if(old&&old.version===q.version)return old;
+  if(old&&session.drafts?.[q.id]){session.archivedDrafts||={};session.archivedDrafts[q.id+'@v'+old.version]=session.drafts[q.id];delete session.drafts[q.id];}
+  return q;
+ };
+ const nextCurrent=current&&pool.find(q=>q.id===current.id);
+ const pending=capacity&&nextCurrent?[retain(nextCurrent)]:[];
+ const rest=pool.filter(q=>!pending.some(p=>p.memoryId===q.memoryId||(p.practiceGroup&&p.practiceGroup===q.practiceGroup)));
+ if(capacity>pending.length)pending.push(...queue(rest,{...opts,count:capacity-pending.length,rotation:state.settings.rotation||0,priorityMode:training?'daily':opts.priorityMode},state,today).map(retain));
+ if(session.selection){session.selection=structuredClone(opts);session.targetCount=session.kind==='daily'?Math.max(1,Math.min(100,answered.length+progress.remaining)):(original.targetCount??original.questions.length);}
+ session.questions=[...answered,...pending];session.essayIds=opts.essayIds;if(training)session.trainingSnapshot=structuredClone(plan);session.goalDay=today;session.goalSnapshot=progress.goal;
  const unassessed=answered.findIndex(q=>state.attempts.some(a=>a.id===answers[q.id]&&a.payload.mode==='typing'&&!state.assessments.has(a.id)));
  session.skipped=(session.skipped||[]).filter(id=>pending.some(q=>q.id===id));
  const next=pending.findIndex(q=>!session.skipped.includes(q.id));
  session.passComplete=unassessed<0&&pending.length>0&&next<0;
  session.index=unassessed>=0?unassessed:answered.length+Math.max(0,next);session.completed=!pending.length&&unassessed<0;
  if(session.completed)session.index=0;
- return session;
+ return JSON.stringify(session)===JSON.stringify(original)?original:session;
 }

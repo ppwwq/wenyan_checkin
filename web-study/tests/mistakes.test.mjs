@@ -47,7 +47,7 @@ test('mistake entry keeps same-day corrections, clears next-day success, and res
 test('empty, withdrawn and single-question cases cannot start unrelated practice',()=>{
  for(const s of [state(),state([attempt('held')])]){
   const html=mistakesView(bank,s);
-  assert.match(html,/目前沒有可重練的錯題/);
+  assert.match(html,/今天沒有尚未出現的錯題/);
   assert.doesNotMatch(html,/data-action="mistake-start"/);
  }
  const s=state([attempt('wrong'),attempt('outside')]);

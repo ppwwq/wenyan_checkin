@@ -59,9 +59,9 @@ test('daily target counts distinct knowledge points, including wrong and pending
  assert.equal(dailyProgress(s,'2026-09-24').done,2);assert.equal(dailyProgress(s,'2026-09-24').retries,1);
  const list=dailyQuestions(questions,s,'2026-09-24');assert.equal(list.length,1);assert.ok(!list.some(q=>['a1','a2'].includes(q.memoryId)));
 });
-test('wrong answers are eligible immediately, no ten-minute waiting period',()=>{
+test('wrong answers wait until the next Hong Kong day before appearing again',()=>{
  const s=state([attempt('wrong',false)]);
- assert.deepEqual(retryQuestions(questions,s,'2026-09-24').map(q=>q.id),['a1']);assert.equal(s.memories.a1.againAt,null);assert.equal(s.memories.a1.due,'2026-09-25');
+ assert.deepEqual(retryQuestions(questions,s,'2026-09-24'),[]);assert.deepEqual(retryQuestions(questions,s,'2026-09-25').map(q=>q.id),['a1']);assert.equal(s.memories.a1.againAt,null);assert.equal(s.memories.a1.due,'2026-09-25');
 });
 test('one same-day retry maximum, whether corrected, still wrong or pending self-check',()=>{
  for(const result of [true,false,null]){
@@ -69,9 +69,9 @@ test('one same-day retry maximum, whether corrected, still wrong or pending self
   assert.equal(retryQuestions(questions,s,'2026-09-24').length,0);assert.equal(s.memories.a1.due,'2026-09-25');assert.equal(s.firsts[0].correct,false);
  }
 });
-test('correct then wrong preserves first accuracy but creates immediate retry and next-day review',()=>{
+test('legacy correct then wrong preserves first accuracy and next-day review without same-day repetition',()=>{
  const s=state([attempt('first',true),attempt('lapse',false,'2026-09-24T01:01:00Z',{practiceKind:'extra'})]);
- assert.equal(s.firsts[0].correct,true);assert.equal(s.memories.a1.correct,true);assert.equal(s.memories.a1.hasFailure,true);assert.equal(s.memories.a1.due,'2026-09-25');assert.equal(retryQuestions(questions,s,'2026-09-24').length,1);
+ assert.equal(s.firsts[0].correct,true);assert.equal(s.memories.a1.correct,true);assert.equal(s.memories.a1.hasFailure,true);assert.equal(s.memories.a1.due,'2026-09-25');assert.equal(retryQuestions(questions,s,'2026-09-24').length,0);
 });
 test('mistake badges use exact questions, survive same-day correction and clear after next-day success',()=>{
  const wrong=attempt('first',false),fixed=attempt('fixed',true,'2026-09-24T01:01:00Z');
@@ -86,9 +86,9 @@ test('turning retry off, suspending a chapter or withdrawing a question removes 
  for(const change of [{retry:false},{chapters:{b:['theme']}}])assert.equal(retryQuestions(questions,state([attempt('wrong',false),setting({...plan,...change},'2026-09-24T02:00:00Z')]),'2026-09-24').length,0);
  assert.equal(retryQuestions(questions.map(q=>({...q,active:false})),state([attempt('wrong',false)]),'2026-09-24').length,0);
 });
-test('Hong Kong midnight creates a new daily count and due task, not a leftover automatic retry',()=>{
+test('Hong Kong midnight creates a new daily count and releases previous-day mistakes',()=>{
  const before=attempt('night',false,'2026-09-24T15:59:59Z'),s=state([before],'2026-09-25');
- assert.equal(dailyProgress(s,'2026-09-25').done,0);assert.equal(retryQuestions(questions,s,'2026-09-25').length,0);assert.ok(dailyQuestions(questions,s,'2026-09-25').some(q=>q.id==='a1'));
+ assert.equal(dailyProgress(s,'2026-09-25').done,0);assert.equal(retryQuestions(questions,s,'2026-09-25').length,1);assert.ok(dailyQuestions(questions,s,'2026-09-25').some(q=>q.id==='a1'));
  assert.equal(hkDay('2026-09-24T16:00:00Z'),'2026-09-25');
 });
 test('legacy setting events without an explicit daily goal keep their original frozen target',()=>{

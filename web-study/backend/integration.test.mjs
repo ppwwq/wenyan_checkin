@@ -39,6 +39,19 @@ async function fixture(t) {
 }
 const answer = (id = 'zzz-first') => ({ id, type: 'attempt', createdAt: '2026-09-18T15:59:00Z', payload: { memoryId: 'm1', questionId: 'q1', questionVersion: 1, question: { id: 'q1', answerId: 'b' }, mode: 'typing', answer: '首次草稿', correct: null, submittedAt: '2026-09-18T15:59:00Z', day: '2026-09-18' } });
 
+test('practice presentations and pre-answer reports sync to a second device without creating answers', async t => {
+ const api=await fixture(t);
+ const user=await api('/api/auth/register',{username:'presentation-test',password:'password-123',inviteCode:'students'});
+ const shown={id:'shown-q1',type:'browse',createdAt:'2026-10-15T01:00:00Z',payload:{purpose:'practice',questionId:'q1',memoryId:'m1',sessionId:'s1',practiceGroup:'g1'}};
+ const report={id:'report-q1',type:'report',createdAt:'2026-10-15T01:00:01Z',payload:{questionId:'q1',questionVersion:1,category:'DSE真題與原卷不符',detail:'未作答時回報'}};
+ await api('/api/sync',{events:[shown,report]},user.token);
+ const second=await api('/api/sync',{events:[]},user.token);
+ assert.equal(second.events.length,2);assert.deepEqual(second.events.find(e=>e.id===shown.id).payload,shown.payload);
+ assert.equal(second.reports.length,1);assert.equal(second.reports[0].questionId,'q1');assert.equal(second.firstObservations.length,0);
+ await assert.rejects(api('/api/sync',{events:[{...shown,id:'invalid',payload:{...shown.payload,sessionId:''}}]},user.token),/出题记录/);
+ const again=await api('/api/sync',{events:[shown,report]},user.token);assert.equal(again.events.length,2);
+});
+
 test('real sync drains more than one ID-ordered batch, acknowledges retries, and keeps switched accounts isolated', async t => {
   const api = await fixture(t);
   const a = await api('/api/auth/register', { username: 'student-a', password: 'password-123', inviteCode: 'students' });

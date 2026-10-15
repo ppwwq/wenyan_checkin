@@ -12,8 +12,9 @@ import {homeView,weaknessView,historyView,savedView,quickView,reportsView} from 
 import {trainingView} from './features/training.mjs';
 import {mistakesView,mistakeOptions} from './features/mistakes.mjs';
 import {validTraining,trainingOptions,dailyProgress,dailyQuestions,retryQuestions,refreshTrainingSession} from './domain/training.mjs';
-import {resumeSkipped,needsAnswer} from './domain/session.mjs';
+import {resumeSkipped} from './domain/session.mjs';
 import {advanceWithReplacement,sessionProgress} from './domain/replacement.mjs';
+import {seenInPractice,wasSeen} from './domain/daily-availability.mjs';
 const root=document.querySelector('#root'),dialog=document.querySelector('#dialog');
 let auth=null,repo=null,syncer=null,scheduler=null,localDraftPending=false,bank=null,state=project([]),page='home',session=null,quick={cards:[],index:0},compareTarget='',compareExpanded=false,authMode='login',busy=false,writes=new SaveQueue(),saveError='',status='已保存到本機',serverReports=[],corrections=[],adminReports=[];
 let options={essayIds:[],count:20,scope:'all',ability:'',appendix:false,rotation:0,quickScope:'both'};
@@ -132,7 +133,7 @@ async function latestSession(id){
  return value;
 }
 async function updateTrainingSessions(){
- for(const s of Object.values(state.sessions).filter(s=>!s.completed&&['daily','retry'].includes(s.kind))){
+ for(const s of Object.values(state.sessions).filter(s=>!s.completed)){
   const previous=await latestSession(s.id),updated=refreshTrainingSession(bank.questions,state,previous);
   if(updated!==previous){await saveSession(false,updated);if(session?.id===s.id)session=updated;}
  }
@@ -143,21 +144,21 @@ async function resumeSession(id){
  session=refreshTrainingSession(bank.questions,state,session);
  if(session.passComplete)resumeSkipped(session,state);
  if(session.completed){await saveSession();await go('home');toast('已按目前設定更新，本組沒有待答題目。');return;}
- if(session.kind==='retry'){
-  const eligible=new Set(retryQuestions(bank.questions,state).map(q=>q.id));
-  session.questions=session.questions.filter(q=>session.answers[q.id]||eligible.has(q.id));
-  session.skipped=(session.skipped||[]).filter(id=>session.questions.some(q=>q.id===id)&&!session.answers[id]);
-  session.index=session.questions.findIndex(q=>!(session.skipped||[]).includes(q.id)&&needsAnswer(session,state,q));
-  if(session.index<0&&session.skipped.length)resumeSkipped(session,state);
-  if(session.index<0){session.completed=true;session.index=0;await saveSession();await go('home');toast('本組錯題已回練，或目前已不在回練範圍。');return;}
+ await ensureDailyGoal();session.paused=false;await showPractice();
+}
+async function showPractice(){
+ session=refreshTrainingSession(bank.questions,state,session);
+ if(!session.completed&&!session.passComplete){
+  const q=currentQuestion(),day=hkDay();
+  if(q&&!session.answers[q.id])await append('browse',{questionId:q.id,memoryId:q.memoryId,practiceGroup:q.practiceGroup||'',purpose:'practice',sessionId:session.id},session.id+'/shown/'+day+'/'+q.id);
  }
- await ensureDailyGoal();session.paused=false;await saveSession();page='practice';render();focusPractice();
+ await saveSession();page='practice';render();focusPractice();
 }
 async function beginSession(list,opts,kind,drafts={}){
- if(!list.length){toast('這個範圍目前沒有可練題目，可調整篇章或類型。');return;}
+ if(!list.length){toast('這個範圍今天沒有未出現的題目；可換範圍，或明日再練。');return;}
  await ensureDailyGoal();
  session={id:crypto.randomUUID(),selection:structuredClone(opts),targetCount:kind==='daily'?dailyProgress(state).remaining:kind==='retry'?list.length:Number(opts.count||list.length),skippedIds:[],kind,goalDay:hkDay(),goalSnapshot:dailyProgress(state).goal,trainingSnapshot:kind==='extra'?undefined:structuredClone(state.settings.training),questions:structuredClone(list),index:0,answers:{},drafts:structuredClone(drafts),mode:'choice',essayIds:opts.essayIds,completed:false,paused:false,startedAt:new Date().toISOString()};
- await saveSession();await append('settings',{rotation:((state.settings.rotation||0)+list.length)%Math.max(1,opts.essayIds.length)});page='practice';render();focusPractice();void sync();
+ await append('settings',{rotation:((state.settings.rotation||0)+list.length)%Math.max(1,opts.essayIds.length)});await showPractice();void sync();
 }
 async function startDaily(kind='daily'){
  await writes.flush();await sync();if(!validTraining(state.settings.training)){await go('training');return;}
@@ -165,14 +166,15 @@ async function startDaily(kind='daily'){
  const existing=Object.values(state.sessions).filter(s=>s.kind===kind&&!s.completed).sort((a,b)=>b.startedAt.localeCompare(a.startedAt))[0];
  if(existing){await resumeSession(existing.id);return;}
  const opts=trainingOptions(state.settings.training);
- if(kind==='daily'&&!dailyProgress(state).remaining){toast('今日目標已完成，可以回練錯題或自選加練。');await go('home');return;}
+ if(kind==='daily'&&!dailyProgress(state).remaining){toast('今日目標已完成，可自選尚未出現的新題。');await go('home');return;}
  const list=kind==='retry'?queue(bank.questions,{...opts,count:100,questionIds:retryQuestions(bank.questions,state).map(q=>q.id)},state):dailyQuestions(bank.questions,state);
  await beginSession(list,opts,kind);
 }
 async function start(questionIds=null,essayIds=null){
+ await writes.flush();await sync();
  if(navigator.onLine){await loadBank();tagComparisons();}
  const opts={...options,rotation:state.settings.rotation,...(questionIds?{questionIds}:{}),...(essayIds?{essayIds}:{})};
- const list=queue(bank.questions,opts,state);if(!list.length){toast('所選範圍沒有可練題目');return;}
+ const list=queue(bank.questions,opts,state);if(!list.length){toast('所選範圍今天沒有未出現的題目；明日可再練。');return;}
  await beginSession(list,opts,'extra');
 }
 function updatePracticeProgress(){const p=sessionProgress(session,state);const meta=document.querySelector('.session-meta'),bar=document.querySelector('.progress-track span');if(meta)meta.textContent='已練 '+p.done+' / '+p.target+' 題 · 尚餘 '+p.remaining+' 題';if(bar)bar.style.width=Math.min(100,p.done/p.target*100)+'%';}
@@ -185,14 +187,14 @@ function renderAnswerKeepingPosition(q){
  window.scrollTo({left:at.x,top:at.y,behavior:'instant'});
 }
 async function submit(unknown=false){
- const q=currentQuestion();const existing=state.attempts.find(e=>e.id===session.id+'/'+q.id);if(existing){session.answers[q.id]=existing.id;await saveSession();renderAnswerKeepingPosition(q);return;}if(session.answers[q.id])return;const mode=answerMode(q,session),answer=unknown?'暫時不會':session.drafts[q.id]||'';
+ const q=currentQuestion();const existing=state.attempts.find(e=>e.id===session.id+'/'+q.id);if(existing){session.answers[q.id]=existing.id;await saveSession();renderAnswerKeepingPosition(q);return;}if(session.answers[q.id])return;if(wasSeen(q,seenInPractice(state,bank.questions,hkDay(),{sessionId:session.id,questionId:q.id}))){toast('這題今天已在另一題組出現，已更新為未出現的題目。');await showPractice();return;}const mode=answerMode(q,session),answer=unknown?'暫時不會':session.drafts[q.id]||'';
  if(!answer.trim()){toast(mode==='typing'?'先寫下想法，也可以選「暫時不會」。':'先選一個答案，也可以選「暫時不會」查看解析。');return;}
  await ensureDailyGoal();const id=session.id+'/'+q.id,now=new Date().toISOString();
  await append('attempt',{memoryId:q.memoryId,questionId:q.id,questionVersion:q.version,question:structuredClone(q),submittedAt:now,day:hkDay(now),mode,answer,correct:mode==='typing'?null:answer===q.answerId,sessionId:session.id,trainingPolicy:2,practiceKind:session.kind||'extra'},id);
  session.answers[q.id]=id;await saveSession();renderAnswerKeepingPosition(q);void sync();
 }
 async function assess(correct){if(!document.querySelector('#check-meaning')?.checked||!document.querySelector('#check-context')?.checked){toast('請先完成兩項核對，再確定結果。');return;}const q=currentQuestion(),id=session.answers[q.id];if(state.assessments.has(id))return;await append('assessment',{attemptId:id,correct},'assessment/'+id);renderAnswerKeepingPosition(q);void sync();}
-function reportDialog(id){const q=session?.questions.find(q=>q.id===id)||bank.questions.find(q=>q.id===id);dialog.innerHTML='<h2>回報題目疑點</h2><form id="report-form" class="report-form" data-id="'+esc(q.id)+'"><label>問題類別<select name="category">'+['題幹或原文錯字','答案可能有誤／存在多解','解析問題','其他問題'].map(t=>'<option>'+t+'</option>').join('')+'</select></label><label>補充說明<textarea name="detail" maxlength="3000" required></textarea></label><p class="subtle">回報將連同本次作答保存，恢復連線後送出。</p><div class="toolbar"><button class="btn" type="submit">提交回報</button>'+button('close-dialog','取消','','secondary')+'</div></form>';dialog.showModal();}
+function reportDialog(id){const q=session?.questions.find(q=>q.id===id)||bank.questions.find(q=>q.id===id);dialog.innerHTML='<h2>回報題目疑點</h2><form id="report-form" class="report-form" data-id="'+esc(q.id)+'"><label>問題類別<select name="category">'+['題幹或原文錯字','答案可能有誤／存在多解','解析問題','同日重複出題','DSE真題與原卷不符','其他問題'].map(t=>'<option>'+t+'</option>').join('')+'</select></label><label>補充說明<textarea name="detail" maxlength="3000" required></textarea></label><p class="subtle">自動附上題目與版本；如已作答，也附上本次答案。未作答也能回報，離線時先保存。</p><div class="toolbar"><button class="btn" type="submit">提交回報</button>'+button('close-dialog','取消','','secondary')+'</div></form>';dialog.showModal();}
 function settingsDialog(){
  const sizes=state.settings.fontSize===36?[...textSizes,{value:36,label:'原有最大字號'}]:textSizes;
  dialog.innerHTML='<h2>字號與偏好</h2><form id="settings-form"><label class="field" for="font-size">全站字號<select id="font-size" name="fontSize">'+sizes.map(({value,label})=>'<option value="'+value+'" '+(state.settings.fontSize===value?'selected':'')+'>'+label+'</option>').join('')+'</select></label><p class="subtle">即時套用到所有頁面，並保存在此帳號。</p><p class="font-preview">文言練習，讀得清楚。</p><div class="toolbar"><button class="btn" type="submit">完成</button></div></form>';dialog.showModal();
@@ -227,9 +229,9 @@ document.addEventListener('click',async e=>{
  else if(a==='choose'){const q=currentQuestion();if(session.answers[q.id])return;session.drafts[q.id]=el.dataset.choice;document.querySelectorAll('.option').forEach(b=>{const selected=b===el;b.classList.toggle('selected',selected);b.setAttribute('aria-pressed',selected);});await saveSession();}
  else if(a==='submit'||a==='unknown')await submit(a==='unknown');
  else if(a==='assess-good'||a==='assess-bad')await assess(a==='assess-good');
- else if(a==='next'||a==='skip'){if(!advanceWithReplacement(session,state,bank.questions,a==='skip'))return;await saveSession();render();focusPractice();}
+ else if(a==='next'||a==='skip'){if(!advanceWithReplacement(session,state,bank.questions,a==='skip'))return;await showPractice();}
  else if(a==='retry-skipped'){const previous=el.dataset.session?await latestSession(el.dataset.session):session;if(!previous)return;const opts={...(previous.selection||{}),essayIds:previous.essayIds,questionIds:previous.skippedIds||[],count:Math.min(100,previous.skippedIds?.length||1)};await beginSession(queue(bank.questions,opts,state),opts,'extra',previous.drafts||{});}
- else if(a==='resume-skipped'){resumeSkipped(session,state);await saveSession();render();focusPractice();}
+ else if(a==='resume-skipped'){session.index=-1;session.passComplete=false;await showPractice();}
  else if(a==='favorite'){const q=bank.questions.find(q=>q.id===el.dataset.id)||currentQuestion(),saved=!state.favorites[el.dataset.id]?.saved;await append('favorite',{questionId:el.dataset.id,version:q?.version,saved});if(page==='practice')el.textContent=saved?'★ 已收藏':'☆ 收藏';else render();void sync();}
  else if(a==='report')reportDialog(el.dataset.id);
  else if(a==='compare-question'){compareTarget=currentQuestion().target;compareExpanded=false;await go('compare');}

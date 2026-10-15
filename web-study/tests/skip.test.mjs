@@ -20,12 +20,12 @@ test('skip advances without submitting, scoring, revealing the answer or losing 
  assert.match(html,/data-action="skip"/);assert.doesNotMatch(html,/class="feedback"|option correct|option wrong/);
 });
 
-test('skipping every question ends the pass without falsely completing the group, then can restart',()=>{
+test('legacy all-skipped groups retain their backup but no longer offer same-day restart',()=>{
  const s=makeSession(),p=state();
  for(let i=0;i<3;i++)advanceSession(s,p,true);
  assert.equal(s.passComplete,true);assert.equal(s.completed,false);assert.equal(skippedQuestions(s).length,3);
  const html=practiceView(bank,s,p);
- assert.match(html,/本輪練習已結束/);assert.match(html,/data-action="resume-skipped"/);assert.match(html,/跳過 3 題/);assert.doesNotMatch(html,/這組練習已完成/);
+ assert.match(html,/本輪練習已結束/);assert.doesNotMatch(html,/data-action="resume-skipped"/);assert.match(html,/跳過 3 題/);assert.match(html,/明日/);assert.doesNotMatch(html,/這組練習已完成/);
  const restored=validateBackup({format:'wenyan-backup-v1',userId:'u',events:[{id:'save',type:'session',createdAt:s.startedAt,payload:{session:s}}]},'u')[0].payload.session;
  assert.equal(resumeSkipped(restored,p),true);assert.equal(restored.index,0);assert.equal(restored.passComplete,false);assert.deepEqual(restored.skipped,[]);assert.equal(restored.drafts.q1,'b');
 });

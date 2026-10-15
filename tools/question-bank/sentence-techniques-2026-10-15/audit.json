@@ -1,0 +1,227 @@
+{
+  "result": "PASS",
+  "bankVersion": "2026.10.15.1",
+  "questions": 2161,
+  "revisedStandaloneRhetoric": 30,
+  "unchangedQuestions": 2131,
+  "chapterQuestionsChanged": 0,
+  "dseOriginals": [
+    {
+      "id": "dse-2018-1a-4",
+      "unchanged": true,
+      "questionPdfSha256Matches": true,
+      "markingPdfSha256Matches": true,
+      "questionPdfPage": 3,
+      "markingPdfPage": 2
+    },
+    {
+      "id": "dse-2018-1a-6",
+      "unchanged": true,
+      "questionPdfSha256Matches": true,
+      "markingPdfSha256Matches": true,
+      "questionPdfPage": 4,
+      "markingPdfPage": 3
+    },
+    {
+      "id": "dse-2019-1a-3-i",
+      "unchanged": true,
+      "questionPdfSha256Matches": true,
+      "markingPdfSha256Matches": true,
+      "questionPdfPage": 2,
+      "markingPdfPage": 2
+    },
+    {
+      "id": "dse-2019-1a-4-i",
+      "unchanged": true,
+      "questionPdfSha256Matches": true,
+      "markingPdfSha256Matches": true,
+      "questionPdfPage": 3,
+      "markingPdfPage": 3
+    },
+    {
+      "id": "dse-2019-1a-5",
+      "unchanged": true,
+      "questionPdfSha256Matches": true,
+      "markingPdfSha256Matches": true,
+      "questionPdfPage": 4,
+      "markingPdfPage": 3
+    },
+    {
+      "id": "dse-2020-1a-5-i",
+      "unchanged": true,
+      "questionPdfSha256Matches": true,
+      "markingPdfSha256Matches": true,
+      "questionPdfPage": 3,
+      "markingPdfPage": 2
+    },
+    {
+      "id": "dse-2020-1a-6-i",
+      "unchanged": true,
+      "questionPdfSha256Matches": true,
+      "markingPdfSha256Matches": true,
+      "questionPdfPage": 4,
+      "markingPdfPage": 3
+    },
+    {
+      "id": "dse-2021-1a-3",
+      "unchanged": true,
+      "questionPdfSha256Matches": true,
+      "markingPdfSha256Matches": true,
+      "questionPdfPage": 2,
+      "markingPdfPage": 1
+    },
+    {
+      "id": "dse-2021-1a-4-i",
+      "unchanged": true,
+      "questionPdfSha256Matches": true,
+      "markingPdfSha256Matches": true,
+      "questionPdfPage": 2,
+      "markingPdfPage": 1
+    },
+    {
+      "id": "dse-2021-1a-4-ii",
+      "unchanged": true,
+      "questionPdfSha256Matches": true,
+      "markingPdfSha256Matches": true,
+      "questionPdfPage": 2,
+      "markingPdfPage": 1
+    },
+    {
+      "id": "dse-2021-1a-5",
+      "unchanged": true,
+      "questionPdfSha256Matches": true,
+      "markingPdfSha256Matches": true,
+      "questionPdfPage": 3,
+      "markingPdfPage": 1
+    },
+    {
+      "id": "dse-2022-1a-2",
+      "unchanged": true,
+      "questionPdfSha256Matches": true,
+      "markingPdfSha256Matches": true,
+      "questionPdfPage": 2,
+      "markingPdfPage": 1
+    },
+    {
+      "id": "dse-2022-1a-3",
+      "unchanged": true,
+      "questionPdfSha256Matches": true,
+      "markingPdfSha256Matches": true,
+      "questionPdfPage": 2,
+      "markingPdfPage": 1
+    },
+    {
+      "id": "dse-2022-1a-6-ii",
+      "unchanged": true,
+      "questionPdfSha256Matches": true,
+      "markingPdfSha256Matches": true,
+      "questionPdfPage": 4,
+      "markingPdfPage": 4
+    },
+    {
+      "id": "dse-2023-1a-2",
+      "unchanged": true,
+      "questionPdfSha256Matches": true,
+      "markingPdfSha256Matches": true,
+      "questionPdfPage": 2,
+      "markingPdfPage": 1
+    },
+    {
+      "id": "dse-2023-1a-3",
+      "unchanged": true,
+      "questionPdfSha256Matches": true,
+      "markingPdfSha256Matches": true,
+      "questionPdfPage": 2,
+      "markingPdfPage": 1
+    },
+    {
+      "id": "dse-2023-1a-4",
+      "unchanged": true,
+      "questionPdfSha256Matches": true,
+      "markingPdfSha256Matches": true,
+      "questionPdfPage": 2,
+      "markingPdfPage": 1
+    },
+    {
+      "id": "dse-2024-1a-2-i",
+      "unchanged": true,
+      "questionPdfSha256Matches": true,
+      "markingPdfSha256Matches": true,
+      "questionPdfPage": 2,
+      "markingPdfPage": 1
+    },
+    {
+      "id": "dse-2024-1a-2-ii",
+      "unchanged": true,
+      "questionPdfSha256Matches": true,
+      "markingPdfSha256Matches": true,
+      "questionPdfPage": 2,
+      "markingPdfPage": 1
+    },
+    {
+      "id": "dse-2024-1a-3-i",
+      "unchanged": true,
+      "questionPdfSha256Matches": true,
+      "markingPdfSha256Matches": true,
+      "questionPdfPage": 2,
+      "markingPdfPage": 1
+    },
+    {
+      "id": "dse-2024-1a-3-ii",
+      "unchanged": true,
+      "questionPdfSha256Matches": true,
+      "markingPdfSha256Matches": true,
+      "questionPdfPage": 2,
+      "markingPdfPage": 1
+    },
+    {
+      "id": "dse-2024-1a-6-i",
+      "unchanged": true,
+      "questionPdfSha256Matches": true,
+      "markingPdfSha256Matches": true,
+      "questionPdfPage": 3,
+      "markingPdfPage": 2
+    },
+    {
+      "id": "dse-2024-1a-6-ii",
+      "unchanged": true,
+      "questionPdfSha256Matches": true,
+      "markingPdfSha256Matches": true,
+      "questionPdfPage": 3,
+      "markingPdfPage": 2
+    },
+    {
+      "id": "dse-2025-1a-2",
+      "unchanged": true,
+      "questionPdfSha256Matches": true,
+      "markingPdfSha256Matches": true,
+      "questionPdfPage": 1,
+      "markingPdfPage": 1
+    },
+    {
+      "id": "dse-2025-1a-3",
+      "unchanged": true,
+      "questionPdfSha256Matches": true,
+      "markingPdfSha256Matches": true,
+      "questionPdfPage": 1,
+      "markingPdfPage": 1
+    },
+    {
+      "id": "dse-2025-1a-5",
+      "unchanged": true,
+      "questionPdfSha256Matches": true,
+      "markingPdfSha256Matches": true,
+      "questionPdfPage": 2,
+      "markingPdfPage": 2
+    },
+    {
+      "id": "dse-2025-1a-7",
+      "unchanged": true,
+      "questionPdfSha256Matches": true,
+      "markingPdfSha256Matches": true,
+      "questionPdfPage": 3,
+      "markingPdfPage": 3
+    }
+  ],
+  "scope": "全庫逐題雜湊比較；27原題及評分PDF原件雜湊核對。原題欄位與806c8f9版本完全一致；本輪沒有新增逐字轉錄或教師語義覆核。"
+}

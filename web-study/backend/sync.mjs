@@ -49,7 +49,10 @@ export function syncApi({ db, need, body, json, currentQuestion = () => null }) 
     if (event.type === 'assessment') need(text(p.attemptId, 300) && typeof p.correct === 'boolean', '文字自查格式无效。');
     if (event.type === 'favorite') need(text(p.questionId) && typeof p.saved === 'boolean', '收藏格式无效。');
     if (event.type === 'report') need(text(p.questionId) && p.questionVersion != null && text(p.category, 100) && typeof p.detail === 'string' && p.detail.length <= 5000, '报错缺少题目版本、分类或说明。');
-    if (event.type === 'browse') need(text(p.questionId), '浏览记录格式无效。');
+    if (event.type === 'browse') {
+      need(text(p.questionId), '浏览记录格式无效。');
+      if (p.purpose === 'practice') need(text(p.memoryId) && text(p.sessionId) && (p.practiceGroup === undefined || typeof p.practiceGroup === 'string' && p.practiceGroup.length <= 200), '出题记录格式无效。');
+    }
     if (event.type === 'session') need(p.session && text(p.session.id) && Array.isArray(p.session.questions) && p.session.questions.length <= 100, '练习草稿格式无效。');
   }
   return async function handle(route, req, res, user) {

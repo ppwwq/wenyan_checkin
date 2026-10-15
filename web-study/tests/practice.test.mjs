@@ -143,7 +143,7 @@ test('one-question retry summary lists only the practiced chapter and its effect
  const record={id:'retry/q',type:'attempt',createdAt:'2026-09-24T02:00:00Z',payload:{sessionId:'retry',question:q,questionId:q.id,memoryId:'m',submittedAt:'2026-09-24T02:00:00Z',mode:'choice',correct:false,answer:'b'}};
  const html=practice.summaryView({essays:[{id:'e',title:'實際練習篇章'},{id:'other',title:'沒有練習的篇章'}]}, {...session,id:'retry',essayIds:['e','other'],completed:true}, {...state,attempts:[record],corrections:[{attemptId:'retry/q',correct:true,createdAt:'2026-09-24T03:00:00Z'}]});
  assert.match(html,/實際練習篇章/);assert.doesNotMatch(html,/沒有練習的篇章/);
- assert.match(html,/本次答對 1/);assert.match(html,/次日複習/);
+ assert.match(html,/本次答對 1/);assert.match(html,/每天只出現一次/);
 });
 
 test('submit precedes the separated bottom row of skip and unknown controls',()=>{
