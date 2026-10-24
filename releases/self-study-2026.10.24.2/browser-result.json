@@ -1,0 +1,93 @@
+{
+  "scope": "isolated real practice component; no account/storage writes or deployed site",
+  "results": [
+    {
+      "width": 390,
+      "id": "full-a-e05-p23-b01-c01",
+      "mode": "before",
+      "version": "2026.10.24.2",
+      "options": 4,
+      "feedback": false,
+      "correctCollapsed": false,
+      "overflow": false,
+      "screenshot": "390-full-a-e05-p23-b01-c01-before.png"
+    },
+    {
+      "width": 390,
+      "id": "full-a-e05-p23-b01-c01",
+      "mode": "wrong",
+      "version": "2026.10.24.2",
+      "options": 4,
+      "feedback": true,
+      "correctCollapsed": false,
+      "overflow": false,
+      "screenshot": "390-full-a-e05-p23-b01-c01-wrong.png"
+    },
+    {
+      "width": 390,
+      "id": "dse-2024-1a-2-ii",
+      "mode": "wrong",
+      "version": "2026.10.24.2",
+      "options": 2,
+      "feedback": true,
+      "correctCollapsed": false,
+      "overflow": false,
+      "screenshot": "390-dse-2024-1a-2-ii-wrong.png"
+    },
+    {
+      "width": 390,
+      "id": "full-c-16-03-00-11",
+      "mode": "correct",
+      "version": "2026.10.24.2",
+      "options": 4,
+      "feedback": true,
+      "correctCollapsed": true,
+      "overflow": false,
+      "screenshot": "390-full-c-16-03-00-11-correct.png"
+    },
+    {
+      "width": 1024,
+      "id": "full-a-e05-p23-b01-c01",
+      "mode": "before",
+      "version": "2026.10.24.2",
+      "options": 4,
+      "feedback": false,
+      "correctCollapsed": false,
+      "overflow": false,
+      "screenshot": "1024-full-a-e05-p23-b01-c01-before.png"
+    },
+    {
+      "width": 1024,
+      "id": "full-a-e05-p23-b01-c01",
+      "mode": "wrong",
+      "version": "2026.10.24.2",
+      "options": 4,
+      "feedback": true,
+      "correctCollapsed": false,
+      "overflow": false,
+      "screenshot": "1024-full-a-e05-p23-b01-c01-wrong.png"
+    },
+    {
+      "width": 1024,
+      "id": "dse-2024-1a-2-ii",
+      "mode": "wrong",
+      "version": "2026.10.24.2",
+      "options": 2,
+      "feedback": true,
+      "correctCollapsed": false,
+      "overflow": false,
+      "screenshot": "1024-dse-2024-1a-2-ii-wrong.png"
+    },
+    {
+      "width": 1024,
+      "id": "full-c-16-03-00-11",
+      "mode": "correct",
+      "version": "2026.10.24.2",
+      "options": 4,
+      "feedback": true,
+      "correctCollapsed": true,
+      "overflow": false,
+      "screenshot": "1024-full-c-16-03-00-11-correct.png"
+    }
+  ]
+}

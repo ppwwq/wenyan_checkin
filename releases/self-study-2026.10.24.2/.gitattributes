@@ -1,0 +1,2 @@
+# Preserve the exact bytes verified and deployed, including original line endings.
+* -text

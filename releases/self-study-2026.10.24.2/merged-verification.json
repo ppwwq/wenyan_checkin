@@ -1,0 +1,27 @@
+{
+  "result": "PASS",
+  "version": "2026.10.24.2",
+  "total": 2253,
+  "changed": 639,
+  "unchanged": 1614,
+  "releaseContractChecked": 2253,
+  "editorialPools": {
+    "basic": 2080,
+    "pending": 143,
+    "official": 27,
+    "simulation": 3
+  },
+  "eligible": 2109,
+  "poolIdentityPreserved": true,
+  "changedDeploymentFiles": [
+    "web-study/dist/build-info.json",
+    "web-study/dist/content/bank.json",
+    "web-study/dist/src/domain/reviewed-material-contract.mjs",
+    "web-study/dist/sw.js",
+    "web-study/src/domain/reviewed-material-contract.mjs"
+  ],
+  "semanticConflictsReviewed": 47,
+  "contextDriftReviewed": 45,
+  "baselineVersion": "2026.10.21.review.40",
+  "productionBackendAndWrittenMaterials": "byte-identical"
+}

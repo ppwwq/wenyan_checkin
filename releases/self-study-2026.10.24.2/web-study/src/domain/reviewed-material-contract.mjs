@@ -1,0 +1,65 @@
+// Only explicit source-reviewed corrections. This is not a semantic classifier.
+const expected={
+  "pilot-11-02-07": "b9f24c8eac735631ce96153f6ef9de0602fd66b1ad391eeb1a3f2f907f3b2dec",
+  "full-c-11-05-00-05": "9c48a6827b5967cb6e66b98dbfd592c2ce45afa80cbeb7c87930e0b91b6c9c84",
+  "q-e13-exp-004": "35dc911998d57ddb990bcddae1b15b7a75b431f931acd063a61eb6b9a17d8b51",
+  "full-c-13-02-03-02": "96d08333b18f0b7482dd7350659822befcdf80bf5d3b245ee6bd28cee64b40b6",
+  "full-c-13-02-03-05": "35dc911998d57ddb990bcddae1b15b7a75b431f931acd063a61eb6b9a17d8b51",
+  "full-c-13-03-00-13": "ef2997cbd449575d68f8042ec385dec168e8de2a8fb59126581c34ae59be83fa",
+  "full-c-13-05-00-04": "31c553b9cf1616118fad6d9f469ae84684ca1aacc3c3b7a9af0a01deeeb20cb5",
+  "full-c-13-07-00-09": "31c553b9cf1616118fad6d9f469ae84684ca1aacc3c3b7a9af0a01deeeb20cb5",
+  "full-c-13-08-00-04": "d2cd984b75df026abd557073cd1a9df5dcc9faa8ddd371dfcbb000c40441dc74",
+  "q-e15-exp-002": "cc9337ae06eab9a51719249bae47b308a47b80f718498fee5b860a34897058fa",
+  "q-e15-exp-005": "9da2e4dbfc71ea5dd7c6e48ea3381f57660b3a1d1149a710ddb06bb848a794b5",
+  "q-e15-exp-007": "57e523e6223b18ee9f070da2fa13bc8a2a5fc646f2a90841c823421a587aa82c",
+  "full-c-15-01-03-07": "84a332dc18fe8098b74a0e955b5ccf07b45d68b01c45a77ac7b545042be408aa",
+  "full-c-15-02-03-07": "536b2049bde19b8efb9c5faa9dd452426a1932d8ba700002bdf60cd2f73ac7bd",
+  "full-c-15-00-01-80": "7ded62a181f94497303b53ebe56807243967d7cef3c7dce076d22f57588f13e0",
+  "full-c-15-00-07-80": "7ded62a181f94497303b53ebe56807243967d7cef3c7dce076d22f57588f13e0",
+  "full-c-15-09-00-01": "4be589226bc46d72dd671768169df862c03b8033e07eaab392740ff8fea5afa8",
+  "full-c-15-09-01-80": "4be589226bc46d72dd671768169df862c03b8033e07eaab392740ff8fea5afa8",
+  "full-c-15-12-01-03": "7ded62a181f94497303b53ebe56807243967d7cef3c7dce076d22f57588f13e0",
+  "full-c-15-02-03-01": "149b720b6e41a14d015c502b0938a90cd165c4c9799009c640f5363f65ba9916",
+  "full-c-15-00-05-80": "88f2458f6557fab801735f4d1a7f26c2f13b204cb049ef2e5f3b70a513c175d8",
+  "full-c-15-03-00-13": "88f2458f6557fab801735f4d1a7f26c2f13b204cb049ef2e5f3b70a513c175d8",
+  "full-c-15-03-00-14": "b2536fb429d3396cc42b734fe4d16fe513ab183062c3c57d353226470c203ed2",
+  "full-c-15-08-00-08": "88f2458f6557fab801735f4d1a7f26c2f13b204cb049ef2e5f3b70a513c175d8",
+  "full-c-15-08-00-11": "88f2458f6557fab801735f4d1a7f26c2f13b204cb049ef2e5f3b70a513c175d8",
+  "full-c-12-10-01-80": "7c19dc1f367058cd379219494d8ee3dc5286de506e64040f3b4324a7a3e84d29",
+  "full-c-16-09-03-01": "10210360b5b9086f4b6bfc22e3e275f32543d86d4f20c1810133f05b6009bc11",
+  "full-c-16-09-03-02": "ab91ab8b891d563548f882d9f3de5bfa33301aac6ac48c7e85958df91201b710",
+  "full-a-e05-p21-b00-v01": "01df34e5c23bc85fb7515c6e3dabb08af577e585c810c36487671e2d1aefa7bc",
+  "full-a-e05-p29-b00-g10": "eac9555265c9db7b0ee3b711556287e4666ba403026c0810a33d8542e228c1e8",
+  "full-a-e05-p07-b00-translation": "e19bff857b3b3f803b430f4e634d208188bd728e2a7806703035b8e1e6a136ea",
+  "full-a-e05-p27-b02-x022": "5b909ad292f1149bb0e4d68cffef82d2a6c082348c1cb37cf50df80614973d8c",
+  "full-a-e05-p27-b02-x023": "8aaf32a07c8036c8b98029e5871f4fe92892629d287e624e0d9250c418a44588",
+  "full-b-07-01-03-3": "8e84d595e8e73b8b9f2e4478ace1af46926ee8926df2ec7d26efadb2c5a85c7f",
+  "full-b-07-02-03-3": "3b3a4c85f5c29910d4c2e232b46eaf54edc002e88a992dae26b06e2820224a29",
+  "full-b-07-13-00-1": "8e84d595e8e73b8b9f2e4478ace1af46926ee8926df2ec7d26efadb2c5a85c7f",
+  "full-b-07-13-00-2": "3b3a4c85f5c29910d4c2e232b46eaf54edc002e88a992dae26b06e2820224a29",
+  "full-b-07-13-00-6": "8e84d595e8e73b8b9f2e4478ace1af46926ee8926df2ec7d26efadb2c5a85c7f",
+  "pilot-09-04-13": "26634ff4adc8eac04cd14bee2b6e8495fc93ffe897d3ae7cbdad77e3a074e669",
+  "pilot-09-05-06": "b6d9b9c73e12679ed436d6c6c42ef95a6982a104f4dd775a35742ccecc1cb7d0",
+  "concept-09-08": "d120f791f2c11baef0fc7a6b3516731e34bafd9fbead09086348f9fa789fbed9",
+  "full-c-09-02-03-12": "c604c596432e930e65d62497cc82a7fe49c9b9e83e550d3c3dd9596aee5fad17",
+  "full-c-09-06-01-80": "d120f791f2c11baef0fc7a6b3516731e34bafd9fbead09086348f9fa789fbed9",
+  "full-c-09-10-02-26": "d120f791f2c11baef0fc7a6b3516731e34bafd9fbead09086348f9fa789fbed9",
+  "full-c-09-11-00-37": "d120f791f2c11baef0fc7a6b3516731e34bafd9fbead09086348f9fa789fbed9",
+  "full-c-09-12-11-03": "d120f791f2c11baef0fc7a6b3516731e34bafd9fbead09086348f9fa789fbed9",
+  "q-appendix-008": "73bdeb0f88dd40db13cb3e25f73b96edb88343a74fe66a3de35c5e7a6f7d2e6c",
+  "full-b-10-01-03-5": "73bdeb0f88dd40db13cb3e25f73b96edb88343a74fe66a3de35c5e7a6f7d2e6c",
+  "full-b-10-01-03-6": "73bdeb0f88dd40db13cb3e25f73b96edb88343a74fe66a3de35c5e7a6f7d2e6c",
+  "full-b-10-01-03-7": "73bdeb0f88dd40db13cb3e25f73b96edb88343a74fe66a3de35c5e7a6f7d2e6c",
+  "full-d-02-00": "577e88d1f7c204471e0335a51eef8441d9c6a3a687f5be591e51ff579bf27ceb",
+  "full-d-02-01": "577e88d1f7c204471e0335a51eef8441d9c6a3a687f5be591e51ff579bf27ceb",
+  "full-d-05-02": "577e88d1f7c204471e0335a51eef8441d9c6a3a687f5be591e51ff579bf27ceb",
+  "full-d-16-03": "577e88d1f7c204471e0335a51eef8441d9c6a3a687f5be591e51ff579bf27ceb"
+};
+export const hasReviewedMaterialContract=q=>Object.hasOwn(expected,q.id);
+const canonical=v=>Array.isArray(v)?'['+v.map(canonical).join(',')+']':v&&typeof v==='object'?'{'+Object.keys(v).sort().map(k=>JSON.stringify(k)+':'+canonical(v[k])).join(',')+'}':JSON.stringify(v);
+export async function reviewedMaterialErrors(q){
+ if(!hasReviewedMaterialContract(q))return [];
+ const material={essayIds:q.essayIds,learning:q.learning};
+ const digest=Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',new TextEncoder().encode(canonical(material)))),b=>b.toString(16).padStart(2,'0')).join('');
+ return digest===expected[q.id]?[]:['已核篇章／配卡內容變動，須按逐題來源重新審查；不可重封舊錯配'];
+}
