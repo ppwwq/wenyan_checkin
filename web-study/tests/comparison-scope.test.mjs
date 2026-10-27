@@ -44,7 +44,8 @@ test('confusable reading content becomes distinct, answerable cross-essay questi
   assert.ok(question.relatedSources.every(s=>s.pdfPage&&s.blockPath&&s.meaning));
   const group=bank.comparisons.find(g=>g.id===question.comparisonGroupId);
   assert.ok(!group.items.some(i=>i.questionId===question.id),'Existing reading cards keep their own question links');
-  const list=queue(bank.questions,{essayIds:question.essayIds,count:20},state);
+  // 自編題（有 editorial 欄位）id 排序靠前，會佔滿新用戶的頭20題；這裏只檢查原有題庫部分。
+  const list=queue(bank.questions.filter(q=>!q.editorial),{essayIds:question.essayIds,count:20},state);
   assert.ok(list.some(q=>q.id===question.id),'New cross-essay content reaches a normal 20-question session');
   assert.equal(list.filter(q=>q.id===question.id).length,1);
   const session={id:'s',questions:[question],index:0,answers:{},drafts:{},mode:'choice'};

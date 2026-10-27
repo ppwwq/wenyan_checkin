@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import {randomBytes} from 'node:crypto';
-import {mkdir,writeFile} from 'node:fs/promises';
+import {mkdir,readFile,writeFile} from 'node:fs/promises';
 const origin=process.env.TEST_ORIGIN||'http://127.0.0.1:8792';
 if(!origin.startsWith('http://127.0.0.1:'))throw new Error('This fixture script is local-only');
 const seed=randomBytes(5).toString('hex'),password='Local-qa-'+randomBytes(12).toString('hex');
@@ -21,7 +21,9 @@ checks.push('Registration and independent device login with scrypt passwords');
 assert.equal((await api('/api/me',null,a.body.token,{Origin:'https://attacker.invalid'})).status,403);
 assert.equal((await api('/api/admin/reports',null,a.body.token)).status,403);
 checks.push('Origin validation and student/admin permissions');
-const bank=await (await fetch(origin+'/content/bank.json')).json();assert.equal(bank.questions.length,2131);
+const bank=await (await fetch(origin+'/content/bank.json')).json();
+// 題數以本地題庫為準，不再寫死。
+const localBank=JSON.parse(await readFile(new URL('../content/bank.json',import.meta.url),'utf8'));assert.equal(bank.questions.length,localBank.questions.length);
 const q=bank.questions[0],now=new Date().toISOString(),id='attempt-'+seed;
 const event={id,type:'attempt',createdAt:now,payload:{questionId:q.id,memoryId:q.memoryId,questionVersion:q.version,question:q,submittedAt:now,mode:'choice',answer:'wrong',correct:false}};
 let sync=await api('/api/sync',{events:[event]},a.body.token);assert.equal(sync.status,200);assert.equal(sync.body.events.length,1);
