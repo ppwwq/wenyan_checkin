@@ -32,8 +32,8 @@ export function todayRetryIds(state,today=hkDay()){
  for(const a of effectiveAttempts(state).filter(a=>a.day===today)){if(!groups.has(a.memoryId))groups.set(a.memoryId,[]);groups.get(a.memoryId).push(a);}
  const ids=new Set();
  for(const rows of groups.values()){
-  // 只限打字自查答錯（mode==='typing'）；選擇題答錯仍等到下一個香港日才重出。
-  const firstFailure=rows.findIndex(a=>a.trainingPolicy===2&&a.mode==='typing'&&a.correct===false);
+  // 選擇題答錯或打字自查答錯，當日都可回練一次。
+  const firstFailure=rows.findIndex(a=>a.trainingPolicy===2&&a.correct===false);
   // 答錯之後再交的任何答案（包括未自查的打字答案）都已算回練。
   if(firstFailure>=0&&firstFailure===rows.length-1)ids.add(rows[firstFailure].questionId);
  }

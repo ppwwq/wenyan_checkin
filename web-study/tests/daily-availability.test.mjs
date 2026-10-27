@@ -21,7 +21,8 @@ test('any submitted result blocks the question, memory variants and practice gro
  for(const correct of [true,false,null]){
   const p=state([answered(qs[0],correct)]);
   for(const scope of ['all','wrong'])assert.ok(queue(qs,{...opts,scope},p,day).every(q=>!['q0','q1','q2'].includes(q.id)));
-  assert.equal(retryQuestions(qs,p,day).length,0);
+  // 選擇題答錯：同日可回練原題一次；答對或未自查的仍要等下一日。
+  assert.deepEqual(retryQuestions(qs,p,day).map(q=>q.id),correct===false?['q0']:[]);
  }
 });
 test('presentation without an answer consumes the daily slot but does not inflate learning progress',()=>{
