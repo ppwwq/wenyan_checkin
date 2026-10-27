@@ -1,0 +1,50 @@
+[
+  {
+    "Path": "web-study/src/app.mjs",
+    "SHA256": "132b739cbed3bd3d0d53bc0450ab718a6c08f901a2bd900faa163b0cffa2e220"
+  },
+  {
+    "Path": "web-study/src/domain/session.mjs",
+    "SHA256": "498cca9fb40029fa2e82336f907a08a5b84266a45d278125e8141790a9326bdd"
+  },
+  {
+    "Path": "web-study/src/domain/training.mjs",
+    "SHA256": "828d39a840db89544e1cf4dd9da0b3c950e3efa7a88cda4e40fc52fb99913c9b"
+  },
+  {
+    "Path": "web-study/src/features/practice.mjs",
+    "SHA256": "775960b785b0df0a282e302a1e32ed68a8460b969e1e9dbe784281bd39a8dc23"
+  },
+  {
+    "Path": "web-study/src/storage/backup.mjs",
+    "SHA256": "c0558a12c4e2654a260acadbbf7a73adef6f0f3a016e52f6f7edb1f347558167"
+  },
+  {
+    "Path": "web-study/styles.css",
+    "SHA256": "ae86c70ae1adbb2861e0aa5f79f4c981f4ffa5579138c73e8ff509a6adcd8357"
+  },
+  {
+    "Path": "web-study/sw.js",
+    "SHA256": "8e0753d3e619fddda665d25fa7678465fd4c9ab2b1b5ca56f85ae2ecec0de7de"
+  },
+  {
+    "Path": "web-study/scripts/build.mjs",
+    "SHA256": "c656ec6e69386ea2678f84f0ea4a51621471e4047a43f0027ccce56e23fcddbf"
+  },
+  {
+    "Path": "web-study/tests/practice.test.mjs",
+    "SHA256": "3aae2421c21def90dab6e714bac26752816e9fabef569802de4ad74c57a989d1"
+  },
+  {
+    "Path": "web-study/tests/skip.test.mjs",
+    "SHA256": "5220646686bef2f74a90090089c39cc582781124ee5739164461b99c2a511156"
+  },
+  {
+    "Path": "web-study/scripts/browser-skip-feedback.mjs",
+    "SHA256": "fe6250cfc4ebfaa752e29a7fdd785ab5e26c8508e3b232e610b674f9ab36d804"
+  },
+  {
+    "Path": "web-study/README.md",
+    "SHA256": "27689f6711d10c539569bfe26d08ff523a3d2b103df052c846fae39037c1d392"
+  }
+]

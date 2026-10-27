@@ -2,6 +2,7 @@ import {esc,quote} from './shared.mjs';
 
 export function sourceLabel(q){
  const p=q.provenance;
+ if(p?.kind==='school-original')return '校本原題 · '+p.school+' · '+p.exam+' · 甲部第 '+p.question+' 題 · '+p.marks+' 分';
  return p?.kind==='dse-original'?'DSE 原題 · '+p.year+' · 卷一甲部 · 第 '+p.question+' 題 · '+p.marks+' 分':p?.kind==='authored'?'修辭練習 · 自編題目':'';
 }
 function original(p,q){

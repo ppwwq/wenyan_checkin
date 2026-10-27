@@ -1,0 +1,210 @@
+[
+  {
+    "path": "_headers",
+    "sha256": "672fc4edf6579079f60b53c1197e838b14c9f97df015a8dd1ab70f80550c6527"
+  },
+  {
+    "path": "build-info.json",
+    "sha256": "3c90f9ce0dda51c6d1dc983ce2a676c62681a07219928ab5cf414dda870c38f1"
+  },
+  {
+    "path": "index.html",
+    "sha256": "d7eb26927a166bb168f2a289e2688fcf6fc794bbb0362b6a09183d277702fa56"
+  },
+  {
+    "path": "manifest.webmanifest",
+    "sha256": "8ab70f843ca91a86c47240ef347d22009f87e5263035f8576ab14f2cbfa2834f"
+  },
+  {
+    "path": "styles.css",
+    "sha256": "f483f8aae5ec54d62299e15867a18d782b274634a8f8591293b4f8b2cb035d0c"
+  },
+  {
+    "path": "sw.js",
+    "sha256": "390e4d2de8f86e7587d7664ba845006bc30024ead443062bf15e461db423acfc"
+  },
+  {
+    "path": "assets\\apple-touch-icon.png",
+    "sha256": "1e87e34b362f51f36afb5affb74eddec9a0cfeb461741875f4ec3f13e45b28d0"
+  },
+  {
+    "path": "assets\\icon-192.png",
+    "sha256": "5d416eb84c6ba7edad020178a6a8f188b8d1b0af61b38e10fffa30f2c7702bb3"
+  },
+  {
+    "path": "assets\\icon-512.png",
+    "sha256": "eb811b46c37cfb71494350962341048e6157088003c9d3eb46588ff6ede61e46"
+  },
+  {
+    "path": "assets\\icon-maskable.png",
+    "sha256": "8fed324179ea6eedd476115a360c58a877f2d410e6a4ecca43e88645ef27dbe8"
+  },
+  {
+    "path": "assets\\icon.svg",
+    "sha256": "76a5f609f0353d84fb8d1ea84d18c6b8a1725dcab10e660b5b995aa54b4c7df7"
+  },
+  {
+    "path": "content\\bank.json",
+    "sha256": "3bdd411c9411acfa1e570a2cc396ac58a2fbcc813548a53b255eb86f2920fca1"
+  },
+  {
+    "path": "content\\coverage-report.json",
+    "sha256": "b4df59ca5493677c63d3262f2087ef649c55c82a573bb639c3fef3865efe6325"
+  },
+  {
+    "path": "content\\expansion-appendix.json",
+    "sha256": "ea769586f10db9d7a66f1b55e32431ae85df8a159b33e2ba72738a6051d3eb74"
+  },
+  {
+    "path": "content\\expansion-comparison.json",
+    "sha256": "8cb972fba6fc8fbfece98bb0e68af02d908f600618146f9523c3e256674ee5df"
+  },
+  {
+    "path": "content\\expansion-draft.json",
+    "sha256": "7646f191caffccb3dcf88f442b71d896ed41b8b1c074a58020e746544668e2a4"
+  },
+  {
+    "path": "content\\quality-report.json",
+    "sha256": "d1b841aa73dc45acea9a739defc572e84a85beb689ad6dfc75b2a32213d6a219"
+  },
+  {
+    "path": "content\\source-coverage.json",
+    "sha256": "a1e461804ed5a47bfa2d6fbdbb257f9ca82d56d4017b9ba6281ab3ac56592633"
+  },
+  {
+    "path": "content\\written-practice.json",
+    "sha256": "74406716a901de454677ac4b0aeafb732feb04d6a7334e18caf79f508fefa163"
+  },
+  {
+    "path": "content\\sources\\appendix-content.json",
+    "sha256": "854285f257f56c82955d54c645cfebfc272de6740428a6474fac7050f5148b15"
+  },
+  {
+    "path": "content\\sources\\manifest.json",
+    "sha256": "7752a2d65e00e26a03539056ab61204806ea7cd4769f70c17060e6853189e163"
+  },
+  {
+    "path": "content\\sources\\revision-book.pdf",
+    "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa"
+  },
+  {
+    "path": "content\\sources\\student-content.json",
+    "sha256": "e3209a86d49ec0b62d03f15296d62675c4b8e2aa80bebdd17303afc02feec491"
+  },
+  {
+    "path": "src\\app.mjs",
+    "sha256": "6b0d1603a3bf03f2a19b762b80aadc0a77c6cacf639a9d8c44b2def5a18b46df"
+  },
+  {
+    "path": "src\\domain\\choice-progress.mjs",
+    "sha256": "a05ec17eb54b9ae7d702ec98b3d4327be01ed1cff37b22731f90b3b385d1a6ed"
+  },
+  {
+    "path": "src\\domain\\daily-availability.mjs",
+    "sha256": "4b286809dc8722a62c67be1fcd3c973db314be6c127e5ee0356aa1911d1ea647"
+  },
+  {
+    "path": "src\\domain\\editorial-prototypes.mjs",
+    "sha256": "20817c2ff36e68d1b7e5eb524e57212a63644cb22a97f483b0030e295f539329"
+  },
+  {
+    "path": "src\\domain\\editorial.mjs",
+    "sha256": "f4d5801f6ed644004959bfe49b6699e28e3d39ebc1082c695320918b4afb755f"
+  },
+  {
+    "path": "src\\domain\\learning-card-contract.mjs",
+    "sha256": "12471a35c95cf083e4954edf7b169bede20422c09a48724cc9a00d0a5e736ec1"
+  },
+  {
+    "path": "src\\domain\\material-contract.mjs",
+    "sha256": "d9626d80bb141e4d87c88aa4ee4e2c03e91a56116ead13a63a7909c5d5ac25ca"
+  },
+  {
+    "path": "src\\domain\\original-presentation.mjs",
+    "sha256": "fd1fb3207d9f20607ff44d683fbc4e9e3603b1ae391f6cd570ac1ec281fc143c"
+  },
+  {
+    "path": "src\\domain\\queue.mjs",
+    "sha256": "660a6f872cb5bd7563283b170db1bbdbb79b592c5a6062428d0cd936b05bfcb6"
+  },
+  {
+    "path": "src\\domain\\replacement.mjs",
+    "sha256": "e097b262d0a71ee408ec2166d424b1f79cfce1be353d433dc5de8d6b9d94dfb2"
+  },
+  {
+    "path": "src\\domain\\review.mjs",
+    "sha256": "c345ccd893b633a0e32942d349fb05811789a98a57f81d2c6c4d8afd00c5807e"
+  },
+  {
+    "path": "src\\domain\\reviewed-material-contract.mjs",
+    "sha256": "2b0f59017237ddda047290ed192496425e780db2fdcba2bbd51f45f29644d6fb"
+  },
+  {
+    "path": "src\\domain\\session.mjs",
+    "sha256": "498cca9fb40029fa2e82336f907a08a5b84266a45d278125e8141790a9326bdd"
+  },
+  {
+    "path": "src\\domain\\training.mjs",
+    "sha256": "1f12c060d1e9414525578797385e6e48857978da747ef2f8670f81215c24defa"
+  },
+  {
+    "path": "src\\domain\\written.mjs",
+    "sha256": "80c9c1a9523f874140b116de06dda2ea25e539931eee4975ae8c69a8248cc69f"
+  },
+  {
+    "path": "src\\features\\learning-context.mjs",
+    "sha256": "f966eb75284d1786db80b7171dfab8e17047446d08ab1e2bdb341d4211c6724f"
+  },
+  {
+    "path": "src\\features\\library.mjs",
+    "sha256": "70eb4d8017f780d910aa0455816da5aa9a5ae079735790226e481ab5316663b7"
+  },
+  {
+    "path": "src\\features\\mistakes.mjs",
+    "sha256": "5dc53530e123f6de3a4e7b09f9eb002b31648201a017013e00e4b86b1b31237e"
+  },
+  {
+    "path": "src\\features\\practice.mjs",
+    "sha256": "ad32eb4ae9c435eb6ef1239862d50b88afd4cc71c614c5c5959d5a827d776977"
+  },
+  {
+    "path": "src\\features\\preferences.mjs",
+    "sha256": "1edb6e85f5bfc32a64ee23b426ecdfe74ba3ac244777ba3058076bc24ddc2e3a"
+  },
+  {
+    "path": "src\\features\\records.mjs",
+    "sha256": "b995cfcffba27dd51286d87d725cbfc5284ddadfa974d756e17cceee78e9972e"
+  },
+  {
+    "path": "src\\features\\shared.mjs",
+    "sha256": "ea9ba33e4b872b820d9acf4879d0c01b82dfdc8cb86e5096bf2891d133709ff9"
+  },
+  {
+    "path": "src\\features\\training.mjs",
+    "sha256": "9469eb372e65b825e6984dc64210b608c7fc5d3420b29c5dff1a1933c193ad82"
+  },
+  {
+    "path": "src\\features\\written.mjs",
+    "sha256": "fec51d6a7becd1b92e628f53f15635978fc312bfe5871c1f8ff8d7968858561c"
+  },
+  {
+    "path": "src\\storage\\backup.mjs",
+    "sha256": "7077f8e147ac5634ec4d0c173b4b789123de29cfbd0b1812da794bf036adc2a3"
+  },
+  {
+    "path": "src\\storage\\repository.mjs",
+    "sha256": "051485efa3a5d05cad85c026e1066e65c493541444442bd34e9553eddbd1b630"
+  },
+  {
+    "path": "src\\storage\\save-queue.mjs",
+    "sha256": "cd603615335291b4dbff170a7494f116550fe322862a197e9fcd552fd88a6b41"
+  },
+  {
+    "path": "src\\sync\\client.mjs",
+    "sha256": "06447a922f1d7a4e5a4d6086bbc5fcf2bb9ebd95cb54a6c7922208401d83ee22"
+  },
+  {
+    "path": "src\\sync\\scheduler.mjs",
+    "sha256": "9baffb9ef3d5cb366d996909a6f7b0abe1fa79ab0cc712935c04b0eddee3eae6"
+  }
+]

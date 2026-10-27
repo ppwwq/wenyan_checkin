@@ -1,3 +1,70 @@
+# 部署與推送均已完成
+
+用戶明確回覆「允許」後，已將下方清單的25檔提交並推送至公開倉庫 ppwwq/wenyan_checkin 的 main。提交：`a779502b6f08597c0e7bdf573d4c54076fd68226`。git ls-remote獨立讀回遠端與本地HEAD一致；沒有混入既有README修改或瀏覽器腳本。正式網站仍為UI 2026.10.11.4／題庫2026.10.11.1，沿用本輪103項測試與41資產、7項線上核查。沒有待確認或未完成的本次發布操作。
+
+以下是本次推送前的清單及審批歷程，原「待確認」狀態已被上述完成狀態取代。
+
+---
+
+# 當前發布：2026-10-11
+
+正式站已發布 UI **2026.10.11.4**、題庫 **2026.10.11.1**（2,161題，含27道DSE原版選擇分題）。Worker：`6233aaea-3f42-424f-a5cc-0c837f70e243`。
+
+https://chinese-a-study.philipwwq.workers.dev
+
+103項本地及發布副本測試通過；41個公開資產逐檔SHA一致，7項線上只讀核查通過。現有資料庫、帳號及學習事件保留；未在正式帳號提交作答。原倒數保持，相關原文只在答後補充；提交不跳解析、答對收合、小型跳過／暫時不會按鈕位於底部。
+
+## GitHub狀態
+
+目的地：**https://github.com/ppwwq/wenyan_checkin 的 main**（公開倉庫）。下列25檔已同步及暫存，發布副本103項測試通過。自動審批拒絕建立提交及推送，尚無新提交；本地HEAD及最後核對的遠端main仍為 `ea9227895f5108a8521a827ad36b07d298902eae`。
+
+拒絕理由：用戶「部署，推送」未具體確認公开目的地、25檔載荷及main分支。需要用戶明確確認後才可重試，不能繞過。
+
+待公開內容：本轮應用程式、前端樣式、選擇題庫及來源索引、相關測試；不含帳號資料庫、密鑰、環境檔、本地截圖或原始PDF新增文件。公開後他人可查看／下載。
+
+1. `web-study/src/app.mjs`
+2. `web-study/src/domain/choice-progress.mjs`
+3. `web-study/src/domain/queue.mjs`
+4. `web-study/src/domain/replacement.mjs`
+5. `web-study/src/domain/session.mjs`
+6. `web-study/src/domain/training.mjs`
+7. `web-study/src/features/learning-context.mjs`
+8. `web-study/src/features/library.mjs`
+9. `web-study/src/features/practice.mjs`
+10. `web-study/src/features/training.mjs`
+11. `web-study/src/storage/backup.mjs`
+12. `web-study/tests/choice-update.test.mjs`
+13. `web-study/tests/frontend-flow.test.mjs`
+14. `web-study/tests/mistakes.test.mjs`
+15. `web-study/tests/practice.test.mjs`
+16. `web-study/tests/skip.test.mjs`
+17. `web-study/index.html`
+18. `web-study/manifest.webmanifest`
+19. `web-study/styles.css`
+20. `web-study/sw.js`
+21. `web-study/scripts/build.mjs`
+22. `web-study/cloudflare/verify-release.mjs`
+23. `web-study/content/bank.json`
+24. `web-study/content/coverage-report.json`
+25. `web-study/content/quality-report.json`
+
+其他既有README修改及browser-skip-feedback.mjs保持未暫存，未混入本次範圍。確定範圍後，沿用已核查資料執行commit、push，再獨立核對遠端SHA。
+
+---
+
+以下保留歷史發布紀錄。
+
+# 部署狀態（2026-10-03）
+
+## 當前正式站：跳過與對錯顏色 2026.10.03.1
+
+- 用戶明確要求「部署推送」。已發布介面 `2026.10.03.1`；新增未答題跳過及補答，移除可見對錯判語，以綠色正確選項及紅色所選錯項表示，原解析與讀屏資訊保留。
+- 正式站：[DSE文言練習](https://chinese-a-study.philipwwq.workers.dev)；Worker版本 `57d276b9-443f-4c90-a86c-b8fb8d815d69`。
+- 85項自動測試、建置、7組隔離瀏覽器流程及Wrangler預檢通過。[線上只讀核查](../verification/release-2026.09.23.22-ui-2026.10.03.1/public-result.json)：38個資產SHA-256逐檔一致，7項API權限／私有路徑／PDF Range／登入頁檢查通過。
+- 沿用 `STUDY_DATABASE`／`StudyDatabase`／`study-v1`，沒有資料遷移或帳號／邀請碼修改。題庫仍 `2026.09.23.22`／2,134題，SHA-256 `4f3885fc61c78430eb790f4a2eb035d676c88296582cd5adc5947bfaec5feac5`。
+- GitHub暫存／推送被自動審批拒絕，未建立本輪提交或執行推送；縮小為10個功能／回歸測試檔亦被拒絕，系統要求明確確認向 `ppwwq/wenyan_checkin` 公開這些檔案。發布副本已準備，本地及副本均通過85項測試；沒有新增題庫或來源PDF。[功能核查](../verification/skip-feedback-2026-10-03/README.md) · [發布記錄](../verification/release-2026.09.23.22-ui-2026.10.03.1/deployment.json)。未操作正式帳號作答，真iPad／Safari和學生試用尚未驗收。
+
+以下為歷史發布記錄，本輪發布已取代先前未部署狀態。
 # 部署狀態（2026-10-15）
 
 ## 最新發布嘗試：2026.10.15.1 已推送、部署受阻
@@ -13,7 +80,7 @@
 
 本次 GitHub 同步快照包含 `2026.09.24.7` 錯題入口、按實際錯題篩選及正確計數，以及題庫 `2026.09.23.22`、來源PDF與修訂記錄。發布副本77項測試及建置通過；[同步核查](../verification/github-sync-2026-09-24/README.md)。本次未部署，下列正式版本保持不變。歷史段落中的「未推送」及上傳範圍待確認已由本次用戶「推送最新」授權取代。
 
-## 當前正式站：前三階段改進 2026.09.24.6
+## 歷史正式站：前三階段改進 2026.09.24.6
 
 - 用戶本輪確認按評審實施順序的前三階段修改，並授權發布部署。已由現有工作目錄構建及部署，沒有使用題庫較舊的 `.publish/github` 副本。
 - 正式站：https://chinese-a-study.philipwwq.workers.dev

@@ -1,0 +1,7 @@
+{
+  "name": "wenyan-ui-redesign-preview",
+  "private": true,
+  "type": "module",
+  "scripts": {"start": "node serve.mjs", "test": "node verification/check.cjs"},
+  "engines": {"node": ">=24"}
+}

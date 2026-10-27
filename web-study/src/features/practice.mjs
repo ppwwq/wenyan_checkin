@@ -1,4 +1,6 @@
 import {questionMaterialView,learningView,sourceLabel} from './learning-context.mjs';
+import {answerMode} from '../domain/answer-mode.mjs';
+export {answerMode} from '../domain/answer-mode.mjs';
 import {sessionProgress} from '../domain/replacement.mjs';
 import {questionMistakes,effectiveAttempts} from '../domain/training.mjs';
 import {skippedQuestions} from '../domain/session.mjs';
@@ -66,9 +68,6 @@ function explanationView(q,p,mode){
   (selected?'<section class="selected-explanation"><h3>你選的選項差在哪裏</h3><p class="selected-answer">'+esc(choiceLabel(selected))+' · '+esc(selected.text)+'</p>'+wrongReason+'</section>':'')+
   (showDetail?'<section class="answer-reason"><h3>本題解析</h3>'+extraSummary+paragraphs(detail)+'</section>':'')+learningView(q)+
   '<details><summary>逐項辨析'+(selected?' · 其他選項':'')+'</summary>'+others.map(c=>'<div class="choice-review"><p class="choice-review-title">'+esc(choiceLabel(c))+' · '+esc(c.text)+'</p>'+paragraphs(c.explanation,c.id===q.answerId?'detail':'wrong')+'</div>').join('')+'</details></div>';
-}
-export function answerMode(q,session,payload){
- return payload?.mode||(q.responseFormat==='single-choice'?'choice':session.mode==='mixed'&&session.index%3===2?'typing':'choice');
 }
 export function answerPanel(q,session,state){
  const attempt=state.attempts.find(e=>e.id===session.answers[q.id]),p=attempt?.payload,mode=answerMode(q,session,p),draft=session.drafts[q.id]||'';

@@ -1,0 +1,151 @@
+{
+  "contentDomainStorageSyncUnchanged": 31,
+  "results": [
+    {
+      "role": "body",
+      "contrast": 9.57
+    },
+    {
+      "role": "muted",
+      "contrast": 5.02
+    },
+    {
+      "role": "primary",
+      "contrast": 5.04
+    },
+    {
+      "role": "hero copy",
+      "contrast": 4.8
+    },
+    {
+      "role": "sidebar",
+      "contrast": 9.14
+    },
+    {
+      "role": "selected nav",
+      "contrast": 5.39
+    },
+    {
+      "width": 1440,
+      "page": "login",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "page": "home",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "page": "library",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "page": "written",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "page": "history",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "page": "account",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "page": "practice",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "page": "correct",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "page": "wrong",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "semanticCorrectWrong": true,
+      "correctCollapsed": true,
+      "pageErrors": 0,
+      "colors": {
+        "paper": "rgb(246, 243, 237)",
+        "primary": "rgb(152, 99, 22)",
+        "sidebar": "rgb(57, 54, 50)"
+      }
+    },
+    {
+      "width": 390,
+      "page": "login",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "page": "home",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "page": "library",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "page": "written",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "page": "history",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "page": "account",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "page": "practice",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "page": "correct",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "page": "wrong",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "page": "320-large-home",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "page": "320-large-library",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "semanticCorrectWrong": true,
+      "correctCollapsed": true,
+      "pageErrors": 0,
+      "colors": {
+        "paper": "rgb(246, 243, 237)",
+        "primary": "rgb(152, 99, 22)",
+        "sidebar": "rgb(57, 54, 50)"
+      }
+    }
+  ]
+}

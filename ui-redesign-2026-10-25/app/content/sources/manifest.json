@@ -1,0 +1,13 @@
+{
+  "pdf": {
+    "path": "revision-book.pdf",
+    "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+    "pages": 260
+  },
+  "json": {
+    "path": "student-content.json",
+    "sha256": "cefaae3260a7185997dfa0dc9ba40d76fe1e1bc70b69f962d0bb75a724681f62"
+  },
+  "sourceVersion": "2026-09-14",
+  "imported": "2026-09-19"
+}

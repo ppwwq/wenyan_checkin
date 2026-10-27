@@ -1,0 +1,220 @@
+[
+  {
+    "id": "q-comparison-001",
+    "version": 1,
+    "memoryId": "m-comparison-001",
+    "essayIds": [
+      "essay-01",
+      "essay-02"
+    ],
+    "ability": "theme",
+    "quote": "《論仁、論孝、論君子》：志士仁人，無求生以害仁，有殺身以成仁\n《魚我所欲也》：二者不可得兼，舍生而取義者也",
+    "target": "生與道德原則",
+    "stem": "只比較生命與道德原則衝突時的取捨，兩段有何共同點？",
+    "choices": [
+      {
+        "id": "a",
+        "text": "只要日常遇到任何危險，都必須主動求死",
+        "explanation": "兩文強調道德取捨，不能擴大為凡危險必赴死。"
+      },
+      {
+        "id": "b",
+        "text": "只要可保生命，就可以放棄一切道德原則",
+        "explanation": "與害仁不可及舍生取義都相反。"
+      },
+      {
+        "id": "c",
+        "text": "生命毫無價值，仁義也無須考慮",
+        "explanation": "孟子明說生亦我所欲，兩文更重視仁義。"
+      },
+      {
+        "id": "d",
+        "text": "不能兩全時，寧守仁義而不苟且保命",
+        "explanation": "論語不為求生損仁，孟子在生義不能兼得時取義；共同點須保留衝突不能兩全的條件。"
+      }
+    ],
+    "answerId": "d",
+    "explanation": "論語不為求生損仁，孟子在生義不能兼得時取義；共同點須保留衝突不能兩全的條件。",
+    "source": {
+      "title": "論仁、論孝、論君子",
+      "jsonFile": "student-content.json",
+      "blockPath": "$[0].pages[4].blocks[0]",
+      "quote": "志士仁人，無求生以害仁，有殺身以成仁",
+      "anchor": "志士仁人，無求生以害仁，有殺身以成仁",
+      "pdfPage": 9,
+      "printedPage": 5,
+      "pdfUrl": "/content/sources/revision-book.pdf",
+      "version": "2026-09-14",
+      "relatedSources": [
+        {
+          "title": "魚我所欲也",
+          "jsonFile": "student-content.json",
+          "blockPath": "$[1].pages[1].blocks[0]",
+          "quote": "二者不可得兼，舍生而取義者也",
+          "anchor": "二者不可得兼，舍生而取義者也",
+          "pdfPage": 35,
+          "printedPage": 31,
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14"
+        }
+      ]
+    },
+    "status": "reviewed",
+    "active": true,
+    "summary": "不能兩全時，寧守仁義而不苟且保命",
+    "misconception": "兩文強調道德取捨，不能擴大為凡危險必赴死。",
+    "difficulty": "foundation",
+    "tags": [
+      "comparison"
+    ],
+    "review": {
+      "method": "source-aligned-agent-review",
+      "reviewedAt": "2026-09-19",
+      "officialExamQuestion": false,
+      "sourceEvidence": {
+        "originalSources": [
+          {
+            "title": "論仁、論孝、論君子",
+            "jsonFile": "student-content.json",
+            "blockPath": "$[0].pages[4].blocks[0]",
+            "quote": "志士仁人，無求生以害仁，有殺身以成仁",
+            "anchor": "志士仁人，無求生以害仁，有殺身以成仁",
+            "pdfPage": 9,
+            "printedPage": 5,
+            "pdfUrl": "/content/sources/revision-book.pdf",
+            "version": "2026-09-14"
+          },
+          {
+            "title": "魚我所欲也",
+            "jsonFile": "student-content.json",
+            "blockPath": "$[1].pages[1].blocks[0]",
+            "quote": "二者不可得兼，舍生而取義者也",
+            "anchor": "二者不可得兼，舍生而取義者也",
+            "pdfPage": 35,
+            "printedPage": 31,
+            "pdfUrl": "/content/sources/revision-book.pdf",
+            "version": "2026-09-14"
+          }
+        ],
+        "comparisonScope": "以下比較是依兩處原句所作的限定角度比較，不標作官方評分。"
+      },
+      "checks": [
+        "actual-PDF-anchor-and-footer",
+        "definition-applied-to-specific-angle",
+        "four-distinct-options",
+        "one-keyed-answer",
+        "targeted-distractor-reasons"
+      ],
+      "scope": "依指定本地復習書編寫，非官方真題；同一句兼有其他手法時不判其錯。"
+    }
+  },
+  {
+    "id": "q-comparison-002",
+    "version": 1,
+    "memoryId": "m-comparison-002",
+    "essayIds": [
+      "essay-11",
+      "essay-12"
+    ],
+    "ability": "theme",
+    "quote": "《山居秋暝》：竹喧歸浣女，蓮動下漁舟\n《月下獨酌》：舉杯邀明月，對影成三人",
+    "target": "人物與想像",
+    "stem": "只比較兩段出現的「同伴」，哪項分別最準確？",
+    "choices": [
+      {
+        "id": "a",
+        "text": "前者證明山中全無人，後者已有知己到場",
+        "explanation": "前者有人事，後者仍是想像陪伴，兩者都判反。"
+      },
+      {
+        "id": "b",
+        "text": "兩段全屬戰場敘事，不涉及生活感受",
+        "explanation": "山村生活與花間獨酌均非戰場。"
+      },
+      {
+        "id": "c",
+        "text": "前者寫實際山村人事，後者以想像月影陪伴獨酌",
+        "explanation": "浣女漁舟呈現生活情趣；三人是詩人、月和影，並未新增兩位真實酒友。"
+      },
+      {
+        "id": "d",
+        "text": "兩段都明確寫三位真人在一起飲酒",
+        "explanation": "前者並非飲酒，後者三人也非三位真人。"
+      }
+    ],
+    "answerId": "c",
+    "explanation": "浣女漁舟呈現生活情趣；三人是詩人、月和影，並未新增兩位真實酒友。",
+    "source": {
+      "title": "山居秋暝",
+      "jsonFile": "student-content.json",
+      "blockPath": "$[10].pages[2].blocks[0]",
+      "quote": "竹喧歸浣女，蓮動下漁舟",
+      "anchor": "竹喧歸浣女，蓮動下漁舟",
+      "pdfPage": 189,
+      "printedPage": 185,
+      "pdfUrl": "/content/sources/revision-book.pdf",
+      "version": "2026-09-14",
+      "relatedSources": [
+        {
+          "title": "月下獨酌",
+          "jsonFile": "student-content.json",
+          "blockPath": "$[11].pages[1].blocks[0]",
+          "quote": "舉杯邀明月，對影成三人",
+          "anchor": "舉杯邀明月，對影成三人",
+          "pdfPage": 196,
+          "printedPage": 192,
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14"
+        }
+      ]
+    },
+    "status": "reviewed",
+    "active": true,
+    "summary": "前者寫實際山村人事，後者以想像月影陪伴獨酌",
+    "misconception": "前者並非飲酒，後者三人也非三位真人。",
+    "difficulty": "foundation",
+    "tags": [
+      "comparison"
+    ],
+    "review": {
+      "method": "source-aligned-agent-review",
+      "reviewedAt": "2026-09-19",
+      "officialExamQuestion": false,
+      "sourceEvidence": {
+        "originalSources": [
+          {
+            "title": "山居秋暝",
+            "jsonFile": "student-content.json",
+            "blockPath": "$[10].pages[2].blocks[0]",
+            "quote": "竹喧歸浣女，蓮動下漁舟",
+            "anchor": "竹喧歸浣女，蓮動下漁舟",
+            "pdfPage": 189,
+            "printedPage": 185,
+            "pdfUrl": "/content/sources/revision-book.pdf",
+            "version": "2026-09-14"
+          },
+          {
+            "title": "月下獨酌",
+            "jsonFile": "student-content.json",
+            "blockPath": "$[11].pages[1].blocks[0]",
+            "quote": "舉杯邀明月，對影成三人",
+            "anchor": "舉杯邀明月，對影成三人",
+            "pdfPage": 196,
+            "printedPage": 192,
+            "pdfUrl": "/content/sources/revision-book.pdf",
+            "version": "2026-09-14"
+          }
+        ],
+        "comparisonScope": "以下比較是依兩處原句所作的限定角度比較，不標作官方評分。"
+      },
+      "checks": [
+        "actual-PDF-anchor-and-footer",
+        "definition-applied-to-specific-angle",
+        "four-distinct-options",
+        "one-keyed-answer",
+        "targeted-distractor-reasons"
+      ],
+      "scope": "依指定本地復習書編寫，非官方真題；同一句兼有其他手法時不判其錯。"
+    }
+  }
+]

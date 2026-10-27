@@ -1,0 +1,236 @@
+{
+  "scope": "isolated local browser and temporary backend; no production writes",
+  "results": [
+    {
+      "check": "content, domain, storage and sync byte-identical",
+      "files": 31
+    },
+    {
+      "width": 1440,
+      "check": "login"
+    },
+    {
+      "width": 1440,
+      "check": "home"
+    },
+    {
+      "width": 1440,
+      "check": "home large text"
+    },
+    {
+      "width": 1440,
+      "check": "practice"
+    },
+    {
+      "width": 1440,
+      "check": "feedback"
+    },
+    {
+      "width": 1440,
+      "check": "library"
+    },
+    {
+      "width": 1440,
+      "check": "official pool"
+    },
+    {
+      "width": 1440,
+      "check": "written list"
+    },
+    {
+      "width": 1440,
+      "check": "written answer"
+    },
+    {
+      "width": 1440,
+      "check": "history"
+    },
+    {
+      "width": 1440,
+      "check": "favorites"
+    },
+    {
+      "width": 1440,
+      "check": "mistakes"
+    },
+    {
+      "width": 1440,
+      "check": "weakness"
+    },
+    {
+      "width": 1440,
+      "check": "quick review"
+    },
+    {
+      "width": 1440,
+      "check": "comparison"
+    },
+    {
+      "width": 1440,
+      "check": "account"
+    },
+    {
+      "width": 1440,
+      "check": "reports"
+    },
+    {
+      "width": 1440,
+      "check": "real local registration, settings, correct answer, pause, written self-review/correction, favorite, report, export/import, reload",
+      "pageErrors": 0
+    },
+    {
+      "width": 390,
+      "check": "login"
+    },
+    {
+      "width": 390,
+      "check": "home"
+    },
+    {
+      "width": 390,
+      "check": "home large text"
+    },
+    {
+      "width": 390,
+      "check": "practice"
+    },
+    {
+      "width": 390,
+      "check": "feedback"
+    },
+    {
+      "width": 390,
+      "check": "library"
+    },
+    {
+      "width": 390,
+      "check": "official pool"
+    },
+    {
+      "width": 390,
+      "check": "written list"
+    },
+    {
+      "width": 390,
+      "check": "written answer"
+    },
+    {
+      "width": 390,
+      "check": "history"
+    },
+    {
+      "width": 390,
+      "check": "favorites"
+    },
+    {
+      "width": 390,
+      "check": "mistakes"
+    },
+    {
+      "width": 390,
+      "check": "weakness"
+    },
+    {
+      "width": 390,
+      "check": "quick review"
+    },
+    {
+      "width": 390,
+      "check": "comparison"
+    },
+    {
+      "width": 390,
+      "check": "account"
+    },
+    {
+      "width": 390,
+      "check": "reports"
+    },
+    {
+      "width": 390,
+      "check": "320 large home"
+    },
+    {
+      "width": 390,
+      "check": "320 large library"
+    },
+    {
+      "width": 390,
+      "check": "real local registration, settings, correct answer, pause, written self-review/correction, favorite, report, export/import, reload",
+      "pageErrors": 0
+    },
+    {
+      "width": 768,
+      "check": "login"
+    },
+    {
+      "width": 768,
+      "check": "home"
+    },
+    {
+      "width": 768,
+      "check": "home large text"
+    },
+    {
+      "width": 768,
+      "check": "practice"
+    },
+    {
+      "width": 768,
+      "check": "feedback"
+    },
+    {
+      "width": 768,
+      "check": "library"
+    },
+    {
+      "width": 768,
+      "check": "official pool"
+    },
+    {
+      "width": 768,
+      "check": "written list"
+    },
+    {
+      "width": 768,
+      "check": "written answer"
+    },
+    {
+      "width": 768,
+      "check": "history"
+    },
+    {
+      "width": 768,
+      "check": "favorites"
+    },
+    {
+      "width": 768,
+      "check": "mistakes"
+    },
+    {
+      "width": 768,
+      "check": "weakness"
+    },
+    {
+      "width": 768,
+      "check": "quick review"
+    },
+    {
+      "width": 768,
+      "check": "comparison"
+    },
+    {
+      "width": 768,
+      "check": "account"
+    },
+    {
+      "width": 768,
+      "check": "reports"
+    },
+    {
+      "width": 768,
+      "check": "real local registration, settings, correct answer, pause, written self-review/correction, favorite, report, export/import, reload",
+      "pageErrors": 0
+    }
+  ]
+}

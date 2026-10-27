@@ -4,3 +4,5 @@ dist/
 .dev.vars
 node_modules/
 cloudflare/.dev.vars
+# 本機私有題目（校內試卷），不提交
+content/local-private/

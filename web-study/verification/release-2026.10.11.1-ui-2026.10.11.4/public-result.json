@@ -1,0 +1,287 @@
+{
+  "result": "PASS",
+  "verifiedAt": "2026-10-11T04:27:22.754Z",
+  "origin": "https://chinese-a-study.philipwwq.workers.dev",
+  "bankVersion": "2026.10.11.1",
+  "questions": 2161,
+  "assets": [
+    {
+      "path": "/assets/apple-touch-icon.png",
+      "status": 200,
+      "sha256": "1e87e34b362f51f36afb5affb74eddec9a0cfeb461741875f4ec3f13e45b28d0",
+      "bytes": 3354
+    },
+    {
+      "path": "/assets/icon-192.png",
+      "status": 200,
+      "sha256": "5d416eb84c6ba7edad020178a6a8f188b8d1b0af61b38e10fffa30f2c7702bb3",
+      "bytes": 3500
+    },
+    {
+      "path": "/assets/icon-512.png",
+      "status": 200,
+      "sha256": "eb811b46c37cfb71494350962341048e6157088003c9d3eb46588ff6ede61e46",
+      "bytes": 10419
+    },
+    {
+      "path": "/assets/icon-maskable.png",
+      "status": 200,
+      "sha256": "8fed324179ea6eedd476115a360c58a877f2d410e6a4ecca43e88645ef27dbe8",
+      "bytes": 9346
+    },
+    {
+      "path": "/assets/icon.svg",
+      "status": 200,
+      "sha256": "76a5f609f0353d84fb8d1ea84d18c6b8a1725dcab10e660b5b995aa54b4c7df7",
+      "bytes": 755
+    },
+    {
+      "path": "/build-info.json",
+      "status": 200,
+      "sha256": "712732e1ac1e7f53a46d697362e23081dcb50bdd159019ee9747d4d1c3ff4b26",
+      "bytes": 124
+    },
+    {
+      "path": "/content/bank.json",
+      "status": 200,
+      "sha256": "28da4827469740cf77f5c206de70998a8d2b10bb206c27bd900390a931924f07",
+      "bytes": 11293471
+    },
+    {
+      "path": "/content/coverage-report.json",
+      "status": 200,
+      "sha256": "b4df59ca5493677c63d3262f2087ef649c55c82a573bb639c3fef3865efe6325",
+      "bytes": 64015
+    },
+    {
+      "path": "/content/expansion-appendix.json",
+      "status": 200,
+      "sha256": "3e7e2ae83423af4ae59c70f0adcc9d3f6f9ab717e31d20dc46be6a928724f810",
+      "bytes": 31224
+    },
+    {
+      "path": "/content/expansion-comparison.json",
+      "status": 200,
+      "sha256": "75e9e69026b88fd0cd55eec8df36f37eb226755c72d44cde0fab1e5bbe0c4c29",
+      "bytes": 8458
+    },
+    {
+      "path": "/content/expansion-draft.json",
+      "status": 200,
+      "sha256": "167c9f0362ccea1fb19be9de1106b177f42a4b557c943200a325215447f94f2a",
+      "bytes": 306605
+    },
+    {
+      "path": "/content/quality-report.json",
+      "status": 200,
+      "sha256": "d1b841aa73dc45acea9a739defc572e84a85beb689ad6dfc75b2a32213d6a219",
+      "bytes": 5077
+    },
+    {
+      "path": "/content/source-coverage.json",
+      "status": 200,
+      "sha256": "ccbb243de759b5e0bde07e2ed67ad97e64a5ac071a3066ad07212ce7daca35d2",
+      "bytes": 785245
+    },
+    {
+      "path": "/content/sources/appendix-content.json",
+      "status": 200,
+      "sha256": "8421c9fd6ec9443d1c1d8fc0fe161ff8d9c92470ad231eaed5e3d7384474b9f3",
+      "bytes": 41427
+    },
+    {
+      "path": "/content/sources/manifest.json",
+      "status": 200,
+      "sha256": "7e2b675459a0aefba93c2b85af3f67eb579a90d587c7db2fb74b79832497e99b",
+      "bytes": 357
+    },
+    {
+      "path": "/content/sources/revision-book.pdf",
+      "status": 200,
+      "sha256": "bb6e85f109519f8e89464c5e6f8c9db5b23d6eabec4ed9f31a0da8997c044baa",
+      "bytes": 3635907
+    },
+    {
+      "path": "/content/sources/student-content.json",
+      "status": 200,
+      "sha256": "cefaae3260a7185997dfa0dc9ba40d76fe1e1bc70b69f962d0bb75a724681f62",
+      "bytes": 955562
+    },
+    {
+      "path": "/",
+      "status": 200,
+      "sha256": "d7eb26927a166bb168f2a289e2688fcf6fc794bbb0362b6a09183d277702fa56",
+      "bytes": 895
+    },
+    {
+      "path": "/manifest.webmanifest",
+      "status": 200,
+      "sha256": "8ab70f843ca91a86c47240ef347d22009f87e5263035f8576ab14f2cbfa2834f",
+      "bytes": 739
+    },
+    {
+      "path": "/src/app.mjs",
+      "status": 200,
+      "sha256": "f600dfb54275df116ce687fb51eb8f4c5ebf854aec19c3f1aff95e97d25b034e",
+      "bytes": 41310
+    },
+    {
+      "path": "/src/domain/choice-progress.mjs",
+      "status": 200,
+      "sha256": "a05ec17eb54b9ae7d702ec98b3d4327be01ed1cff37b22731f90b3b385d1a6ed",
+      "bytes": 397
+    },
+    {
+      "path": "/src/domain/queue.mjs",
+      "status": 200,
+      "sha256": "b328a717beaf27d12e2a547fd9c32f069dd3d5503e222c73f1373d9894b962d1",
+      "bytes": 4853
+    },
+    {
+      "path": "/src/domain/replacement.mjs",
+      "status": 200,
+      "sha256": "e097b262d0a71ee408ec2166d424b1f79cfce1be353d433dc5de8d6b9d94dfb2",
+      "bytes": 1909
+    },
+    {
+      "path": "/src/domain/review.mjs",
+      "status": 200,
+      "sha256": "20dd42a85780a2115fc20a05e86debc48bddade52eb9e41f79d69daaa1726b67",
+      "bytes": 5299
+    },
+    {
+      "path": "/src/domain/session.mjs",
+      "status": 200,
+      "sha256": "498cca9fb40029fa2e82336f907a08a5b84266a45d278125e8141790a9326bdd",
+      "bytes": 1547
+    },
+    {
+      "path": "/src/domain/training.mjs",
+      "status": 200,
+      "sha256": "fee2fd6256baef27d5a0b3d7fb0084ba9ea6609257339a36c33997bd7a372ead",
+      "bytes": 5394
+    },
+    {
+      "path": "/src/features/learning-context.mjs",
+      "status": 200,
+      "sha256": "4784509c52cb660a0afd8f44da5a2e5a93c3995e108cc7f2d531187403fa5645",
+      "bytes": 3239
+    },
+    {
+      "path": "/src/features/library.mjs",
+      "status": 200,
+      "sha256": "b5512c2f83ec10fdb68aa3a6972fb5f047364a3702b03eb2e60578de39cadaa4",
+      "bytes": 6519
+    },
+    {
+      "path": "/src/features/mistakes.mjs",
+      "status": 200,
+      "sha256": "a323813feb2ff06b9527925bcb71d4595a1151f6a621b53d1224f77f00ce0a95",
+      "bytes": 1857
+    },
+    {
+      "path": "/src/features/practice.mjs",
+      "status": 200,
+      "sha256": "a373faef8ad02a51a520160e1355917bb487aaab476af2281b2e2beff17e5a64",
+      "bytes": 15141
+    },
+    {
+      "path": "/src/features/preferences.mjs",
+      "status": 200,
+      "sha256": "1edb6e85f5bfc32a64ee23b426ecdfe74ba3ac244777ba3058076bc24ddc2e3a",
+      "bytes": 456
+    },
+    {
+      "path": "/src/features/records.mjs",
+      "status": 200,
+      "sha256": "44f0287ec697b00c841a519452c7e1d94092898c32d2f5cbbe4074b6f339c3f3",
+      "bytes": 9167
+    },
+    {
+      "path": "/src/features/shared.mjs",
+      "status": 200,
+      "sha256": "b78adabf51540a90d5bbe25d00e0b0a0483d92d3bb81e397f94f053657735253",
+      "bytes": 2602
+    },
+    {
+      "path": "/src/features/training.mjs",
+      "status": 200,
+      "sha256": "067ce3d885fe2be5610d255cf0e794ec9a543e0f4a0f98be2dc878d896493460",
+      "bytes": 8158
+    },
+    {
+      "path": "/src/storage/backup.mjs",
+      "status": 200,
+      "sha256": "dd95f1f368e3bbb0ed5da3d597b505047fa3c6db648fa7fb477f3c6318e2ddcc",
+      "bytes": 6968
+    },
+    {
+      "path": "/src/storage/repository.mjs",
+      "status": 200,
+      "sha256": "b079dea1e95a77abd82879e7d28eacecea6541fcdace71850327d1c1ada51f99",
+      "bytes": 3707
+    },
+    {
+      "path": "/src/storage/save-queue.mjs",
+      "status": 200,
+      "sha256": "f96aede99962a3976c334e240091f1d4c4f2137b98f5ae05551db63b52a9c96b",
+      "bytes": 451
+    },
+    {
+      "path": "/src/sync/client.mjs",
+      "status": 200,
+      "sha256": "a0886a37cd7709f9d4a711a61cf3af85801d71a7bb3b315d2e082ffa44efd9ab",
+      "bytes": 2537
+    },
+    {
+      "path": "/src/sync/scheduler.mjs",
+      "status": 200,
+      "sha256": "8f2fadefdb24f53a27de3ae668a4284216d671deef42d8b7eabbe6dc10fa9cd1",
+      "bytes": 1487
+    },
+    {
+      "path": "/styles.css",
+      "status": 200,
+      "sha256": "3a2ed11007d6c9c0e1d5ee4972e6438a30a52712f8d5b0419151570975b9e0ca",
+      "bytes": 54134
+    },
+    {
+      "path": "/sw.js",
+      "status": 200,
+      "sha256": "ebee568b0ad03acd2bc9edca1f4c1d5b8f02ec30cc18bc05715b503ce0c5f63a",
+      "bytes": 1844
+    }
+  ],
+  "checks": [
+    {
+      "path": "/api/health",
+      "status": 200
+    },
+    {
+      "path": "/api/me",
+      "status": 401
+    },
+    {
+      "path": "/backend/data/study.sqlite",
+      "status": 404
+    },
+    {
+      "path": "/.dev.vars",
+      "status": 404
+    },
+    {
+      "path": "/api/internal/import",
+      "status": 404
+    },
+    {
+      "path": "source PDF Range",
+      "status": 206
+    },
+    {
+      "check": "Production Chromium login, no horizontal overflow, current bank via browser",
+      "version": "2026.10.11.1",
+      "pageErrors": []
+    }
+  ],
+  "scope": "Read-only public asset/API checks and Chromium login screen. No production account login/write or physical iPad acceptance."
+}

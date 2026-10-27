@@ -1,0 +1,811 @@
+[
+  {
+    "id": "q-appendix-001",
+    "version": 1,
+    "memoryId": "m-appendix-001",
+    "essayIds": [
+      "essay-09"
+    ],
+    "ability": "technique",
+    "quote": "不以物喜，不以己悲",
+    "target": "互文",
+    "stem": "按上下句意思互相補足的角度，哪項理解正確？",
+    "choices": [
+      {
+        "id": "a",
+        "text": "只禁止因外物而喜，仍可因外物而悲",
+        "explanation": "割裂上下句，漏掉互文互補。"
+      },
+      {
+        "id": "b",
+        "text": "只禁止個人悲傷，完全不限制個人喜悅",
+        "explanation": "把己悲割裂，漏掉相互補足。"
+      },
+      {
+        "id": "c",
+        "text": "要求對國家百姓也完全無感",
+        "explanation": "互文所說是個人利害的悲喜，不能推成無公共關懷。"
+      },
+      {
+        "id": "d",
+        "text": "不因外物或個人遭遇而或喜或悲",
+        "explanation": "兩句互文，物與己均可關聯悲喜，不可把喜只限外物、悲只限自身。"
+      }
+    ],
+    "answerId": "d",
+    "explanation": "兩句互文，物與己均可關聯悲喜，不可把喜只限外物、悲只限自身。",
+    "source": {
+      "title": "文言詩詞・十六篇復習書｜手法附錄",
+      "section": "修辭｜互文與聲律",
+      "jsonFile": "appendix-content.json",
+      "blockPath": "$appendix.sections[4].rows[0]",
+      "anchor": "相關意思分寫在上下兩句，理解時須把兩句成分互相補足。",
+      "pdfPage": 247,
+      "printedPage": "附錄6",
+      "pdfUrl": "/content/sources/revision-book.pdf",
+      "version": "2026-09-14",
+      "relatedSources": [
+        {
+          "title": "岳陽樓記",
+          "jsonFile": "student-content.json",
+          "blockPath": "$[8].pages[5].blocks[0]",
+          "quote": "不以物喜，不以己悲",
+          "anchor": "不以物喜，不以己悲",
+          "pdfPage": 159,
+          "printedPage": 155,
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14"
+        }
+      ]
+    },
+    "status": "reviewed",
+    "active": true,
+    "summary": "不因外物或個人遭遇而或喜或悲",
+    "misconception": "割裂上下句，漏掉互文互補。",
+    "difficulty": "foundation",
+    "tags": [
+      "appendix"
+    ],
+    "review": {
+      "method": "source-aligned-agent-review",
+      "reviewedAt": "2026-09-19",
+      "officialExamQuestion": false,
+      "sourceEvidence": {
+        "appendixRow": [
+          "互文",
+          "相關意思分寫在上下兩句，理解時須把兩句成分互相補足。\n作用：文字精煉，句式整齊，語意含蓄完整；不能逐句割裂直譯。",
+          "「不以物喜，不以己悲。」（《岳陽樓記》）上下句互相補足：不因外物或個人遭遇而或喜或悲。"
+        ],
+        "originalSources": [
+          {
+            "title": "岳陽樓記",
+            "jsonFile": "student-content.json",
+            "blockPath": "$[8].pages[5].blocks[0]",
+            "quote": "不以物喜，不以己悲",
+            "anchor": "不以物喜，不以己悲",
+            "pdfPage": 159,
+            "printedPage": 155,
+            "pdfUrl": "/content/sources/revision-book.pdf",
+            "version": "2026-09-14"
+          }
+        ]
+      },
+      "checks": [
+        "actual-PDF-anchor-and-footer",
+        "definition-applied-to-specific-angle",
+        "four-distinct-options",
+        "one-keyed-answer",
+        "targeted-distractor-reasons"
+      ],
+      "scope": "依指定本地復習書編寫，非官方真題；同一句兼有其他手法時不判其錯。"
+    }
+  },
+  {
+    "id": "q-appendix-002",
+    "version": 1,
+    "memoryId": "m-appendix-002",
+    "essayIds": [
+      "essay-13"
+    ],
+    "ability": "technique",
+    "quote": "日暮聊為梁甫吟",
+    "target": "用典",
+    "stem": "「梁甫吟」的歷史文化聯想如何參與抒情？",
+    "choices": [
+      {
+        "id": "a",
+        "text": "把梁甫當成詩人實際遇見的朋友",
+        "explanation": "梁甫吟是篇名，不是朋友姓名。"
+      },
+      {
+        "id": "b",
+        "text": "以梁甫吟計算日落的精確時刻",
+        "explanation": "典故不提供鐘點，也非天文計算。"
+      },
+      {
+        "id": "c",
+        "text": "聯想到諸葛亮未遇時，寄託報國而未能施展的感慨",
+        "explanation": "有來歷的篇名融入詩句，借人物背景表達自身志向與處境。"
+      },
+      {
+        "id": "d",
+        "text": "只是在報告當天所讀書籍清單",
+        "explanation": "忽略典故背景與自身抱負的關聯。"
+      }
+    ],
+    "answerId": "c",
+    "explanation": "有來歷的篇名融入詩句，借人物背景表達自身志向與處境。",
+    "source": {
+      "title": "文言詩詞・十六篇復習書｜手法附錄",
+      "section": "修辭｜語氣與引述",
+      "jsonFile": "appendix-content.json",
+      "blockPath": "$appendix.sections[2].rows[3]",
+      "anchor": "把古書故事、人物事跡或有來歷的詞語融入文句，通常不直接交代完整故事。",
+      "pdfPage": 245,
+      "printedPage": "附錄4",
+      "pdfUrl": "/content/sources/revision-book.pdf",
+      "version": "2026-09-14",
+      "relatedSources": [
+        {
+          "title": "登樓",
+          "jsonFile": "student-content.json",
+          "blockPath": "$[12].pages[2].blocks[0]",
+          "quote": "日暮聊為梁甫吟",
+          "anchor": "日暮聊為梁甫吟",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14"
+        }
+      ]
+    },
+    "status": "reviewed",
+    "active": true,
+    "summary": "聯想到諸葛亮未遇時，寄託報國而未能施展的感慨",
+    "misconception": "忽略典故背景與自身抱負的關聯。",
+    "difficulty": "foundation",
+    "tags": [
+      "appendix"
+    ],
+    "review": {
+      "method": "source-aligned-agent-review",
+      "reviewedAt": "2026-09-19",
+      "officialExamQuestion": false,
+      "sourceEvidence": {
+        "appendixRow": [
+          "用典",
+          "把古書故事、人物事跡或有來歷的詞語融入文句，通常不直接交代完整故事。\n作用：以少總多，含蓄寄託感情、處境或志向，增添歷史文化聯想。",
+          "『梁甫吟』借諸葛亮典故寄託報國志向。"
+        ],
+        "originalSources": [
+          {
+            "title": "登樓",
+            "jsonFile": "student-content.json",
+            "blockPath": "$[12].pages[2].blocks[0]",
+            "quote": "日暮聊為梁甫吟",
+            "anchor": "日暮聊為梁甫吟",
+            "pdfPage": 206,
+            "printedPage": 202,
+            "pdfUrl": "/content/sources/revision-book.pdf",
+            "version": "2026-09-14"
+          }
+        ]
+      },
+      "checks": [
+        "actual-PDF-anchor-and-footer",
+        "definition-applied-to-specific-angle",
+        "four-distinct-options",
+        "one-keyed-answer",
+        "targeted-distractor-reasons"
+      ],
+      "scope": "依指定本地復習書編寫，非官方真題；同一句兼有其他手法時不判其錯。"
+    }
+  },
+  {
+    "id": "q-appendix-003",
+    "version": 1,
+    "memoryId": "m-e12-exp-008",
+    "essayIds": [
+      "essay-12"
+    ],
+    "ability": "technique",
+    "quote": "我歌月徘徊，我舞影零亂",
+    "target": "擬人",
+    "stem": "若着眼於把月、影寫成歌舞同伴，哪項分析準確？",
+    "choices": [
+      {
+        "id": "a",
+        "text": "只用精確數字計算歌舞步數",
+        "explanation": "詩句無步數統計，重點是想像陪伴。"
+      },
+      {
+        "id": "b",
+        "text": "賦予月影陪伴人的角色，使獨酌在想像中熱鬧起來",
+        "explanation": "比擬中的擬人讓無生命的月影仿如有意回應歌舞；仍非真有知己到場。"
+      },
+      {
+        "id": "c",
+        "text": "證明月影真的具有人的意識",
+        "explanation": "擬人是修辭想像，不能當自然科學事實。"
+      },
+      {
+        "id": "d",
+        "text": "借月影代稱兩位已到場朋友",
+        "explanation": "文本是詩人與月影，並非代指真實到場者。"
+      }
+    ],
+    "answerId": "b",
+    "explanation": "比擬中的擬人讓無生命的月影仿如有意回應歌舞；仍非真有知己到場。",
+    "source": {
+      "title": "文言詩詞・十六篇復習書｜手法附錄",
+      "section": "修辭｜形象與聯想",
+      "jsonFile": "appendix-content.json",
+      "blockPath": "$appendix.sections[0].rows[1]",
+      "anchor": "借助想像，把物當人、把人當物，或把甲物當乙物。",
+      "pdfPage": 243,
+      "printedPage": "附錄2",
+      "pdfUrl": "/content/sources/revision-book.pdf",
+      "version": "2026-09-14",
+      "relatedSources": [
+        {
+          "title": "月下獨酌",
+          "jsonFile": "student-content.json",
+          "blockPath": "$[11].pages[2].blocks[0]",
+          "quote": "我歌月徘徊，我舞影零亂",
+          "anchor": "我歌月徘徊，我舞影零亂",
+          "pdfPage": 197,
+          "printedPage": 193,
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14"
+        }
+      ]
+    },
+    "status": "reviewed",
+    "active": true,
+    "summary": "賦予月影陪伴人的角色，使獨酌在想像中熱鬧起來",
+    "misconception": "擬人是修辭想像，不能當自然科學事實。",
+    "difficulty": "foundation",
+    "tags": [
+      "appendix"
+    ],
+    "review": {
+      "method": "source-aligned-agent-review",
+      "reviewedAt": "2026-09-19",
+      "officialExamQuestion": false,
+      "sourceEvidence": {
+        "appendixRow": [
+          "比擬",
+          "借助想像，把物當人、把人當物，或把甲物當乙物。\n擬人：賦予物人的行動、言語、思想感情。\n擬物：把人當物，賦予物的特性或行為；也可把甲物當乙物。\n作用：突出形象或性格，令描寫生動，寄託感情；要說明被賦予甚麼特徵。",
+          "擬人：「成羣的白鷺鷥在凝神養氣，誰也不叫一聲。」（梁容若《我看大明湖》）\n擬物：「十指在翻飛疾走，把驟雨潑落窗格和浮萍。」把十指當鳥和獸來寫。（黃國彬《聽陳蕾士的琴箏》）\n「月徘徊、影零亂」也把月、影人格化。"
+        ],
+        "originalSources": [
+          {
+            "title": "月下獨酌",
+            "jsonFile": "student-content.json",
+            "blockPath": "$[11].pages[2].blocks[0]",
+            "quote": "我歌月徘徊，我舞影零亂",
+            "anchor": "我歌月徘徊，我舞影零亂",
+            "pdfPage": 197,
+            "printedPage": 193,
+            "pdfUrl": "/content/sources/revision-book.pdf",
+            "version": "2026-09-14"
+          }
+        ]
+      },
+      "checks": [
+        "actual-PDF-anchor-and-footer",
+        "definition-applied-to-specific-angle",
+        "four-distinct-options",
+        "one-keyed-answer",
+        "targeted-distractor-reasons"
+      ],
+      "scope": "依指定本地復習書編寫，非官方真題；同一句兼有其他手法時不判其錯。",
+      "variantOf": "q-e12-exp-008"
+    }
+  },
+  {
+    "id": "q-appendix-004",
+    "version": 1,
+    "memoryId": "m-appendix-004",
+    "essayIds": [
+      "essay-13"
+    ],
+    "ability": "technique",
+    "quote": "北極朝廷終不改",
+    "target": "比喻與借代",
+    "stem": "把朝廷比作北極星，是根據哪種關係？",
+    "choices": [
+      {
+        "id": "a",
+        "text": "以穩定性相似建立比喻",
+        "explanation": "北極星的穩定與朝廷不改相聯，是相似關係；借代則重在關聯替代。"
+      },
+      {
+        "id": "b",
+        "text": "因朝廷真的位在北極星上",
+        "explanation": "修辭的相似不能當實際位置。"
+      },
+      {
+        "id": "c",
+        "text": "因北極星是朝廷官員的一部分",
+        "explanation": "兩者非部分與全體關係。"
+      },
+      {
+        "id": "d",
+        "text": "因北極與朝廷兩詞讀音相同",
+        "explanation": "並非諧音關係，不是諧音雙關。"
+      }
+    ],
+    "answerId": "a",
+    "explanation": "北極星的穩定與朝廷不改相聯，是相似關係；借代則重在關聯替代。",
+    "source": {
+      "title": "文言詩詞・十六篇復習書｜手法附錄",
+      "section": "修辭與結構｜易混淆速查",
+      "jsonFile": "appendix-content.json",
+      "blockPath": "$appendix.sections[5].rows[0]",
+      "anchor": "相似關係 vs 關聯替代",
+      "pdfPage": 248,
+      "printedPage": "附錄7",
+      "pdfUrl": "/content/sources/revision-book.pdf",
+      "version": "2026-09-14",
+      "relatedSources": [
+        {
+          "title": "登樓",
+          "jsonFile": "student-content.json",
+          "blockPath": "$[12].pages[2].blocks[0]",
+          "quote": "北極朝廷終不改",
+          "anchor": "北極朝廷終不改",
+          "pdfPage": 206,
+          "printedPage": 202,
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14"
+        }
+      ]
+    },
+    "status": "reviewed",
+    "active": true,
+    "summary": "以穩定性相似建立比喻",
+    "misconception": "修辭的相似不能當實際位置。",
+    "difficulty": "foundation",
+    "tags": [
+      "appendix"
+    ],
+    "review": {
+      "method": "source-aligned-agent-review",
+      "reviewedAt": "2026-09-19",
+      "officialExamQuestion": false,
+      "sourceEvidence": {
+        "appendixRow": [
+          "比喻 vs 借代",
+          "相似關係 vs 關聯替代",
+          "『北極』若把朝廷比作北極星，是借喻；『紅領巾』代學生，是借代。"
+        ],
+        "originalSources": [
+          {
+            "title": "登樓",
+            "jsonFile": "student-content.json",
+            "blockPath": "$[12].pages[2].blocks[0]",
+            "quote": "北極朝廷終不改",
+            "anchor": "北極朝廷終不改",
+            "pdfPage": 206,
+            "printedPage": 202,
+            "pdfUrl": "/content/sources/revision-book.pdf",
+            "version": "2026-09-14"
+          }
+        ]
+      },
+      "checks": [
+        "actual-PDF-anchor-and-footer",
+        "definition-applied-to-specific-angle",
+        "four-distinct-options",
+        "one-keyed-answer",
+        "targeted-distractor-reasons"
+      ],
+      "scope": "依指定本地復習書編寫，非官方真題；同一句兼有其他手法時不判其錯。"
+    }
+  },
+  {
+    "id": "q-appendix-005",
+    "version": 1,
+    "memoryId": "m-appendix-005",
+    "essayIds": [
+      "essay-15"
+    ],
+    "ability": "technique",
+    "quote": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚",
+    "target": "疊字與反復",
+    "stem": "只看相同字緊接重疊的語音形式，最直接的分析是甚麼？",
+    "choices": [
+      {
+        "id": "a",
+        "text": "必須整段隔很遠重出才算這種形式",
+        "explanation": "這是間隔反復的描述，不是本題直接重疊形式。"
+      },
+      {
+        "id": "b",
+        "text": "不同字只要字形相近便構成疊字",
+        "explanation": "疊字要求相同字重疊，非外形近似。"
+      },
+      {
+        "id": "c",
+        "text": "只要句尾押韻就是疊字",
+        "explanation": "押韻是韻母關係，不等於字詞直接重疊。"
+      },
+      {
+        "id": "d",
+        "text": "以七組疊字加強聲情與節奏",
+        "explanation": "尋尋等字直接相疊，先從疊字形態分析；全句仍可另從層遞等角度分析。"
+      }
+    ],
+    "answerId": "d",
+    "explanation": "尋尋等字直接相疊，先從疊字形態分析；全句仍可另從層遞等角度分析。",
+    "source": {
+      "title": "文言詩詞・十六篇復習書｜手法附錄",
+      "section": "修辭與結構｜易混淆速查",
+      "jsonFile": "appendix-content.json",
+      "blockPath": "$appendix.sections[5].rows[5]",
+      "anchor": "字詞重疊形成語音形態 vs 為強調而讓語句再現",
+      "pdfPage": 248,
+      "printedPage": "附錄7",
+      "pdfUrl": "/content/sources/revision-book.pdf",
+      "version": "2026-09-14",
+      "relatedSources": [
+        {
+          "title": "聲聲慢・秋情",
+          "jsonFile": "student-content.json",
+          "blockPath": "$[14].pages[1].blocks[0]",
+          "quote": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚",
+          "anchor": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚",
+          "pdfPage": 225,
+          "printedPage": 221,
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14"
+        }
+      ]
+    },
+    "status": "reviewed",
+    "active": true,
+    "summary": "以七組疊字加強聲情與節奏",
+    "misconception": "這是間隔反復的描述，不是本題直接重疊形式。",
+    "difficulty": "foundation",
+    "tags": [
+      "appendix"
+    ],
+    "review": {
+      "method": "source-aligned-agent-review",
+      "reviewedAt": "2026-09-19",
+      "officialExamQuestion": false,
+      "sourceEvidence": {
+        "appendixRow": [
+          "疊字 vs 反復",
+          "字詞重疊形成語音形態 vs 為強調而讓語句再現",
+          "『尋尋覓覓』偏疊詞；整句隔段再出現偏反復。"
+        ],
+        "originalSources": [
+          {
+            "title": "聲聲慢・秋情",
+            "jsonFile": "student-content.json",
+            "blockPath": "$[14].pages[1].blocks[0]",
+            "quote": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚",
+            "anchor": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚",
+            "pdfPage": 225,
+            "printedPage": 221,
+            "pdfUrl": "/content/sources/revision-book.pdf",
+            "version": "2026-09-14"
+          }
+        ]
+      },
+      "checks": [
+        "actual-PDF-anchor-and-footer",
+        "definition-applied-to-specific-angle",
+        "four-distinct-options",
+        "one-keyed-answer",
+        "targeted-distractor-reasons"
+      ],
+      "scope": "依指定本地復習書編寫，非官方真題；同一句兼有其他手法時不判其錯。"
+    }
+  },
+  {
+    "id": "q-appendix-006",
+    "version": 1,
+    "memoryId": "m-appendix-006",
+    "essayIds": [
+      "essay-10"
+    ],
+    "ability": "technique",
+    "quote": "弊在賂秦。賂秦而力虧",
+    "target": "頂真",
+    "stem": "前句末「賂秦」接成後句開頭，怎樣加強行文？",
+    "choices": [
+      {
+        "id": "a",
+        "text": "倒轉歷史年代，形成倒敘",
+        "explanation": "字詞銜接不是時間先後的倒置。"
+      },
+      {
+        "id": "b",
+        "text": "換用同音詞暗示另一意思",
+        "explanation": "重複的是同一詞，非諧音雙關。"
+      },
+      {
+        "id": "c",
+        "text": "首尾相接，把敗因緊連到國力耗損的結果",
+        "explanation": "頂真用前末後首相連，使論點與解釋環環相扣。"
+      },
+      {
+        "id": "d",
+        "text": "故意切斷前後句的意思關係",
+        "explanation": "重出賂秦正為連接，不是割裂。"
+      }
+    ],
+    "answerId": "c",
+    "explanation": "頂真用前末後首相連，使論點與解釋環環相扣。",
+    "source": {
+      "title": "文言詩詞・十六篇復習書｜手法附錄",
+      "section": "修辭｜句式與推進",
+      "jsonFile": "appendix-content.json",
+      "blockPath": "$appendix.sections[3].rows[4]",
+      "anchor": "以上句末字／詞語作下句開頭，或以前段末句作後段首句，上遞下接，使前後首尾相連。",
+      "pdfPage": 246,
+      "printedPage": "附錄5",
+      "pdfUrl": "/content/sources/revision-book.pdf",
+      "version": "2026-09-14",
+      "relatedSources": [
+        {
+          "title": "六國論",
+          "jsonFile": "student-content.json",
+          "blockPath": "$[9].pages[1].blocks[0]",
+          "quote": "弊在賂秦。賂秦而力虧",
+          "anchor": "弊在賂秦。賂秦而力虧",
+          "pdfPage": 171,
+          "printedPage": 167,
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14"
+        }
+      ]
+    },
+    "status": "reviewed",
+    "active": true,
+    "summary": "首尾相接，把敗因緊連到國力耗損的結果",
+    "misconception": "重出賂秦正為連接，不是割裂。",
+    "difficulty": "foundation",
+    "tags": [
+      "appendix"
+    ],
+    "review": {
+      "method": "source-aligned-agent-review",
+      "reviewedAt": "2026-09-19",
+      "officialExamQuestion": false,
+      "sourceEvidence": {
+        "appendixRow": [
+          "頂真（頂針／聯珠）",
+          "以上句末字／詞語作下句開頭，或以前段末句作後段首句，上遞下接，使前後首尾相連。\n作用：語氣連貫，意思環環相扣，音律流暢。",
+          "「將軍百戰死，壯士十年歸。歸來見天子，天子坐明堂。」（《木蘭辭》）「歸／歸來」「天子／天子」接續。"
+        ],
+        "originalSources": [
+          {
+            "title": "六國論",
+            "jsonFile": "student-content.json",
+            "blockPath": "$[9].pages[1].blocks[0]",
+            "quote": "弊在賂秦。賂秦而力虧",
+            "anchor": "弊在賂秦。賂秦而力虧",
+            "pdfPage": 171,
+            "printedPage": 167,
+            "pdfUrl": "/content/sources/revision-book.pdf",
+            "version": "2026-09-14"
+          }
+        ]
+      },
+      "checks": [
+        "actual-PDF-anchor-and-footer",
+        "definition-applied-to-specific-angle",
+        "four-distinct-options",
+        "one-keyed-answer",
+        "targeted-distractor-reasons"
+      ],
+      "scope": "依指定本地復習書編寫，非官方真題；同一句兼有其他手法時不判其錯。"
+    }
+  },
+  {
+    "id": "q-appendix-007",
+    "version": 1,
+    "memoryId": "m-appendix-007",
+    "essayIds": [
+      "essay-08"
+    ],
+    "ability": "technique",
+    "quote": "悠悠乎與顥氣俱，而莫得其涯；洋洋乎與造物者遊，而不知其所窮",
+    "target": "對偶",
+    "stem": "從兩組句式的相應結構看，怎樣分析最貼切？",
+    "choices": [
+      {
+        "id": "a",
+        "text": "凡用了對偶就不能同時有疊詞",
+        "explanation": "手法可並存，兩種分類着眼不同。"
+      },
+      {
+        "id": "b",
+        "text": "相稱句式形成對偶，舒展語勢配合廣闊悠遠的境界",
+        "explanation": "悠悠與洋洋、與顥氣俱與與造物者遊等相應；對偶角度不排斥同時有疊詞。"
+      },
+      {
+        "id": "c",
+        "text": "兩句各自提出問題，等待讀者回答",
+        "explanation": "原句是陳述感受，非設問。"
+      },
+      {
+        "id": "d",
+        "text": "只有字音完全相同才可成立對偶",
+        "explanation": "對偶看字數及結構相應，不要求每字同音。"
+      }
+    ],
+    "answerId": "b",
+    "explanation": "悠悠與洋洋、與顥氣俱與與造物者遊等相應；對偶角度不排斥同時有疊詞。",
+    "source": {
+      "title": "文言詩詞・十六篇復習書｜手法附錄",
+      "section": "修辭｜句式與推進",
+      "jsonFile": "appendix-content.json",
+      "blockPath": "$appendix.sections[3].rows[0]",
+      "anchor": "把字數相等、結構相同或基本相同、意思密切相關的兩個短語或句子對稱排列。可分單句對偶、複句對偶；意思可相對或相反。",
+      "pdfPage": 246,
+      "printedPage": "附錄5",
+      "pdfUrl": "/content/sources/revision-book.pdf",
+      "version": "2026-09-14",
+      "relatedSources": [
+        {
+          "title": "始得西山宴遊記",
+          "jsonFile": "student-content.json",
+          "blockPath": "$[7].pages[4].blocks[0]",
+          "quote": "悠悠乎與顥氣俱，而莫得其涯；洋洋乎與造物者遊，而不知其所窮",
+          "anchor": "悠悠乎與顥氣俱，而莫得其涯；洋洋乎與造物者遊，而不知其所窮",
+          "pdfPage": 140,
+          "printedPage": 136,
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14"
+        }
+      ]
+    },
+    "status": "reviewed",
+    "active": true,
+    "summary": "相稱句式形成對偶，舒展語勢配合廣闊悠遠的境界",
+    "misconception": "原句是陳述感受，非設問。",
+    "difficulty": "foundation",
+    "tags": [
+      "appendix"
+    ],
+    "review": {
+      "method": "source-aligned-agent-review",
+      "reviewedAt": "2026-09-19",
+      "officialExamQuestion": false,
+      "sourceEvidence": {
+        "appendixRow": [
+          "對偶",
+          "把字數相等、結構相同或基本相同、意思密切相關的兩個短語或句子對稱排列。可分單句對偶、複句對偶；意思可相對或相反。\n作用：句式整齊勻稱，音律和諧，增強節奏，也可形成對照。",
+          "「浮雲遊子意，落日故人情。」（李白《送友人》）兩句各五字，結構相應。"
+        ],
+        "originalSources": [
+          {
+            "title": "始得西山宴遊記",
+            "jsonFile": "student-content.json",
+            "blockPath": "$[7].pages[4].blocks[0]",
+            "quote": "悠悠乎與顥氣俱，而莫得其涯；洋洋乎與造物者遊，而不知其所窮",
+            "anchor": "悠悠乎與顥氣俱，而莫得其涯；洋洋乎與造物者遊，而不知其所窮",
+            "pdfPage": 140,
+            "printedPage": 136,
+            "pdfUrl": "/content/sources/revision-book.pdf",
+            "version": "2026-09-14"
+          }
+        ]
+      },
+      "checks": [
+        "actual-PDF-anchor-and-footer",
+        "definition-applied-to-specific-angle",
+        "four-distinct-options",
+        "one-keyed-answer",
+        "targeted-distractor-reasons"
+      ],
+      "scope": "依指定本地復習書編寫，非官方真題；同一句兼有其他手法時不判其錯。"
+    }
+  },
+  {
+    "id": "q-appendix-008",
+    "version": 1,
+    "memoryId": "m-appendix-008",
+    "essayIds": [
+      "essay-10"
+    ],
+    "ability": "technique",
+    "quote": "或曰：「六國互喪，率賂秦耶？」曰：「不賂者以賂者喪。」",
+    "target": "設問",
+    "stem": "從提出疑問後立即作答的安排看，有何論證作用？",
+    "choices": [
+      {
+        "id": "a",
+        "text": "預先提出反對疑問，再補明不賂者同樣敗亡的原因",
+        "explanation": "設問引起思考，以自答補足總論，使論證更周密。"
+      },
+      {
+        "id": "b",
+        "text": "只問不答，全文刻意留下原因不明",
+        "explanation": "原文明有曰而自答。"
+      },
+      {
+        "id": "c",
+        "text": "承認六國都不曾賂秦，推翻中心論點",
+        "explanation": "問題並非自答的結論；作者仍維持弊在賂秦。"
+      },
+      {
+        "id": "d",
+        "text": "主要模擬秦趙戰場的吶喊聲",
+        "explanation": "此為議論問答，非場面聲音描寫。"
+      }
+    ],
+    "answerId": "a",
+    "explanation": "設問引起思考，以自答補足總論，使論證更周密。",
+    "source": {
+      "title": "文言詩詞・十六篇復習書｜手法附錄",
+      "section": "修辭｜語氣與引述",
+      "jsonFile": "appendix-content.json",
+      "blockPath": "$appendix.sections[2].rows[0]",
+      "anchor": "故意設置問題，引起注意、帶動思考；可自問自答、留待下文回答，也可提出問題而不予確定答案。",
+      "pdfPage": 245,
+      "printedPage": "附錄4",
+      "pdfUrl": "/content/sources/revision-book.pdf",
+      "version": "2026-09-14",
+      "relatedSources": [
+        {
+          "title": "六國論",
+          "jsonFile": "student-content.json",
+          "blockPath": "$[9].pages[1].blocks[0]",
+          "quote": "或曰：「六國互喪，率賂秦耶？」曰：「不賂者以賂者喪。」",
+          "anchor": "或曰：「六國互喪，率賂秦耶？」曰：「不賂者以賂者喪。」",
+          "pdfPage": 171,
+          "printedPage": 167,
+          "pdfUrl": "/content/sources/revision-book.pdf",
+          "version": "2026-09-14"
+        }
+      ]
+    },
+    "status": "reviewed",
+    "active": true,
+    "summary": "預先提出反對疑問，再補明不賂者同樣敗亡的原因",
+    "misconception": "原文明有曰而自答。",
+    "difficulty": "foundation",
+    "tags": [
+      "appendix"
+    ],
+    "review": {
+      "method": "source-aligned-agent-review",
+      "reviewedAt": "2026-09-19",
+      "officialExamQuestion": false,
+      "sourceEvidence": {
+        "appendixRow": [
+          "設問",
+          "故意設置問題，引起注意、帶動思考；可自問自答、留待下文回答，也可提出問題而不予確定答案。\n作用：引起注意、啟發思考、帶出下文或轉換層次。",
+          "「怎樣才能把一種勞作做到圓滿呢？惟一的祕訣就是忠實……」（梁啟超《敬業與樂業》）屬自問自答。"
+        ],
+        "originalSources": [
+          {
+            "title": "六國論",
+            "jsonFile": "student-content.json",
+            "blockPath": "$[9].pages[1].blocks[0]",
+            "quote": "或曰：「六國互喪，率賂秦耶？」曰：「不賂者以賂者喪。」",
+            "anchor": "或曰：「六國互喪，率賂秦耶？」曰：「不賂者以賂者喪。」",
+            "pdfPage": 171,
+            "printedPage": 167,
+            "pdfUrl": "/content/sources/revision-book.pdf",
+            "version": "2026-09-14"
+          }
+        ]
+      },
+      "checks": [
+        "actual-PDF-anchor-and-footer",
+        "definition-applied-to-specific-angle",
+        "four-distinct-options",
+        "one-keyed-answer",
+        "targeted-distractor-reasons"
+      ],
+      "scope": "依指定本地復習書編寫，非官方真題；同一句兼有其他手法時不判其錯。"
+    }
+  }
+]

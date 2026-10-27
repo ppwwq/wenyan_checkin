@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-11",
+  "uiVersion": "2026.10.11.4",
+  "bankVersion": "2026.10.11.1",
+  "workerVersion": "6233aaea-3f42-424f-a5cc-0c837f70e243",
+  "origin": "https://chinese-a-study.philipwwq.workers.dev",
+  "questions": 2161,
+  "matchingAssets": 41,
+  "checks": 7,
+  "sourceTests": 103,
+  "publishCopyTests": 103,
+  "databaseMigration": false,
+  "productionAccountWrites": false,
+  "git": {
+    "remote": "https://github.com/ppwwq/wenyan_checkin.git",
+    "branch": "main",
+    "head": "a779502b6f08597c0e7bdf573d4c54076fd68226",
+    "stagedFiles": 0,
+    "commitCreated": true,
+    "pushed": true,
+    "status": "PASS: user explicitly approved public payload, repository and main branch; push and independent ls-remote verification succeeded.",
+    "remoteHead": "a779502b6f08597c0e7bdf573d4c54076fd68226",
+    "committedFiles": 25,
+    "verifiedAt": "2026-10-11T04:32:03.662Z"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "result": "PASS",
-  "version": "2026.10.11.1",
-  "questions": 2161,
+  "version": "2026.10.25.school.1-dev",
+  "questions": 2195,
   "previousQuestions": 218,
   "revisions": [
     {
@@ -12,14 +12,14 @@
       "localAffectedAttemptsAtReview": 0
     }
   ],
-  "newQuestions": 1943,
-  "memoryUnits": 2111,
+  "newQuestions": 1977,
+  "memoryUnits": 2145,
   "comparisons": 11,
   "abilities": {
-    "vocabulary": 1070,
-    "theme": 304,
-    "meaning": 343,
-    "technique": 444
+    "vocabulary": 1080,
+    "theme": 306,
+    "meaning": 354,
+    "technique": 455
   },
   "sourceInventory": {
     "band": 44,
@@ -46,11 +46,11 @@
       "id": "essay-01",
       "title": "論仁、論孝、論君子",
       "kind": "prose",
-      "questions": 269,
+      "questions": 273,
       "abilities": {
-        "vocabulary": 113,
+        "vocabulary": 116,
         "theme": 53,
-        "meaning": 75,
+        "meaning": 76,
         "technique": 28
       },
       "sourceItems": 342,
@@ -64,10 +64,10 @@
       "id": "essay-02",
       "title": "魚我所欲也",
       "kind": "prose",
-      "questions": 75,
+      "questions": 77,
       "abilities": {
-        "vocabulary": 49,
-        "meaning": 10,
+        "vocabulary": 50,
+        "meaning": 11,
         "theme": 4,
         "technique": 12
       },
@@ -82,10 +82,10 @@
       "id": "essay-03",
       "title": "勸學",
       "kind": "prose",
-      "questions": 112,
+      "questions": 114,
       "abilities": {
-        "vocabulary": 84,
-        "meaning": 10,
+        "vocabulary": 85,
+        "meaning": 11,
         "theme": 1,
         "technique": 17
       },
@@ -99,9 +99,9 @@
       "id": "essay-04",
       "title": "逍遙遊",
       "kind": "prose",
-      "questions": 103,
+      "questions": 105,
       "abilities": {
-        "vocabulary": 75,
+        "vocabulary": 77,
         "meaning": 13,
         "theme": 6,
         "technique": 9
@@ -117,12 +117,12 @@
       "id": "essay-05",
       "title": "廉頗藺相如列傳",
       "kind": "prose",
-      "questions": 234,
+      "questions": 244,
       "abilities": {
-        "vocabulary": 166,
-        "meaning": 27,
+        "vocabulary": 170,
+        "meaning": 32,
         "theme": 27,
-        "technique": 14
+        "technique": 15
       },
       "sourceItems": 298,
       "coverageStatus": {
@@ -134,12 +134,12 @@
       "id": "essay-06",
       "title": "出師表",
       "kind": "prose",
-      "questions": 184,
+      "questions": 189,
       "abilities": {
-        "vocabulary": 142,
+        "vocabulary": 144,
         "meaning": 14,
         "theme": 9,
-        "technique": 19
+        "technique": 22
       },
       "sourceItems": 254,
       "coverageStatus": {
@@ -152,9 +152,9 @@
       "id": "essay-07",
       "title": "師說",
       "kind": "prose",
-      "questions": 118,
+      "questions": 120,
       "abilities": {
-        "vocabulary": 66,
+        "vocabulary": 68,
         "meaning": 23,
         "theme": 13,
         "technique": 16
@@ -169,12 +169,12 @@
       "id": "essay-08",
       "title": "始得西山宴遊記",
       "kind": "prose",
-      "questions": 140,
+      "questions": 143,
       "abilities": {
-        "vocabulary": 94,
-        "meaning": 10,
+        "vocabulary": 95,
+        "meaning": 11,
         "theme": 20,
-        "technique": 16
+        "technique": 17
       },
       "sourceItems": 199,
       "coverageStatus": {
@@ -186,12 +186,12 @@
       "id": "essay-09",
       "title": "岳陽樓記",
       "kind": "prose",
-      "questions": 168,
+      "questions": 176,
       "abilities": {
-        "vocabulary": 61,
+        "vocabulary": 64,
         "theme": 31,
-        "meaning": 51,
-        "technique": 25
+        "meaning": 54,
+        "technique": 27
       },
       "sourceItems": 209,
       "coverageStatus": {
@@ -203,12 +203,12 @@
       "id": "essay-10",
       "title": "六國論",
       "kind": "prose",
-      "questions": 165,
+      "questions": 169,
       "abilities": {
-        "vocabulary": 124,
+        "vocabulary": 127,
         "meaning": 12,
         "theme": 1,
-        "technique": 28
+        "technique": 29
       },
       "sourceItems": 210,
       "coverageStatus": {
@@ -221,12 +221,12 @@
       "id": "essay-11",
       "title": "山居秋暝",
       "kind": "poem",
-      "questions": 65,
+      "questions": 68,
       "abilities": {
         "vocabulary": 15,
         "theme": 21,
-        "technique": 24,
-        "meaning": 5
+        "technique": 25,
+        "meaning": 7
       },
       "sourceItems": 62,
       "coverageStatus": {
@@ -238,12 +238,12 @@
       "id": "essay-12",
       "title": "月下獨酌",
       "kind": "poem",
-      "questions": 81,
+      "questions": 85,
       "abilities": {
         "vocabulary": 17,
         "meaning": 20,
-        "theme": 25,
-        "technique": 19
+        "theme": 27,
+        "technique": 21
       },
       "sourceItems": 89,
       "coverageStatus": {
@@ -255,10 +255,10 @@
       "id": "essay-13",
       "title": "登樓",
       "kind": "poem",
-      "questions": 76,
+      "questions": 77,
       "abilities": {
         "vocabulary": 18,
-        "meaning": 18,
+        "meaning": 19,
         "theme": 20,
         "technique": 20
       },
@@ -272,12 +272,12 @@
       "id": "essay-14",
       "title": "念奴嬌・赤壁懷古",
       "kind": "poem",
-      "questions": 84,
+      "questions": 85,
       "abilities": {
         "vocabulary": 20,
         "meaning": 17,
         "theme": 35,
-        "technique": 12
+        "technique": 13
       },
       "sourceItems": 96,
       "coverageStatus": {
@@ -306,12 +306,12 @@
       "id": "essay-16",
       "title": "青玉案・元夕",
       "kind": "poem",
-      "questions": 86,
+      "questions": 87,
       "abilities": {
         "vocabulary": 18,
         "meaning": 25,
         "theme": 26,
-        "technique": 17
+        "technique": 18
       },
       "sourceItems": 94,
       "coverageStatus": {
@@ -1673,6 +1673,16 @@
       "source-aligned-agent-review": 135
     },
     "scope": "各篇全題作者修訂；跨篇題按篇章可再次更新，uniqueQuestions去重。非獨立盲審、教師審定或學生實測。"
+  },
+  "selfStudyReview": {
+    "version": "2026.10.24.1",
+    "reviewedQuestions": 2010,
+    "revisedQuestions": 642,
+    "scope": "十二組指定篇章／網站16單元",
+    "originalExamItemsPreserved": 27,
+    "teacherReview": "not-run",
+    "studentTrial": "not-run",
+    "method": "逐題內容及當前學習語境檢查；匹配的既有來源定位可復用；非獨立盲審。"
   },
   "choiceUpdate": {
     "version": "2026.10.11.1",

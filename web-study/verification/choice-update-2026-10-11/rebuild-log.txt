@@ -1,0 +1,3 @@
+{"result": "PASS", "questions": 2134, "newQuestions": 1916, "sourceItems": 2854, "mappedSourceItems": 2854, "coverageStatus": {"covered": 2697, "excluded": 141, "disputed": 16}}
+Errors: 0 Warnings: 0
+Published local bank: 2161 questions including 27 original DSE choice items; previous question IDs and snapshots preserved.

@@ -1,0 +1,11 @@
+{
+  "result": "PASS",
+  "checks": [
+    "日常設定可開關；預設選擇題；雙向切換及重載恢復各自草稿；無獨立入口",
+    "提交後自查、跨瀏覽器同步、關閉打字後仍保留待自查答案；錯題回練及暫時不會；不重複計進度；備份通過",
+    "打字跳過不計作答；補新題；暫停重載保留草稿；補答跳過題沿用打字和原草稿",
+    "新開始的每日題組套用打字；普通自選選擇題及來源題格式維持；390／768px無橫向溢出"
+  ],
+  "errors": [],
+  "scope": "Local in-memory SQLite and isolated Chromium accounts; no production changes or real-device acceptance."
+}

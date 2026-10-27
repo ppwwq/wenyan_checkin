@@ -1,0 +1,798 @@
+{
+  "bankVersion": "2026.10.11.1",
+  "bankSha256": "28da4827469740cf77f5c206de70998a8d2b10bb206c27bd900390a931924f07",
+  "totalQuestions": 2161,
+  "activeVocabulary": 1070,
+  "legacyTypingVocabulary": 56,
+  "sharedWithChoice": 56,
+  "standaloneTyping": 0,
+  "otherSameMemory": 0,
+  "otherSameContextCandidates": 0,
+  "definition": "Existing mixed-mode vocabulary compatibility (not single-choice, not original DSE). Compare IDs, memory IDs, and exact word/context/chapters; semantic review is separate.",
+  "rows": [
+    {
+      "id": "pilot-01-03-04",
+      "memoryId": "pilot-01-03-04",
+      "essayIds": [
+        "essay-01"
+      ],
+      "target": "一日",
+      "stem": "原句中「一日」在這裏最準確的意思是甚麼？",
+      "choiceIds": [
+        "pilot-01-03-04"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "pilot-01-03-05",
+      "memoryId": "pilot-01-03-05",
+      "essayIds": [
+        "essay-01"
+      ],
+      "target": "歸",
+      "stem": "依本題所用復習書的解釋，「天下歸仁焉」的「歸」應怎樣理解？",
+      "choiceIds": [
+        "pilot-01-03-05"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "pilot-01-03-09",
+      "memoryId": "pilot-01-03-09",
+      "essayIds": [
+        "essay-01"
+      ],
+      "target": "目",
+      "stem": "原句中「目」在這裏最準確的意思是甚麼？",
+      "choiceIds": [
+        "pilot-01-03-09"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "pilot-01-05-02",
+      "memoryId": "pilot-01-05-02",
+      "essayIds": [
+        "essay-01"
+      ],
+      "target": "御",
+      "stem": "原句中「御」在這裏最準確的意思是甚麼？",
+      "choiceIds": [
+        "pilot-01-05-02"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "pilot-01-07-07",
+      "memoryId": "pilot-01-07-07",
+      "essayIds": [
+        "essay-01"
+      ],
+      "target": "勞",
+      "stem": "原句中「勞」在這裏最準確的意思是甚麼？",
+      "choiceIds": [
+        "pilot-01-07-07"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "pilot-01-09-01",
+      "memoryId": "pilot-01-09-01",
+      "essayIds": [
+        "essay-01"
+      ],
+      "target": "重",
+      "stem": "原句中「重」在這裏最準確的意思是甚麼？",
+      "choiceIds": [
+        "pilot-01-09-01"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "pilot-01-11-04",
+      "memoryId": "pilot-01-11-04",
+      "essayIds": [
+        "essay-01"
+      ],
+      "target": "疚",
+      "stem": "原句中「疚」在這裏最準確的意思是甚麼？",
+      "choiceIds": [
+        "pilot-01-11-04"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "pilot-01-12-02",
+      "memoryId": "pilot-01-12-02",
+      "essayIds": [
+        "essay-01"
+      ],
+      "target": "美",
+      "stem": "原句中「美」在這裏最準確的意思是甚麼？",
+      "choiceIds": [
+        "pilot-01-12-02"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "pilot-01-13-03",
+      "memoryId": "pilot-01-13-03",
+      "essayIds": [
+        "essay-01"
+      ],
+      "target": "過",
+      "stem": "原句中「過」在這裏最準確的意思是甚麼？",
+      "choiceIds": [
+        "pilot-01-13-03"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "pilot-01-14-02",
+      "memoryId": "pilot-01-14-02",
+      "essayIds": [
+        "essay-01"
+      ],
+      "target": "質",
+      "stem": "原句中「質」在這裏最準確的意思是甚麼？",
+      "choiceIds": [
+        "pilot-01-14-02"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "pilot-01-16-02",
+      "memoryId": "pilot-01-16-02",
+      "essayIds": [
+        "essay-01"
+      ],
+      "target": "諸",
+      "stem": "原句中「諸」在這裏最準確的意思是甚麼？",
+      "choiceIds": [
+        "pilot-01-16-02"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "pilot-09-01-01",
+      "memoryId": "pilot-09-01-01",
+      "essayIds": [
+        "essay-09"
+      ],
+      "target": "謫",
+      "stem": "原句中「謫」在這裏最準確的意思是甚麼？",
+      "choiceIds": [
+        "pilot-09-01-01"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "pilot-09-02-06",
+      "memoryId": "pilot-09-02-06",
+      "essayIds": [
+        "essay-09"
+      ],
+      "target": "暉",
+      "stem": "原句中「暉」在這裏最準確的意思是甚麼？",
+      "choiceIds": [
+        "pilot-09-02-06"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "pilot-09-02-09",
+      "memoryId": "pilot-09-02-09",
+      "essayIds": [
+        "essay-09"
+      ],
+      "target": "備",
+      "stem": "原句中「備」在這裏最準確的意思是甚麼？",
+      "choiceIds": [
+        "pilot-09-02-09"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "pilot-09-03-01",
+      "memoryId": "pilot-09-03-01",
+      "essayIds": [
+        "essay-09"
+      ],
+      "target": "霪雨",
+      "stem": "原句中「霪雨」在這裏最準確的意思是甚麼？",
+      "choiceIds": [
+        "pilot-09-03-01"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "pilot-09-03-04",
+      "memoryId": "pilot-09-03-04",
+      "essayIds": [
+        "essay-09"
+      ],
+      "target": "陰",
+      "stem": "原句中「陰」在這裏最準確的意思是甚麼？",
+      "choiceIds": [
+        "pilot-09-03-04"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "pilot-09-03-09",
+      "memoryId": "pilot-09-03-09",
+      "essayIds": [
+        "essay-09"
+      ],
+      "target": "檣",
+      "stem": "原句中「檣」在這裏最準確的意思是甚麼？",
+      "choiceIds": [
+        "pilot-09-03-09"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "pilot-09-03-11",
+      "memoryId": "pilot-09-03-11",
+      "essayIds": [
+        "essay-09"
+      ],
+      "target": "薄",
+      "stem": "原句中「薄」在這裏最準確的意思是甚麼？",
+      "choiceIds": [
+        "pilot-09-03-11"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "pilot-09-03-13",
+      "memoryId": "pilot-09-03-13",
+      "essayIds": [
+        "essay-09"
+      ],
+      "target": "去",
+      "stem": "原句中「去」在這裏最準確的意思是甚麼？",
+      "choiceIds": [
+        "pilot-09-03-13"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "pilot-09-03-15",
+      "memoryId": "pilot-09-03-15",
+      "essayIds": [
+        "essay-09"
+      ],
+      "target": "讒",
+      "stem": "原句中「讒」在這裏最準確的意思是甚麼？",
+      "choiceIds": [
+        "pilot-09-03-15"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "pilot-09-04-01",
+      "memoryId": "pilot-09-04-01",
+      "essayIds": [
+        "essay-09"
+      ],
+      "target": "景",
+      "stem": "原句中「景」在這裏最準確的意思是甚麼？",
+      "choiceIds": [
+        "pilot-09-04-01"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "pilot-09-04-07",
+      "memoryId": "pilot-09-04-07",
+      "essayIds": [
+        "essay-09"
+      ],
+      "target": "汀",
+      "stem": "原句中「汀」在這裏最準確的意思是甚麼？",
+      "choiceIds": [
+        "pilot-09-04-07"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "pilot-09-04-09",
+      "memoryId": "pilot-09-04-09",
+      "essayIds": [
+        "essay-09"
+      ],
+      "target": "或",
+      "stem": "原句中「或」在這裏最準確的意思是甚麼？",
+      "choiceIds": [
+        "pilot-09-04-09"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "pilot-09-04-12",
+      "memoryId": "pilot-09-04-12",
+      "essayIds": [
+        "essay-09"
+      ],
+      "target": "璧",
+      "stem": "原句中「璧」在這裏最準確的意思是甚麼？",
+      "choiceIds": [
+        "pilot-09-04-12"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "pilot-09-05-02",
+      "memoryId": "pilot-09-05-02",
+      "essayIds": [
+        "essay-09"
+      ],
+      "target": "或",
+      "stem": "原句中「或」在這裏最準確的意思是甚麼？",
+      "choiceIds": [
+        "pilot-09-05-02"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "pilot-09-05-06",
+      "memoryId": "pilot-09-05-06",
+      "essayIds": [
+        "essay-09"
+      ],
+      "target": "微",
+      "stem": "原句中「微」在這裏最準確的意思是甚麼？",
+      "choiceIds": [
+        "pilot-09-05-06"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "pilot-11-01-01",
+      "memoryId": "pilot-11-01-01",
+      "essayIds": [
+        "essay-11"
+      ],
+      "target": "空",
+      "stem": "原句中「空」在這裏最準確的意思是甚麼？",
+      "choiceIds": [
+        "pilot-11-01-01"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "q-e16-exp-004",
+      "memoryId": "m-e16-exp-004",
+      "essayIds": [
+        "essay-16"
+      ],
+      "target": "驀然",
+      "stem": "原句中「驀然」的意思是甚麼？",
+      "choiceIds": [
+        "q-e16-exp-004"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-01-01-01-00",
+      "memoryId": "full-c-01-01-01-00",
+      "essayIds": [
+        "essay-01"
+      ],
+      "target": "不仁者",
+      "stem": "在這段原文中，「不仁者」應怎樣理解？",
+      "choiceIds": [
+        "full-c-01-01-01-00"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-01-02-01-04",
+      "memoryId": "full-c-01-02-01-04",
+      "essayIds": [
+        "essay-01"
+      ],
+      "target": "賤",
+      "stem": "在這段原文中，「賤」應怎樣理解？",
+      "choiceIds": [
+        "full-c-01-02-01-04"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-01-02-01-05",
+      "memoryId": "full-c-01-02-01-05",
+      "essayIds": [
+        "essay-01"
+      ],
+      "target": "惡",
+      "stem": "在這段原文中，「惡（所惡）」應怎樣理解？",
+      "choiceIds": [
+        "full-c-01-02-01-05"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-01-02-01-13",
+      "memoryId": "full-c-01-02-01-13",
+      "essayIds": [
+        "essay-01"
+      ],
+      "target": "是",
+      "stem": "在這段原文中，「是（必於是）」應怎樣理解？",
+      "choiceIds": [
+        "full-c-01-02-01-13"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-01-03-01-05",
+      "memoryId": "full-c-01-03-01-05",
+      "essayIds": [
+        "essay-01"
+      ],
+      "target": "為",
+      "stem": "「為仁由己」中句首的「為」，在這裏是甚麼意思？",
+      "choiceIds": [
+        "full-c-01-03-01-05"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-01-03-01-13",
+      "memoryId": "full-c-01-03-01-13",
+      "essayIds": [
+        "essay-01"
+      ],
+      "target": "斯",
+      "stem": "在這段原文中，「斯」應怎樣理解？",
+      "choiceIds": [
+        "full-c-01-03-01-13"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-01-05-01-02",
+      "memoryId": "full-c-01-05-01-02",
+      "essayIds": [
+        "essay-01"
+      ],
+      "target": "告",
+      "stem": "在這段原文中，「告」應怎樣理解？",
+      "choiceIds": [
+        "full-c-01-05-01-02"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-01-05-01-03",
+      "memoryId": "full-c-01-05-01-03",
+      "essayIds": [
+        "essay-01"
+      ],
+      "target": "對",
+      "stem": "在這段原文中，「對」應怎樣理解？",
+      "choiceIds": [
+        "full-c-01-05-01-03"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-01-08-01-00",
+      "memoryId": "full-c-01-08-01-00",
+      "essayIds": [
+        "essay-01"
+      ],
+      "target": "年",
+      "stem": "在這段原文中，「年」應怎樣理解？",
+      "choiceIds": [
+        "full-c-01-08-01-00"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-01-08-01-01",
+      "memoryId": "full-c-01-08-01-01",
+      "essayIds": [
+        "essay-01"
+      ],
+      "target": "不可不知",
+      "stem": "在這段原文中，「不可不知」應怎樣理解？",
+      "choiceIds": [
+        "full-c-01-08-01-01"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-01-09-01-08",
+      "memoryId": "full-c-01-09-01-08",
+      "essayIds": [
+        "essay-01"
+      ],
+      "target": "過",
+      "stem": "在這段原文中，「過」應怎樣理解？",
+      "choiceIds": [
+        "full-c-01-09-01-08"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-01-10-01-01",
+      "memoryId": "full-c-01-10-01-01",
+      "essayIds": [
+        "essay-01"
+      ],
+      "target": "長",
+      "stem": "在這段原文中，「長」應怎樣理解？",
+      "choiceIds": [
+        "full-c-01-10-01-01"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-01-11-01-05",
+      "memoryId": "full-c-01-11-01-05",
+      "essayIds": [
+        "essay-01"
+      ],
+      "target": "何",
+      "stem": "在這段原文中，「何」應怎樣理解？",
+      "choiceIds": [
+        "full-c-01-11-01-05"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-01-12-01-02",
+      "memoryId": "full-c-01-12-01-02",
+      "essayIds": [
+        "essay-01"
+      ],
+      "target": "惡",
+      "stem": "在這段原文中，「惡」應怎樣理解？",
+      "choiceIds": [
+        "full-c-01-12-01-02"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-01-14-01-03",
+      "memoryId": "full-c-01-14-01-03",
+      "essayIds": [
+        "essay-01"
+      ],
+      "target": "行",
+      "stem": "在這段原文中，「行」應怎樣理解？",
+      "choiceIds": [
+        "full-c-01-14-01-03"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-01-15-01-01",
+      "memoryId": "full-c-01-15-01-01",
+      "essayIds": [
+        "essay-01"
+      ],
+      "target": "無能",
+      "stem": "在這段原文中，「無能」應怎樣理解？",
+      "choiceIds": [
+        "full-c-01-15-01-01"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-12-01-03-02",
+      "memoryId": "full-c-12-01-03-02",
+      "essayIds": [
+        "essay-12"
+      ],
+      "target": "邀",
+      "stem": "在這段原文中，「邀」應怎樣理解？",
+      "choiceIds": [
+        "full-c-12-01-03-02"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-12-02-03-00",
+      "memoryId": "full-c-12-02-03-00",
+      "essayIds": [
+        "essay-12"
+      ],
+      "target": "暫",
+      "stem": "在這段原文中，「暫」應怎樣理解？",
+      "choiceIds": [
+        "full-c-12-02-03-00"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-12-03-03-03",
+      "memoryId": "full-c-12-03-03-03",
+      "essayIds": [
+        "essay-12"
+      ],
+      "target": "邈",
+      "stem": "在這段原文中，「邈」應怎樣理解？",
+      "choiceIds": [
+        "full-c-12-03-03-03"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-13-01-03-04",
+      "memoryId": "full-c-13-01-03-04",
+      "essayIds": [
+        "essay-13"
+      ],
+      "target": "錦江",
+      "stem": "在這段原文中，「錦江」應怎樣理解？",
+      "choiceIds": [
+        "full-c-13-01-03-04"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-13-02-03-01",
+      "memoryId": "full-c-13-02-03-01",
+      "essayIds": [
+        "essay-13"
+      ],
+      "target": "終",
+      "stem": "在這段原文中，「終」應怎樣理解？",
+      "choiceIds": [
+        "full-c-13-02-03-01"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-13-02-03-05",
+      "memoryId": "full-c-13-02-03-05",
+      "essayIds": [
+        "essay-13"
+      ],
+      "target": "後主",
+      "stem": "在這段原文中，「後主」應怎樣理解？",
+      "choiceIds": [
+        "full-c-13-02-03-05"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-13-02-03-07",
+      "memoryId": "full-c-13-02-03-07",
+      "essayIds": [
+        "essay-13"
+      ],
+      "target": "日暮",
+      "stem": "在這段原文中，「日暮」應怎樣理解？",
+      "choiceIds": [
+        "full-c-13-02-03-07"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-14-01-03-00",
+      "memoryId": "full-c-14-01-03-00",
+      "essayIds": [
+        "essay-14"
+      ],
+      "target": "大江",
+      "stem": "在這段原文中，「大江」應怎樣理解？",
+      "choiceIds": [
+        "full-c-14-01-03-00"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-14-01-03-06",
+      "memoryId": "full-c-14-01-03-06",
+      "essayIds": [
+        "essay-14"
+      ],
+      "target": "周郎",
+      "stem": "在這段原文中，「周郎」應怎樣理解？",
+      "choiceIds": [
+        "full-c-14-01-03-06"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-14-02-03-00",
+      "memoryId": "full-c-14-02-03-00",
+      "essayIds": [
+        "essay-14"
+      ],
+      "target": "公瑾",
+      "stem": "在這段原文中，「公瑾」應怎樣理解？",
+      "choiceIds": [
+        "full-c-14-02-03-00"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-14-02-03-02",
+      "memoryId": "full-c-14-02-03-02",
+      "essayIds": [
+        "essay-14"
+      ],
+      "target": "羽扇綸巾",
+      "stem": "在這段原文中，「羽扇綸巾」應怎樣理解？",
+      "choiceIds": [
+        "full-c-14-02-03-02"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    },
+    {
+      "id": "full-c-16-02-03-07",
+      "memoryId": "full-c-16-02-03-07",
+      "essayIds": [
+        "essay-16"
+      ],
+      "target": "迴首",
+      "stem": "在這段原文中，「迴首」應怎樣理解？",
+      "choiceIds": [
+        "full-c-16-02-03-07"
+      ],
+      "otherSameMemory": [],
+      "otherSameContext": []
+    }
+  ]
+}

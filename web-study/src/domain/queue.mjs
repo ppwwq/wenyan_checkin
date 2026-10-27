@@ -15,7 +15,7 @@ export function practicePool(questions,options,state,today=hkDay()){
  return scopePool(questions,options,state).filter(q=>!wasSeen(q,seen));
 }
 export function shuffledQuestion(q,random=Math.random){
- if(q.provenance?.kind==='dse-original')return q;
+ if(['dse-original','school-original'].includes(q.provenance?.kind))return q;
  if(q.choices?.length!==4)return q;
  // Logical option IDs stay stable; only their displayed positions change.
  const text=[q.stem,q.explanation,...q.choices.flatMap(c=>[c.text,c.explanation])].join(' ');

@@ -1,0 +1,10 @@
+{
+  "uiVersion": "2026.10.25.design.2",
+  "version": "2026.10.25.school.2",
+  "questions": 2289,
+  "builtAt": "2026-10-24T02:17:31.882Z",
+  "releaseScope": "Local UI redesign preview; production bank and learning logic retained",
+  "designBase": "self-study-2026.10.24.2",
+  "palette": "02-warm-gray-amber",
+  "schoolPaperUpdate": "36 school choice items; two scored by user-authorized school key; local only"
+}

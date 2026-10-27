@@ -17,7 +17,7 @@ export function createApp({ databasePath = process.env.DATABASE_PATH || path.joi
   mkdirSync(path.dirname(databasePath), { recursive: true });
   const db = new DatabaseSync(databasePath);
   db.exec('PRAGMA journal_mode=WAL; PRAGMA foreign_keys=ON; PRAGMA busy_timeout=5000;');
-  const handleApi = createApi({db,bootstrapInvite,adminUsername,adminInvite,publicOrigin,sessionDays,currentQuestion:id=>{const bankPath=path.join(staticRoot,'content','bank.json');if(!existsSync(bankPath))return null;return JSON.parse(readFileSync(bankPath,'utf8')).questions?.find(q=>q.id===id);}});
+  const handleApi = createApi({db,bootstrapInvite,adminUsername,adminInvite,publicOrigin,sessionDays,currentQuestion:id=>{const bankPath=path.join(staticRoot,'content','bank.json');if(!existsSync(bankPath))return null;const found=JSON.parse(readFileSync(bankPath,'utf8')).questions?.find(q=>q.id===id);if(found)return found;/* 本機私有題目：文件存在才查 */const privatePath=path.join(staticRoot,'content','local-private','school-original.json');return existsSync(privatePath)?JSON.parse(readFileSync(privatePath,'utf8')).questions?.find(q=>q.id===id):undefined;}});
   const server = http.createServer(async (req, res) => {
     res.setHeader('X-Content-Type-Options', 'nosniff'); res.setHeader('Referrer-Policy', 'same-origin');
     res.setHeader('Content-Security-Policy', "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'");

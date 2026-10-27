@@ -1,0 +1,5 @@
+
+> wenyan-web-study@1.0.0 build
+> node scripts/build.mjs
+
+Build complete: 2161 source-linked questions; static assets in web-study/dist.

@@ -1,0 +1,30 @@
+import {studyPaths} from './records.mjs';
+import {studyPools} from '../domain/editorial.mjs';
+import {practicedIds,questionProgress} from '../domain/choice-progress.mjs';
+import {scopePool,queue} from '../domain/queue.mjs';
+import {isDue} from '../domain/review.mjs';
+import {esc,button,heading,essayTitle,abilities,empty,quote} from './shared.mjs';
+export function libraryView(bank,state,options){
+ options={...options,studyPool:options.studyPool||'basic'};
+ const seen=practicedIds(state);
+ const progressText=qs=>{const p=questionProgress(qs,seen);return '共 '+p.total+' 題 · 已練 '+p.done+' 題 · 未練 '+p.remaining+' 題';};
+ const chapterPool=scopePool(bank.questions,{...options,essayIds:bank.essays.map(e=>e.id)},state);
+ const pool=scopePool(bank.questions,options,state),list=queue(bank.questions,options,state);
+ const distribution=options.essayIds.map(id=>essayTitle(bank,id)+' '+list.filter(q=>q.essayIds[0]===id).length+' 題').concat(list.some(q=>!q.essayIds.length)?['手法附錄 '+list.filter(q=>!q.essayIds.length).length+' 題']:[]).join(' · ');
+ const selectedIds=options.essayIds.filter(id=>chapterPool.some(q=>q.essayIds.includes(id)));
+ const card=e=>{const qs=chapterPool.filter(q=>q.essayIds.includes(e.id));return '<article class="library-card '+(qs.length&&options.essayIds.includes(e.id)?'selected ':'')+(!qs.length?'disabled':'')+'"><label><input id="essay-'+esc(e.id)+'" type="checkbox" data-essay="'+esc(e.id)+'" '+(qs.length&&options.essayIds.includes(e.id)?'checked':'')+' '+(!qs.length?'disabled':'')+'><div><h3>'+esc(e.title)+'</h3><p class="chapter-counts">'+progressText(qs)+'</p>'+(!qs.length?'<p class="subtle">'+(options.scope==='wrong'?'此篩選下暫無錯題':'此篩選下暫無題目')+'</p>':'')+'</div></label></article>';};
+ const groups=[['prose','文言文'],['poem','詩詞']].map(([kind,title])=>{const essays=bank.essays.filter(e=>kind==='poem'?e.kind==='poem':e.kind!=='poem');return essays.length?'<section class="chapter-group"><h2>'+title+'</h2><div class="library-grid">'+essays.map(card).join('')+'</div></section>':'';}).join('');
+ return '<div class="library-page">'+heading(options.scope==='wrong'?'錯題複習':'選幾篇，一起練','先選基礎、已審自編仿真或官方真題，再選篇章。')+studyPaths(true)+
+  (options.questionIds?'<div class="banner">目前限於從其他入口帶入的 '+options.questionIds.length+' 道題。'+button('clear-subset','恢復全部已選篇章題目','','quiet')+'</div>':'')+
+  '<section class="scope-panel library-filters" aria-labelledby="scope-title"><h2 id="scope-title">這一組的安排</h2><div class="filter-line"><label>題池<select id="studyPool">'+Object.entries(studyPools).map(([value,label])=>'<option value="'+value+'" '+((options.studyPool||'basic')===value?'selected':'')+'>'+label+'</option>').join('')+'</select></label><label>能力<select id="ability"><option value="">全部能力</option>'+Object.entries(abilities).map(([id,t])=>'<option value="'+id+'" '+(options.ability===id?'selected':'')+'>'+t+'</option>').join('')+'</select></label><label>範圍<select id="scope"><option value="all" '+(options.scope==='all'?'selected':'')+'>全部題目</option><option value="wrong" '+(options.scope==='wrong'?'selected':'')+'>只練錯題</option></select></label></div><div class="toolbar"><label for="question-count">題數</label><input id="question-count" class="count-field" type="number" inputmode="numeric" min="1" max="100" value="'+options.count+'">'+[10,20,30].map(n=>button('count',n+' 題','data-count="'+n+'"','secondary')).join('')+'</div><label class="check-row"><input type="checkbox" id="appendix" '+(options.appendix?'checked':'')+'> 開啟手法附錄專項</label><p class="section-note">待核題不會混入已審自編仿真；自編仿真有具名原型，難度未經等值試測。已練按累計不同題目計算，答錯也計入；跳過不計。同一知識點及同組辨析題每天只出現一次，跳過後當天也不再出題。</p><p class="selection-progress" role="status">'+progressText(pool)+'</p></section>'+
+  '<div class="toolbar chapter-tools">'+button('select-all','全選可用篇章','','secondary')+button('select-prose','只選文言文','','secondary')+button('select-poem','只選詩詞','','secondary')+button('select-none','清空','','quiet')+'</div>'+groups+
+  (!list.length?'<div class="empty"><h2>'+ (pool.length?'今天沒有尚未出現的題目':'目前範圍沒有可練題目')+'</h2><p>'+(pool.length?'所選範圍今天已練過或已跳過，明日可再練，也可改選其他篇章。':'請勾選有題目的篇章，或清除來源、能力及錯題篩選。')+'</p>'+button('clear-filters','清除篩選','','secondary')+'</div>':'')+
+  '<details class="queue-details"><summary>組題分布與安排規則</summary><p>'+esc(distribution||'先選擇篇章')+'</p><p>'+progressText(pool)+' · 到期 '+pool.filter(q=>isDue(state.memories[q.memoryId])).length+' 題</p><p>先到期、再薄弱與未練。跨篇題只在涉及篇章全部選中時出現；不重複同一知識點湊數。</p>'+(options.count<options.essayIds.length?'<p>本組題數少於所選篇數，未覆蓋篇章會在後續組優先輪到。</p>':'')+'</details><div class="toolbar">'+button('nav','易混詞義對照','data-page="compare"','quiet')+'</div>'+
+  '<div class="library-start-bar"><p role="status">已選 '+selectedIds.length+' 篇 · 可組成 '+list.length+' 題'+(list.length<options.count?'（目標 '+options.count+' 題）':'')+'</p>'+button('start',options.scope==='wrong'?'開始錯題複習 →':'開始均衡混練 →',!list.length?'disabled':'')+'</div></div>';
+}
+export function compareView(bank,options,target='',expanded=false){
+ const selected=new Set(options.essayIds),groups=bank.comparisons.filter(g=>g.status==='reviewed'&&(!target||g.target===target));
+ const visible=groups.map(g=>({...g,items:g.items.map(item=>({...item,q:bank.questions.find(q=>q.id===item.questionId&&q.status==='reviewed'&&q.active!==false)})).filter(item=>item.q&&(expanded||item.q.essayIds.every(id=>selected.has(id))))})).filter(g=>g.items.length>=2);
+ return heading('同一個字，不同的語境','只閱讀對照，不會計為答題或改變複習間隔。')+'<div class="toolbar">'+button('nav','← 返回選篇','data-page="library"','quiet')+button('compare-expand',expanded?'只看已選篇章':'明確加入其他篇章對照','','secondary')+'</div>'+(visible.length?visible.map(g=>'<section><h2>'+esc(g.title)+'</h2><div class="compare-grid">'+g.items.map(({q,meaning,clue})=>'<article class="compare-card"><span class="tag">'+esc(q.essayIds.map(id=>essayTitle(bank,id)).join('／'))+'</span><blockquote>'+quote(q)+'</blockquote><p class="card-answer">'+esc(meaning)+'</p><p>'+esc(clue)+'</p>'+'</article>').join('')+'</div><div class="toolbar">'+button('compare-practice','練習這些用法','data-group="'+esc(g.id)+'"')+'</div></section>').join(''):empty('所選範圍暫無可並列的已核對用法','可明確加入其他篇章查看；原練習組的範圍和題目不變。'));
+}
+

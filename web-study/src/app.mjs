@@ -70,6 +70,8 @@ async function signIn(form){
 }
 async function loadBank(){
  const response=await fetch('/content/bank.json',{cache:'no-cache'});if(!response.ok)throw new Error('題庫尚未下載；首次使用請連上網絡');bank=await response.json();
+ // 本機私有題目（校內試卷）：文件存在就合併，不存在（如線上版）就忽略。
+ try{const extra=await fetch('/content/local-private/school-original.json',{cache:'no-cache'});if(extra.ok){const ids=new Set(bank.questions.map(q=>q.id));bank.questions.push(...((await extra.json()).questions||[]).filter(q=>!ids.has(q.id)));}}catch{}
  try{const {overrides}=await api('/api/content/overrides',{token:auth.token});for(const override of overrides||[]){const index=bank.questions.findIndex(q=>q.id===(override.questionId||override.id));if(index<0)continue;const old=bank.questions[index];if(override.revision)bank.questions[index]=override.revision;bank.questions[index]={...bank.questions[index],status:override.status||old.status,active:override.status!=='withdrawn'};}await repo.set('overrides',overrides||[]);}
  catch{for(const override of await repo.get('overrides')||[]){const i=bank.questions.findIndex(q=>q.id===(override.questionId||override.id));if(i>=0)bank.questions[i]={...(override.revision||bank.questions[i]),status:override.status,active:override.status!=='withdrawn'};}}
 }
@@ -114,7 +116,7 @@ function render(){
 }
 function mergedReports(){const map=new Map(state.reports.map(r=>[r.id,r]));for(const r of serverReports)map.set(r.eventId||r.id,{...map.get(r.eventId||r.id),...r,...r.payload});return [...map.values()].reverse();}
 function accountView(){
- return heading('我的',auth.user.username)+'<div class="side-card"><h2>學習設定</h2><p>逐篇選擇題目類型，調整每日題量及錯題回練。</p>'+button('training-settings','調整學習設定','','secondary')+'</div>'+'<div class="side-card"><h2>學習偏好</h2><p class="section-note">新練習全部採用選擇題。字號設定即時套用到所有頁面。</p>'+button('settings','調整字體','','secondary')+'</div><div class="saved-row"><h2>備份與恢復</h2><p>'+esc(status)+'</p><div class="toolbar">'+button('sync','立即備份')+button('export','匯出我的記錄','','secondary')+button('import','恢復此帳號備份','','secondary')+'</div><input id="import-file" type="file" accept=".json,application/json" hidden><p class="subtle">備份包含你的作答、草稿和收藏；僅能恢復至同一帳號。瀏覽器清理可能刪除本機資料，請定期備份。</p></div><div class="toolbar">'+button('nav','查看我的題目回報','data-page="reports"','secondary')+(auth.user.role==='admin'?button('admin','維護題目回報','','secondary'):'')+button('logout','登出並切換帳號','','quiet')+'</div>'+(corrections.length?'<div class="saved-row"><h2>評分更正通知</h2>'+corrections.map(c=>'<p>'+esc(c.reason)+' · '+esc(c.createdAt?.slice(0,10))+'<br><small>原作答保留；這次作答的有效判斷已更正為'+(c.correct?'正確':'待鞏固')+'。</small></p>').join('')+'</div>':'');
+ return heading('我的',auth.user.username)+'<div class="side-card"><h2>學習設定</h2><p>逐篇選擇題目類型，調整每日題量及錯題回練。</p>'+button('training-settings','調整學習設定','','secondary')+'</div>'+'<div class="side-card"><h2>學習偏好</h2><p class="section-note">每日訓練可在學習設定中選擇加入字詞打字練習。字號設定即時套用到所有頁面。</p>'+button('settings','調整字體','','secondary')+'</div><div class="saved-row"><h2>備份與恢復</h2><p>'+esc(status)+'</p><div class="toolbar">'+button('sync','立即備份')+button('export','匯出我的記錄','','secondary')+button('import','恢復此帳號備份','','secondary')+'</div><input id="import-file" type="file" accept=".json,application/json" hidden><p class="subtle">備份包含你的作答、草稿和收藏；僅能恢復至同一帳號。瀏覽器清理可能刪除本機資料，請定期備份。</p></div><div class="toolbar">'+button('nav','查看我的題目回報','data-page="reports"','secondary')+(auth.user.role==='admin'?button('admin','維護題目回報','','secondary'):'')+button('logout','登出並切換帳號','','quiet')+'</div>'+(corrections.length?'<div class="saved-row"><h2>評分更正通知</h2>'+corrections.map(c=>'<p>'+esc(c.reason)+' · '+esc(c.createdAt?.slice(0,10))+'<br><small>原作答保留；這次作答的有效判斷已更正為'+(c.correct?'正確':'待鞏固')+'。</small></p>').join('')+'</div>':'');
 }
 function adminView(){
  return heading('題目回報維護','按來源復核後，明確回覆或更正。')+(adminReports.length?adminReports.map(r=>'<article class="saved-row"><h3>'+esc(r.questionId||r.payload?.questionId)+' · '+esc(r.category||r.payload?.category)+'</h3><p>'+esc(r.detail||r.payload?.detail)+'</p><p class="subtle">'+esc(r.status)+' · '+esc(r.username||r.userId)+'</p><form class="admin-report-form" data-id="'+esc(r.id)+'"><label>處理狀態 <select name="status"><option value="processing">處理中</option><option value="replied">說明已回覆</option><option value="corrected">已修正</option></select></label><label class="field">回覆<textarea name="reply" required>'+esc(r.reply||'')+'</textarea></label><button class="btn" type="submit">保存處理結果</button></form><div class="toolbar">'+button('withdraw','暫下架此題','data-id="'+esc(r.questionId||r.payload?.questionId)+'"','secondary')+button('revision','提交核對後新版本','data-id="'+esc(r.questionId||r.payload?.questionId)+'"','secondary')+button('correction','明確修正受影響作答','data-report="'+esc(r.id)+'"','quiet')+'</div></article>').join(''):empty('目前沒有題目回報'));
@@ -157,7 +159,7 @@ async function showPractice(){
 async function beginSession(list,opts,kind,drafts={}){
  if(!list.length){toast('這個範圍今天沒有未出現的題目；可換範圍，或明日再練。');return;}
  await ensureDailyGoal();
- session={id:crypto.randomUUID(),selection:structuredClone(opts),targetCount:kind==='daily'?dailyProgress(state).remaining:kind==='retry'?list.length:Number(opts.count||list.length),skippedIds:[],kind,goalDay:hkDay(),goalSnapshot:dailyProgress(state).goal,trainingSnapshot:kind==='extra'?undefined:structuredClone(state.settings.training),questions:structuredClone(list),index:0,answers:{},drafts:structuredClone(drafts),mode:'choice',essayIds:opts.essayIds,completed:false,paused:false,startedAt:new Date().toISOString()};
+ session={id:crypto.randomUUID(),selection:structuredClone(opts),targetCount:kind==='daily'?dailyProgress(state).remaining:kind==='retry'?list.length:Number(opts.count||list.length),skippedIds:[],kind,goalDay:hkDay(),goalSnapshot:dailyProgress(state).goal,trainingSnapshot:kind==='extra'?undefined:structuredClone(state.settings.training),questions:structuredClone(list),index:0,answers:{},drafts:structuredClone(drafts),mode:'choice',vocabularyTyping:opts.vocabularyTyping===true,essayIds:opts.essayIds,completed:false,paused:false,startedAt:new Date().toISOString()};
  await append('settings',{rotation:((state.settings.rotation||0)+list.length)%Math.max(1,opts.essayIds.length)});await showPractice();void sync();
 }
 async function startDaily(kind='daily'){
@@ -173,7 +175,7 @@ async function startDaily(kind='daily'){
 async function start(questionIds=null,essayIds=null){
  await writes.flush();await sync();
  if(navigator.onLine){await loadBank();tagComparisons();}
- const opts={...options,rotation:state.settings.rotation,...(questionIds?{questionIds}:{}),...(essayIds?{essayIds}:{})};
+ const opts={...options,vocabularyTyping:false,rotation:state.settings.rotation,...(questionIds?{questionIds}:{}),...(essayIds?{essayIds}:{})};
  const list=queue(bank.questions,opts,state);if(!list.length){toast('所選範圍今天沒有未出現的題目；明日可再練。');return;}
  await beginSession(list,opts,'extra');
 }
@@ -191,7 +193,7 @@ async function submit(unknown=false){
  if(!answer.trim()){toast(mode==='typing'?'先寫下想法，也可以選「暫時不會」。':'先選一個答案，也可以選「暫時不會」查看解析。');return;}
  await ensureDailyGoal();const id=session.id+'/'+q.id,now=new Date().toISOString();
  await append('attempt',{memoryId:q.memoryId,questionId:q.id,questionVersion:q.version,question:structuredClone(q),submittedAt:now,day:hkDay(now),mode,answer,correct:mode==='typing'?null:answer===q.answerId,sessionId:session.id,trainingPolicy:2,practiceKind:session.kind||'extra'},id);
- session.answers[q.id]=id;await saveSession();renderAnswerKeepingPosition(q);void sync();
+ session.answers[q.id]=id;if(unknown&&mode==='typing')await append('assessment',{attemptId:id,correct:false},'assessment/'+id);await saveSession();renderAnswerKeepingPosition(q);void sync();
 }
 async function assess(correct){if(!document.querySelector('#check-meaning')?.checked||!document.querySelector('#check-context')?.checked){toast('請先完成兩項核對，再確定結果。');return;}const q=currentQuestion(),id=session.answers[q.id];if(state.assessments.has(id))return;await append('assessment',{attemptId:id,correct},'assessment/'+id);renderAnswerKeepingPosition(q);void sync();}
 function reportDialog(id){const q=session?.questions.find(q=>q.id===id)||bank.questions.find(q=>q.id===id);dialog.innerHTML='<h2>回報題目疑點</h2><form id="report-form" class="report-form" data-id="'+esc(q.id)+'"><label>問題類別<select name="category">'+['題幹或原文錯字','答案可能有誤／存在多解','解析問題','同日重複出題','DSE真題與原卷不符','其他問題'].map(t=>'<option>'+t+'</option>').join('')+'</select></label><label>補充說明<textarea name="detail" maxlength="3000" required></textarea></label><p class="subtle">自動附上題目與版本；如已作答，也附上本次答案。未作答也能回報，離線時先保存。</p><div class="toolbar"><button class="btn" type="submit">提交回報</button>'+button('close-dialog','取消','','secondary')+'</div></form>';dialog.showModal();}
@@ -266,7 +268,7 @@ document.addEventListener('submit',async e=>{
  if(form.id==='training-form'){
   const chapters={};for(const input of form.querySelectorAll('[data-training-essay]:checked')){const id=input.dataset.trainingEssay;const types=[...form.querySelectorAll('[data-training-type]:checked')].filter(el=>el.dataset.chapter===id&&!el.disabled).map(el=>el.dataset.trainingType);if(!types.length){document.querySelector('#training-error').textContent='請為每個已選篇章選擇至少一種有題目的類型。';return;}chapters[id]=types;}
   if(form.dataset.first==='true'&&!Object.keys(chapters).length&&!form.elements.appendix.checked){document.querySelector('#training-error').textContent='請先選擇至少一篇，或加入手法附錄。';document.querySelector('#training-error').scrollIntoView({block:'center'});return;}
-  const v=new FormData(form),training={version:1,chapters,dailyCount:Number(v.get('dailyCount')),retry:v.has('retry'),appendix:v.has('appendix')};if(!validTraining(training))throw new Error('請輸入 1–100 的每日題量，並檢查篇章類型。');
+  const v=new FormData(form),training={version:1,chapters,dailyCount:Number(v.get('dailyCount')),retry:v.has('retry'),appendix:v.has('appendix'),vocabularyTyping:v.has('vocabularyTyping')};if(!validTraining(training))throw new Error('請輸入 1–100 的每日題量，並檢查篇章類型。');
   await append('settings',{training,dailyGoal:{day:hkDay(),count:training.dailyCount}});await updateTrainingSessions();await go('home');void sync();toast('學習設定已立即套用；未答題已更新，已提交答案保留。');
  }
  else if(form.id==='settings-form'){const v=Object.fromEntries(new FormData(form));await append('settings',{fontSize:+v.fontSize});dialog.close();void sync();}

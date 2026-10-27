@@ -1,0 +1,51 @@
+{
+  "uiVersion": "2026.10.23.1",
+  "bankVersion": "2026.10.11.1",
+  "bankSha256": "28da4827469740cf77f5c206de70998a8d2b10bb206c27bd900390a931924f07",
+  "bankUnchanged": true,
+  "assets": [
+    {
+      "path": "src/domain/answer-mode.mjs",
+      "sha256": "74561e4666756368f2e0f73888c6263d1bd7916d02979a0873ca836a99fb0c8a",
+      "built": true
+    },
+    {
+      "path": "src/domain/training.mjs",
+      "sha256": "96b42cfb4961953d88edb96438244c00592cf2c941ac4fb6ca29876fd26cb500",
+      "built": true
+    },
+    {
+      "path": "src/features/practice.mjs",
+      "sha256": "3eb35ac01da7852e687644b332eb6c75ea4a5b7817d35e85af9e49ef51671ff9",
+      "built": true
+    },
+    {
+      "path": "src/features/training.mjs",
+      "sha256": "69ffe14ee8ffd32a0cff9bb8df91fc18c81597921dd66fcba93277f366f82d26",
+      "built": true
+    },
+    {
+      "path": "src/storage/backup.mjs",
+      "sha256": "6a7d68baef59aa5b3663c04a3723fe3883eed38771d0bd38a16cc359bbff8bfb",
+      "built": true
+    },
+    {
+      "path": "src/app.mjs",
+      "sha256": "c4e0c5850b84aca4b7cba01adc5cf4414f570d78e94f10a7117366548b7197be",
+      "built": true
+    },
+    {
+      "path": "scripts/build.mjs",
+      "sha256": "3eca5af5da0016472607d6a992a8563f99de885e5c932769391fbdd9760391d8"
+    },
+    {
+      "path": "sw.js",
+      "sha256": "c9572870302a87ea4560c7b9af8bf25cfcd75310b9fd2b566d591038f5e89acc",
+      "built": true
+    }
+  ],
+  "tests": 113,
+  "browser": "PASS",
+  "deployed": false,
+  "pushed": false
+}
