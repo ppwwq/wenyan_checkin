@@ -16,19 +16,24 @@ export class SyncClient {
  async run(){
   if(typeof navigator!=='undefined'&&!navigator.onLine){this.onStatus('已保存到本機 · 離線');return;}
   try{
-   const count=(await this.repo.pending()).length;this.onStatus(count?'正在備份 '+count+' 筆…':'正在確認備份…');
+   let queued=await this.repo.pending(),cursor=await this.repo.get('syncCursorV2')||0;
+   this.onStatus(queued.length?'正在備份 '+queued.length+' 筆…':'正在確認備份…');
    let data;
    // A bounded batch prevents a large offline history from exceeding request limits.
    do{
-    const ordered=(await this.repo.pending()).sort((a,b)=>Number(isSubmission(b))-Number(isSubmission(a)) || Date.parse(a.createdAt)-Date.parse(b.createdAt) || a.id.localeCompare(b.id)).slice(0,100);
+    const ordered=queued.sort((a,b)=>Number(isSubmission(b))-Number(isSubmission(a)) || Date.parse(a.createdAt)-Date.parse(b.createdAt) || a.id.localeCompare(b.id)).slice(0,100);
     const pending=[];let bytes=0;for(const e of ordered){const size=new TextEncoder().encode(JSON.stringify(e)).length;if(pending.length&&bytes+size>2_000_000)break;pending.push(e);bytes+=size;}
-    data=await api('/api/sync',{token:this.token,body:{events:pending}});
+    data=await api('/api/sync/page',{token:this.token,body:{events:pending,after:cursor,pageSize:16}});
     if(this.stopped)return;
+    if(!Number.isSafeInteger(data.nextCursor)||data.nextCursor<cursor||data.hasMore&&data.nextCursor===cursor)throw new Error('伺服器分頁游標無效，記錄仍保留在本機');
+    const acknowledged=new Set(data.acknowledgedIds||[]);if(pending.some(e=>!acknowledged.has(e.id)))throw new Error('伺服器未完整確認備份，記錄仍保留在本機');
     await this.repo.merge(data.events||[],pending.map(e=>e.id));
+    cursor=data.nextCursor;await this.repo.set('syncCursorV2',cursor);queued=queued.filter(e=>!acknowledged.has(e.id));
     await this.repo.set('reports',data.reports||[]);
     await this.repo.set('corrections',data.corrections||[]);
     await this.repo.set('lastSync',data.serverTime||new Date().toISOString());
-   }while((await this.repo.pending()).length);
+    if(!queued.length&&!data.hasMore)queued=await this.repo.pending();
+   }while(queued.length||data.hasMore);
    this.onStatus('已備份 · '+new Date().toLocaleTimeString('zh-HK',{hour:'2-digit',minute:'2-digit',hour12:false}));return data;
   }catch(e){if(!this.stopped)this.onStatus(e.status===401?'登入已過期 · 請重新登入':e.status===409?'備份衝突 · 請匯出記錄並聯絡維護者':e.status===400?'備份未完成 · 請匯出記錄並聯絡維護者':'已保存到本機 · 備份失敗，稍後重試');throw e;}
  }

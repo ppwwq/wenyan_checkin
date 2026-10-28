@@ -39,6 +39,20 @@ async function fixture(t) {
 }
 const answer = (id = 'zzz-first') => ({ id, type: 'attempt', createdAt: '2026-09-18T15:59:00Z', payload: { memoryId: 'm1', questionId: 'q1', questionVersion: 1, question: { id: 'q1', answerId: 'b' }, mode: 'typing', answer: '首次草稿', correct: null, submittedAt: '2026-09-18T15:59:00Z', day: '2026-09-18' } });
 
+test('large-history sync resumes a failed page and a fresh device reads every immutable event',async t=>{
+ const api=await fixture(t),account=await api('/api/auth/register',{username:'large-pages',password:'password-123',inviteCode:'students'}),repo=new QueueStore(account.user.id);
+ const expected=Array.from({length:40},(_,i)=>({id:'page-'+i,type:'settings',createdAt:'2026-10-28T00:00:00Z',payload:{fontSize:24,history:'x'.repeat(180000),ordinal:i}}));
+ for(const e of expected)await repo.append(e);
+ const workingFetch=globalThis.fetch;let calls=0;
+ globalThis.fetch=(url,options)=>url==='/api/sync/page'&&++calls===2?Promise.resolve(Response.json({error:'temporary test interruption'},{status:503})):workingFetch(url,options);
+ const client=new SyncClient(repo,account.token);await assert.rejects(()=>client.sync(),/temporary test interruption/);
+ assert((await repo.get('syncCursorV2'))>0);assert((await repo.pending()).length>0);assert.equal((await repo.events()).length,40);
+ globalThis.fetch=workingFetch;await client.sync();assert.equal((await repo.pending()).length,0);
+ const fresh=new QueueStore(account.user.id);await new SyncClient(fresh,account.token).sync();
+ assert.deepEqual((await fresh.events()).map(({id,type,createdAt,payload})=>({id,type,createdAt,payload})).sort((a,b)=>a.id.localeCompare(b.id)),expected.sort((a,b)=>a.id.localeCompare(b.id)));
+ const checkpoint=await fresh.get('syncCursorV2');await new SyncClient(fresh,account.token).sync();assert.equal((await fresh.events()).length,40);assert.equal(await fresh.get('syncCursorV2'),checkpoint);
+});
+
 test('practice presentations and pre-answer reports sync to a second device without creating answers', async t => {
  const api=await fixture(t);
  const user=await api('/api/auth/register',{username:'presentation-test',password:'password-123',inviteCode:'students'});

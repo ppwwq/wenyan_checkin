@@ -11,7 +11,7 @@ for(const path of ['src/domain/daily-availability.mjs','src/domain/answer-mode.m
 await mkdir(resolve(root,'dist'),{recursive:true});
 // 本機私有題目（content/local-private）不打包、不部署。
 for(const file of files)await cp(resolve(root,file),resolve(root,'dist',file),{recursive:true,filter:src=>!/[\\/]local-private([\\/]|$)/.test(src)});
-await writeFile(resolve(root,'dist/build-info.json'),JSON.stringify({uiVersion:'2026.10.28.1',palette:'02-warm-gray-amber',version:bank.version,questions:bank.questions.length,builtAt:new Date().toISOString()},null,2));
+await writeFile(resolve(root,'dist/build-info.json'),JSON.stringify({uiVersion:'2026.10.28.2',palette:'02-warm-gray-amber',syncProtocol:2,version:bank.version,questions:bank.questions.length,builtAt:new Date().toISOString()},null,2));
 console.log('Build complete: '+bank.questions.length+' source-linked questions; static assets in web-study/dist.');
 
 

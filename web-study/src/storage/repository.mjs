@@ -11,7 +11,7 @@ export class Repository {
  async events(){return (await this.transaction('events','readonly',s=>s.getAll())).map(({pending,...event})=>event);}
  async pending(){return (await this.transaction('events','readonly',s=>s.getAll())).filter(e=>e.pending).map(({pending,...event})=>event);}
  async append(event){await this.transaction('events','readwrite',s=>{const request=s.get(event.id);request.onsuccess=()=>{if(!request.result)s.add({...event,pending:true});};});return event;}
- async merge(events,ackIds=[]){const ack=new Set(ackIds);await new Promise((resolve,reject)=>{const tx=this.db.transaction('events','readwrite'),s=tx.objectStore('events'),r=s.getAll();r.onsuccess=()=>{const map=new Map(r.result.map(e=>[e.id,e]));for(const e of events)map.set(e.id,{...e,pending:false});for(const id of ack){const e=map.get(id);if(e)map.set(id,{...e,pending:false});}for(const e of map.values())s.put(e);};tx.oncomplete=resolve;tx.onerror=()=>reject(tx.error);});}
+ async merge(events,ackIds=[]){await new Promise((resolve,reject)=>{const tx=this.db.transaction('events','readwrite'),s=tx.objectStore('events'),received=new Set(events.map(e=>e.id));for(const e of events)s.put({...e,pending:false});for(const id of ackIds){if(received.has(id))continue;const r=s.get(id);r.onsuccess=()=>{if(r.result)s.put({...r.result,pending:false});};}tx.oncomplete=resolve;tx.onerror=()=>reject(tx.error);tx.onabort=()=>reject(tx.error||new Error('備份合併已取消'));});}
  async get(key){return this.transaction('meta','readonly',s=>s.get(key));}
  async set(key,value){return this.transaction('meta','readwrite',s=>s.put(value,key));}
  async importBackup(data){

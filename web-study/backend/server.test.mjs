@@ -19,6 +19,31 @@ async function fixture(t) {
   };
 }
 
+test('paged sync bounds large history responses and recovers every event without omissions',async t=>{
+ const api=await fixture(t),account=await api('/api/auth/register',{username:'paged-history',password:'password-123',inviteCode:'test-invite'});
+ const events=Array.from({length:21},(_,i)=>({id:'large-'+i,type:'settings',createdAt:'2026-10-28T00:00:00Z',payload:{fontSize:24,history:'x'.repeat(180000),ordinal:i}}));
+ let after=0,first=true,pages=0,seen=[];
+ do{
+  const page=await api('/api/sync/page',{events:first?events:[],after,pageSize:16},account.token);
+  assert.equal(page.status,200);assert(Buffer.byteLength(JSON.stringify(page))<1_600_000,'response must stay bounded');
+  if(first)assert.deepEqual(page.acknowledgedIds,events.map(e=>e.id));
+  seen.push(...page.events);pages++;assert(page.nextCursor>=after);if(page.hasMore)assert(page.nextCursor>after);after=page.nextCursor;first=false;
+  if(!page.hasMore)break;
+ }while(pages<10);
+ assert(pages>=3);assert.deepEqual(seen.map(e=>e.id).sort(),events.map(e=>e.id).sort());assert.equal(new Set(seen.map(e=>e.id)).size,21);
+});
+
+test('paged cursors remain account isolated and invalid cursors cannot commit or overwrite history',async t=>{
+ const api=await fixture(t),a=await api('/api/auth/register',{username:'cursor-a',password:'password-123',inviteCode:'test-invite'}),b=await api('/api/auth/register',{username:'cursor-b',password:'password-123',inviteCode:'test-invite'});
+ const event={id:'one',type:'favorite',createdAt:'2026-10-28T00:00:00Z',payload:{questionId:'q1',saved:true}};
+ const first=await api('/api/sync/page',{events:[event],after:0},a.token);assert.equal(first.status,200);
+ const repeated=await api('/api/sync/page',{events:[event],after:0},a.token);assert.deepEqual(repeated.events,first.events);
+ const other=await api('/api/sync/page',{events:[],after:0},b.token);assert.deepEqual(other.events,[]);
+ assert.equal((await api('/api/sync/page',{events:[{...event,id:'must-not-write'}],after:-1},a.token)).status,400);
+ assert.equal((await api('/api/sync/page',{events:[{...event,payload:{...event.payload,saved:false}}],after:0},a.token)).status,409);
+ assert.deepEqual((await api('/api/sync/page',{events:[],after:0},a.token)).events,first.events);
+});
+
 test('invitation registration, independent accounts, recovery invalidates old sessions and recovery code', async t => {
   const api = await fixture(t);
   assert.equal((await api('/api/auth/register', { username: 'student', password: 'password-123', inviteCode: 'wrong' })).status, 403);

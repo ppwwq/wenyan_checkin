@@ -59,8 +59,10 @@ export function syncApi({ db, need, body, json, currentQuestion = () => null }) 
     if (event.type === 'session') need(p.session && text(p.session.id) && Array.isArray(p.session.questions) && p.session.questions.length <= 100, '练习草稿格式无效。');
   }
   return async function handle(route, req, res, user) {
-    if (route === '/api/sync' && req.method === 'POST') {
+    if ((route === '/api/sync'||route === '/api/sync/page') && req.method === 'POST') {
       const input = await body(req); need(Array.isArray(input.events) && input.events.length <= 500, '每次最多同步 500 个事件。');
+      const paged=route==='/api/sync/page',after=input.after??0,pageSize=input.pageSize??16;
+      if(paged)need(Number.isSafeInteger(after)&&after>=0&&Number.isInteger(pageSize)&&pageSize>=1&&pageSize<=16,'分頁游標或頁數無效。');
       input.events.forEach(validate);
       const ordered = [...input.events].sort((a, b) => Number(a.type === 'assessment'||a.type==='written'&&['self','correction'].includes(a.payload.action)) - Number(b.type === 'assessment'||b.type==='written'&&['self','correction'].includes(b.payload.action)) || Date.parse(a.createdAt) - Date.parse(b.createdAt) || a.id.localeCompare(b.id));
       atomic(db, () => {
@@ -94,11 +96,22 @@ export function syncApi({ db, need, body, json, currentQuestion = () => null }) 
         }
       });
       const acceptedSelf=new Map(all('SELECT attempt_id,event_id FROM assessments WHERE user_id=?',user.id).map(row=>[row.attempt_id,row.event_id]));
-      const events = all('SELECT * FROM events WHERE user_id=? ORDER BY seq', user.id).map(row => {
+      const rows=paged?all('SELECT * FROM events WHERE user_id=? AND seq>? ORDER BY seq LIMIT ?',user.id,after,pageSize+1):all('SELECT * FROM events WHERE user_id=? ORDER BY seq', user.id);
+      const selected=[];let bytes=0;
+      for(const row of rows){
+        const size=Buffer.byteLength(row.payload)+500;
+        if(paged&&selected.length&&(selected.length>=pageSize||bytes+size>1_500_000))break;
+        selected.push(row);bytes+=size;
+      }
+      const events = selected.map(row => {
         const payload=JSON.parse(row.payload);
         return {id:row.id,type:row.type,payload,createdAt:row.created_at,receivedAt:row.received_at,
           ...(row.type==='written'&&payload.action==='self'?{selfReviewAccepted:acceptedSelf.get(payload.attemptId)===row.id}:{})};
       });
+      if(paged){
+        const nextCursor=selected.at(-1)?.seq??after,hasMore=rows.some(row=>row.seq>nextCursor);
+        json(res,200,{events,acknowledgedIds:input.events.map(e=>e.id),nextCursor,hasMore,reports:reportRows(user),corrections:correctionRows(user),serverTime:new Date().toISOString()});return true;
+      }
       json(res, 200, { events, reports: reportRows(user), corrections: correctionRows(user), firstObservations: firstObservations(events, user), serverTime: new Date().toISOString() }); return true;
     }
     if (route === '/api/reports' && req.method === 'GET') { json(res, 200, { reports: reportRows(user) }); return true; }
