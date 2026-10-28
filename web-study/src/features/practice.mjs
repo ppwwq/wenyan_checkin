@@ -1,6 +1,6 @@
-import {questionMaterialView,learningView,sourceLabel} from './learning-context.mjs';
 import {answerMode} from '../domain/answer-mode.mjs';
 export {answerMode} from '../domain/answer-mode.mjs';
+import {questionMaterialView,learningView,sourceLabel} from './learning-context.mjs';
 import {sessionProgress} from '../domain/replacement.mjs';
 import {questionMistakes,effectiveAttempts} from '../domain/training.mjs';
 import {skippedQuestions} from '../domain/session.mjs';
@@ -54,10 +54,10 @@ function explanationView(q,p,mode){
  const answer=correct?.text||'請核對下方解析';
  const summary=String(q.summary||'').trim();
  const focus=q.provenance?.kind==='dse-original'?'本題選項：'+answer:q.ability==='vocabulary'&&q.target?'「'+q.target+'」在這裏是「'+answer+'」':summary&&summary.length<=48?summary:answer;
- const quote=String(q.quote||'');
- const hasTargetSpan=Number.isInteger(q.targetStart)&&q.targetStart>=0&&quote.slice(q.targetStart,q.targetStart+String(q.target||'').length)===q.target;
- const targetIndex=q.ability==='vocabulary'&&q.target?(hasTargetSpan?q.targetStart:quote.indexOf(q.target)):-1;
- const clause=targetIndex<0?'':quote.slice(Math.max(0,quote.lastIndexOf('，',targetIndex)+1,quote.lastIndexOf('。',targetIndex)+1,quote.lastIndexOf('；',targetIndex)+1),Math.min(...['，','。','；'].map(mark=>{const i=quote.indexOf(mark,targetIndex);return i<0?quote.length:i}))).trim();
+ const originalQuote=String(q.quote||'');
+ const hasTargetSpan=Number.isInteger(q.targetStart)&&q.targetStart>=0&&originalQuote.slice(q.targetStart,q.targetStart+String(q.target||'').length)===q.target;
+ const targetIndex=q.ability==='vocabulary'&&q.target?(hasTargetSpan?q.targetStart:originalQuote.indexOf(q.target)):-1;
+ const clause=targetIndex<0?'':originalQuote.slice(Math.max(0,originalQuote.lastIndexOf('，',targetIndex)+1,originalQuote.lastIndexOf('。',targetIndex)+1,originalQuote.lastIndexOf('；',targetIndex)+1),Math.min(...['，','。','；'].map(mark=>{const i=originalQuote.indexOf(mark,targetIndex);return i<0?originalQuote.length:i}))).trim();
  const keyQuote=clause.length<=30?clause:'';
  const detail=q.explanation||correct?.explanation||'';
  const extraSummary=summary&&summary!==focus&&!detail.includes(summary)?paragraphs(summary):'';
@@ -67,15 +67,16 @@ function explanationView(q,p,mode){
  return '<div class="explanation"><div class="learning-point"><h3 id="feedback-title" tabindex="-1">先看這題答案</h3><p>'+esc(focus)+'</p>'+(keyQuote?'<p class="key-quote">原句關鍵：'+esc(keyQuote)+'</p>':'')+'</div>'+
   (selected?'<section class="selected-explanation"><h3>你選的選項差在哪裏</h3><p class="selected-answer">'+esc(choiceLabel(selected))+' · '+esc(selected.text)+'</p>'+wrongReason+'</section>':'')+
   (showDetail?'<section class="answer-reason"><h3>本題解析</h3>'+extraSummary+paragraphs(detail)+'</section>':'')+learningView(q)+
-  '<details><summary>逐項辨析'+(selected?' · 其他選項':'')+'</summary>'+others.map(c=>'<div class="choice-review"><p class="choice-review-title">'+esc(choiceLabel(c))+' · '+esc(c.text)+'</p>'+paragraphs(c.explanation,c.id===q.answerId?'detail':'wrong')+'</div>').join('')+'</details></div>';
+  '<details><summary>逐項辨析'+(selected?' · 其他選項':'')+'</summary>'+others.map(c=>'<div class="choice-review"><p class="choice-review-title">'+esc(choiceLabel(c))+' · '+quote({...c,quote:c.text})+'</p>'+paragraphs(c.explanation,c.id===q.answerId?'detail':'wrong')+'</div>').join('')+'</details></div>';
 }
+
 export function answerPanel(q,session,state){
  const attempt=state.attempts.find(e=>e.id===session.answers[q.id]),p=attempt?.payload,mode=answerMode(q,session,p),draft=session.drafts[q.id]||'';
  let html='<div class="question-intro">'+(sourceLabel(q)?'<p class="past-paper-tag">'+esc(sourceLabel(q))+'</p>':'')+'<div class="question-top">'+(questionMistakes(state).has(q.id)?'<span class="mistake-tag">錯題</span>':'')+'<span class="question-tag">'+esc(abilities[q.ability])+' · '+(mode==='typing'?'文字自查':'單項選擇')+'</span><button class="chip" data-action="favorite" data-id="'+esc(q.id)+'">'+(state.favorites[q.id]?.saved?'★ 已收藏':'☆ 收藏')+'</button>'+button('report','反饋／舉報','data-id="'+esc(q.id)+'"','secondary')+'</div><h2 id="question-title" tabindex="-1">'+esc(q.stem)+'</h2></div>';
  const material=questionMaterialView(q);
  html+='<div class="question-layout'+(!material?' question-only':'')+'">'+(material?'<section class="source-panel" aria-label="本題原文">'+material+'</section>':'')+'<div class="answer-controls">';
  if(mode==='typing')html+=p?'<div class="answer-saved">'+esc(p.answer)+'</div>':'<label class="screen-reader" for="answer-input">你的答案</label><textarea id="answer-input" class="answer-input" placeholder="先用自己的話回答，再提交查看參考。">'+esc(draft)+'</textarea><p class="subtle">輸入會自動保存在此帳號。</p>';
- else html+='<div class="options" role="group" aria-label="答案選項">'+q.choices.map(c=>'<button class="option '+((p?.answer||draft)===c.id?'selected ':'')+(p&&c.id===q.answerId?'correct':'')+(p&&p.answer===c.id&&!p.correct?' wrong':'')+'" data-action="choose" data-choice="'+esc(c.id)+'" aria-pressed="'+((p?.answer||draft)===c.id)+'" '+(p?'disabled aria-label="'+esc(choiceLabel(c)+' · '+c.text+(c.id===q.answerId?' · 正確答案':p.answer===c.id?' · 你的答案，答錯':''))+'"':'')+'><b>'+esc(choiceLabel(c))+'</b><span>'+esc(c.text)+'</span></button>').join('')+'</div>';
+ else html+='<div class="options" role="group" aria-label="答案選項">'+q.choices.map(c=>'<button class="option '+((p?.answer||draft)===c.id?'selected ':'')+(p&&c.id===q.answerId?'correct':'')+(p&&p.answer===c.id&&!p.correct?' wrong':'')+'" data-action="choose" data-choice="'+esc(c.id)+'" aria-pressed="'+((p?.answer||draft)===c.id)+'" '+(p?'disabled aria-label="'+esc(choiceLabel(c)+' · '+c.text+(c.id===q.answerId?' · 正確答案':p.answer===c.id?' · 你的答案，答錯':''))+'"':'')+'><b>'+esc(choiceLabel(c))+'</b><span>'+quote({...c,quote:c.text})+'</span></button>').join('')+'</div>';
  if(!p)return html+'<div class="practice-action-bar"><div class="question-actions">'+button('submit','提交答案')+'<div class="practice-secondary-actions">'+button('skip','<span>跳過，換一題</span><small>不計作答</small>','','secondary')+button('unknown','<span>暫時不會</span><small>看解析 · 計入已練與待鞏固</small>','','quiet')+'</div></div></div></div></div>';
  const correction=state.corrections?.filter(c=>c.attemptId===attempt.id).at(-1);if(correction)html+='<p class="banner">此作答的有效評分已更正為'+(correction.correct?'正確':'待鞏固')+'。原始答案保留。'+esc(correction.reason)+'</p>';
  const first=state.firsts.find(f=>f.memoryId===q.memoryId&&f.day===p.day),assessment=state.assessments.get(attempt.id);

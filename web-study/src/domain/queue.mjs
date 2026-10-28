@@ -1,8 +1,9 @@
 import {isDue,isWeak,hkDay,questionMistakes} from './review.mjs';
 import {seenInPractice,wasSeen} from './daily-availability.mjs';
+import {questionPool} from './editorial.mjs';
 export function available(questions,options={}) {
- const {essayIds=[],ability,questionIds,appendix=false,essayTypes,sourceKind}=options;
- return questions.filter(q=>q.status==='reviewed'&&q.active!==false&&q.essayIds.every(id=>essayIds.includes(id)&&(!essayTypes||essayTypes[id]?.includes(q.ability)))&&(!ability||q.ability===ability)&&(!questionIds||questionIds.includes(q.id))&&(!sourceKind||sourceKind==='all'||q.provenance?.kind===sourceKind)&&(!q.tags?.includes('appendix')||appendix));
+ const {essayIds=[],ability,questionIds,appendix=false,essayTypes,sourceKind,studyPool}=options;
+ return questions.filter(q=>q.status==='reviewed'&&q.active!==false&&questionPool(q)!=='pending'&&(!studyPool||questionPool(q)===studyPool)&&q.essayIds.every(id=>essayIds.includes(id)&&(!essayTypes||essayTypes[id]?.includes(q.ability)))&&(!ability||q.ability===ability)&&(!questionIds||questionIds.includes(q.id))&&(!sourceKind||sourceKind==='all'||q.provenance?.kind===sourceKind)&&(!q.tags?.includes('appendix')||appendix));
 }
 const unique=list=>[...new Map(list.map(q=>[q.memoryId,q])).values()];
 export function scopePool(questions,options,state){
@@ -41,7 +42,7 @@ export function quickCards(questions,options,state){
  return unique(available(questions,options).filter(q=>options.scope==='saved'?state.favorites[q.id]?.saved:options.scope==='weak'?isWeak(state.memories[q.memoryId])||isDue(state.memories[q.memoryId]):isWeak(state.memories[q.memoryId])||isDue(state.memories[q.memoryId])||state.favorites[q.id]?.saved).sort((a,b)=>Number(isDue(state.memories[b.memoryId]))-Number(isDue(state.memories[a.memoryId]))||Number(isWeak(state.memories[b.memoryId]))-Number(isWeak(state.memories[a.memoryId]))));
 }
 export function weakness(questions,state,essayId,ability){
- const units=unique(questions.filter(q=>q.status==='reviewed'&&q.active!==false&&q.essayIds.includes(essayId)&&q.ability===ability));
+ const units=unique(questions.filter(q=>q.status==='reviewed'&&q.active!==false&&questionPool(q)!=='pending'&&q.essayIds.includes(essayId)&&q.ability===ability));
  const studied=units.filter(q=>typeof state.memories[q.memoryId]?.correct==='boolean');
  return {total:units.length,studied:studied.length,weak:studied.filter(q=>isWeak(state.memories[q.memoryId])).length,due:studied.filter(q=>isDue(state.memories[q.memoryId])).length,choice:studied.filter(q=>state.memories[q.memoryId].mode==='choice').length,pending:units.filter(q=>state.memories[q.memoryId]?.pending).length,typing:studied.filter(q=>state.memories[q.memoryId].mode==='typing').length,latest:studied.map(q=>state.memories[q.memoryId].day).sort().at(-1),status:!units.length?'unavailable':!studied.length?'unassessed':'assessed'};
 }

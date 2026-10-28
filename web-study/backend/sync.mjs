@@ -1,4 +1,6 @@
+import {validWrittenPayload} from '../src/domain/written.mjs';
 import {validTraining} from '../src/domain/training.mjs';
+import {validateEditorial,validateReleaseQuestion} from '../src/domain/editorial.mjs';
 import { atomic } from './transaction.mjs';
 import { randomBytes, createHash } from 'node:crypto';
 const hash = value => createHash('sha256').update(value).digest('hex');
@@ -37,7 +39,8 @@ export function syncApi({ db, need, body, json, currentQuestion = () => null }) 
     need(event && text(event.id, 300) && date(event.createdAt), '学习事件缺少有效编号或时间。');
     const p = event.payload;
     need(p && typeof p === 'object' && !Array.isArray(p), '事件内容无效。');
-    need(['attempt', 'assessment', 'favorite', 'report', 'browse', 'session', 'settings'].includes(event.type), '事件类型无效。');
+    need(['attempt', 'assessment', 'favorite', 'report', 'browse', 'session', 'settings', 'written'].includes(event.type), '事件类型无效。');
+    if(event.type==='written')need(validWrittenPayload(p),'字詞與句譯記錄無效。');
     if(event.type==='settings'){if(p.training!==undefined)need(validTraining(p.training),'学习设置格式无效。');if(p.dailyGoal!==undefined)need(/^\d{4}-\d{2}-\d{2}$/.test(p.dailyGoal?.day)&&Number.isInteger(p.dailyGoal?.count)&&p.dailyGoal.count>=1&&p.dailyGoal.count<=100,'每日目标格式无效。');}
     if (event.type === 'attempt') {
       if(p.trainingPolicy!==undefined)need(p.trainingPolicy===2&&['daily','retry','extra'].includes(p.practiceKind),'训练记录格式无效。');
@@ -59,7 +62,7 @@ export function syncApi({ db, need, body, json, currentQuestion = () => null }) 
     if (route === '/api/sync' && req.method === 'POST') {
       const input = await body(req); need(Array.isArray(input.events) && input.events.length <= 500, '每次最多同步 500 个事件。');
       input.events.forEach(validate);
-      const ordered = [...input.events].sort((a, b) => Number(a.type === 'assessment') - Number(b.type === 'assessment') || Date.parse(a.createdAt) - Date.parse(b.createdAt) || a.id.localeCompare(b.id));
+      const ordered = [...input.events].sort((a, b) => Number(a.type === 'assessment'||a.type==='written'&&['self','correction'].includes(a.payload.action)) - Number(b.type === 'assessment'||b.type==='written'&&['self','correction'].includes(b.payload.action)) || Date.parse(a.createdAt) - Date.parse(b.createdAt) || a.id.localeCompare(b.id));
       atomic(db, () => {
         for (const event of ordered) {
           validate(event);
@@ -72,12 +75,30 @@ export function syncApi({ db, need, body, json, currentQuestion = () => null }) 
             need(!get('SELECT 1 FROM assessments WHERE user_id=? AND attempt_id=?', user.id, event.payload.attemptId), '首次自查已锁定。', 409);
             run('INSERT INTO assessments VALUES (?, ?, ?, ?)', user.id, event.payload.attemptId, event.id, Number(event.payload.correct));
           }
+          if(event.type==='written'&&event.payload.action==='self'){
+            const prior=get('SELECT * FROM events WHERE user_id=? AND id=? AND type=?',user.id,event.payload.attemptId,'written');
+            const p=prior&&JSON.parse(prior.payload);
+            need(p?.action==='submit'&&p.result.correct===null,'找不到此帳號待自查的文字作答。');
+            // Keep every device's immutable self-review; the first server-accepted
+            // review remains canonical. A later review must not block unrelated writes.
+            if(!get('SELECT 1 FROM assessments WHERE user_id=? AND attempt_id=?',user.id,event.payload.attemptId))
+              run('INSERT INTO assessments VALUES (?, ?, ?, ?)',user.id,event.payload.attemptId,event.id,Number(event.payload.outcome==='complete'));
+          }
+          if(event.type==='written'&&event.payload.action==='correction'){
+            const prior=get('SELECT payload FROM events WHERE user_id=? AND id=? AND type=?',user.id,event.payload.attemptId,'written');
+            need(prior&&JSON.parse(prior.payload).action==='submit','找不到此帳號的原文字作答。');
+          }
           const now = new Date().toISOString();
           run('INSERT INTO events(user_id,id,type,payload,created_at,received_at) VALUES (?, ?, ?, ?, ?, ?)', user.id, event.id, event.type, payload, event.createdAt, now);
           if (event.type === 'report') run('INSERT INTO reports VALUES (?, ?, ?, ?, ?, ?, ?)', randomBytes(18).toString('base64url'), user.id, event.id, payload, 'received', '', now);
         }
       });
-      const events = all('SELECT * FROM events WHERE user_id=? ORDER BY seq', user.id).map(row => ({ id: row.id, type: row.type, payload: JSON.parse(row.payload), createdAt: row.created_at, receivedAt: row.received_at }));
+      const acceptedSelf=new Map(all('SELECT attempt_id,event_id FROM assessments WHERE user_id=?',user.id).map(row=>[row.attempt_id,row.event_id]));
+      const events = all('SELECT * FROM events WHERE user_id=? ORDER BY seq', user.id).map(row => {
+        const payload=JSON.parse(row.payload);
+        return {id:row.id,type:row.type,payload,createdAt:row.created_at,receivedAt:row.received_at,
+          ...(row.type==='written'&&payload.action==='self'?{selfReviewAccepted:acceptedSelf.get(payload.attemptId)===row.id}:{})};
+      });
       json(res, 200, { events, reports: reportRows(user), corrections: correctionRows(user), firstObservations: firstObservations(events, user), serverTime: new Date().toISOString() }); return true;
     }
     if (route === '/api/reports' && req.method === 'GET') { json(res, 200, { reports: reportRows(user) }); return true; }
@@ -118,8 +139,17 @@ export function syncApi({ db, need, body, json, currentQuestion = () => null }) 
       need(text(questionId) && ['withdrawn', 'reviewed'].includes(input.status) && text(input.reason, 5000), '请填写有效的题目状态及修订原因。');
       if (input.revision) need(input.revision.id === questionId && Number.isInteger(input.revision.version) && input.revision.version > 0 && input.revision.source && input.revision.stem && Array.isArray(input.revision.choices) && input.revision.choices.length >= 2 && input.revision.choices.filter(c => c.id === input.revision.answerId).length === 1 && new Set(input.revision.choices.map(c => c.id)).size === input.revision.choices.length && input.revision.choices.every(c => text(c.id) && text(c.text, 5000) && text(c.explanation, 10000)) && text(input.revision.memoryId) && Array.isArray(input.revision.essayIds) && input.revision.essayIds.length > 0 && typeof input.revision.quote === 'string' && input.revision.explanation && input.revision.status === 'reviewed' && input.revision.active === true, '修订必须提交完整题目与来源快照。');
       if (input.revision) {
-        const prior = all('SELECT revision FROM revisions WHERE question_id=? AND revision IS NOT NULL', questionId).map(row => JSON.parse(row.revision).version);
-        need(input.revision.version > Math.max((await currentQuestion(questionId))?.version || 0, ...prior), '新版本必须高于当前及历史版本。', 409);
+        const priorRecords = all('SELECT revision FROM revisions WHERE question_id=? AND revision IS NOT NULL ORDER BY seq', questionId).map(row => JSON.parse(row.revision));
+        const published=await currentQuestion(questionId);
+        const current=[published,...priorRecords].filter(Boolean).reduce((latest,q)=>!latest||q.version>latest.version?q:latest,null);
+        need(input.revision.version > Math.max(current?.version || 0, ...priorRecords.map(q=>q.version)), '新版本必须高于当前及历史版本。', 409);
+        if(current){
+          need(input.revision.memoryId===current.memoryId,'同題修訂不得改移記憶身份；新考點須另建ID。');
+          need(!(input.revision.editorial?.purpose==='simulation'&&(current.editorial?.purpose!=='simulation'||input.revision.prototypeRef!==current.prototypeRef)),'改成另一仿真考查任務須另建ID並記錄替換關係。');
+          if(current.provenance?.kind==='dse-original')need(canonical(input.revision.source)===canonical(current.source)&&canonical(input.revision.provenance)===canonical(current.provenance),'不得改寫官方原題來源紀錄。');
+        }
+        const reviewErrors=await (current?.editorial?validateEditorial(input.revision):validateReleaseQuestion(input.revision));
+        need(reviewErrors.length===0,'修訂未通過逐題審查：'+reviewErrors.join('；'));
       }
       run('INSERT INTO revisions(question_id,status,revision,reason,admin_id,created_at) VALUES (?, ?, ?, ?, ?, ?)', questionId, input.status, input.revision ? canonical(input.revision) : null, input.reason, user.id, new Date().toISOString());
       const affected = all("SELECT user_id,id,payload FROM events WHERE type='attempt'").filter(row => JSON.parse(row.payload).questionId === questionId).length;

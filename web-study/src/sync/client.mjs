@@ -4,6 +4,8 @@ export async function api(path,{token,body,method=body?'POST':'GET'}={}){
  if(!response.ok){const e=new Error(data.error?.message||data.error||'連線失敗');e.status=response.status;throw e;}
  return data;
 }
+// Send parent submissions before assessments, including across batch/byte limits.
+const isSubmission=e=>e.type==='attempt'||e.type==='written'&&e.payload.action==='submit';
 export class SyncClient {
  constructor(repo,token,onStatus=()=>{}){this.repo=repo;this.token=token;this.onStatus=onStatus;this.running=null;this.stopped=false;}
  stop(){this.stopped=true;}
@@ -18,7 +20,7 @@ export class SyncClient {
    let data;
    // A bounded batch prevents a large offline history from exceeding request limits.
    do{
-    const ordered=(await this.repo.pending()).sort((a,b)=>Number(b.type==='attempt')-Number(a.type==='attempt') || Date.parse(a.createdAt)-Date.parse(b.createdAt) || a.id.localeCompare(b.id)).slice(0,100);
+    const ordered=(await this.repo.pending()).sort((a,b)=>Number(isSubmission(b))-Number(isSubmission(a)) || Date.parse(a.createdAt)-Date.parse(b.createdAt) || a.id.localeCompare(b.id)).slice(0,100);
     const pending=[];let bytes=0;for(const e of ordered){const size=new TextEncoder().encode(JSON.stringify(e)).length;if(pending.length&&bytes+size>2_000_000)break;pending.push(e);bytes+=size;}
     data=await api('/api/sync',{token:this.token,body:{events:pending}});
     if(this.stopped)return;

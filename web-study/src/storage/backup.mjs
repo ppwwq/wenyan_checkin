@@ -1,3 +1,4 @@
+import {validWrittenPayload} from '../domain/written.mjs';
 import {validTraining} from '../domain/training.mjs';
 import {project,hkDay} from '../domain/review.mjs';
 
@@ -24,17 +25,17 @@ function session(s){
  check(new Set(s.questions.map(q=>q.id)).size===s.questions.length,'練習題目編號重複');
  check(Number.isInteger(s.index)&&s.index>=0&&s.index<Math.max(1,s.questions.length)&&strings(s.essayIds)&&date(s.startedAt)&&typeof s.completed==='boolean','練習進度無效');
  for(const key of ['answers','drafts'])check(object(s[key])&&Object.entries(s[key]).every(([id,v])=>safeId(id)&&typeof v==='string'&&v.length<=20000),'練習答案或草稿無效');
- check(s.vocabularyTyping===undefined||typeof s.vocabularyTyping==='boolean','字詞作答設定無效');
- if(s.draftsByMode!==undefined)check(object(s.draftsByMode)&&Object.entries(s.draftsByMode).every(([id,modes])=>safeId(id)&&object(modes)&&Object.entries(modes).every(([mode,v])=>['choice','typing'].includes(mode)&&typeof v==='string'&&v.length<=20000)),'分題型草稿無效');
  check(s.skipped===undefined||(strings(s.skipped)&&new Set(s.skipped).size===s.skipped.length&&s.skipped.every(id=>s.questions.some(q=>q.id===id)&&!s.answers[id])),'跳過題目無效');
  check(s.passComplete===undefined||typeof s.passComplete==='boolean','練習進度無效');
  check(s.skippedIds===undefined||(strings(s.skippedIds)&&s.skippedIds.length<=10000&&new Set(s.skippedIds).size===s.skippedIds.length&&s.skippedIds.every(id=>!s.answers[id])),'跳過題目無效');
+ check(s.vocabularyTyping===undefined||typeof s.vocabularyTyping==='boolean','字詞作答設定無效');
+ if(s.draftsByMode!==undefined)check(object(s.draftsByMode)&&Object.entries(s.draftsByMode).every(([id,modes])=>safeId(id)&&object(modes)&&Object.entries(modes).every(([mode,v])=>['choice','typing'].includes(mode)&&typeof v==='string'&&v.length<=20000)),'分題型草稿無效');
  check(s.targetCount===undefined||(Number.isInteger(s.targetCount)&&s.targetCount>=1&&s.targetCount<=100),'練習目標無效');
  if(s.selection!==undefined){
   check(object(s.selection)&&strings(s.selection.essayIds),'練習範圍無效');
   check(s.selection.questionIds===undefined||strings(s.selection.questionIds),'練習範圍無效');
-  check(s.selection.sourceKind===undefined||['all','dse-original'].includes(s.selection.sourceKind),'練習來源無效');
   check(s.selection.vocabularyTyping===undefined||typeof s.selection.vocabularyTyping==='boolean','字詞作答設定無效');
+  check(s.selection.sourceKind===undefined||['all','dse-original'].includes(s.selection.sourceKind),'練習來源無效');
  }
  check(['choice','mixed','typing'].includes(s.mode)&&(s.paused===undefined||typeof s.paused==='boolean'),'練習模式無效');
  check(s.revision===undefined||(Number.isSafeInteger(s.revision)&&s.revision>=0),'練習版本無效');
@@ -46,7 +47,8 @@ export function validateBackup(data,userId){
  for(const e of data.events){
   check(object(e)&&safeId(e.id,300)&&date(e.createdAt)&&object(e.payload));
   const p=e.payload;
-  check(['attempt','assessment','favorite','report','browse','session','settings'].includes(e.type));
+  check(['attempt','assessment','favorite','report','browse','session','settings','written'].includes(e.type));
+  if(e.type==='written')check(validWrittenPayload(p),'字詞與句譯記錄無效');
   if(e.type==='attempt'){
    check(safeId(p.memoryId)&&safeId(p.questionId)&&Number.isInteger(p.questionVersion)&&p.questionVersion>0&&date(p.submittedAt),'作答時間或編號無效');
    question(p.question);check(p.question.id===p.questionId,'作答與題目編號不符');
@@ -73,7 +75,7 @@ export function validateBackup(data,userId){
    check(p.rotation===undefined||(Number.isSafeInteger(p.rotation)&&p.rotation>=0),'輪替設定無效');
   }
   if(unique.has(e.id))check(sameEvent(unique.get(e.id),e),'包含內容衝突的相同編號');
-  else unique.set(e.id,{id:e.id,type:e.type,payload:e.payload,createdAt:e.createdAt,...(e.receivedAt?{receivedAt:e.receivedAt}:{})});
+  else unique.set(e.id,{id:e.id,type:e.type,payload:e.payload,createdAt:e.createdAt,...(e.receivedAt?{receivedAt:e.receivedAt}:{}),...(e.type==='written'&&p.action==='self'&&typeof e.selfReviewAccepted==='boolean'?{selfReviewAccepted:e.selfReviewAccepted}:{})});
  }
  return [...unique.values()];
 }
@@ -87,6 +89,15 @@ export function mergeBackupEvents(existing,incoming){
   const attempt=map.get(e.payload.attemptId);
   check(attempt?.type==='attempt'&&attempt.payload.mode==='typing','自查找不到對應文字作答');
   check(!checked.has(e.payload.attemptId),'同一作答有重複自查');checked.add(e.payload.attemptId);
+ }
+ for(const e of map.values())if(e.type==='written'&&e.payload.action==='self'){
+  const attempt=map.get(e.payload.attemptId);
+  check(attempt?.type==='written'&&attempt.payload.action==='submit'&&attempt.payload.result.correct===null,'自查找不到待核對的句譯／字詞作答');
+  // Written self-reviews from distinct devices are all retained; the server
+  // supplies the canonical first-review receipt on the next sync.
+ }
+ for(const e of map.values())if(e.type==='written'&&e.payload.action==='correction'){
+  const attempt=map.get(e.payload.attemptId);check(attempt?.type==='written'&&attempt.payload.action==='submit','訂正找不到原文字作答');
  }
  const union=[...map.values()];project(union);
  return union;

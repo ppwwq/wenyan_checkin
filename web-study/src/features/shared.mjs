@@ -8,7 +8,43 @@ export function attemptAnswerText(attempt){
 export const button=(action,label,extra='',kind='')=>'<button type="button" class="btn '+kind+'" data-action="'+action+'" '+extra+'>'+label+'</button>';
 export const empty=(title,text='')=>'<div class="empty"><h2>'+esc(title)+'</h2><p>'+esc(text)+'</p></div>';
 export const heading=(title,note='')=>'<div class="page-head"><div><h1>'+esc(title)+'</h1>'+(note?'<p>'+esc(note)+'</p>':'')+'</div></div>';
-export function quote(q){const i=Number.isInteger(q.targetStart)?q.targetStart:q.quote?.indexOf(q.target);return i>=0&&q.target&&q.quote.slice(i,i+q.target.length)===q.target?esc(q.quote.slice(0,i))+'<mark>'+esc(q.target)+'</mark>'+esc(q.quote.slice(i+q.target.length)):esc(q.quote);}
+// Missing or stale positions must never silently select the first repeated glyph.
+export function targetIndex(q){
+ const text=String(q.quote||''),target=String(q.target||'');
+ if(!target)return -1;
+ if(q.targetStart!==undefined){
+  const i=q.targetStart;
+  if(q.targetContext){
+   const at=text.indexOf(q.targetContext);
+   if(at<0||text.indexOf(q.targetContext,at+1)>=0||i<at||i+target.length>at+q.targetContext.length)return -1;
+  }
+  return Number.isInteger(i)&&i>=0&&text.slice(i,i+target.length)===target&&
+   (q.targetEnd===undefined||q.targetEnd===i+target.length)?i:-1;
+ }
+ const i=text.indexOf(target);
+ return i>=0&&text.indexOf(target,i+1)<0?i:-1;
+}
+export function targetRanges(q){
+ if(q.targetSpans===undefined){const start=targetIndex(q);return start<0?[]:[{start,end:start+q.target.length}];}
+ if(!Array.isArray(q.targetSpans)||!q.targetSpans.length||q.targetStart!==undefined||!q.target)return [];
+ const text=String(q.quote||'');let previousEnd=-1;
+ for(const span of q.targetSpans){
+  if(!span||!Number.isInteger(span.start)||!Number.isInteger(span.end)||span.start<previousEnd||span.end!==span.start+q.target.length||text.slice(span.start,span.end)!==q.target)return [];
+  const at=typeof span.context==='string'&&span.context?text.indexOf(span.context):-1;
+  if(at<0||text.indexOf(span.context,at+1)>=0||span.start<at||span.end>at+span.context.length)return [];
+  previousEnd=span.end;
+ }
+ return q.targetSpans;
+}
+export function targetClauses(q){
+ const text=String(q.quote||'');
+ return [...new Set(targetRanges(q).map(({start,end})=>{
+  const left=Math.max(...['，','。','；','：','「','\n'].map(mark=>text.lastIndexOf(mark,start)+1));
+  const right=Math.min(...['，','。','；','！','？','」','\n'].map(mark=>{const i=text.indexOf(mark,end);return i<0?text.length:i;}));
+  return text.slice(left,right).trim();
+ }).filter(clause=>clause&&clause.length<=30))];
+}
+export function quote(q){let result='',cursor=0;for(const {start,end} of targetRanges(q)){result+=esc(q.quote.slice(cursor,start))+'<mark>'+esc(q.quote.slice(start,end))+'</mark>';cursor=end;}return result+esc(String(q.quote||'').slice(cursor));}
 export const essayTitle=(bank,id)=>bank.essays.find(e=>e.id===id)?.title||id;
 
 

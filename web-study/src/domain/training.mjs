@@ -2,14 +2,16 @@ import {hkDay,effectiveAttempts,questionMistakes} from './review.mjs';
 export {effectiveAttempts,questionMistakes} from './review.mjs';
 import {queue,available} from './queue.mjs';
 import {answerMode} from './answer-mode.mjs';
+import {studyPools} from './editorial.mjs';
 import {seenInPractice,wasSeen} from './daily-availability.mjs';
 
 export const trainingAbilities=['vocabulary','meaning','theme','technique'];
 export function validTraining(plan){
+ if(plan?.studyPool!==undefined&&!Object.hasOwn(studyPools,plan.studyPool))return false;
  if(plan?.vocabularyTyping!==undefined&&typeof plan.vocabularyTyping!=='boolean')return false;
  return !!plan&&plan.version===1&&Number.isInteger(plan.dailyCount)&&plan.dailyCount>=1&&plan.dailyCount<=100&&typeof plan.retry==='boolean'&&typeof plan.appendix==='boolean'&&!!plan.chapters&&typeof plan.chapters==='object'&&!Array.isArray(plan.chapters)&&Object.entries(plan.chapters).length<=100&&Object.entries(plan.chapters).every(([id,types])=>/^[\w-]{1,100}$/.test(id)&&Array.isArray(types)&&types.length>0&&types.length<=4&&new Set(types).size===types.length&&types.every(t=>trainingAbilities.includes(t)));
 }
-export function trainingOptions(plan){return {essayIds:Object.keys(plan.chapters),essayTypes:plan.chapters,appendix:plan.appendix,count:plan.dailyCount,scope:'all',ability:'',vocabularyTyping:plan.vocabularyTyping===true};}
+export function trainingOptions(plan){return {essayIds:Object.keys(plan.chapters),essayTypes:plan.chapters,appendix:plan.appendix,count:plan.dailyCount,scope:'all',ability:'',vocabularyTyping:plan.vocabularyTyping===true,studyPool:plan.studyPool};}
 export function dailyProgress(state,today=hkDay()){
  const attempts=effectiveAttempts(state),todays=attempts.filter(a=>a.day===today);
  const seen=new Set(todays.map(a=>a.memoryId));
