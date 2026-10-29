@@ -77,7 +77,20 @@ test('school vocab batches merge by id and v1 stays ahead of template vocab',()=
  const drawn=queue([template,authored,official,plain],{essayIds:['a'],count:10,studyPool:'default'},state).map(item=>item.id);
  assert.deepEqual(drawn,['authored-1','dse-1','plain']);
  assert.deepEqual(queue([template,plain],{essayIds:['a'],count:10,studyPool:'extension'},state).map(item=>item.id),['full-book-1']);
- assert.deepEqual(mergeAuthoredBatches([{items:[{id:'authored-new',stem:'題',choices:[{id:'a',text:'甲'}]}]},{items:[{id:'authored-new',stem:'新題',choices:[{id:'a',text:'乙'}],confidence:'待核'}]}],new Set(['authored-1'])).map(item=>item.stem),['題']);
+ assert.deepEqual(mergeAuthoredBatches([{items:[{id:'authored-new',stem:'題',choices:[{id:'a',text:'甲'}],responseFormat:'single-choice'}]},{items:[{id:'authored-new',stem:'新題',choices:[{id:'a',text:'乙'}],responseFormat:'single-choice',confidence:'待核'}]}],new Set(['authored-1'])).questions.map(item=>item.stem),['題']);
+ const expansion=JSON.parse(readFileSync(new URL('../content/authored-expansion/v1.json',import.meta.url)));
+ assert.equal(expansion.questions.length,146);
+ assert.equal(expansion.daoduHeShuIndex.length,15);
+ const bankIds=new Set(bank.questions.map(item=>item.id));
+ const merged=mergeAuthoredBatches([expansion],bankIds);
+ assert.deepEqual(merged.skipped,['authored-exp-v1-e12-mc02','authored-exp-v1-e14-mc02','authored-exp-v1-e16-mc03','authored-exp-v1-e09-sa01']);
+ assert.equal(merged.questions.length,55);
+ assert.equal(merged.written.length,87);
+ assert.ok(merged.questions.every(item=>item.active===true&&item.status!=='reviewed'&&item.editorial.practiceEnabled===true));
+ assert.equal(mergeAuthoredBatches([expansion],new Set()).skipped.length,0);
+ const essays=bank.essays.map(item=>item.id);
+ assert.equal(available([...bank.questions,...merged.questions],{essayIds:essays,studyPool:'authored'}).filter(item=>String(item.id).startsWith('authored-exp-v1-')).length,55);
+ assert.equal(available([...bank.questions,...merged.questions],{essayIds:essays,studyPool:'default'}).filter(item=>String(item.id).startsWith('authored-exp-v1-')).length,55);
 });
 
 test('sheet run puts school items first and leaves template written vocab out of the default卷',()=>{

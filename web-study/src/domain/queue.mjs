@@ -14,7 +14,7 @@ export function poolOk(q,studyPool){
 }
 export function available(questions,options={}) {
  const {essayIds=[],ability,questionIds,appendix=false,essayTypes,sourceKind,studyPool}=options;
- return questions.filter(q=>q.status==='reviewed'&&q.active!==false&&poolOk(q,studyPool)&&q.essayIds.every(id=>essayIds.includes(id)&&(!essayTypes||essayTypes[id]?.includes(q.ability)))&&(!ability||q.ability===ability)&&(!questionIds||questionIds.includes(q.id))&&(!sourceKind||sourceKind==='all'||q.provenance?.kind===sourceKind)&&(!q.tags?.includes('appendix')||appendix)&&matchesReviewSelection(q,options));
+ return questions.filter(q=>q.active!==false&&(q.status==='reviewed'||q.editorial?.practiceEnabled===true)&&poolOk(q,studyPool)&&q.essayIds.every(id=>essayIds.includes(id)&&(!essayTypes||essayTypes[id]?.includes(q.ability)))&&(!ability||q.ability===ability)&&(!questionIds||questionIds.includes(q.id))&&(!sourceKind||sourceKind==='all'||q.provenance?.kind===sourceKind)&&(!q.tags?.includes('appendix')||appendix)&&matchesReviewSelection(q,options));
 }
 const unique=list=>[...new Map(list.map(q=>[q.memoryId,q])).values()];
 export function scopePool(questions,options,state){

@@ -1,6 +1,6 @@
 // Written practice has its own event family. It never projects into MCQ scores.
 const object=v=>v!==null&&typeof v==='object'&&!Array.isArray(v);
-const id=v=>typeof v==='string'&&/^(?:written|school-vocab):[\w:.-]+$/.test(v)&&v.length<=250&&!v.includes('school-original');
+const id=v=>typeof v==='string'&&(/^(?:written:|school-vocab:)[\w:.-]+$/.test(v)||/^(?:authored-exp-v1-|paper-hexin-)[\w.-]+$/.test(v))&&v.length<=250&&!v.includes('school-original');
 const text=(v,max=3000)=>typeof v==='string'&&v.length<=max;
 export const normalizeWritten=value=>String(value??'').normalize('NFKC').replace(/[\s，。！？、；：,.!?;:“”「」『』"'（）()]/gu,'');
 export function writtenResult(item,answer){
@@ -17,7 +17,7 @@ export function validWrittenItem(item){
  text(item.context,12000)&&text(item.reference,6000)&&Array.isArray(item.accepted)&&item.accepted.length<=100&&
  item.accepted.every(a=>text(a,1000)&&a.length>0)&&
  (item.kind==='vocabulary'||item.accepted.length===0)&&
- ['authored-basic','official-original','authored-translation','school-sheet'].includes(item.origin)&&
+ ['authored-basic','official-original','authored-translation','school-sheet','authored-expansion'].includes(item.origin)&&
  Array.isArray(item.points)&&item.points.length<=100&&item.points.every(a=>text(a,2000))&&
  (item.teachingExamples===undefined||Array.isArray(item.teachingExamples)&&item.teachingExamples.length<=100&&item.teachingExamples.every(a=>text(a,1000)))&&
  ['target','title','essayId','senseId','commonErrors'].every(k=>item[k]===undefined||text(item[k],6000))&&text(item.rubric,6000)&&text(item.sourceLabel,2000);

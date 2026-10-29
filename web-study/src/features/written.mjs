@@ -1,6 +1,6 @@
 import {esc,button,heading} from './shared.mjs';
 import {filterWritten,writtenState} from '../domain/written.mjs';
-const origins={'authored-basic':'自編基礎 · 文字作答','official-original':'官方題 · 文字作答','authored-translation':'自編整句翻譯','school-sheet':'校練詞義'};
+const origins={'authored-basic':'自編基礎 · 文字作答','official-original':'官方題 · 文字作答','authored-translation':'自編整句翻譯','school-sheet':'校練詞義','authored-expansion':'自擬短答 · 非官方'};
 export function writtenView(items,bank,events,options={}){
  const state=writtenState(events),item=items.find(i=>i.id===options.itemId);
  const attempts=state.attempts,done=new Set(attempts.map(a=>a.payload.itemId));
@@ -8,7 +8,7 @@ export function writtenView(items,bank,events,options={}){
   const visible=filterWritten(items,options,events);
   return heading('字詞與整句翻譯','先寫自己的答案，再看參考與逐項自查。這裏的記錄與選擇題分開。打字測義可以一卷連續寫。')+
    (options.kind!=='translation'?button('sheet-start','打字測義 · 開始一卷','','secondary'):'')+
-   '<form id="written-filters" class="scope-panel"><label>練習<select name="kind"><option value="">全部</option><option value="vocabulary" '+(options.kind==='vocabulary'?'selected':'')+'>打字測義（看句寫義）</option><option value="translation" '+(options.kind==='translation'?'selected':'')+'>整句翻譯</option></select></label> '+
+   '<form id="written-filters" class="scope-panel"><label>練習<select name="kind"><option value="">全部</option><option value="vocabulary" '+(options.kind==='vocabulary'?'selected':'')+'>打字測義（看句寫義）</option><option value="translation" '+(options.kind==='translation'?'selected':'')+'>整句翻譯</option><option value="short-answer" '+(options.kind==='short-answer'?'selected':'')+'>自擬短答（非官方）</option></select></label> '+
    '<label>篇章<select name="essay"><option value="">全部篇章</option>'+bank.essays.filter(e=>items.some(i=>i.essayId===e.id)).map(e=>'<option value="'+esc(e.id)+'" '+(options.essay===e.id?'selected':'')+'>'+esc(e.title)+'</option>').join('')+'</select></label> '+
    '<label>來源<select name="origin"><option value="">全部來源</option>'+Object.entries(origins).map(([id,label])=>'<option value="'+id+'" '+(options.origin===id?'selected':'')+'>'+label+'</option>').join('')+'</select></label> '+
    '<label>進度<select name="progress"><option value="">全部</option><option value="unanswered" '+(options.progress==='unanswered'?'selected':'')+'>未作答</option><option value="revisit" '+(options.progress==='revisit'?'selected':'')+'>待自查／需重練</option></select></label> '+

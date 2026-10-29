@@ -12,9 +12,14 @@ export function reviewHallEntry(){
  return '<section class="review-hall-entry start-card" aria-label="複習（題型館）"><div class="start-copy"><p class="eyebrow">複習</p><h2>題型館</h2><p>和今日訓練分開。按題型複習：語境辨義、打字測義、一詞多義、活用、通假、虛詞、跨篇，以及句意、主旨、手法。</p></div>'+button('nav','進入題型館','data-page="review"')+'</section>';
 }
 
-export function reviewHallView(bank,schoolItems=[],writtenItems=[]){
+export function reviewHallView(bank,schoolItems=[],writtenItems=[],shortItems=[]){
  const questions=bank.questions||[],essayIds=(bank.essays||[]).map(e=>e.id);
  const card=t=>{
+  if(t.id==='short-answer'){
+   const countText=shortItems.length?shortItems.length+' 題自擬短答 · 非官方':'暫時沒有自擬短答';
+   const actions=shortItems.length?button('sheet-start','開始短答','data-section="short-answer" data-all="1"'):'';
+   return '<article class="review-type-card"><h2>'+esc(t.label)+'</h2><p>'+esc(t.note)+'</p><p class="subtle">'+countText+'</p><div class="toolbar">'+actions+'</div></article>';
+  }
   const school=schoolItems.filter(item=>t.id==='typing'||schoolSectionType[item.section]===t.id);
   const mcq=t.id==='typing'?0:available(questions,{essayIds,studyPool:'default',reviewTypes:[t.id]}).length;
   const sheetCount=t.id==='typing'?school.length+writtenItems.length:school.length;

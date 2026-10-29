@@ -4,9 +4,10 @@ import {editorialPrototypes} from './editorial-prototypes.mjs';
 import {originalPresentationErrors,hasOriginalPresentationContract} from './original-presentation.mjs';
 import {learningCardErrors,hasLearningCardContract} from './learning-card-contract.mjs';
 import {materialErrors,hasMaterialContract} from './material-contract.mjs';
-import {isExtensionQuestion} from './pools.mjs';
+import {isExtensionQuestion,isAuthoredPractice} from './pools.mjs';
 export const studyPools={default:'預設（自擬＋官方＋非模板）',authored:'自擬',official:'DSE 官方真題',basic:'基礎（不含自擬與官方）',simulation:'已審自編仿真',extension:'擴展：舊模板詞義'};
 export function questionPool(q){
+ if(q?.editorial?.practiceEnabled===true&&isAuthoredPractice(q))return 'authored';
  if(isExtensionQuestion(q))return 'extension';
  if(!q.editorial&&q.status==='reviewed')return q.provenance?.kind==='dse-original'?'official':'basic';
  if(q.provenance?.kind==='dse-original'&&q.editorial?.status==='reviewed'&&q.editorial.questionVersion===q.version)return 'official';

@@ -11,7 +11,8 @@ export const reviewTypes=[
  {id:'cross',label:'詞義跨篇',note:'同一個字，跨篇對照',track:'mcq'},
  {id:'meaning',label:'句意',note:'這句在說甚麼',track:'mcq'},
  {id:'theme',label:'主旨',note:'篇章想表達甚麼',track:'mcq'},
- {id:'technique',label:'手法',note:'修辭與寫作手法',track:'mcq'}
+ {id:'technique',label:'手法',note:'修辭與寫作手法',track:'mcq'},
+ {id:'short-answer',label:'自擬短答',note:'按題目寫短答。自擬評分，不是官方配分。',track:'sheet'}
 ];
 export const reviewTypeIds=reviewTypes.map(t=>t.id);
 
@@ -27,7 +28,7 @@ export const isSpecialVocab=q=>isPolysemy(q)||isFlex(q)||isLoan(q)||isFunctionWo
 
 export function matchesReviewType(q,id){
  if(id==='context')return q.ability==='vocabulary'&&!isSpecialVocab(q);
- if(id==='typing')return false;
+ if(id==='typing'||id==='short-answer')return false;
  if(id==='polysemy')return isPolysemy(q);
  if(id==='flex')return isFlex(q);
  if(id==='loan')return isLoan(q);
@@ -58,6 +59,7 @@ export function matchesReviewSelection(q,options={}){
 export function reviewEmptyMessage(ids=[]){
  if(!ids.length)return '';
  if(ids.every(id=>id==='typing'))return '打字測義不在選擇題裡。請開一卷連續寫：看原句，寫這個語境的意思。';
+ if(ids.every(id=>id==='short-answer'))return '自擬短答不在選擇題裡。請從題型館開短答卷。評分是自擬要點，不是官方配分。';
  const waiting=ids.filter(id=>id!=='typing');
  if(waiting.length&&waiting.every(id=>id==='flex'||id==='loan'))return '選擇題裡可能還沒有這類。校練的活用和通假在打字測義，請開對應的打字卷。沒有條目時就是空的，不會用其他題冒充。';
  return '這個題型篩選下沒有題目。可以清除篩選，或改選篇章。';

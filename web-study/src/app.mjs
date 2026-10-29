@@ -23,11 +23,11 @@ import {advanceWithReplacement,sessionProgress} from './domain/replacement.mjs';
 import {seenInPractice,wasSeen} from './domain/daily-availability.mjs';
 const root=document.querySelector('#root'),dialog=document.querySelector('#dialog');
 let auth=null,repo=null,syncer=null,scheduler=null,localDraftPending=false,bank=null,state=project([]),page='home',session=null,quick={cards:[],index:0},compareTarget='',compareExpanded=false,authMode='login',busy=false,writes=new SaveQueue(),saveError='',status='已保存到本機',serverReports=[],corrections=[],adminReports=[];
-let trainingDraft=null,writtenContent={items:[]},schoolVocab=[],authoredExpansion=[],writtenOptions={},writtenDraftTimer=null,writtenPending=null;
+let trainingDraft=null,writtenContent={items:[]},schoolVocab=[],authoredExpansion=[],authoredShort=[],writtenOptions={},writtenDraftTimer=null,writtenPending=null;
 function practiceBank(){return authoredExpansion.length?{...bank,questions:[...bank.questions,...authoredExpansion]}:bank;}
 function practiceWritten(){
- const school=schoolVocabForSheet(schoolVocab),seen=new Set(school.map(item=>item.id));
- return [...school,...currentWritten().filter(item=>!seen.has(item.id))];
+ const school=schoolVocabForSheet(schoolVocab),seen=new Set([...school,...authoredShort].map(item=>item.id));
+ return [...school,...authoredShort,...currentWritten().filter(item=>!seen.has(item.id))];
 }
 async function loadJsonBatches(dir){
  try{
@@ -123,7 +123,8 @@ async function loadBank(){
 function tagComparisons(){for(const q of bank.questions)q.comparisonAvailable=!!q.target&&bank.comparisons.some(g=>g.status==='reviewed'&&(g.id===q.comparisonGroupId||g.items.some(i=>i.questionId===q.id)));}
 async function loadExtraContent(){
  schoolVocab=mergeSchoolBatches(await loadJsonBatches('school-vocab'));
- authoredExpansion=mergeAuthoredBatches(await loadJsonBatches('authored-expansion'),new Set(bank.questions.map(q=>q.id)));
+ const authored=mergeAuthoredBatches(await loadJsonBatches('authored-expansion'),new Set(bank.questions.map(q=>q.id)));
+ authoredExpansion=authored.questions;authoredShort=authored.written;
 }
 async function openAccount(){
  await saveWrittenDraft();writtenOptions={};scheduler?.stop();if(syncer)syncer.stop();if(repo)repo.close();repo=await Repository.open(auth.user.id);writes=new SaveQueue();saveError='';localDraftPending=false;
@@ -161,7 +162,7 @@ function render(){
  document.body.classList.toggle('in-session',page==='practice');document.body.dataset.page=page;const inSheet=page==='written'&&writtenOptions.sheet;const activePage=['review','weakness','saved','quick','mistakes'].includes(page)||inSheet?'review':['practice','compare','written'].includes(page)?'library':page;const navHtml=(mobile=false)=>nav.filter(([id])=>!mobile||!['weakness','saved','quick'].includes(id)).map(([id,label],i)=>'<button data-action="nav" data-page="'+id+'" class="'+(activePage===id?'active':'')+'"'+(activePage===id?' aria-current="page"':'')+'>'+'<span class="nav-icon" aria-hidden="true">'+navigationIcon(id)+'</span><span>'+label+'</span>'+(!mobile?'<span class="nav-index" aria-hidden="true">0'+(i+1)+'</span>':'')+'</button>').join('');
  root.innerHTML='<a class="skip-link" href="#main">跳至主要內容</a><div class="shell"><aside class="sidebar"><div class="brand"><img class="brand-icon" src="/assets/icon.svg" alt="" width="44" height="44"><div><div class="brand-name">DSE文言練習</div><small class="muted">文言研習手冊 · 十六篇</small></div></div><nav class="nav" aria-label="主要導航">'+navHtml()+'</nav><div class="sidebar-bottom"><p class="sidebar-motto">日日有所得。</p>'+button('training-settings','學習設定 ↗','','quiet')+'</div></aside><div class="workspace"><header class="topbar"><div class="mobile-brand"><img class="brand-icon" src="/assets/icon.svg" alt="" width="44" height="44">DSE文言練習</div><div class="breadcrumb"><b>'+esc(({mistakes:'錯題複習',saved:'我的收藏',quick:'快速回顧',weakness:'薄弱知識點',compare:'詞義對照',review:'複習（題型館）',written:inSheet?'打字測義':'字詞與句譯',training:'學習設定',reports:'題目回報',admin:'回報維護',practice:'練習中'})[page]||nav.find(n=>n[0]===page)?.[1]||'練習')+'</b></div><div class="top-actions"><span id="sync-status" class="status-line" role="status">'+esc(status)+'</span><button data-action="settings" aria-label="調整全站字號">字號 Aa</button></div></header><div id="save-error" class="save-error" role="alert" hidden></div><main class="page" id="main" tabindex="-1"></main></div></div><nav class="mobile-nav" aria-label="行動導航">'+navHtml(true)+'</nav>';
  showSaveError(saveError?new Error(saveError):null);
- const views={written:()=>writtenView(practiceWritten(),bank,state.events,writtenOptions),home:()=>homeView(practiceBank(),state),review:()=>reviewHallView(practiceBank(),schoolVocab,currentWritten().filter(i=>i.kind==='vocabulary'&&!isTemplateWritten(i))),mistakes:()=>mistakesView(practiceBank(),state),training:()=>trainingView(practiceBank(),trainingDraft?{...state,settings:{...state.settings,training:trainingDraft}}:state,options),library:()=>libraryView(practiceBank(),state,options,schoolVocab),practice:()=>session?practiceView(bank,session,state):empty('沒有進行中的練習'),weakness:()=>weaknessView(practiceBank(),state,options),history:()=>historyView(bank,state),saved:()=>savedView(practiceBank(),state,options),quick:()=>quickView(practiceBank(),state,options,quick),compare:()=>compareView(bank,options,compareTarget,compareExpanded),reports:()=>reportsView(mergedReports()),account:accountView,admin:adminView};
+ const views={written:()=>writtenView(practiceWritten(),bank,state.events,writtenOptions),home:()=>homeView(practiceBank(),state),review:()=>reviewHallView(practiceBank(),schoolVocab,currentWritten().filter(i=>i.kind==='vocabulary'&&!isTemplateWritten(i)),authoredShort),mistakes:()=>mistakesView(practiceBank(),state),training:()=>trainingView(practiceBank(),trainingDraft?{...state,settings:{...state.settings,training:trainingDraft}}:state,options),library:()=>libraryView(practiceBank(),state,options,schoolVocab),practice:()=>session?practiceView(bank,session,state):empty('沒有進行中的練習'),weakness:()=>weaknessView(practiceBank(),state,options),history:()=>historyView(bank,state),saved:()=>savedView(practiceBank(),state,options),quick:()=>quickView(practiceBank(),state,options,quick),compare:()=>compareView(bank,options,compareTarget,compareExpanded),reports:()=>reportsView(mergedReports()),account:accountView,admin:adminView};
  document.querySelector('#main').innerHTML=(views[page]||views.home)()+(page==='home'&&corrections.length?'<div class="banner">你有 '+corrections.length+' 項評分更正。'+button('nav','查看更正原因','data-page="account"','quiet')+'</div>':'');
  measureActions();
 }
@@ -225,6 +226,13 @@ async function startDaily(kind='daily'){
 }
 async function startSheet(section='',all=false){
  const essayIds=all?bank.essays.map(e=>e.id):options.essayIds;
+ const selected=new Set(essayIds||[]);
+ if(section==='short-answer'){
+  const items=authoredShort.filter(item=>!selected.size||(item.essayIds||[item.essayId]).some(id=>selected.has(id)));
+  if(!items.length){toast('這範圍還沒有自擬短答。');if(page!=='review')await go('review');return;}
+  writtenOptions={kind:'short-answer',itemId:items[0].id,fresh:false,sheet:{ids:items.map(i=>i.id),index:0}};
+  await go('written');document.querySelector('#written-answer')?.focus();return;
+ }
  const items=sheetQueue(currentWritten(),{essayIds,section:section==='typing'?'':section,includeTemplate:options.studyPool==='extension'},schoolVocab);
  if(!items.length){toast('這範圍還沒有可連續寫的字詞。');if(page!=='review')await go('review');return;}
  writtenOptions={kind:'vocabulary',itemId:items[0].id,fresh:false,sheet:{ids:items.map(i=>i.id),index:0}};
