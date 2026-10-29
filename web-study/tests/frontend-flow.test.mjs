@@ -13,7 +13,7 @@ test('every full passage and vocabulary translation survives the paired learning
   const html=learningView(q);
   for(const p of q.learning?.passages||[]){
    assert.ok(html.replace(/<mark>|<\/mark>/g,'').includes(esc(p.original)),q.id+' original');
-   if(q.ability==='vocabulary'&&p.translation)assert.ok(html.includes(esc(p.translation)),q.id+' full translation');
+   if(p.translation)assert.ok(html.includes(esc(p.translation)),q.id+' translation');
   }
   for(const k of q.learning?.knowledge||[])assert.ok(html.includes(esc(k.text)),q.id+' knowledge');
  }
@@ -64,5 +64,17 @@ test('feedback uses short verified source quotations when the stem has no quote'
  const html=learningView(q),visible=html.slice(0,html.indexOf('<details'));
  assert.ok(visible.includes('<blockquote>非不呺然大也，吾為其無用而掊之</blockquote>'));
  assert.ok(!visible.includes('前文')&&!visible.includes('不存在的原文'));
+ assert.ok(!html.includes('全句語譯'));
  assert.equal(questionMaterialView(q),'');
+});
+test('meaning, theme and technique show a stored passage translation after answering',()=>{
+ for(const ability of ['meaning','theme','technique']){
+  const q=bank.questions.find(item=>item.ability===ability&&(item.learning?.passages||[]).some(p=>p.translation));
+  assert.ok(q,ability);
+  assert.match(learningView(q),/全句語譯/);
+  for(const p of q.learning.passages)if(p.translation)assert.ok(learningView(q).includes(esc(p.translation)),q.id);
+  assert.equal(practiceView(bank,make(q),project([])).includes('全句語譯'),false,q.id);
+ }
+ const vocab=bank.questions.find(item=>item.ability==='vocabulary'&&item.learning.passages.some(p=>p.translation));
+ assert.match(learningView(vocab),/全句語譯/);
 });

@@ -32,7 +32,7 @@ export function learningView(q){
  const prototype=q.editorial?.purpose==='simulation'?editorialPrototypes[q.prototypeRef]:null;
  const prototypeNote=prototype?'<details class="prototype-details"><summary>自編題的真題原型</summary><p>'+prototype.year+' 年卷一甲部第 '+esc(prototype.question)+' 題；原卷 PDF 第 '+prototype.questionPdfPage+' 頁，評分參考 PDF 第 '+prototype.markingPdfPage+' 頁。</p><p>'+esc(q.editorial.imitationScope)+'</p><p>本題為自編，並非官方原題；未經難度等值試測。</p></details>':'';
  const passages=q.learning?.passages||[],knowledge=q.learning?.knowledge||[];
- const translated=q.ability==='vocabulary'&&passages.some(p=>p.translation);
+ const translated=passages.some(p=>p.translation);
  const context=translated?passages.map(p=>'<div class="passage-pair">'+passageView(p,q)+(p.translation?'<div class="sentence-translation"><h4>全句語譯</h4><p>'+esc(p.translation)+'</p></div>':'')+'</div>').join(''):originalView(q);
  const longContext=passages.reduce((n,p)=>n+p.original.length,0)>160||(passages.length>1&&q.quote?.trim());
  const cited=[...String(q.explanation||'').matchAll(/「([^「」]{4,80})」/g)].map(m=>m[1]).filter((text,i,all)=>all.indexOf(text)===i&&passages.some(p=>p.original.includes(text))).slice(0,2);

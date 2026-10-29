@@ -1,3 +1,4 @@
+// 2026-10-29：學習設定裡的 vocabularyTyping 開關已停用。這份舊瀏覽器腳本仍會找那個核取方塊。
 import assert from 'node:assert/strict';
 import {readFile,mkdir,writeFile} from 'node:fs/promises';
 import {createApp} from '../backend/server.mjs';

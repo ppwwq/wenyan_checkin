@@ -54,6 +54,7 @@ const navigationIcons={
   "quick": "<path d=\"M7 9V7a3 3 0 0 1 3-3h15a3 3 0 0 1 3 3v14\"/><rect x=\"4\" y=\"9\" width=\"20\" height=\"19\" rx=\"3\"/><path d=\"M9 15h10m-10 5h5m3 3 3-3-3-3\"/>",
   "home": "<path d=\"m4 15 12-10 12 10M7 13v14h7v-8h4v8h7V13\"/>",
   "library": "<path d=\"M16 8C12 5 7 5 3 6v20c4-1 9-1 13 2 4-3 9-3 13-2V6c-4-1-9-1-13 2Zm0 0v20M7 11h4m-4 5h4m10-5h4m-4 5h4\"/>",
+  "review": "<path d=\"M6 7h8a4 4 0 0 1 4 4v14H10a4 4 0 0 0-4 4V7Z\"/><path d=\"M18 11h8v18a4 4 0 0 0-4-4h-4V11Z\"/>",
   "history": "<rect x=\"5\" y=\"7\" width=\"22\" height=\"21\" rx=\"3\"/><path d=\"M10 4v6m12-6v6M5 14h22m-16 7 3 3 7-6\"/>",
   "account": "<circle cx=\"16\" cy=\"10\" r=\"5\"/><path d=\"M6 28v-3a10 10 0 0 1 20 0v3\"/>"
 };

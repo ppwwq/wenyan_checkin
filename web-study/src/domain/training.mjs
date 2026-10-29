@@ -4,14 +4,16 @@ import {queue,available} from './queue.mjs';
 import {answerMode} from './answer-mode.mjs';
 import {studyPools} from './editorial.mjs';
 import {seenInPractice,wasSeen} from './daily-availability.mjs';
+import {reviewTypeIds} from './review-types.mjs';
 
 export const trainingAbilities=['vocabulary','meaning','theme','technique'];
 export function validTraining(plan){
  if(plan?.studyPool!==undefined&&!Object.hasOwn(studyPools,plan.studyPool))return false;
  if(plan?.vocabularyTyping!==undefined&&typeof plan.vocabularyTyping!=='boolean')return false;
+ if(plan?.reviewTypes!==undefined&&!(Array.isArray(plan.reviewTypes)&&plan.reviewTypes.length<=reviewTypeIds.length&&new Set(plan.reviewTypes).size===plan.reviewTypes.length&&plan.reviewTypes.every(id=>reviewTypeIds.includes(id))))return false;
  return !!plan&&plan.version===1&&Number.isInteger(plan.dailyCount)&&plan.dailyCount>=1&&plan.dailyCount<=100&&typeof plan.retry==='boolean'&&typeof plan.appendix==='boolean'&&!!plan.chapters&&typeof plan.chapters==='object'&&!Array.isArray(plan.chapters)&&Object.entries(plan.chapters).length<=100&&Object.entries(plan.chapters).every(([id,types])=>/^[\w-]{1,100}$/.test(id)&&Array.isArray(types)&&types.length>0&&types.length<=4&&new Set(types).size===types.length&&types.every(t=>trainingAbilities.includes(t)));
 }
-export function trainingOptions(plan){return {essayIds:Object.keys(plan.chapters),essayTypes:plan.chapters,appendix:plan.appendix,count:plan.dailyCount,scope:'all',ability:'',vocabularyTyping:plan.vocabularyTyping===true,studyPool:plan.studyPool};}
+export function trainingOptions(plan){return {essayIds:Object.keys(plan.chapters),essayTypes:plan.chapters,appendix:plan.appendix,count:plan.dailyCount,scope:'all',ability:'',vocabularyTyping:false,reviewTypes:plan.reviewTypes||[],studyPool:plan.studyPool};}
 export function dailyProgress(state,today=hkDay()){
  const attempts=effectiveAttempts(state),todays=attempts.filter(a=>a.day===today);
  const seen=new Set(todays.map(a=>a.memoryId));
@@ -41,10 +43,10 @@ export function todayRetryIds(state,today=hkDay()){
  }
  return ids;
 }
-export function dailyQuestions(questions,state,today=hkDay()){
+export function dailyQuestions(questions,state,today=hkDay(),schoolVocab=[]){
  const plan=state.settings.training;if(!validTraining(plan))return [];
  const progress=dailyProgress(state,today);if(!progress.remaining)return [];
- return queue(questions,{...trainingOptions(plan),count:progress.remaining,rotation:state.settings.rotation||0,excludeMemoryIds:[...progress.seen],priorityMode:'daily'},state,today);
+ return queue(questions,{...trainingOptions(plan),count:progress.remaining,rotation:state.settings.rotation||0,excludeMemoryIds:[...progress.seen],priorityMode:'daily',...(schoolVocab.length?{schoolVocab}:{})},state,today);
 }
 
 // Reconcile all unfinished queues against today's presentations and bank revisions.
@@ -59,7 +61,7 @@ export function refreshTrainingSession(questions,state,original,today=hkDay()){
  for(const a of state.attempts.filter(e=>e.payload.sessionId===session.id))answers[a.payload.questionId]=a.id;
  // Keep both draft formats when a learner changes the daily answer setting.
  // Submitted answers always use the mode stored with their attempt.
- const nextMode=plan.vocabularyTyping!==undefined||session.vocabularyTyping!==undefined?{...session,vocabularyTyping:plan.vocabularyTyping===true}:session;
+ const nextMode=plan.vocabularyTyping!==undefined||session.vocabularyTyping!==undefined?{...session,vocabularyTyping:false}:session;
  const snapshots=new Map([...questions,...session.questions].map(q=>[q.id,q]));
  for(const [id,draft] of Object.entries(session.drafts||{})){
   const q=snapshots.get(id);if(!q||answers[id])continue;

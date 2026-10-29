@@ -1,9 +1,11 @@
 import {isDue,isWeak,hkDay,questionMistakes} from './review.mjs';
 import {seenInPractice,wasSeen} from './daily-availability.mjs';
 import {questionPool} from './editorial.mjs';
+import {matchesReviewSelection} from './review-types.mjs';
+import {schoolVocabPriority} from './school-vocab.mjs';
 export function available(questions,options={}) {
  const {essayIds=[],ability,questionIds,appendix=false,essayTypes,sourceKind,studyPool}=options;
- return questions.filter(q=>q.status==='reviewed'&&q.active!==false&&questionPool(q)!=='pending'&&(!studyPool||questionPool(q)===studyPool)&&q.essayIds.every(id=>essayIds.includes(id)&&(!essayTypes||essayTypes[id]?.includes(q.ability)))&&(!ability||q.ability===ability)&&(!questionIds||questionIds.includes(q.id))&&(!sourceKind||sourceKind==='all'||q.provenance?.kind===sourceKind)&&(!q.tags?.includes('appendix')||appendix));
+ return questions.filter(q=>q.status==='reviewed'&&q.active!==false&&questionPool(q)!=='pending'&&(!studyPool||questionPool(q)===studyPool)&&q.essayIds.every(id=>essayIds.includes(id)&&(!essayTypes||essayTypes[id]?.includes(q.ability)))&&(!ability||q.ability===ability)&&(!questionIds||questionIds.includes(q.id))&&(!sourceKind||sourceKind==='all'||q.provenance?.kind===sourceKind)&&(!q.tags?.includes('appendix')||appendix)&&matchesReviewSelection(q,options));
 }
 const unique=list=>[...new Map(list.map(q=>[q.memoryId,q])).values()];
 export function scopePool(questions,options,state){
@@ -29,7 +31,7 @@ export function queue(questions,options,state,today=hkDay(),random=Math.random) 
  const {essayIds=[],count=10,rotation=0,strategy='balanced'}=options;
  if(!Number.isInteger(Number(count))||count<1||count>100) throw new Error('請輸入 1–100 的整數');
  const list=practicePool(questions,options,state,today);
- const priority=q=>isDue(state.memories[q.memoryId],today)?0:options.priorityMode!=='daily'&&isWeak(state.memories[q.memoryId])?1:!state.memories[q.memoryId]?2:3;
+ const priority=q=>(isDue(state.memories[q.memoryId],today)?0:options.priorityMode!=='daily'&&isWeak(state.memories[q.memoryId])?1:!state.memories[q.memoryId]?2:3)+schoolVocabPriority(q,options.schoolVocab);
  let order=[...essayIds.slice(rotation%Math.max(1,essayIds.length)),...essayIds.slice(0,rotation%Math.max(1,essayIds.length))];
  if(strategy==='weak') order.sort((a,b)=>list.filter(q=>q.essayIds.includes(b)&&isWeak(state.memories[q.memoryId])).length-list.filter(q=>q.essayIds.includes(a)&&isWeak(state.memories[q.memoryId])).length);
  if(list.some(q=>!q.essayIds.length&&q.tags?.includes('appendix')))order.push('@appendix');
@@ -47,4 +49,4 @@ export function weakness(questions,state,essayId,ability){
  return {total:units.length,studied:studied.length,weak:studied.filter(q=>isWeak(state.memories[q.memoryId])).length,due:studied.filter(q=>isDue(state.memories[q.memoryId])).length,choice:studied.filter(q=>state.memories[q.memoryId].mode==='choice').length,pending:units.filter(q=>state.memories[q.memoryId]?.pending).length,typing:studied.filter(q=>state.memories[q.memoryId].mode==='typing').length,latest:studied.map(q=>state.memories[q.memoryId].day).sort().at(-1),status:!units.length?'unavailable':!studied.length?'unassessed':'assessed'};
 }
 
-export function quickScopeKey(options){return JSON.stringify({essays:[...options.essayIds].sort(),ability:options.ability||'',appendix:!!options.appendix,sourceKind:options.sourceKind||'all',scope:options.quickScope||'both'});}
+export function quickScopeKey(options){return JSON.stringify({essays:[...options.essayIds].sort(),ability:options.ability||'',appendix:!!options.appendix,sourceKind:options.sourceKind||'all',scope:options.quickScope||'both',reviewTypes:[...(options.reviewTypes||[])].sort(),tags:[...(options.tags||[])].sort(),assessmentType:[].concat(options.assessmentType||[]).sort().join('|'),crossEssay:options.crossEssay===true});}

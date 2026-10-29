@@ -8,7 +8,7 @@ const q={id:'legacy',memoryId:'legacy',essayIds:['e'],ability:'vocabulary',statu
 const settings={id:'settings',type:'settings',createdAt:at,payload:{training:plan}};
 test('new pool selection and existing vocabulary typing coexist and reject invalid pools',()=>{
  assert.equal(validTraining(plan),true);assert.equal(validTraining({...plan,studyPool:'unknown'}),false);
- assert.equal(trainingOptions(plan).studyPool,'basic');assert.equal(trainingOptions(plan).vocabularyTyping,true);
+ assert.equal(trainingOptions(plan).studyPool,'basic');assert.equal(trainingOptions(plan).vocabularyTyping,false);assert.deepEqual(trainingOptions(plan).reviewTypes,[]);
 });
 test('production legacy questions stay drawable and wrong choices retain one same-day retry',()=>{
  const state=project([settings],day);assert.deepEqual(dailyQuestions([q],state,day).map(q=>q.id),['legacy']);

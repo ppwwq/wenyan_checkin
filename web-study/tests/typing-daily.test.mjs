@@ -25,10 +25,9 @@ test('typing vocabulary reuses 56 choice records without adding a separate bank 
  for(const q of vocab)assert.equal(q.choices.filter(c=>c.id===q.answerId).length,1);
 });
 
-test('daily typing is opt-in, only affects compatible vocabulary, and never overrides a submitted mode',()=>{
- for(const enabled of [undefined,false])assert.equal(answerMode(q,{mode:'choice',vocabularyTyping:enabled,index:2}),'choice');
- const s={mode:'choice',vocabularyTyping:true,index:0};assert.equal(answerMode(q,s),'typing');
- for(const other of [qs[2],qs[3],{...q,provenance:{kind:'dse-original'}}])assert.equal(answerMode(other,s),'choice');
+test('vocabularyTyping no longer hides choices, while a submitted typing answer keeps its mode',()=>{
+ for(const enabled of [undefined,false,true])assert.equal(answerMode(q,{mode:'choice',vocabularyTyping:enabled,index:2}),'choice');
+ const s={mode:'choice',vocabularyTyping:true,index:0};assert.equal(answerMode(q,s),'choice');
  assert.equal(answerMode(q,s,{mode:'choice'}),'choice');assert.equal(answerMode(q,{...s,vocabularyTyping:false},{mode:'typing'}),'typing');
  assert.equal(answerMode(q,{mode:'mixed',index:2}),'typing');
 });
@@ -36,22 +35,18 @@ test('daily typing is opt-in, only affects compatible vocabulary, and never over
 test('the daily setting validates, persists in backup, and lives within the existing training form',()=>{
  const p={...plan,vocabularyTyping:true};assert.equal(validTraining(p),true);assert.equal(validTraining(plan),true);
  for(const value of [null,'true',1])assert.equal(validTraining({...plan,vocabularyTyping:value}),false);
- assert.equal(trainingOptions(p).vocabularyTyping,true);
+ assert.equal(trainingOptions(p).vocabularyTyping,false);
  assert.equal(validateBackup({format:'wenyan-backup-v1',userId:'u',events:[setting(p)]},'u')[0].payload.training.vocabularyTyping,true);
  const html=trainingView({essays:[{id:'e',title:'篇章'}],questions:qs},state(p),{});
- assert.match(html,/name="vocabularyTyping" type="checkbox" checked/);assert.equal((html.match(/<form/g)||[]).length,1);assert.doesNotMatch(html,/data-action="typing/);
+ assert.match(html,/字詞打字開關已停用/);assert.doesNotMatch(html,/name="vocabularyTyping"/);assert.match(html,/data-review-type="typing"/);assert.equal((html.match(/<form/g)||[]).length,1);
 });
 
-test('changing daily mode restores the correct draft in both directions without rewriting history',()=>{
+test('turning the retired typing flag on does not move the choice draft',()=>{
  const original=make(),on={...plan,vocabularyTyping:true};
- let updated=refreshTrainingSession(qs,state(on),original,day);
- assert.equal(updated.vocabularyTyping,true);assert.equal(updated.drafts.a,'');assert.equal(updated.draftsByMode.a.choice,'b');assert.equal(original.drafts.a,'b');
- updated.drafts.a='自己的詞義';
- updated=refreshTrainingSession(qs,state({...plan,vocabularyTyping:false}),updated,day);
- assert.equal(updated.drafts.a,'b');assert.equal(updated.draftsByMode.a.typing,'自己的詞義');
- updated=refreshTrainingSession(qs,state(on),updated,day);assert.equal(updated.drafts.a,'自己的詞義');
- const backup={format:'wenyan-backup-v1',userId:'u',events:[{id:'save',type:'session',createdAt:time,payload:{session:updated}}]};
- assert.deepEqual(validateBackup(backup,'u')[0].payload.session.draftsByMode,updated.draftsByMode);
+ const updated=refreshTrainingSession(qs,state(on),original,day);
+ assert.equal(updated.vocabularyTyping,false);assert.equal(updated.drafts.a,'b');assert.equal(answerMode(q,updated),'choice');assert.equal(original.drafts.a,'b');
+ const backup={format:'wenyan-backup-v1',userId:'u',events:[{id:'save',type:'session',createdAt:time,payload:{session:{...updated,draftsByMode:{a:{choice:'b',typing:'舊草稿'}}}}}]};
+ assert.equal(validateBackup(backup,'u')[0].payload.session.draftsByMode.a.typing,'舊草稿');
  const invalid=structuredClone(backup);invalid.events[0].payload.session.draftsByMode.a.typing=42;assert.throws(()=>validateBackup(invalid,'u'),/草稿/);
 });
 
@@ -84,13 +79,13 @@ test('typed self-check drives wrong-question retry, with no extra daily credit a
 
 test('typed skip keeps draft, supplies an unseen question, and creates no attempted knowledge point',()=>{
  const s={...make(),vocabularyTyping:true,drafts:{a:'草稿'},questions:[q],selection:{...trainingOptions({...plan,vocabularyTyping:true}),count:1},targetCount:1},p=state();
- advanceWithReplacement(s,p,qs,true);assert.equal(s.questions[0].id,'b');assert.equal(answerMode(s.questions[0],s),'typing');assert.equal(s.drafts.a,'草稿');assert.deepEqual(s.skippedIds,['a']);assert.equal(dailyProgress(p,day).done,0);
- const switched=refreshTrainingSession(qs,state({...plan,vocabularyTyping:false}),s,day);assert.equal(switched.draftsByMode.a.typing,'草稿');assert.equal(switched.drafts.a,'');
+ advanceWithReplacement(s,p,qs,true);assert.equal(s.questions[0].id,'b');assert.equal(answerMode(s.questions[0],s),'choice');assert.equal(s.drafts.a,'草稿');assert.deepEqual(s.skippedIds,['a']);assert.equal(dailyProgress(p,day).done,0);
+ const switched=refreshTrainingSession(qs,state({...plan,vocabularyTyping:false}),s,day);assert.equal(switched.vocabularyTyping,false);assert.equal(switched.drafts.a,'草稿');
 });
 
-test('typing shows no options or answer before submission and requires self-check afterwards',()=>{
+test('the retired typing flag keeps choices visible, and an old typing submission still needs self-check',()=>{
  const s={...make(),vocabularyTyping:true,drafts:{}},p=state();
- const before=answerPanel(q,s,p);assert.match(before,/textarea/);assert.doesNotMatch(before,/class="options"|先看這題答案/);
+ const before=answerPanel(q,s,p);assert.match(before,/class="options"/);assert.doesNotMatch(before,/textarea/);
  const a=attempt();s.answers.a=a.id;const after=answerPanel(q,s,state(plan,[a]));assert.match(after,/意思/);assert.match(after,/self-check/);assert.doesNotMatch(after,/data-action="next"/);
  assert.match(answerPanel(q,s,state(plan,[a,assess(a.id,true)])),/data-action="next"/);
 });

@@ -1,0 +1,102 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFileSync} from 'node:fs';
+import {available,queue} from '../src/domain/queue.mjs';
+import {sheetQueue,sheetAt} from '../src/domain/sheet-run.mjs';
+import {loadSchoolVocab,schoolVocabPriority,schoolVocabForSheet} from '../src/domain/school-vocab.mjs';
+import {homeView} from '../src/features/records.mjs';
+import {reviewHallView} from '../src/features/review-hall.mjs';
+import {libraryView} from '../src/features/library.mjs';
+import {writtenView} from '../src/features/written.mjs';
+import {project} from '../src/domain/review.mjs';
+
+const bank=JSON.parse(readFileSync(new URL('../content/bank.json',import.meta.url)));
+const written=JSON.parse(readFileSync(new URL('../content/written-practice.json',import.meta.url)));
+const q=(id,essays=['a'],extra={})=>({id,memoryId:id,essayIds:essays,ability:'vocabulary',status:'reviewed',active:true,...extra});
+const state={memories:{},favorites:{},attempts:[]};
+const essays=bank.essays.map(e=>e.id);
+
+test('question filters read tags, assessmentType, crossEssay and review types without inventing school tags',()=>{
+ const flex=q('flex',['a'],{tags:['school-flex']});
+ const loan=q('loan',['a'],{tags:['school-loan']});
+ const poly=q('poly',['a'],{assessmentType:'polysemy'});
+ const plain=q('plain',['a']);
+ const cross=q('cross',['a','b']);
+ const pool=[flex,loan,poly,plain,cross];
+ assert.deepEqual(available(pool,{essayIds:['a','b'],tags:['school-flex']}).map(x=>x.id),['flex']);
+ assert.deepEqual(available(pool,{essayIds:['a','b'],tags:['missing-tag']}),[]);
+ assert.deepEqual(available(pool,{essayIds:['a'],assessmentType:'polysemy'}).map(x=>x.id),['poly']);
+ assert.deepEqual(available(pool,{essayIds:['a'],assessmentType:['polysemy']}).map(x=>x.id),['poly']);
+ assert.deepEqual(available(pool,{essayIds:['a','b'],crossEssay:true}).map(x=>x.id),['cross']);
+ assert.deepEqual(available(pool,{essayIds:['a','b'],crossEssay:false}).map(x=>x.id),['flex','loan','poly','plain']);
+ assert.deepEqual(available(pool,{essayIds:['a','b'],reviewTypes:['flex','loan']}).map(x=>x.id),['flex','loan']);
+ assert.deepEqual(available(pool,{essayIds:['a'],reviewTypes:['context']}).map(x=>x.id),['plain']);
+ assert.deepEqual(available(pool,{essayIds:['a'],reviewTypes:['typing']}),[]);
+ assert.deepEqual(available(pool,{essayIds:['a','b']}).map(x=>x.id),pool.map(x=>x.id));
+ assert.equal(available(bank.questions,{essayIds:essays,reviewTypes:['flex']}).length,0);
+ assert.equal(available(bank.questions,{essayIds:essays,reviewTypes:['loan']}).length,0);
+ assert.ok(available(bank.questions,{essayIds:essays,reviewTypes:['polysemy']}).length>0);
+ assert.ok(available(bank.questions,{essayIds:essays,reviewTypes:['function']}).length>0);
+ const context=available(bank.questions,{essayIds:essays,reviewTypes:['context']});
+ assert.ok(context.length>0);
+ assert.ok(context.every(item=>item.ability==='vocabulary'&&item.assessmentType!=='polysemy'&&!item.tags?.includes('confusable')));
+});
+
+test('school vocab loader stays empty for private items and does not change the queue until a reviewed list exists',()=>{
+ assert.deepEqual(loadSchoolVocab(null),[]);
+ assert.deepEqual(loadSchoolVocab({items:[{provenance:{kind:'school-original'},section:'gloss',quote:'子曰',target:'曰',accepted:['說']}]}),[]);
+ const item={id:'school-1',essayId:'essay-01',section:'gloss',quote:'子曰',target:'曰',accepted:['說'],sourcePage:1,provenance:{kind:'school-sheet'}};
+ assert.equal(loadSchoolVocab({items:[item]})[0].id,'school-1');
+ assert.equal(schoolVocabForSheet([item]).length,0);
+ assert.equal(schoolVocabPriority(q('full',['a'],{tags:['full-book-expansion']}),[]),0);
+ const template=q('full',['a'],{tags:['full-book-expansion']});
+ const plain=q('plain',['a']);
+ const school=q('school',['a'],{provenance:{kind:'school-sheet'}});
+ const base={essayIds:['a'],count:10};
+ assert.deepEqual(queue([template,plain,school],base,state).map(x=>x.id),queue([template,plain,school],{...base,schoolVocab:[]},state).map(x=>x.id));
+ const preferred=queue([template,plain,school],{...base,schoolVocab:[item]},state).map(x=>x.id);
+ assert.ok(preferred.indexOf('school')<preferred.indexOf('full'));
+ assert.equal(preferred.at(-1),'full');
+});
+
+test('sheet run keeps written vocabulary order and moves to the next item without a list',()=>{
+ assert.equal(written.items.length,949);
+ assert.equal(written.items.filter(i=>i.kind==='vocabulary').length,659);
+ const ordered=sheetQueue(written.items);
+ assert.deepEqual(ordered.map(i=>i.id),written.items.filter(i=>i.kind==='vocabulary').map(i=>i.id));
+ assert.equal(sheetQueue(written.items,{},[{provenance:{kind:'school-original'},kind:'vocabulary'}]).length,659);
+ const sample={id:'written:school-demo',version:1,kind:'vocabulary',origin:'authored-basic',essayId:'essay-01',prompt:'解釋。',context:'原文約。',target:'約',reference:'窮困',accepted:['窮困'],points:['語境'],rubric:'自查',sourceLabel:'樣',provenance:{kind:'school-sheet'}};
+ assert.equal(sheetQueue(written.items,{essayIds:['essay-01']},[sample])[0].id,'written:school-demo');
+ const two=ordered.slice(0,2);
+ assert.deepEqual(sheetAt(two,0),{index:0,total:2,item:two[0],last:false});
+ assert.equal(sheetAt(two,1).last,true);
+ const html=writtenView(two,{essays:[],questions:[]},[],{itemId:two[0].id,sheet:{ids:two.map(i=>i.id),index:0}});
+ assert.match(html,/第 1 \/ 2 題/);
+ assert.match(html,/data-action="sheet-next"/);
+ assert.match(html,/下一題|跳過，下一題/);
+ assert.doesNotMatch(html,/library-grid/);
+ assert.doesNotMatch(html,/返回文字練習/);
+});
+
+test('home review entry is the type hall, and saved or wrong items stay inside it',()=>{
+ const home=homeView({essays:[],questions:[]},project([]));
+ assert.match(home,/題型館/);
+ assert.match(home,/進入題型館/);
+ assert.match(home,/data-page="review"/);
+ assert.match(home,/打字測義（看句寫義）/);
+ assert.doesNotMatch(home,/home-shortcuts/);
+ assert.doesNotMatch(home,/data-page="saved"/);
+ const hall=reviewHallView({questions:[],essays:[]},3);
+ for(const label of ['語境辨義','打字測義','一詞多義','詞類活用','通假','虛詞','詞義跨篇','句意','主旨','手法'])assert.match(hall,new RegExp(label));
+ assert.match(hall,/review-sub/);
+ assert.match(hall,/錯題/);
+ assert.match(hall,/data-page="saved"/);
+ assert.match(hall,/data-page="weakness"/);
+ assert.match(hall,/data-page="quick"/);
+ const library=libraryView({questions:[],essays:[{id:'e',title:'篇'}]},project([]),{essayIds:['e'],count:10,scope:'all',ability:'',studyPool:'basic',appendix:false,reviewTypes:['flex']});
+ assert.match(library,/data-review-type="flex"/);
+ assert.match(library,/school-flex/);
+ const typing=libraryView({questions:[],essays:[{id:'e',title:'篇'}]},project([]),{essayIds:['e'],count:10,scope:'all',ability:'',studyPool:'basic',appendix:false,reviewTypes:['typing']});
+ assert.match(typing,/開打字測義卷/);
+ assert.match(typing,/不在選擇題/);
+});

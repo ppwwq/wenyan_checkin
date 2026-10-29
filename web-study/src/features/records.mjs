@@ -1,16 +1,13 @@
 import {dailyHomeView} from './training.mjs';
+import {reviewHallEntry} from './review-hall.mjs';
 import {hkDay,addDays,isDue,isWeak} from '../domain/review.mjs';
 import {weakness,quickCards,available} from '../domain/queue.mjs';
-import {esc,button,heading,essayTitle,abilities,empty,quote,navigationIcon} from './shared.mjs';
-function reviewShortcuts(){
- const entries=[['nav','saved','收藏'],['wrong-practice','','錯題'],['nav','quick','快速回顧']];
- return '<section class="review-group"><div class="section-title"><h2>複習</h2></div><nav class="home-shortcuts" aria-label="複習入口">'+entries.map(([action,page,label])=>'<button type="button" class="home-shortcut" data-action="'+action+'" '+(page?'data-page="'+page+'"':'')+'><span class="home-shortcut-icon">'+navigationIcon(page||'weakness')+'</span><span class="home-shortcut-copy"><strong>'+label+'</strong></span></button>').join('')+'</nav><div class="toolbar">'+button('nav','薄弱知識點','data-page="weakness"','quiet')+button('nav','詞義對照','data-page="compare"','quiet')+'</div></section>';
-}
+import {esc,button,heading,essayTitle,abilities,empty,quote} from './shared.mjs';
 export function studyPaths(compact=false){
- const entries=[['written-list','vocabulary','字詞輸入','在原句中，寫出字詞的意思。','字'],['written-list','translation','整句理解／翻譯','先寫譯文，再逐項核對。','句'],['nav','library','篇章與混合重溫','選擇篇章，練習與辨析。','篇']];
- return '<section class="study-paths '+(compact?'compact':'')+'" aria-label="練習方式"><div class="section-title"><h2>換個方式，讀深一點</h2><span class="subtle">字 · 句 · 篇</span></div><div class="study-path-grid">'+entries.filter(e=>!compact||e[0]!=='nav').map(([action,value,label,note,letter])=>'<button type="button" class="study-path" data-action="'+action+'" '+(action==='nav'?'data-page':'data-kind')+'="'+value+'"><span class="path-letter" aria-hidden="true">'+letter+'</span><span class="path-copy"><strong>'+label+'</strong><small>'+note+'</small></span><span class="path-arrow" aria-hidden="true">↗</span></button>').join('')+'</div></section>';
+ const entries=[['sheet-start','','打字測義（看句寫義）','看原句，寫出這個語境的意思。一卷連續寫。','字'],['written-list','translation','整句理解／翻譯','先寫譯文，再逐項核對。','句'],['nav','library','篇章與混合重溫','選擇篇章，練習與辨析。','篇']];
+ return '<section class="study-paths '+(compact?'compact':'')+'" aria-label="練習方式"><div class="section-title"><h2>換個方式，讀深一點</h2><span class="subtle">字 · 句 · 篇</span></div><div class="study-path-grid">'+entries.filter(e=>!compact||e[0]!=='nav').map(([action,value,label,note,letter])=>'<button type="button" class="study-path" data-action="'+action+'" '+(action==='nav'?'data-page="'+value+'"':value?'data-kind="'+value+'"':'')+'><span class="path-letter" aria-hidden="true">'+letter+'</span><span class="path-copy"><strong>'+label+'</strong><small>'+note+'</small></span><span class="path-arrow" aria-hidden="true">↗</span></button>').join('')+'</div></section>';
 }
-export function homeView(bank,state){return '<header class="home-heading"><div><p class="edition-label">文言研習 / 每日一習</p><h1>溫故，而知新。</h1></div><span class="home-heading-note">把理解留住，讓積累有跡可循。</span></header>'+dailyHomeView(bank,state)+studyPaths()+reviewShortcuts();}
+export function homeView(bank,state){return '<header class="home-heading"><div><p class="edition-label">文言研習 / 每日一習</p><h1>溫故，而知新。</h1></div><span class="home-heading-note">把理解留住，讓積累有跡可循。</span></header>'+dailyHomeView(bank,state,reviewHallEntry())+studyPaths();}
 export function weaknessView(bank,state,options){
  const essays=bank.essays.filter(e=>options.essayIds.includes(e.id));
  const rows=essays.map(e=>({essay:e,cells:Object.entries(abilities).map(([id,label])=>({id,label,...weakness(bank.questions,state,e.id,id)}))}));
