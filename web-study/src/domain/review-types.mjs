@@ -4,9 +4,9 @@
 export const reviewTypes=[
  {id:'context',label:'語境辨義',note:'看句子，四選一選詞義',track:'mcq'},
  {id:'typing',label:'打字測義',note:'看句寫義，一卷連續寫',track:'sheet'},
- {id:'polysemy',label:'一詞多義',note:'同一個字，不同句子可以不同意思',track:'mcq'},
- {id:'flex',label:'詞類活用',note:'等校練標籤 school-flex',track:'mcq'},
- {id:'loan',label:'通假',note:'等校練標籤 school-loan',track:'mcq'},
+ {id:'polysemy',label:'一詞多義',note:'同一個字，不同句子可以不同意思。校練題用打字。',track:'mcq'},
+ {id:'flex',label:'詞類活用',note:'校練標籤 school-flex。有條目就用打字練。',track:'mcq'},
+ {id:'loan',label:'通假',note:'校練標籤 school-loan。有條目就用打字練。',track:'mcq'},
  {id:'function',label:'虛詞',note:'之、乎、者、也一類',track:'mcq'},
  {id:'cross',label:'詞義跨篇',note:'同一個字，跨篇對照',track:'mcq'},
  {id:'meaning',label:'句意',note:'這句在說甚麼',track:'mcq'},
@@ -59,6 +59,6 @@ export function reviewEmptyMessage(ids=[]){
  if(!ids.length)return '';
  if(ids.every(id=>id==='typing'))return '打字測義不在選擇題裡。請開一卷連續寫：看原句，寫這個語境的意思。';
  const waiting=ids.filter(id=>id!=='typing');
- if(waiting.length&&waiting.every(id=>id==='flex'||id==='loan'))return '詞類活用和通假要等校練標籤 school-flex、school-loan 核完才有題。現在題庫沒有這些標籤，所以是空的，不會用其他題冒充。';
+ if(waiting.length&&waiting.every(id=>id==='flex'||id==='loan'))return '選擇題裡可能還沒有這類。校練的活用和通假在打字測義，請開對應的打字卷。沒有條目時就是空的，不會用其他題冒充。';
  return '這個題型篩選下沒有題目。可以清除篩選，或改選篇章。';
 }

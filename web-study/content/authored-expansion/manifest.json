@@ -1,0 +1,4 @@
+{
+  "note": "自拟加量。把 authored-expansion-v1.json 放进这个目录，并在 batches 末尾追加文件名。按 id 增量合并；题库里已有的 id 不覆盖。不写入 school-original。",
+  "batches": []
+}

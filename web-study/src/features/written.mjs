@@ -1,6 +1,6 @@
 import {esc,button,heading} from './shared.mjs';
 import {filterWritten,writtenState} from '../domain/written.mjs';
-const origins={'authored-basic':'自編基礎 · 文字作答','official-original':'官方題 · 文字作答','authored-translation':'自編整句翻譯'};
+const origins={'authored-basic':'自編基礎 · 文字作答','official-original':'官方題 · 文字作答','authored-translation':'自編整句翻譯','school-sheet':'校練詞義'};
 export function writtenView(items,bank,events,options={}){
  const state=writtenState(events),item=items.find(i=>i.id===options.itemId);
  const attempts=state.attempts,done=new Set(attempts.map(a=>a.payload.itemId));
@@ -27,7 +27,7 @@ export function writtenView(items,bank,events,options={}){
  const back=sheet?'<p class="sheet-progress">打字測義 · 第 '+(sheet.index+1)+' / '+sheet.ids.length+' 題</p>'+button('nav','← 題型館','data-page="review"','quiet'):button('written-list','← 返回文字練習','','quiet');
  let html=back+'<section class="answer-panel written-panel"><p class="question-tag">'+origins[q.origin]+'</p><h1>'+esc(q.prompt)+'</h1><blockquote>'+context+'</blockquote>';
  if(!last)return html+'<label for="written-answer">你的'+(q.kind==='translation'?'完整譯文':'答案')+'</label><textarea id="written-answer" class="answer-input" maxlength="3000" placeholder="'+(q.kind==='translation'?'保留人物、動作、否定、條件及語氣。':q.kind==='short-answer'?'按題目要求摘錄原句，或用自己的話簡答。':'用這個語境中的意思作答。')+'">'+esc(draft)+'</textarea><p class="subtle">草稿會保存到此帳號。提交後才顯示參考答案。</p><div class="toolbar">'+button('written-submit','提交並核對','data-id="'+esc(q.id)+'"')+sheetMove(false)+'</div></section>';
- html+='<div class="answer-saved">'+esc(last.payload.answer)+'</div><section class="feedback"><h2 tabindex="-1" id="written-feedback">'+(last.payload.result.correct===true?'與已核答案一致':'請逐項核對意思')+'</h2><p>'+(q.kind!=='vocabulary'?'本題不按關鍵字自動判分；下列是核對依據。':last.payload.result.correct===true?'這是文字練習的答案匹配；不是另算一次官方考試分數。':'未匹配不等於答錯。合理改寫請依語境和下列要點自查。')+'</p><h3>參考答案</h3><p>'+esc(q.reference)+'</p>';
+ html+='<div class="answer-saved">'+esc(last.payload.answer)+'</div><section class="feedback"><h2 tabindex="-1" id="written-feedback">'+(last.payload.result.correct===true?'與已核答案一致':'請逐項核對意思')+'</h2><p>'+(q.confidence==='待核'?'這條校練仍待核，不會自動判對，也不會判錯。':q.kind!=='vocabulary'?'本題不按關鍵字自動判分；下列是核對依據。':last.payload.result.correct===true?'這是文字練習的答案匹配；不是另算一次官方考試分數。':'未匹配不等於答錯。合理改寫請依語境和下列要點自查。')+'</p><h3>參考答案</h3><p>'+esc(q.reference)+'</p>';
  if(q.accepted.length>1)html+='<p>已核可接受表述：'+esc(q.accepted.join('／'))+'</p>';
  if(q.teachingExamples?.length)html+='<p>教學同義示例（編者補充）：'+esc(q.teachingExamples.join('／'))+'</p>';
  html+='<ul>'+q.points.map(p=>'<li>'+esc(p)+'</li>').join('')+'</ul><h3>本題評分／自查規則</h3><p class="preserve-lines">'+esc(q.rubric)+'</p><details><summary>來源與常見錯譯</summary><p>'+esc(q.sourceLabel)+'</p><p>'+esc(q.commonErrors||'')+'</p></details>';

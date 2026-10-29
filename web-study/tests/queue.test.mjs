@@ -6,7 +6,7 @@ const state={memories:{},favorites:{}};
 const wrongAttempt=id=>({id,payload:{questionId:id,memoryId:id,submittedAt:'2026-09-24T01:00:00Z',mode:'choice',correct:false}});
 
 test('new queues shuffle display positions while keeping logical keys and saved order',()=>{
- const original=q('x',['a'],{choices:['a','b','c','d'].map(id=>({id,text:'text-'+id,explanation:'why-'+id})),answerId:'a'});
+ const original=q('x',['a'],{responseFormat:'single-choice',choices:['a','b','c','d'].map(id=>({id,text:'text-'+id,explanation:'why-'+id})),answerId:'a'});
  const before=structuredClone(original);
  const [first]=queue([original],{essayIds:['a'],count:1},state,'2026-09-23',()=>0);
  assert.notDeepEqual(first.choices.map(c=>c.id),['a','b','c','d']);

@@ -1,11 +1,20 @@
 import {isDue,isWeak,hkDay,questionMistakes} from './review.mjs';
 import {seenInPractice,wasSeen} from './daily-availability.mjs';
 import {questionPool} from './editorial.mjs';
+import {isAuthoredPractice,sourceRank} from './pools.mjs';
 import {matchesReviewSelection} from './review-types.mjs';
 import {schoolVocabPriority} from './school-vocab.mjs';
+export function poolOk(q,studyPool){
+ const pool=questionPool(q);
+ if(pool==='pending')return false;
+ if(!studyPool||studyPool==='default')return pool!=='extension';
+ if(studyPool==='authored')return isAuthoredPractice(q);
+ if(studyPool==='basic')return pool==='basic';
+ return pool===studyPool;
+}
 export function available(questions,options={}) {
  const {essayIds=[],ability,questionIds,appendix=false,essayTypes,sourceKind,studyPool}=options;
- return questions.filter(q=>q.status==='reviewed'&&q.active!==false&&questionPool(q)!=='pending'&&(!studyPool||questionPool(q)===studyPool)&&q.essayIds.every(id=>essayIds.includes(id)&&(!essayTypes||essayTypes[id]?.includes(q.ability)))&&(!ability||q.ability===ability)&&(!questionIds||questionIds.includes(q.id))&&(!sourceKind||sourceKind==='all'||q.provenance?.kind===sourceKind)&&(!q.tags?.includes('appendix')||appendix)&&matchesReviewSelection(q,options));
+ return questions.filter(q=>q.status==='reviewed'&&q.active!==false&&poolOk(q,studyPool)&&q.essayIds.every(id=>essayIds.includes(id)&&(!essayTypes||essayTypes[id]?.includes(q.ability)))&&(!ability||q.ability===ability)&&(!questionIds||questionIds.includes(q.id))&&(!sourceKind||sourceKind==='all'||q.provenance?.kind===sourceKind)&&(!q.tags?.includes('appendix')||appendix)&&matchesReviewSelection(q,options));
 }
 const unique=list=>[...new Map(list.map(q=>[q.memoryId,q])).values()];
 export function scopePool(questions,options,state){
@@ -35,7 +44,7 @@ export function queue(questions,options,state,today=hkDay(),random=Math.random) 
  let order=[...essayIds.slice(rotation%Math.max(1,essayIds.length)),...essayIds.slice(0,rotation%Math.max(1,essayIds.length))];
  if(strategy==='weak') order.sort((a,b)=>list.filter(q=>q.essayIds.includes(b)&&isWeak(state.memories[q.memoryId])).length-list.filter(q=>q.essayIds.includes(a)&&isWeak(state.memories[q.memoryId])).length);
  if(list.some(q=>!q.essayIds.length&&q.tags?.includes('appendix')))order.push('@appendix');
- const buckets=new Map(order.map(id=>[id,list.filter(q=>id==='@appendix'?!q.essayIds.length&&q.tags?.includes('appendix'):q.essayIds[0]===id).sort((a,b)=>priority(a)-priority(b)||a.id.localeCompare(b.id))]));
+ const buckets=new Map(order.map(id=>[id,list.filter(q=>id==='@appendix'?!q.essayIds.length&&q.tags?.includes('appendix'):q.essayIds[0]===id).sort((a,b)=>priority(a)-priority(b)||sourceRank(a)-sourceRank(b)||a.id.localeCompare(b.id))]));
  const result=[],used=new Set(),usedGroups=new Set(); let changed=true;
  while(result.length<count&&changed){changed=false;for(const id of order){const bucket=buckets.get(id);let q;while(bucket?.length){q=bucket.shift();if(!used.has(q.memoryId)&&(!q.practiceGroup||!usedGroups.has(q.practiceGroup)))break;q=null;}if(q){result.push(q);used.add(q.memoryId);if(q.practiceGroup)usedGroups.add(q.practiceGroup);changed=true;}if(result.length>=count)break;}}
  return result.map(q=>shuffledQuestion(q,random));
@@ -44,7 +53,7 @@ export function quickCards(questions,options,state){
  return unique(available(questions,options).filter(q=>options.scope==='saved'?state.favorites[q.id]?.saved:options.scope==='weak'?isWeak(state.memories[q.memoryId])||isDue(state.memories[q.memoryId]):isWeak(state.memories[q.memoryId])||isDue(state.memories[q.memoryId])||state.favorites[q.id]?.saved).sort((a,b)=>Number(isDue(state.memories[b.memoryId]))-Number(isDue(state.memories[a.memoryId]))||Number(isWeak(state.memories[b.memoryId]))-Number(isWeak(state.memories[a.memoryId]))));
 }
 export function weakness(questions,state,essayId,ability){
- const units=unique(questions.filter(q=>q.status==='reviewed'&&q.active!==false&&questionPool(q)!=='pending'&&q.essayIds.includes(essayId)&&q.ability===ability));
+ const units=unique(questions.filter(q=>q.status==='reviewed'&&q.active!==false&&questionPool(q)!=='pending'&&questionPool(q)!=='extension'&&q.essayIds.includes(essayId)&&q.ability===ability));
  const studied=units.filter(q=>typeof state.memories[q.memoryId]?.correct==='boolean');
  return {total:units.length,studied:studied.length,weak:studied.filter(q=>isWeak(state.memories[q.memoryId])).length,due:studied.filter(q=>isDue(state.memories[q.memoryId])).length,choice:studied.filter(q=>state.memories[q.memoryId].mode==='choice').length,pending:units.filter(q=>state.memories[q.memoryId]?.pending).length,typing:studied.filter(q=>state.memories[q.memoryId].mode==='typing').length,latest:studied.map(q=>state.memories[q.memoryId].day).sort().at(-1),status:!units.length?'unavailable':!studied.length?'unassessed':'assessed'};
 }

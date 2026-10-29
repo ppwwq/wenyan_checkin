@@ -1,4 +1,5 @@
-import {studyPools,questionPool} from '../domain/editorial.mjs';
+import {studyPools} from '../domain/editorial.mjs';
+import {poolOk} from '../domain/queue.mjs';
 import {practicedIds,questionProgress} from '../domain/choice-progress.mjs';
 import {esc,button,heading,abilities,essayTitle} from './shared.mjs';
 import {reviewTypeChecks} from './review-hall.mjs';
@@ -6,11 +7,11 @@ import {dailyProgress,retryQuestions,questionMistakes,validTraining,trainingAbil
 
 export function trainingView(bank,state,options){
  const saved=state.settings.training,legacy=!saved&&options.hasPreviousSelection;
- const plan=validTraining(saved)?saved:{version:1,studyPool:'basic',chapters:Object.fromEntries((legacy?options.essayIds||[]:[]).map(id=>[id,options.ability?[options.ability]:trainingAbilities])),dailyCount:options.count||20,retry:true,appendix:!!options.appendix};
+ const plan=validTraining(saved)?saved:{version:1,studyPool:'default',chapters:Object.fromEntries((legacy?options.essayIds||[]:[]).map(id=>[id,options.ability?[options.ability]:trainingAbilities])),dailyCount:options.count||20,retry:true,appendix:!!options.appendix};
  const wrong=questionMistakes(state),attempted=practicedIds(state);
  let selectedCount=0;
  const cards=bank.essays.map(e=>{
-  const qs=bank.questions.filter(q=>q.essayIds.includes(e.id)&&q.status==='reviewed'&&q.active!==false&&questionPool(q)!=='pending'&&(!plan.studyPool||questionPool(q)===plan.studyPool)),selected=qs.length>0&&Object.hasOwn(plan.chapters,e.id);
+  const qs=bank.questions.filter(q=>q.essayIds.includes(e.id)&&q.status==='reviewed'&&q.active!==false&&poolOk(q,plan.studyPool||'default')),selected=qs.length>0&&Object.hasOwn(plan.chapters,e.id);
   if(selected)selectedCount++;
   const types=Object.entries(abilities).map(([type,label])=>{
    const count=qs.filter(q=>q.ability===type).length,checked=count>0&&(!selected||plan.chapters[e.id].includes(type));
@@ -21,7 +22,7 @@ export function trainingView(bank,state,options){
  }).join('');
  return heading(saved?'學習設定':'設定我的訓練','先選正在學的篇章，再定每日題量。題目類型可按需要展開調整。')+
  (legacy?'<p class="banner">沿用原有選擇作為建議；請確認一次。已有作答與草稿全部保留。</p>':'')+
- '<form id="training-form" data-first="'+(!saved&&!legacy)+'"><section class="scope-panel"><label>題池<select name="studyPool" id="training-pool" required>'+(!plan.studyPool?'<option value="" selected disabled>舊設定：請選擇題池</option>':'')+Object.entries(studyPools).map(([value,label])=>'<option value="'+value+'" '+(plan.studyPool===value?'selected':'')+'>'+label+'</option>').join('')+'</select></label><p class="section-note">基礎鞏固、已審自編仿真與官方真題分開組題；待核題不進仿真池。舊設定只保留已核題；待核題的歷史作答與草稿仍保留。</p></section><h2>1. 選擇篇章</h2><p class="section-note">可先選 1–2 篇；每篇預選全部可用題型，之後隨時調整。</p><div class="toolbar">'+button('training-all','全選','','quiet')+button('training-none','清除選擇','','quiet')+'</div><div class="library-grid training-grid">'+cards+'</div>'+
+ '<form id="training-form" data-first="'+(!saved&&!legacy)+'"><section class="scope-panel"><label>題池<select name="studyPool" id="training-pool" required>'+(!plan.studyPool?'<option value="" selected disabled>舊設定：請選擇題池</option>':'')+Object.entries(studyPools).map(([value,label])=>'<option value="'+value+'" '+(plan.studyPool===value?'selected':'')+'>'+label+'</option>').join('')+'</select></label><p class="section-note">預設包含自擬、官方和其餘非模板題。舊模板詞義在「擴展」裡，預設不抽。自擬也可以單獨選。</p></section><h2>1. 選擇篇章</h2><p class="section-note">可先選 1–2 篇；每篇預選全部可用題型，之後隨時調整。</p><div class="toolbar">'+button('training-all','全選','','quiet')+button('training-none','清除選擇','','quiet')+'</div><div class="library-grid training-grid">'+cards+'</div>'+
  '<section class="scope-panel"><label class="check-row"><input name="appendix" type="checkbox" '+(plan.appendix?'checked':'')+'> 加入獨立手法附錄</label></section>'+
  '<section class="scope-panel"><h2>2. 安排每日題量</h2><label for="daily-count">每日題量</label> <input id="daily-count" name="dailyCount" class="count-field" type="number" min="1" max="100" required value="'+plan.dailyCount+'"><div class="toolbar">'+[10,20,30].map(n=>button('daily-count',n+' 題','data-count="'+n+'"','secondary')).join('')+'</div><p class="subtle">同一知識點及同組辨析題每天只出現一次，答錯或跳過也不當天重出。每日零點按香港時間更新；修改目標不清除今日進度。</p><label class="check-row"><input name="retry" type="checkbox" '+(plan.retry?'checked':'')+'> 安排往日錯題複習（今天已出現的不再安排）</label></section>'+
  '<section class="scope-panel"><h2>3. 題型篩選</h2><p class="section-note">不勾＝每日訓練不限題型。打字測義不會把選擇題改成輸入框，請到題型館開卷。</p><div class="review-type-options">'+reviewTypeChecks(plan.reviewTypes)+'</div><p class="subtle">字詞打字開關已停用。舊設定裡如果開過，也不會再把四選一藏起選項。</p></section>'+

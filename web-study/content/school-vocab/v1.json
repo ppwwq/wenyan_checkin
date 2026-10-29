@@ -1,0 +1,1624 @@
+{
+  "schemaVersion": 1,
+  "title": "school-vocab-v1",
+  "status": "mentor-reviewed-draft",
+  "createdAt": "2026-10-29T19:07:52+08:00",
+  "sourceDir": "/workspace/school-sheets-2026-10-29",
+  "sourceDraft": "/workspace/school-vocab-v1-draft.json",
+  "mentorReview": {
+    "reviewedAt": "2026-10-29T19:07:52+08:00",
+    "reviewer": "中文导师",
+    "fixedIds": [
+      "school-vocab:essay-08:moshu:011",
+      "school-vocab:essay-01:explain:005",
+      "school-vocab:essay-01:explain:070",
+      "school-vocab:essay-01:explain:007",
+      "school-vocab:essay-01:explain:008",
+      "school-vocab:essay-01:explain:018",
+      "school-vocab:essay-01:explain:041",
+      "school-vocab:essay-01:explain:047",
+      "school-vocab:essay-01:explain:050",
+      "school-vocab:essay-01:explain:054",
+      "school-vocab:essay-01:explain:067",
+      "school-vocab:essay-08:moshu:015",
+      "school-vocab:essay-08:moshu:016"
+    ],
+    "remainingPending": [
+      "school-vocab:essay-01:explain:007",
+      "school-vocab:essay-01:explain:008",
+      "school-vocab:essay-01:explain:018",
+      "school-vocab:essay-01:explain:041",
+      "school-vocab:essay-01:explain:047",
+      "school-vocab:essay-01:explain:050",
+      "school-vocab:essay-01:explain:054",
+      "school-vocab:essay-01:explain:067"
+    ],
+    "notes": "红笔6项已核；遊改为学生勾对＋交融补充。待核8条可先接入练习，判分宜宽松／自查。禁止覆盖949基线；origin=school-sheet。"
+  },
+  "stats": {
+    "total": 95,
+    "byEssay": {
+      "essay-08": 20,
+      "essay-01": 75
+    },
+    "bySheetType": {
+      "moshu": 20,
+      "explain": 75
+    },
+    "bySection": {
+      "gloss": 82,
+      "polysemy": 10,
+      "loan": 2,
+      "flex": 1
+    },
+    "byConfidence": {
+      "高": 87,
+      "待核": 8
+    },
+    "teacherCorrection": 5
+  },
+  "items": [
+    {
+      "id": "school-vocab:essay-08:moshu:001",
+      "essayId": "essay-08",
+      "sheetType": "moshu",
+      "section": "gloss",
+      "quote": "自余為僇人",
+      "target": "僇",
+      "accepted": [
+        "罪人"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSSWWKE8MKMSZEYC5KRS0.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-08:moshu:002",
+      "essayId": "essay-08",
+      "sheetType": "moshu",
+      "section": "gloss",
+      "quote": "其隙也，則施施而行，漫漫而遊",
+      "target": "施施",
+      "accepted": [
+        "慢慢地"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSSWWKE8MKMSZEYC5KRS0.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-08:moshu:003",
+      "essayId": "essay-08",
+      "sheetType": "moshu",
+      "section": "gloss",
+      "quote": "其隙也，則施施而行，漫漫而遊",
+      "target": "漫漫",
+      "accepted": [
+        "无拘无束地"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSSWWKE8MKMSZEYC5KRS0.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-08:moshu:004",
+      "essayId": "essay-08",
+      "sheetType": "moshu",
+      "section": "gloss",
+      "quote": "意有所極，夢亦同趣",
+      "target": "極",
+      "accepted": [
+        "到达"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSSWWKE8MKMSZEYC5KRS0.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": true
+    },
+    {
+      "id": "school-vocab:essay-08:moshu:005",
+      "essayId": "essay-08",
+      "sheetType": "moshu",
+      "section": "gloss",
+      "quote": "緣染溪",
+      "target": "緣",
+      "accepted": [
+        "沿着"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSSWWKE8MKMSZEYC5KRS0.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-08:moshu:006",
+      "essayId": "essay-08",
+      "sheetType": "moshu",
+      "section": "gloss",
+      "quote": "斫榛莽",
+      "target": "斫",
+      "accepted": [
+        "砍伐"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSSWWKE8MKMSZEYC5KRS0.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-08:moshu:007",
+      "essayId": "essay-08",
+      "sheetType": "moshu",
+      "section": "gloss",
+      "quote": "攀援而登，箕踞而遨",
+      "target": "遨",
+      "accepted": [
+        "眺望"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSSWWKE8MKMSZEYC5KRS0.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-08:moshu:008",
+      "essayId": "essay-08",
+      "sheetType": "moshu",
+      "section": "gloss",
+      "quote": "攢蹙累積，莫得遯隱",
+      "target": "攢蹙",
+      "accepted": [
+        "簇聚密集"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSSWWKE8MKMSZEYC5KRS0.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": true
+    },
+    {
+      "id": "school-vocab:essay-08:moshu:009",
+      "essayId": "essay-08",
+      "sheetType": "moshu",
+      "section": "gloss",
+      "quote": "攢蹙累積，莫得遯隱",
+      "target": "遯",
+      "accepted": [
+        "逃出"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSSWWKE8MKMSZEYC5KRS0.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-08:moshu:010",
+      "essayId": "essay-08",
+      "sheetType": "moshu",
+      "section": "gloss",
+      "quote": "縈青繚白，外與天際",
+      "target": "際",
+      "accepted": [
+        "相接"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSSWWKE8MKMSZEYC5KRS0.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": true
+    },
+    {
+      "id": "school-vocab:essay-08:moshu:011",
+      "essayId": "essay-08",
+      "sheetType": "moshu",
+      "section": "gloss",
+      "quote": "洋洋乎與造物者遊",
+      "target": "遊",
+      "accepted": [
+        "遨遊",
+        "交融"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSSWWKE8MKMSZEYC5KRS0.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false,
+      "mentorNote": "原卷学生答「遨游」打勾；红笔另写「交融」作补充可接受义，非订正。"
+    },
+    {
+      "id": "school-vocab:essay-08:moshu:012",
+      "essayId": "essay-08",
+      "sheetType": "moshu",
+      "section": "gloss",
+      "quote": "心凝形釋，與萬化冥合",
+      "target": "釋",
+      "accepted": [
+        "消散"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSSWWKE8MKMSZEYC5KRS0.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": true
+    },
+    {
+      "id": "school-vocab:essay-08:moshu:013",
+      "essayId": "essay-08",
+      "sheetType": "moshu",
+      "section": "polysemy",
+      "quote": "而未始知西山之怪特",
+      "target": "始",
+      "accepted": [
+        "曾"
+      ],
+      "senseGroupId": "xishan-shi",
+      "sourceFile": "01M63HSSWWKE8MKMSZEYC5KRS0.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-08:moshu:014",
+      "essayId": "essay-08",
+      "sheetType": "moshu",
+      "section": "polysemy",
+      "quote": "望西山，始指異之",
+      "target": "始",
+      "accepted": [
+        "才"
+      ],
+      "senseGroupId": "xishan-shi",
+      "sourceFile": "01M63HSSWWKE8MKMSZEYC5KRS0.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-08:moshu:015",
+      "essayId": "essay-08",
+      "sheetType": "moshu",
+      "section": "polysemy",
+      "quote": "然後知吾嚮之未始遊，遊於是乎始",
+      "target": "始",
+      "accepted": [
+        "開始"
+      ],
+      "senseGroupId": "xishan-shi",
+      "sourceFile": "01M63HSSWWKE8MKMSZEYC5KRS0.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false,
+      "quoteHint": "未始遊之「始」",
+      "mentorNote": "句：然後知吾嚮之未始遊——此「始」与016同句不同位；练习宜标位置。"
+    },
+    {
+      "id": "school-vocab:essay-08:moshu:016",
+      "essayId": "essay-08",
+      "sheetType": "moshu",
+      "section": "polysemy",
+      "quote": "然後知吾嚮之未始遊，遊於是乎始",
+      "target": "始",
+      "accepted": [
+        "開始"
+      ],
+      "senseGroupId": "xishan-shi",
+      "sourceFile": "01M63HSSWWKE8MKMSZEYC5KRS0.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false,
+      "quoteHint": "遊於是乎始之「始」",
+      "mentorNote": "同句第二「始」。"
+    },
+    {
+      "id": "school-vocab:essay-08:moshu:017",
+      "essayId": "essay-08",
+      "sheetType": "moshu",
+      "section": "polysemy",
+      "quote": "窮山之高而止",
+      "target": "窮",
+      "accepted": [
+        "穷尽"
+      ],
+      "senseGroupId": "xishan-qiong",
+      "sourceFile": "01M63HSSWWKE8MKMSZEYC5KRS0.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": true
+    },
+    {
+      "id": "school-vocab:essay-08:moshu:018",
+      "essayId": "essay-08",
+      "sheetType": "moshu",
+      "section": "polysemy",
+      "quote": "洋洋乎與造物者遊，而不知其所窮",
+      "target": "窮",
+      "accepted": [
+        "尽头"
+      ],
+      "senseGroupId": "xishan-qiong",
+      "sourceFile": "01M63HSSWWKE8MKMSZEYC5KRS0.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-08:moshu:019",
+      "essayId": "essay-08",
+      "sheetType": "moshu",
+      "section": "gloss",
+      "quote": "意有所極，夢亦同趣",
+      "target": "趣",
+      "accepted": [
+        "前往"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSSWWKE8MKMSZEYC5KRS0.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-08:moshu:020",
+      "essayId": "essay-08",
+      "sheetType": "moshu",
+      "section": "gloss",
+      "quote": "然後知吾嚮之未始遊，遊於是乎始",
+      "target": "嚮",
+      "accepted": [
+        "以前"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSSWWKE8MKMSZEYC5KRS0.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:001",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「不仁者，不可以久處約，不可以長處樂。仁者安仁，知者利仁。」",
+      "target": "仁",
+      "accepted": [
+        "仁德"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:002",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「不仁者，不可以久處約，不可以長處樂。仁者安仁，知者利仁。」",
+      "target": "約",
+      "accepted": [
+        "窮困"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:003",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「不仁者，不可以久處約，不可以長處樂。仁者安仁，知者利仁。」",
+      "target": "樂",
+      "accepted": [
+        "安乐"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:004",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「不仁者，不可以久處約，不可以長處樂。仁者安仁，知者利仁。」",
+      "target": "安",
+      "accepted": [
+        "心安"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:005",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "loan",
+      "quote": "子曰：「不仁者，不可以久處約，不可以長處樂。仁者安仁，知者利仁。」",
+      "target": "知",
+      "accepted": [
+        "智",
+        "聰明",
+        "通「智」"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false,
+      "mentorNote": "旁注通「智」；accepted 含可打字义＋通假标注。"
+    },
+    {
+      "id": "school-vocab:essay-01:explain:006",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「不仁者，不可以久處約，不可以長處樂。仁者安仁，知者利仁。」",
+      "target": "利",
+      "accepted": [
+        "利益"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:007",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「不仁者，不可以久處約，不可以長處樂。仁者安仁，知者利仁。」",
+      "target": "久處約",
+      "accepted": [
+        "長期居於窮困"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "待核",
+      "teacherCorrection": false,
+      "mentorNote": "整語框；宜與「約＝窮困」分条；上线前可再拆。"
+    },
+    {
+      "id": "school-vocab:essay-01:explain:008",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「不仁者，不可以久處約，不可以長處樂。仁者安仁，知者利仁。」",
+      "target": "處",
+      "accepted": [
+        "居於",
+        "長期居於"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "待核",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:009",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「富與貴，是人之所欲也；不以其道得之，不處也。貧與賤，是人之所惡也；不以其道得之，不去也。君子去仁，惡乎成名？君子無終食之間違仁。造次必於是，顛沛必於是。」",
+      "target": "貴",
+      "accepted": [
+        "显贵"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:010",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「富與貴，是人之所欲也；不以其道得之，不處也。貧與賤，是人之所惡也；不以其道得之，不去也。君子去仁，惡乎成名？君子無終食之間違仁。造次必於是，顛沛必於是。」",
+      "target": "其道",
+      "accepted": [
+        "正当的方法"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:011",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「富與貴，是人之所欲也；不以其道得之，不處也。貧與賤，是人之所惡也；不以其道得之，不去也。君子去仁，惡乎成名？君子無終食之間違仁。造次必於是，顛沛必於是。」",
+      "target": "處",
+      "accepted": [
+        "接受"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:012",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "polysemy",
+      "quote": "子曰：「富與貴，是人之所欲也；不以其道得之，不處也。貧與賤，是人之所惡也；不以其道得之，不去也。君子去仁，惡乎成名？君子無終食之間違仁。造次必於是，顛沛必於是。」",
+      "target": "惡",
+      "accepted": [
+        "厭惡"
+      ],
+      "senseGroupId": "lunyu-wu-ren2",
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:013",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "polysemy",
+      "quote": "子曰：「富與貴，是人之所欲也；不以其道得之，不處也。貧與賤，是人之所惡也；不以其道得之，不去也。君子去仁，惡乎成名？君子無終食之間違仁。造次必於是，顛沛必於是。」",
+      "target": "去",
+      "accepted": [
+        "擺脫"
+      ],
+      "senseGroupId": "lunyu-qu-ren2",
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:014",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "polysemy",
+      "quote": "子曰：「富與貴，是人之所欲也；不以其道得之，不處也。貧與賤，是人之所惡也；不以其道得之，不去也。君子去仁，惡乎成名？君子無終食之間違仁。造次必於是，顛沛必於是。」",
+      "target": "去",
+      "accepted": [
+        "拋棄"
+      ],
+      "senseGroupId": "lunyu-qu-ren2",
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:015",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "polysemy",
+      "quote": "子曰：「富與貴，是人之所欲也；不以其道得之，不處也。貧與賤，是人之所惡也；不以其道得之，不去也。君子去仁，惡乎成名？君子無終食之間違仁。造次必於是，顛沛必於是。」",
+      "target": "惡",
+      "accepted": [
+        "怎能"
+      ],
+      "senseGroupId": "lunyu-wu-ren2",
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:016",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「富與貴，是人之所欲也；不以其道得之，不處也。貧與賤，是人之所惡也；不以其道得之，不去也。君子去仁，惡乎成名？君子無終食之間違仁。造次必於是，顛沛必於是。」",
+      "target": "名",
+      "accepted": [
+        "声名"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:017",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「富與貴，是人之所欲也；不以其道得之，不處也。貧與賤，是人之所惡也；不以其道得之，不去也。君子去仁，惡乎成名？君子無終食之間違仁。造次必於是，顛沛必於是。」",
+      "target": "終食之間",
+      "accepted": [
+        "吃一顿饭的时间"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:018",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「富與貴，是人之所欲也；不以其道得之，不處也。貧與賤，是人之所惡也；不以其道得之，不去也。君子去仁，惡乎成名？君子無終食之間違仁。造次必於是，顛沛必於是。」",
+      "target": "違",
+      "accepted": [
+        "背離",
+        "違背"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "待核",
+      "teacherCorrection": false,
+      "mentorNote": "左框、右无独立挖空；依印文弱对齐。"
+    },
+    {
+      "id": "school-vocab:essay-01:explain:019",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「富與貴，是人之所欲也；不以其道得之，不處也。貧與賤，是人之所惡也；不以其道得之，不去也。君子去仁，惡乎成名？君子無終食之間違仁。造次必於是，顛沛必於是。」",
+      "target": "造次",
+      "accepted": [
+        "仓卒间",
+        "仓卒时间"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:020",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「富與貴，是人之所欲也；不以其道得之，不處也。貧與賤，是人之所惡也；不以其道得之，不去也。君子去仁，惡乎成名？君子無終食之間違仁。造次必於是，顛沛必於是。」",
+      "target": "顛沛",
+      "accepted": [
+        "流离颠沛"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:021",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」",
+      "target": "克",
+      "accepted": [
+        "克制",
+        "约束"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:022",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」",
+      "target": "復禮",
+      "accepted": [
+        "合乎禮的標準",
+        "符合"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:023",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」",
+      "target": "歸",
+      "accepted": [
+        "稱許"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:024",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」",
+      "target": "為仁由己",
+      "accepted": [
+        "實行仁德全靠自己"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:025",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」",
+      "target": "由",
+      "accepted": [
+        "靠"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:026",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」",
+      "target": "而",
+      "accepted": [
+        "難道"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:027",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」",
+      "target": "其目",
+      "accepted": [
+        "具體實行的方法"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:028",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」",
+      "target": "動",
+      "accepted": [
+        "做",
+        "实行"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:029",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」",
+      "target": "敏",
+      "accepted": [
+        "聪敏"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:030",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」",
+      "target": "不敏",
+      "accepted": [
+        "遲鈍",
+        "不聪明"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:031",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」顏淵曰：「請問其目。」子曰：「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」顏淵曰：「回雖不敏，請事斯語矣。」",
+      "target": "事",
+      "accepted": [
+        "遵照",
+        "实行"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:032",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「志士仁人，無求生以害仁，有殺身以成仁。」",
+      "target": "志士仁人",
+      "accepted": [
+        "守义之士、仁德之人",
+        "志士、仁德之人"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:033",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「志士仁人，無求生以害仁，有殺身以成仁。」",
+      "target": "害",
+      "accepted": [
+        "害"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:034",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「志士仁人，無求生以害仁，有殺身以成仁。」",
+      "target": "殺身",
+      "accepted": [
+        "拋棄生命"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:035",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「志士仁人，無求生以害仁，有殺身以成仁。」",
+      "target": "成",
+      "accepted": [
+        "成全"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQYJPV9M8VT09K61HYFE.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:036",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "孟懿子問孝。子曰：「無違。」樊遲御，子告之曰：「孟孫問孝於我，我對曰：『無違。』」樊遲曰：「何謂也？」子曰：「生，事之以禮；死，葬之以禮，祭之以禮。」",
+      "target": "違",
+      "accepted": [
+        "違背",
+        "背"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQ1AFH7AVQXPZATW4Q41.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:037",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "孟懿子問孝。子曰：「無違。」樊遲御，子告之曰：「孟孫問孝於我，我對曰：『無違。』」樊遲曰：「何謂也？」子曰：「生，事之以禮；死，葬之以禮，祭之以禮。」",
+      "target": "御",
+      "accepted": [
+        "駕車"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQ1AFH7AVQXPZATW4Q41.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:038",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "孟懿子問孝。子曰：「無違。」樊遲御，子告之曰：「孟孫問孝於我，我對曰：『無違。』」樊遲曰：「何謂也？」子曰：「生，事之以禮；死，葬之以禮，祭之以禮。」",
+      "target": "事",
+      "accepted": [
+        "侍奉"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQ1AFH7AVQXPZATW4Q41.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:039",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "孟懿子問孝。子曰：「無違。」樊遲御，子告之曰：「孟孫問孝於我，我對曰：『無違。』」樊遲曰：「何謂也？」子曰：「生，事之以禮；死，葬之以禮，祭之以禮。」",
+      "target": "葬",
+      "accepted": [
+        "埋葬"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQ1AFH7AVQXPZATW4Q41.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:040",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "孟懿子問孝。子曰：「無違。」樊遲御，子告之曰：「孟孫問孝於我，我對曰：『無違。』」樊遲曰：「何謂也？」子曰：「生，事之以禮；死，葬之以禮，祭之以禮。」",
+      "target": "祭",
+      "accepted": [
+        "祭祀"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQ1AFH7AVQXPZATW4Q41.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:041",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "孟懿子問孝。子曰：「無違。」樊遲御，子告之曰：「孟孫問孝於我，我對曰：『無違。』」樊遲曰：「何謂也？」子曰：「生，事之以禮；死，葬之以禮，祭之以禮。」",
+      "target": "禮",
+      "accepted": [
+        "禮節",
+        "依照禮節"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQ1AFH7AVQXPZATW4Q41.jpg",
+      "sourcePage": 1,
+      "confidence": "待核",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:042",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "flex",
+      "quote": "孟懿子問孝。子曰：「無違。」樊遲御，子告之曰：「孟孫問孝於我，我對曰：『無違。』」樊遲曰：「何謂也？」子曰：「生，事之以禮；死，葬之以禮，祭之以禮。」",
+      "target": "以",
+      "accepted": [
+        "依照"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQ1AFH7AVQXPZATW4Q41.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:043",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子游問孝。子曰：「今之孝者，是謂能養。至於犬馬，皆能有養；不敬，何以別乎？」",
+      "target": "養",
+      "accepted": [
+        "供養",
+        "飼養"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQ1AFH7AVQXPZATW4Q41.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:044",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子游問孝。子曰：「今之孝者，是謂能養。至於犬馬，皆能有養；不敬，何以別乎？」",
+      "target": "皆",
+      "accepted": [
+        "都"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQ1AFH7AVQXPZATW4Q41.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:045",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子游問孝。子曰：「今之孝者，是謂能養。至於犬馬，皆能有養；不敬，何以別乎？」",
+      "target": "敬",
+      "accepted": [
+        "尊敬"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQ1AFH7AVQXPZATW4Q41.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:046",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子游問孝。子曰：「今之孝者，是謂能養。至於犬馬，皆能有養；不敬，何以別乎？」",
+      "target": "別",
+      "accepted": [
+        "區別",
+        "區分"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQ1AFH7AVQXPZATW4Q41.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:047",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子游問孝。子曰：「今之孝者，是謂能養。至於犬馬，皆能有養；不敬，何以別乎？」",
+      "target": "是謂",
+      "accepted": [
+        "只是",
+        "這叫做"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQ1AFH7AVQXPZATW4Q41.jpg",
+      "sourcePage": 1,
+      "confidence": "待核",
+      "teacherCorrection": false,
+      "mentorNote": "右栏见「只是」；典籍常解「这叫做」——两存待核。"
+    },
+    {
+      "id": "school-vocab:essay-01:explain:048",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「事父母幾諫，見志不從，又敬不違，勞而不怨。」",
+      "target": "幾諫",
+      "accepted": [
+        "輕微婉轉地勸諫",
+        "婉轉"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQ1AFH7AVQXPZATW4Q41.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:049",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「事父母幾諫，見志不從，又敬不違，勞而不怨。」",
+      "target": "不從",
+      "accepted": [
+        "沒有被聽從"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQ1AFH7AVQXPZATW4Q41.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:050",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「事父母幾諫，見志不從，又敬不違，勞而不怨。」",
+      "target": "不違",
+      "accepted": [
+        "不忤逆",
+        "不冒犯"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQ1AFH7AVQXPZATW4Q41.jpg",
+      "sourcePage": 1,
+      "confidence": "待核",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:051",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「事父母幾諫，見志不從，又敬不違，勞而不怨。」",
+      "target": "勞",
+      "accepted": [
+        "忧愁",
+        "擔憂"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQ1AFH7AVQXPZATW4Q41.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:052",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「事父母幾諫，見志不從，又敬不違，勞而不怨。」",
+      "target": "怨",
+      "accepted": [
+        "怨恨"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQ1AFH7AVQXPZATW4Q41.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:053",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「父母之年，不可不知也。一則以喜，一則以懼。」",
+      "target": "年",
+      "accepted": [
+        "年紀"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQ1AFH7AVQXPZATW4Q41.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:054",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「父母之年，不可不知也。一則以喜，一則以懼。」",
+      "target": "知",
+      "accepted": [
+        "知道",
+        "記住"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQ1AFH7AVQXPZATW4Q41.jpg",
+      "sourcePage": 1,
+      "confidence": "待核",
+      "teacherCorrection": false,
+      "mentorNote": "旁注「記住」归属知／年未定。"
+    },
+    {
+      "id": "school-vocab:essay-01:explain:055",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「父母之年，不可不知也。一則以喜，一則以懼。」",
+      "target": "一則",
+      "accepted": [
+        "一方面"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSQ1AFH7AVQXPZATW4Q41.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:056",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「君子不重，則不威，學則不固。主忠信。無友不如己者。過則勿憚改。」",
+      "target": "重",
+      "accepted": [
+        "莊重"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSNNAHADA2BJ85FBCW80X.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:057",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「君子不重，則不威，學則不固。主忠信。無友不如己者。過則勿憚改。」",
+      "target": "威",
+      "accepted": [
+        "威信"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSNNAHADA2BJ85FBCW80X.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:058",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「君子不重，則不威，學則不固。主忠信。無友不如己者。過則勿憚改。」",
+      "target": "固",
+      "accepted": [
+        "牢固",
+        "牢穩固"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSNNAHADA2BJ85FBCW80X.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:059",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「君子不重，則不威，學則不固。主忠信。無友不如己者。過則勿憚改。」",
+      "target": "忠信",
+      "accepted": [
+        "忠誠、信義、誠實不欺、盡心待人"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSNNAHADA2BJ85FBCW80X.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:060",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「君子不重，則不威，學則不固。主忠信。無友不如己者。過則勿憚改。」",
+      "target": "憚",
+      "accepted": [
+        "害怕"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSNNAHADA2BJ85FBCW80X.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:061",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「君子坦蕩蕩，小人長戚戚。」",
+      "target": "坦蕩蕩",
+      "accepted": [
+        "胸襟舒坦寬廣"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSNNAHADA2BJ85FBCW80X.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:062",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「君子坦蕩蕩，小人長戚戚。」",
+      "target": "長戚戚",
+      "accepted": [
+        "經常憂愁畏懼",
+        "經常憂愁局促"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSNNAHADA2BJ85FBCW80X.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:063",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "司馬牛問君子。子曰：「君子不憂不懼。」曰：「不憂不懼，斯謂之君子已乎？」子曰：「內省不疚，夫何憂何懼？」",
+      "target": "斯",
+      "accepted": [
+        "這就",
+        "這就能"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSNNAHADA2BJ85FBCW80X.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:064",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "司馬牛問君子。子曰：「君子不憂不懼。」曰：「不憂不懼，斯謂之君子已乎？」子曰：「內省不疚，夫何憂何懼？」",
+      "target": "內省",
+      "accepted": [
+        "自我反省",
+        "自問於心"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSNNAHADA2BJ85FBCW80X.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:065",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "司馬牛問君子。子曰：「君子不憂不懼。」曰：「不憂不懼，斯謂之君子已乎？」子曰：「內省不疚，夫何憂何懼？」",
+      "target": "疚",
+      "accepted": [
+        "愧疚",
+        "羞愧"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSNNAHADA2BJ85FBCW80X.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:066",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「君子成人之美，不成人之惡。小人反是。」",
+      "target": "成人之美",
+      "accepted": [
+        "成全別人的好事"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSNNAHADA2BJ85FBCW80X.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:067",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「君子成人之美，不成人之惡。小人反是。」",
+      "target": "惡",
+      "accepted": [
+        "壞事",
+        "惡事"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSNNAHADA2BJ85FBCW80X.jpg",
+      "sourcePage": 1,
+      "confidence": "待核",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:068",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「君子恥其言而過其行。」",
+      "target": "恥",
+      "accepted": [
+        "羞恥",
+        "感到羞恥"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSNNAHADA2BJ85FBCW80X.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:069",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「君子義以為質，禮以行之，孫以出之，信以成之，君子哉！」",
+      "target": "質",
+      "accepted": [
+        "原則",
+        "立身根本"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSNNAHADA2BJ85FBCW80X.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:070",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "loan",
+      "quote": "子曰：「君子義以為質，禮以行之，孫以出之，信以成之，君子哉！」",
+      "target": "孫",
+      "accepted": [
+        "謙遜",
+        "遜",
+        "通「遜」"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSNNAHADA2BJ85FBCW80X.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false,
+      "mentorNote": "左栏旁注通「遜」。"
+    },
+    {
+      "id": "school-vocab:essay-01:explain:071",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「君子義以為質，禮以行之，孫以出之，信以成之，君子哉！」",
+      "target": "信",
+      "accepted": [
+        "誠實不欺"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSNNAHADA2BJ85FBCW80X.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:072",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「君子義以為質，禮以行之，孫以出之，信以成之，君子哉！」",
+      "target": "成",
+      "accepted": [
+        "完成"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSNNAHADA2BJ85FBCW80X.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:073",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「君子病無能焉，不病人之不己知也。」",
+      "target": "病",
+      "accepted": [
+        "擔心"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSNNAHADA2BJ85FBCW80X.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:074",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「君子病無能焉，不病人之不己知也。」",
+      "target": "己知",
+      "accepted": [
+        "了解自己"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSNNAHADA2BJ85FBCW80X.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    },
+    {
+      "id": "school-vocab:essay-01:explain:075",
+      "essayId": "essay-01",
+      "sheetType": "explain",
+      "section": "gloss",
+      "quote": "子曰：「君子求諸己，小人求諸人。」",
+      "target": "求",
+      "accepted": [
+        "要求"
+      ],
+      "senseGroupId": null,
+      "sourceFile": "01M63HSNNAHADA2BJ85FBCW80X.jpg",
+      "sourcePage": 1,
+      "confidence": "高",
+      "teacherCorrection": false
+    }
+  ]
+}

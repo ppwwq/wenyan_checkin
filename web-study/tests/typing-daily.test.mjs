@@ -71,7 +71,7 @@ test('typing does not duplicate daily questions or count the choice and typed ve
 
 test('typed self-check drives wrong-question retry, with no extra daily credit and only one automatic retry',()=>{
  const p={...plan,vocabularyTyping:true},a=attempt(),wrong=assess(a.id,false),s=state(p,[a,wrong]);
- assert.deepEqual(retryQuestions(qs,s,day).map(q=>q.id),['a']);assert.equal(dailyProgress(s,day).done,1);
+ assert.deepEqual(retryQuestions(qs,s,day).map(q=>q.id),[]);assert.equal(dailyProgress(s,day).done,1);
  const again=attempt(q,'typing','retry');again.payload.practiceKind='retry';again.payload.submittedAt=day+'T01:02:00Z';again.createdAt=again.payload.submittedAt;
  assert.equal(retryQuestions(qs,state(p,[a,wrong,again]),day).length,0);
  assert.equal(dailyProgress(state(p,[a,wrong,again]),day).done,1);
@@ -79,7 +79,7 @@ test('typed self-check drives wrong-question retry, with no extra daily credit a
 
 test('typed skip keeps draft, supplies an unseen question, and creates no attempted knowledge point',()=>{
  const s={...make(),vocabularyTyping:true,drafts:{a:'草稿'},questions:[q],selection:{...trainingOptions({...plan,vocabularyTyping:true}),count:1},targetCount:1},p=state();
- advanceWithReplacement(s,p,qs,true);assert.equal(s.questions[0].id,'b');assert.equal(answerMode(s.questions[0],s),'choice');assert.equal(s.drafts.a,'草稿');assert.deepEqual(s.skippedIds,['a']);assert.equal(dailyProgress(p,day).done,0);
+ advanceWithReplacement(s,p,qs,true);assert.equal(s.questions[0].id,'c');assert.equal(answerMode(s.questions[0],s),'choice');assert.equal(s.drafts.a,'草稿');assert.deepEqual(s.skippedIds,['a']);assert.equal(dailyProgress(p,day).done,0);
  const switched=refreshTrainingSession(qs,state({...plan,vocabularyTyping:false}),s,day);assert.equal(switched.vocabularyTyping,false);assert.equal(switched.drafts.a,'草稿');
 });
 

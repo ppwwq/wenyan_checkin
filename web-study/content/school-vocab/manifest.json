@@ -1,0 +1,4 @@
+{
+  "note": "按文件名顺序增量合并。之后把 v1.1.json 放进这个目录，并在 batches 末尾追加文件名。同 id：红笔 teacherCorrection 优先，其次非待核优先于待核，再其次较后的批次（较新）优先。不覆盖 written-practice.json。",
+  "batches": ["v1.json"]
+}
