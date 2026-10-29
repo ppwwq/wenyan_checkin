@@ -1,4 +1,5 @@
 import {studyPaths} from './records.mjs';
+import {compactQuotation} from '../domain/reading-context.mjs';
 import {studyPools} from '../domain/editorial.mjs';
 import {practicedIds,questionProgress} from '../domain/choice-progress.mjs';
 import {scopePool,queue} from '../domain/queue.mjs';
@@ -30,6 +31,6 @@ export function libraryView(bank,state,options,schoolItems=[]){
 export function compareView(bank,options,target='',expanded=false){
  const selected=new Set(options.essayIds),groups=bank.comparisons.filter(g=>g.status==='reviewed'&&(!target||g.target===target));
  const visible=groups.map(g=>({...g,items:g.items.map(item=>({...item,q:bank.questions.find(q=>q.id===item.questionId&&q.status==='reviewed'&&q.active!==false)})).filter(item=>item.q&&(expanded||item.q.essayIds.every(id=>selected.has(id))))})).filter(g=>g.items.length>=2);
- return heading('同一個字，不同的語境','只閱讀對照，不會計為答題或改變複習間隔。')+'<div class="toolbar">'+button('nav','← 返回選篇','data-page="library"','quiet')+button('compare-expand',expanded?'只看已選篇章':'明確加入其他篇章對照','','secondary')+'</div>'+(visible.length?visible.map(g=>'<section><h2>'+esc(g.title)+'</h2><div class="compare-grid">'+g.items.map(({q,meaning,clue})=>'<article class="compare-card"><span class="tag">'+esc(q.essayIds.map(id=>essayTitle(bank,id)).join('／'))+'</span><blockquote>'+quote(q)+'</blockquote><p class="card-answer">'+esc(meaning)+'</p><p>'+esc(clue)+'</p>'+'</article>').join('')+'</div><div class="toolbar">'+button('compare-practice','練習這些用法','data-group="'+esc(g.id)+'"')+'</div></section>').join(''):empty('所選範圍暫無可並列的已核對用法','可明確加入其他篇章查看；原練習組的範圍和題目不變。'));
+ return heading('同一個字，不同的語境','只閱讀對照，不會計為答題或改變複習間隔。')+'<div class="toolbar">'+button('nav','← 返回選篇','data-page="library"','quiet')+button('compare-expand',expanded?'只看已選篇章':'明確加入其他篇章對照','','secondary')+'</div>'+(visible.length?visible.map(g=>'<section><h2>'+esc(g.title)+'</h2><div class="compare-grid">'+g.items.map(({q,meaning,clue})=>'<article class="compare-card"><span class="tag">'+esc(q.essayIds.map(id=>essayTitle(bank,id)).join('／'))+'</span><blockquote>'+quote(compactQuotation(q))+'</blockquote><p class="card-answer">'+esc(meaning)+'</p><p>'+esc(clue)+'</p>'+'</article>').join('')+'</div><div class="toolbar">'+button('compare-practice','練習這些用法','data-group="'+esc(g.id)+'"')+'</div></section>').join(''):empty('所選範圍暫無可並列的已核對用法','可明確加入其他篇章查看；原練習組的範圍和題目不變。'));
 }
 

@@ -3,7 +3,7 @@ import {writtenItems,writtenState,writtenResult} from './domain/written.mjs';
 import {sheetQueue} from './domain/sheet-run.mjs';
 import {mergeSchoolBatches,isTemplateWritten,schoolVocabForSheet} from './domain/school-vocab.mjs';
 import {mergeAuthoredBatches} from './domain/authored-expansion.mjs';
-import {reviewHallView} from './features/review-hall.mjs';
+import {reviewHallView,reviewReadingView} from './features/review-hall.mjs';
 import {SaveQueue} from './storage/save-queue.mjs';
 import {Repository,event} from './storage/repository.mjs';
 import {SyncScheduler} from './sync/scheduler.mjs';
@@ -24,6 +24,7 @@ import {seenInPractice,wasSeen} from './domain/daily-availability.mjs';
 const root=document.querySelector('#root'),dialog=document.querySelector('#dialog');
 let auth=null,repo=null,syncer=null,scheduler=null,localDraftPending=false,bank=null,state=project([]),page='home',session=null,quick={cards:[],index:0},compareTarget='',compareExpanded=false,authMode='login',busy=false,writes=new SaveQueue(),saveError='',status='已保存到本機',serverReports=[],corrections=[],adminReports=[];
 let trainingDraft=null,writtenContent={items:[]},schoolVocab=[],authoredExpansion=[],authoredShort=[],writtenOptions={},writtenDraftTimer=null,writtenPending=null;
+let sourceContent=[],reviewReadingOptions={};
 function practiceBank(){return authoredExpansion.length?{...bank,questions:[...bank.questions,...authoredExpansion]}:bank;}
 function practiceWritten(){
  const school=schoolVocabForSheet(schoolVocab),seen=new Set([...school,...authoredShort].map(item=>item.id));
@@ -122,6 +123,7 @@ async function loadBank(){
 }
 function tagComparisons(){for(const q of bank.questions)q.comparisonAvailable=!!q.target&&bank.comparisons.some(g=>g.status==='reviewed'&&(g.id===q.comparisonGroupId||g.items.some(i=>i.questionId===q.id)));}
 async function loadExtraContent(){
+ if(!sourceContent.length)try{const response=await fetch('/content/sources/student-content.json');if(response.ok)sourceContent=await response.json();}catch{}
  schoolVocab=mergeSchoolBatches(await loadJsonBatches('school-vocab'));
  const authored=mergeAuthoredBatches(await loadJsonBatches('authored-expansion'),new Set(bank.questions.map(q=>q.id)));
  authoredExpansion=authored.questions;authoredShort=authored.written;
@@ -131,6 +133,7 @@ async function openAccount(){
  corrections=await repo.get('corrections')||[];await refresh();await loadBank();tagComparisons();
  const writtenResponse=await fetch('/content/written-practice.json',{cache:'no-cache'});writtenContent=writtenResponse.ok?await writtenResponse.json():{items:[]};
  await loadExtraContent();
+ reviewReadingOptions=await repo.get('reading-options')||{};
  const savedOptions=await repo.get('options');options={essayIds:[],count:20,scope:'all',ability:'',appendix:false,rotation:0,quickScope:'both',studyPool:'default',...savedOptions};if(!savedOptions)options.essayIds=bank.essays.filter(e=>bank.questions.some(q=>q.essayIds.includes(e.id)&&q.status==='reviewed'&&q.active!==false)).map(e=>e.id);
  options.hasPreviousSelection=!!savedOptions||state.attempts.length>0;options.rotation=state.settings.rotation;serverReports=await repo.get('reports')||[];quick=await repo.get('quick')||{cards:[],index:0};session=null;page='home';
  syncer=new SyncClient(repo,auth.token,setStatus);scheduler=new SyncScheduler(performSync);render();await sync();if(!validTraining(state.settings.training)){page='training';render();}
@@ -159,10 +162,10 @@ function focusPractice(selector='#question-title'){
 }
 function render(){
  if(!auth){authView();return;}
- document.body.classList.toggle('in-session',page==='practice');document.body.dataset.page=page;const inSheet=page==='written'&&writtenOptions.sheet;const activePage=['review','weakness','saved','quick','mistakes'].includes(page)||inSheet?'review':['practice','compare','written'].includes(page)?'library':page;const navHtml=(mobile=false)=>nav.filter(([id])=>!mobile||!['weakness','saved','quick'].includes(id)).map(([id,label],i)=>'<button data-action="nav" data-page="'+id+'" class="'+(activePage===id?'active':'')+'"'+(activePage===id?' aria-current="page"':'')+'>'+'<span class="nav-icon" aria-hidden="true">'+navigationIcon(id)+'</span><span>'+label+'</span>'+(!mobile?'<span class="nav-index" aria-hidden="true">0'+(i+1)+'</span>':'')+'</button>').join('');
- root.innerHTML='<a class="skip-link" href="#main">跳至主要內容</a><div class="shell"><aside class="sidebar"><div class="brand"><img class="brand-icon" src="/assets/icon.svg" alt="" width="44" height="44"><div><div class="brand-name">DSE文言練習</div><small class="muted">文言研習手冊 · 十六篇</small></div></div><nav class="nav" aria-label="主要導航">'+navHtml()+'</nav><div class="sidebar-bottom"><p class="sidebar-motto">日日有所得。</p>'+button('training-settings','學習設定 ↗','','quiet')+'</div></aside><div class="workspace"><header class="topbar"><div class="mobile-brand"><img class="brand-icon" src="/assets/icon.svg" alt="" width="44" height="44">DSE文言練習</div><div class="breadcrumb"><b>'+esc(({mistakes:'錯題複習',saved:'我的收藏',quick:'快速回顧',weakness:'薄弱知識點',compare:'詞義對照',review:'複習（題型館）',written:inSheet?'打字測義':'字詞與句譯',training:'學習設定',reports:'題目回報',admin:'回報維護',practice:'練習中'})[page]||nav.find(n=>n[0]===page)?.[1]||'練習')+'</b></div><div class="top-actions"><span id="sync-status" class="status-line" role="status">'+esc(status)+'</span><button data-action="settings" aria-label="調整全站字號">字號 Aa</button></div></header><div id="save-error" class="save-error" role="alert" hidden></div><main class="page" id="main" tabindex="-1"></main></div></div><nav class="mobile-nav" aria-label="行動導航">'+navHtml(true)+'</nav>';
+ document.body.classList.toggle('in-session',page==='practice');document.body.dataset.page=page;const inSheet=page==='written'&&writtenOptions.sheet;const activePage=['review','review-reading','weakness','saved','quick','mistakes'].includes(page)||inSheet?'review':['practice','compare','written'].includes(page)?'library':page;const navHtml=(mobile=false)=>nav.filter(([id])=>!mobile||!['weakness','saved','quick'].includes(id)).map(([id,label],i)=>'<button data-action="nav" data-page="'+id+'" class="'+(activePage===id?'active':'')+'"'+(activePage===id?' aria-current="page"':'')+'>'+'<span class="nav-icon" aria-hidden="true">'+navigationIcon(id)+'</span><span>'+label+'</span>'+(!mobile?'<span class="nav-index" aria-hidden="true">0'+(i+1)+'</span>':'')+'</button>').join('');
+ root.innerHTML='<a class="skip-link" href="#main">跳至主要內容</a><div class="shell"><aside class="sidebar"><div class="brand"><img class="brand-icon" src="/assets/icon.svg" alt="" width="44" height="44"><div><div class="brand-name">DSE文言練習</div><small class="muted">文言研習手冊 · 十六篇</small></div></div><nav class="nav" aria-label="主要導航">'+navHtml()+'</nav><div class="sidebar-bottom"><p class="sidebar-motto">日日有所得。</p>'+button('training-settings','學習設定 ↗','','quiet')+'</div></aside><div class="workspace"><header class="topbar"><div class="mobile-brand"><img class="brand-icon" src="/assets/icon.svg" alt="" width="44" height="44">DSE文言練習</div><div class="breadcrumb"><b>'+esc(({mistakes:'錯題複習',saved:'我的收藏',quick:'快速回顧',weakness:'薄弱知識點',compare:'詞義對照','review-reading':'題型閱讀',review:'複習（題型館）',written:inSheet?'打字測義':'字詞與句譯',training:'學習設定',reports:'題目回報',admin:'回報維護',practice:'練習中'})[page]||nav.find(n=>n[0]===page)?.[1]||'練習')+'</b></div><div class="top-actions"><span id="sync-status" class="status-line" role="status">'+esc(status)+'</span><button data-action="settings" aria-label="調整全站字號">字號 Aa</button></div></header><div id="save-error" class="save-error" role="alert" hidden></div><main class="page" id="main" tabindex="-1"></main></div></div><nav class="mobile-nav" aria-label="行動導航">'+navHtml(true)+'</nav>';
  showSaveError(saveError?new Error(saveError):null);
- const views={written:()=>writtenView(practiceWritten(),bank,state.events,writtenOptions),home:()=>homeView(practiceBank(),state),review:()=>reviewHallView(practiceBank(),schoolVocab,currentWritten().filter(i=>i.kind==='vocabulary'&&!isTemplateWritten(i)),authoredShort),mistakes:()=>mistakesView(practiceBank(),state),training:()=>trainingView(practiceBank(),trainingDraft?{...state,settings:{...state.settings,training:trainingDraft}}:state,options),library:()=>libraryView(practiceBank(),state,options,schoolVocab),practice:()=>session?practiceView(bank,session,state):empty('沒有進行中的練習'),weakness:()=>weaknessView(practiceBank(),state,options),history:()=>historyView(bank,state),saved:()=>savedView(practiceBank(),state,options),quick:()=>quickView(practiceBank(),state,options,quick),compare:()=>compareView(bank,options,compareTarget,compareExpanded),reports:()=>reportsView(mergedReports()),account:accountView,admin:adminView};
+ const views={written:()=>writtenView(practiceWritten(),bank,state.events,{...writtenOptions,sourceContent}),home:()=>homeView(practiceBank(),state),review:()=>reviewHallView(practiceBank(),schoolVocab,currentWritten().filter(i=>i.kind==='vocabulary'&&!isTemplateWritten(i)),authoredShort),'review-reading':()=>reviewReadingView(practiceBank(),schoolVocab,currentWritten().filter(i=>i.kind==='vocabulary'&&!isTemplateWritten(i)),authoredShort,{...reviewReadingOptions,sourceContent}),mistakes:()=>mistakesView(practiceBank(),state),training:()=>trainingView(practiceBank(),trainingDraft?{...state,settings:{...state.settings,training:trainingDraft}}:state,options),library:()=>libraryView(practiceBank(),state,options,schoolVocab),practice:()=>session?practiceView(bank,session,state):empty('沒有進行中的練習'),weakness:()=>weaknessView(practiceBank(),state,options),history:()=>historyView(bank,state),saved:()=>savedView(practiceBank(),state,options),quick:()=>quickView(practiceBank(),state,options,quick),compare:()=>compareView(bank,options,compareTarget,compareExpanded),reports:()=>reportsView(mergedReports()),account:accountView,admin:adminView};
  document.querySelector('#main').innerHTML=(views[page]||views.home)()+(page==='home'&&corrections.length?'<div class="banner">你有 '+corrections.length+' 項評分更正。'+button('nav','查看更正原因','data-page="account"','quiet')+'</div>':'');
  measureActions();
 }
@@ -230,19 +233,19 @@ async function startSheet(section='',all=false){
  if(section==='short-answer'){
   const items=authoredShort.filter(item=>!selected.size||(item.essayIds||[item.essayId]).some(id=>selected.has(id)));
   if(!items.length){toast('這範圍還沒有自擬短答。');if(page!=='review')await go('review');return;}
-  writtenOptions={kind:'short-answer',itemId:items[0].id,fresh:false,sheet:{ids:items.map(i=>i.id),index:0}};
+  writtenOptions={kind:'short-answer',itemId:items[0].id,fresh:true,sheet:{ids:items.map(i=>i.id),index:0}};
   await go('written');document.querySelector('#written-answer')?.focus();return;
  }
  const items=sheetQueue(currentWritten(),{essayIds,section:section==='typing'?'':section,includeTemplate:options.studyPool==='extension'},schoolVocab);
  if(!items.length){toast('這範圍還沒有可連續寫的字詞。');if(page!=='review')await go('review');return;}
- writtenOptions={kind:'vocabulary',itemId:items[0].id,fresh:false,sheet:{ids:items.map(i=>i.id),index:0}};
+ writtenOptions={kind:'vocabulary',itemId:items[0].id,fresh:true,sheet:{ids:items.map(i=>i.id),index:0}};
  await go('written');document.querySelector('#written-answer')?.focus();
 }
 async function advanceSheet(){
- const sheet=writtenOptions.sheet;if(!sheet)return;
+ const sheet=writtenOptions.sheet;if(!sheet){writtenOptions={...writtenOptions,itemId:null,revealed:false};await go('written');return;}
  const next=sheet.index+1;
  if(next>=sheet.ids.length){writtenOptions={};await go('review');toast('這一卷寫完了。');return;}
- writtenOptions={...writtenOptions,itemId:sheet.ids[next],fresh:false,sheet:{...sheet,index:next}};
+ writtenOptions={...writtenOptions,itemId:sheet.ids[next],fresh:true,revealed:false,sheet:{...sheet,index:next}};
  await go('written');document.querySelector('#written-answer')?.focus();
 }
 async function start(questionIds=null,essayIds=null){
@@ -290,7 +293,7 @@ document.addEventListener('click',async e=>{
   await saveWrittenDraft();
   if(a==='written-list'){writtenOptions={...writtenOptions,...(el.dataset.kind?{kind:el.dataset.kind,essay:'',origin:'',progress:''}:{}),itemId:null,fresh:false,sheet:undefined};await go('written');}
   if(a==='written-open'||a==='written-again'){
-   writtenOptions={...writtenOptions,itemId:el.dataset.id,fresh:a==='written-again'};
+   writtenOptions={...writtenOptions,itemId:el.dataset.id,fresh:a==='written-again',revealed:false};
    if(a==='written-again')await append('written',{action:'draft',itemId:el.dataset.id,answer:'',revision:Math.max(Date.now(),(writtenState(state.events).drafts.get(el.dataset.id)?.revision||0)+1)});
    await go('written');document.querySelector('#written-answer')?.focus();
   }
@@ -300,15 +303,30 @@ document.addEventListener('click',async e=>{
    if(!answer.trim())throw new Error('請先寫下你的答案。');
    await append('written',{action:'submit',itemId:item.id,item,answer,result:writtenResult(item,answer)});writtenOptions.fresh=false;render();document.querySelector('#written-feedback')?.focus();void sync();
   }
-  if(a==='written-correction-save'){await writes.flush();toast('訂正稿已保存，原作答保持不變。');void sync();}
-  if(a==='written-self'){
-   if(!document.querySelector('#written-checked')?.checked)throw new Error('請先逐項核對並勾選確認。');
-   await append('written',{action:'self',attemptId:el.dataset.attempt,outcome:el.dataset.outcome,checked:true});render();void sync();
+  if(a==='written-reveal'){writtenOptions.revealed=true;render();document.querySelector('#written-feedback')?.focus();}
+  if(a==='written-unknown-next'){
+   const item=practiceWritten().find(i=>i.id===el.dataset.id);
+   if(!item)throw new Error('此題版本已更新，請返回題目列表。');
+   const saved=writtenState(state.events);
+   let last=writtenOptions.fresh?null:saved.attempts.filter(e=>e.payload.itemId===item.id).at(-1);
+   if(!last||saved.selfReviews.has(last.id)){
+    const answer='暫時不會',id=crypto.randomUUID();
+    await append('written',{action:'submit',itemId:item.id,item,answer,result:writtenResult(item,answer)},id);last={id};
+   }
+   await append('written',{action:'self',attemptId:last.id,outcome:'revisit',checked:true});
+   await advanceSheet();void sync();
   }
+  if(a==='written-correction-save'){await writes.flush();toast('訂正稿已保存，原作答保持不變。');void sync();}
   return;
  }
  if(a==='sheet-start'){await startSheet(el.dataset.section||'',el.dataset.all==='1');return;}
  if(a==='sheet-next'){await advanceSheet();return;}
+ if(a==='review-read'){reviewReadingOptions={...reviewReadingOptions,type:el.dataset.type,index:0};await go('review-reading');return;}
+ if(a==='reading-scope-all'||a==='reading-scope-none'){
+  reviewReadingOptions={...reviewReadingOptions,essayIds:a==='reading-scope-all'?bank.essays.map(e=>e.id):[],index:0,scopeOpen:true};
+  await repo.set('reading-options',reviewReadingOptions);renderKeepingFocus();return;
+ }
+ if(a==='review-reading-page'){reviewReadingOptions.index=Number(el.dataset.index);render();window.scrollTo(0,0);return;}
  if(a==='training-settings'){await go('training');return;}
  if(a==='daily-start'){await startDaily();return;}
  if(a==='retry-today'){await startDaily('retry');return;}
@@ -377,6 +395,10 @@ document.addEventListener('submit',async e=>{
  }catch(err){toast(err.message);}finally{busy=false;}
 });
 document.addEventListener('change',async e=>{
+ if(e.target.dataset.readingEssay){
+  reviewReadingOptions={...reviewReadingOptions,essayIds:[...document.querySelectorAll('[data-reading-essay]:checked')].map(input=>input.dataset.readingEssay),index:0,scopeOpen:true};
+  await repo.set('reading-options',reviewReadingOptions);renderKeepingFocus();return;
+ }
  try{
  if(saveError){toast('請先重試保存，再修改設定。');return;}
  if(e.target.dataset.trainingEssay){const id=e.target.dataset.trainingEssay;const types=[...document.querySelectorAll('[data-types-for]')].find(el=>el.dataset.typesFor===id);if(types)types.hidden=!e.target.checked;updateTrainingSummary();return;}

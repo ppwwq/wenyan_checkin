@@ -51,3 +51,26 @@ body[data-page=library] #toast{bottom:calc(var(--library-action-space,80px) + 28
 .btn.danger{background:#9d3f2e!important}.option:hover:not(:disabled){border-color:#bb965e;background:#fcf6e9}.option.selected{border-color:#986316;background:#faf0d9}.option.selected b{background:#986316;color:#fffefa;border-color:#986316}
 .option.correct{background:#e7f5eb;border-color:#22863a;outline-color:#22863a}.option.correct b{background:#22863a;border-color:#22863a;color:#fff}.option.wrong{background:#fff0f0;border-color:#c53030;outline-color:#c53030}.option.wrong b{background:#c53030;border-color:#c53030;color:#fff}
 .auth-story .edition-label,.auth-story>div>p,.auth-story-foot{color:#dad4c8}.auth-stamp{border-color:#c6b89e;color:#ede0c6}.review-day.active{background:#f5e8cb;border-color:#c3a46d}.nav button.active{background:#f5e8cb;color:#815411}.nav button:hover:not(.active){background:#4d4840}.study-path:hover{background:#faf2e3;border-color:#b69a70}.home-shortcut:hover{background:#eee8dd}.library-card.selected{background:#faf0d9;border-color:#bb965e;box-shadow:inset 3px 0 #986316}
+
+/* Direct reading keeps each question, answer and translation in one reading column. */
+[data-page="review-reading"] .page{max-width:1000px}
+.review-reading-filter{display:flex;align-items:center;gap:12px;margin:20px 0;max-width:540px}
+.review-reading-filter select{flex:1;min-width:0}
+.review-reading-item{max-width:850px;padding:28px 0;border-bottom:1px solid var(--line);overflow-wrap:anywhere}
+.review-reading-item h2{font-size:1.2rem;line-height:1.8;margin:8px 0 14px}
+.review-reading-item h3,.reading-translation h3{font-size:1rem;margin:22px 0 8px}
+.review-reading-item blockquote{margin:16px 0;padding:14px 18px;background:#f8eed9;line-height:1.9}
+.review-reading-item p,.reading-translation p{line-height:1.9}
+.review-reading-item .card-answer{font-weight:600;color:var(--green)}
+.review-reading-item details,.reading-translation details{margin:14px 0;font-size:.875rem}
+.review-choices{padding-left:28px;line-height:1.9;list-style-type:upper-alpha}
+.review-reading-pages{margin:20px 0;align-items:center}
+.review-reading-pages span{font-size:.875rem;color:var(--muted)}
+.written-panel .feedback>.toolbar{margin-top:24px}
+@media(max-width:600px){.review-reading-item{padding:22px 0}.review-reading-filter{display:grid;gap:6px}.review-reading-pages{gap:8px}}
+
+.review-reading-scope{margin:20px 0;padding:16px 18px;border:1px solid var(--line);border-radius:8px;max-width:850px;background:var(--white)}
+.review-reading-scope summary{font-weight:600;cursor:pointer;color:var(--green)}
+.review-reading-scope .toolbar{margin:12px 0}
+.review-reading-scope .review-type-options{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px 18px}
+@media(max-width:600px){.review-reading-scope .review-type-options{grid-template-columns:1fr}}

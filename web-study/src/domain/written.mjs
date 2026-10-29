@@ -65,7 +65,8 @@ export function filterWritten(items,filters={},events=[]){
  return items.filter(item=>{
   const last=latest.get(item.id);
   if(filters.progress==='unanswered'&&last)return false;
-  if(filters.progress==='revisit'&&(!last||last.payload.result.correct===true||state.assessments.get(last.id)==='complete'&&!(state.selfReviews.get(last.id)||[]).some(e=>e.payload.outcome==='revisit')))return false;
+  const revisit=last&&(state.selfReviews.get(last.id)||[]).some(e=>e.payload.outcome==='revisit');
+  if(filters.progress==='revisit'&&(!last||!revisit&&(last.payload.result.correct===true||state.assessments.get(last.id)==='complete')))return false;
   if(filters.kind&&item.kind!==filters.kind||filters.essay&&item.essayId!==filters.essay)return false;
   if(filters.origin&&item.origin!==filters.origin)return false;
   if(query&&!normalizeWritten(item.target+' '+item.context).includes(query))return false;
