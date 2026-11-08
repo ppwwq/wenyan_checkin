@@ -80,7 +80,7 @@ export function syncApi({ db, need, body, json, currentQuestion = () => null }) 
           if(event.type==='written'&&event.payload.action==='self'){
             const prior=get('SELECT * FROM events WHERE user_id=? AND id=? AND type=?',user.id,event.payload.attemptId,'written');
             const p=prior&&JSON.parse(prior.payload);
-            need(p?.action==='submit'&&p.result.correct===null,'找不到此帳號待自查的文字作答。');
+            need(p?.action==='submit'&&(p.result.correct===null||event.payload.outcome==='revisit'),'找不到此帳號待自查的文字作答。');
             // Keep every device's immutable self-review; the first server-accepted
             // review remains canonical. A later review must not block unrelated writes.
             if(!get('SELECT 1 FROM assessments WHERE user_id=? AND attempt_id=?',user.id,event.payload.attemptId))

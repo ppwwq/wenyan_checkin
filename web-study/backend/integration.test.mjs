@@ -6,6 +6,8 @@ import path from 'node:path';
 import { createApp } from './server.mjs';
 import { SyncClient } from '../src/sync/client.mjs';
 import { project } from '../src/domain/review.mjs';
+import {writtenResult,writtenState} from '../src/domain/written.mjs';
+import {mergeBackupEvents,validateBackup} from '../src/storage/backup.mjs';
 
 // Storage seam adapter deliberately returns ID order, like IndexedDB getAll.
 // This verifies the real HTTP/client/domain integration, not the browser engine.
@@ -38,6 +40,19 @@ async function fixture(t) {
   };
 }
 const answer = (id = 'zzz-first') => ({ id, type: 'attempt', createdAt: '2026-09-18T15:59:00Z', payload: { memoryId: 'm1', questionId: 'q1', questionVersion: 1, question: { id: 'q1', answerId: 'b' }, mode: 'typing', answer: '首次草稿', correct: null, submittedAt: '2026-09-18T15:59:00Z', day: '2026-09-18' } });
+
+test('marking a matched vocabulary answer unknown backs up and restores without blocking later records',async t=>{
+ const api=await fixture(t),account=await api('/api/auth/register',{username:'written-unknown',password:'password-123',inviteCode:'students'});
+ const item={id:'written:test',version:1,kind:'vocabulary',origin:'authored-basic',essayId:'essay-01',prompt:'解釋字義',context:'學而時習之',reference:'溫習',accepted:['溫習'],points:[],rubric:'按語境',sourceLabel:'本地測試'};
+ const submission={id:'submission',type:'written',createdAt:'2026-11-04T01:00:00Z',payload:{action:'submit',itemId:item.id,item,answer:'溫習',result:writtenResult(item,'溫習')}};
+ const unknown={id:'unknown',type:'written',createdAt:'2026-11-04T01:00:01Z',payload:{action:'self',attemptId:submission.id,outcome:'revisit',checked:true}};
+ const repo=new QueueStore(account.user.id);for(const e of [submission,unknown,{id:'later',type:'favorite',createdAt:'2026-11-04T01:00:02Z',payload:{questionId:'q',saved:true}}])await repo.append(e);
+ await new SyncClient(repo,account.token).sync();assert.equal((await repo.pending()).length,0);
+ const fresh=new QueueStore(account.user.id);await new SyncClient(fresh,account.token).sync();
+ assert.equal((await fresh.events()).length,3);assert.equal(writtenState(await fresh.events()).assessments.get('submission'),'revisit');
+ const backup={format:'wenyan-backup-v1',userId:account.user.id,events:await fresh.events()};
+ assert.equal(mergeBackupEvents([],validateBackup(backup,account.user.id)).length,3);
+});
 
 test('large-history sync resumes a failed page and a fresh device reads every immutable event',async t=>{
  const api=await fixture(t),account=await api('/api/auth/register',{username:'large-pages',password:'password-123',inviteCode:'students'}),repo=new QueueStore(account.user.id);

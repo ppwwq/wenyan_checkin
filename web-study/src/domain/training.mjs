@@ -61,7 +61,7 @@ export function refreshTrainingSession(questions,state,original,today=hkDay()){
  for(const a of state.attempts.filter(e=>e.payload.sessionId===session.id))answers[a.payload.questionId]=a.id;
  // Keep both draft formats when a learner changes the daily answer setting.
  // Submitted answers always use the mode stored with their attempt.
- const nextMode=plan.vocabularyTyping!==undefined||session.vocabularyTyping!==undefined?{...session,vocabularyTyping:false}:session;
+ const nextMode=plan?.vocabularyTyping!==undefined||session.vocabularyTyping!==undefined?{...session,vocabularyTyping:false}:session;
  const snapshots=new Map([...questions,...session.questions].map(q=>[q.id,q]));
  for(const [id,draft] of Object.entries(session.drafts||{})){
   const q=snapshots.get(id);if(!q||answers[id])continue;

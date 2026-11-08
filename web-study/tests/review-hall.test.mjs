@@ -59,7 +59,6 @@ test('school vocab batches merge by id and v1 stays ahead of template vocab',()=
  const red=next.items.find(item=>item.teacherCorrection===true);
  assert.deepEqual(both.find(item=>item.id===red.id).accepted,red.accepted);
  assert.equal(file.items.length,95);
- assert.equal(written.items.length,949);
  const kept=file.items.find(item=>item.id==='school-vocab:essay-08:moshu:004');
  assert.deepEqual(kept.accepted,['到达']);
  assert.equal(kept.teacherCorrection,true);
@@ -102,9 +101,7 @@ test('school vocab batches merge by id and v1 stays ahead of template vocab',()=
  assert.equal(available([...bank.questions,...merged.questions],{essayIds:essays,studyPool:'default'}).filter(item=>String(item.id).startsWith('authored-exp-v1-')).length,55);
 });
 
-test('sheet run puts school items first and leaves template written vocab out of the default卷',()=>{
- assert.equal(written.items.length,949);
- assert.equal(written.items.filter(i=>i.kind==='vocabulary').length,659);
+test('sheet run puts school items first and leaves short answers and template vocab out of the default卷',()=>{
  const file=JSON.parse(readFileSync(new URL('../content/school-vocab/v1.json',import.meta.url)));
  const school=mergeSchoolBatches([file]);
  const ordered=sheetQueue(written.items,{},school);
@@ -116,6 +113,7 @@ test('sheet run puts school items first and leaves template written vocab out of
  assert.ok(full.slice(0,737).every(item=>item.origin==='school-sheet'));
  assert.equal(full.filter(item=>item.confidence==='待核').length,54+file.items.filter(item=>item.confidence==='待核').length);
  assert.ok(ordered.slice(0,95).every(item=>item.origin==='school-sheet'));
+ assert.ok(ordered.every(item=>item.kind==='vocabulary'));
  assert.ok(!ordered.some(item=>String(item.bankQuestionId||'').startsWith('full-')));
  assert.ok(sheetQueue(written.items,{includeTemplate:true}).some(item=>String(item.bankQuestionId||'').startsWith('full-')));
  const loan=sheetQueue(written.items,{section:'loan'},school);

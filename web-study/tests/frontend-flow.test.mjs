@@ -8,6 +8,12 @@ import {project} from '../src/domain/review.mjs';
 const bank=JSON.parse(readFileSync(new URL('../content/bank.json',import.meta.url)));
 const make=q=>({id:'s',index:0,questions:[q],answers:{},drafts:{},mode:'choice',essayIds:q.essayIds,targetCount:1,selection:{essayIds:q.essayIds,count:1},skippedIds:[]});
 
+test('answer feedback shows the related short translation before optional full source material',()=>{
+ const q={quote:'甲句，乙句。',explanation:'本題理解甲乙的關係。',learning:{knowledge:[],passages:[{title:'篇章',original:'前文。甲句，乙句。後文。',translation:'前面的無關內容。甲的意思，乙的意思。後面的無關內容。'}]}};
+ const html=learningView(q),visible=html.split('<details class="extended-context">')[0];
+ assert.match(visible,/甲的意思，乙的意思/);assert.doesNotMatch(visible,/前面的無關內容|後面的無關內容/);
+});
+
 test('every full passage and vocabulary translation survives the paired learning layout',()=>{
  for(const q of bank.questions){
   const html=learningView(q);

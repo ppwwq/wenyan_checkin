@@ -1,10 +1,11 @@
 import {questionPool,studyPools} from '../domain/editorial.mjs';
 import {editorialPrototypes} from '../domain/editorial-prototypes.mjs';
 import {esc,quote,targetIndex} from './shared.mjs';
+import {clipTranslation,compactQuotation} from '../domain/reading-context.mjs';
 
 export function sourceLabel(q){
  const p=q.provenance;
- if(p?.kind==='school-original')return '校本原題 · '+p.school+' · '+p.exam+' · 甲部第 '+p.question+' 題 · '+p.marks+' 分';
+ if(p?.kind==='school-original')return '第 '+p.question+' 題 · '+p.marks+' 分';
  const purposeLabel=studyPools[questionPool(q)]||'';
  return p?.kind==='dse-original'?'DSE 原題 · '+p.year+' · 卷一甲部 · 第 '+p.question+' 題 · '+p.marks+' 分':p?.kind==='authored'?(purposeLabel||p.practiceLabel||'待核練習')+' · 自編題目':purposeLabel;
 }
@@ -37,7 +38,15 @@ export function learningView(q){
  const longContext=passages.reduce((n,p)=>n+p.original.length,0)>160||(passages.length>1&&q.quote?.trim());
  const cited=[...String(q.explanation||'').matchAll(/「([^「」]{4,80})」/g)].map(m=>m[1]).filter((text,i,all)=>all.indexOf(text)===i&&passages.some(p=>p.original.includes(text))).slice(0,2);
  const brief=q.quote?.trim()?'<blockquote>'+quote(q)+'</blockquote>':cited.map(text=>'<blockquote>'+esc(text)+'</blockquote>').join('');
- const shownContext=longContext?brief+'<details class="extended-context"><summary>'+(translated?'查看完整句譯與上下文':'查看原文上下文')+'</summary>'+context+'</details>':context;
+ const questionQuote=compactQuotation(q).quote;
+ const needles=questionQuote&&questionQuote.length<=160?[questionQuote]:cited;
+ const focused=passages.flatMap(p=>{
+  const selected=needles.map(text=>p.translation?clipTranslation(p.original,p.translation,text):p.original.includes(text)?{original:text,translation:''}:null).filter(Boolean);
+  return selected.length?selected.map(part=>({...p,...part})):!needles.length&&p.original.length<=80?[p]:[];
+ });
+ const focusedContext=focused.map(p=>'<div class="passage-pair">'+passageView(p,q)+(p.translation?'<div class="sentence-translation"><h4>對應句譯</h4><p>'+esc(p.translation)+'</p></div>':'')+'</div>').join('');
+ const trimmed=focused.length!==passages.length||focused.some((p,i)=>p.original!==passages[i]?.original||p.translation!==passages[i]?.translation);
+ const shownContext=longContext||trimmed?(focusedContext||brief)+(context?'<details class="extended-context"><summary>'+(translated?'查看完整句譯與上下文':'查看原文上下文')+'</summary>'+context+'</details>':''):context;
  const core=knowledge.filter(k=>k.title!=='本句的理解要點');
  const more=knowledge.filter(k=>!core.includes(k));
  const explain=k=>'<h4>'+esc(k.title)+'</h4><p>'+esc(k.text)+'</p>';

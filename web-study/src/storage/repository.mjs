@@ -30,14 +30,16 @@ export class Repository {
    tx.onabort=()=>reject(error||tx.error||new Error('備份未寫入，現有記錄保留'));
   });
  }
- async exportBackup(){
-  const events=await this.events(),keys=await this.transaction('meta','readonly',s=>s.getAllKeys());
+ async exportBackup({pendingOnly=true}={}){
+  const rows=await this.transaction('events','readonly',s=>s.getAll());
+  const all=rows.map(({pending,...event})=>event),events=rows.filter(e=>!pendingOnly||e.pending).map(({pending,...event})=>event);
+  const keys=await this.transaction('meta','readonly',s=>s.getAllKeys());
   for(const key of keys.filter(key=>typeof key==='string'&&key.startsWith('draft-session/'))){
    const draft=await this.get(key);if(!draft?.id)continue;
-   const latest=events.filter(e=>e.type==='session'&&e.payload.session.id===draft.id).sort((a,b)=>(b.payload.session.revision||0)-(a.payload.session.revision||0))[0];
+   const latest=all.filter(e=>e.type==='session'&&e.payload.session.id===draft.id).sort((a,b)=>(b.payload.session.revision||0)-(a.payload.session.revision||0))[0];
    if(!latest||(draft.revision||0)>(latest.payload.session.revision||0))events.push({id:'backup-draft/'+draft.id+'/'+(draft.revision||0),type:'session',payload:{session:draft},createdAt:latest?.createdAt||draft.startedAt});
   }
-  return {format:'wenyan-backup-v1',userId:this.userId,exportedAt:new Date().toISOString(),events};
+  return {format:'wenyan-backup-v1',scope:pendingOnly?'pending':'all',userId:this.userId,exportedAt:new Date().toISOString(),events};
  }
  close(){this.db.close();}
 }

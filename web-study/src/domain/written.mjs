@@ -49,7 +49,13 @@ export function writtenState(events){
   const accepted=reviews.find(e=>e.selfReviewAccepted===true)||reviews.find(e=>e.selfReviewAccepted!==false);
   if(accepted)assessments.set(attemptId,accepted.payload.outcome);
  }
- return {drafts,attempts,assessments,selfReviews,corrections};
+ const mistakes=new Map();
+ for(const attempt of attempts){
+  const outcome=assessments.get(attempt.id),itemId=attempt.payload.itemId;
+  if(outcome==='revisit')mistakes.set(itemId,attempt);
+  else if(outcome==='complete'||attempt.payload.result.correct===true)mistakes.delete(itemId);
+ }
+ return {drafts,attempts,assessments,selfReviews,corrections,mistakes};
 }
 export function writtenItems(content,bank){
  const current=new Map(bank.questions.map(q=>[q.id,q]));
@@ -64,6 +70,7 @@ export function filterWritten(items,filters={},events=[]){
  const seen=new Set(),query=normalizeWritten(filters.query||'');
  return items.filter(item=>{
   const last=latest.get(item.id);
+  if(filters.progress==='wrong'&&!state.mistakes.has(item.id))return false;
   if(filters.progress==='unanswered'&&last)return false;
   const revisit=last&&(state.selfReviews.get(last.id)||[]).some(e=>e.payload.outcome==='revisit');
   if(filters.progress==='revisit'&&(!last||!revisit&&(last.payload.result.correct===true||state.assessments.get(last.id)==='complete')))return false;

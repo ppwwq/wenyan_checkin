@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026.10.21.written.5",
+  "version": "2026.11.07.written.1",
   "bankVersion": "2026.10.21.review.40",
   "scope": "Individually reviewed vocabulary plus separately sourced official and authored translation seeds; not an exhaustively deduplicated 16-text lexicon.",
   "items": [
@@ -38216,6 +38216,1344 @@
         "role": "independent-context",
         "testedText": "sourceQuote",
         "note": "只測【待譯句】；【上文】為相鄰原文背景。"
+      }
+    },
+    {
+      "id": "written:official.2018.1-i",
+      "version": 1,
+      "kind": "vocabulary",
+      "origin": "official-original",
+      "essayId": "essay-04",
+      "title": "2018 DSE 甲部 1-i",
+      "target": "患",
+      "context": "今子有大樹，患其無用。",
+      "prompt": "試解釋以下文句中標示的字詞。",
+      "reference": "擔憂",
+      "accepted": [
+        "擔憂"
+      ],
+      "points": [
+        "本句「患」可解作：擔憂。"
+      ],
+      "rubric": "每分題答對1分；包含錯誤答案給0分；錯別字每題扣1分。 網站只供答案匹配／逐項自查，不自動計算官方分數。",
+      "sourceLabel": "2018 DSE 中國語文卷一甲部第1-i題，1分；用戶合輯《2018-2021 DSE--.pdf》PDF第2頁；評卷參考PDF第14頁。",
+      "source": {
+        "file": "2018-2021 DSE--.pdf",
+        "year": 2018,
+        "paper": 1,
+        "section": "A",
+        "question": "1-i",
+        "marks": 1,
+        "questionPdfPage": 2,
+        "markingPdfPage": 14,
+        "printedQuestionPage": 2,
+        "printedMarkingPage": 62
+      },
+      "commonErrors": "請按本題年份的評卷要求自查；其他年份或自編練習的規則不直接套用。",
+      "targetStart": 6,
+      "senseId": "患|擔憂"
+    },
+    {
+      "id": "written:official.2018.1-ii",
+      "version": 1,
+      "kind": "vocabulary",
+      "origin": "official-original",
+      "essayId": "essay-05",
+      "title": "2018 DSE 甲部 1-ii",
+      "target": "倨",
+      "context": "大王見臣列觀，禮節甚倨。",
+      "prompt": "試解釋以下文句中標示的字詞。",
+      "reference": "傲慢",
+      "accepted": [
+        "傲慢"
+      ],
+      "points": [
+        "本句「倨」可解作：傲慢。"
+      ],
+      "rubric": "每分題答對1分；包含錯誤答案給0分；錯別字每題扣1分。 網站只供答案匹配／逐項自查，不自動計算官方分數。",
+      "sourceLabel": "2018 DSE 中國語文卷一甲部第1-ii題，1分；用戶合輯《2018-2021 DSE--.pdf》PDF第2頁；評卷參考PDF第14頁。",
+      "source": {
+        "file": "2018-2021 DSE--.pdf",
+        "year": 2018,
+        "paper": 1,
+        "section": "A",
+        "question": "1-ii",
+        "marks": 1,
+        "questionPdfPage": 2,
+        "markingPdfPage": 14,
+        "printedQuestionPage": 2,
+        "printedMarkingPage": 62
+      },
+      "commonErrors": "請按本題年份的評卷要求自查；其他年份或自編練習的規則不直接套用。",
+      "targetStart": 10,
+      "senseId": "倨|傲慢"
+    },
+    {
+      "id": "written:official.2018.1-iii",
+      "version": 1,
+      "kind": "vocabulary",
+      "origin": "official-original",
+      "essayId": "essay-06",
+      "title": "2018 DSE 甲部 1-iii",
+      "target": "否",
+      "context": "陟罰臧否，不宜異同。",
+      "prompt": "試解釋以下文句中標示的字詞。",
+      "reference": "貶斥",
+      "accepted": [
+        "貶斥"
+      ],
+      "points": [
+        "本句「否」可解作：貶斥。"
+      ],
+      "rubric": "每分題答對1分；包含錯誤答案給0分；錯別字每題扣1分。 網站只供答案匹配／逐項自查，不自動計算官方分數。",
+      "sourceLabel": "2018 DSE 中國語文卷一甲部第1-iii題，1分；用戶合輯《2018-2021 DSE--.pdf》PDF第2頁；評卷參考PDF第14頁。",
+      "source": {
+        "file": "2018-2021 DSE--.pdf",
+        "year": 2018,
+        "paper": 1,
+        "section": "A",
+        "question": "1-iii",
+        "marks": 1,
+        "questionPdfPage": 2,
+        "markingPdfPage": 14,
+        "printedQuestionPage": 2,
+        "printedMarkingPage": 62
+      },
+      "commonErrors": "請按本題年份的評卷要求自查；其他年份或自編練習的規則不直接套用。",
+      "targetStart": 3,
+      "senseId": "否|貶斥"
+    },
+    {
+      "id": "written:official.2018.1-iv",
+      "version": 1,
+      "kind": "vocabulary",
+      "origin": "official-original",
+      "essayId": "essay-07",
+      "title": "2018 DSE 甲部 1-iv",
+      "target": "孰",
+      "context": "人非生而知之者，孰能無惑？",
+      "prompt": "試解釋以下文句中標示的字詞。",
+      "reference": "誰",
+      "accepted": [
+        "誰"
+      ],
+      "points": [
+        "本句「孰」可解作：誰。"
+      ],
+      "rubric": "每分題答對1分；包含錯誤答案給0分；錯別字每題扣1分。 網站只供答案匹配／逐項自查，不自動計算官方分數。",
+      "sourceLabel": "2018 DSE 中國語文卷一甲部第1-iv題，1分；用戶合輯《2018-2021 DSE--.pdf》PDF第2頁；評卷參考PDF第14頁。",
+      "source": {
+        "file": "2018-2021 DSE--.pdf",
+        "year": 2018,
+        "paper": 1,
+        "section": "A",
+        "question": "1-iv",
+        "marks": 1,
+        "questionPdfPage": 2,
+        "markingPdfPage": 14,
+        "printedQuestionPage": 2,
+        "printedMarkingPage": 62
+      },
+      "commonErrors": "請按本題年份的評卷要求自查；其他年份或自編練習的規則不直接套用。",
+      "targetStart": 8,
+      "senseId": "孰|誰"
+    },
+    {
+      "id": "written:official.2018.1-v",
+      "version": 1,
+      "kind": "vocabulary",
+      "origin": "official-original",
+      "essayId": "essay-10",
+      "title": "2018 DSE 甲部 1-v",
+      "target": "固",
+      "context": "諸侯之所大患，固不在戰矣。",
+      "prompt": "試解釋以下文句中標示的字詞。",
+      "reference": "本來",
+      "accepted": [
+        "本來"
+      ],
+      "points": [
+        "本句「固」可解作：本來。"
+      ],
+      "rubric": "每分題答對1分；包含錯誤答案給0分；錯別字每題扣1分。 網站只供答案匹配／逐項自查，不自動計算官方分數。",
+      "sourceLabel": "2018 DSE 中國語文卷一甲部第1-v題，1分；用戶合輯《2018-2021 DSE--.pdf》PDF第2頁；評卷參考PDF第14頁。",
+      "source": {
+        "file": "2018-2021 DSE--.pdf",
+        "year": 2018,
+        "paper": 1,
+        "section": "A",
+        "question": "1-v",
+        "marks": 1,
+        "questionPdfPage": 2,
+        "markingPdfPage": 14,
+        "printedQuestionPage": 2,
+        "printedMarkingPage": 62
+      },
+      "commonErrors": "請按本題年份的評卷要求自查；其他年份或自編練習的規則不直接套用。",
+      "targetStart": 7,
+      "senseId": "固|本來"
+    },
+    {
+      "id": "written:official.2018.7",
+      "version": 1,
+      "kind": "short-answer",
+      "origin": "official-original",
+      "essayId": "essay-06",
+      "title": "2018 DSE 甲部 7 · 短答",
+      "prompt": "「表」為臣下向君主進言的文體，內容多為事理的陳述和分析，惟《出師表》一文帶有明顯的個人感情。諸葛亮為什麼這樣寫？試舉一例說明。",
+      "context": "",
+      "reference": "諸葛亮希望後主感念先帝、採納忠告。比如他追述先帝親自選拔郭攸之等忠良，藉對先帝的感情勸後主信任和任用他們，以延續先帝的治國方針。",
+      "accepted": [],
+      "points": [
+        "指出帶感情的目的。",
+        "舉出一個具體內容，再說明感情如何達到所說目的。"
+      ],
+      "rubric": "原因佔 1 分，舉例說明佔 3 分。缺例子最高 1 分，例子只抄原文而無解說最高 2 分，只有例子而欠原因不給分。",
+      "sourceLabel": "2018 DSE 中國語文卷一甲部第 7 題（4 分）。《整合／寫作手法》PDF 第 3–4 頁。題幹按原頁轉錄或拆出分題，評分要點為原頁摘要。",
+      "source": {
+        "file": "寫作手法.pdf",
+        "year": 2018,
+        "paper": 1,
+        "section": "A",
+        "question": "7",
+        "marks": 4,
+        "pdfPage": 3,
+        "pdfPageEnd": 4
+      }
+    },
+    {
+      "id": "written:official.2018.8-ii",
+      "version": 1,
+      "kind": "short-answer",
+      "origin": "official-original",
+      "essayId": "essay-16",
+      "title": "2018 DSE 甲部 8(ii) · 短答",
+      "prompt": "試根據《青玉案》一詞回答：作者抒述了什麼情懷？他又怎樣抒述這種情懷？試綜合全文分析說明。",
+      "context": "",
+      "reference": "詞人寫元夕燈火繁盛、遊人喧鬧，再寫那人獨立於燈火闌珊之處。用熱鬧反襯冷清，突出那人不逐繁華的姿態，寄託詞人孤高不群的志向。",
+      "accepted": [],
+      "points": [
+        "清楚指出情懷。",
+        "比較繁華場面與那人所在的冷清處境。",
+        "交代兩者對比怎樣寄寓該情懷。"
+      ],
+      "rubric": "情懷佔 1 分，結合全詞分析佔 3 分。其他有文本根據的詮釋也可成立。",
+      "sourceLabel": "2018 DSE 中國語文卷一甲部第 8(ii) 題（4 分）。《整合／襯托法》PDF 第 2 頁。題幹按原頁轉錄或拆出分題，評分要點為原頁摘要。",
+      "source": {
+        "file": "襯托法.pdf",
+        "year": 2018,
+        "paper": 1,
+        "section": "A",
+        "question": "8(ii)",
+        "marks": 4,
+        "pdfPage": 2
+      }
+    },
+    {
+      "id": "written:official.2019.1-i",
+      "version": 1,
+      "kind": "vocabulary",
+      "origin": "official-original",
+      "essayId": "essay-03",
+      "title": "2019 DSE 甲部 1-i",
+      "target": "須臾",
+      "context": "吾嘗終日而思矣，不如須臾之所學也……",
+      "prompt": "試解釋以下文句中標示的字詞。",
+      "reference": "片刻／一會兒／短暫的時間",
+      "accepted": [
+        "片刻",
+        "一會兒",
+        "短暫的時間"
+      ],
+      "points": [
+        "本句「須臾」可解作：片刻／一會兒／短暫的時間。"
+      ],
+      "rubric": "每分題答對2分；概念欠準確或表達欠清晰的不完備答案1分，錯誤0分。多個答案如包含錯誤答案給0分，否則取較高分。每個錯別字扣1分，每分題最多扣一個錯別字。 網站只供答案匹配／逐項自查，不自動計算官方分數。",
+      "sourceLabel": "2019 DSE 中國語文卷一甲部第1-i題，2分；用戶合輯《2018-2021 DSE--.pdf》PDF第30頁；評卷參考PDF第40頁。",
+      "source": {
+        "file": "2018-2021 DSE--.pdf",
+        "year": 2019,
+        "paper": 1,
+        "section": "A",
+        "question": "1-i",
+        "marks": 2,
+        "questionPdfPage": 30,
+        "markingPdfPage": 40,
+        "printedQuestionPage": 2,
+        "printedMarkingPage": 58
+      },
+      "commonErrors": "請按本題年份的評卷要求自查；其他年份或自編練習的規則不直接套用。",
+      "targetStart": 10,
+      "senseId": "須臾|片刻／一會兒／短暫的時間"
+    },
+    {
+      "id": "written:official.2019.1-iii",
+      "version": 1,
+      "kind": "vocabulary",
+      "origin": "official-original",
+      "essayId": "essay-06",
+      "title": "2019 DSE 甲部 1-iii",
+      "target": "躬",
+      "context": "臣本布衣，躬耕於南陽……",
+      "prompt": "試解釋以下文句中標示的字詞。",
+      "reference": "親自／親身",
+      "accepted": [
+        "親自",
+        "親身"
+      ],
+      "points": [
+        "本句「躬」可解作：親自／親身。"
+      ],
+      "rubric": "每分題答對2分；概念欠準確或表達欠清晰的不完備答案1分，錯誤0分。多個答案如包含錯誤答案給0分，否則取較高分。每個錯別字扣1分，每分題最多扣一個錯別字。 網站只供答案匹配／逐項自查，不自動計算官方分數。",
+      "sourceLabel": "2019 DSE 中國語文卷一甲部第1-iii題，2分；用戶合輯《2018-2021 DSE--.pdf》PDF第30頁；評卷參考PDF第40頁。",
+      "source": {
+        "file": "2018-2021 DSE--.pdf",
+        "year": 2019,
+        "paper": 1,
+        "section": "A",
+        "question": "1-iii",
+        "marks": 2,
+        "questionPdfPage": 30,
+        "markingPdfPage": 40,
+        "printedQuestionPage": 2,
+        "printedMarkingPage": 58
+      },
+      "commonErrors": "請按本題年份的評卷要求自查；其他年份或自編練習的規則不直接套用。",
+      "targetStart": 5,
+      "senseId": "躬|親自／親身"
+    },
+    {
+      "id": "written:official.2019.4-ii",
+      "version": 1,
+      "kind": "short-answer",
+      "origin": "official-original",
+      "essayId": "essay-11",
+      "title": "2019 DSE 甲部 4(ii) · 摘錄",
+      "prompt": "試摘錄運用「以動襯靜」的手法描寫山居幽靜的一聯。",
+      "context": "",
+      "reference": "明月松間照，清泉石上流。／竹喧歸浣女，蓮動下漁舟。",
+      "accepted": [],
+      "points": [
+        "從《山居秋暝》摘錄其中一聯，保留上下句。"
+      ],
+      "rubric": "按原評卷，摘錄正確給 2 分。每處錯字、缺字、增字扣 1 分。",
+      "sourceLabel": "2019 DSE 中國語文卷一甲部第 4(ii) 題（2 分）。《整合／襯托法》PDF 第 5 頁。題幹按原頁轉錄或拆出分題，評分要點為原頁摘要。",
+      "source": {
+        "file": "襯托法.pdf",
+        "year": 2019,
+        "paper": 1,
+        "section": "A",
+        "question": "4(ii)",
+        "marks": 2,
+        "pdfPage": 5
+      }
+    },
+    {
+      "id": "written:official.2020.1-i",
+      "version": 1,
+      "kind": "vocabulary",
+      "origin": "official-original",
+      "essayId": "essay-09",
+      "title": "2020 DSE 甲部 1-i",
+      "target": "屬",
+      "context": "屬予作文以記之。",
+      "prompt": "試解釋以下文句中標示的字詞。",
+      "reference": "囑咐／囑託／叮囑",
+      "accepted": [
+        "囑咐",
+        "囑託",
+        "叮囑"
+      ],
+      "points": [
+        "本句「屬」可解作：囑咐／囑託／叮囑。"
+      ],
+      "rubric": "每分題答對2分；概念欠準確或表達欠明晰的不完備答案1分，錯誤0分。多個答案如包含錯誤答案給0分，否則取較高分。每個錯別字扣1分，每分題最多只扣1分。 網站只供答案匹配／逐項自查，不自動計算官方分數。",
+      "sourceLabel": "2020 DSE 中國語文卷一甲部第1-i題，2分；用戶合輯《2018-2021 DSE--.pdf》PDF第56頁；評卷參考PDF第67頁。",
+      "source": {
+        "file": "2018-2021 DSE--.pdf",
+        "year": 2020,
+        "paper": 1,
+        "section": "A",
+        "question": "1-i",
+        "marks": 2,
+        "questionPdfPage": 56,
+        "markingPdfPage": 67,
+        "printedQuestionPage": 9,
+        "printedMarkingPage": 42
+      },
+      "commonErrors": "請按本題年份的評卷要求自查；其他年份或自編練習的規則不直接套用。",
+      "targetStart": 0,
+      "senseId": "屬|囑咐／囑託／叮囑"
+    },
+    {
+      "id": "written:official.2020.1-ii",
+      "version": 1,
+      "kind": "vocabulary",
+      "origin": "official-original",
+      "essayId": "essay-06",
+      "title": "2020 DSE 甲部 1-ii",
+      "target": "悉",
+      "context": "侍中、尚書、長史、參軍，此悉貞良死節之臣……",
+      "prompt": "試解釋以下文句中標示的字詞。",
+      "reference": "全部／皆是／都是",
+      "accepted": [
+        "全部",
+        "皆是",
+        "都是"
+      ],
+      "points": [
+        "本句「悉」可解作：全部／皆是／都是。"
+      ],
+      "rubric": "每分題答對2分；概念欠準確或表達欠明晰的不完備答案1分，錯誤0分。多個答案如包含錯誤答案給0分，否則取較高分。每個錯別字扣1分，每分題最多只扣1分。 網站只供答案匹配／逐項自查，不自動計算官方分數。",
+      "sourceLabel": "2020 DSE 中國語文卷一甲部第1-ii題，2分；用戶合輯《2018-2021 DSE--.pdf》PDF第56頁；評卷參考PDF第67頁。",
+      "source": {
+        "file": "2018-2021 DSE--.pdf",
+        "year": 2020,
+        "paper": 1,
+        "section": "A",
+        "question": "1-ii",
+        "marks": 2,
+        "questionPdfPage": 56,
+        "markingPdfPage": 67,
+        "printedQuestionPage": 9,
+        "printedMarkingPage": 42
+      },
+      "commonErrors": "請按本題年份的評卷要求自查；其他年份或自編練習的規則不直接套用。",
+      "targetStart": 13,
+      "senseId": "悉|全部／皆是／都是"
+    },
+    {
+      "id": "written:official.2020.1-iii",
+      "version": 1,
+      "kind": "vocabulary",
+      "origin": "official-original",
+      "essayId": "essay-07",
+      "title": "2020 DSE 甲部 1-iii",
+      "target": "庸",
+      "context": "吾師道也，夫庸知其年之先後生於吾乎？",
+      "prompt": "試解釋以下文句中標示的字詞。",
+      "reference": "何必／哪用／難道",
+      "accepted": [
+        "何必",
+        "哪用",
+        "難道"
+      ],
+      "points": [
+        "本句「庸」可解作：何必／哪用／難道。"
+      ],
+      "rubric": "每分題答對2分；概念欠準確或表達欠明晰的不完備答案1分，錯誤0分。多個答案如包含錯誤答案給0分，否則取較高分。每個錯別字扣1分，每分題最多只扣1分。 網站只供答案匹配／逐項自查，不自動計算官方分數。",
+      "sourceLabel": "2020 DSE 中國語文卷一甲部第1-iii題，2分；用戶合輯《2018-2021 DSE--.pdf》PDF第56頁；評卷參考PDF第67頁。",
+      "source": {
+        "file": "2018-2021 DSE--.pdf",
+        "year": 2020,
+        "paper": 1,
+        "section": "A",
+        "question": "1-iii",
+        "marks": 2,
+        "questionPdfPage": 56,
+        "markingPdfPage": 67,
+        "printedQuestionPage": 9,
+        "printedMarkingPage": 42
+      },
+      "commonErrors": "請按本題年份的評卷要求自查；其他年份或自編練習的規則不直接套用。",
+      "targetStart": 6,
+      "senseId": "庸|何必／哪用／難道"
+    },
+    {
+      "id": "written:official.2020.4-i",
+      "version": 1,
+      "kind": "short-answer",
+      "origin": "official-original",
+      "essayId": "essay-13",
+      "title": "2020 DSE 甲部 4(i) · 填表",
+      "prompt": "杜甫《登樓》一詩借用典故以抒懷。試以自己的文句補出「後主」的典故內容。",
+      "context": "表格已給的情懷：慨歎當時君主昏庸，沒有賢臣輔助。",
+      "reference": "昏庸的後主劉禪亡國後，仍有祠廟供人祭祀。",
+      "accepted": [],
+      "points": [
+        "交代後主祠廟。",
+        "補述後主雖昏庸，祠廟卻仍在或仍受祭祀。"
+      ],
+      "rubric": "對照評卷參考自查，系統不代判分。",
+      "sourceLabel": "2020 DSE 中國語文卷一甲部第 4(i) 題（2 分）。《整合／修辭手法》PDF 第 6 頁。題幹按原頁轉錄或拆出分題，評分要點為原頁摘要。",
+      "source": {
+        "file": "修辭手法.pdf",
+        "year": 2020,
+        "paper": 1,
+        "section": "A",
+        "question": "4(i)",
+        "marks": 2,
+        "pdfPage": 6
+      }
+    },
+    {
+      "id": "written:official.2020.4-ii",
+      "version": 1,
+      "kind": "short-answer",
+      "origin": "official-original",
+      "essayId": "essay-13",
+      "title": "2020 DSE 甲部 4(ii) · 填表",
+      "prompt": "杜甫《登樓》一詩借用典故以抒懷。試以自己的文句補出「諸葛亮」典故所抒發的情懷。",
+      "context": "表格已給的典故：相傳諸葛亮遇劉備前，喜歡吟誦《梁甫吟》。",
+      "reference": "杜甫以諸葛亮自況，抒發想為國效力而未獲重用的鬱結。",
+      "accepted": [],
+      "points": [
+        "指出以諸葛亮自況、欲效法他的心志或對他的懷念。",
+        "說明詩人懷才不遇、憂時傷世或欲效力朝廷的情懷。"
+      ],
+      "rubric": "對照評卷參考自查，系統不代判分。",
+      "sourceLabel": "2020 DSE 中國語文卷一甲部第 4(ii) 題（2 分）。《整合／修辭手法》PDF 第 6 頁。題幹按原頁轉錄或拆出分題，評分要點為原頁摘要。",
+      "source": {
+        "file": "修辭手法.pdf",
+        "year": 2020,
+        "paper": 1,
+        "section": "A",
+        "question": "4(ii)",
+        "marks": 2,
+        "pdfPage": 6
+      }
+    },
+    {
+      "id": "written:official.2020.5-ii",
+      "version": 1,
+      "kind": "short-answer",
+      "origin": "official-original",
+      "essayId": "essay-10",
+      "title": "2020 DSE 甲部 5(ii) · 短答",
+      "prompt": "作者以「抱薪救火」說明什麼道理？試以自己的文句說明。",
+      "context": "然則諸侯之地有限，暴秦之欲無厭，奉之彌繁，侵之愈急，故不戰而強弱勝負已判矣。至於顛覆，理固宜然。古人云：「以地事秦，猶抱薪救火，薪不盡，火不滅。」此言得之。",
+      "reference": "以土地賄賂秦國會招致亡國。割地好比向火中添柴，秦國得地越多，侵略的野心越大。六國的土地有限，割到土地耗盡，國家也就滅亡。",
+      "accepted": [],
+      "points": [
+        "先說賂秦招致的惡果。",
+        "用割地和添柴的對應解釋如何助長秦國侵略。",
+        "交代土地耗盡與亡國的關係。"
+      ],
+      "rubric": "對照評卷參考自查，系統不代判分。",
+      "sourceLabel": "2020 DSE 中國語文卷一甲部第 5(ii) 題（3 分）。《整合／寫作手法》PDF 第 11 頁。題幹按原頁轉錄或拆出分題，評分要點為原頁摘要。",
+      "source": {
+        "file": "寫作手法.pdf",
+        "year": 2020,
+        "paper": 1,
+        "section": "A",
+        "question": "5(ii)",
+        "marks": 3,
+        "pdfPage": 11
+      }
+    },
+    {
+      "id": "written:official.2020.7",
+      "version": 1,
+      "kind": "short-answer",
+      "origin": "official-original",
+      "essayId": "essay-01",
+      "title": "2020 DSE 甲部 7 · 個人啟發",
+      "prompt": "承上題，君子的「不憂」與古仁人的「憂」對象各有不同，試任擇其一，說明對你的啟發。",
+      "context": "上題比較《論仁、論孝、論君子》中君子「不憂」，與《岳陽樓記》中古仁人「進亦憂，退亦憂」。",
+      "reference": "以君子為例。他常反省自己的過失，努力改進，因而能問心無愧。這啟發我在與同學發生爭執時先想自己的言語是否傷人，該道歉就道歉，減少因逃避責任而生的憂慮。",
+      "accepted": [],
+      "points": [
+        "任選一方，交代其「憂」或「不憂」所關涉的對象。",
+        "把理解連到自己的處事或修養，說清楚具體啟發。"
+      ],
+      "rubric": "若兩項都答，原評卷只評第一項。",
+      "sourceLabel": "2020 DSE 中國語文卷一甲部第 7 題（3 分）。《整合／個人啟發》PDF 第 2 頁。題幹按原頁轉錄或拆出分題，評分要點為原頁摘要。",
+      "source": {
+        "file": "個人啟發.pdf",
+        "year": 2020,
+        "paper": 1,
+        "section": "A",
+        "question": "7",
+        "marks": 3,
+        "pdfPage": 2
+      }
+    },
+    {
+      "id": "written:official.2021.2",
+      "version": 1,
+      "kind": "short-answer",
+      "origin": "official-original",
+      "essayId": "essay-01",
+      "title": "2021 DSE 甲部 2 · 摘錄",
+      "prompt": "《論仁、論孝、論君子》其中一則說君子的心胸坦率寬大，小人卻局促憂愁。試摘錄有關句子。",
+      "context": "",
+      "reference": "君子坦蕩蕩，小人長戚戚。",
+      "accepted": [],
+      "points": [
+        "完整摘錄兩句。"
+      ],
+      "rubric": "答對給 2 分。每處錯字、缺字、增字扣 1 分，同一錯字只扣 1 分。",
+      "sourceLabel": "2021 DSE 中國語文卷一甲部第 2 題（2 分）。《整合／人物形象》PDF 第 11 頁。題幹按原頁轉錄或拆出分題，評分要點為原頁摘要。",
+      "source": {
+        "file": "人物形象.pdf",
+        "year": 2021,
+        "paper": 1,
+        "section": "A",
+        "question": "2",
+        "marks": 2,
+        "pdfPage": 11
+      }
+    },
+    {
+      "id": "written:official.2021.6",
+      "version": 1,
+      "kind": "short-answer",
+      "origin": "official-original",
+      "essayId": "essay-04",
+      "title": "2021 DSE 甲部 6 · 短答",
+      "prompt": "《逍遙遊》（節錄）一文，莊子如何以樗樹為喻抒發對人生的感悟？試綜合有關內容說明。",
+      "context": "",
+      "reference": "樗樹樹幹擁腫、枝條彎曲，木匠因而不用它，它也因此免受砍伐。莊子設想把它種在曠野，人可自在地在樹旁徘徊、在樹下休息。他藉樗樹說明有用與無用隨處境而變，人能放下世俗的用途標準，便可獲得精神自由。",
+      "accepted": [],
+      "points": [
+        "指出樗樹被棄用的具體原因及免遭砍伐的結果。",
+        "解釋有用與無用並非固定。",
+        "由喻例說明如何超越成見而逍遙。"
+      ],
+      "rubric": "對照評卷參考自查，系統不代判分。",
+      "sourceLabel": "2021 DSE 中國語文卷一甲部第 6 題（4 分）。《整合／寫作手法》PDF 第 17 頁。題幹按原頁轉錄或拆出分題，評分要點為原頁摘要。",
+      "source": {
+        "file": "寫作手法.pdf",
+        "year": 2021,
+        "paper": 1,
+        "section": "A",
+        "question": "6",
+        "marks": 4,
+        "pdfPage": 17
+      }
+    },
+    {
+      "id": "written:official.2021.7-i",
+      "version": 1,
+      "kind": "short-answer",
+      "origin": "official-original",
+      "essayId": "essay-14",
+      "title": "2021 DSE 甲部 7(i) · 短答",
+      "prompt": "試根據《念奴嬌・赤壁懷古》回答：作者藉「大江東去」抒發對人生的感慨。試就江水的意象說明。",
+      "context": "",
+      "reference": "江水滾滾東去，如時間不斷流逝。連周瑜這樣建立過赫赫功業的人，也只留下供後人遙想的事跡。蘇軾因而感到個體生命短暫，昔日功業終會隨時間遠去。",
+      "accepted": [],
+      "points": [
+        "寫出江水的具體特點。",
+        "連結江水的意象與時間流逝。",
+        "說明詞人對生命或功業的感慨。"
+      ],
+      "rubric": "對照評卷參考自查，系統不代判分。",
+      "sourceLabel": "2021 DSE 中國語文卷一甲部第 7(i) 題（3 分）。《整合／寫作手法》PDF 第 18 頁。題幹按原頁轉錄或拆出分題，評分要點為原頁摘要。",
+      "source": {
+        "file": "寫作手法.pdf",
+        "year": 2021,
+        "paper": 1,
+        "section": "A",
+        "question": "7(i)",
+        "marks": 3,
+        "pdfPage": 18
+      }
+    },
+    {
+      "id": "written:official.2021.7-ii",
+      "version": 1,
+      "kind": "short-answer",
+      "origin": "official-original",
+      "essayId": "essay-14",
+      "title": "2021 DSE 甲部 7(ii) · 短答",
+      "prompt": "試根據《念奴嬌・赤壁懷古》回答：作者在詞的末句藉「江月」抒發對人生的感悟。試就月亮的意象說明。",
+      "context": "",
+      "reference": "月亮陰晴圓缺，循環不息，可象徵自然在變化中長存。蘇軾由此感悟個人得失亦隨時勢變化，可以放下對功業得失的執着，消解人生短暫的無奈。",
+      "accepted": [],
+      "points": [
+        "指出月亮的具體特點或意象。",
+        "說明由此而生的感悟。",
+        "交代這種感悟如何回應上文的感慨。"
+      ],
+      "rubric": "對照評卷參考自查，系統不代判分。",
+      "sourceLabel": "2021 DSE 中國語文卷一甲部第 7(ii) 題（3 分）。《整合／寫作手法》PDF 第 18 頁。題幹按原頁轉錄或拆出分題，評分要點為原頁摘要。",
+      "source": {
+        "file": "寫作手法.pdf",
+        "year": 2021,
+        "paper": 1,
+        "section": "A",
+        "question": "7(ii)",
+        "marks": 3,
+        "pdfPage": 18
+      }
+    },
+    {
+      "id": "written:official.2022.1-i",
+      "version": 1,
+      "kind": "vocabulary",
+      "origin": "official-original",
+      "essayId": "essay-01",
+      "title": "2022 DSE 甲部 1-i",
+      "target": "約",
+      "context": "不仁者，不可以久處約，不可以長處樂。",
+      "prompt": "試解釋以下文句中標示的字詞。",
+      "reference": "困苦／貧困／貧苦／窮困的環境",
+      "accepted": [
+        "困苦",
+        "貧困",
+        "貧苦",
+        "窮困的環境"
+      ],
+      "points": [
+        "本句「約」可解作：困苦／貧困／貧苦／窮困的環境。"
+      ],
+      "rubric": "每分題答對2分；概念欠準確、表達欠明晰1分，錯誤0分。多個答案取高分，但混含與正確答案相矛盾的錯誤答案給0分。每個錯別字扣1分，每分題最多只扣1分。 網站只供答案匹配／逐項自查，不自動計算官方分數。",
+      "sourceLabel": "2022 DSE 中國語文卷一甲部第1-i題，2分；用戶合輯《2022-2025 DSE--.pdf》PDF第2頁；評卷參考PDF第11頁。",
+      "source": {
+        "file": "2022-2025 DSE--.pdf",
+        "year": 2022,
+        "paper": 1,
+        "section": "A",
+        "question": "1-i",
+        "marks": 2,
+        "questionPdfPage": 2,
+        "markingPdfPage": 11,
+        "printedQuestionPage": 2,
+        "printedMarkingPage": 44
+      },
+      "commonErrors": "請按本題年份的評卷要求自查；其他年份或自編練習的規則不直接套用。",
+      "targetStart": 9,
+      "senseId": "約|困苦／貧困／貧苦／窮困的環境"
+    },
+    {
+      "id": "written:official.2022.1-ii",
+      "version": 1,
+      "kind": "vocabulary",
+      "origin": "official-original",
+      "essayId": "essay-04",
+      "title": "2022 DSE 甲部 1-ii",
+      "target": "去",
+      "context": "今子之言，大而無用，眾所同去也。",
+      "prompt": "試解釋以下文句中標示的字詞。",
+      "reference": "拋棄／離棄／捨棄",
+      "accepted": [
+        "拋棄",
+        "離棄",
+        "捨棄"
+      ],
+      "points": [
+        "本句「去」可解作：拋棄／離棄／捨棄。"
+      ],
+      "rubric": "每分題答對2分；概念欠準確、表達欠明晰1分，錯誤0分。多個答案取高分，但混含與正確答案相矛盾的錯誤答案給0分。每個錯別字扣1分，每分題最多只扣1分。 網站只供答案匹配／逐項自查，不自動計算官方分數。",
+      "sourceLabel": "2022 DSE 中國語文卷一甲部第1-ii題，2分；用戶合輯《2022-2025 DSE--.pdf》PDF第2頁；評卷參考PDF第11頁。",
+      "source": {
+        "file": "2022-2025 DSE--.pdf",
+        "year": 2022,
+        "paper": 1,
+        "section": "A",
+        "question": "1-ii",
+        "marks": 2,
+        "questionPdfPage": 2,
+        "markingPdfPage": 11,
+        "printedQuestionPage": 2,
+        "printedMarkingPage": 44
+      },
+      "commonErrors": "請按本題年份的評卷要求自查；其他年份或自編練習的規則不直接套用。",
+      "targetStart": 13,
+      "senseId": "去|拋棄／離棄／捨棄"
+    },
+    {
+      "id": "written:official.2022.4",
+      "version": 1,
+      "kind": "short-answer",
+      "origin": "official-original",
+      "essayId": "essay-02",
+      "title": "2022 DSE 甲部 4 · 短答",
+      "prompt": "《魚我所欲也》一文，孟子從正反兩方面論述「義」比「生」更為重要。試加以說明。",
+      "context": "",
+      "reference": "正面看，如果生存最重要，任何保命手段都應採用，但人會因義而不採取不義的手段。反面看，如果死亡最可厭，人應不惜一切避死，但人會為義而甘願面對死亡。兩方面都顯示義比生命重要。",
+      "accepted": [],
+      "points": [
+        "寫清「所欲」一面的假設與反證。",
+        "寫清「所惡」一面的假設與反證。",
+        "兩面都扣回「義比生重要」。"
+      ],
+      "rubric": "對照評卷參考自查，系統不代判分。",
+      "sourceLabel": "2022 DSE 中國語文卷一甲部第 4 題（3 分）。《整合／寫作手法》PDF 第 23 頁。題幹按原頁轉錄或拆出分題，評分要點為原頁摘要。",
+      "source": {
+        "file": "寫作手法.pdf",
+        "year": 2022,
+        "paper": 1,
+        "section": "A",
+        "question": "4",
+        "marks": 3,
+        "pdfPage": 23
+      }
+    },
+    {
+      "id": "written:official.2022.5-i",
+      "version": 1,
+      "kind": "short-answer",
+      "origin": "official-original",
+      "essayId": "essay-02",
+      "title": "2022 DSE 甲部 5(i) · 釋義",
+      "prompt": "「此之謂失其本心」一句中，「本心」指的是什麼？",
+      "context": "",
+      "reference": "羞惡之心。按較廣的道德意義，也可解作仁心。",
+      "accepted": [],
+      "points": [
+        "聯繫上文拒受嗟來之食及後來為利受萬鍾的對比，理解「本心」所指。"
+      ],
+      "rubric": "答案準確給 1 分。多於一個答案時取高分答案，若混含與正解矛盾的答案則給 0 分。錯別字不扣分。",
+      "sourceLabel": "2022 DSE 中國語文卷一甲部第 5(i) 題（1 分）。《整合／文言實詞與賓語句式》PDF 第 13 頁。題幹按原頁轉錄或拆出分題，評分要點為原頁摘要。",
+      "source": {
+        "file": "文言實詞與賓語句式.pdf",
+        "year": 2022,
+        "paper": 1,
+        "section": "A",
+        "question": "5(i)",
+        "marks": 1,
+        "pdfPage": 13
+      }
+    },
+    {
+      "id": "written:official.2022.5-ii",
+      "version": 1,
+      "kind": "short-answer",
+      "origin": "official-original",
+      "essayId": "essay-02",
+      "title": "2022 DSE 甲部 5(ii) · 個人啟發",
+      "prompt": "現今社會過於重視利益而引發不少問題，孟子提倡保育「本心」，重視人的「價值」，對現今社會有何提醒？試舉一個與教育相關的現象為例說明。",
+      "context": "",
+      "reference": "例如學校只重視考試排名，學生可能為爭取名次而作弊，忽略誠信。孟子的觀點提醒我們，教育應讓學生在有利益誘惑時仍能辨別對錯，衡量學習成果也應重視品德。",
+      "accepted": [],
+      "points": [
+        "交代一個教育上的過度重利現象及弊病。",
+        "用保育本心或重視人的價值說明可作何反思。"
+      ],
+      "rubric": "對照評卷參考自查，系統不代判分。",
+      "sourceLabel": "2022 DSE 中國語文卷一甲部第 5(ii) 題（4 分）。《整合／個人啟發》PDF 第 4 頁。題幹按原頁轉錄或拆出分題，評分要點為原頁摘要。",
+      "source": {
+        "file": "個人啟發.pdf",
+        "year": 2022,
+        "paper": 1,
+        "section": "A",
+        "question": "5(ii)",
+        "marks": 4,
+        "pdfPage": 4
+      }
+    },
+    {
+      "id": "written:official.2022.6-i",
+      "version": 1,
+      "kind": "short-answer",
+      "origin": "official-original",
+      "essayId": "essay-15",
+      "title": "2022 DSE 甲部 6(i) · 摘錄",
+      "prompt": "根據《聲聲慢》一詞回答：作者在詞的開端以七組疊字抒情。試摘錄有關詞句。",
+      "context": "",
+      "reference": "尋尋覓覓，冷冷清清，悽悽慘慘戚戚。",
+      "accepted": [],
+      "points": [
+        "按原詞順序摘齊七組疊字。"
+      ],
+      "rubric": "每處缺字、增字扣 1 分，同組疊字缺兩字只扣 1 分。錯別字最多扣 1 分。原評卷接受常見異體字及簡體字。",
+      "sourceLabel": "2022 DSE 中國語文卷一甲部第 6(i) 題（2 分）。《整合／修辭手法》PDF 第 7 頁。題幹按原頁轉錄或拆出分題，評分要點為原頁摘要。",
+      "source": {
+        "file": "修辭手法.pdf",
+        "year": 2022,
+        "paper": 1,
+        "section": "A",
+        "question": "6(i)",
+        "marks": 2,
+        "pdfPage": 7
+      }
+    },
+    {
+      "id": "written:official.2022.6-iii",
+      "version": 1,
+      "kind": "short-answer",
+      "origin": "official-original",
+      "essayId": "essay-15",
+      "title": "2022 DSE 甲部 6(iii) · 短答",
+      "prompt": "根據《聲聲慢》一詞回答：作者看到鴻雁後勾起了什麼愁緒？為什麼？試加以說明。",
+      "context": "",
+      "reference": "北雁南飛仍能回到北方，詞人卻因中原淪陷而流落南方，歸鄉無望，因此想起故國。鴻雁亦可令人聯想到傳書，詞人已與丈夫生死永隔，再不能收到他的書信，因此勾起喪夫之痛。",
+      "accepted": [],
+      "points": [
+        "分別說明故國之思和喪夫之痛。",
+        "每項均連結鴻雁的意象及詞人自身處境。"
+      ],
+      "rubric": "只列愁緒而不解說原因，原評卷列下品。",
+      "sourceLabel": "2022 DSE 中國語文卷一甲部第 6(iii) 題（4 分）。《整合／寫作手法》PDF 第 24 頁。題幹按原頁轉錄或拆出分題，評分要點為原頁摘要。",
+      "source": {
+        "file": "寫作手法.pdf",
+        "year": 2022,
+        "paper": 1,
+        "section": "A",
+        "question": "6(iii)",
+        "marks": 4,
+        "pdfPage": 24
+      }
+    },
+    {
+      "id": "written:official.2023.1-i",
+      "version": 1,
+      "kind": "vocabulary",
+      "origin": "official-original",
+      "essayId": "essay-01",
+      "title": "2023 DSE 甲部 1-i",
+      "target": "惡",
+      "context": "君子去仁，惡乎成名？",
+      "prompt": "試解釋以下文句中標示的字詞。",
+      "reference": "怎麼／如何／如何能夠／怎能／怎樣／怎樣能／怎會／豈能夠",
+      "accepted": [
+        "怎麼",
+        "如何",
+        "如何能夠",
+        "怎能",
+        "怎樣",
+        "怎樣能",
+        "怎會",
+        "豈能夠"
+      ],
+      "points": [
+        "本句「惡」可解作：怎麼／如何／如何能夠／怎能／怎樣／怎樣能／怎會／豈能夠。"
+      ],
+      "rubric": "每分題答對2分；概念欠準確、表達欠明晰1分，錯誤0分。多個答案取高分，但混含與正確答案相矛盾的錯誤答案給0分。每個錯別字扣1分，每分題最多只扣1分。 網站只供答案匹配／逐項自查，不自動計算官方分數。",
+      "sourceLabel": "2023 DSE 中國語文卷一甲部第1-i題，2分；用戶合輯《2022-2025 DSE--.pdf》PDF第22頁；評卷參考PDF第32頁。",
+      "source": {
+        "file": "2022-2025 DSE--.pdf",
+        "year": 2023,
+        "paper": 1,
+        "section": "A",
+        "question": "1-i",
+        "marks": 2,
+        "questionPdfPage": 22,
+        "markingPdfPage": 32,
+        "printedQuestionPage": 2,
+        "printedMarkingPage": 44
+      },
+      "commonErrors": "請按本題年份的評卷要求自查；其他年份或自編練習的規則不直接套用。",
+      "targetStart": 5,
+      "senseId": "惡|怎麼／如何／如何能夠／怎能／怎樣／怎樣能／怎會／豈能夠"
+    },
+    {
+      "id": "written:official.2023.1-ii",
+      "version": 1,
+      "kind": "vocabulary",
+      "origin": "official-original",
+      "essayId": "essay-08",
+      "title": "2023 DSE 甲部 1-ii",
+      "target": "嚮",
+      "context": "然後知吾嚮之未始遊，遊於是乎始……",
+      "prompt": "試解釋以下文句中標示的字詞。",
+      "reference": "從前／過往／以往／過去／昔日／以前／之前",
+      "accepted": [
+        "從前",
+        "過往",
+        "以往",
+        "過去",
+        "昔日",
+        "以前",
+        "之前"
+      ],
+      "points": [
+        "本句「嚮」可解作：從前／過往／以往／過去／昔日／以前／之前。"
+      ],
+      "rubric": "每分題答對2分；概念欠準確、表達欠明晰1分，錯誤0分。多個答案取高分，但混含與正確答案相矛盾的錯誤答案給0分。每個錯別字扣1分，每分題最多只扣1分。 網站只供答案匹配／逐項自查，不自動計算官方分數。",
+      "sourceLabel": "2023 DSE 中國語文卷一甲部第1-ii題，2分；用戶合輯《2022-2025 DSE--.pdf》PDF第22頁；評卷參考PDF第32頁。",
+      "source": {
+        "file": "2022-2025 DSE--.pdf",
+        "year": 2023,
+        "paper": 1,
+        "section": "A",
+        "question": "1-ii",
+        "marks": 2,
+        "questionPdfPage": 22,
+        "markingPdfPage": 32,
+        "printedQuestionPage": 2,
+        "printedMarkingPage": 44
+      },
+      "commonErrors": "請按本題年份的評卷要求自查；其他年份或自編練習的規則不直接套用。",
+      "targetStart": 4,
+      "senseId": "嚮|從前／過往／以往／過去／昔日／以前／之前"
+    },
+    {
+      "id": "written:official.2023.6",
+      "version": 1,
+      "kind": "short-answer",
+      "origin": "official-original",
+      "essayId": "essay-05",
+      "title": "2023 DSE 甲部 6 · 短答",
+      "prompt": "以下引文摘錄自《廉頗藺相如列傳》，這段對答凸顯了藺相如什麼形象？試指出一項並加以說明。",
+      "context": "秦之羣臣曰：「請以趙十五城為秦王壽。」藺相如亦曰：「請以秦之咸陽為趙王壽。」",
+      "reference": "藺相如機智敏捷。秦臣假借祝壽要趙國割出十五城，他立即以同樣的說法反要求秦國獻出國都咸陽，化解秦臣的逼迫，維護趙國尊嚴。",
+      "accepted": [],
+      "points": [
+        "概括一項從對答可見的形象。",
+        "分析秦臣的意圖和藺相如回應之間的關係，扣回所選形象。"
+      ],
+      "rubric": "對照評卷參考自查，系統不代判分。",
+      "sourceLabel": "2023 DSE 中國語文卷一甲部第 6 題（4 分）。《整合／人物形象》PDF 第 19 頁。題幹按原頁轉錄或拆出分題，評分要點為原頁摘要。",
+      "source": {
+        "file": "人物形象.pdf",
+        "year": 2023,
+        "paper": 1,
+        "section": "A",
+        "question": "6",
+        "marks": 4,
+        "pdfPage": 19
+      }
+    },
+    {
+      "id": "written:official.2023.7",
+      "version": 1,
+      "kind": "short-answer",
+      "origin": "official-original",
+      "essayId": "essay-05",
+      "title": "2023 DSE 甲部 7 · 結構",
+      "prompt": "《廉頗藺相如列傳》（節錄）一文敍事詳略得宜。試以「完璧歸趙」為例說明。",
+      "context": "",
+      "reference": "作者詳寫藺相如察覺秦王無意交城，藉口璧有瑕疵取回璧，再持璧迫秦王讓步，讓讀者看出他的智謀和勇氣。相較之下，交代他奉璧赴秦的行程較簡略，省去無助於塑造人物的過程，突出事件重點。",
+      "accepted": [],
+      "points": [
+        "指出具體詳寫或略寫的內容。",
+        "說明這樣剪裁對塑造人物或突出重點有何作用。"
+      ],
+      "rubric": "對照評卷參考自查，系統不代判分。",
+      "sourceLabel": "2023 DSE 中國語文卷一甲部第 7 題（4 分）。《整合／結構作用》PDF 第 8 頁。題幹按原頁轉錄或拆出分題，評分要點為原頁摘要。",
+      "source": {
+        "file": "結構作用.pdf",
+        "year": 2023,
+        "paper": 1,
+        "section": "A",
+        "question": "7",
+        "marks": 4,
+        "pdfPage": 8
+      }
+    },
+    {
+      "id": "written:official.2024.1-i",
+      "version": 1,
+      "kind": "vocabulary",
+      "origin": "official-original",
+      "essayId": "essay-08",
+      "title": "2024 DSE 甲部 1-i",
+      "target": "是",
+      "context": "自余為僇人，居是州，恒惴慄。",
+      "prompt": "試解釋以下文句中標示的字詞。",
+      "reference": "此／這／這個",
+      "accepted": [
+        "此",
+        "這",
+        "這個"
+      ],
+      "points": [
+        "本句「是」可解作：此／這／這個。"
+      ],
+      "rubric": "每分題答對1分，錯誤0分。錯別字扣1分，第1題全部分題合計最多只扣1分（分開練習不重複計算原題總分）。多個答案取高分；如包含冗文而影響準確度給0分。 網站只供答案匹配／逐項自查，不自動計算官方分數。",
+      "sourceLabel": "2024 DSE 中國語文卷一甲部第1-i題，1分；用戶合輯《2022-2025 DSE--.pdf》PDF第51頁；評卷參考PDF第62頁。",
+      "source": {
+        "file": "2022-2025 DSE--.pdf",
+        "year": 2024,
+        "paper": 1,
+        "section": "A",
+        "question": "1-i",
+        "marks": 1,
+        "questionPdfPage": 51,
+        "markingPdfPage": 62,
+        "printedQuestionPage": 2,
+        "printedMarkingPage": 31
+      },
+      "commonErrors": "請按本題年份的評卷要求自查；其他年份或自編練習的規則不直接套用。",
+      "targetStart": 7,
+      "senseId": "是|此／這／這個"
+    },
+    {
+      "id": "written:official.2024.1-ii",
+      "version": 1,
+      "kind": "vocabulary",
+      "origin": "official-original",
+      "essayId": "essay-10",
+      "title": "2024 DSE 甲部 1-ii",
+      "target": "率",
+      "context": "六國互喪，率賂秦耶？",
+      "prompt": "試解釋以下文句中標示的字詞。",
+      "reference": "一概／全部／全部因為／皆／都／均",
+      "accepted": [
+        "一概",
+        "全部",
+        "全部因為",
+        "皆",
+        "都",
+        "均"
+      ],
+      "points": [
+        "本句「率」可解作：一概／全部／全部因為／皆／都／均。"
+      ],
+      "rubric": "每分題答對1分，錯誤0分。錯別字扣1分，第1題全部分題合計最多只扣1分（分開練習不重複計算原題總分）。多個答案取高分；如包含冗文而影響準確度給0分。 網站只供答案匹配／逐項自查，不自動計算官方分數。",
+      "sourceLabel": "2024 DSE 中國語文卷一甲部第1-ii題，1分；用戶合輯《2022-2025 DSE--.pdf》PDF第51頁；評卷參考PDF第62頁。",
+      "source": {
+        "file": "2022-2025 DSE--.pdf",
+        "year": 2024,
+        "paper": 1,
+        "section": "A",
+        "question": "1-ii",
+        "marks": 1,
+        "questionPdfPage": 51,
+        "markingPdfPage": 62,
+        "printedQuestionPage": 2,
+        "printedMarkingPage": 31
+      },
+      "commonErrors": "請按本題年份的評卷要求自查；其他年份或自編練習的規則不直接套用。",
+      "targetStart": 5,
+      "senseId": "率|一概／全部／全部因為／皆／都／均"
+    },
+    {
+      "id": "written:official.2024.1-iii",
+      "version": 1,
+      "kind": "vocabulary",
+      "origin": "official-original",
+      "essayId": "essay-14",
+      "title": "2024 DSE 甲部 1-iii",
+      "target": "華",
+      "context": "多情應笑我，早生華髮。",
+      "prompt": "試解釋以下文句中標示的字詞。",
+      "reference": "花白／半白／灰白／斑白／銀白",
+      "accepted": [
+        "花白",
+        "半白",
+        "灰白",
+        "斑白",
+        "銀白"
+      ],
+      "points": [
+        "本句「華」可解作：花白／半白／灰白／斑白／銀白。"
+      ],
+      "rubric": "每分題答對1分，錯誤0分。錯別字扣1分，第1題全部分題合計最多只扣1分（分開練習不重複計算原題總分）。多個答案取高分；如包含冗文而影響準確度給0分。 網站只供答案匹配／逐項自查，不自動計算官方分數。",
+      "sourceLabel": "2024 DSE 中國語文卷一甲部第1-iii題，1分；用戶合輯《2022-2025 DSE--.pdf》PDF第51頁；評卷參考PDF第62頁。",
+      "source": {
+        "file": "2022-2025 DSE--.pdf",
+        "year": 2024,
+        "paper": 1,
+        "section": "A",
+        "question": "1-iii",
+        "marks": 1,
+        "questionPdfPage": 51,
+        "markingPdfPage": 62,
+        "printedQuestionPage": 2,
+        "printedMarkingPage": 31
+      },
+      "commonErrors": "請按本題年份的評卷要求自查；其他年份或自編練習的規則不直接套用。",
+      "targetStart": 8,
+      "senseId": "華|花白／半白／灰白／斑白／銀白"
+    },
+    {
+      "id": "written:official.2024.4",
+      "version": 1,
+      "kind": "short-answer",
+      "origin": "official-original",
+      "essayId": "essay-07",
+      "title": "2024 DSE 甲部 4 · 釋義",
+      "prompt": "《師說》一文，「小學」指「只會學習句讀等基本知識」，「大遺」又指什麼？",
+      "context": "",
+      "reference": "忽略較重要的儒家學說、道統或安身立命的道德學問。",
+      "accepted": [],
+      "points": [
+        "說明「遺」是忽略，並指出被忽略的是重要的道理或道德學問。"
+      ],
+      "rubric": "同時說明「大」與「遺」的意涵給 2 分。原評卷容許答案欠完備時給 1 分，按答到的意涵判斷。",
+      "sourceLabel": "2024 DSE 中國語文卷一甲部第 4 題（2 分）。《整合／文言實詞與賓語句式》PDF 第 19 頁。題幹按原頁轉錄或拆出分題，評分要點為原頁摘要。",
+      "source": {
+        "file": "文言實詞與賓語句式.pdf",
+        "year": 2024,
+        "paper": 1,
+        "section": "A",
+        "question": "4",
+        "marks": 2,
+        "pdfPage": 19
+      }
+    },
+    {
+      "id": "written:official.2024.5",
+      "version": 1,
+      "kind": "short-answer",
+      "origin": "official-original",
+      "essayId": "essay-07",
+      "title": "2024 DSE 甲部 5 · 個人啟發",
+      "prompt": "韓愈對「小學而大遺」的批評，對你個人的學習有什麼啟發？試舉一例說明。",
+      "context": "",
+      "reference": "韓愈批評只學句讀卻忽略更重要的道理。我溫習數學時，如果只背公式卻不懂它何時適用，遇到變式就會用錯。這提醒我先弄懂原理及適用條件，再用記憶和操練鞏固。",
+      "accepted": [],
+      "points": [
+        "說清韓愈批評的輕重倒置。",
+        "舉一個和自己學習相關的例子，說明怎樣分辨輕重。"
+      ],
+      "rubric": "對照評卷參考自查，系統不代判分。",
+      "sourceLabel": "2024 DSE 中國語文卷一甲部第 5 題（3 分）。《整合／個人啟發》PDF 第 6 頁。題幹按原頁轉錄或拆出分題，評分要點為原頁摘要。",
+      "source": {
+        "file": "個人啟發.pdf",
+        "year": 2024,
+        "paper": 1,
+        "section": "A",
+        "question": "5",
+        "marks": 3,
+        "pdfPage": 6
+      }
+    },
+    {
+      "id": "written:official.2024.7",
+      "version": 1,
+      "kind": "short-answer",
+      "origin": "official-original",
+      "essayId": "essay-09",
+      "title": "2024 DSE 甲部 7 · 煉字",
+      "prompt": "《岳陽樓記》一文，若把「銜遠山，吞長江，浩浩湯湯，橫無際涯」一句中的「銜」字改為「接」字，表達效果會否更為理想？試略加說明。",
+      "context": "",
+      "reference": "不會。「銜」是用嘴含住，將洞庭湖寫得像有生命般含住遠山，與「吞」呼應，突出了湖勢的雄渾。「接」只說湖與山相連，少了動態和氣勢。",
+      "accepted": [],
+      "points": [
+        "表明立場。",
+        "比較「銜」與「接」的字義和手法。",
+        "比較換字後的畫面及效果。"
+      ],
+      "rubric": "對照評卷參考自查，系統不代判分。",
+      "sourceLabel": "2024 DSE 中國語文卷一甲部第 7 題（3 分）。《整合／修辭手法》PDF 第 13 頁。題幹按原頁轉錄或拆出分題，評分要點為原頁摘要。",
+      "source": {
+        "file": "修辭手法.pdf",
+        "year": 2024,
+        "paper": 1,
+        "section": "A",
+        "question": "7",
+        "marks": 3,
+        "pdfPage": 13
+      }
+    },
+    {
+      "id": "written:official.2024.8",
+      "version": 1,
+      "kind": "short-answer",
+      "origin": "official-original",
+      "essayId": "essay-09",
+      "title": "2024 DSE 甲部 8 · 人物比較",
+      "prompt": "試就《岳陽樓記》一文說明「古仁人」和「遷客騷人」有何分別。",
+      "context": "",
+      "reference": "古仁人不以外物或個人得失而喜悲，在朝憂民，退居仍憂君。遷客騷人較受個人際遇和外物左右，遇陰雨而想起貶謫、悲傷，遇晴景則心情舒暢。",
+      "accepted": [],
+      "points": [
+        "比較處世原則。",
+        "各舉具體表現並相互對照。"
+      ],
+      "rubric": "只談一個比較面向，或只論一方而沒有比較，原評卷最高給中下品。",
+      "sourceLabel": "2024 DSE 中國語文卷一甲部第 8 題（4 分）。《整合／人物形象》PDF 第 21 頁。題幹按原頁轉錄或拆出分題，評分要點為原頁摘要。",
+      "source": {
+        "file": "人物形象.pdf",
+        "year": 2024,
+        "paper": 1,
+        "section": "A",
+        "question": "8",
+        "marks": 4,
+        "pdfPage": 21
+      }
+    },
+    {
+      "id": "written:official.2025.4-i",
+      "version": 1,
+      "kind": "short-answer",
+      "origin": "official-original",
+      "essayId": "essay-01",
+      "title": "2025 DSE 甲部 4(i) · 摘錄",
+      "prompt": "試就《論仁、論孝、論君子》一文，回答以下問題。文中哪一則說君子律己以嚴，小人卻常苛責他人？試摘錄有關句子。",
+      "context": "",
+      "reference": "君子求諸己，小人求諸人。",
+      "accepted": [],
+      "points": [
+        "完整摘錄兩句。"
+      ],
+      "rubric": "每處缺字、增字、別字扣 1 分。錯字每個扣 1 分，最多只扣 1 分。",
+      "sourceLabel": "2025 DSE 中國語文卷一甲部第 4(i) 題（2 分）。《整合／人物形象》PDF 第 25 頁。題幹按原頁轉錄或拆出分題，評分要點為原頁摘要。",
+      "source": {
+        "file": "人物形象.pdf",
+        "year": 2025,
+        "paper": 1,
+        "section": "A",
+        "question": "4(i)",
+        "marks": 2,
+        "pdfPage": 25
+      }
+    },
+    {
+      "id": "written:official.2025.4-ii",
+      "version": 1,
+      "kind": "short-answer",
+      "origin": "official-original",
+      "essayId": "essay-01",
+      "title": "2025 DSE 甲部 4(ii) · 短答",
+      "prompt": "孔子說「仁者安仁，知者利仁」，何者更為可貴？試加以說明。",
+      "context": "",
+      "reference": "仁者更可貴。仁者以仁為安身立命的根本，出於道德自覺而自然行仁。知者明白仁德的好處而追求仁，仍可能考量行仁的成效或有所思慮，所以未如仁者安於仁。",
+      "accepted": [],
+      "points": [
+        "表明立場。",
+        "分別解釋「安仁」和「利仁」。",
+        "比較兩者實踐仁德的動機或境界。"
+      ],
+      "rubric": "按原評卷，主張知者更可貴最高列下品。",
+      "sourceLabel": "2025 DSE 中國語文卷一甲部第 4(ii) 題（3 分）。《整合／人物形象》PDF 第 25 頁。題幹按原頁轉錄或拆出分題，評分要點為原頁摘要。",
+      "source": {
+        "file": "人物形象.pdf",
+        "year": 2025,
+        "paper": 1,
+        "section": "A",
+        "question": "4(ii)",
+        "marks": 3,
+        "pdfPage": 25
+      }
+    },
+    {
+      "id": "written:official.2025.6",
+      "version": 1,
+      "kind": "short-answer",
+      "origin": "official-original",
+      "essayId": "essay-11",
+      "title": "2025 DSE 甲部 6 · 景物寄寓",
+      "prompt": "《山居秋暝》一詩，除了描寫山中景色，還寄寓作者高潔的品格。試就「明月松間照」一句說明。",
+      "context": "",
+      "reference": "松間明月清澈明淨，可寄託詩人胸懷坦蕩、品格純潔。松樹挺拔、耐寒，也可寄託他在艱難環境中仍堅守節操。",
+      "accepted": [],
+      "points": [
+        "指出明月或松的形象特點。",
+        "由特點說明如何寄寓高潔。亦可從全句明淨意境立論。"
+      ],
+      "rubric": "對照評卷參考自查，系統不代判分。",
+      "sourceLabel": "2025 DSE 中國語文卷一甲部第 6 題（3 分）。《整合／人物形象》PDF 第 26 頁。題幹按原頁轉錄或拆出分題，評分要點為原頁摘要。",
+      "source": {
+        "file": "人物形象.pdf",
+        "year": 2025,
+        "paper": 1,
+        "section": "A",
+        "question": "6",
+        "marks": 3,
+        "pdfPage": 26
+      }
+    },
+    {
+      "id": "written:official.2025.8",
+      "version": 1,
+      "kind": "short-answer",
+      "origin": "official-original",
+      "essayId": "essay-10",
+      "title": "2025 DSE 甲部 8 · 短答",
+      "prompt": "《六國論》一文，作者藉六國破滅一事游說君主不要重蹈覆轍，有關的分析情理兼備。試就情與理各舉一例說明。",
+      "context": "",
+      "reference": "情方面，作者寫祖先冒霜露、斬荊棘才取得土地，後代卻如棄草芥般把它送人，令人惋惜。理方面，作者分析諸侯土地有限而秦欲無厭，割地越多侵略越急，指出賂秦不能換來長久和平。",
+      "accepted": [],
+      "points": [
+        "「情」舉一處並說明如何感染讀者或勸說君主。",
+        "「理」舉另一處並說明其論理怎樣揭示賂秦後果。"
+      ],
+      "rubric": "對照評卷參考自查，系統不代判分。",
+      "sourceLabel": "2025 DSE 中國語文卷一甲部第 8 題（4 分）。《整合／寫作手法》PDF 第 36 頁。題幹按原頁轉錄或拆出分題，評分要點為原頁摘要。",
+      "source": {
+        "file": "寫作手法.pdf",
+        "year": 2025,
+        "paper": 1,
+        "section": "A",
+        "question": "8",
+        "marks": 4,
+        "pdfPage": 36
       }
     }
   ]

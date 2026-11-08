@@ -14,6 +14,13 @@ const bank=read('bank.json'),sources=read('sources/student-content.json');
 const rawSchool=mergeSchoolBatches([read('school-vocab/v1.json'),read('school-vocab/v1.1.json')]);
 const school=schoolVocabForSheet(rawSchool);
 
+test('all sentence-bearing school vocabulary has a source-linked short translation, including spelling and excerpt variants',()=>{
+ const unresolved=school.filter(i=>!readingContext(i,bank,sources).passage).map(i=>i.id);
+ assert.deepEqual(unresolved,['school-vocab:essay-10:moshu:041','school-vocab:essay-10:moshu:042']);
+ const variant=school.find(i=>i.id==='school-vocab:essay-05:explain:036');
+ assert.match(readingContext(variant,bank,sources).passage.translation,/假裝給趙國城邑/);
+});
+
 test('school vocabulary shows its essay and marks repeated target glyphs in a short context',()=>{
  const item=school.find(i=>i.id==='school-vocab:essay-01:explain:042');
  const html=writtenView(school,bank,[],{itemId:item.id,sourceContent:sources});

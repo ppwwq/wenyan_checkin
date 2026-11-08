@@ -1,6 +1,21 @@
 // Display excerpts only. The stored quotation and historical answer snapshots stay intact.
 import {translationExcerpts} from './translation-excerpts.mjs';
-const normalized=value=>String(value||'').replace(/[\s\p{P}\p{S}]/gu,'');
+const variants={'衛':'衞','強':'彊','群':'羣','衆':'眾','裡':'裏','臺':'台','缶':'缻','暖':'煖','苟':'茍','鱔':'蟺','淫':'霪'};
+const normalized=value=>String(value||'').normalize('NFKC').replace(/[\s\p{P}\p{S}]/gu,'').replace(/[衛強群衆裡臺缶暖苟鱔淫]/gu,c=>variants[c]);
+// Reviewed differences in the imported study sheet. Matching uses the owning
+// corpus text; stored questions/answers and the student's original quote survive.
+const contextAliases={
+ '秦城恐不可得，徒見欺負秦曲':'秦城恐不可得，徒見欺',
+ '請以十五城為秦王壽':'請以趙十五城為秦王壽',
+ '子孫視之不甚惜，舉以與人，如棄草芥':'子孫視之不甚惜，舉以予人，如棄草芥',
+ '曾與秦相較，或未易量':'當與秦相較，或未易量',
+ '相如度秦王特以詐詳為予趙城':'相如度秦王特以詐佯為予趙城',
+ '特以詐詳為予趙城':'特以詐佯為予趙城',
+ '秦王特以詐詳為予趙城':'秦王特以詐佯為予趙城',
+ '欲予秦，徒見欺':'欲予秦，秦城恐不可得，徒見欺',
+ '取璧不予我城，奈何':'取吾璧，不予我城，奈何',
+ '乃使從者衣褐':'乃使其從者衣褐'
+};
 const locations=(text,target)=>{
  const spans=[];
  if(target)for(let at=text.indexOf(target);at>=0;at=text.indexOf(target,at+target.length))spans.push({start:at,end:at+target.length});
@@ -24,7 +39,8 @@ function cleanEdges(text){
  }
  return result.replace(/[，。；！？：]+$/u,'');
 }
-function clipTranslation(original,translation,needle){
+export function clipTranslation(original,translation,needle){
+ needle=normalized(needle);
  const text=normalized(original),at=text.indexOf(needle);
  if(!needle||at<0)return null;
  const exact=translationExcerpts.filter(([from,to])=>normalized(from).includes(needle)&&normalized(original).includes(normalized(from))&&translation.includes(to)).sort((a,b)=>normalized(a[0]).length-normalized(b[0]).length)[0];
@@ -97,7 +113,7 @@ export function compactQuotation(item){
 export function readingContext(item,bank,sourceContent=[]){
  const ids=item.essayIds||[item.essayId];
  const titles=ids.map(id=>bank.essays.find(e=>e.id===id)?.title||id).filter(Boolean);
- const excerpt=compactQuotation(item),needle=normalized(item.context??item.quote);
+ const excerpt=compactQuotation(item),raw=String(item.context??item.quote??''),lookup=contextAliases[raw]||raw,needle=normalized(lookup);
  const candidates=[];
  for(const unit of sourceContent.filter(u=>titles.some(t=>normalized(t)===normalized(u.name)))){
   for(const page of unit.pages||[]){
@@ -106,7 +122,7 @@ export function readingContext(item,bank,sourceContent=[]){
    const next=page.blocks?.[at+1];
    if(originals.length!==1||at<0||next?.[0]!=='text')continue;
    const original=originals[0][1],translation=next[1];
-   if(needle.length>=2&&normalized(original).includes(needle))candidates.push({original,translation,sourceLabel:unit.name+' · '+page.title});
+   if(needle.length>=2&&normalized(original).includes(needle)&&!(raw==='所欲有甚於生者'&&!normalized(original).includes(normalized('生亦我所欲，所欲有甚於生者'))))candidates.push({original,translation,sourceLabel:unit.name+' · '+page.title});
   }
  }
  // Some existing written items already carry reviewed, source-linked passages.
@@ -116,11 +132,10 @@ export function readingContext(item,bank,sourceContent=[]){
    if(p.translation&&normalized(p.original).includes(needle))candidates.push({original:p.original,translation:p.translation,sourceLabel:p.title});
   }
  }
- const unique=[...new Map(candidates.map(p=>[normalized(p.original)+'|'+p.translation,p])).values()];
- let passage=unique.length===1?unique[0]:null;
- if(passage){
-  const parts=excerpt.quote.split(' … ').map(part=>clipTranslation(passage.original,passage.translation,normalized(part)));
-  passage=parts.length&&parts.every(Boolean)?{...passage,original:parts.map(p=>p.original).join(' … '),translation:parts.map(p=>p.translation).join('；'),label:'對應語譯'}:null;
- }
- return {excerpt,titles,passage};
+ const clipped=candidates.flatMap(p=>{
+  const parts=(contextAliases[raw]?[lookup]:excerpt.quote.split(' … ')).map(part=>clipTranslation(p.original,p.translation,part));
+  return parts.length&&parts.every(Boolean)?[{...p,original:parts.map(p=>p.original).join(' … '),translation:parts.map(p=>p.translation).join('；'),label:'對應語譯',...(contextAliases[raw]?{note:'校練摘句與語料文字有異；以下按語料原句對照。'}:{})}]:[];
+ });
+ const passages=[...new Map(clipped.map(p=>[normalized(p.original)+'|'+p.translation,p])).values()];
+ return {excerpt,titles,passage:passages[0]||null,passages};
 }

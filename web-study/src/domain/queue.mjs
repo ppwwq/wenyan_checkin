@@ -4,9 +4,11 @@ import {questionPool} from './editorial.mjs';
 import {isAuthoredPractice,sourceRank} from './pools.mjs';
 import {matchesReviewSelection} from './review-types.mjs';
 import {schoolVocabPriority} from './school-vocab.mjs';
+import {matchesChoiceClassification} from './choice-classification.mjs';
 export function poolOk(q,studyPool){
  const pool=questionPool(q);
  if(pool==='pending')return false;
+ if(studyPool==='complete')return true;
  if(!studyPool||studyPool==='default')return pool!=='extension';
  if(studyPool==='authored')return isAuthoredPractice(q);
  if(studyPool==='basic')return pool==='basic';
@@ -14,7 +16,7 @@ export function poolOk(q,studyPool){
 }
 export function available(questions,options={}) {
  const {essayIds=[],ability,questionIds,appendix=false,essayTypes,sourceKind,studyPool}=options;
- return questions.filter(q=>q.active!==false&&(q.status==='reviewed'||q.editorial?.practiceEnabled===true)&&poolOk(q,studyPool)&&q.essayIds.every(id=>essayIds.includes(id)&&(!essayTypes||essayTypes[id]?.includes(q.ability)))&&(!ability||q.ability===ability)&&(!questionIds||questionIds.includes(q.id))&&(!sourceKind||sourceKind==='all'||q.provenance?.kind===sourceKind)&&(!q.tags?.includes('appendix')||appendix)&&matchesReviewSelection(q,options));
+ return questions.filter(q=>q.active!==false&&(q.status==='reviewed'||q.editorial?.practiceEnabled===true)&&poolOk(q,studyPool)&&q.essayIds.every(id=>essayIds.includes(id)&&(!essayTypes||essayTypes[id]?.includes(q.ability)))&&(!ability||q.ability===ability)&&(!questionIds||questionIds.includes(q.id))&&(!sourceKind||sourceKind==='all'||q.provenance?.kind===sourceKind)&&(!q.tags?.includes('appendix')||appendix)&&matchesReviewSelection(q,options)&&matchesChoiceClassification(q,options));
 }
 const unique=list=>[...new Map(list.map(q=>[q.memoryId,q])).values()];
 export function scopePool(questions,options,state){
@@ -58,4 +60,4 @@ export function weakness(questions,state,essayId,ability){
  return {total:units.length,studied:studied.length,weak:studied.filter(q=>isWeak(state.memories[q.memoryId])).length,due:studied.filter(q=>isDue(state.memories[q.memoryId])).length,choice:studied.filter(q=>state.memories[q.memoryId].mode==='choice').length,pending:units.filter(q=>state.memories[q.memoryId]?.pending).length,typing:studied.filter(q=>state.memories[q.memoryId].mode==='typing').length,latest:studied.map(q=>state.memories[q.memoryId].day).sort().at(-1),status:!units.length?'unavailable':!studied.length?'unassessed':'assessed'};
 }
 
-export function quickScopeKey(options){return JSON.stringify({essays:[...options.essayIds].sort(),ability:options.ability||'',appendix:!!options.appendix,sourceKind:options.sourceKind||'all',scope:options.quickScope||'both',reviewTypes:[...(options.reviewTypes||[])].sort(),tags:[...(options.tags||[])].sort(),assessmentType:[].concat(options.assessmentType||[]).sort().join('|'),crossEssay:options.crossEssay===true});}
+export function quickScopeKey(options){return JSON.stringify({essays:[...options.essayIds].sort(),ability:options.ability||'',appendix:!!options.appendix,sourceKind:options.sourceKind||'all',studyPool:options.studyPool||'default',choiceSource:options.choiceSource||'',choiceFamily:options.choiceFamily||'',choiceTopic:options.choiceTopic||'',scope:options.quickScope||'both',reviewTypes:[...(options.reviewTypes||[])].sort(),tags:[...(options.tags||[])].sort(),assessmentType:[].concat(options.assessmentType||[]).sort().join('|'),crossEssay:options.crossEssay===true});}

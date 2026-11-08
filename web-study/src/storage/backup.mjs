@@ -1,6 +1,7 @@
 import {validWrittenPayload} from '../domain/written.mjs';
 import {validTraining} from '../domain/training.mjs';
 import {project,hkDay} from '../domain/review.mjs';
+import {choiceSources,choiceFamilies} from '../domain/choice-classification.mjs';
 
 const object=v=>!!v&&typeof v==='object'&&!Array.isArray(v);
 const text=(v,max=300)=>typeof v==='string'&&v.length>0&&v.length<=max;
@@ -36,6 +37,10 @@ function session(s){
   check(s.selection.questionIds===undefined||strings(s.selection.questionIds),'練習範圍無效');
   check(s.selection.vocabularyTyping===undefined||typeof s.selection.vocabularyTyping==='boolean','字詞作答設定無效');
   check(s.selection.sourceKind===undefined||['all','dse-original'].includes(s.selection.sourceKind),'練習來源無效');
+  const {choiceSource,choiceFamily,choiceTopic}=s.selection;
+  check(choiceSource===undefined||choiceSource===''||Object.hasOwn(choiceSources,choiceSource),'選擇題來源無效');
+  check(choiceFamily===undefined||choiceFamily===''||choiceFamilies.includes(choiceFamily),'選擇題主類無效');
+  check(choiceTopic===undefined||choiceTopic===''||text(choiceTopic,80),'選擇題考點無效');
  }
  check(['choice','mixed','typing'].includes(s.mode)&&(s.paused===undefined||typeof s.paused==='boolean'),'練習模式無效');
  check(s.revision===undefined||(Number.isSafeInteger(s.revision)&&s.revision>=0),'練習版本無效');
@@ -92,7 +97,7 @@ export function mergeBackupEvents(existing,incoming){
  }
  for(const e of map.values())if(e.type==='written'&&e.payload.action==='self'){
   const attempt=map.get(e.payload.attemptId);
-  check(attempt?.type==='written'&&attempt.payload.action==='submit'&&attempt.payload.result.correct===null,'自查找不到待核對的句譯／字詞作答');
+  check(attempt?.type==='written'&&attempt.payload.action==='submit'&&(attempt.payload.result.correct===null||e.payload.outcome==='revisit'),'自查找不到待核對的句譯／字詞作答');
   // Written self-reviews from distinct devices are all retained; the server
   // supplies the canonical first-review receipt on the next sync.
  }
