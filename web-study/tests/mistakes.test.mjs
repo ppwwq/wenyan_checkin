@@ -18,9 +18,10 @@ test('mistake entry covers actual failed questions across chapters and appendix,
  assert.deepEqual(queue(bank.questions,opts,s).map(q=>q.id),['wrong','outside','appendix']);
  assert.deepEqual(s,before);
  const html=mistakesView(bank,s);
- assert.match(html,/<h1>錯題複習<\/h1>/);
- assert.match(html,/可重練 3 道錯題/);
- assert.match(html,/本組 3 題/);
+ assert.match(html,/<h1>錯題本<\/h1>/);
+ assert.match(html,/今日可重練的選擇題 3 題/);
+ assert.match(html,/你的答案/);
+ assert.match(html,/參考答案/);
  assert.doesNotMatch(html,/題目 sibling|題目 unseen|題目 held|選幾篇，一起練/);
  assert.match(html,/data-action="mistake-start" data-id="outside"/);
 });
@@ -47,7 +48,7 @@ test('mistake entry keeps same-day corrections, clears next-day success, and res
 test('empty, withdrawn and single-question cases cannot start unrelated practice',()=>{
  for(const s of [state(),state([attempt('held')])]){
   const html=mistakesView(bank,s);
-  assert.match(html,/今天沒有尚未出現的錯題/);
+  assert.match(html,/還沒有留在錯題本的題/);
   assert.doesNotMatch(html,/data-action="mistake-start"/);
  }
  const s=state([attempt('wrong'),attempt('outside')]);

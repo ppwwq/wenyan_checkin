@@ -10,6 +10,7 @@ export function sessionProgress(session,state){
 
 // Unanswered skips retain only IDs and drafts, not another full question bank snapshot.
 export function advanceWithReplacement(session,state,questions,skip=false){
+ if(session.kind==='paper')return advanceSession(session,state,skip);
  if(!session.selection)return advanceSession(session,state,skip);
  const current=session.questions[session.index];
  if(!current||session.completed||session.passComplete)return false;

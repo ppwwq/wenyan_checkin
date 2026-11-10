@@ -1,3 +1,4 @@
+import { createHash } from 'node:crypto';
 import http from 'node:http';
 import { createApi } from './api.mjs';
 import { DatabaseSync } from 'node:sqlite';
@@ -27,6 +28,11 @@ export function createApp({ databasePath = process.env.DATABASE_PATH || path.joi
       if (route.startsWith('/api/')) return await handleApi(route,req,res);
       need(req.method === 'GET' || req.method === 'HEAD', '不支持此请求。', 405);
       const relative = path.posix.normalize(decodeURIComponent(route).replaceAll('\\', '/').replace(/^\/+/, '') || 'index.html');
+      if(relative.startsWith('content/local-private/')){
+       const token=req.headers.authorization?.match(/^Bearer ([A-Za-z0-9_-]+)$/)?.[1];
+       const user=token&&db.prepare('SELECT users.id FROM sessions JOIN users ON users.id=sessions.user_id WHERE token=? AND expires>?').get(createHash('sha256').update(token).digest('hex'), Date.now());
+       need(user,'文件不存在。',404);
+      }
       need(relative === 'index.html' || /^(src|content|assets)\//.test(relative) || ['manifest.webmanifest', 'sw.js', 'icon.svg', 'styles.css'].includes(relative), '文件不存在。', 404);
       const filename = path.resolve(staticRoot, relative);
       need(filename.startsWith(path.resolve(staticRoot) + path.sep) && existsSync(filename) && statSync(filename).isFile(), '文件不存在。', 404);

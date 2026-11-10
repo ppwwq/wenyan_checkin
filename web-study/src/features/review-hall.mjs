@@ -31,9 +31,10 @@ export function reviewHallView(bank,schoolItems=[],writtenItems=[],shortItems=[]
   return '<article class="review-type-card"><h2>'+esc(t.label)+'</h2><p>'+esc(t.note)+'</p><p class="subtle">'+countText+'</p><div class="toolbar">'+actions+'</div></article>';
  };
  return heading('複習（題型館）','直接看題目、原文、答案與語譯，不用作答。想測試自己時，再開練習。')+
+  '<div class="toolbar">'+button('nav','原卷對照','data-page="papers"','secondary')+button('nav','知識地圖','data-page="map"','secondary')+button('nav','文言速查','data-page="handbook"','secondary')+button('wrong-practice','錯題本')+'</div>'+
   '<div class="review-hall-grid">'+reviewTypes.map(card).join('')+'</div>'+
   '<section class="review-sub" aria-label="我的記錄"><h2>我的記錄</h2><p class="section-note">錯題、薄弱、收藏和快速回顧放在題型館裡面，不是首頁主入口。</p><div class="toolbar">'+
-  button('wrong-practice','錯題')+button('nav','薄弱知識點','data-page="weakness"','secondary')+button('nav','收藏','data-page="saved"','secondary')+button('nav','快速回顧','data-page="quick"','secondary')+
+  button('wrong-practice','錯題本')+button('nav','薄弱知識點','data-page="weakness"','secondary')+button('nav','收藏','data-page="saved"','secondary')+button('nav','快速回顧','data-page="quick"','secondary')+
   '</div></section>';
 }
 

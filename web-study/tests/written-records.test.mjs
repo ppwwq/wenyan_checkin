@@ -23,6 +23,7 @@ test('records includes typed history and a grouped mistake entrance; review keep
  const html=records.historyView(bank,state,[item,second]);
  assert.match(html,/data-action="typing-mistakes"/);assert.match(html,/打字測義作答記錄/);assert.match(html,/不知道/);
  const review=records.writtenMistakesView(bank,state,[item,second]);
- assert.match(review,/論仁/);assert.match(review,/data-action="typing-retry"[^>]*data-essay="essay-01"/);
- assert.doesNotMatch(review,/溫習/);assert.match(review,/data-action="written-open"/);
+ assert.match(review,/論仁/);assert.match(review,/不知道/);assert.match(review,/溫習/);
+ assert.match(review,/data-action="notebook-written-retry" data-id="written:a"/);
+ assert.doesNotMatch(review,/data-action="typing-retry"/);
 });

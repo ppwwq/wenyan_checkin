@@ -66,6 +66,7 @@ export default {
    const stub=env.STUDY_DATABASE.get(env.STUDY_DATABASE.idFromName('study-v1'));
    return stub.fetch(request);
   }
+  if(url.pathname.startsWith('/content/local-private/'))return errorResponse(404,'文件不存在。');
   if(url.pathname==='/content/sources/revision-book.pdf'&&request.headers.has('range')){
    if(!['GET','HEAD'].includes(request.method))return errorResponse(405,'不支持此请求。');
    const upstream=new Request(request.url,{method:'GET',headers:request.headers});upstream.headers.delete('range');

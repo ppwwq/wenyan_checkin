@@ -1,5 +1,6 @@
 import {validWrittenPayload} from '../src/domain/written.mjs';
 import {validTraining} from '../src/domain/training.mjs';
+import {validMastery} from '../src/domain/knowledge-map.mjs';
 import {validateEditorial,validateReleaseQuestion} from '../src/domain/editorial.mjs';
 import { atomic } from './transaction.mjs';
 import { randomBytes, createHash } from 'node:crypto';
@@ -41,7 +42,7 @@ export function syncApi({ db, need, body, json, currentQuestion = () => null }) 
     need(p && typeof p === 'object' && !Array.isArray(p), '事件内容无效。');
     need(['attempt', 'assessment', 'favorite', 'report', 'browse', 'session', 'settings', 'written'].includes(event.type), '事件类型无效。');
     if(event.type==='written')need(validWrittenPayload(p),'字詞與句譯記錄無效。');
-    if(event.type==='settings'){if(p.training!==undefined)need(validTraining(p.training),'学习设置格式无效。');if(p.dailyGoal!==undefined)need(/^\d{4}-\d{2}-\d{2}$/.test(p.dailyGoal?.day)&&Number.isInteger(p.dailyGoal?.count)&&p.dailyGoal.count>=1&&p.dailyGoal.count<=100,'每日目标格式无效。');}
+    if(event.type==='settings'){if(p.training!==undefined)need(validTraining(p.training),'学习设置格式无效。');if(p.dailyGoal!==undefined)need(/^\d{4}-\d{2}-\d{2}$/.test(p.dailyGoal?.day)&&Number.isInteger(p.dailyGoal?.count)&&p.dailyGoal.count>=1&&p.dailyGoal.count<=100,'每日目标格式无效。');need(validMastery(p.mastery),'掌握标记无效。');}
     if (event.type === 'attempt') {
       if(p.trainingPolicy!==undefined)need(p.trainingPolicy===2&&['daily','retry','extra'].includes(p.practiceKind),'训练记录格式无效。');
       need(text(p.memoryId) && text(p.questionId) && p.questionVersion != null && p.question && typeof p.question === 'object' && date(p.submittedAt), '作答缺少题目快照或提交时间。');

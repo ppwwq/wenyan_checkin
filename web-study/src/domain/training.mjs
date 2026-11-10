@@ -52,6 +52,14 @@ export function dailyQuestions(questions,state,today=hkDay(),schoolVocab=[]){
 // Reconcile all unfinished queues against today's presentations and bank revisions.
 // Submitted snapshots and unfinished self-assessment remain intact.
 export function refreshTrainingSession(questions,state,original,today=hkDay()){
+ if(original?.kind==='paper'){
+  const session=structuredClone(original);session.answers||={};
+  for(const a of state.attempts.filter(e=>e.payload.sessionId===session.id))session.answers[a.payload.questionId]=a.id;
+  const unanswered=session.questions.some(q=>!session.answers[q.id]);
+  session.completed=!unanswered&&!session.passComplete;
+  if(session.completed)session.index=Math.min(session.index,Math.max(0,session.questions.length-1));
+  return JSON.stringify(session)===JSON.stringify(original)?original:session;
+ }
  const plan=state.settings.training;
  if(original.completed)return original;
  const training=['daily','retry'].includes(original.kind);

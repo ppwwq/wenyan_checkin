@@ -56,6 +56,9 @@ const navigationIcons={
   "library": "<path d=\"M16 8C12 5 7 5 3 6v20c4-1 9-1 13 2 4-3 9-3 13-2V6c-4-1-9-1-13 2Zm0 0v20M7 11h4m-4 5h4m10-5h4m-4 5h4\"/>",
   "review": "<path d=\"M6 7h8a4 4 0 0 1 4 4v14H10a4 4 0 0 0-4 4V7Z\"/><path d=\"M18 11h8v18a4 4 0 0 0-4-4h-4V11Z\"/>",
   "history": "<rect x=\"5\" y=\"7\" width=\"22\" height=\"21\" rx=\"3\"/><path d=\"M10 4v6m12-6v6M5 14h22m-16 7 3 3 7-6\"/>",
-  "account": "<circle cx=\"16\" cy=\"10\" r=\"5\"/><path d=\"M6 28v-3a10 10 0 0 1 20 0v3\"/>"
+  "account": "<circle cx=\"16\" cy=\"10\" r=\"5\"/><path d=\"M6 28v-3a10 10 0 0 1 20 0v3\"/>",
+  "papers": "<path d=\"M8 5h12l6 6v16a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2Z\"/><path d=\"M20 5v6h6M10 16h12M10 21h8\"/>",
+  "map": "<circle cx=\"8\" cy=\"10\" r=\"2.2\"/><circle cx=\"22\" cy=\"8\" r=\"2.2\"/><circle cx=\"16\" cy=\"22\" r=\"2.2\"/><path d=\"M10 11.2 14.2 20M20.2 9.6 17.4 20\"/>",
+  "handbook": "<path d=\"M7 6h8a4 4 0 0 1 4 4v16H11a4 4 0 0 0-4 4V6Z\"/><path d=\"M19 10h6v16H15\"/>"
 };
 export const navigationIcon=name=>'<svg viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">'+navigationIcons[name]+'</svg>';

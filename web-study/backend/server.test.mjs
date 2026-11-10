@@ -173,3 +173,21 @@ test('source PDFs support byte ranges and private backend files remain outside s
   assert.equal((await fetch(origin + '/content/source.pdf', { headers: { Range: 'bytes=999-1000' } })).status, 416);
   assert.equal((await fetch(origin + '/api/health', { headers: { Origin: 'https://untrusted.example' } })).status, 403);
 });
+
+test('school question files stay unavailable until a valid session is presented', async t => {
+  const dir = await mkdtemp(path.join(tmpdir(), 'wenyan-private-'));
+  await mkdir(path.join(dir, 'content', 'local-private'), { recursive: true });
+  await writeFile(path.join(dir, 'content', 'local-private', 'school-original.json'), JSON.stringify({ questions: [{ id: 'school-secret', stem: '校本題幹' }] }));
+  const app = createApp({ databasePath: path.join(dir, 'study.sqlite'), staticRoot: dir, bootstrapInvite: 'test-invite' });
+  await new Promise(resolve => app.server.listen(0, '127.0.0.1', resolve));
+  t.after(async () => { await new Promise(resolve => app.server.close(resolve)); app.close(); await rm(dir, { recursive: true }); });
+  const origin = `http://127.0.0.1:${app.server.address().port}`;
+  const hidden = await fetch(origin + '/content/local-private/school-original.json');
+  assert.equal(hidden.status, 404);
+  assert.doesNotMatch(await hidden.text(), /校本題幹/);
+  const account = await fetch(origin + '/api/auth/register', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ username: 'owner', password: 'password-123', inviteCode: 'test-invite' }) });
+  const body = await account.json();
+  const opened = await fetch(origin + '/content/local-private/school-original.json', { headers: { Authorization: 'Bearer ' + body.token } });
+  assert.equal(opened.status, 200);
+  assert.match(await opened.text(), /校本題幹/);
+});

@@ -1,5 +1,6 @@
 import {validWrittenPayload} from '../domain/written.mjs';
 import {validTraining} from '../domain/training.mjs';
+import {validMastery} from '../domain/knowledge-map.mjs';
 import {project,hkDay} from '../domain/review.mjs';
 import {choiceSources,choiceFamilies} from '../domain/choice-classification.mjs';
 
@@ -78,6 +79,7 @@ export function validateBackup(data,userId){
    check(p.typing===undefined||typeof p.typing==='boolean','作答設定無效');
    check(p.fontSize===undefined||(Number.isFinite(p.fontSize)&&p.fontSize>=12&&p.fontSize<=48),'字號設定無效');
    check(p.rotation===undefined||(Number.isSafeInteger(p.rotation)&&p.rotation>=0),'輪替設定無效');
+   check(validMastery(p.mastery),'掌握標記無效');
   }
   if(unique.has(e.id))check(sameEvent(unique.get(e.id),e),'包含內容衝突的相同編號');
   else unique.set(e.id,{id:e.id,type:e.type,payload:e.payload,createdAt:e.createdAt,...(e.receivedAt?{receivedAt:e.receivedAt}:{}),...(e.type==='written'&&p.action==='self'&&typeof e.selfReviewAccepted==='boolean'?{selfReviewAccepted:e.selfReviewAccepted}:{})});

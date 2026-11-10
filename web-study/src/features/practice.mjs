@@ -70,10 +70,10 @@ function explanationView(q,p,mode){
   '<details><summary>逐項辨析'+(selected?' · 其他選項':'')+'</summary>'+others.map(c=>'<div class="choice-review"><p class="choice-review-title">'+esc(choiceLabel(c))+' · '+quote({...c,quote:c.text})+'</p>'+paragraphs(c.explanation,c.id===q.answerId?'detail':'wrong')+'</div>').join('')+'</details></div>';
 }
 
-export function answerPanel(q,session,state){
+export function answerPanel(q,session,state,options={}){
  const attempt=state.attempts.find(e=>e.id===session.answers[q.id]),p=attempt?.payload,mode=answerMode(q,session,p),draft=session.drafts[q.id]||'';
  let html='<div class="question-intro">'+(sourceLabel(q)?'<p class="past-paper-tag">'+esc(sourceLabel(q))+'</p>':'')+'<div class="question-top">'+(questionMistakes(state).has(q.id)?'<span class="mistake-tag">錯題</span>':'')+'<span class="question-tag">'+esc(abilities[q.ability])+' · '+(mode==='typing'?'文字自查':'單項選擇')+'</span><button class="chip" data-action="favorite" data-id="'+esc(q.id)+'">'+(state.favorites[q.id]?.saved?'★ 已收藏':'☆ 收藏')+'</button>'+button('report','反饋／舉報','data-id="'+esc(q.id)+'"','secondary')+'</div><h2 id="question-title" tabindex="-1">'+esc(q.stem)+'</h2></div>';
- const material=questionMaterialView(q);
+ const material=options.hideSource?'':questionMaterialView(q);
  html+='<div class="question-layout'+(!material?' question-only':'')+'">'+(material?'<section class="source-panel" aria-label="本題原文">'+material+'</section>':'')+'<div class="answer-controls">';
  if(mode==='typing')html+=p?'<div class="answer-saved">'+esc(p.answer)+'</div>':'<label class="screen-reader" for="answer-input">你的答案</label><textarea id="answer-input" class="answer-input" placeholder="先用自己的話回答，再提交查看參考。">'+esc(draft)+'</textarea><p class="subtle">輸入會自動保存在此帳號。</p>';
  else html+='<div class="options" role="group" aria-label="答案選項">'+q.choices.map(c=>'<button class="option '+((p?.answer||draft)===c.id?'selected ':'')+(p&&c.id===q.answerId?'correct':'')+(p&&p.answer===c.id&&!p.correct?' wrong':'')+'" data-action="choose" data-choice="'+esc(c.id)+'" aria-pressed="'+((p?.answer||draft)===c.id)+'" '+(p?'disabled aria-label="'+esc(choiceLabel(c)+' · '+c.text+(c.id===q.answerId?' · 正確答案':p.answer===c.id?' · 你的答案，答錯':''))+'"':'')+'><b>'+esc(choiceLabel(c))+'</b><span>'+quote({...c,quote:c.text})+'</span></button>').join('')+'</div>';

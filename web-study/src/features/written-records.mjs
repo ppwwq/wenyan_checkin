@@ -1,19 +1,15 @@
 import {filterWritten,writtenState} from '../domain/written.mjs';
 import {hkDay} from '../domain/review.mjs';
-import {esc,button,heading,empty,essayTitle} from './shared.mjs';
+import {notebookView} from './notebook.mjs';
+import {esc,button,empty,essayTitle} from './shared.mjs';
 
 const wrongItems=(items,events)=>filterWritten(items,{kind:'vocabulary',progress:'wrong'},events);
-export function writtenRecordEntry(items,events){
- const count=wrongItems(items,events).length;
- return '<section class="mistake-entry"><div><h2>打字測義錯題</h2><p>'+count+' 題待重練 · 按篇章回顧</p></div>'+button('typing-mistakes','分篇章回顧錯題','','secondary')+'</section>';
+export function writtenRecordEntry(items,events,mcqCount=0){
+ const count=wrongItems(items,events).length+mcqCount;
+ return '<section class="mistake-entry"><div><h2>錯題本</h2><p>'+count+' 題可回看 · 選擇題和打字在一起</p></div>'+button('typing-mistakes','打開錯題本','','secondary')+'</section>';
 }
-export function writtenMistakesView(bank,state,items){
- const wrong=wrongItems(items,state.events);
- const groups=bank.essays.map(e=>({...e,items:wrong.filter(i=>i.essayId===e.id)})).filter(e=>e.items.length);
- return heading('打字測義錯題','按篇章重練標記「不會」的字詞，先前作答會保留。')+
-  button('nav','← 學習記錄','data-page="history"','quiet')+
-  (groups.length?groups.map(e=>'<section class="mistake-chapter"><header class="chapter-heading"><h2>《'+esc(e.title)+'》 <span class="subtle">· '+e.items.length+' 題</span></h2>'+button('typing-retry','重練本篇錯題','data-essay="'+esc(e.id)+'"')+'</header>'+
-   e.items.map(i=>'<article class="mistake-item"><div><h3>'+esc(i.prompt)+'</h3><p class="mistake-quote">'+esc(i.context)+'</p></div>'+button('written-open','回顧原作答與答案','data-id="'+esc(i.id)+'"','quiet')+'</article>').join('')+'</section>').join(''):empty('目前沒有打字測義錯題','按「不會，下一題」的字詞會出現在這裏。尚未核對的答案不會自動算錯。'));
+export function writtenMistakesView(bank,state,items,filters={},today=hkDay()){
+ return notebookView(bank,state,items,filters,today);
 }
 export function writtenHistoryView(bank,events){
  const state=writtenState(events);
