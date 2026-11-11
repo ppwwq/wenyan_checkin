@@ -42,7 +42,7 @@ digest.update(await readFile(resolve(root,'styles.css')));
 const cacheName='wenyan-study-'+digest.digest('hex').slice(0,16)+'-click-latency';
 const worker=(await readFile(resolve(root,'sw.js'),'utf8')).replace(/const CACHE='[^']+';/,"const CACHE='"+cacheName+"';");
 await writeFile(resolve(root,'dist/sw.js'),worker);
-await writeFile(resolve(root,'dist/build-info.json'),JSON.stringify({uiVersion:'2026.11.08.1',palette:'02-warm-gray-amber',syncProtocol:2,version:bank.version,questions:bank.questions.length,builtAt:new Date().toISOString()},null,2));
+await writeFile(resolve(root,'dist/build-info.json'),JSON.stringify({uiVersion:'2026.11.10.1',palette:'02-warm-gray-amber',syncProtocol:2,version:bank.version,questions:bank.questions.length,builtAt:new Date().toISOString()},null,2));
 console.log('Build complete: '+bank.questions.length+' source-linked questions; static assets in web-study/dist.');
 
 
