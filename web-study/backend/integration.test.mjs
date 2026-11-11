@@ -41,6 +41,17 @@ async function fixture(t) {
 }
 const answer = (id = 'zzz-first') => ({ id, type: 'attempt', createdAt: '2026-09-18T15:59:00Z', payload: { memoryId: 'm1', questionId: 'q1', questionVersion: 1, question: { id: 'q1', answerId: 'b' }, mode: 'typing', answer: '首次草稿', correct: null, submittedAt: '2026-09-18T15:59:00Z', day: '2026-09-18' } });
 
+test('sync distinguishes new records across pages from an unchanged confirmation',async t=>{
+ const api=await fixture(t),account=await api('/api/auth/register',{username:'render-sync',password:'password-123',inviteCode:'students'});
+ const events=Array.from({length:35},(_,i)=>({id:'render-'+i,type:'settings',createdAt:'2026-10-28T00:00:00Z',payload:{fontSize:24}}));
+ await api('/api/sync',{events},account.token);
+ const repo=new QueueStore(account.user.id),client=new SyncClient(repo,account.token);
+ assert.equal((await client.sync()).eventsChanged,true);
+ assert.equal((await repo.events()).length,35);
+ assert.equal((await client.sync()).eventsChanged,false);
+ assert.equal((await repo.events()).length,35);
+});
+
 test('marking a matched vocabulary answer unknown backs up and restores without blocking later records',async t=>{
  const api=await fixture(t),account=await api('/api/auth/register',{username:'written-unknown',password:'password-123',inviteCode:'students'});
  const item={id:'written:test',version:1,kind:'vocabulary',origin:'authored-basic',essayId:'essay-01',prompt:'解釋字義',context:'學而時習之',reference:'溫習',accepted:['溫習'],points:[],rubric:'按語境',sourceLabel:'本地測試'};

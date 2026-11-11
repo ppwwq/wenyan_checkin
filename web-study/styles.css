@@ -310,3 +310,10 @@ summary{cursor:pointer;min-height:44px;padding-block:.65rem;text-underline-offse
 #written-filters{display:flex;flex-wrap:wrap;gap:1rem;align-items:end}
 #written-filters label{min-width:0;max-width:100%}
 #written-filters input,#written-filters select{max-width:100%}
+/* Keep offscreen study cards out of the current layout and paint work. */
+@supports (content-visibility:auto){
+ .library-grid>.library-card,.review-hall-grid>.review-type-card,.knowledge-grid>.knowledge-card,.written-history>.saved-row,#main>.saved-row{
+  content-visibility:auto;
+  contain-intrinsic-size:auto 280px;
+ }
+}

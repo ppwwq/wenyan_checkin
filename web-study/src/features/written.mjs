@@ -2,12 +2,14 @@ import {esc,button,heading,quote} from './shared.mjs';
 import {readingContext} from '../domain/reading-context.mjs';
 import {readingTranslation} from './reading-context.mjs';
 import {filterWritten,writtenState} from '../domain/written.mjs';
+import {paginate,pageButtons} from './pagination.mjs';
 const origins={'authored-basic':'自擬詞義','official-original':'DSE 真題','authored-translation':'自擬整句翻譯','school-sheet':'上次新增字詞','authored-expansion':'自擬短答'};
 export function writtenView(items,bank,events,options={}){
  const state=writtenState(events),item=items.find(i=>i.id===options.itemId);
  const attempts=state.attempts,done=new Set(attempts.map(a=>a.payload.itemId));
  if(!item){
   const visible=filterWritten(items,options,events);
+  const current=paginate(visible,options.listPage),controls=pageButtons('written-page',current);
   const originCounts=new Map();
   for(const entry of items)originCounts.set(entry.origin,(originCounts.get(entry.origin)||0)+1);
   return heading('文字練習','先寫自己的答案，再看參考與逐項自查。打字測義可以一卷連續寫。')+
@@ -19,7 +21,7 @@ export function writtenView(items,bank,events,options={}){
    '<label>搜尋字詞或原句<input name="query" maxlength="100" value="'+esc(options.query||'')+'"></label><label class="check-row"><input type="checkbox" name="dedupe" '+(options.dedupe?'checked':'')+'>同字同義先練一個語境</label><button class="btn" type="submit">篩選</button></form>'+
    '<p role="status">可選 '+visible.length+' 個語境 · 已提交 '+done.size+' 題 · '+attempts.filter(a=>a.payload.result.correct===true).length+' 次命中已核答案 · '+state.assessments.size+' 次完成自查</p>'+
    '<p class="section-note">按已核原文、詞義差異與官方題例選材，不標作高頻預測。整句翻譯不自動判分；不同年份的官方評分要求分別保留。</p>'+
-   '<div class="library-grid">'+visible.map(i=>'<article class="library-card"><p class="question-tag">'+origins[i.origin]+'</p><h2>'+esc(i.target||i.title)+'</h2><p>'+esc(i.context.slice(0,100))+'</p>'+button('written-open',done.has(i.id)?'查看／再練':'開始輸入','data-id="'+esc(i.id)+'"')+'</article>').join('')+'</div>'+(visible.length?'':'<p>此範圍暫無已核文字練習，請調整篩選。</p>');
+   controls+'<div class="library-grid">'+current.items.map(i=>'<article class="library-card"><p class="question-tag">'+origins[i.origin]+'</p><h2>'+esc(i.target||i.title)+'</h2><p>'+esc(i.context.slice(0,100))+'</p>'+button('written-open',done.has(i.id)?'查看／再練':'開始輸入','data-id="'+esc(i.id)+'"')+'</article>').join('')+'</div>'+controls+(visible.length?'':'<p>此範圍暫無已核文字練習，請調整篩選。</p>');
  }
  const last=options.fresh?null:attempts.filter(a=>a.payload.itemId===item.id).at(-1);
  const q=last?.payload.item||item,assessment=last&&state.assessments.get(last.id);

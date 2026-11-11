@@ -9,13 +9,15 @@ import {esc,button,heading,essayTitle,abilities,empty,quote} from './shared.mjs'
 import {reviewTypeChecks} from './review-hall.mjs';
 import {reviewEmptyMessage} from '../domain/review-types.mjs';
 import {schoolSectionType} from '../domain/school-vocab.mjs';
+const catalogues=new WeakMap();
+const topicOrder=new Intl.Collator('zh-Hant');
 
 function filterSelect(id,label,items,current){
  return '<label>'+label+'<select id="'+id+'">'+items.map(([value,name])=>
   '<option value="'+esc(value)+'"'+(current===value?' selected':'')+'>'+esc(name)+'</option>').join('')+'</select></label>';
 }
 
-function choiceSourceTable(inventory){
+function choiceSourceTable(inventory,classifications){
  const bySource=new Map();
  const increment=(map,key)=>map.set(key,(map.get(key)||0)+1);
  for(const q of inventory){
@@ -24,15 +26,15 @@ function choiceSourceTable(inventory){
   const group=bySource.get(source);
   group.total++;
   increment(group.origins,choiceOriginLabel(q,source));
-  const {family,topic}=classifyChoice(q);
+  const {family,topic}=classifications.get(q);
   if(!group.families.has(family))group.families.set(family,new Map());
   increment(group.families.get(family),topic);
  }
  const blocks=Object.entries(choiceSources).filter(([key])=>bySource.has(key)).map(([key,label])=>{
   const {origins,families,total}=bySource.get(key);
-  const originsText=[...origins].sort(([a],[b])=>a.localeCompare(b,'zh-Hant')).map(([name,count])=>name+' '+count+' 題').join(' · ');
+  const originsText=[...origins].sort(([a],[b])=>topicOrder.compare(a,b)).map(([name,count])=>name+' '+count+' 題').join(' · ');
   const rows=choiceFamilies.map(family=>{
-   const topics=[...(families.get(family)||[])].sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0],'zh-Hant'));
+   const topics=[...(families.get(family)||[])].sort((a,b)=>b[1]-a[1]||topicOrder.compare(a[0],b[0]));
    const count=topics.reduce((sum,[,n])=>sum+n,0);
    const breakdown=topics.map(([topic,n])=>topic+' '+n).join(' · ');
    return '<tr><th scope="row">'+esc(family)+'</th><td>'+count+'</td><td>'+esc(breakdown||'—')+'</td></tr>';
@@ -44,8 +46,16 @@ function choiceSourceTable(inventory){
   '<p class="section-note">這裡列出整個選擇題庫，含擴展字詞與手法附錄。每題按主要考點計一次。</p>'+blocks.join('')+'</details>';
 }
 
-function choiceFilters(bank,options){
+function choiceCatalogue(bank){
  const inventory=available(bank.questions,{essayIds:bank.essays.map(e=>e.id),studyPool:'complete',appendix:true});
+ const cached=catalogues.get(bank.questions);
+ if(cached&&inventory.length===cached.inventory.length&&inventory.every((q,index)=>q===cached.inventory[index]&&q.version===cached.versions[index]))return cached;
+ const classifications=new Map(inventory.map(q=>[q,classifyChoice(q)]));
+ const result={inventory,classifications,versions:inventory.map(q=>q.version),table:choiceSourceTable(inventory,classifications)};
+ catalogues.set(bank.questions,result);return result;
+}
+function choiceFilters(bank,options){
+ const {inventory,classifications,table}=choiceCatalogue(bank);
  const sources=new Map();
  const families=new Map();
  const topics=new Map();
@@ -56,7 +66,7 @@ function choiceFilters(bank,options){
   const kind=choiceSource(q);
   sources.set(kind,(sources.get(kind)||0)+1);
   if(source&&source!==kind)continue;
-  const classified=classifyChoice(q);
+  const classified=classifications.get(q);
   families.set(classified.family,(families.get(classified.family)||0)+1);
   if(family&&family!==classified.family)continue;
   for(const name of new Set([classified.topic,...classified.related]))topics.set(name,(topics.get(name)||0)+1);
@@ -65,13 +75,13 @@ function choiceFilters(bank,options){
  const sourceItems=Object.entries(choiceSources).filter(([key])=>sources.has(key)||key===source).map(([key,label])=>[key,withCount(label,sources.get(key))]);
  const familyItems=choiceFamilies.map(name=>[name,withCount(name,families.get(name))]);
  if(topic&&!topics.has(topic))topics.set(topic,0);
- const topicItems=[...topics].sort(([a],[b])=>a.localeCompare(b,'zh-Hant')).map(([name,count])=>[name,withCount(name,count)]);
+ const topicItems=[...topics].sort(([a],[b])=>topicOrder.compare(a,b)).map(([name,count])=>[name,withCount(name,count)]);
  return '<div class="filter-line">'+
   filterSelect('choiceSource','來源',[['',withCount('全部來源',inventory.length)],...sourceItems],source)+
   filterSelect('choiceFamily','主類',[['','全部主類'],...familyItems],family)+
   filterSelect('choiceTopic','考點',[['','全部考點'],...topicItems],topic)+'</div>'+
   '<p class="section-note">括號是題庫中的題數。實際可組題量按篇章、題池和今天的作答情況計算。考點也會找到相關題，例如「比喻論證」。舊字詞模板可在「題池與其他範圍」開啟。</p>'+
-  choiceSourceTable(inventory);
+  table;
 }
 
 export function libraryView(bank,state,options,schoolItems=[]){
