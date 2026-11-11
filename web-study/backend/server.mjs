@@ -37,8 +37,19 @@ export function createApp({ databasePath = process.env.DATABASE_PATH || path.joi
       const filename = path.resolve(staticRoot, relative);
       need(filename.startsWith(path.resolve(staticRoot) + path.sep) && existsSync(filename) && statSync(filename).isFile(), '文件不存在。', 404);
       const mime = { '.html': 'text/html', '.js': 'text/javascript', '.mjs': 'text/javascript', '.css': 'text/css', '.json': 'application/json', '.webmanifest': 'application/manifest+json', '.svg': 'image/svg+xml', '.png': 'image/png', '.pdf': 'application/pdf', '.woff2': 'font/woff2', '.woff': 'font/woff', '.ttf': 'font/ttf' }[path.extname(filename)] || 'application/octet-stream';
-      const size = statSync(filename).size;
-      const headers = { 'Content-Type': /^(text\/|application\/(json|manifest\+json))/.test(mime) ? `${mime}; charset=utf-8` : mime, 'Cache-Control': 'no-cache', 'Accept-Ranges': 'bytes' };
+      const stat = statSync(filename), size = stat.size;
+      const privateFile = relative.startsWith('content/local-private/');
+      const publicAsset = /^(src|assets|content)\//.test(relative) || relative === 'styles.css';
+      const cacheControl = privateFile ? 'no-store' : publicAsset ? 'public, max-age=300, must-revalidate' : 'no-cache';
+      const headers = { 'Content-Type': /^(text\/|application\/(json|manifest\+json))/.test(mime) ? `${mime}; charset=utf-8` : mime, 'Cache-Control': cacheControl, 'Accept-Ranges': 'bytes' };
+      if (!privateFile) {
+        const etag = `W/"${size}-${stat.mtimeMs}"`;
+        headers.ETag = etag;
+        const matches = (req.headers['if-none-match'] || '').split(',').map(value => value.trim().replace(/^W\//, ''));
+        if (matches.includes(etag.replace(/^W\//, '')) || matches.includes('*')) {
+          res.writeHead(304, headers); res.end(); return;
+        }
+      }
       let start = 0, end = size - 1, status = 200;
       if (req.headers.range) {
         const range = /^bytes=(\d*)-(\d*)$/.exec(req.headers.range);

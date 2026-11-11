@@ -1,5 +1,6 @@
-import {mkdir,cp,readFile,writeFile} from 'node:fs/promises';
-import {resolve} from 'node:path';
+import {mkdir,cp,readFile,writeFile,readdir} from 'node:fs/promises';
+import {resolve,dirname,relative} from 'node:path';
+import {createHash} from 'node:crypto';
 import {fileURLToPath} from 'node:url';
 import {execFileSync} from 'node:child_process';
 const root=resolve(fileURLToPath(new URL('..',import.meta.url)));
@@ -11,8 +12,59 @@ for(const path of ['src/domain/daily-availability.mjs','src/domain/answer-mode.m
 await mkdir(resolve(root,'dist'),{recursive:true});
 // 本機私有題目（content/local-private）不打包、不部署。
 for(const file of files)await cp(resolve(root,file),resolve(root,'dist',file),{recursive:true,filter:src=>!/[\\/]local-private([\\/]|$)/.test(src)});
+// Preload the existing module graph without introducing a bundler or changing URLs.
+const modules=new Set();
+async function collectModules(file){
+ if(modules.has(file))return;
+ modules.add(file);
+ const source=await readFile(resolve(root,file),'utf8');
+ const imports=source.matchAll(/\b(?:import|export)\s+[^;]*?\bfrom\s*['"](\.[^'"]+\.mjs)['"]/g);
+ for(const [,dependency] of imports){
+  const target=relative(root,resolve(root,dirname(file),dependency)).replaceAll('\\','/');
+  await collectModules(target);
+ }
+}
+await collectModules('src/app.mjs');
+execFileSync(process.execPath,['--check',resolve(root,'src/storage/content.mjs')]);
+const preloads=[...modules].sort().map(file=>'<link rel="modulepreload" href="/'+file+'">').join('\n');
+const html=(await readFile(resolve(root,'index.html'),'utf8')).replace('</head>',preloads+'\n</head>');
+await writeFile(resolve(root,'dist/index.html'),html);
+// Content or module changes create a new offline cache on every affected build.
+const digest=createHash('sha256').update(html).update(await readFile(resolve(root,'sw.js')));
+for(const dir of ['src','assets','content']){
+ const paths=(await readdir(resolve(root,dir),{recursive:true})).sort();
+ for(const path of paths){
+  if(/(^|[\\/])local-private([\\/]|$)/.test(path)||!/\.(mjs|css|json|svg|png|webmanifest)$/.test(path))continue;
+  digest.update(dir+'/'+path).update(await readFile(resolve(root,dir,path)));
+ }
+}
+digest.update(await readFile(resolve(root,'styles.css')));
+const cacheName='wenyan-study-'+digest.digest('hex').slice(0,16)+'-click-latency';
+const worker=(await readFile(resolve(root,'sw.js'),'utf8')).replace(/const CACHE='[^']+';/,"const CACHE='"+cacheName+"';");
+await writeFile(resolve(root,'dist/sw.js'),worker);
 await writeFile(resolve(root,'dist/build-info.json'),JSON.stringify({uiVersion:'2026.11.08.1',palette:'02-warm-gray-amber',syncProtocol:2,version:bank.version,questions:bank.questions.length,builtAt:new Date().toISOString()},null,2));
 console.log('Build complete: '+bank.questions.length+' source-linked questions; static assets in web-study/dist.');
 
 
-await writeFile(resolve(root,'dist/_headers'),`/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: same-origin\n  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'\n  Cache-Control: no-cache\n`);
+await writeFile(resolve(root,'dist/_headers'),`/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: same-origin\n  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'\n`);
+await writeFile(resolve(root,'dist/_headers'),`/
+  Cache-Control: no-cache
+/index.html
+  Cache-Control: no-cache
+/sw.js
+  Cache-Control: no-cache
+/build-info.json
+  Cache-Control: no-cache
+/manifest.webmanifest
+  Cache-Control: no-cache
+/src/*
+  Cache-Control: public, max-age=300, must-revalidate
+/assets/*
+  Cache-Control: public, max-age=300, must-revalidate
+/styles.css
+  Cache-Control: public, max-age=300, must-revalidate
+/content/*
+  Cache-Control: public, max-age=300, must-revalidate
+/content/local-private/*
+  Cache-Control: no-store
+`,{flag:'a'});

@@ -6,6 +6,7 @@ import {mergeAuthoredBatches} from './domain/authored-expansion.mjs';
 import {reviewHallView,reviewReadingView} from './features/review-hall.mjs';
 import {SaveQueue} from './storage/save-queue.mjs';
 import {Repository,event} from './storage/repository.mjs';
+import {createContentLoader} from './storage/content.mjs';
 import {SyncScheduler} from './sync/scheduler.mjs';
 import {api,SyncClient} from './sync/client.mjs';
 import {project,hkDay,isDue} from './domain/review.mjs';
@@ -30,6 +31,8 @@ import {resumeSkipped} from './domain/session.mjs';
 import {advanceWithReplacement,sessionProgress} from './domain/replacement.mjs';
 import {seenInPractice,wasSeen} from './domain/daily-availability.mjs';
 const root=document.querySelector('#root'),dialog=document.querySelector('#dialog');
+const loadContent=createContentLoader();
+let lastBankCheck=0,bankRefreshing=false;
 let auth=null,repo=null,syncer=null,scheduler=null,localDraftPending=false,bank=null,state=project([]),page='home',session=null,quick={cards:[],index:0},compareTarget='',compareExpanded=false,authMode='login',busy=false,writes=new SaveQueue(),saveError='',status='已保存到本機',serverReports=[],corrections=[],adminReports=[];
 let trainingDraft=null,writtenContent={items:[]},schoolVocab=[],authoredExpansion=[],authoredShort=[],writtenOptions={},writtenDraftTimer=null,writtenPending=null;
 let sourceContent=[],reviewReadingOptions={},appendixContent=null,authScreen=false,guestMode=false,memoryEvents=[],notebookFilters={essay:'',type:''},handbookQuery='';
@@ -40,15 +43,12 @@ function practiceWritten(){
 }
 async function loadJsonBatches(dir){
  try{
-  const manifestResponse=await fetch('/content/'+dir+'/manifest.json',{cache:'no-cache'});
-  if(!manifestResponse.ok)return [];
-  const manifest=await manifestResponse.json();
+  const manifest=await loadContent('/content/'+dir+'/manifest.json');
   const names=Array.isArray(manifest.batches)?manifest.batches:[];
   const batches=[];
   for(const name of names){
    if(typeof name!=='string'||!/^[\w.-]+\.json$/.test(name))continue;
-   const file=await fetch('/content/'+dir+'/'+name,{cache:'no-cache'});
-   if(file.ok)batches.push(await file.json());
+   try{batches.push(await loadContent('/content/'+dir+'/'+name));}catch{}
   }
   return batches;
  }catch{return [];}
@@ -126,9 +126,37 @@ async function signIn(form){
   if(result.recoveryCode){dialog.innerHTML='<h2>保存你的恢復碼</h2><p>只在這次顯示。請抄下或存入自己的密碼管理器。</p><p class="answer-saved">'+esc(result.recoveryCode)+'</p><div class="toolbar">'+button('close-dialog','我已妥善保存')+'</div>';dialog.showModal();}
  }catch(e){form.querySelector('.auth-error').textContent=e.message;submit.disabled=false;}
 }
+async function loadOverrides(active,token){
+ if(!active||!token)return [];
+ try{const {overrides=[]}=await api('/api/content/overrides',{token});await active.set('overrides',overrides);return overrides;}
+ catch{return await active.get('overrides')||[];}
+}
+function applyBankOverrides(target,overrides){
+ const positions=new Map(target.questions.map((q,index)=>[q.id,index]));
+ for(const override of overrides){
+  const index=positions.get(override.questionId||override.id);if(index===undefined)continue;
+  const old=target.questions[index];
+  target.questions[index]={...(override.revision||old),status:override.status||old.status,active:override.status!=='withdrawn'};
+ }
+}
+// Revalidate while the tab is visible. Starts use the current question snapshots.
+async function refreshBank(){
+ if(!bank||bankRefreshing||document.hidden||!navigator.onLine||Date.now()-lastBankCheck<300000)return;
+ bankRefreshing=true;lastBankCheck=Date.now();
+ const previous=bank,active=repo,account=auth;
+ try{
+  const data=await loadContent('/content/bank.json',{refresh:true});
+  const overrides=await loadOverrides(active,account?.token);
+  if(bank!==previous||repo!==active||auth!==account)return;
+  const questions=[...(data.questions||[]).filter(q=>!isSchoolPrivate(q)),...previous.questions.filter(isSchoolPrivate)];
+  const next={...data,questions,localIntegrationAvailable:previous.localIntegrationAvailable};
+  applyBankOverrides(next,overrides);bank=next;tagComparisons();
+ }catch{/* Keep the current bank available when an update fails. */}
+ finally{bankRefreshing=false;}
+}
 async function loadBank(){
- const response=await fetch('/content/bank.json',{cache:'no-cache'});if(!response.ok)throw new Error('題庫尚未下載；首次使用請連上網絡');bank=await response.json();
- bank.questions=(bank.questions||[]).filter(q=>!isSchoolPrivate(q));
+ const data=await loadContent('/content/bank.json');
+ bank={...data,questions:(data.questions||[]).filter(q=>!isSchoolPrivate(q))};
  bank.localIntegrationAvailable=false;
  // 校本原題只在已登入時讀取，而且請求要帶本機會話。線上版沒有這份文件。
  if(auth?.token){
@@ -136,16 +164,13 @@ async function loadBank(){
   try{const extra=await fetch('/content/local-private/school-original.json',{headers,cache:'no-cache'});if(extra.ok){const ids=new Set(bank.questions.map(q=>q.id));const incoming=((await extra.json()).questions||[]).filter(q=>q&&!ids.has(q.id)&&isSchoolPrivate(q));bank.questions.push(...incoming);}}catch{}
   try{const catalogue=await fetch('/content/local-private/integration-audit/catalogue-info.json',{headers,cache:'no-cache'});bank.localIntegrationAvailable=catalogue.ok&&(await catalogue.json()).schemaVersion===1;}catch{}
  }
- if(repo&&auth?.token){
-  try{const {overrides}=await api('/api/content/overrides',{token:auth.token});for(const override of overrides||[]){const index=bank.questions.findIndex(q=>q.id===(override.questionId||override.id));if(index<0)continue;const old=bank.questions[index];if(override.revision)bank.questions[index]=override.revision;bank.questions[index]={...bank.questions[index],status:override.status||old.status,active:override.status!=='withdrawn'};}await repo.set('overrides',overrides||[]);}
-  catch{for(const override of await repo.get('overrides')||[]){const i=bank.questions.findIndex(q=>q.id===(override.questionId||override.id));if(i>=0)bank.questions[i]={...(override.revision||bank.questions[i]),status:override.status,active:override.status!=='withdrawn'};}}
- }
- await loadExtraContent();
+ applyBankOverrides(bank,await loadOverrides(repo,auth?.token));
+ await loadExtraContent();lastBankCheck=Date.now();
 }
 function tagComparisons(){for(const q of bank.questions)q.comparisonAvailable=!!q.target&&bank.comparisons.some(g=>g.status==='reviewed'&&(g.id===q.comparisonGroupId||g.items.some(i=>i.questionId===q.id)));}
 async function loadExtraContent(){
- if(!appendixContent)try{const response=await fetch('/content/sources/appendix-content.json');if(response.ok)appendixContent=await response.json();}catch{}
- if(!sourceContent.length)try{const response=await fetch('/content/sources/student-content.json');if(response.ok)sourceContent=await response.json();}catch{}
+ if(!appendixContent)try{appendixContent=await loadContent('/content/sources/appendix-content.json');}catch{}
+ if(!sourceContent.length)try{sourceContent=await loadContent('/content/sources/student-content.json');}catch{}
  schoolVocab=mergeSchoolBatches(await loadJsonBatches('school-vocab'));
  const authored=mergeAuthoredBatches(await loadJsonBatches('authored-expansion'),new Set(bank.questions.map(q=>q.id)));
  authoredExpansion=authored.questions;authoredShort=authored.written;
@@ -154,8 +179,7 @@ async function openAccount(){
  if(repo)await saveWrittenDraft();else{clearTimeout(writtenDraftTimer);writtenPending=null;}
  guestMode=false;authScreen=false;memoryEvents=[];writtenOptions={};scheduler?.stop();if(syncer)syncer.stop();if(repo)repo.close();repo=await Repository.open(auth.user.id);writes=new SaveQueue();saveError='';localDraftPending=false;
  corrections=await repo.get('corrections')||[];await refresh();await loadBank();tagComparisons();
- const writtenResponse=await fetch('/content/written-practice.json',{cache:'no-cache'});writtenContent=writtenResponse.ok?await writtenResponse.json():{items:[]};
- await loadExtraContent();
+ writtenContent=await loadContent('/content/written-practice.json').catch(()=>({items:[]}));
  reviewReadingOptions=await repo.get('reading-options')||{};
  const savedOptions=await repo.get('options');options={essayIds:[],count:20,scope:'all',ability:'',appendix:false,rotation:0,quickScope:'both',studyPool:'default',...savedOptions};if(!savedOptions)options.essayIds=bank.essays.filter(e=>bank.questions.some(q=>q.essayIds.includes(e.id)&&q.status==='reviewed'&&q.active!==false)).map(e=>e.id);
  options.hasPreviousSelection=!!savedOptions||state.attempts.length>0;options.rotation=state.settings.rotation;serverReports=await repo.get('reports')||[];quick=await repo.get('quick')||{cards:[],index:0};session=null;page='home';
@@ -169,7 +193,7 @@ async function openGuest(){
  memoryEvents=[];corrections=[];serverReports=[];adminReports=[];session=null;quick={cards:[],index:0};
  state=project([]);status='未登入 · 這次作答不保存';
  await loadBank();tagComparisons();
- const writtenResponse=await fetch('/content/written-practice.json',{cache:'no-cache'});writtenContent=writtenResponse.ok?await writtenResponse.json():{items:[]};
+ writtenContent=await loadContent('/content/written-practice.json').catch(()=>({items:[]}));
  options={essayIds:bank.essays.filter(e=>bank.questions.some(q=>q.essayIds.includes(e.id)&&q.status==='reviewed'&&q.active!==false)).map(e=>e.id),count:20,scope:'all',ability:'',appendix:false,rotation:0,quickScope:'both',studyPool:'default',reviewTypes:[],hasPreviousSelection:false};
  page='home';render();
 }
@@ -272,8 +296,7 @@ async function beginSession(list,opts,kind,drafts={}){
  await append('settings',{rotation:((state.settings.rotation||0)+list.length)%Math.max(1,opts.essayIds.length)});await showPractice();void sync();
 }
 async function startDaily(kind='daily'){
- await writes.flush();await sync();if(!validTraining(state.settings.training)){await go('training');return;}
- if(navigator.onLine){await loadBank();tagComparisons();}
+ await writes.flush();if(!validTraining(state.settings.training)){await go('training');return;}
  const existing=Object.values(state.sessions).filter(s=>s.kind===kind&&!s.completed).sort((a,b)=>b.startedAt.localeCompare(a.startedAt))[0];
  if(existing){await resumeSession(existing.id);return;}
  const opts=trainingOptions(state.settings.training);
@@ -304,8 +327,7 @@ async function advanceSheet(){
  await go('written');document.querySelector('#written-answer')?.focus();
 }
 async function start(questionIds=null,essayIds=null){
- await writes.flush();await sync();
- if(navigator.onLine){await loadBank();tagComparisons();}
+ await writes.flush();
  const opts={...options,vocabularyTyping:false,rotation:state.settings.rotation,...(questionIds?{questionIds}:{}),...(essayIds?{essayIds}:{})};
  const list=queue(practiceBank().questions,schoolVocab.length?{...opts,schoolVocab}:opts,state);if(!list.length){toast('所選範圍今天沒有未出現的題目；明日可再練。');return;}
  await beginSession(list,opts,'extra');
@@ -463,7 +485,7 @@ document.addEventListener('click',async e=>{
   if(next)marks[el.dataset.id]=next;else delete marks[el.dataset.id];
   await append('settings',{mastery:marks});render();void sync();
  }
- else if(a==='mistake-start'){if(navigator.onLine&&auth){await loadBank();tagComparisons();}const opts=mistakeOptions(practiceBank(),state,el.dataset.id);const list=queue(practiceBank().questions,opts,state);if(!list.length){await go('mistakes');toast('這題今天已練過，明日可再練。');return;}await beginSession(list,opts,'extra');}
+ else if(a==='mistake-start'){const opts=mistakeOptions(practiceBank(),state,el.dataset.id);const list=queue(practiceBank().questions,opts,state);if(!list.length){await go('mistakes');toast('這題今天已練過，明日可再練。');return;}await beginSession(list,opts,'extra');}
  else if(a==='daily'){options.essayIds=bank.essays.map(e=>e.id);options.ability='';options.scope='all';options.questionIds=bank.questions.filter(q=>isDue(state.memories[q.memoryId])&&!state.completedToday.has(q.memoryId)).map(q=>q.id);if(!options.questionIds.length){toast('目前沒有到期提醒，選一組新題繼續積累。');options.questionIds=undefined;}await go('library');}
  else if(a==='saved-practice'){options.questionIds=Object.values(state.favorites).filter(f=>f.saved).map(f=>f.questionId);options.scope='all';await go('library');}
  else if(a==='saved-quick'){options.quickScope='saved';await buildQuick();await go('quick');}
@@ -547,7 +569,10 @@ document.addEventListener('input',e=>{
  if(e.target.id==='written-correction'&&!saveError)queueWrittenCorrection(e.target.value,e.target.dataset.attempt);if(e.target.id==='written-answer'&&!saveError)queueWrittenDraft(e.target.value);if(e.target.id==='answer-input'&&session&&!saveError){session.drafts[currentQuestion().id]=e.target.value;void saveSession(true).catch(()=>{});}
 });
 addEventListener('beforeunload',e=>{if(writes.pending||writtenPending){e.preventDefault();e.returnValue='';}});
-addEventListener('online',()=>void sync());document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='hidden'&&repo&&page==='written')void saveWrittenDraft().catch(()=>{});if(document.visibilityState==='hidden'&&repo&&page==='practice')void saveSession().catch(()=>{});if(document.visibilityState==='visible'&&repo){void refresh().then(()=>{if(page==='home'||page==='history')render();});void sync();}});
+addEventListener('online',()=>{void sync();void refreshBank();});
+setInterval(()=>void refreshBank(),300000);
+document.addEventListener('visibilitychange',()=>{if(!document.hidden)void refreshBank();});
+document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='hidden'&&repo&&page==='written')void saveWrittenDraft().catch(()=>{});if(document.visibilityState==='hidden'&&repo&&page==='practice')void saveSession().catch(()=>{});if(document.visibilityState==='visible'&&repo){void refresh().then(()=>{if(page==='home'||page==='history')render();});void sync();}});
 async function boot(){
  try{auth=JSON.parse(localStorage.getItem('wenyan-auth-v1')||'null');if(auth?.token&&auth?.user?.id)await openAccount();else{auth=null;await openGuest();}}
  catch(e){root.innerHTML='<section class="auth"><h1>暫時未能載入</h1><p>'+esc(e.message)+'</p><p>請恢復網絡後重試；本機資料不會被清除。</p><button class="btn" data-action="retry">重試</button></section>';}

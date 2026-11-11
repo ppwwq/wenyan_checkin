@@ -189,5 +189,29 @@ test('school question files stay unavailable until a valid session is presented'
   const body = await account.json();
   const opened = await fetch(origin + '/content/local-private/school-original.json', { headers: { Authorization: 'Bearer ' + body.token } });
   assert.equal(opened.status, 200);
+  assert.equal(opened.headers.get('cache-control'),'no-store');
   assert.match(await opened.text(), /校本題幹/);
+});
+
+test('public JSON can be conditionally revalidated and changes receive a new ETag',async t=>{
+ const dir=await mkdtemp(path.join(tmpdir(),'wenyan-cache-'));
+ await mkdir(path.join(dir,'content'));
+ const file=path.join(dir,'content','bank.json');
+ await writeFile(file,'{"version":1}');
+ const app=createApp({databasePath:':memory:',staticRoot:dir});
+ await new Promise(resolve=>app.server.listen(0,'127.0.0.1',resolve));
+ t.after(async()=>{await new Promise(resolve=>app.server.close(resolve));app.close();await rm(dir,{recursive:true});});
+ const url='http://127.0.0.1:'+app.server.address().port+'/content/bank.json';
+ const first=await fetch(url),etag=first.headers.get('ETag');
+ assert.ok(etag);
+ assert.match(first.headers.get('Cache-Control'),/max-age=300/);
+ assert.deepEqual(await first.json(),{version:1});
+ const same=await fetch(url,{headers:{'If-None-Match':etag}});
+ assert.equal(same.status,304);
+ assert.equal(await same.text(),'');
+ await writeFile(file,'{"version":200}');
+ const changed=await fetch(url,{headers:{'If-None-Match':etag}});
+ assert.equal(changed.status,200);
+ assert.notEqual(changed.headers.get('ETag'),etag);
+ assert.deepEqual(await changed.json(),{version:200});
 });
